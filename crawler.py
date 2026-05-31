@@ -3,6 +3,7 @@ import re
 import json
 import sys
 import argparse
+import requests
 from datetime import datetime
 from dotenv import load_dotenv
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -120,34 +121,74 @@ def parse_video_title(title, upload_date_str=None):
     return metadata
 
 def get_youtube_videos(channel_url, max_videos=30):
-    """Fetches video metadata from YouTube channel using yt-dlp."""
-    print(f"Scanne YouTube-Kanal: {channel_url} (Max. {max_videos} Videos)...")
-    ydl_opts = {
-        'extract_flat': True,
-        'skip_download': True,
-        'playlistend': max_videos,
-        'quiet': True,
-    }
+    """Fetches video metadata from YouTube channel using RSS Feed as primary, yt-dlp as fallback."""
+    # Official Channel ID for Deutscher Bundestag
+    channel_id = "UCbh5D3EdIHP4YQA5X-eK1ug"
+    
+    print(f"Versuche Videos über YouTube RSS-Feed abzurufen (Channel ID: {channel_id})...")
+    rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     
     videos = []
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        try:
-            info = ydl.extract_info(channel_url, download=False)
-            if 'entries' in info:
-                for entry in info['entries']:
-                    if not entry:
-                        continue
+    try:
+        import xml.etree.ElementTree as ET
+        r = requests.get(rss_url, timeout=10)
+        if r.status_code == 200:
+            root = ET.fromstring(r.text)
+            ns = {
+                'atom': 'http://www.w3.org/2005/Atom',
+                'yt': 'http://www.youtube.com/xml/schemas/2015'
+            }
+            for entry in root.findall('atom:entry', ns):
+                video_id_el = entry.find('yt:videoId', ns)
+                title_el = entry.find('atom:title', ns)
+                published_el = entry.find('atom:published', ns)
+                
+                if video_id_el is not None and title_el is not None:
+                    video_id = video_id_el.text
+                    title = title_el.text
+                    published = published_el.text
+                    # convert ISO date (YYYY-MM-DD...) to YYYYMMDD
+                    upload_date = published[:10].replace("-", "")
+                    
                     videos.append({
-                        'id': entry.get('id'),
-                        'title': entry.get('title'),
-                        'upload_date': entry.get('upload_date'),
-                        'url': f"https://www.youtube.com/watch?v={entry.get('id')}"
+                        'id': video_id,
+                        'title': title,
+                        'upload_date': upload_date,
+                        'url': f"https://www.youtube.com/watch?v={video_id}"
                     })
-        except Exception as e:
-            print(f"Fehler beim Abrufen der YouTube-Videos: {e}")
-            
-    print(f"{len(videos)} Videos gefunden.")
-    return videos
+            print(f"Erfolgreich {len(videos)} Videos über RSS-Feed geladen.")
+    except Exception as e:
+        print(f"RSS-Feed konnte nicht geladen werden: {e}")
+
+    # Fallback to yt-dlp if RSS returned nothing
+    if not videos:
+        print(f"Weiche auf yt-dlp aus: Scanne YouTube-Kanal {channel_url} (Max. {max_videos} Videos)...")
+        ydl_opts = {
+            'extract_flat': True,
+            'skip_download': True,
+            'playlistend': max_videos,
+            'quiet': True,
+        }
+        
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            try:
+                info = ydl.extract_info(channel_url, download=False)
+                if 'entries' in info:
+                    for entry in info['entries']:
+                        if not entry:
+                            continue
+                        videos.append({
+                            'id': entry.get('id'),
+                            'title': entry.get('title'),
+                            'upload_date': entry.get('upload_date'),
+                            'url': f"https://www.youtube.com/watch?v={entry.get('id')}"
+                        })
+            except Exception as e:
+                print(f"Fehler beim Abrufen der YouTube-Videos über yt-dlp: {e}")
+                
+        print(f"{len(videos)} Videos über yt-dlp gefunden.")
+        
+    return videos[:max_videos]
 
 def get_transcript_text(video_id):
     """Retrieves and formats German transcript from YouTube."""
