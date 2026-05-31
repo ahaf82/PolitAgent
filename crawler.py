@@ -8,8 +8,10 @@ from dotenv import load_dotenv
 from youtube_transcript_api import YouTubeTranscriptApi
 import yt_dlp
 
-# Load local environment variables from .env
-load_dotenv()
+# Load local environment variables from .env relative to script directory
+script_dir = os.path.dirname(os.path.abspath(__file__))
+env_path = os.path.join(script_dir, ".env")
+load_dotenv(env_path)
 
 # We will initialize the Gemini client inside the API call to handle missing key gracefully
 def get_gemini_client():
@@ -194,13 +196,14 @@ Deine Aufgabe ist es, das beigefügte Transkript einer Bundestagssitzung objekti
 **WICHTIGE ANWEISUNGEN:**
 1. **Absolute Neutralität**: Vermeide jegliche Wertung, emotional geladene Wörter oder Parteilichkeit. Gib die Argumente aller Fraktionen (Koalition und Opposition) gleichermaßen fair, sachlich und in gleicher Detailtiefe wieder.
 2. **Deutsche Sprache**: Die Zusammenfassung muss komplett auf Deutsch verfasst sein.
-3. **Markdown-Format**: Strukturiere das Protokoll genau nach den folgenden Abschnitten unter Verwendung der exakten Überschriften.
-4. **Verlinkte Zeitstempel**: In der Chronologie musst du Zeitstempel aus dem Transkript verwenden und diese als klickbare YouTube-Links im Format `[HH:MM:SS](URL_MIT_SEKUNDEN)` formatieren.
+3. **Übersetzung des Titels**: Übersetze das englische Thema `{metadata['topic']}` sinnentsprechend, prägnant und professionell ins Deutsche und verwende diese deutsche Übersetzung als H1-Hauptüberschrift in der allerersten Zeile des Markdowns!
+4. **Markdown-Format**: Strukturiere das Protokoll genau nach den folgenden Abschnitten unter Verwendung der exakten Überschriften.
+5. **Verlinkte Zeitstempel**: In der Chronologie musst du Zeitstempel aus dem Transkript verwenden und diese als klickbare YouTube-Links im Format `[HH:MM:SS](URL_MIT_SEKUNDEN)` formatieren.
    Beispiel: Wenn ein Redebeitrag bei 02:15 beginnt, berechne die Sekunden (2*60 + 15 = 135) und verlinke es wie folgt: `[00:02:15]({video_url}&t=135)`.
 
 **GEWÜNSCHTE MARKDOWN-STRUKTUR:**
 
-# {metadata['topic']}
+# [Hier die deutsche Übersetzung des Themas einfügen]
 
 ## Sitzungs-Metadaten
 - **Sitzung:** {metadata['session']}. Sitzung
@@ -440,6 +443,17 @@ def main():
         if not summary_markdown:
             print(f"Fehler beim Erzeugen der Zusammenfassung für Video {v['id']}.")
             continue
+
+        # Extract German title from the first header line of the generated markdown
+        if client and summary_markdown:
+            lines = summary_markdown.strip().split('\n')
+            for line in lines:
+                if line.startswith('# '):
+                    german_title = line[2:].strip()
+                    if german_title:
+                        v['topic'] = german_title
+                        print(f"Deutsche Übersetzung für das Thema extrahiert: '{german_title}'")
+                        break
 
         # 3. Save markdown protocol
         os.makedirs(os.path.dirname(absolute_protocol_path), exist_ok=True)
