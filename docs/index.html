@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PolitAgent - Sachliche Bundestagsprotokolle & Analysen</title>
+    <meta name="description" content="Objektive, neutrale und detaillierte Protokolle und Zusammenfassungen der Bundestagssitzungen, generiert mittels KI und direkt verlinkt auf YouTube-Zeitstempel.">
+    <!-- Google Fonts: Outfit and Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main Style -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Marked.js for Markdown Parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="dark-mode">
+    <div class="app-container">
+        <!-- Sidebar: Session List & Filters -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="fa-solid fa-scale-balanced logo-icon"></i>
+                    <h1>Polit<span>Agent</span></h1>
+                </div>
+                <p class="subtitle">Bundestagsprotokolle & Analysen</p>
+            </div>
+            
+            <div class="search-filter-box">
+                <div class="search-wrapper">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" id="search-input" placeholder="Sitzung, Thema oder TOP suchen...">
+                </div>
+                
+                <div class="filter-row">
+                    <div class="select-wrapper">
+                        <i class="fa-solid fa-calendar-days select-icon"></i>
+                        <select id="date-filter">
+                            <option value="">Alle Daten</option>
+                        </select>
+                    </div>
+                    <div class="select-wrapper">
+                        <i class="fa-solid fa-list-ol select-icon"></i>
+                        <select id="session-filter">
+                            <option value="">Alle Sitzungen</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="sessions-list" class="sessions-list">
+                <!-- Session Cards populated dynamically -->
+                <div class="loading-state">
+                    <i class="fa-solid fa-circle-notch fa-spin"></i>
+                    <p>Lade Sitzungsdaten...</p>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content: Active Protocol Viewer -->
+        <main class="main-content">
+            <header class="main-header">
+                <div class="mobile-menu-trigger" id="mobile-menu-btn">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+                
+                <div class="header-actions">
+                    <button id="dark-mode-toggle" class="theme-toggle-btn" aria-label="Farbschema umschalten">
+                        <i class="fa-solid fa-sun icon-light"></i>
+                        <i class="fa-solid fa-moon icon-dark"></i>
+                    </button>
+                    <a href="https://github.com/ahaf82/PolitAgent" target="_blank" class="github-btn" id="github-link">
+                        <i class="fa-brands fa-github"></i> GitHub
+                    </a>
+                </div>
+            </header>
+
+            <div class="content-body">
+                <!-- Welcome View: Shown when no session is selected -->
+                <div id="welcome-view" class="welcome-container">
+                    <div class="welcome-card">
+                        <i class="fa-solid fa-gavel welcome-icon"></i>
+                        <h2>Willkommen bei PolitAgent</h2>
+                        <p>
+                            PolitAgent dokumentiert und analysiert die Plenarsitzungen des Deutschen Bundestags vollständig neutral, 
+                            sachlich und faktenbasiert. Jede Zusammenfassung gliedert die wichtigsten Anträge, Parteiargumente 
+                            und bietet eine chronologische Timeline mit direkten Sprungmarken in das Original-YouTube-Video.
+                        </p>
+                        <p class="instruction">
+                            Wählen Sie eine Sitzung in der linken Leiste aus, um das detaillierte Protokoll anzuzeigen.
+                        </p>
+                        <div class="welcome-stats">
+                            <div class="stat-item">
+                                <span id="stat-sessions" class="stat-num">0</span>
+                                <span class="stat-label">Dokumentierte TOPs</span>
+                            </div>
+                            <div class="stat-item">
+                                <span id="stat-days" class="stat-num">0</span>
+                                <span class="stat-label">Sitzungstage</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Protocol View: Renders the active Markdown -->
+                <div id="protocol-view" class="protocol-container hidden">
+                    <div class="protocol-header-controls">
+                        <button id="back-to-list-btn" class="back-btn">
+                            <i class="fa-solid fa-chevron-left"></i> Zurück zur Liste
+                        </button>
+                        <a id="external-youtube-link" href="#" target="_blank" class="yt-watch-btn">
+                            <i class="fa-brands fa-youtube"></i> Auf YouTube ansehen
+                        </a>
+                    </div>
+                    <div id="protocol-content" class="markdown-body">
+                        <!-- Markdown rendered here -->
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Main JS Application -->
+    <script src="app.js"></script>
+</body>
+</html>
