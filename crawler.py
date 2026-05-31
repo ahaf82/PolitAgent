@@ -4,6 +4,7 @@ import json
 import sys
 import argparse
 import requests
+import time
 from datetime import datetime
 from dotenv import load_dotenv
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -520,6 +521,12 @@ def main():
         }
         update_sessions_index(index_path, session_entry)
         success_count += 1
+        
+        # Sleep to respect YouTube's rate limits and prevent 429 errors
+        if i < len(videos_to_process):
+            sleep_time = 8
+            print(f"Pausiere für {sleep_time} Sekunden vor dem nächsten Video, um YouTube Rate-Limits zu vermeiden...")
+            time.sleep(sleep_time)
         
     print(f"\n=== Fertig! {success_count} von {len(videos_to_process)} Videos erfolgreich verarbeitet. ===")
 
