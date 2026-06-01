@@ -192,7 +192,8 @@ def get_youtube_videos(channel_url, max_videos=30):
     return videos[:max_videos]
 
 def get_transcript_text(video_id):
-    """Retrieves and formats German transcript from YouTube."""
+    """Retrieves and formats German transcript from YouTube using standard API or Playwright fallback."""
+    # 1. Try standard API first (fastest)
     try:
         api = YouTubeTranscriptApi()
         transcript_list = api.list(video_id)
@@ -202,11 +203,9 @@ def get_transcript_text(video_id):
             transcript = transcript_list.find_transcript(['de'])
         except Exception:
             try:
-                # Look for any transcript and translate to de, or just fallback
                 transcript = transcript_list.find_transcript(['en'])
                 print(f"Hinweis: Kein deutsches Transkript für {video_id} gefunden, weiche auf Englisch aus.")
             except Exception:
-                # Just get the first available transcript
                 transcript = next(iter(transcript_list))
                 print(f"Hinweis: Keine deutschen oder englischen Transkripte für {video_id} gefunden, nehme {transcript.language}.")
         
@@ -220,8 +219,81 @@ def get_transcript_text(video_id):
             formatted_transcript.append(f"[{timestamp}] {entry.text}")
             
         return "\n".join(formatted_transcript), len(data)
-    except Exception as e:
-        print(f"Fehler beim Laden des Transkripts für Video {video_id}: {e}")
+    except Exception as api_err:
+        print(f"Standard-API fehlgeschlagen für Video {video_id}: {api_err}")
+        print("Weiche auf robusten Playwright-Browser-Scraper aus...")
+        
+        # 2. Playwright Fallback (indistinguishable from real user)
+        try:
+            from playwright.sync_api import sync_playwright
+            
+            url = f"https://www.youtube.com/watch?v={video_id}"
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                context = browser.new_context(
+                    user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    locale='de-DE',
+                    viewport={'width': 1280, 'height': 800}
+                )
+                page = context.new_page()
+                page.goto(url)
+                
+                # Handle Consent Banner
+                try:
+                    consent_btn = page.locator('button:has-text("Alle akzeptieren"), button:has-text("Agree to all")').first
+                    consent_btn.wait_for(state="visible", timeout=3000)
+                    consent_btn.click()
+                    page.wait_for_timeout(1000)
+                except Exception:
+                    pass
+
+                # Expand description
+                try:
+                    expand_btn = page.locator('#expand, ytd-text-inline-expander #expand, #description-inner').first
+                    expand_btn.wait_for(state="visible", timeout=3000)
+                    expand_btn.click()
+                    page.wait_for_timeout(500)
+                except Exception:
+                    pass
+
+                # Click "Transkript anzeigen"
+                try:
+                    transcript_btn = page.locator('button:has-text("Transkript anzeigen"), button:has-text("Show transcript"), button[aria-label="Transkript anzeigen"]').first
+                    transcript_btn.wait_for(state="visible", timeout=4000)
+                    transcript_btn.scroll_into_view_if_needed()
+                    transcript_btn.click()
+                    page.wait_for_timeout(1000)
+                except Exception as btn_err:
+                    print(f"Konnte Transkript-Button nicht finden: {btn_err}")
+                    browser.close()
+                    return None, 0
+
+                # Wait for segments to load
+                try:
+                    page.wait_for_selector('transcript-segment-view-model', timeout=8000)
+                except Exception as seg_err:
+                    print(f"Transkript-Segmente wurden nicht geladen: {seg_err}")
+                    browser.close()
+                    return None, 0
+                
+                # Extract segments
+                segments = page.locator('transcript-segment-view-model')
+                count = segments.count()
+                
+                formatted_transcript = []
+                for i in range(count):
+                    seg = segments.nth(i)
+                    timestamp = seg.locator('.ytwTranscriptSegmentViewModelTimestamp').inner_text().strip()
+                    text = seg.locator('.ytAttributedStringHost').inner_text().strip()
+                    formatted_transcript.append(f"[{timestamp}] {text}")
+                    
+                browser.close()
+                if formatted_transcript:
+                    print(f"Playwright-Scraper erfolgreich: {len(formatted_transcript)} Segmente geladen.")
+                    return "\n".join(formatted_transcript), len(formatted_transcript)
+        except Exception as pw_err:
+            print(f"Playwright-Scraper fehlgeschlagen für {video_id}: {pw_err}")
+            
         return None, 0
 
 def summarize_with_gemini(client, title, metadata, transcript_text, video_url):
