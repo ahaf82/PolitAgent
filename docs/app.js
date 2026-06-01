@@ -223,12 +223,36 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Parse and set content
             let htmlContent = marked.parse(markdownText);
-            
-            // Clean up HH:MM:SS timestamps to MM:SS if hours are 00 (e.g. 00:03:46 -> 03:46)
-            // This makes the UI extremely clean and prevents confusion with hundredths of a second
-            htmlContent = htmlContent.replace(/\b00:(\d{2}:\d{2})\b/g, '$1');
-            
             protocolContent.innerHTML = htmlContent;
+            
+            // Clean up scrambled Gemini timestamps using the absolute ground truth of the video URL 't=' seconds parameter.
+            // This prevents Gemini from shifting timestamps to the left (e.g., writing '04:10:00' for a 4m 10s video segment).
+            const timelineLinks = protocolContent.querySelectorAll('a');
+            timelineLinks.forEach(link => {
+                const href = link.getAttribute('href');
+                if (href && (href.includes('&t=') || href.includes('?t='))) {
+                    const match = href.match(/[&?]t=(\d+)/);
+                    if (match) {
+                        const totalSeconds = parseInt(match[1], 10);
+                        const hours = Math.floor(totalSeconds / 3600);
+                        const minutes = Math.floor((totalSeconds % 3600) / 60);
+                        const seconds = totalSeconds % 60;
+                        
+                        let formattedTime = '';
+                        if (hours > 0) {
+                            formattedTime = `${hours}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                        } else {
+                            formattedTime = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                        }
+                        
+                        // Only replace if the text matches a timestamp format (digits and colons)
+                        const originalText = link.textContent.trim();
+                        if (/^\d+(:\d+)+$/.test(originalText)) {
+                            link.textContent = formattedTime;
+                        }
+                    }
+                }
+            });
             
             // Scroll reader back to top
             protocolContent.scrollTop = 0;
