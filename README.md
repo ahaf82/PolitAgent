@@ -1,19 +1,20 @@
 # ⚖️ PolitAgent - Neutraler Bundestag-Protokollant & Web-Dashboard
 
-PolitAgent ist ein vollautomatisches System zur sachlichen, parteipolitisch neutralen und strukturierten Dokumentation und Analyse der Plenarsitzungen des Deutschen Bundestags. 
+PolitAgent ist ein vollautomatisches System zur sachlichen, parteipolitisch neutralen und strukturierten Dokumentation und Analyse der Plenarsitzungen des Deutschen Bundestags.
 
-Die Sitzungen werden vom offiziellen YouTube-Kanal des Bundestags erfasst, die Transkripte analysiert und mithilfe von Gemini in detaillierte Protokolle inklusive einer interaktiven timeline mit direkten YouTube-Sprüngen übersetzt. Ein hochauflösendes Web-Dashboard (optimiert für GitHub Pages) stellt diese Protokolle barrierefrei zur Verfügung.
+Die Bundestagsdebatten werden vom offiziellen YouTube-Kanal erfasst, die Transkripte analysiert und mithilfe von Gemini in detaillierte Protokolle inklusive einer interaktiven Timeline mit direkten YouTube-Sprüngen übersetzt. Ein hochauflösendes Web-Dashboard (optimiert für GitHub Pages) stellt diese Protokolle barrierefrei zur Verfügung.
 
 ---
 
 ## 🚀 Features
 
-- **Automatischer YouTube-Crawler**: Findet neue Plenarsitzungen und liest Transkripte sekundenschnell über die YouTube-Subtitle-Schnittstellen aus.
-- **Smarte Gemini-Protokollierung**: Nutzt Gemini 2.5, um stundenlange Debatten absolut neutral und strukturiert zusammenzufassen.
-- **Mehrperspektivische Darstellung**: Argumente aller Fraktionen (Koalition wie Opposition) werden gleichberechtigt und wertungsfrei aufbereitet.
-- **Interaktive Timeline**: Jeder wichtige Debattenpunkt enthält eine Sprungmarke, die direkt zur passenden Sekunde im YouTube-Video verlinkt.
-- **Premium Glassmorphism-Dashboard**: Modernes Web-Interface mit Echtzeit-Suche, Filterung nach Datum/Sitzung, responsivem Design und Dark Mode.
-- **Vollautomatischer Betrieb (Serverless)**: Dank integrierter GitHub Action aktualisiert sich das System täglich vollkommen autark und kostenlos.
+- **Automatischer YouTube-Crawler**: Findet neue Plenarsitzungen und Ausschussdebatten über YouTube RSS und `yt-dlp`.
+- **Robuster Playwright-Scraper (Bypass)**: Da YouTube Zugriffe von Cloud-Servern blockiert, nutzt der Crawler Playwright Chromium lokal als Fallback. Er akzeptiert Cookiedialoge, expandiert die Beschreibung und führt direkte JavaScript-Clicks aus, um Transkripte sicher auszulesen.
+- **Fehlertolerante Gemini-API**: Verwendet `gemini-2.5-flash` mit einem **automatischen Rate-Limit- und Überlastungs-Handler**. Tritt ein Fehler (HTTP 429 oder 503) auf, schläft das Skript automatisch mit exponentiellem Backoff und versucht es erneut.
+- **Smarte Protokollierung**: Generiert stundenlange Debatten absolut neutral und übersetzt englische Themen sinnvoll ins Deutsche.
+- **Interaktive Timeline**: Jeder Redebeitrag enthält eine verlinkte Zeitangabe, die direkt zur entsprechenden Sekunde im YouTube-Video führt.
+- **Premium Glassmorphism-Dashboard**: Modernes Web-Interface mit Echtzeit-Suche, Filterung nach Datum/Sitzung, responsivem Design, Statistik-Karten und Dark Mode Toggle.
+- **Lokale Hintergrund-Automatisierung**: Dank des Antigravity-Schedulers läuft der Crawler vollkommen geräuschlos im Hintergrund Ihrer lokalen Maschine und synchronisiert Updates vollautomatisch mit GitHub Pages.
 
 ---
 
@@ -21,9 +22,6 @@ Die Sitzungen werden vom offiziellen YouTube-Kanal des Bundestags erfasst, die T
 
 ```
 PolitAgent/
-├── .github/
-│   └── workflows/
-│       └── crawl.yml           # GitHub Action für den täglichen Crawler-Lauf
 ├── docs/                       # Web-Dashboard (GitHub Pages Stammverzeichnis)
 │   ├── data/
 │   │   └── sessions.json       # Zentraler Index aller Sitzungen und Metadaten
@@ -48,6 +46,7 @@ Stellen Sie sicher, dass Python (3.11+) installiert ist.
 Klonen Sie das Repository und installieren Sie die Abhängigkeiten:
 ```bash
 pip install -r requirements.txt
+playwright install chromium
 ```
 
 ### 3. API-Schlüssel einrichten
@@ -61,8 +60,7 @@ pip install -r requirements.txt
    ```
    *(Einen kostenlosen API-Key erhalten Sie im [Google AI Studio](https://aistudio.google.com/))*
 
-### 4. Crawler ausführen
-Führen Sie den Crawler aus, um neue Bundestagssitzungen zu analysieren:
+### 4. Crawler manuell ausführen
 ```bash
 python crawler.py
 ```
@@ -78,27 +76,29 @@ python -m http.server 8000
 
 ---
 
-## ☁️ Automatisches Deployment (GitHub Pages & Actions)
+## 🤖 Automatisierung (Antigravity Scheduled Task)
 
-Das Projekt ist so vorkonfiguriert, dass es sich einmal täglich vollautomatisch im Hintergrund aktualisiert:
+Da YouTube direkte API-Anfragen nach Untertiteln von Cloud-Rechenzentren (wie GitHub Actions oder AWS/Azure-Instanzen) rigoros blockiert, läuft der Crawler als **hybride Lösung** über einen lokalen Scheduler:
 
-1. **GitHub Repository erstellen**: Erstellen Sie ein neues, leeres Repository namens `PolitAgent` unter Ihrem GitHub-Konto.
-2. **Push des Codes**: Verknüpfen Sie Ihren lokalen Ordner und pushen Sie den Stand:
-   ```bash
-   git remote add origin git@github.com:ahaf82/PolitAgent.git
-   git branch -M main
-   git push -u origin main
-   ```
-3. **Gemini API Key als Secret hinterlegen**:
-   - Gehen Sie in Ihrem GitHub-Repository auf **Settings > Secrets and variables > Actions**.
-   - Erstellen Sie ein neues Repository-Secret namens `GEMINI_API_KEY` und fügen Sie Ihren Gemini API-Schlüssel dort ein.
-4. **GitHub Pages aktivieren**:
-   - Gehen Sie im Repository auf **Settings > Pages**.
+### Funktionsweise
+1. **Scheduled Task in Antigravity:** Auf Ihrer lokalen Instanz ist ein Scheduled Task registriert, der den Crawler **zweimal täglich** (`08:00` und `20:00` Uhr) im Hintergrund startet.
+2. **Lokaler Durchlauf (Wohnzimmer-IP):** Da der Crawler Ihre private DSL-Verbindung nutzt, greift er ohne Sperren per Playwright auf YouTube zu, zieht die Transkripte und übersetzt sie via Gemini.
+3. **Automatischer Git-Push:** Am Ende der Pipeline committet und pusht das Skript die neuen Markdown-Dateien und den aktualisierten Index automatisch in Ihr GitHub-Repository.
+4. **Instant Update:** GitHub Pages baut das statische Dashboard live neu. Die Updates sind sofort weltweit unter Ihrer GitHub Pages URL erreichbar!
+
+*Sollte Ihr PC um 08:00 Uhr morgens ausgeschaltet sein, holt der Antigravity-Dienst die verpasste Ausführung automatisch nach, sobald Sie den Rechner einschalten.*
+
+---
+
+## ☁️ Cloud-Hosting (GitHub Pages)
+
+So schalten Sie das Web-Dashboard weltweit frei:
+
+1. **GitHub Pages aktivieren**:
+   - Gehen Sie in Ihrem GitHub-Repository (`ahaf82/PolitAgent`) auf **Settings > Pages**.
    - Wählen Sie unter *Build and deployment > Source* die Option **Deploy from a branch**.
    - Wählen Sie als Branch **`main`** und als Ordner **`/docs`** aus. Speichern Sie.
-   - Nach wenigen Minuten ist Ihr interaktives Dashboard weltweit erreichbar unter: `https://<IhrUsername>.github.io/PolitAgent/`
-
-Die GitHub Action sucht ab jetzt jede Nacht um 4:00 Uhr UTC automatisch nach neuen Bundestagsvideos, erstellt die Protokolle und aktualisiert die Webseite!
+   - Nach wenigen Minuten ist Ihr interaktives Dashboard weltweit erreichbar unter: `https://ahaf82.github.io/PolitAgent/`
 
 ---
 
