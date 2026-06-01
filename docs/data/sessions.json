@@ -11,6 +11,17 @@
     "processed_at": "2026-06-01T18:40:54.335985"
   },
   {
+    "id": "KIBgYYoA3Ig",
+    "title": "81. Sitzung vom 22.05.2026. TOP ZP 10: Weiterentwicklung der Apothekenversorgung",
+    "session": 81,
+    "date": "2026-05-22",
+    "top": "ZP 10",
+    "topic": "Weiterentwicklung der Apothekenversorgung",
+    "summary_path": "protocols/session_81/zp_10_weiterentwicklung_der_apothekenversorgung.md",
+    "youtube_url": "https://www.youtube.com/watch?v=KIBgYYoA3Ig",
+    "processed_at": "2026-06-01T18:47:05.758200"
+  },
+  {
     "id": "WLavtNOFht8",
     "title": "81. Sitzung vom 22.05.2026. TOP 6: Antragsloses Kindergeld",
     "session": 81,
@@ -108,5 +119,49 @@
     "summary_path": "protocols/session_80/17_zp_5_zukunft_des_handwerks_wirtschaft_2045.md",
     "youtube_url": "https://www.youtube.com/watch?v=K2Lkl3oUzXg",
     "processed_at": "2026-06-01T18:34:26.224608"
+  },
+  {
+    "id": "JjbrYYC6y8w",
+    "title": "80. Sitzung vom 21.05.2026. TOP 14: Änderung des Luftverkehrsteuergesetzes",
+    "session": 80,
+    "date": "2026-05-21",
+    "top": "14",
+    "topic": "Änderung des Luftverkehrsteuergesetzes",
+    "summary_path": "protocols/session_80/14_aenderung_des_luftverkehrsteuergesetzes.md",
+    "youtube_url": "https://www.youtube.com/watch?v=JjbrYYC6y8w",
+    "processed_at": "2026-06-01T18:45:31.070136"
+  },
+  {
+    "id": "q52ZeeEV8eE",
+    "title": "80th Session, Agenda Item 8: Social Cohesion through Engagement - Volunteering",
+    "session": 80,
+    "date": "N/A",
+    "top": "8",
+    "topic": "Sozialer Zusammenhalt durch Engagement – Das Ehrenamt als Rückgrat unserer Gesellschaft",
+    "summary_path": "protocols/session_80/8_80th_session_agenda_item_8_social_cohesion_through.md",
+    "youtube_url": "https://www.youtube.com/watch?v=q52ZeeEV8eE",
+    "processed_at": "2026-06-01T18:59:15.167444"
+  },
+  {
+    "id": "e3YzhlN1aL4",
+    "title": "24th Meeting of the Committee on Sport and Volunteering",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "24. Sitzung des Ausschusses für Sport und Ehrenamt",
+    "summary_path": "protocols/session_unknown/top_unknown_24th_meeting_of_the_committee_on_sport_and_volunte.md",
+    "youtube_url": "https://www.youtube.com/watch?v=e3YzhlN1aL4",
+    "processed_at": "2026-06-01T18:51:31.593097"
+  },
+  {
+    "id": "Y1ADQfJYN04",
+    "title": "80th Session, Agenda Item 24: Sports Promotion Act",
+    "session": 0,
+    "date": "N/A",
+    "top": "24",
+    "topic": "Gesetz zur Förderung des Spitzensports (80. Sitzung, TOP 24)",
+    "summary_path": "protocols/session_unknown/24_80th_session_agenda_item_24_sports_promotion_act.md",
+    "youtube_url": "https://www.youtube.com/watch?v=Y1ADQfJYN04",
+    "processed_at": "2026-06-01T18:53:40.866334"
   }
 ]

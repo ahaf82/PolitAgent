@@ -89,7 +89,7 @@ def parse_video_title(title, upload_date_str=None):
         return metadata
 
     # Generische Suche nach Sitzung, Datum und TOP als Fallback
-    session_match = re.search(r'(\d+)\.?\s*(?:Sitzung|Session)', title, re.IGNORECASE)
+    session_match = re.search(r'(\d+)(?:st|nd|rd|th)?\.?\s*(?:Sitzung|Session)', title, re.IGNORECASE)
     if session_match:
         metadata["session"] = int(session_match.group(1))
 
@@ -130,6 +130,7 @@ def get_youtube_videos(channel_url, max_videos=30):
     rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     
     videos = []
+    rss_success = False
     try:
         import xml.etree.ElementTree as ET
         r = requests.get(rss_url, timeout=10)
@@ -158,12 +159,13 @@ def get_youtube_videos(channel_url, max_videos=30):
                         'url': f"https://www.youtube.com/watch?v={video_id}"
                     })
             print(f"Erfolgreich {len(videos)} Videos über RSS-Feed geladen.")
+            rss_success = True
     except Exception as e:
         print(f"RSS-Feed konnte nicht geladen werden: {e}")
 
-    # Fallback to yt-dlp if RSS returned nothing
-    if not videos:
-        print(f"Weiche auf yt-dlp aus: Scanne YouTube-Kanal {channel_url} (Max. {max_videos} Videos)...")
+    # Fallback/extension with yt-dlp if RSS failed or if we need more than 15 videos
+    if not rss_success or max_videos > len(videos):
+        print(f"Weiche auf yt-dlp aus / lade weitere Videos: Scanne YouTube-Kanal {channel_url} (Max. {max_videos} Videos)...")
         ydl_opts = {
             'extract_flat': True,
             'skip_download': True,
@@ -171,6 +173,7 @@ def get_youtube_videos(channel_url, max_videos=30):
             'quiet': True,
         }
         
+        ytdlp_videos = []
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             try:
                 info = ydl.extract_info(channel_url, download=False)
@@ -178,7 +181,7 @@ def get_youtube_videos(channel_url, max_videos=30):
                     for entry in info['entries']:
                         if not entry:
                             continue
-                        videos.append({
+                        ytdlp_videos.append({
                             'id': entry.get('id'),
                             'title': entry.get('title'),
                             'upload_date': entry.get('upload_date'),
@@ -187,7 +190,14 @@ def get_youtube_videos(channel_url, max_videos=30):
             except Exception as e:
                 print(f"Fehler beim Abrufen der YouTube-Videos über yt-dlp: {e}")
                 
-        print(f"{len(videos)} Videos über yt-dlp gefunden.")
+        print(f"{len(ytdlp_videos)} Videos über yt-dlp gefunden.")
+        
+        # Merge lists, keeping RSS videos first and adding new ones from yt-dlp
+        existing_ids = {v['id'] for v in videos}
+        for v in ytdlp_videos:
+            if v['id'] not in existing_ids:
+                videos.append(v)
+                existing_ids.add(v['id'])
         
     return videos[:max_videos]
 
@@ -249,48 +259,101 @@ def get_transcript_text(video_id):
 
                 # Expand description
                 try:
-                    expand_btn = page.locator('#expand, ytd-text-inline-expander #expand, #description-inner').first
+                    expand_btn = page.locator('#expand, ytd-text-inline-expander #expand, #description-inner, .ytd-text-inline-expander').first
                     expand_btn.wait_for(state="visible", timeout=3000)
-                    expand_btn.click()
-                    page.wait_for_timeout(500)
-                except Exception:
-                    pass
+                    expand_btn.scroll_into_view_if_needed()
+                    expand_btn.click(force=True)
+                    page.wait_for_timeout(1000)
+                except Exception as exp_err:
+                    print(f"Konnte Beschreibung nicht erweitern: {exp_err}")
 
                 # Click "Transkript anzeigen"
+                clicked = False
                 try:
                     transcript_btn = page.locator('button:has-text("Transkript anzeigen"), button:has-text("Show transcript"), button[aria-label="Transkript anzeigen"]').first
-                    transcript_btn.wait_for(state="visible", timeout=4000)
+                    transcript_btn.wait_for(state="attached", timeout=4000)
                     transcript_btn.scroll_into_view_if_needed()
-                    transcript_btn.click()
-                    page.wait_for_timeout(1000)
+                    
+                    try:
+                        transcript_btn.click(timeout=3000)
+                        clicked = True
+                        print("Transkript-Button normal geklickt.")
+                    except Exception:
+                        print("Normaler Klick fehlgeschlagen, versuche erzwungenen Klick...")
+                        transcript_btn.click(force=True)
+                        clicked = True
+                        print("Transkript-Button erzwungen geklickt.")
+                    page.wait_for_timeout(1500)
                 except Exception as btn_err:
-                    print(f"Konnte Transkript-Button nicht finden: {btn_err}")
-                    browser.close()
-                    return None, 0
+                    print(f"Konnte Transkript-Button über Locator nicht klicken: {btn_err}")
+                
+                # Direct JS click backup if Locator failed
+                if not clicked:
+                    try:
+                        print("Versuche direkten Klick per JavaScript (Backup)...")
+                        page.evaluate("""() => {
+                            const btns = Array.from(document.querySelectorAll('button'));
+                            const btn = btns.find(b => {
+                                const text = (b.textContent || '').toLowerCase();
+                                const label = (b.getAttribute('aria-label') || '').toLowerCase();
+                                return text.includes('transkript') || text.includes('transcript') || label.includes('transkript') || label.includes('transcript');
+                            });
+                            if (btn) {
+                                btn.click();
+                                return true;
+                            }
+                            return false;
+                        }""")
+                        page.wait_for_timeout(2000)
+                        clicked = True
+                    except Exception as js_err:
+                        print(f"JavaScript-Backup-Klick fehlgeschlagen: {js_err}")
 
                 # Wait for segments to load
                 try:
                     page.wait_for_selector('transcript-segment-view-model', timeout=8000)
                 except Exception as seg_err:
                     print(f"Transkript-Segmente wurden nicht geladen: {seg_err}")
-                    browser.close()
-                    return None, 0
+                    # Try one more JS backup in case the panel is open but selectors are slightly different
+                    try:
+                        page.wait_for_timeout(2000)
+                    except:
+                        pass
                 
                 # Extract segments
                 segments = page.locator('transcript-segment-view-model')
                 count = segments.count()
                 
                 formatted_transcript = []
+                # Fallback to older transcript selectors if the new view-model is not found
+                if count == 0:
+                    print("Keine transcript-segment-view-model Segmente gefunden, suche nach alternativen Selektoren...")
+                    segments = page.locator('ytd-transcript-segment-renderer, .ytd-transcript-segment-renderer')
+                    count = segments.count()
+                
                 for i in range(count):
                     seg = segments.nth(i)
-                    timestamp = seg.locator('.ytwTranscriptSegmentViewModelTimestamp').inner_text().strip()
-                    text = seg.locator('.ytAttributedStringHost').inner_text().strip()
-                    formatted_transcript.append(f"[{timestamp}] {text}")
+                    try:
+                        timestamp_el = seg.locator('.ytwTranscriptSegmentViewModelTimestamp, .segment-timestamp, [class*="Timestamp"]').first
+                        text_el = seg.locator('.ytAttributedStringHost, .segment-text, [class*="Text"]').first
+                        
+                        timestamp = timestamp_el.inner_text().strip()
+                        text = text_el.inner_text().strip()
+                        formatted_transcript.append(f"[{timestamp}] {text}")
+                    except Exception as ext_err:
+                        try:
+                            lines = seg.inner_text().strip().split('\n')
+                            if len(lines) >= 2:
+                                formatted_transcript.append(f"[{lines[0]}] {lines[1]}")
+                        except:
+                            pass
                     
                 browser.close()
                 if formatted_transcript:
                     print(f"Playwright-Scraper erfolgreich: {len(formatted_transcript)} Segmente geladen.")
                     return "\n".join(formatted_transcript), len(formatted_transcript)
+                else:
+                    print("Playwright-Scraper konnte keine Segmente extrahieren.")
         except Exception as pw_err:
             print(f"Playwright-Scraper fehlgeschlagen für {video_id}: {pw_err}")
             
@@ -349,19 +412,30 @@ Hier ist das Transkript der Sitzung mit Zeitstempeln:
 {transcript_text}
 """
     
-    try:
-        from google.genai import types
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                system_instruction="Du bist ein neutraler, sachlicher Redaktionsassistent namens PolitAgent für den Deutschen Bundestag."
+    max_retries = 3
+    retry_delay = 30
+    for attempt in range(1, max_retries + 1):
+        try:
+            from google.genai import types
+            response = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction="Du bist ein neutraler, sachlicher Redaktionsassistent namens PolitAgent für den Deutschen Bundestag."
+                )
             )
-        )
-        return response.text
-    except Exception as e:
-        print(f"Fehler bei der Gemini-API-Generierung: {e}")
-        return None
+            return response.text
+        except Exception as e:
+            err_msg = str(e)
+            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
+            if is_transient:
+                if attempt < max_retries:
+                    print(f"Temporärer Gemini API Fehler ({err_msg}). Versuche es in {retry_delay} Sekunden erneut (Versuch {attempt}/{max_retries})...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+            print(f"Fehler bei der Gemini-API-Generierung: {e}")
+            return None
 
 def update_sessions_index(index_path, new_session):
     """Updates the central sessions.json index file, keeping it sorted by date desc."""
