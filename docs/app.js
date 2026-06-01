@@ -222,7 +222,13 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             // Parse and set content
-            protocolContent.innerHTML = marked.parse(markdownText);
+            let htmlContent = marked.parse(markdownText);
+            
+            // Clean up HH:MM:SS timestamps to MM:SS if hours are 00 (e.g. 00:03:46 -> 03:46)
+            // This makes the UI extremely clean and prevents confusion with hundredths of a second
+            htmlContent = htmlContent.replace(/\b00:(\d{2}:\d{2})\b/g, '$1');
+            
+            protocolContent.innerHTML = htmlContent;
             
             // Scroll reader back to top
             protocolContent.scrollTop = 0;
