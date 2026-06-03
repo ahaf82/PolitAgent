@@ -1,0 +1,52 @@
+# Beendigung der Mitwirkung am Weltklimarat (IPCC)
+
+## Sitzungs-Metadaten
+- **Sitzung:** 62. Sitzung
+- **Datum:** 2026-03-05
+- **Tagesordnungspunkt (TOP):** 24
+- **Originaltitel:** 62. Sitzung vom 05.03.2026. TOP 24: Beendigung der Mitwirkung am Weltklimarat (IPCC)
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=3FjIP9w3khQ)
+
+## Kurzzusammenfassung
+Die Debatte behandelte den Antrag der AfD-Fraktion zur Beendigung der deutschen Mitwirkung am Weltklimarat (IPCC). Die AfD argumentierte, der IPCC sei ein politisiertes Gremium, dessen Aussagen auf unsicheren Modellen basierten und politische Debatten beendeten. Die anderen Fraktionen (CDU/CSU, Bündnis 90/Die Grünen, SPD, Die Linke) lehnten den Antrag mehrheitlich ab und betonten die Bedeutung des IPCC für die globale Klimaforschung und internationale Zusammenarbeit. Während die Koalitionsparteien die wissenschaftliche Integrität und die Notwendigkeit der deutschen Beteiligung hervorhoben, kritisierte Die Linke die politischen Filterungen der IPCC-Berichte, lehnte aber ebenfalls einen Austritt Deutschlands ab.
+
+## Kernaussagen und Positionen der Fraktionen
+- **AfD**:
+  - Kritisiert, dass IPCC-Ergebnisse als Autoritätsargument genutzt werden, um Debatten zu beenden, und Wissenschaft von Zweifel und Kritik lebe, nicht von politischem Interesse.
+  - Behauptet, viele zentrale IPCC-Aussagen basierten auf unsicheren Modellen und Szenarien statt auf Messergebnissen, was zu falschen politischen Schlussfolgerungen führe (z.B. CO2-Abgabe, fragwürdige Winterprognosen).
+  - Fordert eine klare Trennung von Messdaten, Modellannahmen und politischen Schlussfolgerungen.
+  - Kritisiert, dass die "Summary for Policymakers" Unsicherheiten und abweichende wissenschaftliche Meinungen verschweige.
+  - Schlägt vor, dass Deutschland die Mitwirkung und finanzielle Unterstützung am IPCC beendet und stattdessen eine transparente nationale Politikberatung zu Umwelt- und Klimafragen errichtet.
+- **CDU/CSU**:
+  - Hält die Mitwirkung Deutschlands im IPCC für sinnvoll und richtig, da der Klimawandel ein globales Problem sei, das globale Zusammenarbeit erfordere.
+  - Betont, dass über 600 Experten aus 111 Ländern im IPCC arbeiten, was einen wissenschaftlichen Diskurs mit unterschiedlichen Meinungen gewährleiste und die Arbeit transparent sei.
+  - Erklärt den finanziellen Beitrag Deutschlands als moderat und vergleichbar mit anderen Industrieländern.
+  - Lehnt einen Rückzug aus dem IPCC ab und verweist auf positive Entwicklungen in den USA (z.B. Kalifornien, Texas) im Bereich erneuerbare Energien.
+  - Sieht den IPCC als wichtige internationale Diskussionsplattform, die Wissen bündelt und eine Diskussionsgrundlage für demokratische Entscheidungen schafft.
+- **Bündnis 90/Die Grünen**:
+  - Bezeichnet den IPCC als eines der kompetentesten und transparentesten Gremien weltweit, dessen Arbeitsprozess (Wissenschaftler bewerten, Regierungen kommentieren) nachvollziehbar sei.
+  - Kritisiert die AfD für mangelnde Sorgfalt bei Quellenangaben und fehlende Kompetenz in Umweltfragen.
+  - Richtet scharfe Kritik an die SPD wegen angeblicher "Heuchelei und Rückgratlosigkeit" in der Klimapolitik, insbesondere im Hinblick auf das Gebäudeenergiegesetz und die "Grüngasquote", die fossile Abhängigkeiten verstärke und im Interesse von Lobbyisten liege.
+  - Fordert die SPD auf, sich für den Klimaschutz einzusetzen und Rückgrat zu zeigen.
+- **SPD**:
+  - Kritisiert die Grünen-Rednerin dafür, die Debatte über den AfD-Antrag für Angriffe auf eine andere demokratische Partei zu missbrauchen.
+  - Unterstreicht, dass der Klimawandel real sei und seine Folgen (Dürre, Starkregen) in Deutschland sichtbar werden.
+  - Definiert den IPCC als unverzichtbare Quelle verlässlicher wissenschaftlicher Erkenntnisse, der weltweit Studien sammelt und bewertet, ohne selbst Politik zu machen oder Gesetze zu beschließen.
+  - Betont das aufwendige Prüfverfahren des IPCC, das Hunderte Wissenschaftler und Tausende Kommentare einbezieht und somit wissenschaftliche Arbeit, keine Ideologie, darstelle.
+  - Warnt, ein Austritt Deutschlands würde die Mitwirkung deutscher Wissenschaftler beenden und einen Rückzug aus der internationalen Zusammenarbeit bedeuten, der niemandem helfe.
+- **Die Linke**:
+  - Stellt klar, dass der IPCC kein rein wissenschaftliches, sondern ein "intergovernmental" (zwischenstaatliches) Organ sei, bei dem Staaten mitentscheiden, welche Inhalte in die Berichte gelangen.
+  - Nennt als Beispiel, dass unbequeme wissenschaftliche Erkenntnisse (z.B. zu pflanzenbasierten Proteinen) durch Lobbyismus aus den finalen Berichten gefiltert würden.
+  - Kritisiert, dass die IPCC-Prognosen zu optimistisch seien und nicht bewiesene "Technikfantasien" einrechneten, was zur Verharmlosung der Realität führe.
+  - Spricht sich gegen einen Austritt Deutschlands aus, fordert aber, dass sich Deutschland dafür einsetzt, dass wissenschaftliche Erkenntnisse im IPCC ungefiltert bleiben.
+  - Fordert einen "radikal sozialen" Klimaschutz.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=0)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet den Tagesordnungspunkt 24 zur Beratung des Antrags der AfD-Fraktion mit dem Titel "Beendigung der Mitwirkung der Bundesrepublik Deutschland am Zwischenstaatlichen Ausschuss für Klimaänderungen und Neuausrichtung der nationalen wissenschaftlichen Politikberatung zu Umwelt- und Klimathemen". Für die Aussprache wurde eine Dauer von 20 Minuten vereinbart.
+- **[00:00:24](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=24)** - **Dr. Ingo Hahn (AfD)**: Eröffnet die Aussprache und kritisiert, dass der Weltklimarat (IPCC) als Autoritätsargument genutzt werde, um Debatten zu beenden. Er betont, Wissenschaft lebe von Zweifel und Kritik, und hinterfragt die Verlässlichkeit von IPCC-Aussagen, die auf unsicheren Modellen statt Messergebnissen basieren. Als Beispiel nennt er eine zurückgezogene "Nature"-Publikation und eine fragwürdige Winterprognose von Professor Latif. Er fordert eine klare Trennung von Messdaten, Modellannahmen und politischen Schlussfolgerungen und kritisiert, dass die "Summary for Policymakers" Unsicherheiten und abweichende Meinungen verschweige. Sein Antrag fordert die Beendigung der deutschen Mitwirkung und finanziellen Unterstützung des IPCC sowie die Einrichtung einer transparenten nationalen Politikberatung.
+- **[00:05:53](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=353)** - **Anna Aeikens (CDU/CSU)**: Befürwortet die deutsche Mitwirkung im IPCC, da Klimawandel ein globales Problem sei, das globale Lösungen erfordere. Sie hebt hervor, dass der IPCC über 600 Experten aus 111 Ländern umfasse, was einen breiten wissenschaftlichen Diskurs gewährleiste. Der deutsche Kostenbeitrag sei moderat. Sie lehnt einen Austritt Deutschlands ab und verweist auf US-Bundesstaaten wie Kalifornien und Texas, die trotz lokal unterschiedlicher politischer Ausrichtungen im Ausbau erneuerbarer Energien führend seien. Sie betont die Wichtigkeit globaler Zusammenarbeit.
+- **[00:09:06](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=546)** - **Lisa Badum (Bündnis 90/Die Grünen)**: Bezeichnet den IPCC als transparentes und kompetentes Gremium. Sie kritisiert die AfD für Mängel bei Quellenangaben und Inkompetenz. Zudem greift sie die SPD an, der sie "Heuchelei und Rückgratlosigkeit" in der Klimapolitik vorwirft, insbesondere im Zusammenhang mit dem Gebäudeenergiegesetz und der "Grüngasquote", die ihrer Ansicht nach die Abhängigkeit von fossilen Energien fördere und Lobbyinteressen diene. Sie fordert die SPD auf, mutiger für den Klimaschutz einzustehen.
+- **[00:12:30](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=750)** - **Jakob Blankenburg (SPD)**: Kritisiert die vorherige Rednerin der Grünen dafür, eine Debatte über einen AfD-Antrag für Angriffe auf eine andere demokratische Partei zu nutzen. Er betont die Realität des Klimawandels und die Notwendigkeit verlässlicher wissenschaftlicher Erkenntnisse, die der IPCC liefere. Er erklärt, der IPCC sammle und bewerte weltweit wissenschaftliche Studien, ohne selbst Gesetze zu beschließen. Er warnt, ein deutscher Austritt würde die Mitwirkung deutscher Wissenschaftler beenden und einen Rückzug aus internationaler Zusammenarbeit bedeuten, der keine Lösung für Klimaprobleme biete. Er lehnt den Antrag ab.
+- **[00:16:33](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=993)** - **Dr. Fabian Fahl (Die Linke)**: Erläutert, dass der IPCC als "intergovernmental" (zwischenstaatlich) auch politisch beeinflusst sei und Staaten mitentscheiden, was in den Berichten stehe. Er gibt an, dass unbequeme wissenschaftliche Erkenntnisse, wie die Empfehlung für pflanzenbasierte Proteine, aufgrund von Lobbyismus aus Berichten entfernt würden. Er kritisiert die IPCC-Prognosen als zu optimistisch, da sie nicht bewiesene "Technikfantasien" einrechneten und die Realität verharmlosten. Obwohl er Kritik äußert, spricht er sich gegen einen Austritt Deutschlands aus, fordert aber, dass sich Deutschland für ungefilterte wissenschaftliche Erkenntnisse einsetze und einen "radikal sozialen" Klimaschutz betreibe.
+- **[00:18:53](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=1133)** - **Hans Koller (CDU/CSU)**: Vergleicht die AfD negativ mit Umweltingenieuren und kritisiert ihren Ansatz, sich US-amerikanischer "Abschaffung von Umwelt- und Klimaschutz" als Vorbild zu nehmen. Er betont die wichtige Rolle des IPCC als internationale Diskussionsplattform, die Wissen bündelt und Transparenz schafft. Er plädiert dafür, sich aktiv einzubringen und mitzuwirken, statt sich abzuschotten. Er bekräftigt das Engagement der CDU/CSU für nationale und internationale Klimaziele und eine zukunftsorientierte Klimapolitik.
+- **[00:22:20](https://www.youtube.com/watch?v=3FjIP9w3khQ&t=1340)** - **Präsident (Schlussbemerkung)**: Der Präsident stellt protokollarisch fest, dass Dr. Hahn eine Kurzintervention zur Klärung von Quellenangaben im AfD-Antrag gewünscht hatte, diese jedoch aufgrund der überschrittenen Redezeit nicht zugelassen wurde. Anschließend wird die Überweisung der Vorlage (Drucksache 21/4464) an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen und angenommen.

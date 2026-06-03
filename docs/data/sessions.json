@@ -165,6 +165,116 @@
     "processed_at": "2026-06-01T18:45:31.070136"
   },
   {
+    "id": "443VaWXW82w",
+    "title": "63. Sitzung vom 06.03.2026. TOP ZP 7-9: Krankenhausreform",
+    "session": 63,
+    "date": "2026-03-06",
+    "top": "ZP 7-9",
+    "topic": "Anpassung der Krankenhausreform",
+    "summary_path": "protocols/session_63/zp_7_9_krankenhausreform.md",
+    "youtube_url": "https://www.youtube.com/watch?v=443VaWXW82w",
+    "processed_at": "2026-06-03T22:02:54.230573"
+  },
+  {
+    "id": "YvodTQJXm1o",
+    "title": "62. Sitzung vom 05.03.2026. TOP ZP 3, 4: Erneuerbare Energien, Wärmewende",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "ZP 3, 4",
+    "topic": "Erneuerbare Energien und Wärmewende",
+    "summary_path": "protocols/session_62/zp_3_4_erneuerbare_energien_waermewende.md",
+    "youtube_url": "https://www.youtube.com/watch?v=YvodTQJXm1o",
+    "processed_at": "2026-06-03T21:47:10.288522"
+  },
+  {
+    "id": "EH-ZGgrTtO0",
+    "title": "62. Sitzung vom 05.03.2026. TOP ZP 12: Aktuelle Stunde: Gefährdungen der digitalen Teilhabe",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "ZP 12",
+    "topic": "Gefährdungen der digitalen Teilhabe entgegentreten: Einschränkungen des digitalen Raums, EUDI-Wallet und Social-Media-Verbote verhindern",
+    "summary_path": "protocols/session_62/zp_12_aktuelle_stunde_gefaehrdungen_der_digitalen_teilha.md",
+    "youtube_url": "https://www.youtube.com/watch?v=EH-ZGgrTtO0",
+    "processed_at": "2026-06-03T21:50:08.874358"
+  },
+  {
+    "id": "hPMLw9YfBQg",
+    "title": "62. Sitzung vom 05.03.2026. TOP 7: Organisierte Kriminalität",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "7",
+    "topic": "Bekämpfung der Organisierten Kriminalität",
+    "summary_path": "protocols/session_62/7_organisierte_kriminalitaet.md",
+    "youtube_url": "https://www.youtube.com/watch?v=hPMLw9YfBQg",
+    "processed_at": "2026-06-03T21:55:51.263239"
+  },
+  {
+    "id": "VIXUtMDJV8s",
+    "title": "62. Sitzung vom 05.03.2026. TOP 6: Umgestaltung der Grundsicherung (SGB II)",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "6",
+    "topic": "Neugestaltung der Grundsicherung (SGB II)",
+    "summary_path": "protocols/session_62/6_umgestaltung_der_grundsicherung_sgb_ii.md",
+    "youtube_url": "https://www.youtube.com/watch?v=VIXUtMDJV8s",
+    "processed_at": "2026-06-03T21:46:02.764857"
+  },
+  {
+    "id": "3FjIP9w3khQ",
+    "title": "62. Sitzung vom 05.03.2026. TOP 24: Beendigung der Mitwirkung am Weltklimarat (IPCC)",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "24",
+    "topic": "Beendigung der Mitwirkung am Weltklimarat (IPCC)",
+    "summary_path": "protocols/session_62/24_beendigung_der_mitwirkung_am_weltklimarat_ipcc.md",
+    "youtube_url": "https://www.youtube.com/watch?v=3FjIP9w3khQ",
+    "processed_at": "2026-06-03T21:58:40.254291"
+  },
+  {
+    "id": "vt4HfY_HDIc",
+    "title": "62. Sitzung vom 05.03.2026. TOP 18: Beschränkung der Verbeamtung, Pensionslasten",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "18",
+    "topic": "Begrenzung der Verbeamtung und Pensionslasten",
+    "summary_path": "protocols/session_62/18_beschraenkung_der_verbeamtung_pensionslasten.md",
+    "youtube_url": "https://www.youtube.com/watch?v=vt4HfY_HDIc",
+    "processed_at": "2026-06-03T21:59:21.224018"
+  },
+  {
+    "id": "Cs0iTu_PWDM",
+    "title": "62. Sitzung vom 05.03.2026. TOP 14: Einsatz von Jugendoffizieren an Schulen",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "14",
+    "topic": "Einsatz von Jugendoffizieren an Schulen",
+    "summary_path": "protocols/session_62/14_einsatz_von_jugendoffizieren_an_schulen.md",
+    "youtube_url": "https://www.youtube.com/watch?v=Cs0iTu_PWDM",
+    "processed_at": "2026-06-03T21:53:41.054983"
+  },
+  {
+    "id": "ZfxX6wk8ITQ",
+    "title": "62. Sitzung vom 05.03.2026. TOP 13: Fondsrisikobegrenzungsgesetz",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "13",
+    "topic": "Fondsrisikobegrenzungsgesetz",
+    "summary_path": "protocols/session_62/13_fondsrisikobegrenzungsgesetz.md",
+    "youtube_url": "https://www.youtube.com/watch?v=ZfxX6wk8ITQ",
+    "processed_at": "2026-06-03T21:53:04.291548"
+  },
+  {
+    "id": "6uDPmwxK4gA",
+    "title": "62. Sitzung vom 05.03.2026. TOP 12: Kernenergie",
+    "session": 62,
+    "date": "2026-03-05",
+    "top": "12",
+    "topic": "Kernenergie",
+    "summary_path": "protocols/session_62/12_kernenergie.md",
+    "youtube_url": "https://www.youtube.com/watch?v=6uDPmwxK4gA",
+    "processed_at": "2026-06-03T21:52:15.656031"
+  },
+  {
     "id": "DafT7ZlKYok",
     "title": "81st Session, Items 8 and 9: Working Time Policy",
     "session": 81,
@@ -308,6 +418,28 @@
     "processed_at": "2026-06-02T09:48:44.146708"
   },
   {
+    "id": "akHgSqoWs9A",
+    "title": "62. Sitzung, ZP 3 und ZP 4: Erneuer­bare Energien, Wärme­wende",
+    "session": 62,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Debatte zu Erneuerbaren Energien und Wärmewende",
+    "summary_path": "protocols/session_62/top_unknown_62_sitzung_zp_3_und_zp_4_erneuer_bare_energien_wae.md",
+    "youtube_url": "https://www.youtube.com/watch?v=akHgSqoWs9A",
+    "processed_at": "2026-06-03T21:48:26.205463"
+  },
+  {
+    "id": "__XnNrxezjc",
+    "title": "62nd session of March 5, 2026. Agenda item 11: Federal Hunting Act and Federal Nature Conservatio...",
+    "session": 62,
+    "date": "N/A",
+    "top": "11",
+    "topic": "Zweite und dritte Beratung des Gesetzentwurfs zur Änderung des Bundesjagdgesetzes und des Bundesnaturschutzgesetzes",
+    "summary_path": "protocols/session_62/11_62nd_session_of_march_5_2026_agenda_item_11_federa.md",
+    "youtube_url": "https://www.youtube.com/watch?v=__XnNrxezjc",
+    "processed_at": "2026-06-03T21:51:13.037459"
+  },
+  {
     "id": "e3YzhlN1aL4",
     "title": "24th Meeting of the Committee on Sport and Volunteering",
     "session": 0,
@@ -330,6 +462,17 @@
     "processed_at": "2026-06-02T09:51:05.311440"
   },
   {
+    "id": "sZCVzsVIHLI",
+    "title": "Zwangseingewiesen und vergewaltigt in den „Tripperburgen“ der DDR",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Zwangseinweisungen und sexualisierte Gewalt in den venerologischen Stationen der DDR",
+    "summary_path": "protocols/session_unknown/top_unknown_zwangseingewiesen_und_vergewaltigt_in_den_tripperb.md",
+    "youtube_url": "https://www.youtube.com/watch?v=sZCVzsVIHLI",
+    "processed_at": "2026-06-03T21:49:09.523255"
+  },
+  {
     "id": "Y1ADQfJYN04",
     "title": "80th Session, Agenda Item 24: Sports Promotion Act",
     "session": 0,
@@ -339,5 +482,16 @@
     "summary_path": "protocols/session_unknown/24_80th_session_agenda_item_24_sports_promotion_act.md",
     "youtube_url": "https://www.youtube.com/watch?v=Y1ADQfJYN04",
     "processed_at": "2026-06-01T18:53:40.866334"
+  },
+  {
+    "id": "3cGGcwjB_Lc",
+    "title": "62nd meeting of March 5, 2026. Agenda item 15: Building Culture Report 2024/25",
+    "session": 0,
+    "date": "N/A",
+    "top": "15",
+    "topic": "62. Sitzung vom 5. März 2026. Tagesordnungspunkt 15: Baukulturbericht 2024/25",
+    "summary_path": "protocols/session_unknown/15_62nd_meeting_of_march_5_2026_agenda_item_15_buildi.md",
+    "youtube_url": "https://www.youtube.com/watch?v=3cGGcwjB_Lc",
+    "processed_at": "2026-06-03T21:54:46.707250"
   }
 ]
