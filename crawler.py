@@ -481,7 +481,8 @@ def update_sessions_index(index_path, new_session):
 def main():
     parser = argparse.ArgumentParser(description="PolitAgent Crawler - Dokumentiert und fasst Bundestagssitzungen zusammen.")
     parser.add_argument("--days", type=int, default=3, help="Anzahl der letzten Sitzungstage, die erfasst werden sollen (nur bei Erstbefüllung relevant).")
-    parser.add_argument("--max-videos", type=int, default=40, help="Maximale Anzahl der zu prüfenden YouTube-Videos.")
+    parser.add_argument("--max-videos", type=int, default=300, help="Maximale Anzahl der zu prüfenden YouTube-Videos.")
+    parser.add_argument("--max-process", type=int, default=15, help="Maximale Anzahl der in diesem Durchlauf zu verarbeitenden Videos (schützt Quota).")
     parser.add_argument("--force-video", type=str, default=None, help="Erzwinge die Verarbeitung einer bestimmten YouTube Video-ID.")
     args = parser.parse_args()
 
@@ -581,6 +582,11 @@ def main():
         print(f"Fortlaufender Betrieb: {len(videos_to_process)} neue Videos zum Verarbeiten gefunden.")
         # Process older first
         videos_to_process.reverse()
+
+    # Apply limit on max process to protect daily Gemini API quota
+    if len(videos_to_process) > args.max_process:
+        print(f"Limitiere Verarbeitung von {len(videos_to_process)} auf {args.max_process} Videos, um API-Quota-Limits zu wahren.")
+        videos_to_process = videos_to_process[:args.max_process]
 
     if not videos_to_process:
         print("Keine neuen Videos zu verarbeiten.")
