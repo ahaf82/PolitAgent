@@ -165,6 +165,83 @@
     "processed_at": "2026-06-01T18:45:31.070136"
   },
   {
+    "id": "C1zgMwvBfd0",
+    "title": "73. Sitzung vom 22.04.2026. TOP ZP 1: Aktuelle Stunde: Raumfahrtnation Deutschland",
+    "session": 73,
+    "date": "2026-04-22",
+    "top": "ZP 1",
+    "topic": "Aktuelle Stunde: Raumfahrtnation Deutschland",
+    "summary_path": "protocols/session_73/zp_1_aktuelle_stunde_raumfahrtnation_deutschland.md",
+    "youtube_url": "https://www.youtube.com/watch?v=C1zgMwvBfd0",
+    "processed_at": "2026-06-04T23:13:43.928239"
+  },
+  {
+    "id": "pcpocHDKu9o",
+    "title": "73. Sitzung vom 22.04.2026. TOP 5: Globale Gerechtigkeit, Entwicklungszusammenarbeit",
+    "session": 73,
+    "date": "2026-04-22",
+    "top": "5",
+    "topic": "Globale Gerechtigkeit und Entwicklungszusammenarbeit",
+    "summary_path": "protocols/session_73/5_globale_gerechtigkeit_entwicklungszusammenarbeit.md",
+    "youtube_url": "https://www.youtube.com/watch?v=pcpocHDKu9o",
+    "processed_at": "2026-06-04T23:15:37.371881"
+  },
+  {
+    "id": "yw90Z7v1Osc",
+    "title": "73. Sitzung vom 22.04.2026. TOP 1: Befragung der Bundesregierung (BMFTR und BKAmt)",
+    "session": 73,
+    "date": "2026-04-22",
+    "top": "1",
+    "topic": "Befragung der Bundesregierung (Bundesministerium für Forschung, Technologie und Raumfahrt und Bundeskanzleramt)",
+    "summary_path": "protocols/session_73/1_befragung_der_bundesregierung_bmftr_und_bkamt.md",
+    "youtube_url": "https://www.youtube.com/watch?v=yw90Z7v1Osc",
+    "processed_at": "2026-06-04T23:10:54.831425"
+  },
+  {
+    "id": "JmXz2nxenlw",
+    "title": "72. Sitzung vom 17.04.2026. TOP ZP 13: Aktuelle Stunde: Militärische Eskalation und humanitäre Notl",
+    "session": 72,
+    "date": "2026-04-17",
+    "top": "ZP 13",
+    "topic": "Aktuelle Stunde: Militärische Eskalation und humanitäre Notlage im Libanon",
+    "summary_path": "protocols/session_72/zp_13_aktuelle_stunde_militaerische_eskalation_und_human.md",
+    "youtube_url": "https://www.youtube.com/watch?v=JmXz2nxenlw",
+    "processed_at": "2026-06-04T22:59:41.483161"
+  },
+  {
+    "id": "6-rjglQmsAU",
+    "title": "72nd Session on 04/17/2026. Agenda Item 15: Food Security and Agricultural Policy",
+    "session": 72,
+    "date": "2026-04-17",
+    "top": "15",
+    "topic": "Ernährungssicherheit und Agrarpolitik",
+    "summary_path": "protocols/session_72/15_food_security_and_agricultural_policy.md",
+    "youtube_url": "https://www.youtube.com/watch?v=6-rjglQmsAU",
+    "processed_at": "2026-06-04T22:56:50.531785"
+  },
+  {
+    "id": "jbLPX-BJZAE",
+    "title": "71. Sitzung vom 16.04.2026. TOP 10: Small Modular Reactors - Miniatomkraftwerke",
+    "session": 71,
+    "date": "2026-04-16",
+    "top": "10",
+    "topic": "Kleine Modulare Reaktoren – Chancen und Risiken für die Energieversorgung",
+    "summary_path": "protocols/session_71/10_small_modular_reactors_miniatomkraftwerke.md",
+    "youtube_url": "https://www.youtube.com/watch?v=jbLPX-BJZAE",
+    "processed_at": "2026-06-04T22:20:20.910512"
+  },
+  {
+    "id": "5JZFMSgFAQ4",
+    "title": "69. Sitzung vom 27.03.2026. TOP ZP 11: Aktuelle Stunde: Bundesprogramm \"Demokratie leben\"",
+    "session": 69,
+    "date": "2026-03-27",
+    "top": "ZP 11",
+    "topic": "Aktuelle Stunde: Bundesprogramm \"Demokratie leben!\"",
+    "summary_path": "protocols/session_69/zp_11_aktuelle_stunde_bundesprogramm_demokratie_leben.md",
+    "youtube_url": "https://www.youtube.com/watch?v=5JZFMSgFAQ4",
+    "processed_at": "2026-06-04T21:56:40.812979"
+  },
+  {
     "id": "Ug8WAvh044c",
     "title": "67. Sitzung vom 25.03.2026. TOP ZP 1: Aktuelle Stunde: Gewalt gegen Frauen und Mädchen",
     "session": 67,
@@ -174,6 +251,17 @@
     "summary_path": "protocols/session_67/zp_1_aktuelle_stunde_gewalt_gegen_frauen_und_maedchen.md",
     "youtube_url": "https://www.youtube.com/watch?v=Ug8WAvh044c",
     "processed_at": "2026-06-04T20:39:15.181212"
+  },
+  {
+    "id": "JEaRS1VGxIE",
+    "title": "67. Sitzung vom 25.03.2026. TOP 1: Befragung der Bundesregierung (Bundeskanzler)",
+    "session": 67,
+    "date": "2026-03-25",
+    "top": "1",
+    "topic": "Befragung des Bundeskanzlers",
+    "summary_path": "protocols/session_67/1_befragung_der_bundesregierung_bundeskanzler.md",
+    "youtube_url": "https://www.youtube.com/watch?v=JEaRS1VGxIE",
+    "processed_at": "2026-06-04T20:57:56.951292"
   },
   {
     "id": "Gi13fSkw1FY",
@@ -627,6 +715,149 @@
     "processed_at": "2026-06-02T09:48:44.146708"
   },
   {
+    "id": "Gzaat-WSnAg",
+    "title": "72nd session, item 14: EU Directive on consumer credit agreements",
+    "session": 72,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Umsetzung der EU-Richtlinie über Verbraucherkreditverträge und Regelung zur Förderung klimaneutraler Mobilität",
+    "summary_path": "protocols/session_72/top_unknown_72nd_session_item_14_eu_directive_on_consumer_cred.md",
+    "youtube_url": "https://www.youtube.com/watch?v=Gzaat-WSnAg",
+    "processed_at": "2026-06-04T22:55:55.269979"
+  },
+  {
+    "id": "yrzMqe14ank",
+    "title": "71st session of April 16, 2026. Agenda items 4 and 5: Electricity Tax Act, Road Traffic Act",
+    "session": 71,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "71. Sitzung vom 16. April 2026. Tagesordnungspunkte 4 und 5: Stromsteuergesetz, Straßenverkehrsgesetz",
+    "summary_path": "protocols/session_71/top_unknown_71st_session_of_april_16_2026_agenda_items_4_and_5.md",
+    "youtube_url": "https://www.youtube.com/watch?v=yrzMqe14ank",
+    "processed_at": "2026-06-04T22:14:23.501236"
+  },
+  {
+    "id": "RiOIKPIINUw",
+    "title": "71st session: Bundestag mourns Christian Schwarz-Schilling",
+    "session": 71,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "71. Sitzung: Bundestag trauert um Christian Schwarz-Schilling",
+    "summary_path": "protocols/session_71/top_unknown_71st_session_bundestag_mourns_christian_schwarz_sc.md",
+    "youtube_url": "https://www.youtube.com/watch?v=RiOIKPIINUw",
+    "processed_at": "2026-06-04T22:46:01.110553"
+  },
+  {
+    "id": "d3kwYWK6Kuc",
+    "title": "71st session, ZP 2, ZP 3, Item 12: Reduction of energy taxes",
+    "session": 71,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "71. Sitzung, ZP 2, ZP 3, TOP 12: Senkung der Energiesteuer",
+    "summary_path": "protocols/session_71/top_unknown_71st_session_zp_2_zp_3_item_12_reduction_of_energy.md",
+    "youtube_url": "https://www.youtube.com/watch?v=d3kwYWK6Kuc",
+    "processed_at": "2026-06-04T22:47:16.092286"
+  },
+  {
+    "id": "OY3yuhmwDR4",
+    "title": "71st session, agenda items 4 and 5: Electricity Tax Act, Road Traffic Act",
+    "session": 71,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "71. Sitzung, Tagesordnungspunkte 4 und 5: Erste Beratung der Gesetzentwürfe zur Änderung des Stromsteuergesetzes und des Straßenverkehrsgesetzes (Tempolimit)",
+    "summary_path": "protocols/session_71/top_unknown_71st_session_agenda_items_4_and_5_electricity_tax_.md",
+    "youtube_url": "https://www.youtube.com/watch?v=OY3yuhmwDR4",
+    "processed_at": "2026-06-04T22:49:22.628744"
+  },
+  {
+    "id": "ZFQQ2IQFvBI",
+    "title": "71st session of April 16, 2026. Agenda item 9: Amnesty for traveling without a ticket",
+    "session": 71,
+    "date": "N/A",
+    "top": "9",
+    "topic": "71. Sitzung vom 16. April 2026: Entkriminalisierung des Fahrens ohne Fahrschein",
+    "summary_path": "protocols/session_71/9_71st_session_of_april_16_2026_agenda_item_9_amnest.md",
+    "youtube_url": "https://www.youtube.com/watch?v=ZFQQ2IQFvBI",
+    "processed_at": "2026-06-04T22:18:37.336328"
+  },
+  {
+    "id": "UOC_sEoTlhc",
+    "title": "71st session of 16 April 2026. Agenda item 8: Topical debate: Hungary after the election",
+    "session": 71,
+    "date": "N/A",
+    "top": "8",
+    "topic": "Aktuelle Stunde: Ungarn nach der Wahl – Neue Chance für Europa",
+    "summary_path": "protocols/session_71/8_71st_session_of_16_april_2026_agenda_item_8_topica.md",
+    "youtube_url": "https://www.youtube.com/watch?v=UOC_sEoTlhc",
+    "processed_at": "2026-06-04T22:17:41.377034"
+  },
+  {
+    "id": "4Zit8kaTlkg",
+    "title": "71st session, agenda item 7: German climate protection measures",
+    "session": 71,
+    "date": "N/A",
+    "top": "7",
+    "topic": "Deutsche Klimaschutzmaßnahmen",
+    "summary_path": "protocols/session_71/7_71st_session_agenda_item_7_german_climate_protecti.md",
+    "youtube_url": "https://www.youtube.com/watch?v=4Zit8kaTlkg",
+    "processed_at": "2026-06-04T22:52:17.998930"
+  },
+  {
+    "id": "rxtbbCrxoJk",
+    "title": "71st session of April 16, 2026. Agenda item 10: Freedom of occupation for the self-employed",
+    "session": 71,
+    "date": "N/A",
+    "top": "10",
+    "topic": "Berufsfreiheit für Selbstständige sicherstellen – Abgrenzung zu abhängiger Beschäftigung rechtssicher machen",
+    "summary_path": "protocols/session_71/10_71st_session_of_april_16_2026_agenda_item_10_freed.md",
+    "youtube_url": "https://www.youtube.com/watch?v=rxtbbCrxoJk",
+    "processed_at": "2026-06-04T22:22:03.303861"
+  },
+  {
+    "id": "lQtpA1xBG60",
+    "title": "70th session of April 15, 2026. Agenda item 4: Academic and freedom of expression at universities",
+    "session": 70,
+    "date": "N/A",
+    "top": "4",
+    "topic": "Wissenschafts- und Meinungsfreiheit an Hochschulen",
+    "summary_path": "protocols/session_70/4_70th_session_of_april_15_2026_agenda_item_4_academ.md",
+    "youtube_url": "https://www.youtube.com/watch?v=lQtpA1xBG60",
+    "processed_at": "2026-06-04T22:10:46.126103"
+  },
+  {
+    "id": "7Hq4Gw_pg_c",
+    "title": "70th session of April 15, 2026. Agenda item 2: Question period",
+    "session": 70,
+    "date": "N/A",
+    "top": "2",
+    "topic": "70. Sitzung vom 15. April 2026. Tagesordnungspunkt 2: Fragestunde",
+    "summary_path": "protocols/session_70/2_70th_session_of_april_15_2026_agenda_item_2_questi.md",
+    "youtube_url": "https://www.youtube.com/watch?v=7Hq4Gw_pg_c",
+    "processed_at": "2026-06-04T22:06:55.013005"
+  },
+  {
+    "id": "0uP8Y-IrplQ",
+    "title": "70th session of April 15, 2026. Agenda Item 1: Current Affairs: Preventing additional profits for...",
+    "session": 70,
+    "date": "N/A",
+    "top": "1",
+    "topic": "70. Sitzung vom 15. April 2026, Tagesordnungspunkt 1: Aktuelle Stunde: Entlastungen für die Bürgerinnen und Bürger – Zusätzliche Gewinne für Mineralölkonzerne verhindern",
+    "summary_path": "protocols/session_70/1_70th_session_of_april_15_2026_agenda_item_1_curren.md",
+    "youtube_url": "https://www.youtube.com/watch?v=0uP8Y-IrplQ",
+    "processed_at": "2026-06-04T22:07:53.985290"
+  },
+  {
+    "id": "ahglqQ2wfu4",
+    "title": "69th session of March 27, 2026. Agenda item 10: Climate protection policy",
+    "session": 69,
+    "date": "N/A",
+    "top": "10",
+    "topic": "69. Sitzung vom 27. März 2026. Tagesordnungspunkt 10: Klimaschutzpolitik",
+    "summary_path": "protocols/session_69/10_69th_session_of_march_27_2026_agenda_item_10_clima.md",
+    "youtube_url": "https://www.youtube.com/watch?v=ahglqQ2wfu4",
+    "processed_at": "2026-06-04T21:54:43.696949"
+  },
+  {
     "id": "FbULCo9eGp4",
     "title": "67th session of March 25, 2026. Agenda item 8: Reform of naturalization policy",
     "session": 67,
@@ -836,6 +1067,50 @@
     "processed_at": "2026-06-03T21:51:13.037459"
   },
   {
+    "id": "vABhHhOLedE",
+    "title": "31st session - Meeting with Federal Minister Carsten Schneider",
+    "session": 31,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "31. Sitzung – Besprechung mit Bundesminister Carsten Schneider",
+    "summary_path": "protocols/session_31/top_unknown_31st_session_meeting_with_federal_minister_carsten.md",
+    "youtube_url": "https://www.youtube.com/watch?v=vABhHhOLedE",
+    "processed_at": "2026-06-04T21:02:29.549875"
+  },
+  {
+    "id": "PTcuw59c0Us",
+    "title": "23. Sitzung (teilweise öffentlich)",
+    "session": 23,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Öffentlicher Teil der 23. Sitzung",
+    "summary_path": "protocols/session_23/top_unknown_23_sitzung_teilweise_oeffentlich.md",
+    "youtube_url": "https://www.youtube.com/watch?v=PTcuw59c0Us",
+    "processed_at": "2026-06-04T21:08:26.785252"
+  },
+  {
+    "id": "k7D8Z6sCc3I",
+    "title": "21. Sitzung",
+    "session": 21,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Fachgespräch zur gesellschaftlichen Teilhabe älterer Menschen",
+    "summary_path": "protocols/session_21/top_unknown_21_sitzung.md",
+    "youtube_url": "https://www.youtube.com/watch?v=k7D8Z6sCc3I",
+    "processed_at": "2026-06-04T22:26:09.259790"
+  },
+  {
+    "id": "RJsQBw98W1M",
+    "title": "21. Sitzung",
+    "session": 21,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "21. Sitzung des Ausschusses für Sport und Ehrenamt",
+    "summary_path": "protocols/session_21/top_unknown_21_sitzung.md",
+    "youtube_url": "https://www.youtube.com/watch?v=RJsQBw98W1M",
+    "processed_at": "2026-06-04T22:39:56.458920"
+  },
+  {
     "id": "X_RgDejR5vE",
     "title": "19. Sitzung: Öffentliche Beratung",
     "session": 19,
@@ -847,6 +1122,28 @@
     "processed_at": "2026-06-04T07:56:41.756754"
   },
   {
+    "id": "cM3FTu0b6qw",
+    "title": "19. Sitzung des Ausschusses für Kultur und Medien",
+    "session": 19,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Fachgespräch zur sozialen Lage von Künstlerinnen und Künstlern im Ausschuss für Kultur und Medien",
+    "summary_path": "protocols/session_19/top_unknown_19_sitzung_des_ausschusses_fuer_kultur_und_medien.md",
+    "youtube_url": "https://www.youtube.com/watch?v=cM3FTu0b6qw",
+    "processed_at": "2026-06-04T22:35:26.548495"
+  },
+  {
+    "id": "3wQoUxdKFzI",
+    "title": "18. Sitzung – Medienförderung und Meinungsfreiheit",
+    "session": 18,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Medienförderung und Medienfreiheit in pluralen Öffentlichkeiten",
+    "summary_path": "protocols/session_18/top_unknown_18_sitzung_medienfoerderung_und_meinungsfreiheit.md",
+    "youtube_url": "https://www.youtube.com/watch?v=3wQoUxdKFzI",
+    "processed_at": "2026-06-04T21:07:24.451043"
+  },
+  {
     "id": "znqUADAGA9g",
     "title": "17. Sitzung: Orte der Demokratiegeschichte in Deutschland",
     "session": 17,
@@ -856,6 +1153,17 @@
     "summary_path": "protocols/session_17/top_unknown_17_sitzung_orte_der_demokratiegeschichte_in_deutsc.md",
     "youtube_url": "https://www.youtube.com/watch?v=znqUADAGA9g",
     "processed_at": "2026-06-04T07:53:00.375926"
+  },
+  {
+    "id": "JPuJGo22Ilk",
+    "title": "16. Sitzung",
+    "session": 16,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Sechzehnte Sitzung: Fachgespräch zur nachhaltigen Stadtentwicklung und Wassermanagement",
+    "summary_path": "protocols/session_16/top_unknown_16_sitzung.md",
+    "youtube_url": "https://www.youtube.com/watch?v=JPuJGo22Ilk",
+    "processed_at": "2026-06-04T22:40:51.447105"
   },
   {
     "id": "e3YzhlN1aL4",
@@ -1078,6 +1386,237 @@
     "processed_at": "2026-06-04T20:34:07.599518"
   },
   {
+    "id": "YtXdxVjG1Y8",
+    "title": "Interview with Federal Minister Dorothee Bär",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Gespräch mit Bundesministerin Dorothee Bär zum Stand der Hightech-Agenda",
+    "summary_path": "protocols/session_unknown/top_unknown_interview_with_federal_minister_dorothee_baer.md",
+    "youtube_url": "https://www.youtube.com/watch?v=YtXdxVjG1Y8",
+    "processed_at": "2026-06-04T21:01:45.912092"
+  },
+  {
+    "id": "hm8VmGTIw6s",
+    "title": "Anhörung „Tourismus zwischen Akzeptanz und Überlastung“",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Öffentliche Anhörung: Tourismus zwischen Akzeptanz und Überlastung",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_tourismus_zwischen_akzeptanz_und_ueberla.md",
+    "youtube_url": "https://www.youtube.com/watch?v=hm8VmGTIw6s",
+    "processed_at": "2026-06-04T21:03:26.833020"
+  },
+  {
+    "id": "qIrFWHwY3bg",
+    "title": "Anhörung „Reform des Patientenrechtegesetzes“",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung „Reform des Patientenrechtegesetzes“",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_reform_des_patientenrechtegesetzes.md",
+    "youtube_url": "https://www.youtube.com/watch?v=qIrFWHwY3bg",
+    "processed_at": "2026-06-04T21:06:33.235970"
+  },
+  {
+    "id": "kq3TG5RHViA",
+    "title": "Exchange with the children's opportunities coordinator Mareike Wulf",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Austausch mit der Kinderchancen-Koordinatorin Mareike Wulf",
+    "summary_path": "protocols/session_unknown/top_unknown_exchange_with_the_children_s_opportunities_coordin.md",
+    "youtube_url": "https://www.youtube.com/watch?v=kq3TG5RHViA",
+    "processed_at": "2026-06-04T21:14:29.234106"
+  },
+  {
+    "id": "wRe6FeAvUCQ",
+    "title": "Speech by President of the German Bundestag Julia Klöckner before the Seimas of the Republic of L...",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Rede der Präsidentin des Deutschen Bundestages Julia Klöckner vor dem Seimas der Republik Litauen",
+    "summary_path": "protocols/session_unknown/top_unknown_speech_by_president_of_the_german_bundestag_julia_.md",
+    "youtube_url": "https://www.youtube.com/watch?v=wRe6FeAvUCQ",
+    "processed_at": "2026-06-04T21:57:44.016883"
+  },
+  {
+    "id": "EZFuDgE1bno",
+    "title": "Anhörung zur Änderung des Steuerberatungsgesetzes",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zur Änderung des Steuerberatungsgesetzes",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_zur_aenderung_des_steuerberatungsgesetze.md",
+    "youtube_url": "https://www.youtube.com/watch?v=EZFuDgE1bno",
+    "processed_at": "2026-06-04T21:59:14.115348"
+  },
+  {
+    "id": "Aac93mmPJG0",
+    "title": "Hearing on the modernization of product liability law",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zur Modernisierung des Produkthaftungsrechts",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_the_modernization_of_product_liability_.md",
+    "youtube_url": "https://www.youtube.com/watch?v=Aac93mmPJG0",
+    "processed_at": "2026-06-04T22:12:10.068161"
+  },
+  {
+    "id": "dChUc2vvvX4",
+    "title": "71st meeting of April 16, 2026. Agenda items 2, 3, and 12: Reduction of energy taxes",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "71. Sitzung vom 16. April 2026. Tagesordnungspunkte 2, 3 und 12: Senkung der Energiesteuern",
+    "summary_path": "protocols/session_unknown/top_unknown_71st_meeting_of_april_16_2026_agenda_items_2_3_and.md",
+    "youtube_url": "https://www.youtube.com/watch?v=dChUc2vvvX4",
+    "processed_at": "2026-06-04T22:13:19.974685"
+  },
+  {
+    "id": "VHqbVBTcChY",
+    "title": "Hearing on the Academic Freedom Act",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zum Wissenschaftsfreiheitsgesetz",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_the_academic_freedom_act.md",
+    "youtube_url": "https://www.youtube.com/watch?v=VHqbVBTcChY",
+    "processed_at": "2026-06-04T22:25:09.966391"
+  },
+  {
+    "id": "0kL4frQRNm0",
+    "title": "Expert discussion on the working conditions of data labelers",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Fachgespräch zu den Arbeitsbedingungen von Data Labelern",
+    "summary_path": "protocols/session_unknown/top_unknown_expert_discussion_on_the_working_conditions_of_dat.md",
+    "youtube_url": "https://www.youtube.com/watch?v=0kL4frQRNm0",
+    "processed_at": "2026-06-04T22:27:00.671380"
+  },
+  {
+    "id": "zVcxVaXJOj8",
+    "title": "Hearing “Tourism between acceptance and overload”",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung: Tourismus zwischen Akzeptanz und Überlastung",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_tourism_between_acceptance_and_overload.md",
+    "youtube_url": "https://www.youtube.com/watch?v=zVcxVaXJOj8",
+    "processed_at": "2026-06-04T22:28:40.038651"
+  },
+  {
+    "id": "JiC_d6XmRLA",
+    "title": "24th meeting of the Digital Committee",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "24. Sitzung des Ausschusses für Digitales und Staatsmodernisierung",
+    "summary_path": "protocols/session_unknown/top_unknown_24th_meeting_of_the_digital_committee.md",
+    "youtube_url": "https://www.youtube.com/watch?v=JiC_d6XmRLA",
+    "processed_at": "2026-06-04T22:32:57.646695"
+  },
+  {
+    "id": "wbAelCDbEJs",
+    "title": "Anhörung „Versorgung bei Schwangerschaftsabbrüchen“",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zur Versorgung bei Schwangerschaftsabbrüchen",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_versorgung_bei_schwangerschaftsabbrueche.md",
+    "youtube_url": "https://www.youtube.com/watch?v=wbAelCDbEJs",
+    "processed_at": "2026-06-04T22:34:26.419913"
+  },
+  {
+    "id": "H-HCMwPAC7o",
+    "title": "Finanzlage der Kommunen so dramatisch wie noch nie",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Finanzlage der Kommunen so dramatisch wie noch nie",
+    "summary_path": "protocols/session_unknown/top_unknown_finanzlage_der_kommunen_so_dramatisch_wie_noch_nie.md",
+    "youtube_url": "https://www.youtube.com/watch?v=H-HCMwPAC7o",
+    "processed_at": "2026-06-04T22:36:37.818758"
+  },
+  {
+    "id": "TQ1vbPPPp2U",
+    "title": "Experten: Kinderfilme aus Deutschland sind vielfältig, erfolgreich und wichtig",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Experten: Kinderfilme aus Deutschland sind vielfältig, erfolgreich und wichtig",
+    "summary_path": "protocols/session_unknown/top_unknown_experten_kinderfilme_aus_deutschland_sind_vielfael.md",
+    "youtube_url": "https://www.youtube.com/watch?v=TQ1vbPPPp2U",
+    "processed_at": "2026-06-04T22:44:23.927614"
+  },
+  {
+    "id": "J2lTTzRIGK8",
+    "title": "The obligation for companies to report on sustainability is controversial.",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Kontroversen um die Nachhaltigkeitsberichterstattung von Unternehmen",
+    "summary_path": "protocols/session_unknown/top_unknown_the_obligation_for_companies_to_report_on_sustaina.md",
+    "youtube_url": "https://www.youtube.com/watch?v=J2lTTzRIGK8",
+    "processed_at": "2026-06-04T22:45:33.540752"
+  },
+  {
+    "id": "5qnCcmFyYQs",
+    "title": "Öffentliche Sitzung des Petitionsausschusses",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Öffentliche Sitzung des Petitionsausschusses",
+    "summary_path": "protocols/session_unknown/top_unknown_oeffentliche_sitzung_des_petitionsausschusses.md",
+    "youtube_url": "https://www.youtube.com/watch?v=5qnCcmFyYQs",
+    "processed_at": "2026-06-04T23:02:24.647683"
+  },
+  {
+    "id": "X7LwSbHWyDo",
+    "title": "Anhörung zur Ausbau­strecke/Neu­bau­strecke Hannover-Hamburg",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zur Ausbau- und Neubaustrecke Hannover-Hamburg",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_zur_ausbau_strecke_neu_bau_strecke_hanno.md",
+    "youtube_url": "https://www.youtube.com/watch?v=X7LwSbHWyDo",
+    "processed_at": "2026-06-04T23:05:09.614170"
+  },
+  {
+    "id": "PTpEi7yTmH4",
+    "title": "Hearing on the Second Energy Tax Reduction Act",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zum Zweiten Gesetz zur Senkung der Energiesteuer",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_the_second_energy_tax_reduction_act.md",
+    "youtube_url": "https://www.youtube.com/watch?v=PTpEi7yTmH4",
+    "processed_at": "2026-06-04T23:06:38.556275"
+  },
+  {
+    "id": "RRiA4RfZEYg",
+    "title": "Experts discuss measures to relieve the burden on research",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Experten erörtern Maßnahmen zur Entlastung der Forschung",
+    "summary_path": "protocols/session_unknown/top_unknown_experts_discuss_measures_to_relieve_the_burden_on_.md",
+    "youtube_url": "https://www.youtube.com/watch?v=RRiA4RfZEYg",
+    "processed_at": "2026-06-04T23:17:02.283340"
+  },
+  {
+    "id": "vHNXQug-Frc",
+    "title": "71st meeting of April 16, 2026. Agenda item 9: Wearing of headscarves by children in schools",
+    "session": 0,
+    "date": "N/A",
+    "top": "9",
+    "topic": "Debatte zum Verbot des Kinderkopftuchs in vorschulischen und schulischen Einrichtungen",
+    "summary_path": "protocols/session_unknown/9_71st_meeting_of_april_16_2026_agenda_item_9_wearin.md",
+    "youtube_url": "https://www.youtube.com/watch?v=vHNXQug-Frc",
+    "processed_at": "2026-06-04T22:19:30.725365"
+  },
+  {
     "id": "6EVyJqk1tLw",
     "title": "65th meeting of March 19, 2026. Agenda item 8: March 18 - Day of the History of Democracy",
     "session": 0,
@@ -1087,6 +1626,17 @@
     "summary_path": "protocols/session_unknown/8_65th_meeting_of_march_19_2026_agenda_item_8_march_.md",
     "youtube_url": "https://www.youtube.com/watch?v=6EVyJqk1tLw",
     "processed_at": "2026-06-04T08:15:14.788423"
+  },
+  {
+    "id": "oFugVgcgB3k",
+    "title": "71st meeting of April 16, 2026. Agenda item 7: German climate protection measures",
+    "session": 0,
+    "date": "N/A",
+    "top": "7",
+    "topic": "71. Sitzung vom 16. April 2026. Tagesordnungspunkt 7: Deutsche Klimaschutzmaßnahmen",
+    "summary_path": "protocols/session_unknown/7_71st_meeting_of_april_16_2026_agenda_item_7_german.md",
+    "youtube_url": "https://www.youtube.com/watch?v=oFugVgcgB3k",
+    "processed_at": "2026-06-04T22:16:39.265745"
   },
   {
     "id": "u4a8X1OVfho",
@@ -1100,6 +1650,28 @@
     "processed_at": "2026-06-04T20:41:55.220937"
   },
   {
+    "id": "iOIvP2UGkSw",
+    "title": "71st meeting of April 16, 2026. Agenda item 5: Data center strategy",
+    "session": 0,
+    "date": "N/A",
+    "top": "5",
+    "topic": "Debatte zur Rechenzentrumsstrategie der Bundesregierung",
+    "summary_path": "protocols/session_unknown/5_71st_meeting_of_april_16_2026_agenda_item_5_data_c.md",
+    "youtube_url": "https://www.youtube.com/watch?v=iOIvP2UGkSw",
+    "processed_at": "2026-06-04T22:15:30.700615"
+  },
+  {
+    "id": "88zQmmW1GOU",
+    "title": "71st meeting, agenda item 5: Data center strategy",
+    "session": 0,
+    "date": "N/A",
+    "top": "5",
+    "topic": "Rechenzentrumsstrategie der Bundesregierung",
+    "summary_path": "protocols/session_unknown/5_71st_meeting_agenda_item_5_data_center_strategy.md",
+    "youtube_url": "https://www.youtube.com/watch?v=88zQmmW1GOU",
+    "processed_at": "2026-06-04T22:50:19.983091"
+  },
+  {
     "id": "EflnQaeN9lk",
     "title": "67th meeting of March 25, 2026. Agenda item 3: Legal professions, regulatory procedures",
     "session": 0,
@@ -1109,6 +1681,28 @@
     "summary_path": "protocols/session_unknown/3_67th_meeting_of_march_25_2026_agenda_item_3_legal_.md",
     "youtube_url": "https://www.youtube.com/watch?v=EflnQaeN9lk",
     "processed_at": "2026-06-04T20:40:00.776813"
+  },
+  {
+    "id": "uZ2ay3KNDtc",
+    "title": "73rd meeting of 22 April 2026. Agenda item 3: EU Directive on Electromagnetic Compatibility Act",
+    "session": 0,
+    "date": "N/A",
+    "top": "3",
+    "topic": "Debatte zum Gesetzentwurf für Notfallverfahren im Binnenmarkt (EU-Richtlinie Elektromagnetische Verträglichkeit und Funkanlagen)",
+    "summary_path": "protocols/session_unknown/3_73rd_meeting_of_22_april_2026_agenda_item_3_eu_dir.md",
+    "youtube_url": "https://www.youtube.com/watch?v=uZ2ay3KNDtc",
+    "processed_at": "2026-06-04T23:14:49.193245"
+  },
+  {
+    "id": "utWWuZZiVhs",
+    "title": "69th meeting of March 27, 2026. Agenda item 28: Price increases in the catering industry",
+    "session": 0,
+    "date": "N/A",
+    "top": "28",
+    "topic": "69. Sitzung vom 27. März 2026. Tagesordnungspunkt 28: Preissteigerungen im Gastronomiegewerbe",
+    "summary_path": "protocols/session_unknown/28_69th_meeting_of_march_27_2026_agenda_item_28_price.md",
+    "youtube_url": "https://www.youtube.com/watch?v=utWWuZZiVhs",
+    "processed_at": "2026-06-04T21:55:35.978031"
   },
   {
     "id": "goX-TC8_I1M",
@@ -1155,6 +1749,17 @@
     "processed_at": "2026-06-04T20:38:02.714010"
   },
   {
+    "id": "eJ50X3_1OGI",
+    "title": "73rd meeting of April 22, 2026. Agenda item 2: Question period",
+    "session": 0,
+    "date": "N/A",
+    "top": "2",
+    "topic": "Fragestunde der 73. Sitzung vom 22. April 2026 zu Tagesordnungspunkt 2",
+    "summary_path": "protocols/session_unknown/2_73rd_meeting_of_april_22_2026_agenda_item_2_questi.md",
+    "youtube_url": "https://www.youtube.com/watch?v=eJ50X3_1OGI",
+    "processed_at": "2026-06-04T23:12:41.521771"
+  },
+  {
     "id": "UpqQLgFgWFE",
     "title": "65th meeting of March 19, 2026. Agenda item 19: Report on the situation of the older generation",
     "session": 0,
@@ -1188,6 +1793,28 @@
     "processed_at": "2026-06-04T08:19:54.770344"
   },
   {
+    "id": "RHPpEaWKxGk",
+    "title": "72nd meeting of April 17, 2026. Agenda item 17: Combating the Russian shadow fleet",
+    "session": 0,
+    "date": "N/A",
+    "top": "17",
+    "topic": "Bekämpfung der russischen Schattenflotte",
+    "summary_path": "protocols/session_unknown/17_72nd_meeting_of_april_17_2026_agenda_item_17_comba.md",
+    "youtube_url": "https://www.youtube.com/watch?v=RHPpEaWKxGk",
+    "processed_at": "2026-06-04T22:58:36.615950"
+  },
+  {
+    "id": "hNQ_pGxpNfE",
+    "title": "72nd meeting of April 17, 2026. Agenda item 16: Outpatient care",
+    "session": 0,
+    "date": "N/A",
+    "top": "16",
+    "topic": "72. Sitzung vom 17. April 2026. Tagesordnungspunkt 16: Ambulante Versorgung",
+    "summary_path": "protocols/session_unknown/16_72nd_meeting_of_april_17_2026_agenda_item_16_outpa.md",
+    "youtube_url": "https://www.youtube.com/watch?v=hNQ_pGxpNfE",
+    "processed_at": "2026-06-04T22:57:59.059321"
+  },
+  {
     "id": "3cGGcwjB_Lc",
     "title": "62nd meeting of March 5, 2026. Agenda item 15: Building Culture Report 2024/25",
     "session": 0,
@@ -1208,5 +1835,27 @@
     "summary_path": "protocols/session_unknown/15_65th_meeting_of_march_19_2026_agenda_item_15_digit.md",
     "youtube_url": "https://www.youtube.com/watch?v=k_Uuknf4nDo",
     "processed_at": "2026-06-04T08:18:23.591738"
+  },
+  {
+    "id": "xmxJ8aZleoM",
+    "title": "71st meeting of April 16, 2026. Agenda item 11: Animal welfare and research",
+    "session": 0,
+    "date": "N/A",
+    "top": "11",
+    "topic": "71. Sitzung vom 16. April 2026. Tagesordnungspunkt 11: Tierschutz und Forschung",
+    "summary_path": "protocols/session_unknown/11_71st_meeting_of_april_16_2026_agenda_item_11_anima.md",
+    "youtube_url": "https://www.youtube.com/watch?v=xmxJ8aZleoM",
+    "processed_at": "2026-06-04T22:21:13.945492"
+  },
+  {
+    "id": "LJDMzlZCnLs",
+    "title": "70th meeting of April 15, 2026. Agenda item 1: Questioning of the Federal Government (BMJV and BMDS)",
+    "session": 0,
+    "date": "N/A",
+    "top": "1",
+    "topic": "70. Sitzung vom 15. April 2026. Tagesordnungspunkt 1: Befragung der Bundesregierung (BMJV und BMDS)",
+    "summary_path": "protocols/session_unknown/1_70th_meeting_of_april_15_2026_agenda_item_1_questi.md",
+    "youtube_url": "https://www.youtube.com/watch?v=LJDMzlZCnLs",
+    "processed_at": "2026-06-04T22:05:07.662450"
   }
 ]

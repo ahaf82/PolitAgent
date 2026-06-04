@@ -1,0 +1,48 @@
+# Gespräch mit Bundesministerin Dorothee Bär zum Stand der Hightech-Agenda
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Interview with Federal Minister Dorothee Bär
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=YtXdxVjG1Y8)
+
+## Kurzzusammenfassung
+Die Ausschusssitzung befasste sich mit dem aktuellen Stand der Hightech-Agenda Deutschland. Bundesministerin Dorothee Bär berichtete über die Umsetzung, die Entwicklung von Roadmaps und die geplanten Partnertialoge sowie Meilensteine bis 2027. Während Koalitionsfraktionen die Initiative weitgehend positiv beurteilten und das Engagement lobten, äußerten Oppositionsparteien Bedenken hinsichtlich Transparenz, Umsetzungsgeschwindigkeit, Messbarkeit der Ziele und der tatsächlichen Zusätzlichkeit der bereitgestellten Mittel. Spezifische Fragen betrafen auch die Fusions- und Quantentechnologieforschung sowie die Gesundheitsforschung im Bereich ME/CFS und Post-COVID.
+
+## Kernaussagen und Positionen der Fraktionen
+
+-   **CDU/CSU (Florian Müller)**:
+    -   Lobt das hohe Engagement und die Geschwindigkeit der Bundesregierung bei der Erarbeitung und Vorlage der Hightech-Agenda als Kernprojekt.
+    -   Betont die Wichtigkeit der Roadmap-Prozesse und Partnerdialoge zur Stärkung des Innovationsstandorts durch Bündelung von Wissenschaft und Wirtschaft.
+    -   Fragt nach der Nutzung der Aufbruchsstimmung, der Verzahnung mit europäischen Programmen und der verbindlichen Ausgestaltung von Indikatoren und Abbruchkriterien für Projekte.
+-   **AfD (Dr. Kaufmann)**:
+    -   Kritisiert das Fehlen schriftlicher Berichte zu Tagesordnungspunkten.
+    -   Äußert Skepsis gegenüber dem Zeitplan der Roadmap-Erstellung und befürchtet ein mögliches Scheitern der Agenda an ihren hohen Ansprüchen.
+    -   Fordert messbare Ziele bis zum Ende der Legislaturperiode, konkrete Informationen zum Start der Forschungsarbeit (Anträge, Bewilligungen, Gelder) und Beispiele für neu geförderte, technologieoffene Projekte, die unter der Vorgängerregierung nicht unterstützt wurden.
+-   **SPD (Holger Mann)**:
+    -   Lobte die intensiven White Paper Prozesse und Partnerdialoge zur Einbindung von Impulsen aus Wirtschaft und Wissenschaft, sowie die verbesserte Kommunikation mit den Bundesländern.
+    -   Betont die Notwendigkeit klarer Prioritätensetzung, fordert aber auch eine intensivere Bearbeitung strategischer Handlungsfelder.
+    -   Fragt nach der Konkretheit der Roadmap-Entwürfe im Mai (Budgets, Zeitpläne, Förderrichtlinien, Standorte für alle sechs Schlüsseltechnologien) und der Rolle des Transfers in der Hightech-Agenda.
+-   **Bündnis 90/Die Grünen (Frau Azar)**:
+    -   Begrüßt den öffentlichen Austausch und betont die Wichtigkeit von Transparenz, sieht aber erhebliche Defizite in der Umsetzung, insbesondere bezüglich Tempo und Transparenz (Verweis auf Kritik von Expertenkommission und Bundesrechnungshof).
+    -   Kritisiert die Unklarheit über die tatsächliche Zusätzlichkeit der angekündigten 18 Milliarden Euro und deren Verteilung.
+    -   Fragt nach Konsequenzen aus dem Wechsel eines Spitzenwissenschaftlers zu Huawei, der tatsächlichen Höhe der zusätzlichen Mittel für die Quantentechnologie im Vergleich zur letzten Legislatur und der Finanzierung sowie dem Sinn eines Förderverfahrens für bereits feststehende Kernfusions-Hubs.
+-   **Die Linke (Frau Lemke)**:
+    -   Kritisiert die Intransparenz der Umsetzung, das Fehlen von Maßnahmenlisten und die mangelnde Beteiligung von Parlament und Öffentlichkeit an Roadmap-Prozessen.
+    -   Fragt, warum Informationen unter Verschluss gehalten werden und wie die Beteiligung der Zivilgesellschaft an Prozessen zur Bewertung sozialer Auswirkungen von Technologie gewährleistet wird, insbesondere im Hinblick auf noch gesperrte Mittel des BMAS.
+    -   Äußert sich kritisch zur Gesundheitsforschung im Bereich ME/CFS und Post-COVID, hinterfragt die Position des Ministeriums zum Mehrbedarf und die Wiederherstellung verlorenen Vertrauens.
+    -   Kritisiert die Zusammensetzung des Steuerungskreises der nationalen Dekade bezüglich Expertise und Betroffenenvertretung und fordert die Sicherstellung, dass Mittel nur für biomedizinische Forschung verwendet werden, um schädliche psychosomatische Ansätze zu vermeiden.
+
+## Chronologischer Debattenverlauf
+
+-   **[00:00:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=0)** - **Sitzungsbeginn / Einleitung**: Der Ausschussvorsitzende eröffnet den öffentlichen Teil der Sitzung. Tagesordnungspunkt ist ein Gespräch mit Bundesministerin Dorothee Bär zum aktuellen Stand der Hightech-Agenda Deutschland.
+-   **[00:47:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=47)** - **Bundesministerin Dorothee Bär**: Sie dankt für die Einladung und berichtet über den vollen Gange der Umsetzung der Hightech-Agenda, einschließlich des Ausrollens von Flagship-Maßnahmen und laufender Roadmap-Prozesse. Sie erwähnt 18 Gespräche pro Schlüsseltechnologie und insgesamt 22 Partnerdialoge bis April, darunter einen separaten mit den Ländern. Die Roadmap-Entwürfe sollen Ende Mai vorgestellt werden, gefolgt von einer Online-Konsultation. Eine zweite Iteration der Roadmaps ist für September geplant, und ein großer HTAD-Gipfel für das Frühjahr 2027. Ein Monitoring-System wird parallel aufgebaut, und Ergebnisberichte der Partnerdialoge werden auf der HTAD-Website veröffentlicht.
+-   **[06:01:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=361)** - **Ausschussvorsitzender**: Er leitet zur Fragerunde der Berichterstattenden über.
+-   **[06:17:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=377)** - **Florian Müller (CDU/CSU)**: Er lobt die engagierte Arbeit an der Hightech-Agenda als Kernprojekt und die schnelle Erarbeitung. Er fragt, wie die Aufbruchsstimmung genutzt, nationale Roadmaps mit europäischen Programmen verzahnt und Abbruchkriterien verbindlich ausgestaltet werden können.
+-   **[09:14:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=554)** - **Dr. Kaufmann (AfD)**: Er kritisiert das Fehlen schriftlicher Berichte. Er äußert Skepsis gegenüber dem Zeitplan der Roadmap-Erstellung und befürchtet ein Scheitern. Er fragt nach messbaren Zielen bis zum Ende der Legislatur, dem konkreten Start für Forschungseinrichtungen und Beispielen für neu geförderte, technologieoffene Projekte.
+-   **[12:09:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=729)** - **Holger Mann (SPD)**: Er lobt die White Paper Prozesse, Partnerdialoge und verbesserte Kommunikation mit den Bundesländern. Er betont die Wichtigkeit klarer Prioritäten, fordert aber auch die Bearbeitung strategischer Handlungsfelder. Er fragt nach der Konkretheit der Roadmap-Entwürfe im Mai (Budgets, Zeitpläne, Förderrichtlinien, Standorte) und der Rolle des Transfers.
+-   **[13:54:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=834)** - **Frau Azar (Bündnis 90/Die Grünen)**: Sie dankt für den öffentlichen Rahmen, sieht aber Defizite in Tempo und Transparenz der Umsetzung. Sie kritisiert die Unklarheit der zusätzlichen Mittel und deren Verteilung. Sie fragt nach Konsequenzen aus dem Wechsel eines Wissenschaftlers zu Huawei, der Höhe der Mittel für Quantentechnologie und der Finanzierung sowie dem Sinn des Förderverfahrens für Kernfusions-Hubs.
+-   **[17:18:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=1038)** - **Frau Lemke (Die Linke)**: Sie kritisiert die Intransparenz der Umsetzung, das Fehlen von Maßnahmenlisten und die mangelnde Beteiligung der Öffentlichkeit. Sie fragt nach dem Konzept für gesperrte BMAS-Mittel und der Beteiligung der Zivilgesellschaft. Im Bereich Gesundheitsforschung kritisiert sie die Haltung des Ministeriums zu ME/CFS und Post-COVID und die geringe Expertise im Steuerungskreis der nationalen Dekade. Sie fordert die Sicherstellung biomedizinischer Forschung ohne psychosomatische Ansätze.
+-   **[20:36:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=1236)** - **Bundesministerin Dorothee Bär**: Sie beantwortet die Fragen im Block. Sie bestätigt die Aufbruchsstimmung in den Partnerdialogen und kündigt die Definition von Abbruchkriterien an. Sie erläutert die enge Verzahnung mit der europäischen Innovationspolitik und die Bedeutung frühzeitiger Positionierung. Sie korrigiert, dass die Roadmap-Ergebnisse bereits im Mai vorgestellt werden und die Roadmaps "lebende Dokumente" seien, während Förderaufrufe sukzessive erfolgen. Sie nennt Fusionsforschung als Beispiel für Technologieoffenheit und erklärt, dass nicht alle Ziele bis zum Ende der Legislaturperiode erreichbar seien. Sie nennt konkrete Zahlen für die Quantentechnologie und stellt klar, dass Fusions-Hubs nicht feststehen, sondern ein wettbewerbliches Verfahren läuft. Sie weist Kritik an Intransparenz zurück und verweist auf die HTAD-Website und breite Beteiligung. Die Zuständigkeit für BMAS-Sperrungen liegt nicht bei ihr. Zur Gesundheitsforschung (ME/CFS, Post-COVID) korrigiert sie die Berichterstattung als falsch, betont ihre persönliche Priorität für dieses Thema und lehnt ein Ausspielen von Krankheiten ab. Sie verteidigt die Zusammensetzung des Steuerungskreises und versichert, dass biomedizinische Forschung im Mittelpunkt steht, ohne psychosomatische Ansätze.
+-   **[39:42:00](https://www.youtube.com/watch?v=YtXdxVjG1Y8&t=2382)** - **Ausschussvorsitzender**: Er bedankt sich bei der Bundesministerin für ihre umfassenden Ausführungen und schließt die Sitzung aufgrund der Reiseplanung der Ministerin ohne weitere Nachfragerunde.

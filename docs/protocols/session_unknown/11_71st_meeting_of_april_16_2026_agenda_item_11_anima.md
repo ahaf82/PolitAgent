@@ -1,0 +1,63 @@
+# 71. Sitzung vom 16. April 2026. Tagesordnungspunkt 11: Tierschutz und Forschung
+
+## Sitzungs-Metadaten
+- **Sitzung:** 71. Sitzung
+- **Datum:** 16. April 2026
+- **Tagesordnungspunkt (TOP):** 11
+- **Originaltitel:** 71st meeting of April 16, 2026. Agenda item 11: Animal welfare and research
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=xmxJ8aZleoM)
+
+## Kurzzusammenfassung
+Die Debatte im Bundestag thematisierte das Spannungsfeld zwischen Tierschutz und wissenschaftlicher Forschung, insbesondere im Bereich der Tierversuche. Die Fraktion Bündnis 90/Die Grünen kritisierte mangelnde Transparenz und die geplante Aufweichung des Tierschutzes, während CDU/CSU und AfD die bestehenden strengen Regelungen Deutschlands hervorhoben und vor einer Abwanderung der Forschung durch übermäßige Bürokratie warnten. SPD und Die Linke betonten die Notwendigkeit, Tierversuche zu reduzieren und Alternativen zu fördern, äußerten sich jedoch kritisch zu der geplanten Ausgliederung der Versuchstierregelungen aus dem Tierschutzgesetz. Im Kern ging es um die Frage, ob ein eigenständiges Gesetz für wissenschaftliche Tierversuche den Tierschutz stärkt oder schwächt und welche Rahmenbedingungen für eine zukunftsfähige Forschung notwendig sind.
+
+## Kernaussagen und Positionen der Fraktionen
+
+- **Bündnis 90/Die Grünen**:
+  - Kritisierte die Bundesregierung für mangelnde Transparenz bei Tierversuchen, insbesondere der Kategorie "schwer", und den fehlenden Zugang für Abgeordnete und Journalisten.
+  - Beanstandete die geplante Aufweichung des Tierschutzes durch ein eigenständiges Gesetz für wissenschaftliche Tierversuche, das über dem allgemeinen Tierschutzgesetz stehen soll, da dies allgemeine Tierschutzgrundsätze gefährde.
+  - Forderte mehr Transparenz, klare Regeln für alle Seiten und eine stärkere Förderung von Alternativen zu Tierversuchen.
+  - Verlangte die Veröffentlichung einer zurückgehaltenen Tierversuchsreduktionsstrategie, die von der ehemaligen Ampelregierung erarbeitet wurde.
+
+- **CDU/CSU**:
+  - Stufte den Antrag der Grünen als unglaubwürdig ein, da er Tierschutz und Forschung gegeneinander ausspiele.
+  - Bemängelte ausufernde Bürokratie, extrem lange Genehmigungsverfahren und Überregulierung in Deutschland, die zur Abwanderung von Forschung ins Ausland, oft in Länder mit niedrigeren Standards, führe.
+  - Betonte, dass Deutschland bereits strenge Vorgaben für Tierversuche hat und alternative Methoden fördert, der Rückgang der Versuchstierzahlen jedoch auch ein Warnsignal für Forschungsverlagerung sei.
+  - Befürwortete ein eigenständiges Gesetz für wissenschaftliche Tierversuche, um den besonderen Rahmenbedingungen der Forschung Rechnung zu tragen, Rechtssicherheit für Forscher zu schaffen und Deutschland als Forschungsstandort zu stärken, ohne den Tierschutz zu schwächen.
+  - Hob die Notwendigkeit von Tiermodellen für den medizinischen Fortschritt hervor, insbesondere bei der Entwicklung von Medikamenten und Operationstechniken, und nannte Beispiele von Nobelpreisen, die auf Tierversuchen basierten.
+
+- **AfD**:
+  - Kritisierte den "moralischen Ton" des Grünen-Antrags, der eine mangelnde Ernsthaftigkeit des Tierschutzes in der deutschen Forschung suggeriere, obwohl Deutschland bereits eines der strengsten Systeme weltweit habe.
+  - Betonte, dass das 3R-Prinzip (Vermeiden, Verringern, Verbessern) längst verbindlicher Standard sei und alternative Methoden dort eingesetzt würden, wo sie valide sind.
+  - Identifizierte das eigentliche Problem in zu vielen Regeln und Bürokratie, die zu langen Genehmigungsverfahren und einer hohen Zahl von "Überschusstieren" (ca. 1,4 Millionen pro Jahr) führen.
+  - Lehnte die "Überregulierungsromantik" der Grünen ab, die politische Zielvorgaben in der Forschung durchsetzen wolle, anstatt praktische Probleme zu lösen.
+
+- **SPD**:
+  - Betonte die Notwendigkeit, Tierversuche überall dort zu vermeiden, wo es möglich ist, und Alternativen zu fördern, wie es das Tierschutzgesetz vorschreibt.
+  - Wies darauf hin, dass Deutschland die EU-Richtlinie zu Tierversuchen noch nicht vollständig umgesetzt habe, insbesondere in Bezug auf unabhängige ethische Prüfung und Schaden-Nutzen-Analyse von Anträgen.
+  - Spricht sich gegen die Verlagerung des Schutzes von Versuchstieren aus dem Tierschutzgesetz in ein neues Gesetz aus, da die bisherigen Regelungen (u.a. sinkende Versuchstierzahlen) Wirkung zeigten und Tierschutz im Grundgesetz verankert sei.
+  - Erkannte das Spannungsfeld zwischen Tierschutz als Staatsziel und dem grundgesetzlich geschützten Schutz von Forschung und Wissenschaft an.
+  - Fordert "wissenschaftsadäquate Lösungen", um den Besonderheiten der Forschung gerecht zu werden, da Tierversuche für komplexe biologische Systeme weiterhin notwendig sein können.
+
+- **Die Linke**:
+  - Beschrieb die Missstände bei Tierversuchen als "eklatant wie offensichtlich" und einige als "wissenschaftlicher Unsinn".
+  - Kritisierte scharf die Planung der Bundesregierung, Tierversuche außerhalb des Tierschutzgesetzes zu regeln, da dies dem Verschlechterungsverbot und dem Staatsziel Tierschutz im Grundgesetz widerspreche und die Forschung nicht stärke.
+  - Monierte, dass nur ein Bruchteil der Forschungsgelder auf 3R-Methoden entfalle und die Allgemeine Verwaltungsvorschrift zum Tierschutzgesetz seit dem Jahr 2000 nicht aktualisiert wurde.
+  - Begrüßte den Grünen-Antrag, forderte jedoch zusätzlich ein sofortiges Verbot von schwerbelastenden Tierversuchen, anstelle einer bloßen Reduktionsstrategie, da es hierfür keine Rechtfertigung gebe.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=0)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Aussprache zum Thema „Tierschutz und Forschung Hand in Hand – Versuchstiere wirksam schützen“ und bittet um Aufmerksamkeit.
+- **[00:00:47](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=47)** - **Dr. Zoe Mayer (Bündnis 90/Die Grünen)**: Kritisierte die Bundesregierung für mangelnde Transparenz bei Tierversuchen, insbesondere im Hinblick auf "schwere" Versuche und fehlenden Zugang für Abgeordnete und Journalisten. Sie bemängelte, dass die Bundesregierung plane, den Tierschutz durch ein eigenständiges Gesetz für wissenschaftliche Tierversuche aufzuweichen, das über dem allgemeinen Tierschutzgesetz stehen soll. Sie forderte mehr Transparenz, klare Regeln, Alternativen zu Tierversuchen und die Veröffentlichung einer zurückgehaltenen Reduktionsstrategie.
+- **[00:05:03](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=303)** - **Adrian Grasse (CDU/CSU)**: Kritisierte den Grünen-Antrag als unglaubwürdig, da er Tierschutz und Forschung gegeneinander ausspiele. Er bemängelte ausufernde Bürokratie und lange Genehmigungsverfahren in Deutschland, die zur Abwanderung von Forschung ins Ausland führten. Er verteidigte die Notwendigkeit eines eigenständigen Gesetzes für wissenschaftliche Tierversuche, um den Rahmenbedingungen der Forschung gerecht zu werden und Rechtssicherheit zu schaffen, und verwies auf andere europäische Länder, die diesen Weg bereits gingen.
+- **[00:08:49](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=529)** - **Stephan Protschka (AfD)**: Kritisierte den moralischen Ton des Grünen-Antrags, der die deutsche Forschung ungerechtfertigt darstelle, da Deutschland bereits strenge Tierschutzstandards habe und das 3R-Prinzip lebe. Er sah das Problem in übermäßiger Bürokratie, die zu "Überschusstieren" führe, und warf den Grünen Misstrauen gegenüber der Wissenschaft und politische Zielvorgaben vor.
+- **[00:12:52](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=772)** - **Dr. Franziska Kersten (SPD)**: Begann mit einem positiven Beispiel tierversuchsfreier Forschung und betonte die Notwendigkeit, Tierversuche zu vermeiden und Alternativen zu fördern. Sie wies auf Defizite bei der Umsetzung der EU-Richtlinie zu Tierversuchen hin und forderte eine Anpassung des bestehenden Tierschutzgesetzes. Sie sprach sich gegen die Ausgliederung des Versuchstierschutzes in ein neues Gesetz aus, da die bisherigen Regelungen Wirkung zeigten und Tierschutz im Grundgesetz verankert sei.
+- **[00:16:03](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=963)** - **Ina Latendorf (Die Linke)**: Beschrieb die Missstände bei Tierversuchen als "eklatant" und "wissenschaftlicher Unsinn". Sie kritisierte die Planung, Tierversuche außerhalb des Tierschutzgesetzes zu regeln, als Verstoß gegen das Staatsziel Tierschutz. Sie bemängelte die mangelnde Förderung von 3R-Methoden und die veraltete Verwaltungsvorschrift zum Tierschutzgesetz. Sie forderte ein sofortiges Verbot von schwerbelastenden Tierversuchen.
+- **[00:19:18](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1158)** - **Dr. Hans Theiss (CDU/CSU)**: Erörterte die ethischen Fragen in der medizinischen Forschung und verteidigte die Notwendigkeit eines eigenen Gesetzes für Versuchstiere zur Schaffung von Rechtssicherheit und zur Stärkung des Forschungsstandorts Deutschland. Er betonte, dass viele medizinische Fortschritte ohne Tiermodelle nicht möglich wären und nannte zahlreiche historische Beispiele. Er lehnte den Grünen-Antrag ab, da Patientensicherheit höchste Priorität habe.
+- **[00:21:53](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1313)** - **Zwischenfrage abgelehnt**: Dr. Theiss lehnte eine Zwischenfrage von Dr. Mayer (Bündnis 90/Die Grünen) ab.
+- **[00:22:30](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1350)** - **Stefan Schröder (AfD)**: Kritisierte den Grünen-Antrag erneut als "grüne Überregulierungsromantik" und "Moralpredigt". Er bekräftigte, dass Tierschutzstandards und Alternativmethoden bereits etabliert seien und die Grünen mit ihrem Antrag unnötige Bürokratie und politische Zielvorgaben in die Forschung bringen wollten. Er lehnte den Antrag als "Gesinnungspolitik" ab.
+- **[00:25:50](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1550)** - **Dr. Carolin Wagner (SPD)**: Erläuterte das Spannungsfeld zwischen Tierschutz als Staatsziel und grundgesetzlich geschützter Forschung. Sie bestätigte die Notwendigkeit von Tierversuchen für komplexe biologische Systeme, betonte jedoch, dass die Abwägungsfragen bei Versuchstieren anders seien als im allgemeinen Umgang mit Tieren. Sie forderte "wissenschaftsadäquate Lösungen", um den Besonderheiten der Wissenschaft gerecht zu werden, und verwies auf frühere Reformbestrebungen, die auch von den Grünen mitgetragen wurden.
+- **[00:29:12](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1752)** - **Stephan Albani (CDU/CSU)**: Bewertete den Grünen-Antrag als "gut gemeint", aber am Problem vorbeigehend und forderte ein eigenständiges Tierschutzgesetz für Forschung, um höchste Tierschutzstandards mit zukunftsfähigen Forschungsbedingungen zu vereinen.
+- **[00:30:11](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1811)** - **Zwischenfrage zugelassen**: Stephan Albani ließ eine Zwischenfrage von Dr. Zoe Mayer (Bündnis 90/Die Grünen) zu.
+- **[00:30:23](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1823)** - **Dr. Zoe Mayer (Bündnis 90/Die Grünen)**: Fragte nach der Vereinbarkeit der Forderung nach höchsten Tierschutzstandards mit der Kritik der Tierschutzbeauftragten der Bundesregierung (CDU), dass ein eigenes Tierversuchsgesetz den Tierschutz aushöhlen würde.
+- **[00:31:19](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=1879)** - **Stephan Albani (CDU/CSU)**: Antwortete, es komme auf die konkrete Regelung an und betonte die Notwendigkeit, beide Aspekte zu vereinen. Er fuhr fort, der Grünen-Antrag richte sich an grundsätzliche Gegner von Tierversuchen, was schlechte Forschungspolitik sei. Er verwies auf internationale Beispiele für separate Tierversuchsgesetze, die den Tierschutz nicht schwächen, und bekräftigte die anhaltende Notwendigkeit von Tiermodellen für biomedizinische Forschung, um spezialisierte und klare Regelungen zu schaffen.
+- **[00:34:11](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=2051)** - **Sitzungsende / Abstimmung**: Der Präsident schloss die Aussprache. Es folgte eine Abstimmung über die Federführung zur Überweisung des Antrags (Drucksache 21/5325). Der Vorschlag von Bündnis 90/Die Grünen (Federführung beim Ausschuss für Landwirtschaft, Ernährung und Heimat) wurde mit den Stimmen von AfD, Bündnis 90/Die Grünen und Die Linke gegen die Stimmen von CDU/CSU und SPD abgelehnt. Der Vorschlag von CDU/CSU und SPD (Federführung beim Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung) wurde mit den Stimmen von CDU/CSU und SPD gegen die Stimmen von AfD, Bündnis 90/Die Grünen und Die Linke angenommen.
+- **[00:35:31](https://www.youtube.com/watch?v=xmxJ8aZleoM&t=2131)** - **Ende des Tagesordnungspunkts**: Der Präsident ruft den nächsten Tagesordnungspunkt auf.

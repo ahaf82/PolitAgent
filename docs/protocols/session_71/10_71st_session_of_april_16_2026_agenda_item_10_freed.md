@@ -1,0 +1,60 @@
+# Berufsfreiheit für Selbstständige sicherstellen – Abgrenzung zu abhängiger Beschäftigung rechtssicher machen
+
+## Sitzungs-Metadaten
+- **Sitzung:** 71. Sitzung
+- **Datum:** 16. April 2026
+- **Tagesordnungspunkt (TOP):** 10
+- **Originaltitel:** 71st session of April 16, 2026. Agenda item 10: Freedom of occupation for the self-employed
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=rxtbbCrxoJk)
+
+## Kurzzusammenfassung
+Die Debatte widmet sich der rechtlichen Abgrenzung zwischen selbstständiger und abhängiger Beschäftigung sowie der Notwendigkeit, die Berufsfreiheit für Selbstständige zu gewährleisten. Alle Fraktionen erkennen die Problematik der Rechtsunsicherheit im Statusfeststellungsverfahren an, die sowohl die Ausbeutung durch Scheinselbstständigkeit fördert als auch die Beauftragung echter Selbstständiger erschwert. Während die AfD einen Antrag zur Stärkung der Selbstständigkeit und Bürokratieabbau einbringt, verweisen die Koalitionsfraktionen auf einen eigenen Gesetzentwurf, der bis Jahresende eine umfassende Reform schaffen soll. Einigkeit besteht im Ziel, Rechtssicherheit zu erhöhen und Altersarmut bei Selbstständigen vorzubeugen, jedoch bei unterschiedlichen Lösungsansätzen.
+
+## Kernaussagen und Positionen der Fraktionen
+-   **AfD**:
+    -   Kritisiert die mangelnde Rechtsklarheit und die über 20 Jahre andauernde Untätigkeit der Bundesregierungen bezüglich der Attraktivität und Rechtssicherheit der Selbstständigkeit.
+    -   Bemängelt das Statusfeststellungsverfahren der Deutschen Rentenversicherung, das auf veralteten Kriterien basiere und nicht zur modernen Projektarbeit passe, was zur Abwanderung von Fachkräften führe.
+    -   Wirft der Regierung vor, Selbstständige zu Arbeitnehmern erklären zu wollen, um Sozialkassen zu füllen.
+    -   Fordert objektive Kriterien für Selbstständigkeit (eigenes Risiko, freie Verfügung über Arbeitskraft, eigene Gestaltung, ausreichende Eigenvorsorge) und maximale Wahlfreiheit bei der Altersvorsorge.
+    -   Verlangt ein zügiges, digitales Feststellungsverfahren und eine Lösung zur Anrechnung freiwilliger Beiträge, um hohe Nachforderungen zu verhindern und Bürokratie abzubauen.
+    -   Setzt sich für echte Berufsfreiheit, weniger Bürokratie und die Stärkung der Selbstständigen ein.
+-   **CDU/CSU**:
+    -   Sieht Selbstständigkeit als Motor für Fortschritt, Flexibilität, Innovation und Produktivität, betont aber die Notwendigkeit hoher Rechtssicherheit.
+    -   Verweist auf die Komplexität des Statusfeststellungsverfahrens aufgrund gesetzlicher Kriterien und zahlreicher Einzelfallentscheidungen, die zu Unsicherheit führen.
+    -   Fördert schnellere Verfahren, die moderne Wirtschaftsentwicklungen berücksichtigen und Missbrauch verhindern, ohne die Rechtssicherheit zu gefährden.
+    -   Betont die Wichtigkeit der Altersvorsorge für Selbstständige, um zukünftige Belastungen der Sozialkassen zu vermeiden.
+    -   Kündigt an, dass die Ampel-Koalition bis zum Sommer einen Gesetzentwurf vorlegen wird, der Rechtssicherheit schaffen und moderne Arbeitsformen berücksichtigen soll.
+    -   Listet Kriterien für eine erfolgreiche Lösung auf: Branchenübergreifende Anwendbarkeit, Berücksichtigung moderner Arbeitsformen, Schutz vor prekärer Arbeit und Altersarmut, Freiheit für Hochqualifizierte, Verhinderung überbordender Rückforderungsrisiken und Beachtung nebenberuflicher Tätigkeiten.
+-   **Bündnis 90/Die Grünen**:
+    -   Erkennt die 3,5 Millionen Selbstständigen als zentralen Innovationsmotor an, die jedoch oft übersehen werden.
+    -   Betont die Notwendigkeit, Menschen vor Scheinselbstständigkeit zu schützen, aber auch die Rechtssicherheit für Solo-Selbstständige zu erhöhen, um Hemmnisse für Auftraggeber abzubauen.
+    -   Kritisiert die vorliegenden Vorschläge des Arbeitsministeriums als unausgewogen, lückenhaft, unscharf und leicht umgehbar, insbesondere im Hinblick auf die Realität schwankender Einkommen.
+    -   Fordert eine echte Reform mit einer modernen, praxistauglichen Statusfeststellung, einer einheitlichen Definition von Selbstständigkeit über alle Rechtsbereiche hinweg und einer flexiblen, schützenden Altersvorsorge.
+    -   Monieren, dass Selbstständige bei Entlastungsvorschlägen der Bundesregierung (z.B. steuer- und abgabenfreie 1000-Euro-Zahlung) außen vor bleiben.
+-   **SPD**:
+    -   Betrachtet Selbstständigkeit als essenziell für Wohlstand und betont die Notwendigkeit, sie zu fördern.
+    -   Spricht sich entschieden gegen Scheinselbstständigkeit aus, die zur Ausbeutung und zum Vorenthalten von Sozialversicherungsleistungen führt.
+    -   Begrüßt das "Herrenberg-Urteil" des Bundessozialgerichts, das die Abgrenzung zwischen abhängiger Beschäftigung und Selbstständigkeit klärte.
+    -   Will Rechtssicherheit schaffen, indem eine klare Definition von Selbstständigkeit eingeführt wird, die Scheinselbstständigkeit verhindert, ohne echte Selbstständigkeit zu behindern.
+    -   Zielt darauf ab, Altersarmut bei Selbstständigen vorzubeugen und das Gesetzgebungsverfahren bis zum Sommer abzuschließen.
+    -   Plant ein modernes Modell rentenversicherungspflichtiger Selbstständigkeit, basierend auf der bewussten Entscheidung beider Parteien, nachvollziehbaren Kriterien unternehmerischen Handelns und der wirksamen Verhinderung von Scheinselbstständigkeit.
+    -   Lehnt den AfD-Antrag ab, da dieser hinter den Erwartungen zurückbleibe.
+-   **Die Linke**:
+    -   Bezieht sich ebenfalls auf das "Herrenberg-Urteil" von 2023, das die abhängige Beschäftigung einer Musikschullehrkraft bestätigte und ihr vollen Sozialversicherungsschutz zusprach.
+    -   Kritisiert, dass viele Bildungseinrichtungen Scheinselbstständigkeit nutzen, um Sozialversicherungsbeiträge zu sparen, und dass Übergangsregelungen die Umsetzung des Urteils verzögerten.
+    -   Stimmt der Notwendigkeit schnellerer und digitalisierter Statusfeststellungsverfahren zu.
+    -   Lehnt den AfD-Antrag ab, da dieser die Feststellung von Scheinselbstständigkeit erschweren und Auftraggeber von der Haftung für Sozialversicherungsbeiträge befreien würde, was Sozialversicherungsbetrug attraktiver mache.
+    -   Fordert, dass weisungsgebunden und betrieblich integriert Arbeitende voll sozial abgesichert werden und auch echte Selbstständige umfassenden Sozialschutz erhalten.
+
+## Chronologischer Debattenverlauf
+-   **[00:00:00](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=0)** - **Sitzungsbeginn / Einleitung**: Die Debatte wird eröffnet zur Beratung des Antrags der AfD-Fraktion „Berufsfreiheit für Selbstständige sicherstellen – Abgrenzung zu abhängiger Beschäftigung rechtssicher machen“. Es wurde eine Aussprache von 20 Minuten vereinbart, und der Sitzungspräsident ermahnt zur Ruhe.
+-   **[00:00:51](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=51)** - **Peter Bohnhof (AfD)**: Kritisiert die anhaltende Rechtsunsicherheit für Selbstständige und die Verwendung veralteter Kriterien im Statusfeststellungsverfahren der Deutschen Rentenversicherung, die moderne Arbeitsformen behinderten und Fachkräfte zur Abwanderung bewegten. Er wirft der Regierung vor, durch die Umklassifizierung von Selbstständigen Einnahmen für staatliche Kassen zu generieren. Er fordert objektive Kriterien für Selbstständigkeit, Wahlfreiheit bei der Altersvorsorge und ein digitales, zügiges Feststellungsverfahren, um hohe Nachforderungen zu vermeiden.
+-   **[00:05:44](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=344)** - **Wilfried Oellers (CDU/CSU)**: Betont die Bedeutung der Selbstständigkeit für Fortschritt und Flexibilität, weist aber auf die große Unsicherheit hin, die durch die Komplexität des Statusfeststellungsverfahrens entsteht. Er fordert schnellere Verfahren und eine Berücksichtigung moderner Wirtschaftsentwicklungen. Er unterstreicht die Notwendigkeit, Altersvorsorge für Selbstständige zu regeln und Missbrauch zu vermeiden, und kündigt entsprechende Lösungen im Rahmen des Koalitionsvertrages an.
+-   **[00:09:12](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=552)** - **Sandra Stein (Bündnis 90/Die Grünen)**: Erläutert die Rolle der Selbstständigen als Innovationsmotor und die Problematik der Scheinselbstständigkeit. Sie kritisiert, dass Rechtsunsicherheit im Statusfeststellungsverfahren Auftraggeber abschreckt und bemängelt die mangelnde Balance und Unschärfe der bisherigen Vorschläge des Arbeitsministeriums. Sie fordert eine echte Reform mit einer modernen, praxistauglichen Statusfeststellung, einer einheitlichen Definition von Selbstständigkeit über alle Rechtsbereiche und eine flexible Altersvorsorge.
+-   **[00:12:36](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=756)** - **Jens Peick (SPD)**: Anerkennt die Selbstständigkeit als Grundlage des Wohlstands, grenzt sie aber klar von der Scheinselbstständigkeit ab, die er als Ausbeutung verurteilt. Er begrüßt das "Herrenberg-Urteil" und betont die Notwendigkeit, für die vielfältigen Zwischenformen von Beschäftigung und Selbstständigkeit Rechtssicherheit zu schaffen. Er kündigt an, dass die Koalition bis zum Sommer ein Gesetzgebungsverfahren abschließen will, um eine klare Definition von Selbstständigkeit einzuführen und Altersarmut vorzubeugen.
+-   **[00:14:51](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=891)** - **Pascal Meiser (Die Linke)**: Geht erneut auf das "Herrenberg-Urteil" ein und kritisiert, dass Bildungseinrichtungen scheinselbstständige Lehrkräfte beschäftigen und die Umsetzung des Urteils durch Übergangsregelungen verzögert werde. Er lehnt den AfD-Antrag ab, da dieser seiner Ansicht nach die Feststellung von Scheinselbstständigkeit erschweren und Sozialversicherungsbetrug attraktiver machen würde. Er fordert, dass weisungsgebunden Arbeitende voll sozial abgesichert sein müssen und auch echte Selbstständige umfassenden Sozialschutz erhalten.
+-   **[00:17:15](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=1035)** - **Dr. Markus Reichel (CDU/CSU)**: Schildert anhand eines Beispiels die realen Auswirkungen der Rechtsunsicherheit auf selbstständige IT-Dienstleister und die sinkende Zahl von Selbstständigen. Er bezeichnet dies als strukturelles Problem und fordert verlässliche Rahmenbedingungen, um Selbstständigkeit zu fördern, die das Rückgrat der Wirtschaft bilde. Er kündigt einen baldigen Gesetzentwurf der Bundesregierung an und nennt entscheidende Kriterien für eine gelingende Lösung, darunter die Berücksichtigung moderner Arbeitsformen und der Schutz vor Altersarmut und überbordenden Rückforderungsrisiken.
+-   **[00:20:07](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=1207)** - **Peter Bohnhof (AfD)**: Stellt eine Zwischenfrage an Dr. Reichel, warum die Unionsfraktion dem AfD-Antrag nicht zustimme, obwohl in der Debatte viele gemeinsame Anliegen genannt würden.
+-   **[00:20:35](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=1235)** - **Dr. Markus Reichel (CDU/CSU)**: Erklärt, dass die Bundesregierung gemäß Koalitionsvereinbarung an einem eigenen, umfassenden Vorschlag arbeite, der die Anliegen der Betroffenen und Fachleute berücksichtigen werde. Er bittet darum, den Weg sachlich und gründlich zu gehen und den Gesetzesvorschlag der Bundesregierung abzuwarten, um eine hervorragende Regelung zu erarbeiten.
+-   **[00:22:29](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=1349)** - **Angelika Glöckner (SPD)**: Unterstreicht die zentrale Bedeutung der Statusfrage für die soziale Absicherung und bekräftigt den SPD-Grundsatz, dass Arbeit verlässlich abgesichert sein muss. Sie verweist erneut auf das Herrenberg-Urteil und kündigt an, dass der Gesetzgeber bis Jahresende ein modernes Modell rentenversicherungspflichtiger Selbstständigkeit mit klaren Säulen (bewusste Entscheidung, unternehmerische Kriterien, Missbrauchsverhinderung) schaffen wird, das Klarheit, Rechtssicherheit und soziale Absicherung bietet. Sie lehnt den AfD-Antrag ab.
+-   **[00:24:48](https://www.youtube.com/watch?v=rxtbbCrxoJk&t=1488)** - **Sitzungsende / Überweisung**: Die Aussprache wird geschlossen. Die interfraktionelle Überweisung der Vorlage auf Drucksache 21/5059 an die in der Tagesordnung aufgeführten Ausschüsse wird vorgeschlagen und angenommen.

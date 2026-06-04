@@ -1,0 +1,69 @@
+# 69. Sitzung vom 27. März 2026. Tagesordnungspunkt 28: Preissteigerungen im Gastronomiegewerbe
+
+## Sitzungs-Metadaten
+- **Sitzung:** 69. Sitzung
+- **Datum:** 27. März 2026
+- **Tagesordnungspunkt (TOP):** 28
+- **Originaltitel:** 69th meeting of March 27, 2026. Agenda item 28: Price increases in the catering industry
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=utWWuZZiVhs)
+
+## Kurzzusammenfassung
+Die Debatte behandelte die Preissteigerungen und die aktuelle Lage des Gastronomiegewerbes in Deutschland. Während die AfD eine einheitliche Reduzierung der Mehrwertsteuer auf 7% für alle gastronomischen Leistungen, einschließlich Getränke, sowie einen umfassenden Bürokratieabbau forderte, um Betriebsschließungen entgegenzuwirken, kritisierten andere Fraktionen diese Ansätze. Koalitionsfraktionen verwiesen auf bereits umgesetzte Entlastungen, wie die unbefristete 7%-Regelung für Speisen, und laufende Maßnahmen zur Deregulierung. Die Opposition betonte zudem die Bedeutung von Verbraucherschutzstandards, bekämpfte die Ursachen des Fachkräftemangels durch bessere Arbeitsbedingungen und thematisierte steigende Gewerbemieten.
+
+## Kernaussagen und Positionen der Fraktionen
+
+- **AfD**:
+  - Sieht die Gastronomiebranche in einer akuten Krise mit Zehntausenden von Betriebsschließungen und Arbeitsplatzverlusten, verursacht durch hohe Energiekosten, Mindestlohn, Logistikkosten und Bürokratie.
+  - Fordert eine einheitliche Mehrwertsteuer von 7% auf alle gastronomischen Leistungen, einschließlich Getränke, um die Wirtschaftlichkeit und Wettbewerbsfähigkeit zu verbessern. Dies würde auch Bürokratie durch die Vereinfachung des Steuersystems abbauen.
+  - Kritisiert die Belastung durch Herkunftskennzeichnungen und umfassende Dokumentationspflichten als übermäßige Bürokratie.
+  - Verneint einen Fachkräftemangel angesichts der hohen Zahl von Betriebsaufgaben und sieht die Politik als mitverantwortlich für die Lage an.
+  - Betont die Notwendigkeit, kleine, inhabergeführte Betriebe und soziale Treffpunkte, insbesondere im ländlichen Raum, zu erhalten.
+
+- **CDU/CSU**:
+  - Erkennt die schwierige Lage der Gastronomie an, verweist aber auf die bereits von der Regierungskoalition unbefristet eingeführte ermäßigte Mehrwertsteuer von 7% auf Speisen als wichtige Entlastung.
+  - Arbeitet an der Flexibilisierung von Arbeitszeiten und der Vereinfachung von Dokumentationspflichten in Zusammenarbeit mit der Branche.
+  - Hebt die verabschiedete Nationale Tourismusstrategie zur Steigerung der Wettbewerbsfähigkeit der Branche hervor.
+  - Lehnt die Aufweichung von Allergenkennzeichnungen ab, da diese Informationen für Gäste mit Unverträglichkeiten notwendig seien und auch die Servicekräfte entlasten würden.
+  - Vertritt die Ansicht, dass vegetarische Alternativen in Kantinen oft günstiger seien und eine Auswahl zum Standard gehören sollte.
+  - Setzt sich für eine praxisgerechte Ausgestaltung der Margenbesteuerung in Brüssel und die Möglichkeit eines Opt-outs für betrieblich veranlasste Reisen ein.
+  - Betont die Bedeutung des Gastgewerbes als Mittelstand, Familienunternehmen, Ausbildungsort und Standortanker.
+
+- **Bündnis 90/Die Grünen**:
+  - Kritisiert die AfD für eine angeblich falsche und zu pessimistische Darstellung des Tourismus in Deutschland, der tatsächlich boomt und Rekordübernachtungszahlen verzeichnet.
+  - Lehnt die Forderung nach einer reduzierten Mehrwertsteuer auf Getränke als "Schnapsidee" ab, die zu Lasten der Steuerzahler gehe und insbesondere den Alkoholkonsum begünstige.
+  - Verweist auf die von der Regierung eingeführten "Praxischecks" als effektives Instrument zum Bürokratieabbau, das bereits in der Gastronomie Anwendung finde.
+  - Kritisiert, dass die AfD den Fachkräftemangel als eine der größten Herausforderungen der Branche ignoriere und die Anwerbung ausländischer Fachkräfte ablehne.
+  - Bezeichnet die AfD als "Tourismus-Schreck", da sie Weltoffenheit und Gastfreundschaft ablehne.
+
+- **SPD**:
+  - Bestätigt den Druck auf das Gastgewerbe, lehnt jedoch die Vorschläge der AfD ab, die Transparenz, Verbraucherschutz und bestehende Standards abbauen wollen.
+  - Sieht in der Aufweichung von Herkunfts- und Allergenkennzeichnungen ein Gesundheitsrisiko und betont, dass Transparenz kein Luxus, sondern eine Voraussetzung für informierte Bürgerentscheidungen sei.
+  - Benennt tiefere strukturelle Probleme wie Fachkräftemangel, Inflation, Nachfolgeprobleme, Investitionen in Digitalisierung und Modernisierung sowie die Entwicklung von Innenstädten.
+  - Bezeichnet den AfD-Antrag als "ideologischen Bauchladen" und "Angriff auf Verbraucherinteressen", der keine echten Probleme löse, sondern diese auf die Gäste verschiebe.
+  - Fordert einen Bürokratieabbau, der nur dort ansetzt, wo Pflichten tatsächlich unnötig kompliziert sind, ohne Schutzstandards zu gefährden.
+  - Erwähnt steigende Gewerbemieten als eine große Herausforderung.
+
+- **Die Linke**:
+  - Sieht die Krise der Gastronomie als eine "Krise der Kaufkraft", da viele Menschen sich Restaurantbesuche und Urlaub nicht mehr leisten können.
+  - Fordert zur Stärkung der Kaufkraft der Bevölkerung höhere Löhne und Tarifbindung.
+  - Kritisiert die AfD-Forderung zur Aufweichung der Allergenkennzeichnungspflicht als "hanebüchenen Unsinn" und Gefährdung der Sicherheit von Menschen mit Allergien.
+  - Führt den Fachkräftemangel auf niedrige Löhne, schlechte Arbeitszeiten und eine hohe Quote von Mindestlohnverstößen zurück.
+  - Fordert einen höheren gesetzlichen Mindestlohn und verlässliche Arbeitszeiten zur Attraktivitätssteigerung der Arbeitsplätze.
+  - Schlägt die Einführung eines "Gewerbemietendeckels" vor, um Gewerbetreibende und damit auch Verbraucher zu entlasten.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=utWWuZZiVhs&t=0)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet. Der Sitzungsleiter kündigt die Aussprache über den Antrag der AfD-Fraktion "Preisexplosion im Gastronomiegewerbe verhindern – Arbeitsplätze sichern – Bürokratie abbauen" mit einer Dauer von 30 Minuten an.
+- **[00:00:15](https://www.youtube.com/watch?v=utWWuZZiVhs&t=15)** - **Kay Gottschalk (AfD)**: Führt aus, dass seine Partei grundsätzlich gegen Subventionen sei, jedoch bei schlechten Bedingungen durch die "Altparteien" (hohe Energiekosten, Mindestlohn, Logistikkosten) "lebensverlängernde Maßnahmen" zur Verbesserung der Wirtschaftlichkeit und Wettbewerbsfähigkeit befürworte. Er nennt 31.000 Gastronomiebetriebe, die in den ersten elf Monaten des Jahres 2025 laut DEHOGA insolvent gegangen oder aufgegeben hätten. Er fordert eine einheitliche 7% Umsatzsteuer auf alles in der Gastronomie, um Bürokratie abzubauen und die Branche zu stabilisieren, da Getränke oft die wirtschaftliche Basis vieler Betriebe darstellen. Er betont die Bedeutung einer lebendigen Gastronomie für Innenstädte und Tourismus.
+- **[00:04:39](https://www.youtube.com/watch?v=utWWuZZiVhs&t=279)** - **Anja Karliczek (CDU/CSU)**: Bestätigt die schwierige Lage der Gastronomie mit Tausenden von Schließungen. Sie verweist auf die unbefristete Wiedereinführung des ermäßigten Mehrwertsteuersatzes von 7% auf Speisen durch die Regierungskoalition als eine Maßnahme, die den Betrieben Luft verschaffen soll. Sie erwähnt Bemühungen zur Flexibilisierung der Arbeitszeiten und zur Vereinfachung von Dokumentationspflichten in enger Abstimmung mit der Branche. Sie lehnt die Abschaffung von Allergenkennzeichnungen ab, da diese für Gäste mit Unverträglichkeiten unerlässlich und auch für Servicekräfte hilfreich seien. Den AfD-Antrag lehnt sie ab.
+- **[00:09:40](https://www.youtube.com/watch?v=utWWuZZiVhs&t=580)** - **Stefan Schmidt (Bündnis 90/Die Grünen)**: Kritisiert die AfD für die Darstellung eines Tourismus kurz vor dem Untergang und verweist auf den boomenden Tourismus in Deutschland mit Rekordübernachtungszahlen. Er bezeichnet die Forderung nach reduzierter Mehrwertsteuer auf Getränke als "Schnapsidee" und als "Vollrausch auf Kosten der Steuerzahler". Er führt die "Praxischecks" von Robert Habeck als erfolgreiches Instrument zum Bürokratieabbau an. Er kritisiert, dass die AfD den größten Herausforderung der Branche, den Arbeitskräftemangel, ignoriere und die Anwerbung ausländischer Fachkräfte ablehne, was die AfD zum "Tourismus-Schreck" mache.
+- **[00:12:27](https://www.youtube.com/watch?v=utWWuZZiVhs&t=747)** - **Zwischenfrage**: Der Abgeordnete Gottschalk (AfD) möchte eine Zwischenfrage stellen, was Stefan Schmidt (Bündnis 90/Die Grünen) ablehnt.
+- **[00:13:47](https://www.youtube.com/watch?v=utWWuZZiVhs&t=827)** - **Kay Gottschalk (AfD)** - **Kurzintervention**: Erwidernd auf Stefan Schmidt erklärt Gottschalk, dass die Reduzierung der Mehrwertsteuer auf Getränke auch nicht-alkoholische Getränke wie Kaffee, Cola und Kindersäfte umfasse und nicht mit einem "Vollrausch" gleichzusetzen sei. Er bestreitet einen Fachkräftemangel und verweist erneut auf die 31.000 geschlossenen Betriebe und die dadurch entstandenen Arbeitslosen. Er betont, dass die AfD sich über Touristen freue, die das Land besuchen und dann in ihre Heimat zurückkehren.
+- **[00:15:16](https://www.youtube.com/watch?v=utWWuZZiVhs&t=916)** - **Stefan Schmidt (Bündnis 90/Die Grünen)** - **Erwiderung**: Empfiehlt Gottschalk, mit Gastronomen und Mitarbeitern vor Ort zu sprechen, da vieles von dem, was er erzählt habe, "völliger Unsinn" sei.
+- **[00:15:47](https://www.youtube.com/watch?v=utWWuZZiVhs&t=947)** - **Ingo Vogel (SPD)**: Kritisiert, dass der AfD-Antrag Transparenz, Verbraucherschutz und Regeln als Probleme des Gastgewerbes darstelle. Er bekräftigt, dass die Branche unter Druck stehe, lehnt aber die Vorschläge ab, Herkunftskennzeichnungen zu verhindern, Allergenhinweise aufzuweichen oder Qualitätsstandards abzusenken. Er argumentiert, dass Transparenz kein Luxus, sondern eine Voraussetzung für informierte Entscheidungen sei und die Abschaffung von Allergenkennzeichnungen ein Gesundheitsrisiko darstelle. Er sieht tiefere strukturelle Probleme wie Fachkräftemangel, Inflation, Nachfolgeprobleme und die Entwicklung der Innenstädte. Er bezeichnet den Antrag als "ideologischen Bauchladen" und "Angriff auf Verbraucherinteressen".
+- **[00:17:35](https://www.youtube.com/watch?v=utWWuZZiVhs&t=1055)** - **Zwischenfrage**: Die Abgeordnete Gennburg (Die Linke) möchte eine Zwischenfrage stellen, was Ingo Vogel (SPD) ablehnt.
+- **[00:22:08](https://www.youtube.com/watch?v=utWWuZZiVhs&t=1328)** - **Katalin Gennburg (Die Linke)** - **Kurzintervention**: Richtet eine Frage an Ingo Vogel bezüglich der Diskussion im Tourismusausschuss über die Pleitewelle in der Gastronomie. Sie schlägt die Einführung eines "Gewerbemietendeckels" vor, um die immer weiter steigenden Mieten für Gewerbetreibende zu begrenzen und somit Betriebe und Verbraucher zu entlasten.
+- **[00:23:59](https://www.youtube.com/watch?v=utWWuZZiVhs&t=1439)** - **Ingo Vogel (SPD)** - **Erwiderung**: Bestätigt, dass steigende Gewerbemieten eine sehr große Herausforderung sind und das Thema in Arbeitskreisen der Koalition diskutiert wird, jedoch noch kein Ergebnis vorliegt.
+- **[00:24:42](https://www.youtube.com/watch?v=utWWuZZiVhs&t=1482)** - **Janine Wissler (Die Linke)**: Betont, dass die Krise der Gastronomie auch eine "Krise der Kaufkraft" sei, da sich viele Menschen Restaurantbesuche nicht mehr leisten könnten. Sie fordert höhere Löhne und Tarifbindung zur Stärkung der Kaufkraft. Die Forderung der AfD, die Allergenkennzeichnungspflicht aufzuweichen, bezeichnet sie als "hanebüchenen Unsinn" und Gefährdung der Sicherheit von Menschen. Sie führt den Fachkräftemangel auf niedrige Löhne, schlechte Arbeitszeiten und eine hohe Quote von Mindestlohnverstößen zurück. Für die Attraktivitätssteigerung der Arbeitsplätze fordert sie einen höheren gesetzlichen Mindestlohn und verlässliche Arbeitszeiten.
+- **[00:28:12](https://www.youtube.com/watch?v=utWWuZZiVhs&t=1692)** - **Mechthilde Wittmann (CDU/CSU)**: Beschreibt Gastronomie und Hotellerie als Mittelstand, Familienunternehmen, Ausbildungsort und Standortanker mit großem wirtschaftlichen Beitrag. Sie unterstreicht die Bedeutung der bereits eingeführten unbefristeten 7% Mehrwertsteuer auf Speisen als verlässliche Planungsgrundlage, die auch Bäckereien, Caterer und die Kita-, Schul- und Krankenhausverpflegung entlaste. Sie erwähnt weitere Maßnahmen zur Entlastung bei Energiekosten und die Nationale Tourismusstrategie. Sie fordert flexible Arbeitszeitmodelle, die eine wöchentliche statt tägliche Höchstarbeitszeit ermöglichen.
+- **[00:33:34](https://www.youtube.com/watch?v=utWWuZZiVhs&t=2014)** - **Dario Seifert (AfD)**: Beschreibt die deutsche Gastronomie seit 2019 in einer akuten Krise, mit dem Verschwinden von Gaststätten, insbesondere im ländlichen Raum, wo sie wichtige soziale Treffpunkte seien. Er macht die Politik der Regierung dafür mitverantwortlich. Er bekräftigt die Forderung nach 7% Mehrwertsteuer auch auf Getränke, da insbesondere Kneipen und Bars davon lebten und Bürger aufgrund der aktuellen Politik weniger Geld zum Ausgehen hätten. Er kritisiert den hohen Bürokratiedruck durch Herkunftskennzeichnungen und Dokumentationspflichten, der Gastronomen zu Verwaltungsangestellten mache. Er fordert weniger Bürokratie und wirksame Maßnahmen zur Hilfe für die Betriebe vor Ort.
+- **[00:36:48](https://www.youtube.com/watch?v=utWWuZZiVhs&t=2208)** - **Sitzungsende / Schluss**: Der Sitzungsleiter schließt die Aussprache und schlägt die Überweisung der Vorlage an die in der Tagesordnung aufgeführten Ausschüsse vor. Anschließend verkündet er eine Ordnungsmaßnahme (Ordnungsruf) gegen den Abgeordneten Timon Dzienus (Bündnis 90/Die Grünen) wegen unparlamentarischen Verhaltens (Zerreißen eines Blattes).
