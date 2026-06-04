@@ -1,0 +1,74 @@
+# Kommunales Vetorecht gegen die Zuweisung von Asylbewerbern
+
+## Sitzungs-Metadaten
+- **Sitzung:** 74. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** 74. Sitzung, ZP 4, ZP 5: Kommu­nales Veto­recht gegen Zu­weisung von Asyl­bewerbern
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=aNKyAZB6bVQ)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag befasste sich mit einem Antrag und Gesetzentwurf der AfD-Fraktion, der die Einführung eines kommunalen Vetorechts gegen die Zuweisung von Asylbewerbern vorsieht, insbesondere bei bestehender Wohnungsnot. Die AfD begründete ihren Vorstoß mit der finanziellen Überlastung der Kommunen und der Verschärfung der Wohnungskrise durch die aktuelle Migrationspolitik. Die anderen Fraktionen (CDU/CSU, SPD, Bündnis 90/Die Grünen, Die Linke) lehnten den Vorschlag ab und kritisierten ihn als spaltend, inhaltlich und handwerklich mangelhaft sowie rassistisch. Sie präsentierten stattdessen eigene Ansätze zur Stärkung der Kommunen, zur Lösung der Wohnungskrise und zur Steuerung der Migration. Die Federführungsfragen für die weitere Ausschussberatung der beiden AfD-Vorlagen wurden gemäß den Vorschlägen der Mehrheitsfraktionen entschieden.
+
+## Kernaussagen und Positionen der Fraktionen
+- **AfD**:
+  - Die Kommunen seien aufgrund explodierender Sozialkosten, die durch die Zuweisung von Flüchtlingen entstünden, finanziell katastrophal überlastet.
+  - Diese Zuweisungen verschärften die Wohnungsnot der einheimischen Bevölkerung und seien als "asozial" zu bewerten.
+  - Es sei ein Vetorecht der Gemeinden erforderlich, um Zwangszuweisungen in Gebiete mit bereits bestehender Wohnungsnot zu verhindern.
+  - Die Politik der "Altparteien" ignoriere die Belastungsgrenzen der Kommunen und die Proteste der Bürger.
+  - Die Reduzierung der Zuwanderung sei der einzige Weg, um einen Zusammenbruch des Sozialsystems zu verhindern und die Funktionsfähigkeit des Staates zu sichern.
+- **CDU/CSU**:
+  - Der Antrag und Gesetzentwurf der AfD sei als "Verzweiflungstat", "handwerklich schlecht gemacht" und politisch überflüssig einzustufen.
+  - Die Bundesregierung habe bereits wirksame Maßnahmen zur Reduzierung irregulärer Migration ergriffen, die zu einem deutlichen Rückgang der Asylantragszahlen führten.
+  - Die AfD sei inkonsequent, da sie für ihr Vetorecht die Mietpreisbremse (§ 556d BGB) als Grundlage heranziehe, welche sie sonst ablehne.
+  - Ein kommunales Vetorecht würde dazu führen, dass Asylbewerber vermehrt in den ländlichen Raum abwanderten, was dem Solidarprinzip zuwiderlaufe.
+  - Die Lösung für die kommunale Überlastung liege in der Reduktion der Zugänge und der Rückführung von Personen ohne Bleiberecht, nicht in einer Änderung des Verteilungssystems, welches das Solidarprinzip infrage stelle.
+- **Bündnis 90/Die Grünen**:
+  - Die Kommunen benötigten ein "Notfallpaket" von Bund und Ländern zur Bewältigung ihrer finanziellen Herausforderungen.
+  - Der AfD-Antrag stelle sich gegen das Solidarprinzip und versuche, Verantwortung zu leugnen und Menschen gegeneinander auszuspielen.
+  - Es sei entscheidend, die Kommunen zu stärken und das individuelle Recht auf Asyl zu verteidigen.
+  - Die Argumentation der AfD stelle eine "ethnisch selektive Migrationspolitik" dar und sei als "juristisch verkleideter, parlamentarisch verpackter Rassismus" zu werten.
+  - Die Wohnungskrise habe tiefere Ursachen wie Industrialisierung, Urbanisierung, Wirtschaftskrisen und Deregulierung, nicht primär Migration.
+  - Fordert eine Prüfung der AfD auf ihre Verfassungsmäßigkeit, da ihr Handeln systematisch gegen die freiheitlich-demokratische Grundordnung gerichtet sei.
+- **SPD**:
+  - Die AfD spiele Mieter gegen Geflüchtete aus, während sie Mieterschutzmaßnahmen und den Mindestlohn ablehne und die Interessen von "Millionären" und "Milliardären" vertrete.
+  - Der Königsteiner Schlüssel sei ein etabliertes und solidarisches System zur Verteilung von Schutzsuchenden im Land.
+  - Schutzsuchende seien nicht nur Bedürftige, sondern wollten sich ein selbstbestimmtes Leben aufbauen und trügen zur Wirtschaft bei.
+  - Die Regierung setze auf Investitionen in Schulen, Kitas und Wohnraum sowie auf Mieterschutzmaßnahmen wie die Mietpreisbremse.
+  - Die "menschenverachtende Sprache" der AfD sei abzulehnen; Menschen seien keine Naturkatastrophe.
+  - Deutschland sei ein Einwanderungsland, und die Herausforderungen müssten mit Zuversicht und Realismus angegangen werden, nicht mit Angst und Panik.
+- **Die Linke**:
+  - Die AfD nutze Migranten als Sündenböcke für die Wohnungskrise und verbreite rassistische Parolen.
+  - Die behauptete Kausalität zwischen Migration und Wohnungsnot sei absurd, da trotz sinkender Zuwanderungszahlen die Mieten weiter explodierten.
+  - Die wahren Ursachen der Wohnungskrise lägen in der Spekulation internationaler Fonds und Immobilienkonzerne sowie in politischen Fehlentscheidungen.
+  - Die AfD verhalte sich heuchlerisch, da sie selbst von der Immobilienwirtschaft profitiere, während sie Mieterschutzmaßnahmen ablehne.
+  - Sie fordert die Stärkung kommunaler Vorkaufsrechte und des sozialen Wohnungsbaus sowie ein besseres "Matching-System" für die kommunale Aufnahme.
+
+## Chronologischer Debattenverlauf
+- **[00:00:01](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=1)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Aussprache zu den Zusatzpunkten 4 und 5, betreffend den Antrag und Gesetzentwurf der AfD-Fraktion zum kommunalen Vetorecht gegen Zwangszuweisungen von Flüchtlingen.
+- **[00:01:06](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=66)** - **Marc Bernhard (AfD)**: Beschreibt die kritische Finanzlage der Kommunen und die Wohnungskrise. Er identifiziert die "Explosion der Sozialkosten" durch "Massen-Zwangszuweisungen von Flüchtlingen" als Hauptursache und fordert ein kommunales Vetorecht bei Wohnungsnot, um die Kommunen vor dem finanziellen Ruin zu bewahren.
+- **[00:05:51](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=351)** - **Detlef Seif (CDU/CSU)**: Kritisiert den AfD-Antrag als "handwerklich schlecht gemacht" und "politisch überflüssig". Er verweist auf bereits umgesetzte Maßnahmen der Koalition zur Migrationsbegrenzung und einen deutlichen Rückgang der Asylantragszahlen. Er bemängelt die inkonsistente Verwendung der Mietpreisbremse durch die AfD und warnt vor einer ungerechten Lastenverschiebung in den ländlichen Raum durch ein Vetorecht.
+- **[00:10:56](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=656)** - **Marc Bernhard (AfD)** - **Zwischenfrage an Detlef Seif (CDU/CSU)**: Herr Bernhard fragt, ob Herr Seif den Antrag gelesen habe, da das Vetorecht explizit an das Vorhandensein von Wohnungsnot geknüpft sei.
+- **[00:11:45](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=705)** - **Detlef Seif (CDU/CSU)** - **Antwort auf Zwischenfrage**: Herr Seif erklärt, dass der Gesetzentwurf ein voraussetzungsloses Vetorecht vorsehe und der Antrag die von der AfD abgelehnte Mietpreisbremse zur Begründung nutze, was die Widersprüchlichkeit des AfD-Vorgehens unterstreiche. Er bekräftigt, dass ein Vetorecht die Last ungerecht verteilen würde.
+- **[00:14:27](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=867)** - **Karoline Otte (Bündnis 90/Die Grünen)**: Fordert ein Notfallpaket für die Kommunen und kritisiert den AfD-Antrag als Angriff auf das Solidaritätsprinzip. Sie betont die Unterstützung der Kommunen und die Verteidigung des individuellen Asylrechts, während sie die Unionsfraktion für das Infragestellen des letzteren rügt.
+- **[00:17:53](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=1073)** - **Hakan Demir (SPD)**: Wirft der AfD vor, Mieter gegen Geflüchtete auszuspielen und die Interessen von Vermögenden zu vertreten. Er erläutert das System des Königsteiner Schlüssels und die positiven Beiträge von Migranten zur Gesellschaft. Er fordert Investitionen in Infrastruktur und Mieterschutz statt Spaltung und "menschenverachtender Sprache".
+- **[00:22:53](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=1373)** - **Caren Lay (Die Linke)**: Bezeichnet die AfD-Initiative als rassistisch und absurd, da sie Migranten als Sündenböcke für die Wohnungskrise missbrauche. Sie sieht die Ursachen in Immobilienspekulation und fehlendem Mieterschutz und kritisiert die AfD für ihre Nähe zur Immobilienlobby. Sie fordert die Stärkung kommunaler Vorkaufsrechte und sozialen Wohnungsbaus.
+- **[00:26:31](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=1591)** - **Siegfried Walch (CDU/CSU)**: Kritisiert AfD und Linke gleichermaßen. Er bekräftigt die Notwendigkeit einer restriktiven Einwanderungspolitik, lehnt aber die "emotionale Feindseligkeit" der AfD ab. Er argumentiert, dass ein Vetorecht die Last auf wenige Kommunen verlagern und das Solidarprinzip beenden würde, während die Lösung in der Reduktion der Zugänge liege.
+- **[00:31:49](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=1909)** - **Marc Bernhard (AfD)** - **Zwischenfrage an Siegfried Walch (CDU/CSU)**: Herr Bernhard fragt, wie es "Politik gegen Arbeiter" sein könne, wenn Asylbewerber nicht in teuren Wohngegenden untergebracht würden.
+- **[00:32:58](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=1978)** - **Siegfried Walch (CDU/CSU)** - **Antwort auf Zwischenfrage**: Herr Walch erklärt, dass ein Vetorecht die Belastung auf Regionen mit geringerer Nachfrage verlagern würde, was zu einer verstärkten Ghettoisierung führen und somit der "eigenen Klientel" der AfD schade.
+- **[00:35:43](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=2143)** - **Tobias Matthias Peterka (AfD)**: Beschuldigt die anderen Parteien, die Zusammenhänge zwischen Migration und Wohnungsknappheit zu ignorieren. Er verteidigt den AfD-Entwurf als konkrete Lösung zur Abstellung der Wohnraumknappheit, die durch Zuweisungen verstärkt werde, und fordert ein stringentes Vetorecht im Asylgesetz für Kommunen.
+- **[00:40:12](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=2412)** - **Hendrik Bollmann (SPD)**: Spricht die Zuweisung Geflüchteter als gesellschaftliche Herausforderung an, die jedoch erfolgreich gemeistert werde. Er betont die Beiträge von Menschen mit Migrationshintergrund zur deutschen Gesellschaft und Wirtschaft und kritisiert die AfD für ihre "Unkenntnis über föderale Strukturen". Er plädiert für die Unterstützung der Kommunen und eine Stärkung der Integration.
+- **[00:45:59](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=2759)** - **Hanna Steinmüller (Bündnis 90/Die Grünen)**: Lokalisiert die Ursachen der Wohnungskrise in historischen Entwicklungen wie Industrialisierung, Urbanisierung, Wirtschaftskrisen und Deregulierung, nicht bei Geflüchteten. Sie fordert Maßnahmen gegen Mietenwucher und Kurzzeitvermietung und bezeichnet den AfD-Entwurf als "ethnisch selektive Migrationspolitik" und Grundlage für eine Prüfung der AfD auf Verfassungswidrigkeit.
+- **[00:48:25](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=2905)** - **Clara Bünger (Die Linke)**: Beschuldigt die AfD des "ekelhaften Rassismus" und der Suche nach Sündenböcken. Sie führt die Finanzkrise und Immobilienspekulation als Hauptursachen der Wohnungskrise an und kritisiert die AfD für ihre Ablehnung von Mieterschutzmaßnahmen und ihre Verbundenheit mit der Immobilienwirtschaft.
+- **[00:52:06](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=3126)** - **Dr. Jan-Marco Luczak (CDU/CSU)**: Beschreibt den AfD-Antrag als Versuch, mit "unvollständigen Asylzahlen" Ängste zu schüren und "Scheinlösungen" anzubieten. Er betont den Rückgang der Asylzahlen als Erfolg der Koalitionspolitik. Er plädiert für den Schutz verfolgter Menschen, aber auch für die Akzeptanz von Integrationsgrenzen. Die Lösung für angespannte Wohnungsmärkte liege in der Stärkung ländlicher Regionen und Kommunen, nicht in reiner Mietrechtsregulierung.
+- **[00:53:43](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=3223)** - **Tobias Matthias Peterka (AfD)** - **Zwischenfrage an Dr. Jan-Marco Luczak (CDU/CSU)**: Herr Peterka fragt mit dem Bild eines Wasserrohrbruchs, warum die Reduzierung der Zuwanderung die bestehenden Probleme obsolet mache.
+- **[00:54:12](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=3252)** - **Dr. Jan-Marco Luczak (CDU/CSU)** - **Antwort auf Zwischenfrage**: Herr Luczak weist das Bild zurück und kritisiert die AfD für den Versuch, mit Ängsten zu spielen und eine "Massenmigrationsbewältigungsgesetz"-Rhetorik zu betreiben, obwohl die Zahlen eindeutig sinken.
+- **[01:01:06](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=3666)** - **Bastian Treuheit (AfD)**: Führt den Wohnungsmangel auf die "wahnwitzige Migrationspolitik" und die Belastung der Kommunen zurück. Er fordert ein kommunales Vetorecht als Ausdruck "gesunden Menschenverstands" und "gelebter kommunaler Selbstverwaltung", um Wohnraum für die eigene Bevölkerung zu sichern.
+- **[01:04:14](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=3854)** - **Mayra Vriesema (Bündnis 90/Die Grünen)**: Bezeichnet den AfD-Entwurf als "rechtliche Vorbereitung einer ethnisch selektiven Migrationspolitik" und "juristisch verkleideten Rassismus". Sie hebt die Diskriminierung von Menschen mit Migrationshintergrund auf dem Wohnungsmarkt hervor und appelliert an die demokratischen Fraktionen, eine Prüfung der AfD auf Verfassungswidrigkeit in die Wege zu leiten.
+- **[01:07:28](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=4048)** - **Ulrich von Zons (AfD)**: Erzählt eine Fallgeschichte eines Bürgers, dessen Lebensqualität durch eine Flüchtlingsunterkunft leide. Er wirft den anderen Parteien vor, das Asylsystem so gebaut zu haben, dass der Bürger keine Mitbestimmung habe. Er fordert die Rückgabe der Stimme an den Bürger durch ein kommunales Vetorecht.
+- **[01:10:30](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=4230)** - **Ende der Aussprache und Abstimmung über Ausschussüberweisungen**: Die Präsidentin schließt die Aussprache.
+    - **[01:11:05](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=4265)** - Der Überweisungsvorschlag der AfD (Federführung: Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen für Drucksache 21/5485) wird von den anderen Fraktionen abgelehnt.
+    - **[01:11:28](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=4288)** - Der Überweisungsvorschlag von CDU/CSU und SPD (Federführung: Innenausschuss für Drucksache 21/5485) wird angenommen.
+    - **[01:12:12](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=4332)** - Der Überweisungsvorschlag der AfD (Federführung: Ausschuss für Recht und Verbraucherschutz für Drucksache 21/5476) wird von den anderen Fraktionen abgelehnt.
+    - **[01:12:32](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=4352)** - Der Überweisungsvorschlag von CDU/CSU und SPD (Federführung: Innenausschuss für Drucksache 21/5476) wird angenommen.
+- **[01:12:43](https://www.youtube.com/watch?v=aNKyAZB6bVQ&t=4363)** - **Fortsetzung der Sitzung**: Die Präsidentin ruft die nächsten Tagesordnungspunkte auf.

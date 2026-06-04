@@ -1,0 +1,93 @@
+# 76. Sitzung vom 6. Mai 2026. Tagesordnungspunkt 1: Aktuelle Stunde: Ein Jahr Regierung unter Bundeskanzler Merz – Auswirkungen auf Deutschland als führende Industrienation
+
+## Sitzungs-Metadaten
+-   **Sitzung:** 76. Sitzung
+-   **Datum:** N/A
+-   **Tagesordnungspunkt (TOP):** 1
+-   **Originaltitel:** 76th session of May 6, 2026. Agenda Item 1: Topical debate: One year of government under Chancell...
+-   **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=aUAXrb0S62A)
+
+## Kurzzusammenfassung
+Die Aktuelle Stunde befasste sich mit der Bilanz des ersten Regierungsjahres unter Bundeskanzler Merz und dessen Auswirkungen auf Deutschland als Industrienation. Die AfD-Fraktion initiierte die Debatte mit scharfer Kritik an der Regierungspolitik und forderte Neuwahlen oder einen Kurswechsel. Die Regierung und Koalitionsfraktionen verteidigten die umgesetzten Maßnahmen zur Stärkung des Industriestandorts und wiesen die Kritik der Opposition als destruktiv und faktenfern zurück. Weitere Oppositionsfraktionen (Bündnis 90/Die Grünen, Die Linke) äußerten ebenfalls Kritik an der Regierung, forderten jedoch andere politische Schwerpunkte, insbesondere bei der Energiewende und sozialer Gerechtigkeit.
+
+## Kernaussagen und Positionen der Fraktionen
+
+-   **AfD-Fraktion**:
+    -   Bewertet das erste Regierungsjahr von Bundeskanzler Merz als katastrophal und die Regierung als unfähig, da Wahlversprechen nicht eingehalten und stattdessen mit "linken Spinnern" paktiert werde.
+    -   Fordert Neuwahlen oder die Entlassung der SPD-Minister, um Mehrheiten für eigene Reformvorschläge zu nutzen, die CO2-Abgaben abschaffen, Kernkraft und Verbrennermotoren fördern sowie Steuern senken sollen.
+    -   Warnt vor dem Verlust von Industriearbeitsplätzen und der Weltmarktstellung Deutschlands und sieht die fortgesetzte Ampel-Politik als Niedergang.
+    -   Weist Anschuldigungen bezüglich eines EU-Austritts und der Abschiebung deutscher Staatsbürger zurück.
+    -   Positioniert sich als die einzige Alternative für einen Aufbruch und zur Beendigung eines "Schulden-Tsunamis".
+
+-   **Bundesregierung (vertreten durch Gitta Connemann, Parlamentarische Staatssekretärin, CDU/CSU)**:
+    -   Kritisiert die AfD für das Fehlen inhaltlicher Beiträge zur Industrienation Deutschland und das Verbreiten von "Ätzerei".
+    -   Betont die zentrale Bedeutung der Industrie für Wohlstand, sozialen Frieden und Demokratie und beschreibt den Druck auf die Industrie sowie den industriellen Wendepunkt.
+    -   Führt umgesetzte Maßnahmen zur Stärkung des Industriestandorts auf, darunter die Abschaffung der Gasspeicherumlage, Senkung von Übertragungsnetzkosten, Reduzierung der Stromsteuer, Einführung eines Industriestrompreises sowie Beschleunigung der Wasserstoffwirtschaft.
+    -   Fordert bessere Standortbedingungen durch Bürokratieabbau, Steuer- und Abgabenreduzierung und innovationsfreundliche Regulierung.
+    -   Warnt vor den "extremen Vorschlägen" der AfD (EU-Austritt, Rückkehr zur D-Mark, Protektionismus) als Bedrohung für die Exportnation und die Industrie.
+    -   Betont die Notwendigkeit von Zuwanderung für den Arbeitsmarkt.
+
+-   **Bündnis 90/Die Grünen-Fraktion**:
+    -   Kritisiert die Regierung Merz und Wirtschaftsministerin Reiche für "Enttäuschung", "Stillstand" und das Nichteinhalten von Versprechen, insbesondere im Bereich der Energiepolitik (fehlende Kraftwerksstrategie, EEG-Novelle).
+    -   Bemängelt die Verwendung des Sondervermögens für "Wahlgeschenke" statt für zukunftsträchtige Investitionen und kritisiert als ineffektiv empfundene Entlastungsmaßnahmen.
+    -   Sieht Deutschland unter der aktuellen Führung als "Bremsklotz" in Europa, der EU-Initiativen blockiert.
+    -   Fordert von der Regierung die Umsetzung von Reformen, Investitionen in Innovation/Infrastruktur und klare Rahmenbedingungen für eine zukunftsfähige Wirtschaft.
+    -   Stimmt der Bewertung der AfD als Gefahr für den Industriestandort zu, aufgrund ihrer Haltung zu offenen Märkten und internationaler Zusammenarbeit.
+    -   Betont die wirtschaftliche Notwendigkeit des Ausbaus erneuerbarer Energien als Investition in Unabhängigkeit und Versorgungssicherheit.
+    -   Fordert gezielte Unternehmensentlastungen, strukturelle Reformen im Sozialstaat und die Stärkung europäischer Kooperationen.
+
+-   **SPD-Fraktion**:
+    -   Sieht die Weichen für den Aufschwung durch das 500-Milliarden-Sondervermögen für Infrastruktur und den "Wachstumsbooster" für steuerliche Abschreibungen gestellt.
+    -   Führt die Halbierung des vorhergesagten Wachstums auf externe Faktoren wie den Iran-Krieg und internationale Handelskonflikte zurück.
+    -   Betont die Notwendigkeit, die Industrie in Deutschland zu halten und die strukturelle Krise zu bewältigen, angesichts Chinas Entwicklung zum Weltmarktführer und Zollkonflikten.
+    -   Fordert ein Ende des Zeitalters ausschließlich freier Märkte und den Schutz heimischer Industrien durch Zölle und Subventionen, verweisend auf den Erfolg politischer Maßnahmen für die Stahlindustrie.
+    -   Begrüßt den Industriestrompreis und fordert weitere EU-Beihilfen bis zum Abschluss der industriellen Transformation.
+    -   Setzt sich für Klimaschutzverträge zur Unterstützung energieintensiver Unternehmen beim Produktionsumbau und zur Schaffung von Leitmärkten für grüne Produkte ein.
+    -   Kritisiert die AfD als "Brandstifter", die Industriestandort und Land abschaffen wolle.
+    -   Fordert Wettbewerbsgleichheit bei der Transformation und Klimaneutralität, ohne den Wohlstand zu gefährden, sowie einen neuen "Pakt für Europa" (Montanunion 3.0).
+
+-   **Die Linke-Fraktion**:
+    -   Kritisiert die AfD als Partei, die nichts außer ihrer Ideologie schützt und durch die Zerstörung Europas, Torpedierung internationaler Zusammenarbeit und Blockade der Energiewende "wirtschaftlichen Selbstmord" begehe.
+    -   Wirft Bundeskanzler Merz vor, gegen sozial schwächere Gruppen "nach unten zu treten".
+    -   Stellt die Profitverteilung an Aktionäre infrage und fordert eine Abkehr vom aktuellen Wirtschaftsmodell.
+    -   Kritisiert die Bundesregierung für "organisierte Untätigkeit" angesichts von Arbeitsplatzverlusten in Schlüsselindustrien.
+    -   Fordert einen starken, investierenden und gestaltenden Staat sowie echte Industriepolitik mit klaren Regeln, die gute Tarifverträge, Löhne, Mitbestimmung und Standortgarantien sichert.
+    -   Plädiert dafür, dass staatlich gerettete Betriebe der Allgemeinheit gehören sollten.
+    -   Setzt sich für eine Wirtschaft ein, die allen zugutekommt und Zukunft durch grüne Produkte statt Waffen schafft.
+
+-   **CDU/CSU-Fraktion**:
+    -   Weist die Bezeichnung "Regierungskrise" der AfD zurück und betont, dass die Koalition gute Lösungen erarbeitet.
+    -   Nennt externe Faktoren wie weltweiten Protektionismus, hohe Energiepreise und die gestiegene Wettbewerbsfähigkeit Chinas als Gründe für den Druck auf die Industrie.
+    -   Lehnt die AfD-Forderung nach russischem Öl und Gas als "moralische Bankrotterklärung" ab.
+    -   Führt die Politik der Bundesregierung auf, die auf Steigerung der Wettbewerbsfähigkeit durch Technologieoffenheit und marktwirtschaftliche Mechanismen setzt.
+    -   Verteidigt die Förderung von Technologieoffenheit bei der Heizungspolitik und listet geplante Gesetze zur Energiepolitik auf.
+    -   Kritisiert die AfD-Ideen (EU-Austritt, Euro-Austritt, Protektionismus, Ausbürgerung von Migranten, unfinanzierbare Sozialversprechen, Nähe zu Diktatoren) als zerstörerisch für Wohlstand und Arbeitsplätze.
+    -   Fordert Strukturreformen in GKV, Rente, Pflege, Steuerentlastungen und Bürokratieabbau (z.B. Lieferkettengesetz).
+    -   Betont die Verantwortung der Koalition, in schwierigen Zeiten zusammenzuhalten, zu modernisieren und einen Weg aus der Krise zu formulieren, um Deutschland als führende Industrienation zu erhalten.
+
+## Chronologischer Debattenverlauf
+-   **[00:00:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=0)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Aussprache zur aktuellen Stunde mit dem Thema "Ein Jahr Regierung unter Bundeskanzler Merz – Auswirkungen auf Deutschland als führende Industrienation".
+-   **[00:15:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=15)** - **Dr. Bernd Baumann (AfD)**: Kritisiert die Regierung Merz als katastrophal und unfähig, da sie Wahlversprechen gebrochen und mit "linken Spinnern" paktiere. Er fordert Neuwahlen oder die Entlassung der SPD-Minister, um die Mehrheiten im Bundestag für eine Politik zu nutzen, die Deutschland als Industrienation retten soll (u.a. Schluss mit CO2-Abgaben, Kernkraft, Verbrennermotoren, Steuersenkungen).
+-   **[00:54:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=340)** - **Gitta Connemann (Bundesregierung / CDU/CSU)**: Kritisierte die AfD für das Fehlen von Inhalten und das Verbreiten von "Ätzerei". Sie betonte die Bedeutung der Industrie und listete zahlreiche Maßnahmen der Regierung auf, die den Industriestandort stärken sollen (z.B. Abschaffung der Gasspeicherumlage, Industriestrompreis). Sie warnte eindringlich vor den "extremen Vorschlägen" der AfD, die das Ende der Exportnation bedeuten würden.
+-   **[00:58:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=658)** - **Zwischenrufe**: "Wer soll zukünftig schweißen?" (im Kontext von Migration)
+-   **[01:00:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=666)** - **Sitzungsleitung**: weist Frau Staatssekretärin Connemann darauf hin, dass ihre Redezeit abgelaufen ist.
+-   **[01:00:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=679)** - **Julian Joswig (Bündnis 90/Die Grünen)**: Spricht von Enttäuschung über das Regierungsjahr, fehlendem Tempo bei der Energiewende und unzureichenden Investitionen. Er kritisiert die Verwendung von Sondervermögen für "Wahlgeschenke" und sieht Deutschland als "Bremsklotz" in Europa. Er fordert konkrete Reformen und Investitionen und bezeichnet die AfD als größte Gefahr für den Industriestandort.
+-   **[01:16:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=961)** - **Sebastian Roloff (SPD)**: Betont die von der Koalition gestellten Weichen für den Aufschwung (Sondervermögen, Wachstumsbooster, gesenkte Energiepreise). Er führt Wachstumseinbußen auf internationale Konflikte zurück und fordert den Schutz heimischer Industrien. Er verweist auf Erfolge im Stahlsektor und die Bedeutung des Industriestrompreises sowie langfristiger Klimaschutzverträge. Die AfD bezeichnet er als "Brandstifter".
+-   **[01:21:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=1292)** - **Mirze Edis (Die Linke)**: Kritisiert die AfD als Partei, die keine Jobs und keine Zukunft schützt, sondern "wirtschaftlichen Selbstmord" begeht. Er wirft Kanzler Merz "nach unten treten" vor und sieht die Bundesregierung angesichts der Industrieprobleme (300.000 Jobs weg) als untätig. Er fordert einen starken, investierenden Staat, echte Industriepolitik mit klaren Regeln (kein Geld ohne Bedingung) und Mitbestimmung der Beschäftigten.
+-   **[01:26:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=1609)** - **Dr. Klaus Wiener (CDU/CSU)**: Weist die Annahme einer Regierungskrise zurück und erklärt die Herausforderungen der Industrie mit globalem Protektionismus und hohen Energiepreisen, während er russisches Gas als "moralische Bankrotterklärung" der AfD bezeichnet. Er verteidigt die Regierungspolitik der Technologieoffenheit in der Energiepolitik und listet zahlreiche Gesetzesvorhaben auf.
+-   **[01:30:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=1819)** - **Zwischenfrage von Lisa Badum (Bündnis 90/Die Grünen)**: Fragt, warum die Regierung, statt fossile Energien zu reduzieren, ein Gesetz verabschieden wolle, das den Bürgerinnen und Bürgern sage, Öl- und Gasheizungen bis ultimo drin zu lassen.
+-   **[01:31:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=1901)** - **Dr. Klaus Wiener (CDU/CSU)**: Antwortet, dass man auf Technologieoffenheit setze und sich überlegene Systeme (Wärmepumpen, E-Mobilität) am Markt durchsetzen würden, ohne staatliche Intervention und teure Subventionen. Das 80%-Ziel bei Erneuerbaren bleibe bestehen.
+-   **[01:35:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=2101)** - **Leif-Erik Holm (AfD)**: Gratuliert "Schwarz-Rot" zum ersten (und voraussichtlich letzten) Geburtstag und kritisiert die "Billionen-Schuldenorgie" und die gebrochenen Wahlversprechen von Kanzler Merz ("Links ist vorbei"). Er prangert Energiepreisexplosion, Pleitewelle und Deindustrialisierung an und fordert stattdessen weniger Abgaben, Bürokratie und mehr Freiheit. Er betont die wachsende Unterstützung für die AfD, insbesondere im Osten, und sieht sie als einzige Partei, die Deutschland zu einer vernunftorientierten Politik führen kann.
+-   **[01:40:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=2437)** - **Mahmut Özdemir (SPD)**: Bezeichnet die AfD als Brandstifter für den Industriestandort Deutschland, der abgeschafft werden solle. Er betont die Innovationskraft Deutschlands (Platz 2 bei europäischen Patenten) und fordert, Deutschland wieder zum Taktgeber in der Weltindustrie zu machen. Er fordert Wettbewerbsgleichheit und "Waffengleichheit" bei der Transformation und eine Montanunion 3.0 für Europa. Er wirft der AfD "Vetternwirtschaft" und "dumme Einwürfe" vor.
+-   **[01:46:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=2765)** - **Sandra Stein (Bündnis 90/Die Grünen)**: Fasst das Jahr Schwarz-Rot als "Große Worte – kleine Wirkung" zusammen. Sie beklagt die Enttäuschung des Mittelstands, fehlende Klarheit und Planbarkeit. Sie betont, dass der Ausbau erneuerbarer Energien wirtschaftliche Notwendigkeit und keine Ideologie sei und fordert gezielte Unternehmensentlastungen sowie strukturelle Reformen im Sozialstaat und bei der Rente.
+-   **[01:51:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=3075)** - **Tilman Kuban (CDU/CSU)**: Geht die Programmatik der AfD Punkt für Punkt durch und kritisiert deren Forderungen nach Euro- und EU-Austritt, millionenfacher Ausbürgerung und unbezahlbaren Sozialleistungen als zerstörerisch für Deutschland. Er weist darauf hin, dass die AfD in Europa isoliert sei und mit ihren Vorschlägen die Wirtschaft und Arbeitsplätze gefährde.
+-   **[01:56:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=3399)** - **Dr. Malte Kaufmann (AfD)**: Führt eine Kurzintervention durch und wirft Herrn Kuban "polemische, demagogische" und unwahre Aussagen vor. Er betont, dass die AfD für eine europäische Interessengemeinschaft und den Binnenmarkt sei und lediglich Straftäter und Illegale abschieben wolle, nicht deutsche Staatsbürger.
+-   **[01:58:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=3482)** - **Tilman Kuban (CDU/CSU)**: Antwortet auf die Kurzintervention, indem er sich auf Zitate von AfD-Abgeordneten und Parteivorsitzenden (Alice Weidel) bezieht, die sich für Ausbürgerungen und ein Dexit-Referendum ausgesprochen hätten. Er wiederholt die Isolation der AfD in Europa.
+-   **[01:59:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=3574)** - **Beatrix von Storch (AfD)**: Behauptet, Kanzler Merz fahre Deutschland wissentlich an die Wand, indem er im Wahlkampf ein populäres Programm versprochen und nach der Wahl ein "heimliches Programm" umgesetzt habe (Fokus Ukraine, Verdreifachung des Verteidigungsetats, Billionen zusätzliche Schulden auf Kosten von Alten, Kranken, Familien). Sie warnt vor der Pleite Deutschlands bis 2030 durch die explodierenden Schulden und Zinslasten und kritisiert BlackRock als Hauptprofiteur. Die AfD werde diesen "Schulden-Tsunami" beenden.
+-   **[02:05:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=3895)** - **Felix Schreiner (CDU/CSU)**: Weist die Äußerungen von Frau von Storch als "Unwahrheiten" zurück. Er erkennt die herausfordernde wirtschaftliche Lage an, betont aber, dass diese nicht über Nacht entstanden sei, sondern Ergebnis jahrelang ausgebliebener Reformen. Die Koalition packe diese Reformen (GKV, Rente, Pflege, Steuerentlastungen, Bürokratieabbau, Abschaffung Lieferkettengesetz) jetzt an. Er wirft der AfD Heuchelei vor, da sie mit ihren nationalistischen Ideen (EU-Austritt, Abschottung) die Grundlage des deutschen Wohlstands zerstören wolle.
+-   **[02:07:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=4045)** - **Zwischenfrage von Tobias Frohnmaier (AfD)**: Fragt, warum die CDU, die fast sein ganzes Leben lang Regierungsverantwortung trug, die Wirtschaft nicht stabilisieren konnte, und zitiert Statistiken über Unternehmenspleiten und Arbeitsplatzverluste. Er folgert, dass die CDU "fertig" sei.
+-   **[02:08:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=4278)** - **Felix Schreiner (CDU/CSU)**: Antwortet, indem er die persönliche politische Vita des Fragestellers kritisiert. Er betont, dass die Koalition Verantwortung übernehme und einen klaren Kurs habe, um Deutschland aus der Krise zu führen, während die AfD nur "schlechte Laune und schlechte Ideen" verbreite.
+-   **[02:12:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=4362)** - **Hans Koller (CDU/CSU)**: Wirft der AfD vor, die Menschen mit "Angstmacherei" und "abartigen Videos" zu verunsichern und die Realität auszublenden. Er bezeichnet die AfD als "Untergang für Deutschland", sollte sie Verantwortung übernehmen. Er betont, dass die aktuellen Probleme vor allem wegen "Freunden in Moskau, China und Washington" entstünden und dass die Bundesregierung den Industriestandort durch Investitionen, Entlastungen und wirtschaftspolitische Vernunft stärke (z.B. Industriestrompreis).
+-   **[02:17:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=4616)** - **Zwischenfrage aus der AfD-Fraktion (nicht namentlich genannt)**: Fragt, ob Herr Koller angesichts der niedrigen Zustimmungswerte für Kanzler Merz und die Bundesregierung nicht davon ausgehen müsse, dass die Bürger die Nase voll von deren Politik hätten und der AfD die größte Problemlösungskompetenz zutrauten.
+-   **[02:18:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=4688)** - **Hans Koller (CDU/CSU)**: Lehnt die Einschätzung ab und kritisiert, dass die AfD noch nie unter Beweis stellen musste, etwas zu können. Er verweist auf die verbleibenden 72-75% der Wähler, die der AfD keine Verantwortung zutrauten. Er bekräftigt, dass Deutschland unter Bundeskanzler Merz und einer CDU/CSU-geführten Regierung eine führende Industrienation bleiben werde, indem Probleme gelöst und Leistung sich wieder lohne.
+-   **[02:20:00](https://www.youtube.com/watch?v=aUAXrb0S62A&t=4829)** - **Sitzungsende**: Die Präsidentin beendet die Aktuelle Stunde.

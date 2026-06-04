@@ -1,0 +1,65 @@
+# 74. Sitzung vom 23. April 2026, Tagesordnungspunkt 17: Änderung des Bundesrechnungshofgesetzes
+
+## Sitzungs-Metadaten
+- **Sitzung:** 74. Sitzung
+- **Datum:** 23. April 2026
+- **Tagesordnungspunkt (TOP):** 17
+- **Originaltitel:** 74th session of April 23, 2026. Agenda item 17: Amendment to the Federal Court of Auditors Act
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=RKveEFj7hjk)
+
+## Kurzzusammenfassung
+Die Debatte behandelte einen Gesetzentwurf der AfD-Fraktion zur Änderung des Bundesrechnungshofgesetzes, der die Unabhängigkeit des Bundesrechnungshofs durch die Einführung von Karenzzeiten für ehemalige Regierungs- und Bundestagsmitglieder in leitenden Positionen stärken sollte. Die AfD-Fraktion argumentierte, dies diene einer strikteren Gewaltenteilung und dem Vertrauen in die Finanzkontrolle. Die übrigen Fraktionen (SPD, CDU/CSU, Bündnis 90/Die Grünen, Die Linke) lehnten den Entwurf ab und führten an, der Bundesrechnungshof sei bereits verfassungsrechtlich unabhängig und funktioniere einwandfrei, während der Gesetzentwurf als Versuch zur Diskreditierung der Institution oder als Ablenkung von realen Problemen wie Haushaltskürzungen wahrgenommen wurde. Der Gesetzentwurf wurde in der Abstimmung mehrheitlich abgelehnt.
+
+## Kernaussagen und Positionen der Fraktionen
+
+- **SPD**:
+  - Der Gesetzentwurf wurde als auf Einzelpersonen zugeschnittene Gesetzgebung (`Ad-personam-Gesetzespraxis`) kritisiert, der ursprünglich gegen Klara Geywitz gerichtet gewesen sei und nun gegen Ansgar Heveling ziele, dessen Eignung die SPD-Fraktion betone.
+  - Die AfD-Fraktion wurde für die angebliche Diskreditierung der Institution Bundesrechnungshof kritisiert, deren exzellente und notwendige Arbeit die SPD-Fraktion wertschätze.
+  - Die richterliche Unabhängigkeit der Mitglieder des Bundesrechnungshofs sei durch die Verfassung und geltende Gesetze garantiert und in der Praxis vorbildlich umgesetzt, ergänzt durch Befangenheitsregeln und das Kollegialprinzip.
+  - Karenzzeiten seien eher im Kontext wirtschaftlicher Interessen relevant und würden im Bereich des Bundesrechnungshofs zu einem Verlust von Kompetenz und sachlicher Fähigkeit führen, anstatt die Unabhängigkeit zu stärken.
+  - Der Bundesrechnungshof diene als wichtiges Korrektiv, auch gegenüber weltanschaulichen Positionen, und seine Resilienz sei gegen Angriffe von "Feinden der Demokratie" zu verteidigen.
+  - Die Forderungen der AfD-Fraktion stünden im Widerspruch zu deren angeblicher Bewunderung für Viktor Orbán, der einen politisch abhängigen Rechnungshof geschaffen habe.
+
+- **AfD**:
+  - Ziel des Gesetzentwurfs sei die strukturelle Stärkung der Unabhängigkeit des Bundesrechnungshofes als zentrales Kontrollorgan der öffentlichen Haushaltsführung.
+  - Kritisiert wurde, dass der Präsident und sein Stellvertreter derzeit von der Regierung ernannt werden, was der angestrebten "absoluten Unabhängigkeit" entgegenstehe.
+  - Vorgeschlagen wurden Karenzzeiten von fünf Jahren für ehemalige Mitglieder der Bundes- oder Landesregierungen und zwei Jahren für ehemalige Bundestagsmitglieder vor der Berufung in leitende Funktionen des Bundesrechnungshofs, mit Ausnahmemöglichkeiten für ehemalige Abgeordnete in begründeten Fällen.
+  - Dies solle verhindern, dass ehemalige Amtsträger unmittelbar an der Kontrolle von Entscheidungen mitwirken, für die sie selbst verantwortlich waren, und das Vertrauen in eine unparteiische Finanzkontrolle sichern.
+  - Der Entwurf verursache keine zusätzlichen Haushaltsausgaben oder bürokratische Mehrbelastungen.
+  - Betont wurde, dass es nicht um Misstrauen gegenüber spezifischen Personen gehe, sondern um eine abstrakte, strikte Gewaltenteilung.
+  - Die AfD-Fraktion begrüße ausdrücklich, dass ein unabhängiger Bundesrechnungshof auch eine AfD-Regierung kontrollieren solle.
+  - Die Bundesregierung, der Bundesrat und der Bundestag müssten den Anschein politischer "Kungelei" bei der Besetzung von Posten beim Bundesrechnungshof vermeiden.
+
+- **CDU/CSU**:
+  - Die Fraktion argumentierte, dass der Gesetzentwurf ein Problem sehe, wo keines existiere, da der Bundesrechnungshof verfassungsrechtlich garantierte richterliche Unabhängigkeit genieße und im Kollegialprinzip arbeite.
+  - Entscheidungen würden nicht von einzelnen Personen, sondern kollegial getroffen, und der Bundesrechnungshof sei weder der Regierung noch dem Parlament weisungsgebunden.
+  - Der Gesetzentwurf werde als Versuch gewertet, "Abhängigkeitsprinzipien zu gestalten und zu kreieren, wo keine sind", und die Institution zu diskreditieren.
+  - Es wurde die "hervorragende" Arbeit des Bundesrechnungshofs gewürdigt und der scheidende Präsident Scheller sowie die für die Nachfolge vorgeschlagenen Personen (Klara Geywitz, Ansgar Heveling) gelobt, wobei Heveling als "ausgesprochen fähiger, toller Kollege" mit hoher Integrität und umfassender Kompetenz bezeichnet wurde.
+  - Die Unabhängigkeit des Bundesrechnungshofs sei im Grundgesetz (Art. 114 Abs. 2) und im Bundesrechnungshofgesetz (§ 17) verankert, und Befangenheitsregeln schlössen Abhängigkeiten aus.
+  - Die Wahl des Präsidenten durch Bundestag und Bundesrat biete eine doppelte Legitimation.
+
+- **Bündnis 90/Die Grünen**:
+  - Der AfD-Antrag treffe nicht den Kern des Problems.
+  - Das eigentliche Problem sei, dass eine Ausweitung der Staatsaktivitäten (Sondervermögen, Krisenbewältigung) eine intensivere Finanzkontrolle erfordere, diese jedoch durch die von ihm als "schwarz-rote Koalition" bezeichnete Regierung geschwächt werde.
+  - Kritisiert wurden pauschale Sparvorgaben von 8 Prozent für den Bundesrechnungshof, der bereits eigene Effizienzsteigerungen (Standortabbau, Digitalisierung, Personalreduzierung) vorgenommen habe.
+  - Solche Kürzungen bestraften Leistung und machten den Bundesrechnungshof zum Beispiel für zukünftige Ineffizienz in der Bundesverwaltung.
+  - Es bestünden Zweifel, ob die Kürzungen ein Versehen seien, oder ob sie einem Muster folgten, bei dem die Regierung an Stellen kürze, an denen Kritik an ihrem Handeln laut werde (z.B. bei "Demokratie leben!", Berichtspflichten im Haushaltsausschuss).
+  - Gefordert wurde die Rücknahme der pauschalen Kürzungen und eine Stärkung der Institutionen und der Finanzkontrolle.
+
+- **Die Linke**:
+  - Es wurde dem scheidenden Präsidenten des Bundesrechnungshofes für seine gute Arbeit gedankt, die als "schärfste Waffe der Opposition" und der Bundestagsmitglieder diene.
+  - Der Bundesrechnungshof habe die Koalition und Ministerien kritisiert, unter anderem bezüglich der Zweckentfremdung von Sondervermögen und einer "Verschuldungsdynamik" von 800 Milliarden Euro neuer Schulden, sowie ausbleibende Reformen und problematischen Umgang mit Haushaltsmitteln, insbesondere bei Rüstungsfragen.
+  - Die Unabhängigkeit des Bundesrechnungshofs von Aufsicht und Weisungen sei bewährt und müsse erhalten bleiben.
+  - Die AfD-Fraktion wurde kritisiert, bewusst das Vertrauen in Institutionen zu untergraben.
+  - Es sei inakzeptabel, dass die Schulden stiegen, während die Mittel des Bundesrechnungshofs gekürzt würden (200 Stellen weniger seit 2019), insbesondere im Vergleich zu Personalzuwächsen in Ministerien und im Kanzleramt.
+  - Gefordert wurde, dass die Möglichkeiten des Bundesrechnungshofes schneller wachsen müssten als die Schulden, und dass mehr Mittel für eine verbesserte Prüfung unseriöser Haushaltsführung bereitgestellt werden sollten, anstatt oberste Bundesbehörden zu diskreditieren.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=0)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet Tagesordnungspunkt 17, die zweite und dritte Beratung des von der AfD-Fraktion eingebrachten Gesetzentwurfs zur Änderung des Bundesrechnungshofgesetzes. Eine Aussprache von 20 Minuten wurde vereinbart.
+- **[00:28:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=28)** - **Helge Lindh (SPD)**: Lindh bezeichnet den Gesetzentwurf als auf Einzelpersonen zugeschnittene Gesetzgebung (`Ad-personam-Gesetzespraxis`), die ursprünglich gegen Klara Geywitz gerichtet gewesen sei und nun gegen Ansgar Heveling ziele, dessen Eignung die SPD-Fraktion betone. Er kritisiert die AfD-Fraktion für die Diskreditierung des Bundesrechnungshofs, dessen Arbeit die SPD-Fraktion ausdrücklich würdige. Die Unabhängigkeit sei verfassungsrechtlich garantiert und durch das Kollegialprinzip und Befangenheitsregeln gesichert. Karenzzeiten seien im öffentlichen Interesse nicht sinnvoll und könnten zu Kompetenzverlust führen. Lindh betont die Rolle des Bundesrechnungshofs als Korrektiv und vergleicht die AfD-Positionen zur Unabhängigkeit mit denen eines Viktor Orbán.
+- **[04:58:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=298)** - **Georg Schroeter (AfD)**: Schroeter stellt den Gesetzentwurf zur strukturellen Stärkung der Unabhängigkeit des Bundesrechnungshofes vor. Er argumentiert, dass die Ernennung des Präsidenten und seines Stellvertreters durch die Regierung die absolute Unabhängigkeit beeinträchtige. Die AfD schlägt Karenzzeiten von fünf Jahren für ehemalige Regierungsmitglieder und zwei Jahren für ehemalige Bundestagsmitglieder vor, um die Mitwirkung an der Kontrolle eigener Entscheidungen zu verhindern. Dies sichere das Vertrauen in die Finanzkontrolle und die Gewaltenteilung und vermeide den Anschein politischer "Kungelei". Er betont, dass der Entwurf nicht gegen spezifische Personen gerichtet sei und keine zusätzlichen Kosten verursache.
+- **[10:12:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=612)** - **Jan Metzler (CDU/CSU)**: Metzler wiederholt Argumente der ersten Lesung und stellt fest, dass der Gesetzentwurf ein Problem konstruiere, wo keines existiere. Er betont die verfassungsrechtlich verbriefte richterliche Unabhängigkeit des Bundesrechnungshofes, dessen Entscheidungen im Kollegialprinzip getroffen werden. Der Bundesrechnungshof sei weder Regierung noch Parlament weisungsgebunden. Metzler lobt den scheidenden Präsidenten Scheller und drückt seine Unterstützung für die Nachfolge durch Klara Geywitz und Ansgar Heveling aus, den er als "ausgesprochen fähigen" Kollegen bezeichnet.
+- **[13:25:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=805)** - **Leon Eckert (Bündnis 90/Die Grünen)**: Eckert argumentiert, der Antrag der AfD-Fraktion treffe nicht den Kern des Problems. Er kritisiert, dass bei zunehmender Staatsaktivität (z.B. Sondervermögen) eine intensivere Finanzkontrolle notwendig sei, diese aber durch pauschale Sparvorgaben von 8 Prozent der von ihm als "schwarz-rote Koalition" bezeichneten Regierung geschwächt werde. Er weist darauf hin, dass der Bundesrechnungshof bereits durch eigene Effizienzmaßnahmen Personal reduziert habe und Kürzungen Leistung bestrafen. Eckert äußert Zweifel, ob die Kürzungen ein Versehen seien oder einem Muster folgen, Kritik durch Reduzierung von Mitteln zu begegnen, und fordert die Stärkung der Institutionen.
+- **[16:25:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=985)** - **Dr. Dietmar Bartsch (Die Linke)**: Bartsch dankt dem scheidenden Präsidenten des Bundesrechnungshofes für dessen gute und klare Arbeit, die als wichtige "Waffe der Opposition" diene. Er erwähnt kritische Befunde des Bundesrechnungshofs zur Zweckentfremdung von Sondervermögen und einer "Verschuldungsdynamik". Bartsch betont die Weisungsunabhängigkeit des Bundesrechnungshofs und kritisiert die AfD-Fraktion für die Untergrabung des Vertrauens in Institutionen. Er fordert eine Stärkung des Bundesrechnungshofs, insbesondere angesichts steigender Schulden und gleichzeitig sinkender Mittel und Personalstellen beim Prüforgan im Vergleich zu Zuwächsen in Bundesministerien.
+- **[18:44:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=1124)** - **Mechthilde Wittmann (CDU/CSU)**: Wittmann stimmt Lindh zu und kritisiert, dass der Gesetzentwurf nicht nur die Bundesregierung, sondern auch den Haushaltsausschuss und alle seriösen Parlamentarier diskreditieren wolle. Sie bekräftigt die Weisungsunabhängigkeit und richterliche Unabhängigkeit der Prüfer, verankert in Artikel 114 Abs. 2 GG und § 17 BRHG, sowie die Wirksamkeit von Befangenheitsregeln. Wittmann betont die institutionelle Unabhängigkeit des Bundesrechnungshofes gegenüber Regierung, Bundestag und Bundesrat und die doppelte Wahl des Präsidenten. Sie lobt die Integrität und Kompetenz des Kandidaten Ansgar Heveling und kritisiert die AfD-Fraktion im Zusammenhang mit dem Vorwurf der "Vetterleswirtschaft".
+- **[21:58:00](https://www.youtube.com/watch?v=RKveEFj7hjk&t=1318)** - **Sitzungsende / Abstimmung**: Die Präsidentin schließt die Aussprache und ruft zur Abstimmung über den Gesetzentwurf der AfD-Fraktion auf. Der Haushaltsausschuss hatte die Ablehnung empfohlen. Die AfD-Fraktion stimmt für den Gesetzentwurf, alle übrigen Fraktionen stimmen dagegen. Der Gesetzentwurf wird in zweiter Beratung abgelehnt, womit die weitere Beratung entfällt. Die Sitzung endet.

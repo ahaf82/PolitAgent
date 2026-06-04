@@ -1,0 +1,82 @@
+# Stärkung der Maritimen Wirtschaft und ihre strategische Rolle
+
+## Sitzungs-Metadaten
+- **Sitzung:** 74. Sitzung
+- **Datum:** 2026-04-23
+- **Tagesordnungspunkt (TOP):** 18
+- **Originaltitel:** 74. Sitzung vom 23.04.2026. TOP 18: Maritime Wirtschaft
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=1rhUxnLAnTc)
+
+## Kurzzusammenfassung
+Der Deutsche Bundestag debattierte über die Stärkung der maritimen Wirtschaft in Deutschland, die als nationale Aufgabe und essenziell für Sicherheit, Resilienz und Innovation betrachtet wird. Die Diskussion umfasste die Bedeutung von Häfen, Werften und Handelsflotte für den Export und die Energieversorgung, sowie deren Schutz als kritische Infrastruktur. Während die Koalition ihre Initiativen und Erfolge in diesem Bereich hervorhob, kritisierten die Oppositionsfraktionen mangelnde konkrete Investitionen, fehlende Wettbewerbsfähigkeit und unzureichende Maßnahmen im Umwelt- und Arbeitsschutz sowie gegenüber externen Einflüssen. Der Antrag der Koalitionsfraktionen wurde mehrheitlich angenommen.
+
+## Kernaussagen und Positionen der Fraktionen
+
+-   **CDU/CSU**:
+    -   Betont die nationale, nicht nur regionale, Bedeutung der maritimen Wirtschaft für Deutschland, insbesondere für Export, Energieversorgung und Sicherheit.
+    -   Forderung nach Aufnahme maritimer Infrastruktur und Handelsflotte in die Nationale Sicherheitsstrategie.
+    -   Schutz kritischer Infrastruktur vor Sabotage, Cyberangriffen und organisierter Kriminalität sowie kritische Prüfung von Beteiligungen aus Drittstaaten (z.B. China).
+    -   Förderung moderner Drohnenabwehr, autonomer Über- und Unterwassersysteme.
+    -   Stärkung des maritimen Standorts und des Marine- und Behördenschiffbaus durch Nutzung von Artikel 346 AEUV zur Bevorzugung von Bauaufträgen in Deutschland.
+    -   Verbesserung der Hinterlandanbindung (Schiene, Straße, Wasserstraße) als Grundlage für Lieferketten und militärische Verlegungsfähigkeit.
+    -   Anerkennt die Haushaltslage, lobt konstruktive Zusammenarbeit und sieht die maritime Industrie als Zukunftsbranche mit Jobwachstumspotenzial.
+    -   Verweist auf bereits umgesetzte Maßnahmen und Investitionen (z.B. 400-Millionen-Euro-Programm, 1,3 Milliarden Euro für Bremerhaven, KRITIS-Dachgesetz).
+
+-   **SPD**:
+    -   Verweist auf die maritime Wirtschaft als wichtige Wurzel der deutschen Industriestärke, die Warenlieferung, Industrieproduktion und Energiebereitstellung sichert.
+    -   Betont die gestiegene strategische Bedeutung der maritimen Wirtschaft angesichts veränderter Sicherheitslage und fragiler Lieferketten.
+    -   Fokus auf den Schutz kritischer Infrastruktur, die Stärkung der Zusammenarbeit von Polizei, Zoll und Sicherheitsbehörden.
+    -   Weist auf die strukturelle Verschiebung im Schiffbau hin, bei der China einen Großteil der Aufträge europäischer Reeder erhält, und fordert eine europäische Antwort durch Industriepolitik und wettbewerbsfähige Bedingungen.
+    -   Hervorhebung des Bedarfs an Fachkräften und der Notwendigkeit, Ausbildung, Qualifizierung und gute Arbeitsbedingungen zu stärken.
+    -   Betonung der Resilienz von Logistiksystemen und der besseren Verknüpfung von Verkehrsträgern; hebt die Relevanz der Offshore-Windenergie als Energiebaustein hervor.
+    -   Fordert Investitionen in Wasserstraßen (z.B. Vertiefung der Außenems) und die Modernisierung der Hafeninfrastruktur (z.B. zweite Eisenbahnbrücke Emden).
+    -   Betont, dass der Mensch in der Hafenarbeit nicht vergessen werden darf und dass Laschen Hafenarbeit bleiben muss.
+    -   Spricht sich für die Beseitigung von Munitionsaltlasten in Nord- und Ostsee sowie für verantwortungsvolles Schiffsrecycling aus.
+
+-   **AfD**:
+    -   Anerkennt die Bedeutung der maritimen Wirtschaft als Exportnation, kritisiert aber "Klimaklamauk" in den Anträgen.
+    -   Fordert Unabhängigkeit, Widerstandsfähigkeit, Wettbewerbsfähigkeit und eine klare Sicherheitsstrategie.
+    -   Kritisiert den schlechten Zustand der maritimen Infrastruktur (Hafenanlagen, Anbindung) und mangelnde Investitionen, trotz der Existenz von Sondervermögen.
+    -   Führt Beispiele mangelnder Infrastrukturprojekte (z.B. Einstellung der Königslinie, Tiefseehafen in Swinemünde) und fehlende Wettbewerbsfähigkeit der deutschen Werften (hohe Energie-, Stahl- und Lohnnebenkosten) an.
+    -   Fordert Steuern und Abgaben zu senken, bezahlbare Energie zu gewährleisten und Bürokratie abzubauen.
+    -   Kritisiert staatliche Förderungen als Überdeckung struktureller Schwächen und fordert "Freiheit statt Regulierung".
+    -   Kritisiert die Vergabe von Militärschiffbauaufträgen an ausländische Generalunternehmer und das Sterben der Ostseefischerei.
+    -   Monierte Verzögerungen bei wichtigen Infrastrukturprojekten wie der Schleusenkammer Brunsbüttel über Jahrzehnte.
+    -   Lehnt den Antrag der Grünen als "Zerstörungsprojekt" ab und den Koalitionsantrag aufgrund fehlender Wettbewerbsbedingungen.
+
+-   **Bündnis 90/Die Grünen**:
+    -   Bezeichnet erneuerbare Energien als "Freiheitsenergie" und kritisiert die Bundesregierung, dass sie Erfolge in der Energiepolitik zurückdrehe und Klimaziele infrage stelle, was Investitionen und Planungssicherheit zerstöre.
+    -   Fordert dringende Rahmenbedingungen und ein abgestimmtes europäisches Vorgehen für Wasserstofftechnologien.
+    -   Verlangt "Made-in-Europe"-Vorgaben im Schiffbau, um der strategischen Konkurrenz Chinas zu begegnen, und kritisiert das Fehlen konkreter Maßnahmen im Antrag der Koalition zu einem Investitionsschutzgesetz.
+    -   Kritisiert die mangelnde, verbindlich unterlegte Hafenfinanzierung der Bundesregierung, die zuvor noch höhere Forderungen gestellt hatte, und bezeichnet deren Haltung als "Arbeitsverweigerung".
+    -   Fordert ein hartes Vorgehen gegen "Schattenflotten" basierend auf bereits vorhandenen Studien und Beispielen aus anderen europäischen Ländern.
+    -   Betont die Wichtigkeit der Menschen in der maritimen Wirtschaft und die Notwendigkeit von Planungssicherheit, besseren Arbeitsbedingungen für Seeleute und der Sicherung von Fachkräften.
+    -   Fordert mehr Transparenz und eine Analyse der komplexen Förderstrukturen im maritimen Bereich.
+    -   Kritisiert mangelndes strategisches Vorgehen der Regierung zur Stärkung der deutschen Flagge.
+
+-   **Die Linke**:
+    -   Hebt die enorme Bedeutung der Seehäfen für den deutschen Außenhandel hervor und kritisiert die Bundesregierung, die Küstenländer mit deren dringendem Handlungsbedarf alleinlässt.
+    -   Forderung nach Erhalt des Gesamthafenbetriebs in Bremen und Bremerhaven und nach sicheren, fairen Arbeitsplätzen.
+    -   Kritisiert die Verlagerung von Machtverhältnissen durch die Übernahme von Lieferkettenteilen durch große Reedereien und fordert, Seehäfen als wesentliche Infrastruktur in öffentlichem Eigentum zu halten und Privatisierungen rückgängig zu machen.
+    -   Plädiert für eine Vertiefung der Kooperation deutscher und europäischer Häfen sowie eine verbesserte Hinterlandanbindung (Bahn, Binnenschiff), insbesondere am JadeWeserPort.
+    -   Kritisiert die Tonnagesteuer als "schwer vermittelbar" und fordert ihre europaweite Abschaffung.
+    -   Prangert die Praxis des Ausflaggens an als "Tarifflucht auf See", die zu schlechteren Arbeitsbedingungen und Know-how-Verlust führt. Fordert die Bindung von Vorteilen an die deutsche Flagge und die Ausbildung einheimischer Seeleute.
+    -   Mahnt zur Reduzierung klimaschädlicher Emissionen in der Seeschifffahrt durch Ausweitung von Kontrollgebieten auf alle EU-Gewässer.
+    -   Unterstützt deutsche Hersteller von Spezialschiffen und Konverterplattformen, lehnt jedoch Aufrüstung im Marinebereich ab.
+    -   Fordert die Stärkung der Binnenschifffahrt und die Verhinderung von Stellenstreichungen in der Wasser- und Schifffahrtsverwaltung.
+
+## Chronologischer Debattenverlauf
+-   **[00:00:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=0)** - **Sitzungsbeginn / Einleitung**: Die Debatte zu den Tagesordnungspunkten 18a und 18b (Anträge zur maritimen Wirtschaft der Fraktionen CDU/CSU und SPD sowie Bündnis 90/Die Grünen) wird eröffnet. Eine Aussprache von 60 Minuten wird vereinbart.
+-   **[00:49:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=49)** - **Vanessa Zobel (CDU/CSU)**: Erklärt die maritime Wirtschaft als nationale Frage, die von der Werksrampe bis zur Hohen See reicht. Sie betont die Notwendigkeit, maritime Infrastruktur in die Nationale Sicherheitsstrategie aufzunehmen, kritische Infrastruktur zu schützen, Experimentierklauseln für Drohnenabwehr zu schaffen, den maritimen Standort durch bevorzugten Bau von Marineschiffen in Deutschland zu stärken und die Hinterlandanbindung zu verbessern. Sie räumt ein, dass sie sich an einigen Stellen mehr gewünscht hätte, aber die Realität der Haushaltslage berücksichtigen müsse.
+-   **[05:52:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=352)** - **Leif-Erik Holm (AfD)**: Unterstreicht die Bedeutung der maritimen Wirtschaft für Deutschland als Exportnation und die Anfälligkeit der Weltwirtschaft durch Beeinträchtigungen der Seeschifffahrt. Er fordert Unabhängigkeit, Widerstandsfähigkeit und Wettbewerbsfähigkeit durch eine klare Sicherheitsstrategie. Er kritisiert "Klimaklamauk", den schlechten Zustand der maritimen Infrastruktur, mangelnde Investitionen und den Rückfall Deutschlands gegenüber Nachbarländern. Er fordert Steuern und Abgaben zu senken, bezahlbare Energie und Bürokratieabbau, um den Standort Deutschland attraktiver zu machen.
+-   **[11:07:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=667)** - **Dunja Kreiser (SPD)**: Betont die maritime Wirtschaft als Wurzel der deutschen Industriestärke und ihre gestiegene strategische Bedeutung für Sicherheit und Versorgungssicherheit. Sie fordert den Schutz kritischer Infrastruktur und die Stärkung der Zusammenarbeit von Behörden. Sie weist auf die Verlagerung industrieller Kapazitäten und Know-how nach China hin und fordert eine europäische Antwort durch Industriepolitik und wettbewerbsfähige Bedingungen. Sie hebt die Notwendigkeit von Fachkräften, guten Arbeitsbedingungen und der Stärkung von Ausbildung und Qualifizierung hervor und sieht großes Potenzial in der Offshore-Windenergie.
+-   **[17:37:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=1057)** - **Claudia Müller (Bündnis 90/Die Grünen)**: Spricht von erneuerbaren Energien als "Freiheitsenergie" und kritisiert die Bundesregierung, dass sie die Energiewende torpediere und Unsicherheit für Investitionen schaffe. Sie fordert ein Investitionsschutzgesetz, klare Rahmenbedingungen für Wasserstoff und "Made-in-Europe"-Vorgaben im Schiffbau. Sie kritisiert das Fehlen einer verbindlichen Hafenfinanzierung und das "Achselzucken" der Regierung bei der Hafenpolitik. Zudem fordert sie konkrete Maßnahmen gegen "Schattenflotten" und die Stärkung der Menschen in der maritimen Wirtschaft durch Planungssicherheit und bessere Arbeitsbedingungen.
+-   **[25:47:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=1547)** - **Jörg Cezanne (Die Linke)**: Unterstreicht die zentrale Bedeutung der Seehäfen für den deutschen Außenhandel und kritisiert, dass der Bund die Küstenländer mit den notwendigen Investitionen allein lässt. Er fordert den Erhalt des Gesamthafenbetriebs in Bremen, die öffentliche Eigentümerschaft der Seehäfen und die Rückführung von Privatisierungen. Er plädiert für europäische Hafenkooperation, eine verbesserte Hinterlandanbindung und die Abschaffung der Tonnagesteuer. Er kritisiert das Ausflaggen von Schiffen als "Tarifflucht" und fordert, Vorteile an die deutsche Flagge zu binden. Er mahnt zur Reduzierung klimaschädlicher Emissionen und lehnt Marineaufrüstung ab.
+-   **[32:13:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=1933)** - **Dr. Christoph Ploß (CDU/CSU)**: Hebt die Erfolge der Bundesregierung hervor, darunter ein 400-Millionen-Euro-Programm für Häfen und Schifffahrt sowie Rekordinvestitionen in das Schienen- und Autobahnnetz. Er betont die nationale Bedeutung der maritimen Wirtschaft und ihre Verknüpfung mit der Sicherheit Deutschlands. Er sieht die maritime Industrie als Zukunftsbranche, die neue Arbeitsplätze schaffen kann, und verweist auf die internationale Nachfrage nach deutschen maritimen Technologien.
+-   **[37:31:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=2251)** - **Enrico Komning (AfD)**: Kritisiert den Antrag der Koalition als wohlklingend, aber ohne klaren roten Faden, der strukturelle Schwächen mit staatlichen Förderungen überdecke. Er fordert "Freiheit statt Regulierung" und mehr Wettbewerbsfähigkeit. Er kritisiert die Vergabe von Bundeswehrfregatten-Aufträgen an ausländische Generalunternehmer und die Rettung der Meyer Werft durch staatlichen Einstieg. Er moniert das Sterben der Ostseefischerei und das Fehlen einer strategischen Weiterentwicklung.
+-   **[42:51:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=2571)** - **Johann Saathoff (SPD)**: Begrüßt die Rückkehr der Nationalen Maritimen Konferenz nach Emden und betont die Bedeutung der Küstenregionen für ganz Deutschland. Er fordert die Finanzierung der Vertiefung der Außenems und den Bau einer zweiten Eisenbahnbrücke in Emden. Er spricht über die sich wandelnde Hafenarbeit durch Digitalisierung und die Notwendigkeit, den Menschen in diesem Prozess nicht zu vergessen. Er thematisiert die strategische Rolle der Häfen im Krisenfall, die Munitionsaltlasten in Nord- und Ostsee sowie verantwortungsvolles Schiffsrecycling.
+-   **[49:12:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=2952)** - **Carl-Philipp Sassenrath (CDU/CSU)**: Betont, dass die maritime Wirtschaft eine nationale Aufgabe ist, da der deutsche Export bereits in den Binnenhäfen beginnt. Er warnt vor dem Rückgang der Binnenschifffahrt und fordert eine Trendwende durch mehr Investitionen in Wasserstraßen und die Stärkung der Wasserstraßen- und Schifffahrtsverwaltungen. Er fordert die Integration der Wasserstraße in die nationale Sicherheitsplanung und die Nutzung aller Finanzierungspotenziale, auch des Sondervermögens der Bundesländer. Er ruft zur Modernisierung der Binnenschifffahrt durch neue Technologien auf.
+-   **[53:45:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=3225)** - **Alexis Giersch (AfD)**: Kritisiert die Regierungskoalition für ein "Umsetzungsproblem" und "Politikerblabla" über 20 Jahre hinweg. Als Beispiel führt er die jahrzehntelange Verzögerung beim Bau der fünften Schleusenkammer in Brunsbüttel an. Er moniert die Begründung von Forderungen mit "Kriegstüchtigkeit" und die Kapitulation vor der "grünen Klimakirche". Er fordert eine ideologiefreie, sachliche Bestandsaufnahme und endlich Taten.
+-   **[58:10:00](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=3490)** - **Anne Janssen (CDU/CSU)**: Erklärt die maritime Infrastruktur (Häfen, Wasserstraßen, Schleusen, Hinterlandanbindungen) als strategische Grundausstattung Deutschlands für wirtschaftliche und militärische Handlungsfähigkeit. Sie nennt bereits umgesetzte Maßnahmen der Bundesregierung und betont, dass das gesamte maritime System eine nationale Aufgabe ist, die über norddeutsche Belange hinausgeht. Sie hebt die Bedeutung der Menschen in der maritimen Wirtschaft hervor und fordert die Stärkung maritimer Bündnisse und Ausbildung.
+-   **[01:01:22](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=3682)** - **Bastian Ernst (CDU/CSU)**: Betont die globale Bedeutung der maritimen Sicherheit, wie die Lage in der Straße von Hormus zeige, und begrüßt Deutschlands Beteiligung zur Sicherung dieser Seewege. Er spricht über die Herausforderungen der Marine und die Notwendigkeit der "Zeitenwende" zur Stärkung der Verteidigungsfähigkeit. Er fordert Beschleunigung bei Beschaffung und Nutzung unbemannter Systeme und weist Kritik zur Vergabe von Schiffsaufträgen ins Ausland zurück, da die deutsche Schiffbauindustrie berücksichtigt werde. Er betont, dass Stärke die Voraussetzung für Frieden sei.
+-   **[01:04:34](https://www.youtube.com/watch?v=1rhUxnLAnTc&t=3874)** - **Abstimmung / Ende der Debatte**: Der Antrag der Fraktionen CDU/CSU und SPD auf Drucksache 21/5478 wird angenommen (Zustimmung von CDU/CSU, SPD; Ablehnung von Bündnis 90/Die Grünen, Die Linke; Enthaltung von AfD). Die Überweisung des Antrags der Fraktion Bündnis 90/Die Grünen auf Drucksache 21/5491 an die in der Tagesordnung aufgeführten Ausschüsse wird vorgeschlagen und einstimmig beschlossen.
