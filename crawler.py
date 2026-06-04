@@ -482,7 +482,7 @@ def main():
     parser = argparse.ArgumentParser(description="PolitAgent Crawler - Dokumentiert und fasst Bundestagssitzungen zusammen.")
     parser.add_argument("--days", type=int, default=3, help="Anzahl der letzten Sitzungstage, die erfasst werden sollen (nur bei Erstbefüllung relevant).")
     parser.add_argument("--max-videos", type=int, default=300, help="Maximale Anzahl der zu prüfenden YouTube-Videos.")
-    parser.add_argument("--max-process", type=int, default=15, help="Maximale Anzahl der in diesem Durchlauf zu verarbeitenden Videos (schützt Quota).")
+    parser.add_argument("--max-process", type=int, default=10, help="Maximale Anzahl der in diesem Durchlauf zu verarbeitenden Videos (schützt Quota).")
     parser.add_argument("--force-video", type=str, default=None, help="Erzwinge die Verarbeitung einer bestimmten YouTube Video-ID.")
     args = parser.parse_args()
 
