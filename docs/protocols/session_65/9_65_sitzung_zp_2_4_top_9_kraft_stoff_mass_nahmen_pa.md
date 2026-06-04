@@ -1,0 +1,79 @@
+# Maßnahmenpaket zu Kraftstoff- und Energiepreissteigerungen
+
+## Sitzungs-Metadaten
+-   **Sitzung:** 65. Sitzung
+-   **Datum:** N/A
+-   **Tagesordnungspunkt (TOP):** 9
+-   **Originaltitel:** 65. Sitzung, ZP 2-4, TOP 9: Kraft­stoff­maß­nahmen­paket, Energie­preis­steigerungen
+-   **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=7a-DYukM07g)
+
+## Kurzzusammenfassung
+Die 65. Sitzung des Deutschen Bundestages befasste sich mit einem Maßnahmenpaket zur Bewältigung der gestiegenen Kraftstoff- und Energiepreise, deren Anstieg auf den Irankonflikt zurückgeführt wurde. Die Koalition aus CDU/CSU und SPD stellte einen Gesetzentwurf vor, der eine Begrenzung der täglichen Preiserhöhungen an Tankstellen sowie eine Verschärfung des Kartellrechts, inklusive einer Beweislastumkehr für Mineralölkonzerne, vorsieht. Die Oppositionsparteien AfD, Die Linke und Bündnis 90/Die Grünen kritisierten die geplanten Schritte als unzureichend und forderten stattdessen weitreichendere Maßnahmen wie Steuersenkungen, die Einführung einer Übergewinnsteuer oder den beschleunigten Ausbau erneuerbarer Energien. Die Debatte spiegelte unterschiedliche Ansätze zur Marktregulierung und Bürgerentlastung wider.
+
+## Kernaussagen und Positionen der Fraktionen
+
+-   **CDU/CSU**:
+    -   Die Ursache für die steigenden Spritpreise ist der Krieg im Iran und die Schließung der Straße von Hormus.
+    -   Das vorgeschlagene Maßnahmenpaket führt das "Österreich-Modell" ein, welches Tankstellen nur eine Preiserhöhung pro Tag erlaubt, während Preissenkungen weiterhin mehrfach möglich sind.
+    -   Das Kartellrecht wird nachgeschärft, um Mineralölkonzerne zu Transparenz bei der Preisbildung zu verpflichten (Beweislastumkehr) und dem Kartellamt die Möglichkeit zum Einschreiten zu geben.
+    -   Zusätzliche Mineralölreserven sollen auf den Markt gebracht werden, um das Angebot zu erhöhen.
+    -   Die Koalition handelt schnell und verantwortungsvoll, um die Sorgen der Verbraucher und des Mittelstands anzugehen, ohne in "Planwirtschaft" zu verfallen.
+    -   Bereits erfolgte Entlastungen wie die Pendlerpauschale werden als Beispiel genannt, und weitere zielgerichtete Maßnahmen bei anhaltender Krise in Aussicht gestellt.
+
+-   **AfD**:
+    -   Die von der Koalition vorgeschlagenen Maßnahmen sind unzureichend, eine "Blendgranate" und "Politikkosmetik", die keine schnelle und spürbare Entlastung bringen werden.
+    -   Die Begrenzung der Preiserhöhungen könnte die Preise sogar weiter ansteigen lassen, da Ölkonzerne Sicherheitsaufschläge einplanen müssten.
+    -   Der Staat sei der größte Profiteur der hohen Spritpreise, da über 60% des Preises aus Steuern und Abgaben bestehen, einschließlich der Mehrwertsteuer auf andere Steuern.
+    -   Forderung nach sofortigen Steuersenkungen: Absenkung der Energiesteuer auf das EU-Mindestniveau, Abschaffung der CO2-Abgabe und Reduzierung der Mehrwertsteuer auf Energieprodukte auf 7%.
+    -   Die Kofinanzierung dieser Steuersenkungen soll durch einen Nachtragshaushalt und Kürzungen bei "unnötigen Ausgaben" wie Entwicklungshilfe und EU-Zahlungen erfolgen.
+    -   Warnt vor Deindustrialisierung und Abwanderung von Unternehmen aufgrund der hohen Energiekosten in Deutschland.
+
+-   **SPD**:
+    -   Die überproportionalen Preissteigerungen in Deutschland im Vergleich zu anderen europäischen Ländern deuten auf "Tricksereien" und "Abzocke" der Mineralölkonzerne hin.
+    -   Der Iran-Krieg hat reale Folgen, aber internationale Krisen sind kein Blankoscheck für intransparente Preisexplosionen.
+    -   Das Maßnahmenpaket ist ein wichtiger erster Schritt, um Marktstörungen zu beheben und fairen Wettbewerb sicherzustellen, insbesondere durch die Begrenzung auf eine Preiserhöhung pro Tag und die Beweislastumkehr im Kartellrecht.
+    -   Das Bundeskartellamt wird gestärkt, um effektiver gegen marktbeherrschende Unternehmen vorgehen zu können.
+    -   Bei anhaltender Krise werden weitere Schritte, wie die Prüfung einer Übergewinnsteuer, in Betracht gezogen.
+    -   Betont die Handlungsfähigkeit des Parlaments und die Verpflichtung, die Sorgen der Bürger ernst zu nehmen.
+
+-   **Bündnis 90/Die Grünen**:
+    -   Stimmt der Einschätzung zu, dass die aktuellen Preisentwicklungen "Abzocke durch die fossile Wirtschaft" sind.
+    -   Kritisiert, dass die von der Koalition vorgeschlagenen kartellrechtlichen Maßnahmen zwar richtig, aber nicht ausreichend sind.
+    -   Wirft der Union vor, durch jahrelange Politik fossile Abhängigkeiten geschaffen zu haben, die nun zu hohen Kosten führen.
+    -   Fordert eine Energiewende hin zu erneuerbaren Energien als die einzig nachhaltige Lösung für bezahlbare Energiepreise und wirtschaftliche Unabhängigkeit.
+    -   Schlägt die Einführung einer Übergewinnsteuer für fossile Energiekonzerne vor, da ein erheblicher Teil der Preissteigerungen auf erhöhte Überschüsse der Anbieter zurückzuführen sei.
+    -   Forderungen zur Bürgerentlastung umfassen die Senkung der Stromsteuer, die Senkung des Preises für das Deutschlandticket und die Auszahlung eines Klimageldes.
+
+-   **Die Linke**:
+    -   Verurteilt den Iran-Krieg als völkerrechtswidrig und betont die schwerwiegenden wirtschaftlichen Folgen für die breite Bevölkerung in Deutschland.
+    -   Die vorgelegten Maßnahmen der Regierung sind ein "schlechter Witz" und reichen nicht aus, um die Menschen effektiv zu entlasten.
+    -   Das wirksamste Mittel gegen die Preisexplosion sei die sofortige Beendigung des Krieges.
+    -   Forderungen zur Entlastung der Bürger: rückwirkende Einführung einer Übergewinnsteuer für fossile Energiekonzerne, Auszahlung eines Energiekrisengeldes an alle Haushalte und die Wiedereinführung des 9-Euro-Tickets.
+    -   Kritisiert sowohl die Regierung für mangelndes Handeln und "Kuschen" vor der fossilen Lobby als auch die AfD für das "Wegschauen" bei Konzernprofiten.
+
+## Chronologischer Debattenverlauf
+-   **[00:00:00](https://www.youtube.com/watch?v=7a-DYukM07g&t=0)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Aussprache zu Tagesordnungspunkt 9, der das Kraftstoffmaßnahmenpaket und die Energiepreissteigerungen zum Thema hat.
+-   **[00:00:23](https://www.youtube.com/watch?v=7a-DYukM07g&t=23)** - **Sepp Müller (CDU/CSU)**: Leitet die Debatte mit Dank an die Opposition für das schnelle Gesetzgebungsverfahren ein. Er erläutert, dass steigende Spritpreise durch den Iran-Krieg verursacht werden und stellt das Maßnahmenpaket vor, welches das "Österreich-Modell" (eine Preiserhöhung pro Tag) und eine Verschärfung des Kartellrechts beinhaltet. Er kündigt an, dass zusätzliche Mineralölreserven freigegeben werden.
+-   **[00:05:41](https://www.youtube.com/watch?v=7a-DYukM07g&t=341)** - **Leif-Erik Holm (AfD)**: Kritisiert die Regierungsvorlage als "Blendgranate" und "billiges Placebo", die keine schnelle Entlastung für Bürger und Unternehmen biete. Er argumentiert, dass der Staat der größte Profiteur der hohen Spritpreise sei und fordert stattdessen direkte Steuersenkungen bei Energiesteuer, CO2-Abgabe und Mehrwertsteuer, wie es Österreich und Italien praktizieren.
+-   **[00:08:17](https://www.youtube.com/watch?v=7a-DYukM07g&t=497)** - **Herr Wiese (SPD)**: Stellt eine Zwischenfrage an Herrn Holm, ob er seine politischen Freunde Putin und Trump aufgefordert habe, die Kriege zu beenden, um die Preise zu senken.
+-   **[00:09:00](https://www.youtube.com/watch?v=7a-DYukM07g&t=540)** - **Leif-Erik Holm (AfD)**: Antwortet, dies sei "Unsinn", die genannten Personen seien nicht seine Freunde, und fordert, über inländische Maßnahmen zur Entlastung der Bürger zu sprechen.
+-   **[00:11:46](https://www.youtube.com/watch?v=7a-DYukM07g&t=706)** - **Armand Zorn (SPD)**: Bekundet Anteilnahme am Leid im Iran-Krieg und betont, dass Preisexplosionen der Mineralölkonzerne in Deutschland nicht hinnehmbar seien. Er präsentiert die Kernpunkte des Maßnahmenpakets (eine Preiserhöhung pro Tag, Beweislastumkehr im Kartellrecht, Stärkung des Bundeskartellamts) und signalisiert die Bereitschaft, bei anhaltender Krise über weitere Entlastungen wie eine Übergewinnsteuer zu diskutieren.
+-   **[00:17:00](https://www.youtube.com/watch?v=7a-DYukM07g&t=1020)** - **Dr. Julia Verlinden (Bündnis 90/Die Grünen)**: Bezeichnet die Preisentwicklungen als "Abzocke der fossilen Wirtschaft" und kritisiert die Koalition, dass ihre Maßnahmen nicht ausreichen. Sie fordert eine Politik für Erneuerbare Energien, Senkung der Stromsteuer, des Deutschlandticketpreises und Stopp der Blockade von Dachsolaranlagen, um aus der fossilen Kostenfalle zu entkommen.
+-   **[00:21:24](https://www.youtube.com/watch?v=7a-DYukM07g&t=1284)** - **Ines Schwerdtner (Die Linke)**: Verurteilt den Iran-Krieg und kritisiert die Maßnahmen der Regierung als unzureichend. Sie fordert die Einführung einer rückwirkenden Übergewinnsteuer, ein Energiekrisengeld und die Wiedereinführung des 9-Euro-Tickets, um die Menschen direkt zu entlasten. Sie wirft der Regierung vor, die Probleme der Bürger nicht zu kennen.
+-   **[00:27:44](https://www.youtube.com/watch?v=7a-DYukM07g&t=1664)** - **Katherina Reiche (Bundesministerin für Wirtschaft und Energie)**: Drückt ihr Unbehagen über die Lage im Nahen Osten aus und betont die wirtschaftlichen Folgen für Deutschland. Sie erklärt die Notwendigkeit gezielter Eingriffe zur Förderung von Fairness und Transparenz auf den Märkten, da die Mineralölunternehmen keine überzeugenden Erklärungen für die überproportionalen Preissteigerungen liefern konnten. Sie erläutert die Maßnahmen zur Stärkung des Wettbewerbs (eine Preiserhöhung pro Tag, Beweislastumkehr im Kartellrecht).
+-   **[00:31:16](https://www.youtube.com/watch?v=7a-DYukM07g&t=1876)** - **Zwischenfrage-Angebot**: Die Ministerin lehnt eine Zwischenfrage aus der Fraktion Die Linke ab, um ihre Rede fortzusetzen.
+-   **[00:34:15](https://www.youtube.com/watch?v=7a-DYukM07g&t=2055)** - **Lorenz Gösta Beutin (Die Linke)**: Kritisiert die Rede der Ministerin als "Trauerspiel" und fordert eine 180-Grad-Wende in der Energiepolitik hin zu erneuerbaren Energien und eine Stärkung der Bürgerentlastung, statt geplanter Kürzungen bei der Solarförderung und der Förderung fossiler Energien.
+-   **[00:35:55](https://www.youtube.com/watch?v=7a-DYukM07g&t=2155)** - **Katherina Reiche (Bundesministerin für Wirtschaft und Energie)**: Entgegnet, dass die Fragen gemischt seien und man sich heute auf die Spritpreise und Marktverwerfungen konzentriere. Sie betont die Notwendigkeit, Energie bezahlbar zu halten, um Unternehmen in Deutschland zu sichern.
+-   **[00:36:34](https://www.youtube.com/watch?v=7a-DYukM07g&t=2194)** - **Bernd Schattner (AfD)**: Bezeichnet die Regierungsmaßnahmen als "billiges Placebo" und "Politikkosmetik". Er fordert massive Steuersenkungen (Mehrwertsteuer auf 7%, Energiesteuern auf EU-Minimum, Stromsteuer, CO2-Abgabe abschaffen), um Deutschland wettbewerbsfähig zu halten, und verweist auf Italien als Vorbild.
+-   **[00:40:12](https://www.youtube.com/watch?v=7a-DYukM07g&t=2412)** - **Herr Müller (CDU/CSU)**: Stellt eine Zwischenfrage an Herrn Schattner zur Kofinanzierung der von der AfD geforderten Steuersenkungen und zur Entlastung des Mittelstands.
+-   **[00:41:40](https://www.youtube.com/watch?v=7a-DYukM07g&t=2500)** - **Bernd Schattner (AfD)**: Antwortet, dass ein Nachtragshaushalt aufgelegt und "unnötige Ausgaben" (Entwicklungshilfe, KTF, EU-Zahlungen) eingespart werden sollten. Er schlägt die Abschaffung der CO2-Steuer als direkte Entlastung für den Mittelstand vor.
+-   **[00:43:24](https://www.youtube.com/watch?v=7a-DYukM07g&t=2604)** - **Sebastian Roloff (SPD)**: Bekräftigt, dass die überproportionalen Preissteigerungen in Deutschland inakzeptabel sind und die Verschärfung des Kartellrechts sowie die Begrenzung der Preiserhöhungen begrüßt werden. Er erwähnt, dass der Bundesfinanzminister die Prüfung einer Übergewinnsteuer und zielgerichteter Entlastungsmaßnahmen für Pendler angekündigt hat.
+-   **[00:47:38](https://www.youtube.com/watch?v=7a-DYukM07g&t=2858)** - **Katharina Beck (Bündnis 90/Die Grünen)**: Spricht von einem Déjà-vu und argumentiert, dass Preissteigerungen durch überhöhte Überschüsse der Anbieter verursacht werden. Sie befürwortet kartellrechtliche Maßnahmen, fordert aber zusätzlich eine Übergewinnsteuer, ein Klimageld und kritisiert eine neue Ölabhängigkeit durch die Regierungspolitik.
+-   **[00:52:21](https://www.youtube.com/watch?v=7a-DYukM07g&t=3141)** - **Dr. Andreas Lenz (CDU/CSU)**: Betont die Stärkung des Wettbewerbs als Kern der sozialen Marktwirtschaft. Er dankt für die schnelle Bearbeitung des Gesetzes und verweist auf die Notwendigkeit der Maßnahmen aufgrund der überproportional hohen Preissteigerungen in Deutschland. Er bekräftigt die Beweislastumkehr für Mineralölkonzerne und die Vereinfachung der Sektoruntersuchungen.
+-   **[00:56:53](https://www.youtube.com/watch?v=7a-DYukM07g&t=3413)** - **Herr Beutin (Die Linke)**: Stellt eine Zwischenfrage an Herrn Lenz, warum nicht das aktuellere österreichische Modell (dreimal pro Woche Preiserhöhung) umgesetzt wird und ob das Kartellamt auch zur Deckelung von Übergewinnen genutzt werden soll.
+-   **[00:57:06](https://www.youtube.com/watch?v=7a-DYukM07g&t=3426)** - **Dr. Andreas Lenz (CDU/CSU)**: Antwortet, dass Wettbewerb der beste Schutz sei, im Gegensatz zur Planwirtschaft. Er erklärt, dass die Auswirkungen der österreichischen Maßnahmen genau beobachtet werden müssten, da zu strikte Begrenzungen zu Angebotsengpässen führen könnten.
+-   **[01:00:02](https://www.youtube.com/watch?v=7a-DYukM07g&t=3602)** - **Marc Bernhard (AfD)**: Kritisiert erneut, dass die Bundesregierung der Hauptprofiteur der Preisanstiege sei und fordert die Abschaffung der CO2-Steuer sowie eine Senkung der Energiesteuern. Er bezeichnet die Regierungsmaßnahmen als "blinden Aktionismus", da sie laut Kartellamt keine garantierte Wirkung hätten und sogar zu weiteren Preiserhöhungen führen könnten.
+-   **[01:03:43](https://www.youtube.com/watch?v=7a-DYukM07g&t=3823)** - **Mahmut Özdemir (SPD)**: Betont die Erwartungshaltung der Bürger nach sinkenden Spritpreisen und kritisiert die "Raffgier" weniger Konzerne. Er hebt hervor, dass das Parlament das Thema an sich gezogen hat und der Gesetzentwurf ein wichtiger erster Schritt sei. Er fordert weitere Maßnahmen zur Eindämmung der Profitgier.
+-   **[01:07:07](https://www.youtube.com/watch?v=7a-DYukM07g&t=4027)** - **Steffen Kotré (AfD)**: Wirft der SPD Inkonsequenz vor, da sie die "Raffgier" der Konzerne zwar benenne, aber seit langem regiere, ohne effektiv zu handeln. Er verweist auf Italien und Österreich, die direkte Preissenkungen vorgenommen haben, und kritisiert, dass die deutschen Maßnahmen zu spät greifen. Er fordert die sofortige Abschaffung der CO2-Steuer.
+-   **[01:10:46](https://www.youtube.com/watch?v=7a-DYukM07g&t=4246)** - **Dr. Klaus Wiener (CDU/CSU)**: Als Schlussredner betont er die schnelle Handlungsfähigkeit der Regierung und das Ziel, den Anstieg der Preise einzudämmen, auch wenn eine schnelle Rückkehr zu alten Tiefständen nicht zu erwarten sei. Er verweist auf bereits vorhandene Entlastungen wie die Pendlerpauschale und kritisiert die Anträge der Opposition als "Überbietungswettbewerb" und "fiskalisch fürchterlich". Er lehnt den Begriff "Übergewinnsteuer" als volkswirtschaftlich nicht existent ab und betont den Fokus auf Wettbewerbsstärkung.
+-   **[01:15:08](https://www.youtube.com/watch?v=7a-DYukM07g&t=4508)** - **Sitzungsende / Abstimmungen**: Der Präsident schließt die Aussprache. Es folgen Abstimmungen über die Überweisung der Vorlagen an die Ausschüsse. Der Vorschlag der Linken (Federführung Finanzausschuss) wird abgelehnt, der Vorschlag der CDU/CSU und SPD (Federführung Ausschuss für Wirtschaft und Energie) wird angenommen.

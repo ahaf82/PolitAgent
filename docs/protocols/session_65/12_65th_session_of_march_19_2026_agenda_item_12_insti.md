@@ -1,0 +1,70 @@
+# 65. Sitzung vom 19. März 2026. Tagesordnungspunkt 12: Institutioneller Rassismus in Deutschland
+
+## Sitzungs-Metadaten
+-   **Sitzung:** 65. Sitzung
+-   **Datum:** 19. März 2026
+-   **Tagesordnungspunkt (TOP):** 12
+-   **Originaltitel:** 65th session of March 19, 2026. Agenda item 12: Institutional racism in Germany
+-   **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=TUHdcNSPFRg)
+
+## Kurzzusammenfassung
+Der Bundestag debattierte den Antrag der Fraktion Die Linke zur Bekämpfung institutionellen Rassismus und der Umsetzung der Handlungsempfehlungen der Studie „Institutionen und Rassismus“ (InRa). Während Die Linke und Bündnis 90/Die Grünen die wissenschaftlichen Erkenntnisse der Studie als Beleg für reales, auch unbewusstes, strukturelles Fehlverhalten in Behörden sahen und sofortige, transparente Maßnahmen forderten, räumten die Vertreter der CDU/CSU zwar die Existenz von Rassismus ein, warnten jedoch vor einer pauschalen Verunglimpfung staatlicher Institutionen und verwiesen auf bereits bestehende Maßnahmen und die geringe Zahl bewiesener Einzelfälle. Die AfD kritisierte die InRa-Studie als ideologisch voreingenommen und pseudowissenschaftlich, die lediglich ein linkes Narrativ bediene, und lehnte die vorgeschlagenen Maßnahmen als unnötige "politische Umerziehung" ab. Die SPD betonte die Notwendigkeit für den Staat, eigene Fehler kritisch zu hinterfragen, um Vertrauen bei Betroffenen von Rassismus zu schaffen und die Legitimität des Rechtsstaates zu erhalten.
+
+## Kernaussagen und Positionen der Fraktionen
+-   **Die Linke**:
+    -   Betont, dass Menschen mit Migrationshintergrund im Alltag Diskriminierung erfahren (z.B. bei Ausweiskontrollen, Bewerbungen, Wohnungsvergabe, Lohn).
+    -   Verweist auf die InRa-Studie des Innenministeriums als wissenschaftlichen Beleg dafür, dass Deutschland ein Rassismusproblem hat und Rassismus in Behörden (Jobcentern, Bürgerämtern, Polizei) kein Einzelfall, sondern strukturell ist.
+    -   Kritisiert, dass die Bundesregierung die Studienergebnisse über ein Jahr lang zurückgehalten und dann stillschweigend veröffentlicht habe, weil das Ergebnis angeblich nicht gepasst habe.
+    -   Fordert die konsequente Umsetzung der Handlungsempfehlungen der Studie und die Bekämpfung von Rassismus.
+    -   Wirft der Regierung vor, durch Spaltungspolitik und die Herabwürdigung von Menschen mit Migrationshintergrund, die das Land am Laufen halten, Konzerninteressen zu dienen.
+-   **CDU/CSU**:
+    -   Nimmt die Ergebnisse der InRa-Studie, die Rassismus, Fehlverhalten, Vorurteile und fragwürdige Routinen in Institutionen feststellt, ernst.
+    -   Verweist auf bereits erfolgte Maßnahmen wie die Novelle des Sicherheitsüberprüfungsgesetzes, um Extremisten im Staatsdienst zu verhindern.
+    -   Unterscheidet zwischen kritischer Selbstprüfung und einer pauschalen Verunglimpfung des Staates, wie sie der Linken vorgeworfen wird.
+    -   Argumentiert, dass eine unterschiedliche Behandlung von Personen nicht per se diskriminierend sei, sondern Ausdruck einer rechtsstaatlich gebotenen Differenzierung.
+    -   Führt statistische Daten der Bundespolizei an (z.B. 2 von 81 begründete Beschwerden wegen Racial Profiling, 2 strafrechtliche Verurteilungen in 61 Verdachtsfällen über 10 Jahre), um zu belegen, dass von flächendeckendem strukturellem Rassismus keine Rede sein könne.
+    -   Lehnt die Unterstellung eines auf Misstrauen und Bespitzelung basierenden Staates ab und fordert den Schutz derjenigen, die verantwortungsvollen Dienst leisten.
+    -   Betont die Notwendigkeit eines starken, handlungsfähigen Staates, der Rassismus und Extremismus bekämpft, aber mit rechtsstaatlicher Klarheit und ohne ideologische Scheuklappen.
+-   **AfD**:
+    -   Bezeichnet die InRa-Studie als Paradebeispiel für eine Untersuchung mit vorgegebenem Ergebnis, die ein politisches Narrativ pseudowissenschaftlich verpackt.
+    -   Kritisiert die ideologische Voreingenommenheit der Autoren (z.B. Ablehnung des Begriffs "Integration", Groß-/Kleinschreibung von "Schwarz" vs. "weiß").
+    -   Führt Beispiele an, in denen die Studie reale Probleme als "kulturellen Rassismus" umdeute, anstatt tatsächliche Herausforderungen zu analysieren.
+    -   Sieht in der Studie ein Muster, das Migration immer positiv darstellt und Probleme der Aufnahmegesellschaft zuschreibt, mit der Lösung in mehr Beauftragten, Schulungen und ideologischer Begleitung.
+    -   Lehnt "politische Umerziehung des Staates", "Generalverdacht" gegen Behörden, neue "ideologische Beschwerdeapparate" und Quotenlogiken ab.
+    -   Forderte stattdessen funktionierende Behörden, klare Regeln, gleiche Maßstäbe für alle und einen Staat, der sich nicht von "linken Aktivisten" zum Umerziehungsobjekt machen lässt.
+-   **SPD**:
+    -   Kritisiert die AfD-Rede als nicht zielführend und betont, dass ein starker Rechtsstaat in den "Abgrund" blicken müsse, um Fehler zu erkennen.
+    -   Verweist auf den Entstehungskontext der Studie (Halle, Hanau, Mord an Walter Lübcke) und die Notwendigkeit, sich strukturellem und institutionellem Rassismus zu stellen.
+    -   Betont, dass die Ergebnisse der Studie weder eine Verallgemeinerung des Problems noch eine Verharmlosung als reine Einzelfälle zuließen.
+    -   Hebt hervor, dass Menschen mit Rassismuserfahrungen weniger Vertrauen in den Staat haben, was ein Legitimitätsproblem darstelle.
+    -   Forderte eine nüchterne, analytische Auseinandersetzung mit Rassismus, um das Vertrauen in den Staat wiederherzustellen und schonungslos Fälle von Behördenversagen aufzuklären, insbesondere in Bezug auf strukturelle Fehler.
+-   **Bündnis 90/Die Grünen**:
+    -   Kritisiert das Innenministerium scharf für das Zurückhalten und die unfeierliche Veröffentlichung der Studienergebnisse.
+    -   Betont die Einmaligkeit der InRa-Studie, die wissenschaftlich belege, dass Diskriminierung und Rassismus in deutschen Behörden real seien, oft auch ohne bewusste Absicht.
+    -   Fordert Transparenz, Ehrlichkeit und Verantwortung im Umgang mit der Studie, um das Vertrauen in staatliche Institutionen wiederzugewinnen.
+    -   Schlägt konkrete Maßnahmen vor: unabhängige Beschwerdestellen, verpflichtende Fortbildungen zu Rassismus und Diskriminierung sowie eine verbesserte Datenerhebung und transparente Aufarbeitung.
+    -   Argumentiert, dass diese Maßnahmen die Behörden nicht schwächen, sondern im Gegenteil das Vertrauen in den Rechtsstaat und die Glaubwürdigkeit der Institutionen stärken würden.
+-   **CDU/CSU (zweiter Beitrag)**:
+    -   Wiederholt die Zurückweisung des Vorwurfs der Vertuschung und verweist auf die öffentliche Zugänglichkeit der Studie.
+    -   Bekräftigt, dass die Studie keinen flächendeckenden, vorsätzlichen Rassismus als Regel feststelle, sondern Herausforderungen in komplexen Strukturen und Abläufen sehe.
+    -   Lehnt die pauschale Darstellung eines strukturellen Problems in allen Institutionen als Verzerrung ab.
+    -   Betont, dass in Bundesbehörden bereits an Antidiskriminierung, Sensibilisierung und Beschwerdestrukturen gearbeitet werde.
+    -   Kritisiert die weitergehenden Forderungen der Linken als über die Studienergebnisse hinausgehend und methodisch fragwürdig.
+    -   Plädiert für die Stärkung der Leistungsfähigkeit und Integrität des Staates durch gezielte Korrektur von Fehlentwicklungen und Vertrauen in die professionelle Mehrheit der Beschäftigten.
+-   **AfD (zweiter Beitrag)**:
+    -   Bezeichnet die Logik der InRa-Studie, die Überlastung, komplexe Rechtslagen und individuelle Fehlentscheidungen als Rassismus interpretiert, als nicht tragfähig.
+    -   Wiederholt den Vorwurf, dass die Studie nicht ergebnisoffen sei, sondern linke Narrative bediene und strukturelle Belastungsfaktoren der Behörden ignoriere.
+    -   Stellt die Vereinbarkeit von "stärkerer Diversität" mit dem Leistungsprinzip des Grundgesetzes in Frage und bezeichnet Quoten statt Bestenauslese als "Rassismus in Reinkultur".
+    -   Kritisiert die von der Linken geforderten neuen Beschwerdestrukturen und Monitoring-Systeme als kostspielig und nutzlos für den Bürger.
+    -   Warnt, dass die pauschale Infragestellung staatlicher Institutionen das Vertrauen in diese schwäche.
+
+## Chronologischer Debattenverlauf
+-   **[00:00:00](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=0)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Aussprache zum Tagesordnungspunkt 12, dem Antrag der Fraktion Die Linke mit dem Titel "Institutionellen Rassismus bekämpfen – Handlungsempfehlungen der Studie „Institutionen und Rassismus“ umsetzen". Für die Aussprache wurde eine Dauer von 30 Minuten vereinbart.
+-   **[00:00:26](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=26)** - **Ferat Koçak (Die Linke)**: Erörtert die alltäglichen Diskriminierungserfahrungen von Menschen in Deutschland und verweist auf die wissenschaftlich belegte Existenz von Rassismus in Deutschland, insbesondere den strukturellen Rassismus in Behörden. Er kritisiert das Innenministerium, die InRa-Studie über ein Jahr lang zurückgehalten und dann stillschweigend veröffentlicht zu haben, da die Ergebnisse angeblich nicht zur Regierungspolitik passten. Koçak fordert die Umsetzung der Handlungsempfehlungen der Studie und die konsequente Bekämpfung von Rassismus. Er wirft der Regierung vor, durch Spaltungspolitik die Solidarität der arbeitenden Bevölkerung zu untergraben und die Beiträge von Menschen mit Migrationshintergrund zu missachten.
+-   **[00:03:48](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=228)** - **Florian Oest (CDU/CSU)**: Konzentriert sich auf die InRa-Studie, deren Ergebnisse, die auf Rassismus, Fehlverhalten und Vorurteile in Institutionen hinweisen, er ernst nimmt. Er erläutert bereits ergriffene Maßnahmen wie die Novelle des Sicherheitsüberprüfungsgesetzes zur Verhinderung von Extremisten im Staatsdienst. Oest mahnt vor einer pauschalen Verunglimpfung des Staates und seiner Behörden und betont, dass eine unterschiedliche Behandlung im Rahmen der Rechtsstaatlichkeit keine Diskriminierung darstelle. Er untermauert seine Argumentation mit statistischen Daten zur Bundespolizei, die seiner Ansicht nach keinen flächendeckenden strukturellen Rassismus belegen.
+-   **[00:09:16](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=556)** - **Jochen Haug (AfD)**: Kritisiert die InRa-Studie als ideologisch voreingenommen und pseudowissenschaftlich, da sie ein politisches Narrativ verfolge und die Ergebnisse von vornherein feststünden. Er führt Beispiele für die angebliche ideologische Schlagseite der Autoren an, wie die Verwendung des Begriffs "Integration" oder die Regeln zur Groß-/Kleinschreibung bestimmter Begriffe. Haug lehnt die im Antrag der Linken geforderten Maßnahmen als "politische Umerziehung des Staates" ab und fordert stattdessen funktionierende Behörden mit klaren Regeln und gleichen Maßstäben für alle.
+-   **[00:12:54](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=774)** - **Helge Lindh (SPD)**: Reagiert auf die AfD-Rede und unterstreicht die Notwendigkeit, dass ein Rechtsstaat auch seine eigenen Schwachstellen und Fehler kritisch beleuchten müsse. Er erinnert an die Entstehung der Studie im Kontext von Ereignissen wie Halle und Hanau und dem Mord an Walter Lübcke. Lindh betont, dass die Studie zwar kontrovers diskutiert werde, ihre Ergebnisse aber weder als reine Einzelfälle abgetan noch verallgemeinert werden dürften. Er argumentiert, dass Rassismuserfahrungen das Vertrauen in staatliche Institutionen untergraben und der Staat sich diesen Herausforderungen stellen müsse, um seine Legitimität zu wahren.
+-   **[00:19:49](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=1189)** - **Schahina Gambir (Bündnis 90/Die Grünen)**: Verurteilt das Vorgehen des Innenministeriums, die InRa-Studienergebnisse zurückgehalten zu haben. Sie hebt hervor, dass die Studie wissenschaftlich belege, dass Diskriminierung und Rassismus in deutschen Behörden existieren und oft unbewusst erfolgen. Gambir fordert Transparenz, Ehrlichkeit und Verantwortung im Umgang mit diesen Erkenntnissen. Sie schlägt konkrete Maßnahmen wie unabhängige Beschwerdestellen, verpflichtende Fortbildungen und eine bessere Datenerhebung vor, um das Vertrauen in den Rechtsstaat zu stärken und die Glaubwürdigkeit der Institutionen zu verbessern.
+-   **[00:24:00](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=1440)** - **Heiko Hain (CDU/CSU)**: Widerspricht dem Vorwurf der Vertuschung und weist darauf hin, dass die Studie öffentlich zugänglich gemacht wurde. Er betont, dass die Studie keinen flächendeckenden, vorsätzlichen Rassismus als Regel feststelle, sondern die Herausforderungen in komplexen Strukturen und Abläufen sehe. Hain weist die pauschale Darstellung eines strukturellen Problems in allen Institutionen zurück und verweist auf bereits bestehende und weiterentwickelte Antidiskriminierungs- und Beschwerdestrukturen in den Behörden. Er lehnt die weitreichenden Forderungen der Linken als über die Studienergebnisse hinausgehend ab und warnt vor der Untergrabung des Vertrauens in die Staatsbediensteten.
+-   **[00:28:43](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=1723)** - **Arne Raue (AfD)**: Kritisiert erneut die methodische Vorgehensweise der InRa-Studie, die seiner Meinung nach strukturelle Probleme wie Überlastung der Behörden fälschlicherweise mit Rassismus gleichsetze. Er wirft der Linken vor, mit ihrer Forderung nach "stärkerer Diversität" und Quoten das Leistungsprinzip des Grundgesetzes zu untergraben und "Rassismus in Reinkultur" zu praktizieren. Raue lehnt die vorgeschlagenen, kostspieligen neuen Beschwerdestrukturen als unnötig und ineffizient ab und warnt, dass die pauschale Infragestellung staatlicher Institutionen das Vertrauen der Bürger schwäche.
+-   **[00:32:30](https://www.youtube.com/watch?v=TUHdcNSPFRg&t=1950)** - **Sitzungsende / Abstimmung**: Die Präsidentin schließt die Aussprache. Die interfraktionell vorgeschlagene Überweisung der Vorlage auf Drucksache 21/4751 an die in der Tagesordnung aufgeführten Ausschüsse wird angenommen.

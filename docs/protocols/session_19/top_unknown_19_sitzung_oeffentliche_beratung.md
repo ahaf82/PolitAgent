@@ -1,0 +1,195 @@
+# Öffentliche Beratung des Ausschusses für Sport und Ehrenamt
+
+## Sitzungs-Metadaten
+- **Sitzung:** 19. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** 19. Sitzung: Öffentliche Beratung
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=X_RgDejR5vE)
+
+## Kurzzusammenfassung
+Die 19. Sitzung des Ausschusses für Sport und Ehrenamt befasste sich mit zwei Hauptthemen. Zunächst wurde die aktuelle Situation und Zukunft des Bob-, Rodel- und Skeletonsports diskutiert, wobei Deutschlands Erfolge gewürdigt, die Bedeutung der Infrastruktur und Technologie hervorgehoben und die Sicherung des olympischen Status erörtert wurden, während Herausforderungen wie Trainerfinanzierung und Nachwuchsgewinnung zur Sprache kamen. Im zweiten Teil der Sitzung ging es um den legislativen Handlungsbedarf zur besseren Unterstützung der Opfer des systematischen Zwangsdopings in der ehemaligen DDR, wobei die Notwendigkeit eines neuen Gesetzes oder einer Anpassung bestehender Regelungen zur langfristigen Deckung gesundheitlicher Spätfolgen im Vordergrund stand.
+
+## Kernaussagen und Positionen der Fraktionen
+
+### TOP 1: Aktuelle Situation und Zukunft des Bob-, Rodel- und Skeletonsports
+
+-   **Bob- und Schlittenverband für Deutschland (BSD) (Heinz Wolf von Schleinitz, Thomas Schwab)**:
+    -   Der BSD ist der erfolgreichste olympische Verband im Winter, es wird jedoch mehr finanzielle und gesellschaftspolitische Anerkennung gefordert.
+    -   Die Behauptung, es handele sich um eine Randsportart, wird kritisiert; die Erfolge basieren auf besten Piloten, Anschiebern, Anschubzeiten und herausragendem Material (FES).
+    -   Der olympische Status der Sportarten ist bis 2034 gesichert.
+    -   Der Verband engagiert sich international für die Weiterentwicklung des Sports (z.B. Gender Equality, Sicherheit) und die nachhaltige Nutzung bestehender Bahnen.
+    -   Die Wiederinbetriebnahme der Bahn am Königssee bis 2026/2028 ist für die Nachwuchsförderung essentiell, trotz Verzögerungen durch Klagen.
+    -   Die Trainerfinanzierung ist kritisch, da mangelnde Gehaltserhöhungen seit 2019 zur Abwanderung von Trainern führen. Das Erfolgsgeheimnis liegt in professionellen Strukturen, ständiger Analyse und der Bereitschaft zur Veränderung.
+    -   Aktive Kooperationen mit anderen Nationen tragen zur internationalen Verbreitung des Sports bei.
+-   **Internationaler Bob- und Skeletonverband (IBSF) (Heike Grösswang)**:
+    -   Das IOC plant keinen Ausschluss des Kufensports aus dem olympischen Programm; die Evaluierung ist ein normaler Prozess.
+    -   Die Dominanz Deutschlands wird im IOC thematisiert; Ziel ist es, schwächere Nationen zu unterstützen, nicht Erfolgreiche zu benachteiligen.
+    -   Die nachhaltige Nutzung deutscher Bahnen für den internationalen Sport ist wichtig und wird vom IOC anerkannt.
+    -   Standardisierung von Geräten zur Kostenkontrolle und zur Erleichterung des Einstiegs in den Sport wird angestrebt.
+-   **Deutscher Olympischer Sportbund (DOSB) (Stephan Lachenmayr)**:
+    -   Spricht Dank und Respekt für die deutschen Leistungen aus, die auf harter Arbeit, Nachwuchsförderung und einzigartiger Infrastruktur basieren.
+    -   Betont die Rolle der Eiskanäle als stabile und vom Klimawandel unabhängige Trainings- und Wettkampfstätten.
+    -   Der DOSB setzt sich nachdrücklich für den Erhalt des Kufensports im olympischen Programm ein.
+-   **Institut für Forschung und Entwicklung von Sportgeräten (FES) (Michael Nitsch)**:
+    -   Bestätigt die langfristige Sicherung des Kufensports bis 2034 und die geringere Abhängigkeit von äußeren Bedingungen.
+    -   Das FES trägt maßgeblich zu Deutschlands Erfolgen bei und sieht sich bereit, Wissen auch in andere Sportarten einzubringen.
+    -   Forderung nach einer nationalen Spitzensportstrategie und einer unabhängigen Agentur zur Steigerung der Medailleneffektivität.
+    -   Bereitschaft zur konstruktiven Mitarbeit an der Standardisierung von Material, um den Sport fairer und kostengünstiger zu gestalten.
+    -   Hervorhebung des Aufwuchses für den Parasport und die daraus gewonnenen Erkenntnisse.
+-   **Institut für Angewandte Trainingswissenschaften (IAT) (Dr. Marc-Oliver Löw)**:
+    -   Unterstützt den BSD im Skeleton-Bereich und betont die internationale Reichweite des Kufensports mit über 20 Nationen.
+    -   Verweist auf hohe Einschaltquoten und die Notwendigkeit, Leistungen wertzuschätzen.
+    -   Kritisiert Defizite in der Olympiaanalyse, Förderentscheidungen und Strategie im deutschen Spitzensport.
+    -   Fordert bessere Finanzierung und Planbarkeit für Fachkräfte, um die Qualität zu erhalten.
+-   **Unionsfraktion (Artur Auernhammer, Jens Lehmann)**:
+    -   Bekundet Stolz auf die Leistungen der Athleten und Trainer und unterstützt den Erhalt der vier deutschen Eiskanäle.
+    -   Erfragt den Stand der Wiederinbetriebnahme der Bahn am Königssee und deren Auswirkungen auf den Nachwuchs.
+    -   Befürwortet die Nutzung bestehender Bahnen für Olympische Spiele und fragt nach Sicherheitsentwicklungen im Bobsport.
+    -   Kritisiert die Größe und Besetzung des sportfachlichen Beirats und fordert ein Expertengremium.
+    -   Betont die Wichtigkeit von Vorbildern und Nachwuchstrainern.
+-   **AfD-Fraktion (Herr Shiske, Herr König)**:
+    -   Gratuliert zu den sportlichen Leistungen und fragt nach den Ursprüngen der Gerüchte um den olympischen Ausschluss.
+    -   Fordert eine schonungslose Analyse des deutschen Spitzensports und kritisiert den "Niedergang" sowie die mangelnde Nachhaltigkeit von Sportstätten.
+    -   Fragt nach Kooperationen mit anderen Nationen zur Förderung des Sports und dem internationalen Druck zur Materialstandardisierung.
+-   **SPD-Fraktion (Bettina Lugk, Herr Koße)**:
+    -   Sieht den Bob- und Schlittensport als "Best Practice"-Beispiel und fragt nach der Fachkräftelage und der Verwendung von Haushaltsmitteln bei FES/IAT.
+    -   Betont die Notwendigkeit einer klaren Strategie für den Spitzensport und die Herausforderungen bei Arbeitszeiten und Vertragsdauern für Trainer.
+    -   Erfragt das "Geheimnis" des Erfolgs, um daraus für andere Sportarten lernen zu können.
+-   **Bündnis 90/Die Grünen (Tina Winklmann)**:
+    -   Würdigt die Leistungen und lehnt einen Ausschluss des Sports aus dem olympischen Programm ab.
+    -   Unterstützt den Wiederaufbau der Königsseer Bahn und fragt nach Strategien zur langfristigen Nachwuchsgewinnung.
+    -   Erfragt Möglichkeiten, den technischen Vorsprung Deutschlands zu erhalten und wie das Sportfördergesetz Wintersportbedürfnisse berücksichtigen kann.
+-   **Die Linke (Christian Görke)**:
+    -   Betont die Bedeutung des Sports und fragt nach der Situation der Trainer und der Nachwuchsförderung in der Spitzenförderung.
+    -   Erfragt den aktuellen Stand des Sportfördergesetzes.
+-   **Verwaltung (Frau Dr. Kibele)**:
+    -   Gibt Auskunft über den Fortschritt des Sportfördergesetzes (zweite Ressortabstimmung) und die Traineroffensive (Erhöhung der Förderhöchstgrenzen, Haushaltsanträge).
+    -   Diskussionen mit dem BMAS zur Arbeitszeitregelung und einem Expertentreffen zum Berufsbild Trainer sind geplant.
+
+### TOP 2: Gesetzgeberischer Handlungsbedarf zur besseren Unterstützung der Opfer des systematischen Zwangsdopings in der ehemaligen DDR
+
+-   **Bundesbeauftragte für die Opfer der SED-Diktatur (Evelyn Zupke)**:
+    -   Doping in der DDR war staatlich geplant und organisiert, nicht vergleichbar mit Doping in anderen Ländern, und betraf oft unwissende Minderjährige.
+    -   Tausende leiden bis heute unter körperlichen und seelischen Spätfolgen (z.B. depressive Störungen, PTBS).
+    -   Bisherige Dopingopferhilfegesetze reichten nicht aus; es fehlt ein dauerhaftes Instrument zur Unterstützung bei gesundheitlichen Schädigungen.
+    -   Empfiehlt ein "Dopingopferunterstützungsgesetz" mit Zugang zu Leistungen des sozialen Entschädigungsrechtes und einer kriterienbasierten Vermutungsregelung für den Zusammenhang von Doping und Schäden.
+    -   Dies würde einen Beitrag zu einem werteorientierten Leistungssport und der Aufarbeitung der Geschichte leisten.
+    -   Betont die Dringlichkeit der Hilfe aufgrund des Alters der Opfer und spricht sich für schnelle, effektive Lösungen aus.
+    -   Fordert mehr Öffentlichkeit und Thematisierung des Unrechts, auch im Bildungssystem, sowie weitere Forschung zu den Auswirkungen auf nachfolgende Generationen.
+-   **Verwaltung (Frau Dr. Kibele)**:
+    -   Das Kanzleramt strebt die Federführung für eine Gesetzesinitiative an und prüft Alternativen wie ein drittes Dopingopferhilfegesetz mit Einmalzahlung oder rentenähnliche Zahlungen.
+    -   Die Klärung von Fallzahlen, angemessener Höhe und Abstimmung mit dem Finanzministerium sind entscheidend.
+-   **Unionsfraktion (Stephan Mayer)**:
+    -   Würdigt Frau Zupkes Engagement und lehnt einen Schlussstrich bei der Opferentschädigung ab, fordert die Umsetzung der Koalitionsvertragszusage.
+    -   Fragt nach bevorzugtem Gesetzesweg, Art der Entschädigung und erwarteten Fallzahlen/Kosten.
+    -   Betont die Notwendigkeit einer Vermutungsregelung zur Überwindung der Kausalitätsbeweisproblematik.
+    -   Pragmatismus ist entscheidend für eine schnelle Gesetzeslösung.
+-   **AfD-Fraktion (Herr König)**:
+    -   Bedankt sich für den Bericht, äußert aber Skepsis.
+    -   Berichtet von eigener Betroffenheit und Kritik an zu spät und unzureichend gekommenen Dopingopferhilfegesetzen.
+    -   Hinterfragt die Zahl der Betroffenen (Klarstellung, dass 15.000 die Gesamtzahl der Athleten war) und sorgt sich vor "neuer Dauer-NGO".
+    -   Fordert eine pragmatische, rechtssichere Lösung und unterstützt die Änderung des Rehabilitierungsgesetzes, um politische Missachtung als Tatbestand aufzunehmen.
+-   **SPD-Fraktion (Bettina Lugk)**:
+    -   Dankt für die schwierige Arbeit und präzisiert die Zahlen der Dopingopfer (1449 positiv beschiedene Anträge).
+    -   Betont die sensible Fragestellung und die Notwendigkeit einer genauen Definition von betroffenen Sportarten und Einzelfallprüfungen.
+    -   Fragt, wie das Urteil des Bundesverwaltungsgerichts die Arbeit beeinflusst und ob ein dritter Fonds ausgeschlossen ist.
+-   **Bündnis 90/Die Grünen (Tina Winklmann)**:
+    -   Dankt Frau Zupke und dem Dopingopferhilfeverein, kritisiert das Verdrängen des Themas aus der Öffentlichkeit und das Fehlen einer umfassenden Erinnerungskultur.
+    -   Wünscht sich mehr öffentliche Debatte und die Integration des Themas ins Bildungssystem, um den Opfern eine Stimme zu geben.
+    -   Fordert schnellere und unbürokratische Gesetze.
+-   **Die Linke (Jorrit Bosch)**:
+    -   Bedankt sich für den Bericht und die ausführlichen Antworten.
+    -   Fragt nach den erwarteten Entschädigungssummen pro Person, um die Dimension klarzustellen (unterer vierstelliger Bereich, keine "Unsummen").
+    -   Fragt die Bundesregierung, warum das zweite Dopingopferhilfegesetz 2020 auslief und nicht verlängert wurde.
+    -   Fragt nach weiteren Forschungslücken, insbesondere zu den Auswirkungen auf die nächste Generation.
+
+## Chronologischer Debattenverlauf
+-   **[00:00:02](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2)** - **Sitzungsbeginn / Einleitung**: Die Vorsitzende eröffnet die 19. Sitzung des Ausschusses für Sport und Ehrenamt, begrüßt alle Anwesenden und gratuliert Artur Auernhammer und Christian Görke zu ihren Geburtstagen.
+-   **[00:00:35](https://www.youtube.com/watch?v=X_RgDejR5vE&t=35)** - **Informationen zur Sitzung**: Die Staatsministerin Dr. Schenderlein kann nicht teilnehmen, Frau Dr. Kibele und Herr Dr. Spitzer stehen zur Verfügung. Die Sitzung wird live vom Parlamentsfernsehen übertragen.
+-   **[00:01:24](https://www.youtube.com/watch?v=X_RgDejR5vE&t=84)** - **TOP 1 Einführung**: Die Vorsitzende leitet zum ersten Tagesordnungspunkt über: die aktuelle Situation und Zukunft des Bob-, Rodel- und Skeletonsports. Sie würdigt die Erfolge bei den Winterspielen und stellt die internationale Konkurrenz sowie die Frage nach der Zukunftsfähigkeit in den Raum.
+-   **[00:02:59](https://www.youtube.com/watch?v=X_RgDejR5vE&t=179)** - **Begrüßung der Sachverständigen (TOP 1)**: Es werden Vertreter des Bob- und Schlittenverbandes für Deutschland (BSD), des Internationalen Bob- und Skeletonverbandes (IBSF), des Deutschen Olympischen Sportbundes (DOSB), des Instituts für Angewandte Trainingswissenschaften (IAT) und des Instituts für Forschung und Entwicklung von Sportgeräten (FES) begrüßt.
+-   **[00:04:10](https://www.youtube.com/watch?v=X_RgDejR5vE&t=250)** - **Heinz Wolf von Schleinitz (BSD)**: Gibt eine Einführung, betont den Erfolg als olympischer Verband und fordert mehr Anerkennung. Kritisiert die Herabwürdigung des Sports als Randsportart und hebt die Bedeutung von Piloten, Anschiebern und Material hervor.
+-   **[00:06:18](https://www.youtube.com/watch?v=X_RgDejR5vE&t=378)** - **Heinz Wolf von Schleinitz (BSD)**: Spricht über die Zukunft des Sports, das Engagement in Weltverbänden und die Sicherung des olympischen Status bis 2034. Erwähnt Initiativen zu Gender Equality und Bobsicherheit sowie Breitensportprojekte.
+-   **[00:07:38](https://www.youtube.com/watch?v=X_RgDejR5vE&t=458)** - **Thomas Schwab (BSD)**: Ergänzt zur Zukunft der Sportarten, stellt klar, dass Bob, Rodel und Skeleton Kernsportarten im olympischen Programm sind und die nächsten zwei Spiele gesichert sind. Spricht über Konzepte zur nachhaltigen Nutzung von Sportstätten.
+-   **[00:10:45](https://www.youtube.com/watch?v=X_RgDejR5vE&t=645)** - **Heike Grösswang (IBSF)**: Bestätigt, dass das IOC keine Absicht hat, Bobsport aus dem Programm zu nehmen. Erklärt den normalen Evaluationsprozess des IOC und die Diskussionen um Attraktivität und die Dominanz einzelner Nationen.
+-   **[00:12:54](https://www.youtube.com/watch?v=X_RgDejR5vE&t=774)** - **Heike Grösswang (IBSF)**: Betont die nachhaltige Nutzung von Bahnen und die Wichtigkeit der vier deutschen Eiskanäle für den internationalen Sport. Sie sieht die Zukunft des Sports positiv, aber reflektiert kritische Punkte wie Kosten und Geräte-Standardisierung.
+-   **[00:14:59](https://www.youtube.com/watch?v=X_RgDejR5vE&t=899)** - **Stephan Lachenmayr (DOSB)**: Spricht Dank und Respekt für die deutschen Leistungen aus. Hebt die Eiskanäle als zentrale Bausteine der Infrastruktur und als stabile Standorte im Kontext des Klimawandels hervor. Klares Bekenntnis zum Erhalt im olympischen Programm.
+-   **[00:17:56](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1076)** - **Michael Nitsch (FES)**: Geht auf die Themen Fit for Future des IOC und die Sicherung des Kufensports bis 2034 ein. Betont die Unabhängigkeit von Freiluftsportarten und die Rolle des FES bei den Erfolgen.
+-   **[00:20:29](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1229)** - **Michael Nitsch (FES)**: Kritisiert das Fehlen einer nationalen Spitzensportstrategie und fordert die zeitnahe Einbringung des Spitzensportgesetzes ins Parlament, eine unabhängige Agentur und einen sportfachlichen Beirat.
+-   **[00:22:36](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1356)** - **Dr. Marc-Oliver Löw (IAT)**: Bestätigt die Position des FES zu Spitzensportstrategie und Förderentscheidungen. Erläutert die Wirksamkeit des IAT im Skeleton-Bereich und die internationale Verankerung der Kufensportarten.
+-   **[00:25:24](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1524)** - **Dr. Marc-Oliver Löw (IAT)**: Zeigt hohe Einschaltquoten in Deutschland für die Kufensportarten auf. Kritisiert die mangelnde Wertschätzung von Leistungen und spricht über Nachhaltigkeit im Kontext der regelmäßigen Nutzung von Sportstätten.
+-   **[00:27:51](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1671)** - **Beginn der Frage- und Antwortrunde (TOP 1)**: Die Vorsitzende eröffnet die Fragerunde mit unterschiedlichen Minutenkontingenten für die Fraktionen.
+-   **[00:28:14](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1694)** - **Artur Auernhammer (CDU/CSU)**: Drückt Stolz auf die Athleten aus und fragt nach dem Stand der Wiederinbetriebnahme der Bahn am Königssee sowie deren Bedeutung für den Nachwuchs.
+-   **[00:30:06](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1806)** - **Thomas Schwab (BSD)**: Antwortet, dass die Bahn am Königssee hoffentlich im November 2026 wieder für Bob und 2028 für Rodeln vollständig zur Verfügung steht, trotz Verzögerungen durch Klagen und Umplanungen.
+-   **[00:31:53](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1913)** - **Artur Auernhammer (CDU/CSU)**: Fragt Heike Grösswang nach der internationalen Bedeutung, bestehende Bahnen zu nutzen, anstatt neue zu bauen.
+-   **[00:32:50](https://www.youtube.com/watch?v=X_RgDejR5vE&t=1970)** - **Heike Grösswang (IBSF)**: Bestätigt die Position der Wintersportverbände, bestehende Standorte zu nutzen.
+-   **[00:33:40](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2020)** - **Artur Auernhammer (CDU/CSU)**: Fragt nach dem Stand der Sicherheitsmaßnahmen (Umsturzbügel) im Bobsport.
+-   **[00:34:01](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2041)** - **Michael Nitsch (FES)**: Berichtet über die Entwicklung von Prototypen in enger Zusammenarbeit mit dem BSD und die Diskussionen über die Implementierung.
+-   **[00:35:06](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2106)** - **Jens Lehmann (CDU/CSU)**: Fragt Michael Nitsch nach dem sportfachlichen Beirat und dessen gewünschter Zusammensetzung.
+-   **[00:35:40](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2140)** - **Michael Nitsch (FES)**: Erklärt, dass der Beirat aus den besten Expertinnen und Experten des absoluten Spitzensports bestehen sollte, um Entscheidungen fundiert zu treffen.
+-   **[00:36:44](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2204)** - **Jens Lehmann (CDU/CSU)**: Fragt nach der Nachwuchsarbeit in Bayern.
+-   **[00:36:59](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2219)** - **Heinz Wolf von Schleinitz (BSD)**: Berichtet von fünf verlorenen Jahren durch die Bahnsperrung am Königssee, aber trotz allem Engagement im Nachwuchsbereich.
+-   **[00:37:40](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2260)** - **Herr Shiske (AfD)**: Fragt nach den Gründen für die anfänglichen Gerüchte über den Ausschluss des Kufensports aus dem olympischen Programm.
+-   **[00:38:33](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2313)** - **Thomas Schwab (BSD)**: Erklärt, dass ein Journalist die Diskussion basierend auf einer Evaluierungskommission fehlinterpretiert habe, was zu Pressemeldungen führte, die das IOC selbst richtigstellen musste.
+-   **[00:39:49](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2389)** - **Heike Grösswang (IBSF)**: Bestätigt, dass an der Erstmeldung nichts dran war und es sich um einen normalen, regelmäßigen Evaluierungsprozess des IOC handelt.
+-   **[00:41:13](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2473)** - **Herr Shiske (AfD)**: Fragt nach dem internationalen Druck zur Standardisierung von Geräten und zur Begrenzung technologischer Vorteile.
+-   **[00:41:45](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2505)** - **Michael Nitsch (FES)**: Sieht großen Druck und ist bereit, konstruktiv an der Regulierung mitzuwirken, um den Sport spannender und die Kosten im Griff zu halten.
+-   **[00:42:51](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2571)** - **Herr Shiske (AfD)**: Fragt nach der Realistik und Wettbewerbsrechtlichkeit der Umsetzung von Standardisierung.
+-   **[00:43:05](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2585)** - **Michael Nitsch (FES)**: Erklärt, dass Regeln beschlossen werden können. Bei Standardisierung sollte Institutswissen genutzt werden, wobei finanzielle Aspekte (Steuergelder) geklärt werden müssen.
+-   **[00:44:06](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2646)** - **Bettina Lugk (SPD)**: Würdigt die Leistungen als "Best Practice" und fragt nach der Fachkräftelage in den Instituten sowie der Verwendung von erhöhten Haushaltsmitteln.
+-   **[00:45:25](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2725)** - **Dr. Marc-Oliver Löw (IAT)**: Erläutert, dass Tarifsteigerungen und Kosten die Leistungsfähigkeit mindern. Priorisierung von Sportarten und eine klare Strategie sind nötig. Spricht die Problematik der Arbeitsplatzsicherheit für Fachkräfte an.
+-   **[00:48:06](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2886)** - **Michael Nitsch (FES)**: Bestätigt, dass es keine Fachkräfteprobleme bei Maschinenbauern gibt, aber bei Software-/Hardwareentwicklung. Fordert verlässliche Regelungen für Tarifanpassungen und Arbeitsplatzsicherheit.
+-   **[00:49:50](https://www.youtube.com/watch?v=X_RgDejR5vE&t=2990)** - **Tina Winklmann (Bündnis 90/Die Grünen)**: Drückt Stolz auf die Athleten aus und betont die Tradition des Sports. Fragt nach Möglichkeiten, mehr Kinder und Jugendliche für den Sport zu gewinnen, auch im internationalen Vergleich.
+-   **[00:51:22](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3082)** - **Heike Grösswang (IBSF)**: Berichtet über Jugendprogramme (Youth Olympic Games), Bereitstellung von Material und die Möglichkeit des Wechsels zwischen Rodel- und Bobsport. Betont die Bedeutung von Vorbildern im Sport.
+-   **[00:53:18](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3198)** - **Tina Winklmann (Bündnis 90/Die Grünen)**: Fragt nach konkreten Zahlen zur Jugendförderung in Bayern.
+-   **[00:53:36](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3216)** - **Heinz Wolf von Schleinitz (BSD)**: Erläutert die Zusammenarbeit mit Schulen und Partnerschulen des Wintersports, Bundeswehr/Polizei-Sportfördergruppen, die die Nachwuchsförderung ermöglichen.
+-   **[00:54:31](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3271)** - **Christian Görke (Die Linke)**: Würdigt die Erfolge und fragt nach der Situation von Trainern, Nachwuchs und Spitzentrainern.
+-   **[00:55:55](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3355)** - **Thomas Schwab (BSD)**: Betont, dass Trainerfinanzierung die Nummer eins im deutschen Sport sein muss, da Gehaltserhöhungen seit 2019 ausblieben und Trainer ins Ausland abwandern.
+-   **[00:57:08](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3428)** - **Verwaltung (Frau Dr. Kibele)**: Informiert über die zweite Runde der Ressortabstimmung zum Sportfördergesetz und die Hoffnung auf einen Kabinettstermin nächste Woche. Bestätigt die Traineroffensive im Koalitionsvertrag und geplante Förderhöchstgrenzen.
+-   **[00:58:31](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3511)** - **Zweite, kürzere Fragerunde (TOP 1)**: Drei Minuten pro Fraktion.
+-   **[00:58:47](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3527)** - **Artur Auernhammer (CDU/CSU)**: Fragt Heike Grösswang nach der internationalen Entwicklung und Konkurrenz, insbesondere aus China, und ob dies die Konkurrenz verstärkt.
+-   **[00:59:15](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3555)** - **Heike Grösswang (IBSF)**: Erklärt, dass alle drei Kontinente (Asien, Nordamerika, Europa) bespielt werden. Die Internationalität sei wichtig für das IOC. Andere Nationen holen auf, oft durch deutsche Trainer und die Übernahme deutscher Systeme.
+-   **[01:00:28](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3628)** - **Artur Auernhammer (CDU/CSU)**: Fragt nach dem Nachwuchs im Trainerbereich in Berchtesgaden.
+-   **[01:01:00](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3660)** - **Heinz Wolf von Schleinitz (BSD)**: Berichtet, dass der Vorstand aktiv mit Sportlern über Karriereplanung spricht und ehemalige Hochleistungssportler in den Nachwuchsbereich eingebunden werden sollen.
+-   **[01:02:00](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3720)** - **Herr König (AfD)**: Fordert eine schonungslose Analyse des deutschen Sports und strukturelle Änderungen. Fragt nach der Kooperation deutscher Verbände mit Sportlern aus anderen Ländern.
+-   **[01:03:57](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3837)** - **Thomas Schwab (BSD)**: Betont die Herzensangelegenheit, als stärkster Verband Kooperationen mit schwächeren Nationen einzugehen (z.B. Dänemark, Rumänien, Schweiz, Polen). Diese trainieren mit den deutschen Nationalmannschaften und an Bundesstützpunkten.
+-   **[01:05:00](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3900)** - **Bettina Lugk (SPD)**: Fragt nach dem Stand der Bearbeitung von Arbeitszeiten und Vertragsdauern für Trainer im Kanzleramt.
+-   **[01:05:30](https://www.youtube.com/watch?v=X_RgDejR5vE&t=3930)** - **Verwaltung (Frau Dr. Kibele)**: Informiert über Kontakte zum BMAS und geplante Expertentreffen zum Berufsbild Trainer.
+-   **[01:06:52](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4012)** - **Herr Koße (SPD)**: Fragt nach den Gründen für den Erfolg des Bobsports im Vergleich zu anderen Sportarten.
+-   **[01:07:17](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4037)** - **Heinz Wolf von Schleinitz (BSD)**: Nennt als Geheimnis einen hauptamtlichen Vorstand, der als Ansprechpartner dient.
+-   **[01:08:09](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4089)** - **Thomas Schwab (BSD)**: Erklärt, dass der Verband trotz Erfolgen kontinuierlich Olympia- und Saisonanalysen durchführt und sofort Veränderungen umsetzt, um Stillstand zu vermeiden.
+-   **[01:09:29](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4169)** - **Tina Winklmann (Bündnis 90/Die Grünen)**: Betont die internationale Bedeutung der Bahnen und fragt Michael Nitsch, was getan werden muss, um den technischen Vorsprung Deutschlands wieder auszubauen.
+-   **[01:10:13](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4213)** - **Michael Nitsch (FES)**: Erklärt, dass der Vorsprung im Kontext von Reglementänderungen und einer möglichen Standardisierung von Bauteilen diskutiert werden muss, um den Sport attraktiver zu halten.
+-   **[01:11:38](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4298)** - **Tina Winklmann (Bündnis 90/Die Grünen)**: Fragt nach der Berücksichtigung von Wintersport-Besonderheiten im sportfachlichen Beirat des Sportfördergesetzes.
+-   **[01:12:05](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4325)** - **Michael Nitsch (FES)**: Antwortet, dass es nicht um Sommer- oder Wintersportler gehe, sondern um die besten Expertinnen und Experten auf ihrem Gebiet.
+-   **[01:12:40](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4360)** - **Christian Görke (Die Linke)**: Fragt Michael Nitsch nach Möglichkeiten, die Expertise des FES auf andere olympische Sportarten und den Parasport zu übertragen.
+-   **[01:13:40](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4420)** - **Michael Nitsch (FES)**: Erläutert, dass der FES 2023 einen Aufwuchs für den Parasport erhielt und bei den Paralympics 7/17 Medaillen beisteuerte. Er betont, dass Geld Erfolge ermöglicht und der Parasport eine Inspiration darstellt.
+-   **[01:14:57](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4497)** - **Christian Görke (Die Linke)**: Fragt Heike Grösswang, wie der internationale Verband auf die Kritik an technologischen Vorteilen und mangelnder globaler Verbreitung reagiert.
+-   **[01:15:34](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4534)** - **Heike Grösswang (IBSF)**: Erklärt, dass Sport aus Training, Fahrfähigkeit und Material besteht. Man wolle erfolgreiche Nationen nicht bestrafen, sondern andere heranführen. Diskussionen mit FES zur Standardisierung dienen der Kostenkontrolle und Entwicklung sinnvoller Lösungen.
+-   **[01:16:54](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4614)** - **Ende TOP 1 / Überleitung zu TOP 2**: Die Vorsitzende schließt TOP 1 und bedankt sich. Sie kündigt den Tag der Ein- und Ausblicke an, bei dem ein Bob des FES ausgestellt wird, um Nachwuchs zu begeistern.
+-   **[01:19:52](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4792)** - **TOP 2 Einführung**: Die Vorsitzende leitet zu TOP 2 über: „Gesetzgeberischer Handlungsbedarf zur besseren Unterstützung der Opfer des systematischen Zwangsdopings in der ehemaligen DDR“. Sie begrüßt die Bundesbeauftragte Evelyn Zupke.
+-   **[01:20:44](https://www.youtube.com/watch?v=X_RgDejR5vE&t=4844)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Dankt für die Einladung und betont die Bedeutung der Auseinandersetzung mit den Dopingopfern der DDR. Sie erklärt, dass Doping in der DDR staatlich geplant und organisiert war, oft ohne Wissen der Betroffenen, und zu langfristigen körperlichen und seelischen Schäden führte.
+-   **[01:24:08](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5048)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Weist darauf hin, dass bisherige Dopingopferhilfegesetze Einmalzahlungen vorsahen, aber ein dauerhaftes Instrument zur Unterstützung bei gesundheitlichen Spätfolgen fehlt. Sie stellt ihren Bericht vor, der Handlungsempfehlungen auf Grundlage neuer Forschungsergebnisse enthält.
+-   **[01:26:41](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5201)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Die Forschung zeigt, dass 3/4 der Betroffenen unter psychischen Störungen leiden. Sie schlägt ein Dopingopferunterstützungsgesetz vor, das Zugang zu Leistungen des sozialen Entschädigungsrechtes ermöglicht, ähnlich wie die 2023 für andere Opfergruppen beschlossenen Gesetze, um dauerhafte Unterstützung zu gewährleisten.
+-   **[01:28:33](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5313)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Sie ist überzeugt, dass ein solches Gesetz nicht nur den Betroffenen hilft, sondern auch ein Signal für einen werteorientierten Leistungssport in der Demokratie sendet, insbesondere im Hinblick auf zukünftige Olympia-Bewerbungen.
+-   **[01:29:34](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5374)** - **Stephan Mayer (CDU/CSU)**: Spricht Frau Zupke persönlichen Dank und Anerkennung für ihr Engagement aus. Betont die Wichtigkeit, keinen Schlussstrich bei der Entschädigung der Opfer zu ziehen und fordert die Umsetzung der Koalitionsvertragszusage.
+-   **[01:32:09](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5529)** - **Stephan Mayer (CDU/CSU)**: Fragt Frau Dr. Kybele nach dem Stand der Überlegungen der Bundesregierung und Frau Zupke nach dem bevorzugten legislativen Weg (eigenes Gesetz oder Rehabilitierungsgesetz), der Art der Entschädigung (Einmalzahlung oder Rente) und den erwarteten Fallzahlen/Kosten.
+-   **[01:33:52](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5632)** - **Verwaltung (Frau Dr. Kibele)**: Bestätigt engen Austausch mit Frau Zupke und dem BMJV. Das Kanzleramt strebt die Federführung an und prüft Alternativen (Dopingopferhilfegesetz 3 mit Einmalzahlung vs. rentenähnliche regelmäßige Zahlung), wobei Fallzahlen und angemessene Höhe geklärt werden müssen.
+-   **[01:35:15](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5715)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Erläutert die Problematik des Bundesverwaltungsgerichtsurteils, das auf gesetzliche Lücken hinwies. Sie favorisiert ein eigenständiges Gesetz oder eine Anpassung des Rehabilitierungsgesetzes, die eine regelmäßige, individuelle Leistung aufgrund von Gesundheitsschäden ermöglicht und eine kriterienbasierte Vermutungsregelung enthält, um die Kausalitätsbeweishürde zu überwinden.
+-   **[01:38:34](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5914)** - **Stephan Mayer (CDU/CSU)**: Teilt die Auffassung, dass ein eigenes Rechtsregime sauberer wäre, betont aber den Wunsch nach einem schnelleren Weg, auch durch Änderung des Rehabilitierungsgesetzes. Fragt nach der Wichtigkeit einer Vermutungsregelung.
+-   **[01:39:38](https://www.youtube.com/watch?v=X_RgDejR5vE&t=5978)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Bestätigt die absolute Wichtigkeit einer kriterienbasierten Vermutungsregelung, da Dopingopfer sonst weiterhin an der Kausalität scheitern würden. Das Ergebnis (schnelle, konkrete Hilfe) ist entscheidend.
+-   **[01:41:01](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6061)** - **Herr König (AfD)**: Dankt für den Bericht und berichtet von eigenen Erfahrungen als Sportler in der DDR. Kritisiert die späte und unzulängliche Gesetzgebung. Fragt nach der plötzlichen Verzehnfachung der Betroffenen und bittet um Skizzierung der bevorzugten Lösung.
+-   **[01:43:47](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6227)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Korrigiert, dass 15.000 die Gesamtzahl der Athleten war, nicht der Dopingopfer. Sie favorisiert weiterhin ein eigenständiges Gesetz (Punkt 5.2 in der Drucksache), ist aber offen für eine schnelle Lösung via Rehabilitierungsgesetz, wenn es effektiv ist und eine Vermutungsregelung enthält.
+-   **[01:45:57](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6357)** - **Bettina Lugk (SPD)**: Dankt für die Arbeit und präzisiert die Zahlen (1449 positiv beschiedene Anträge). Fragt nach der Definition von "typischerweise vom Doping der DDR Betroffenen Sportarten" und wie das Urteil des Bundesverwaltungsgerichts die Arbeit beeinflusst.
+-   **[01:48:43](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6523)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Erklärt, dass die Definition auf Kriterien der früheren Dopingopferhilfegesetze und Erkenntnissen über das konspirative System basiert. Das Bundesverwaltungsgerichtsurteil hat eine "Schutzlücke" aufgezeigt und die Politik zum Handeln aufgefordert.
+-   **[01:52:11](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6731)** - **Tina Winklmann (Bündnis 90/Die Grünen)**: Dankt Frau Zupke und dem Dopingopferhilfeverein. Kritisiert das Fehlen einer Erinnerungskultur und wünscht sich mehr Öffentlichkeit und die Integration des Themas ins Bildungssystem.
+-   **[01:53:33](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6813)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Bestätigt den Wunsch nach mehr Aufmerksamkeit und Bildung, aber betont, dass sie sich vor allem auf konkrete Lösungen konzentriert, um den Betroffenen zu helfen und Anerkennung zu verschaffen.
+-   **[01:54:57](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6897)** - **Tina Winklmann (Bündnis 90/Die Grünen)**: Fordert schnelle, unbürokratische Gesetze und konkretere Antworten der Regierung.
+-   **[01:56:15](https://www.youtube.com/watch?v=X_RgDejR5vE&t=6975)** - **Jorrit Bosch (Die Linke)**: Dankt für den Bericht und fragt nach den zu erwartenden Entschädigungssummen pro Person, um die Dimension klarzustellen.
+-   **[01:57:01](https://www.youtube.com/watch?v=X_RgDejR5vE&t=7021)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Verweist auf den unteren vierstelligen Bereich und Berechnungen im SGB 14, die den Grad der Schädigung berücksichtigen.
+-   **[01:58:35](https://www.youtube.com/watch?v=X_RgDejR5vE&t=7115)** - **Jorrit Bosch (Die Linke)**: Fragt die Bundesregierung, warum das zweite Dopingopferhilfegesetz 2020 auslief.
+-   **[01:58:59](https://www.youtube.com/watch?v=X_RgDejR5vE&t=7139)** - **Verwaltung (Frau Dr. Kibele)**: Kann die Frage nicht spontan beantworten, vermutet aber, dass man dachte, genug getan zu haben.
+-   **[01:59:45](https://www.youtube.com/watch?v=X_RgDejR5vE&t=7185)** - **Jorrit Bosch (Die Linke)**: Fragt Frau Zupke nach weiteren Forschungslücken.
+-   **[01:59:52](https://www.youtube.com/watch?v=X_RgDejR5vE&t=7192)** - **Evelyn Zupke (Bundesbeauftragte für Opfer der SED-Diktatur)**: Sieht Forschungsbedarf bei der Ausdifferenzierung von Krankheitsbildern und insbesondere bei den Auswirkungen auf die nächste Generation und das soziale Umfeld der Dopingopfer.
+-   **[02:00:31](https://www.youtube.com/watch?v=X_RgDejR5vE&t=7231)** - **Sitzungsende TOP 2 / Ankündigung nächste Sitzung**: Die Vorsitzende schließt TOP 2 mit der Kenntnisnahme der Bundestagsdrucksache und dankt den Gästen. Sie kündigt die nächste öffentliche Sitzung für den 25. März an, wo es um Ausschreitungen im Fußball und die Spitzensportreform gehen wird.
