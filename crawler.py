@@ -91,7 +91,13 @@ def parse_video_title(title, upload_date_str=None):
     # Generische Suche nach Sitzung, Datum und TOP als Fallback
     session_match = re.search(r'(\d+)(?:st|nd|rd|th)?\.?\s*(?:Sitzung|Session)', title, re.IGNORECASE)
     if session_match:
-        metadata["session"] = int(session_match.group(1))
+        sess_num = int(session_match.group(1))
+        # Plenary sessions in the recent uploads are always >= 60.
+        # Any session number < 60 is a committee meeting.
+        if sess_num < 60:
+            metadata["session"] = 0
+        else:
+            metadata["session"] = sess_num
 
     date_match = re.search(r'(\d{2}\.\d{2}\.\d{4})', title)
     if date_match:
