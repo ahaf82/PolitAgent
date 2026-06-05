@@ -1,0 +1,54 @@
+# Debatte über die Stationierung von Mittelstreckenraketen
+
+## Sitzungs-Metadaten
+- **Sitzung:** 79. Sitzung
+- **Datum:** 20. Mai 2026
+- **Tagesordnungspunkt (TOP):** 2
+- **Originaltitel:** 79th meeting of May 20, 2026. Agenda Item 2: Deployment of intermediate-range missiles
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=hOyefIP4mqE)
+
+## Kurzzusammenfassung
+Der Deutsche Bundestag debattierte über den Antrag der Fraktion Die Linke mit dem Titel "Keine Stationierung von Mittelstreckenraketen in Deutschland". Die Debatte drehte sich um die Frage, ob die Stationierung solcher Waffen die Sicherheit Deutschlands und Europas erhöht oder eine neue Aufrüstungsspirale befeuert. Während die Linke und AfD einen einseitigen Verzicht auf Stationierung und verstärkte Diplomatie mit Russland forderten, betonten CDU/CSU und Teile der SPD die Notwendigkeit von glaubwürdiger Abschreckung und Stärke angesichts der russischen Aggression. Bündnis 90/Die Grünen kritisierten sowohl die naive Haltung zum russischen Aggressor als auch die unzureichende Vorbereitung der Bundesregierung auf veränderte Sicherheitslagen.
+
+## Kernaussagen und Positionen der Fraktionen
+
+- **Die Linke**:
+  - Fordert einen Verzicht auf die Stationierung von US-Mittelstreckenraketen in Deutschland und eine diplomatische Initiative für ein mittelstreckenwaffenfreies Europa nach dem Vorbild des INF-Vertrags.
+  - Argumentiert, dass ein Mehr an Waffen keine Sicherheit bringe, sondern eine gegenseitige Aufrüstungsspirale befeuere; Diplomatie sei professionelle Hartnäckigkeit, nicht Naivität.
+  - Schlägt vor, dass Deutschland einen dauerhaften Stationierungsverzicht ins Spiel bringt und Russland seine Iskander-M Raketen aus Belarus und Kaliningrad zurückzieht.
+
+- **CDU/CSU**:
+  - Kritisiert den Antrag der Linken als "sicherheitspolitischen Analphabetismus" und betont, dass Russland den Rüstungswettlauf angeheizt habe und Deutschland reagieren müsse.
+  - Verweist auf den NATO-Doppelbeschluss als Beweis, dass Abschreckung wirkt, Stärke Frieden sichert und Verhandlungen aus Wehrhaftigkeit entstehen.
+  - Fordert die Schließung von Fähigkeitenlücken und verstärkte eigene sowie europäische Anstrengungen zur Stärkung der Verteidigungsfähigkeit.
+  - Lehnt einseitige Schwäche ab und argumentiert, dass Diplomatie nur aus einer Position der Stärke heraus erfolgreich sein kann.
+
+- **AfD**:
+  - Lehnt die Stationierung von US-Mittelstreckenraketen ab, da dies eine deutsche Politik der Entspannung und Deeskalation beende und Deutschland zu einer unkontrollierbaren Abschussrampe für fremde Mächte mache.
+  - Fordert eine Rückkehr zu ernstgemeinten Verhandlungen mit Russland im Sinne des "Geistes von Helsinki" und umfassende Abrüstungsverträge.
+  - Kritisiert, dass Deutschland stattdessen auf Luftabwehr, Panzerabwehr und Drohnenabwehr setzen sollte und eigene Streitkräfte sowie diplomatische Stärke benötigt, anstatt sich auf Appelle zu verlassen.
+
+- **SPD**:
+  - Begrüßt das Ausbleiben der US-Raketenstationierung, warnt jedoch vor einem neuen Wettrüsten und betont gleichzeitig die russische Bedrohung aus Kaliningrad.
+  - Kritisiert die Forderung nach einem einfachen Abzug weiterer US-Waffen als naiv und betont die Notwendigkeit, transatlantische Beziehungen zu erhalten und Rüstungskontrolle wiederzubeleben.
+  - Verweist auf Helmut Schmidt und den NATO-Doppelbeschluss, der Abschreckung mit Verhandlungsbereitschaft verband, und unterstreicht, dass Russland nachgewiesen hat, kriegsbereit zu sein.
+  - Betont, dass Sicherheit nur durch glaubwürdige Abschreckung und Verteidigungsfähigkeit, nicht durch Schwäche, gewährleistet werden kann.
+
+- **Bündnis 90/Die Grünen**:
+  - Kritisiert den Antrag der Linken als faktisch unzutreffend bezüglich der Atomwaffenfähigkeit und als naiv gegenüber Putins Aggression.
+  - Weist den Vorwurf zurück, Verteidigungsbereitschaft sei eine Absage an Diplomatie, und erinnert an erfolglose diplomatische Bemühungen mit Russland.
+  - Kritisiert die Bundesregierung für mangelnde Vorbereitung auf den möglichen Abzug der US-Raketen und für fehlende Einigkeit in der Koalition in Sicherheitsfragen.
+  - Fordert dringende Maßnahmen zur Vorbereitung auf Raketenbedrohungen aus Kaliningrad und eine enge Abstimmung mit europäischen Partnern bei der konventionellen Aufrüstung.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=hOyefIP4mqE&t=0)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die 79. Sitzung am 20. Mai 2026 und ruft den Tagesordnungspunkt 2 auf: Beratung des Antrags der Fraktion Die Linke mit dem Titel "Keine Stationierung von Mittelstreckenraketen in Deutschland". Eine Aussprache von 30 Minuten ist vereinbart.
+- **[00:00:13](https://www.youtube.com/watch?v=hOyefIP4mqE&t=13)** - **Ulrich Thoden (Die Linke)**: Eröffnet die Aussprache und erläutert den Antrag der Linken, der weit über die Nichtstationierung von US-Raketen hinausgehe. Er argumentiert, dass die militärische Abschreckung Russlands durch US-Mittelstreckenwaffen keine Sicherheit bringe, sondern eine Aufrüstungsspirale befeuere. Er fordert die Nutzung der aktuellen Situation für eine diplomatische Initiative für ein mittelstreckenwaffenfreies Europa nach dem Vorbild des INF-Vertrags, inklusive eines Stationierungsverzichts in Deutschland und des Rückzugs russischer Iskander-M Raketen. Diplomatie sei keine Naivität, sondern professionelle Hartnäckigkeit.
+- **[00:03:33](https://www.youtube.com/watch?v=hOyefIP4mqE&t=213)** - **Thomas Erndl (CDU/CSU)**: Kritisiert den Antrag der Linken als "sicherheitspolitischen Analphabetismus" und outdated. Er betont, dass Russland den Rüstungswettlauf angeheizt habe und aufgerüstet habe. Er verweist auf den NATO-Doppelbeschluss als Beweis, dass Abschreckung funktioniert und Stärke Frieden sichert. Er fordert die Schließung von Fähigkeitenlücken und verstärkte eigene sowie europäische Anstrengungen zur Sicherung der Wehrhaftigkeit.
+- **[00:08:03](https://www.youtube.com/watch?v=hOyefIP4mqE&t=483)** - **Udo Theodor Hemmelgarn (AfD)**: Kritisiert die geplante Stationierung als Ende der deutschen Entspannungs- und Deeskalationspolitik. Er befürchtet, dass Deutschland ohne deutsche Kontrolle zur Abschussrampe für US-Mittelstreckenraketen werden könnte, was er mit historischen Beispielen untermauert. Er fordert die Bundesregierung auf, stattdessen auf umfangreiche und ernstgemeinte Gespräche mit Russland zu setzen und den "Geist von Helsinki" wiederzubeleben, um den Frieden in Europa zu erhalten.
+- **[00:12:21](https://www.youtube.com/watch?v=hOyefIP4mqE&t=741)** - **Dr. Ralf Stegner (SPD)**: Äußert sich erleichtert über das Ausbleiben der US-Stationierung, distanziert sich jedoch von den Argumenten der AfD. Er warnt vor einem neuen Wettrüsten und betont die Notwendigkeit von Rüstungskontrolle, lehnt aber eine naive Haltung gegenüber russischen Bedrohungen ab. Er kritisiert die Forderung nach einem kompletten Abzug amerikanischer Waffen und verweist auf Helmut Schmidt, der Abschreckung mit Verhandlungsbereitschaft verband und Gefahren der Stationierung in dicht besiedelten Gebieten sah. Er betont die Wichtigkeit bündnis- und verteidigungsfähig zu sein.
+- **[00:15:45](https://www.youtube.com/watch?v=hOyefIP4mqE&t=945)** - **Sara Nanni (Bündnis 90/Die Grünen)**: Kritisiert den Antrag der Linken wegen angeblicher faktischer Fehler und einer naiven Einschätzung der russischen Bedrohung. Sie weist den Vorwurf zurück, Verteidigungsbereitschaft sei eine Absage an Diplomatie, und erinnert an die umfangreichen, aber erfolglosen diplomatischen Bemühungen mit Russland vor dem Krieg in der Ukraine. Sie kritisiert die Bundesregierung für mangelnde Vorbereitung auf den Rückzug der USA und eine fehlende Einheit innerhalb der Koalition in Sicherheitsfragen, und betont die Dringlichkeit europäischer Zusammenarbeit.
+- **[00:20:17](https://www.youtube.com/watch?v=hOyefIP4mqE&t=1217)** - **Johannes Volkmann (CDU/CSU)**: Vergleicht den Antrag der Linken mit der Nachrüstungsdebatte der 1980er Jahre und argumentiert, dass die damalige Stationierung zum Zusammenbruch der Sowjetunion und zur Freiheit geführt habe, nicht zur Katastrophe. Er wirft der Linken vor, Moskau-treue Unterwerfungsgesten zu machen und ein Sicherheitsrisiko für Deutschland darzustellen, indem sie Abschreckungslücken schaffen wollen. Er betont, dass die Union Freiheit durch Stärke verteidigen wird und Frieden nur durch Stärke, nicht durch Appeasement, erreicht werde.
+- **[00:23:38](https://www.youtube.com/watch?v=hOyefIP4mqE&t=1418)** - **Torben Braga (AfD)**: Hält die US-Mittelstreckenraketen nicht für Verteidigungssysteme, sondern für eine Provokation Russlands, die Deutschland zu einer Abschussrampe und einem Ziel machen würde. Er argumentiert, dass diese Waffen keine deutsche Familie schützten und ihre Reichweite primär NATO-Verbündete und Westrussland umfasse. Er sieht die US-Entscheidung gegen die Stationierung durch den "Irankrieg" bedingt, nicht durch deutsche Politik. Er fordert eigene Streitkräfte und Fähigkeiten statt "leere Abrüstungsappelle".
+- **[00:27:10](https://www.youtube.com/watch?v=hOyefIP4mqE&t=1630)** - **Metin Hakverdi (SPD)**: Lehnt den Antrag der Linken als sicherheitspolitisch gefährlich ab, da Sicherheit nicht durch Schwäche und Abschreckung nicht durch gute Absichten funktioniere. Er verweist auf Helmut Schmidts Warnung vor einer strategischen Ungleichheit in Europa und betont, dass Russland seine Bereitschaft zum Krieg in Europa unter Beweis gestellt hat. Er schließt, dass wer heute diese Fähigkeiten ablehne, den Wunsch nach Frieden mit den Bedingungen für Frieden verwechsle.
+- **[00:30:20](https://www.youtube.com/watch?v=hOyefIP4mqE&t=1820)** - **Tobias Winkler (CDU/CSU)**: Kritisiert den Antrag der Linken, der die größte Bedrohung in den USA statt in Russland sehe. Er betont, dass Sicherheit durch glaubwürdige Abschreckung und nicht durch Wunschdenken entstehe, da Russland die europäische Friedensordnung zerstört und NATO-Staaten bedroht. Er argumentiert, dass Russland nur zu Abrüstungsabkommen bereit sei, wenn es sich nicht militärisch überlegen fühle, und weist darauf hin, dass Russland Vereinbarungen gebrochen hat. Er schließt, dass Frieden durch Stärke, Geschlossenheit und Verlässlichkeit im Bündnis gesichert wird.
+- **[00:33:33](https://www.youtube.com/watch?v=hOyefIP4mqE&t=2013)** - **Sitzungsende / Überweisung**: Der Präsident schließt die Aussprache. Es wird vorgeschlagen, den Antrag (Drucksache 21/5823) an die in der Tagesordnung aufgeführten Ausschüsse zu überweisen. Der Vorschlag wird angenommen. Der Präsident erinnert an die damalige Debatte im Bonner Hofgarten im Juni 1982.
