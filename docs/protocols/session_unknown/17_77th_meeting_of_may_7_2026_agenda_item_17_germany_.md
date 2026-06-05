@@ -1,0 +1,70 @@
+# 77. Sitzung vom 7. Mai 2026, TOP 17: Deutschland als Wissenschaftsstandort
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** 17
+- **Originaltitel:** 77th meeting of May 7, 2026. Agenda item 17: Germany as a location for science
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=dzV-zU3SevE)
+
+## Kurzzusammenfassung
+Die Debatte konzentrierte sich auf den Antrag der AfD zur Stärkung des Wissenschaftsstandortes Deutschland, der eine Evaluation der Exzellenzstrategie, deren Reform und Bürokratieabbau forderte. Während die AfD die mangelnde Umsetzung von Ankündigungen, die hohen Kosten der Exzellenzstrategie ohne Überprüfung und die angebliche "links-woke" Ausrichtung der Forschung kritisierte, lehnten die Koalitionsfraktionen und Die Linke den Antrag ab. Sie verteidigten die Wissenschaftsfreiheit und die Exzellenzstrategie, warfen der AfD ideologische Motive vor und betonten die Notwendigkeit einer starken Grundfinanzierung und einer besseren Verknüpfung von Wissenschaft und Wirtschaft.
+
+## Kernaussagen und Positionen der Fraktionen
+- **AfD**:
+  - Kritisiert die Koalition für viele Ankündigungen, aber wenig konkrete Maßnahmen im Bereich Forschungsförderung.
+  - Fordert eine zügige Evaluation und Reform der Exzellenzstrategie, die hohe Kosten verursacht habe, ohne dass ihre Auswirkungen ausreichend überprüft wurden.
+  - Verlangt einen echten Bürokratieabbau in der Forschungsförderung, da der aktuelle Zustand für Wissenschaftler untragbar sei.
+  - Kritisierte den "Antragswahnsinn" und "Fehlanreize", insbesondere eine angebliche Präferenz für den "links-woken Zeitgeist" in der Forschung und "ideologisch motivierte" Studienrichtungen wie Gender Studies.
+  - Stellt fest, dass Deutschland in internationalen Universitätsrankings zurückgefallen sei und die Exzellenzstrategie ihr Ziel, Spitzenuniversitäten zu etablieren, nicht erfüllt habe.
+  - Plädiert für Exzellenz durch Freiheit, Leistung und Verlässlichkeit, nicht durch staatliche Etiketten.
+  - Äußert Bedenken bezüglich der Abwanderung hochqualifizierter Akademiker aus Deutschland.
+- **CDU/CSU**:
+  - Betont das ureigene politische Interesse der Union an der Stärkung des Wissenschaftsstandortes, Bürokratieabbau und Weiterentwicklung der Exzellenzstrategie.
+  - Verweist auf das erfolgreiche Zusammenwirken der Exzellenzstrategie mit der Hightech Agenda Deutschland zur Steigerung der Attraktivität für internationale Forscher.
+  - Unterstützt die angekündigte Evaluation der Exzellenzstrategie, um Weiterentwicklungen und Reformen für die nächste Förderperiode zu prüfen.
+  - Kritisiert die AfD für "wissenschaftsfeindliche" Äußerungen, die den Standort schlechtreden, und für ihren Versuch, inhaltlich Einfluss auf die Wissenschaft zu nehmen, was die Wissenschaftsfreiheit gefährde.
+  - Fordert einen effizienteren Transfer von Wissen in Wertschöpfung und die Verbesserung von Rahmenbedingungen für Ausgründungen sowie Kooperationen zwischen Forschung und Mittelstand durch ein Innovationsfreiheitsgesetz.
+  - Spricht sich für eine Kombination aus freier Grundlagenforschung, strategisch geförderter Spitzenforschung in Schlüsseltechnologien und den Transfer der Ergebnisse aus.
+- **Bündnis 90/Die Grünen**:
+  - Lehnt den AfD-Antrag als "Frontalangriff auf die Wissenschaftsfreiheit" und als ideologisch motiviert ab.
+  - Verteidigt die Relevanz der Geistes- und Sozialwissenschaften, auch der "kleinen Fächer" (z.B. Chinawissenschaften, Türkologie), als außenpolitische Grundlagenarbeit.
+  - Betont, dass Wissenschaft von Vielfalt lebe und diese Vielfalt durch Sparvorgaben und rechte Angriffe bedroht sei.
+  - Sieht die Exzellenzstrategie als bewährten Motor für wissenschaftlichen Fortschritt und fordert die Garantie der Mittel über 2030 hinaus.
+  - Fordert verlässliche Finanzierung, weniger Bürokratie (Modernisierungsagenda), gute Arbeitsbedingungen und eine "Sanierungs- und Zukunftsoffensive" für Hochschulen sowie chancengleichen Zugang zum Studium.
+  - Plädiert für eine europäische Dimension in der Forschung und eine gemeinsame europäische Exzellenzstrategie.
+- **SPD**:
+  - Sieht die Exzellenzstrategie als gutes Instrument zur Wahrung der globalen Konkurrenzfähigkeit Deutschlands, erkennt aber Verbesserungsbedarf, insbesondere bei der Beteiligung ostdeutscher Universitäten.
+  - Bezeichnet den AfD-Antrag als "ideologisches Manifest" und nicht als seriösen Reformvorschlag, da er politische Einflussnahme anstelle einer neutralen Analyse anstrebe.
+  - Kritisiert die AfD dafür, Forschung, die sich mit gesellschaftlichen Entwicklungen auseinandersetzt (z.B. Gender Studies), als "Mode" abzutun und damit Wissenschaft zu zensieren, die nicht ins eigene Weltbild passt.
+  - Betont die Bedeutung von Grundfinanzierung und Studierendenförderung (BAföG).
+  - Fordert den Schutz der Demokratie und die Prüfung der Verfassungsmäßigkeit der AfD.
+  - Verweist auf internationale Kooperationen in der Klima- und Raumfahrtforschung als Beispiele moderner Exzellenz, die die AfD bekämpfe, und wirft der AfD vor, demokratische Strukturen an Hochschulen schwächen zu wollen.
+- **Die Linke**:
+  - Erkennt erfolgreiche und herausragende Projekte innerhalb der Exzellenzstrategie an.
+  - Kritisiert die Bundesregierung dafür, strukturelle Probleme des Wissenschafts- und Hochschulsystems zu ignorieren und sich nur auf "Leuchttürme" zu konzentrieren, während der Rest der Hochschulen in schlechten Bedingungen verharre.
+  - Zeigt den massiven Sanierungsstau an Universitäten (z.B. in Berlin) auf und argumentiert, dass dieser die Lehre, Forschung und internationale Kooperation beeinträchtige.
+  - Betont, dass die Exzellenzstrategie als Projektförderung keine ausreichende Grundfinanzierung ersetzen könne, die das Fundament für ein exzellentes Wissenschaftssystem bilde.
+  - Fordert gute Studien- und Beschäftigungsbedingungen in der Breite.
+  - Sieht im AfD-Antrag lediglich das Interesse, Forschung zu Gender oder Klima zu verhindern, und keine konstruktiven Beiträge zur Wissenschaftsförderung.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=dzV-zU3SevE&t=0)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Aussprache zum Antrag der AfD mit dem Titel "Wissenschaftsstandort Deutschland stärken – Exzellenzstrategie evaluieren und reformieren – Den Bürokratieabbau jetzt umsetzen".
+- **[00:00:55](https://www.youtube.com/watch?v=dzV-zU3SevE&t=55)** - **Dr. Christoph Birghan (AfD)**: Kritisiert die Koalition für viele Ankündigungen, aber wenig konkrete Taten im Bereich der Forschungsförderung. Fordert eine ehrliche und detaillierte Bestandsaufnahme sowie eine Evaluation der Exzellenzstrategie, die bereits Milliarden gekostet habe. Verlangt Bürokratieabbau und ein Ende des "Antragswahnsinns" sowie von "Fehlanreizen" und "links-woken Zeitgeist"-Einflüssen in der Wissenschaft.
+- **[00:05:09](https://www.youtube.com/watch?v=dzV-zU3SevE&t=309)** - **Dr. Hans Theiss (CDU/CSU)**: Äußert, dass die AfD Schwierigkeiten mit wissenschaftlichen Erkenntnissen habe und "Fake News" verbreite. Bekräftigt das Interesse der Union an einem starken Wissenschaftsstandort, Bürokratieabbau und der Weiterentwicklung der Exzellenzstrategie. Kritisiert die AfD, den Standort schlechtzureden und "wissenschaftsfeindlichen Wildwuchs" in Geistes- und Sozialwissenschaften zu beklagen, was einer "wissenschaftlichen Inquisition" gleichkomme und die Wissenschaftsfreiheit missachte.
+- **[00:08:45](https://www.youtube.com/watch?v=dzV-zU3SevE&t=525)** - **Ayse Asar (Bündnis 90/Die Grünen)**: Bezeichnet den AfD-Antrag als "Frontalangriff auf die Wissenschaftsfreiheit". Verteidigt die Bedeutung der Geistes- und Sozialwissenschaften, auch der sogenannten "kleinen Fächer", als strategisch relevant für das Land. Plädiert für die Vielfalt der Wissenschaft und fordert die Garantie von Mitteln für die Exzellenzstrategie über 2030 hinaus, sowie eine auskömmliche Finanzierung, Bürokratieabbau und europäische Kooperation.
+- **[00:13:10](https://www.youtube.com/watch?v=dzV-zU3SevE&t=790)** - **Maja Wallstein (SPD)**: Sieht die Exzellenzstrategie als gutes Instrument zur Sicherung der globalen Konkurrenzfähigkeit Deutschlands, mit Verbesserungsbedarf für ostdeutsche Universitäten. Verurteilt den AfD-Antrag als "ideologisches Manifest", das politische Einflussnahme statt neutraler Analyse anstrebe und Wissenschaft, die nicht ins AfD-Weltbild passt, zensieren wolle (z.B. Gender Studies). Betont die Bedeutung der Grundfinanzierung und des BAföG und fordert die Überprüfung der Verfassungsmäßigkeit der AfD.
+- **[00:16:50](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1010)** - **Beatrix von Storch (AfD)**: Fordert in einer Kurzintervention Maja Wallstein auf, die Anzahl der Geschlechter zu benennen und zu definieren, was eine Frau ist, um die Wissenschaftlichkeit der Gender Studies zu hinterfragen.
+- **[00:17:55](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1075)** - **Maja Wallstein (SPD)**: Lehnt die Beantwortung der Fragen ab, da die wissenschaftlichen Ergebnisse bekannt seien und von Storch die Fragen für "ideologische Ideen" und "Hassreden" missbrauche.
+- **[00:18:53](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1133)** - **Nicole Gohlke (Die Linke)**: Anerkennt einzelne Erfolgsgeschichten der Exzellenzstrategie, kritisiert jedoch, dass die Bundesregierung strukturelle Probleme wie den massiven Sanierungsstau an Hochschulen ignoriere. Argumentiert, dass die Exzellenzstrategie als Projektförderung keine ausreichende Grundfinanzierung ersetzen könne. Wirft der AfD vor, sich nur für die Verhinderung von Forschung zu Gender oder Klima zu interessieren.
+- **[00:22:20](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1340)** - **Joachim Ebmeyer (CDU/CSU)**: Betont die Bedeutung des Wissenschaftsstandortes für die Zukunft Deutschlands und die Wichtigkeit der Wissenschaftsfreiheit. Befürwortet die Exzellenzstrategie und ihre Evaluation, um das System effizienter zu gestalten. Fordert eine Stärkung des Transfers von Wissen in Wertschöpfung durch ein "Innovationsfreiheitsgesetz" und die strategische Förderung von Schlüsseltechnologien.
+- **[00:25:07](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1507)** - **Dr. Christoph Birghan (AfD)**: Fragt in einer Zwischenfrage, wann konkrete Ergebnisse wie das "Innovationsfreiheitsgesetz" und die angekündigte Evaluation nach einem Jahr Bundesregierung tatsächlich vorliegen werden.
+- **[00:25:42](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1542)** - **Joachim Ebmeyer (CDU/CSU)**: Verweist auf ein erfolgreiches Regierungsjahr und die noch verbleibende Legislaturperiode. Versichert, dass das Ministerium an den Vorhaben arbeite und diese zeitnah und gründlich vorgelegt werden, um Wirkung zu entfalten.
+- **[00:27:26](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1646)** - **Dr. Michael Kaufmann (AfD)**: Stellt fest, dass Deutschland seit 2005 nicht in der Lage war, Universitäten in die internationale Spitzengruppe zu bringen und die Exzellenzstrategie ihr ursprüngliches Ziel verfehlt habe. Kritisiert, dass der Staat "Exzellenz" per Etikett vergebe und das System zu viel Bürokratie statt echter Forschung generiere. Fordert eine ergebnisoffene Prüfung der Exzellenzstrategie.
+- **[00:31:05](https://www.youtube.com/watch?v=dzV-zU3SevE&t=1865)** - **Dr. Carolin Wagner (SPD)**: Wirft der AfD vor, politisch festlegen zu wollen, was geforscht werden darf, und somit Freiheit und Exzellenz zu gefährden. Nennt internationale Kooperationen in Klima- und Raumfahrtforschung als Beispiele moderner Exzellenz, die die AfD bekämpfe. Kritisiert AfD-Vorschläge, die ideologisch motiviert seien, demokratische Strukturen schwächten und immense Kosten durch das Zurückdrehen von Bildungsreformen verursachten.
+- **[00:34:29](https://www.youtube.com/watch?v=dzV-zU3SevE&t=2069)** - **Karsten Hilse (AfD)**: Hinterfragt in einer Kurzintervention die Aussage, dass sich Spitzbergen fünfmal schneller erwärme als der Rest der Welt, und fordert konkrete Zahlen und Vergleichsdaten.
+- **[00:35:23](https://www.youtube.com/watch?v=dzV-zU3SevE&t=2123)** - **Dr. Carolin Wagner (SPD)**: Erwidert, dass der wissenschaftliche Konsens andere Ergebnisse liefere, diese jedoch von Hilse nicht wahrgenommen werden wollten, was die Diskussion sinnlos mache.
+- **[00:35:57](https://www.youtube.com/watch?v=dzV-zU3SevE&t=2157)** - **Fabian Gramling (CDU/CSU)**: Bezeichnet die AfD als "Weltmeister im Schlechtreden" und betont, dass der Forschungsstandort Deutschland eine "Herzkammer für Fortschritt" bleibe, mit historischen und aktuellen Innovationen. Unterstützt die Exzellenzstrategie als "Bundesliga für Universitäten" und dankt der Ministerin für die Hightech Agenda. Fordert die Stärkung des Transfers von Wissenschaft in Wirtschaft, um Wertschöpfung in Deutschland zu halten.
+- **[00:39:01](https://www.youtube.com/watch?v=dzV-zU3SevE&t=2341)** - **Prof. Dr. Ingo Hahn (AfD)**: Kritisiert Gramlings Bezugnahme auf die Entdeckung der Röntgenstrahlen als Fortschrittsbeispiel als veraltet. Äußert Besorgnis über die Abnahme von Entdeckungen in Deutschland und die hohe Zahl von Akademikern, die das Land verlassen, und fragt nach der Verantwortung der Regierung, diesen Menschen eine Zukunft in Deutschland zu bieten.
+- **[00:40:42](https://www.youtube.com/watch?v=dzV-zU3SevE&t=2442)** - **Fabian Gramling (CDU/CSU)**: Entgegnet, dass die Regierung den Menschen eine Perspektive bieten wolle. Kritisiert den AfD-Antrag als inkonsistent und widersprüchlich. Verweist erneut auf moderne deutsche Technologien (z.B. MP3, Raumfahrttechnik), die oft ignoriert würden.
+- **[00:41:49](https://www.youtube.com/watch?v=dzV-zU3SevE&t=2509)** - **Sitzungsschluss**: Der Präsident schließt die Aussprache. Der interfraktionelle Vorschlag zur Überweisung der Vorlage an den Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung wird ohne weitere Vorschläge angenommen.
