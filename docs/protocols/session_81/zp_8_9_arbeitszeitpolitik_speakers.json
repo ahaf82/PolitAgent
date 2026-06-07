@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte zeigen sich die Abgeordneten weiterhin stark positioniert in der Arbeitszeitpolitik, wobei die zentralen Konfliktlinien bestehen bleiben. Ines Schwerdtner (Die Linke) bekräftigt ihre Forderung nach dem Achtstundentag als Schutzschild für Arbeitnehmer und ruft zu Protesten gegen eine befürchtete Aufweichung auf. Wilfried Oellers (CDU/CSU) betont die Notwendigkeit flexiblerer Arbeitszeitmodelle, um den Wünschen der Beschäftigten und Unternehmen gerecht zu werden, ohne den Arbeitsschutz auszuhöhlen. Jan Dieren (SPD) warnt davor, Flexibilität mit Deregulierung zu verwechseln und unterstreicht die Wichtigkeit des Achtstundentags als Schutzmechanismus. Ricarda Lang (Bündnis 90/Die Grünen) pocht auf 'Vereinbarkeit statt Verfügbarkeit' und fordert strukturelle Lösungen zur Entlastung von Familien, um der Erschöpfung entgegenzuwirken. Robert Teske (AfD) lehnt sowohl EU-Regulierung als auch die 'Kettensägen-Politik' der Regierung ab und plädiert für nationale Selbstbestimmung und den Erhalt etablierter Normen.",
+  "sources": [
+    {
+      "name": "Ines Schwerdtner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Ines Schwerdtner kritisierte bereits im September 2025 die Regierung Merz für eine mögliche Abschaffung des Acht-Stunden-Tages, die tägliche Arbeitszeiten von bis zu 12 Stunden und 15 Minuten ermöglichen würde. Sie sieht Arbeitszeitpolitik als Schlüssel für das Verständnis der politischen Ökonomie und einen Grundsatzkonflikt im Kapitalismus. Schwerdtner kündigte zudem ab dem 1. Juni 2026 bundesweite Proteste gegen die Angriffe auf Arbeitsrechte an und bezeichnete die Regierungspläne als 'Verrat' am Achtstundentag.",
+      "source_title": "Eine Gesellschaft unter Faulheits-Verdacht - Rosa-Luxemburg-Stiftung; Ines Schwerdtners WÜTENDE Abrechnung im Bundestag! - YouTube",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Wilfried Oellers",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Wilfried Oellers betonte, dass es bei der angestrebten Flexibilisierung der Arbeitszeit nicht darum gehe, den Arbeitsschutz auszuhebeln oder mehr Arbeit zu ermöglichen. Stattdessen solle eine wöchentliche Höchstarbeitszeit eingeführt werden, um den Wünschen der Beschäftigten und Unternehmen nach mehr Flexibilität gerecht zu werden. Er verweist darauf, dass dies auch die Vereinbarkeit von Familie und Beruf verbessern könne.",
+      "source_title": "Bundestag | Aktuelle Themen - opinioiuris.de",
+      "url": "https://opinioiuris.de/aggregator/sources/24?page=1",
+      "platform": "Website"
+    },
+    {
+      "name": "Jan Dieren",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jan Dieren warnte davor, Flexibilisierung mit Deregulierung zu verwechseln und unterstrich, dass der Koalitionsvertrag keine Abschaffung des Acht-Stunden-Tages vorsehe. Er betonte, dass der Achtstundentag als Schutzrecht notwendig sei, damit Beschäftigte Arzttermine wahrnehmen können und nicht vom Zufall abhänge. Dieren führte aus, dass die Probleme in der Arbeitszeitgestaltung oft nicht im Gesetz, sondern in den betrieblichen Abläufen lägen.",
+      "source_title": "Regierung prüft Reform: Die Debatte um die Wochenarbeitszeit erreicht die Gastronomie - Tagesspiegel Background; Bundestag | Aktuelle Themen - opinioiuris.de",
+      "url": "https://background.tagesspiegel.de/agrar-und-ernaehrung/briefing/die-debatte-um-die-wochenarbeitszeit-erreicht-die-gastronomie",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Ricarda Lang bekräftigte die Position der Grünen, die Vereinbarkeit von Familie und Beruf zu verbessern und eine 'moderne Arbeitszeitpolitik' zu etablieren, die nicht in ständiger Verfügbarkeit mündet. Die Fraktion Bündnis 90/Die Grünen forderte bereits in einem Antrag im Mai 2026, den Acht- bzw. Zehnstundentag im Arbeitszeitgesetz zu erhalten, um Beschäftigte vor überlangen Arbeitszeiten zu schützen und länger gesund arbeiten zu können. Sie wies darauf hin, dass viele Familien unter Erschöpfung leiden, was ein strukturelles und kein individuelles Problem sei.",
+      "source_title": "Kontroverse über mögliche Aufweichung des Acht-Stunden-Tages - Deutscher Bundestag; Deutscher Bundestag Drucksache 21/5781 Antrag der Abgeordneten Ricarda Lang, Timon Dzienus, Lisa Paus, weiterer Abgeordneter und",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-arbeitszeit-1178888",
+      "platform": "Website"
+    },
+    {
+      "name": "Robert Teske",
+      "party": "AfD",
+      "found": true,
+      "statement": "Robert Teske (AfD) bezeichnete seine Partei als die 'neue Arbeiterpartei' und sprach sich dafür aus, in Deutschland etablierte Normen im Arbeitsrecht zu erhalten und diese nicht einer EU-Bürokratie zu opfern. Er kritisierte, dass die Problematik, dass sich Arbeit wieder lohnen müsse, von den Antragstellern ignoriert werde.",
+      "source_title": "Kontroverse über mögliche Aufweichung des Acht-Stunden-Tages - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-arbeitszeit-1178888",
+      "platform": "Website"
+    }
+  ]
+}

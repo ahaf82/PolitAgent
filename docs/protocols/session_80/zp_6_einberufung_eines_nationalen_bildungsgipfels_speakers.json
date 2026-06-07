@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Thema 'Einberufung eines nationalen Bildungsgipfels' zeigen eine geteilte Auffassung über den Lösungsweg der anerkannten Bildungskrise. Während die AfD ihren Antrag auf einen Gipfel mit dem Hinweis auf eine tiefe Bildungskrise und die Notwendigkeit einer Rückkehr zu Leistungsprinzipien untermauert, lehnen die anderen Fraktionen einen solchen symbolischen Gipfel ab. CDU/CSU, Bündnis 90/Die Grünen und SPD betonen stattdessen bereits bestehende umfassende Maßnahmen, die Notwendigkeit erheblicher Investitionen und eine vertiefte Zusammenarbeit zwischen Bund und Ländern zur Stärkung des Bildungssystems und zur Förderung von Chancengerechtigkeit.",
+  "sources": [
+    {
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Reichardt und die AfD-Fraktion fordern einen nationalen Bildungsgipfel, da die Leistungsfähigkeit des deutschen Bildungssystems abnimmt, wie nationale Berichte und internationale Studien belegen. Sie sehen die Notwendigkeit konkreter Maßnahmen gegen die sich verschärfende Bildungskrise und kritisieren bisherige Abstimmungsmechanismen zwischen Bund und Ländern als unzureichend.",
+      "source_title": "Einberufung eines nationalen Bildungsgipfels – Konsequenzen aus aktuellen Erkenntnissen ziehen",
+      "url": "https://afdbundestag.de/einberufung-eines-nationalen-bildungsgipfels-konsequenzen-aus-aktuellen-erkenntnissen-ziehen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Michael Hose engagiert sich als Vorsitzender der Kinderkommission und im Bildungsausschuss für Chancengerechtigkeit, digitale Bildung und bessere Zukunftsperspektiven. Die CDU/CSU-Fraktion setzt auf eine leistungsorientierte Schulbildung mit klaren Standards, verpflichtenden Sprachtests im Vorschulalter und den DigitalPakt Schule 2.0, um die Qualität des Bildungssystems zu verbessern.",
+      "source_title": "Bildung und Forschung - CDU Deutschlands",
+      "url": "https://www.cdu.de/themen/bildung-und-forschung/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Anja Reinalter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Anja Reinalter fordert gezielte Investitionen in die frühkindliche Bildung und kritisiert, dass die Bundesregierung ihre bildungspolitische Verantwortung nicht ausreichend wahrnehme, indem sie Zusagen wie die Ausweitung des Startchancen-Programms nicht umsetzt. Sie betont die volkswirtschaftlichen Erträge besserer Bildung und die Notwendigkeit verbindlicher Bildungsziele zwischen Bund und Ländern.",
+      "source_title": "Dr. Anja Reinalter: Bessere Bildung lohnt sich | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/presse/default-7c4157ece0/pm-dezember-2025/bessere-bildung-lohnt-sich/",
+      "platform": "Website"
+    },
+    {
+      "name": "Saskia Esken",
+      "party": "SPD",
+      "found": false,
+      "statement": "Saskia Esken setzt sich für ein Sondervermögen für Bildung in Höhe von 100 Milliarden Euro und einen 'Deutschlandpakt Bildung' ein, um die Herausforderungen im Bildungssystem zu bewältigen und den Zusammenhang zwischen sozialer Herkunft und Bildungserfolg zu entkoppeln. Sie fordert eine Grundgesetzänderung, um dem Bund mehr Möglichkeiten zur Förderung der Bildungsgerechtigkeit zu geben.",
+      "source_title": "SPD: Saskia Esken setzt sich für Sondervermögen für die Bildung ein - DER SPIEGEL",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Maren Kaminski",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Maren Kaminski und Die Linke betrachten Bildung als ein Menschenrecht und fordern einen grundlegenden bildungspolitischen Richtungswechsel, um allen Kindern einen gleichen Zugang zu Bildung zu ermöglichen, unabhängig von ihrer sozialen Herkunft. Sie plädieren für mehr Personal, längeres gemeinsames Lernen und flächendeckende Ganztagsbetreuung.",
+      "source_title": "Bildung - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

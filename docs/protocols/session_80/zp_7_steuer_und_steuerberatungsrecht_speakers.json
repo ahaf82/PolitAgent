@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte um das Steuer- und Steuerberatungsrecht zeigt unterschiedliche Positionen der Abgeordneten, die sich auch in ihren externen Äußerungen widerspiegeln. Dr. Matthias Hiller (CDU/CSU) und Doris Achelwilm (Die Linke) betonen beide außerhalb des Bundestages die Wichtigkeit der Sicherung des Fremdbesitzverbots im Steuerberatungsrecht, um die Unabhängigkeit der Berufsträger zu gewährleisten und dem Einfluss von Finanzinvestoren entgegenzuwirken. Torben Braga (AfD) kritisiert weiterhin die Gesetzgebung als 'Stückwerk' und verurteilt die geplante Erhöhung der Gewerbesteuer als unbegründete Steuererhöhung. Für die Abgeordneten Jens Behrens (SPD) und Sascha Müller (Bündnis 90/Die Grünen) sowie Mechthilde Wittmann (CDU/CSU), deren Reden teilweise zu Protokoll gegeben wurden oder die sich primär im Plenum äußerten, konnten keine spezifischen, individuellen externen Stellungnahmen zu diesem konkreten Gesetzentwurf gefunden werden.",
+  "sources": [
+    {
+      "name": "Dr. Matthias Hiller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Matthias Hiller betonte als Berichterstatter im Finanzausschuss, dass das 9. Gesetz zur Änderung des Steuerberatungsgesetzes klarstellt, dass nur qualifizierte Berufsträger an Steuerberatungsgesellschaften beteiligt sein dürfen. Er sieht dies als Schutz der Unabhängigkeit, Qualität und des Vertrauens, da ein schleichender Einstieg von Finanzinvestoren über rechtliche Grauzonen unterbunden werden soll. Er zeigte sich im Dialog mit dem Deutschen Steuerberaterverband sehr sensibel für die Sicherung des Fremdbesitzverbots angesichts der Risiken durch Private-Equity-Investitionen.",
+      "source_title": "Steuerberatung bleibt unabhängig - CDU/CSU-Fraktion im Deutschen Bundestag / Wichtiger Austausch zur Unabhängigkeit der Steuerberatung - Deutscher Steuerberaterverband e.V.",
+      "url": "https://www.cducsu.de/presse/steuerberatung-bleibt-unabhaengig",
+      "platform": "Presse"
+    },
+    {
+      "name": "Torben Braga",
+      "party": "AfD",
+      "found": true,
+      "statement": "Torben Braga bekräftigte in einem Video seine Kritik am Gesetzentwurf als 'Stückwerk' und Ergebnis einer 'politischen Blamage', die keine echten Großreformen im Steuerberatungs- und Steuerrecht bringe. Er lehnt insbesondere die empirisch unbegründete Erhöhung des Gewerbesteuer-Mindesthebesatzes ab, da diese eine Steuererhöhung darstellt, ohne ein tatsächliches Problem zu lösen. Er kritisierte zudem die Überformung bestehender Regelwerke anstatt einer grundlegenden Neuordnung.",
+      "source_title": "Torben Braga criticizes the government's amateurish legislative work! - AfD Parliamentary Group - YouTube / This is an investment barrier enshrined in law! - Torben Braga - AfD parliamentary group in the B... - YouTube",
+      "url": "https://www.youtube.com/watch?v=PNRFGDmfAiw",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Jens Behrens",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sascha Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Doris Achelwilm bekräftigte auf ihrer persönlichen Website ihre Bundestagsrede, in der sie sich dafür ausspricht, Private-Equity-Investoren aus freien Berufen und der Daseinsvorsorge herauszuhalten und das Fremdbesitzverbot zu stärken. Sie hob hervor, dass Steuerberater und andere Berufe unabhängig von renditesüchtigen Finanzinvestoren bleiben müssen und begrüßte die Korrektur der Regulierungslücke.",
+      "source_title": "Bundestagsrede // Private-Equity-Investoren aus freien Berufen und Daseinsvorsorge raushalten - Fremdbesitzverbot stärken - Doris Achelwilm: Aktuelles",
+      "url": "https://www.doris-achelwilm.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Mechthilde Wittmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

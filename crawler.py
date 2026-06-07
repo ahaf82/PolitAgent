@@ -462,6 +462,9 @@ def update_sessions_index(index_path, new_session):
             break
             
     if existing_index >= 0:
+        # Keep speakers_path if it exists in the old session but is not defined in the new one
+        if 'speakers_path' in sessions[existing_index] and 'speakers_path' not in new_session:
+            new_session['speakers_path'] = sessions[existing_index]['speakers_path']
         sessions[existing_index] = new_session
         print(f"Aktualisiere bestehenden Eintrag für Video {new_session['id']} im Index.")
     else:
@@ -484,11 +487,328 @@ def update_sessions_index(index_path, new_session):
     with open(index_path, 'w', encoding='utf-8') as f:
         json.dump(sessions, f, indent=2, ensure_ascii=False)
 
+def save_sessions_index(index_path, sessions):
+    """Saves the sessions list to the index JSON file."""
+    try:
+        os.makedirs(os.path.dirname(index_path), exist_ok=True)
+        with open(index_path, 'w', encoding='utf-8') as f:
+            json.dump(sessions, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"Fehler beim Schreiben des Sessions-Index: {e}")
+
+def generate_speaker_statements(client, title, date, video_url, transcript_text):
+    """
+    Identifies the main speakers in the Bundestag debate transcript/protocol,
+    then searches the web for their external statements (Abgeordnetenwatch, Twitter/X, personal websites, press releases)
+    and summarizes them in a structured JSON.
+    """
+    if not client:
+        return None
+        
+    print(f"Führe Google Search Grounding Abgeordneten-Stimmen-Analyse durch für '{title}' ({date})...")
+    
+    prompt = f"""
+    Analysiere das beigefügte Protokoll der Bundestagsdebatte vom {date} zum Thema '{title}'.
+    
+    **Deine Aufgabe:**
+    1. Identifiziere die wichtigsten 3 bis 5 Abgeordneten (Redner), die in dieser Debatte im Plenum gesprochen haben (z. B. an den namentlich genannten Beiträgen im Protokoll).
+    2. Suche im Internet nach **externen Aussagen, Reaktionen oder Beiträgen** genau dieser Abgeordneten zu diesem Thema. Suche auf folgenden Kanälen:
+       - Abgeordnetenwatch (Antworten auf Bürgerfragen)
+       - Persönliche Websites der Politiker (Pressemitteilungen, Blogeinträge)
+       - Social-Media-Kanäle der Abgeordneten (Twitter/X, Instagram, etc.)
+       - Fraktions-Websites der Parteien (Pressemeldungen)
+    
+    Gib das Ergebnis AUSSCHLIESSLICH als gültiges JSON-Objekt zurück. Schreibe keine Erklärungen, einleitenden Text oder Markdown-Blöcke außerhalb des JSON (kein ```json). Das JSON muss exakt der folgenden Struktur entsprechen:
+    {{
+      "synthesis": "Eine kurze, neutrale Zusammenfassung (ca. 4-5 Sätze) der Reaktionen und Positionen der Abgeordneten außerhalb des Bundestages zu diesem Thema.",
+      "sources": [
+        {{
+          "name": "Vollständiger Name des Abgeordneten",
+          "party": "SPD" | "CDU/CSU" | "Bündnis 90/Die Grünen" | "FDP" | "AfD" | "Die Linke" | "BSW" | "Fraktionslos",
+          "found": true,
+          "statement": "Prägnante Zusammenfassung (2-3 Sätze) der externen Aussage/Reaktion des Abgeordneten zum Thema.",
+          "source_title": "Titel des Quellbeitrags (z.B. 'Bürgerfrage zu Heizungsgesetz' oder 'Pressemitteilung auf spdfraktion.de')",
+          "url": "Der exakte, echte Link zu dieser Aussage (z.B. der direkte Link auf das Abgeordnetenwatch-Profil des Abgeordneten, die Pressemitteilung oder den Tweet). Erfinde NIEMALS URLs und rate keine IDs. Wenn kein exakter Link vorliegt, setze 'N/A'.",
+          "platform": "Abgeordnetenwatch" | "Social Media" | "Website" | "Presse"
+        }}
+      ]
+    }}
+    
+    Befülle das Array 'sources' für ALLE identifizierten Redner der Debatte. Setze 'found' auf false (und lasse statement, source_title, url auf 'N/A' bzw. leere Werte), falls du für einen der Redner absolut keine externen Stellungnahmen finden konntest.
+    
+    Hier ist das Protokoll der Sitzung:
+    {transcript_text[:12000]}
+    """
+    
+    try:
+        from google.genai import types
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction="Du bist ein hochpräziser politischer Analyst des Deutschen Bundestags, der das Verhalten von Abgeordneten außerhalb des Plenums vergleicht und das Ergebnis als JSON ausgibt.",
+                tools=[{"google_search": {}}]
+            )
+        )
+        text = response.text.strip()
+        
+        # Robustly extract JSON object between first '{' and last '}'
+        start_idx = text.find('{')
+        end_idx = text.rfind('}')
+        if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
+            text = text[start_idx:end_idx+1]
+            
+        json_data = json.loads(text)
+        return json_data
+    except Exception as e:
+        print(f"Fehler bei der Abgeordneten-Stimmen-Analyse mit Gemini: {e}")
+        try:
+            print(f"API-Antwortvorschau: {response.text[:200]}...")
+        except:
+            pass
+        return None
+
+def verify_speaker_urls(speaker_json):
+    """
+    Checks all sources in speaker_json.
+    Verifies that the URLs exist and do not return 404 (Not Found).
+    If a URL returns 404, it resets it to 'N/A' and sets found to False.
+    """
+    if not speaker_json or 'sources' not in speaker_json:
+        return
+        
+    import requests
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+    
+    for src in speaker_json.get('sources', []):
+        if not src.get('found'):
+            continue
+        url = src.get('url', 'N/A')
+        if url and url != 'N/A' and url.startswith('http'):
+            # Check typical dummy patterns first
+            if any(pat in url for pat in ('888888', '123456', 'c0a6-4c4f', 'd2d1e2e1')):
+                print(f"URL als Dummy erkannt: {url}")
+                src['url'] = 'N/A'
+                src['found'] = False
+                continue
+                
+            try:
+                # Follow redirects, stream=True to avoid loading large pages
+                r = requests.get(url, headers=headers, timeout=5, stream=True)
+                if r.status_code == 404:
+                    print(f"Geringere Gueltigkeit (404 Not Found): {url}")
+                    src['url'] = 'N/A'
+                    src['found'] = False
+                else:
+                    final_url = r.url
+                    print(f"URL verifiziert (HTTP {r.status_code}): {url} -> {final_url}")
+                    src['url'] = final_url
+            except Exception as e:
+                print(f"URL-Verifikationsfehler (Verbindung fehlgeschlagen): {url} - {e}")
+                src['url'] = 'N/A'
+                src['found'] = False
+
+def run_retroactive_speaker_analysis(client, index_path, docs_dir, max_process=3):
+    """
+    Runs retroactive speaker statement analysis for recent sessions.
+    Also cleans up existing speaker statements that have no valid direct links.
+    """
+    if not client:
+        print("Kein Gemini-Client vorhanden. Überspringe retroaktive Abgeordneten-Analyse.")
+        return
+
+    if not os.path.exists(index_path):
+        print("Indexdatei existiert nicht. Überspringe Abgeordneten-Analyse.")
+        return
+
+    try:
+        with open(index_path, 'r', encoding='utf-8') as f:
+            sessions = json.load(f)
+    except Exception as e:
+        print(f"Fehler beim Laden des Index für Abgeordneten-Analyse: {e}")
+        return
+
+    # Clean up existing sessions that have speakers_path but no valid direct links
+    updated_index = False
+    for s in sessions:
+        speakers_path = s.get('speakers_path')
+        if speakers_path:
+            absolute_speakers_path = os.path.join(docs_dir, speakers_path)
+            if not os.path.exists(absolute_speakers_path):
+                s['speakers_path'] = None
+                updated_index = True
+                continue
+                
+            try:
+                with open(absolute_speakers_path, 'r', encoding='utf-8') as f:
+                    speaker_json = json.load(f)
+                
+                # Verify and filter URLs inside the loaded JSON
+                verify_speaker_urls(speaker_json)
+                
+                # Check if there is still at least one real direct link left
+                has_real_url = False
+                if 'sources' in speaker_json:
+                    from urllib.parse import urlparse
+                    for src in speaker_json['sources']:
+                        if not src.get('found'):
+                            continue
+                        url = src.get('url', 'N/A')
+                        if url and url != 'N/A' and url.startswith('http'):
+                            try:
+                                parsed = urlparse(url)
+                                if parsed.path not in ('', '/'):
+                                    has_real_url = True
+                                    break
+                            except:
+                                pass
+                                
+                if not has_real_url:
+                    print(f"Entferne ungueltige Abgeordneten-Stimmen fuer {s['id']} (keine Direkt-Links).")
+                    s['speakers_path'] = None
+                    updated_index = True
+                    try:
+                        os.remove(absolute_speakers_path)
+                    except:
+                        pass
+                else:
+                    # Save updated JSON with corrected/filtered URLs
+                    with open(absolute_speakers_path, 'w', encoding='utf-8') as f:
+                        json.dump(speaker_json, f, indent=2, ensure_ascii=False)
+            except Exception as e:
+                print(f"Fehler bei der Bereinigung von {speakers_path}: {e}")
+                
+    if updated_index:
+        save_sessions_index(index_path, sessions)
+
+    now = datetime.now()
+    sessions_to_update = []
+
+    for s in sessions:
+        date_str = s.get('date', 'N/A')
+        is_recent = False
+        if date_str != 'N/A':
+            try:
+                session_date = datetime.strptime(date_str, "%Y-%m-%d")
+                if (now - session_date).days <= 7:
+                    is_recent = True
+            except:
+                pass
+        
+        has_speakers = s.get('speakers_path') is not None
+        
+        if not has_speakers:
+            priority = 2 if is_recent else 1
+            sessions_to_update.append((priority, s))
+
+    # Sort by priority desc (recent first) and date desc
+    def get_sort_key(item):
+        priority, s = item
+        date_str = s.get('date', '0000-00-00')
+        if date_str == 'N/A' or not date_str:
+            date_str = '0000-00-00'
+        return (priority, date_str)
+    
+    sessions_to_update.sort(key=get_sort_key, reverse=True)
+    
+    # Process up to max_process
+    targets = [s for _, s in sessions_to_update[:max_process]]
+    if not targets:
+        print("Keine Sitzungen für retroaktive Abgeordneten-Analyse gefunden.")
+        return
+
+    print(f"Starte retroaktive Abgeordneten-Analyse für {len(targets)} Sitzungen...")
+    
+    for s in targets:
+        summary_path = s.get('summary_path')
+        if not summary_path:
+            continue
+            
+        absolute_protocol_path = os.path.join(docs_dir, summary_path)
+        if not os.path.exists(absolute_protocol_path):
+            print(f"Protokolldatei fehlt: {summary_path}")
+            continue
+            
+        try:
+            with open(absolute_protocol_path, 'r', encoding='utf-8') as f:
+                protocol_text = f.read()
+        except Exception as e:
+            print(f"Konnte Protokolldatei nicht lesen: {e}")
+            continue
+            
+        base, ext = os.path.splitext(summary_path)
+        relative_speakers_path = f"{base}_speakers.json"
+        absolute_speakers_path = os.path.join(docs_dir, relative_speakers_path)
+        
+        speaker_json = generate_speaker_statements(
+            client, 
+            s.get('topic') or s.get('title'), 
+            s.get('date'), 
+            s.get('youtube_url'),
+            protocol_text
+        )
+        
+        if speaker_json:
+            # Perform live HTTP check on all generated URLs first
+            verify_speaker_urls(speaker_json)
+            
+            # Verify if there is at least one real, direct link
+            has_real_url = False
+            if 'sources' in speaker_json:
+                from urllib.parse import urlparse
+                for src in speaker_json['sources']:
+                    if not src.get('found'):
+                        continue
+                    url = src.get('url', 'N/A')
+                    if url and url != 'N/A' and url.startswith('http'):
+                        try:
+                            parsed = urlparse(url)
+                            # Exclude generic homepages
+                            if parsed.path not in ('', '/'):
+                                has_real_url = True
+                                break
+                        except:
+                            pass
+            
+            if not has_real_url:
+                print(f"Abgeordneten-Analyse fuer {s['id']} verworfen (keine validen Direkt-Links gefunden).")
+                if 'speakers_path' in s:
+                    s['speakers_path'] = None
+                save_sessions_index(index_path, sessions)
+                if os.path.exists(absolute_speakers_path):
+                    try:
+                        os.remove(absolute_speakers_path)
+                    except:
+                        pass
+                continue
+
+            try:
+                os.makedirs(os.path.dirname(absolute_speakers_path), exist_ok=True)
+                with open(absolute_speakers_path, 'w', encoding='utf-8') as f:
+                    json.dump(speaker_json, f, indent=2, ensure_ascii=False)
+                print(f"Abgeordneten-Stimmen erfolgreich gespeichert unter: {relative_speakers_path}")
+                
+                # Update session object in our loaded list
+                s['speakers_path'] = relative_speakers_path
+                
+                # Save index incrementally
+                save_sessions_index(index_path, sessions)
+            except Exception as e:
+                print(f"Fehler beim Schreiben der Abgeordneten-JSON für {s['id']}: {e}")
+        else:
+            print(f"Abgeordneten-Analyse für {s['id']} fehlgeschlagen oder keine Ergebnisse.")
+            
+        # Small delay between calls to respect API limits
+        time.sleep(5)
+
 def main():
     parser = argparse.ArgumentParser(description="PolitAgent Crawler - Dokumentiert und fasst Bundestagssitzungen zusammen.")
     parser.add_argument("--days", type=int, default=3, help="Anzahl der letzten Sitzungstage, die erfasst werden sollen (nur bei Erstbefüllung relevant).")
     parser.add_argument("--max-videos", type=int, default=300, help="Maximale Anzahl der zu prüfenden YouTube-Videos.")
     parser.add_argument("--max-process", type=int, default=10, help="Maximale Anzahl der in diesem Durchlauf zu verarbeitenden Videos (schützt Quota).")
+    parser.add_argument("--max-speakers-process", type=int, default=3, help="Maximale Anzahl der retroaktiv zu analysierenden Sitzungen für Abgeordneten-Stimmen.")
     parser.add_argument("--force-video", type=str, default=None, help="Erzwinge die Verarbeitung einer bestimmten YouTube Video-ID.")
     args = parser.parse_args()
 
@@ -594,99 +914,102 @@ def main():
         print(f"Limitiere Verarbeitung von {len(videos_to_process)} auf {args.max_process} Videos, um API-Quota-Limits zu wahren.")
         videos_to_process = videos_to_process[:args.max_process]
 
+    success_count = 0
     if not videos_to_process:
         print("Keine neuen Videos zu verarbeiten.")
-        return
-
-    print(f"Es werden {len(videos_to_process)} Videos verarbeitet.")
-    
-    success_count = 0
-    for i, v in enumerate(videos_to_process, 1):
-        print(f"\n[{i}/{len(videos_to_process)}] Verarbeite Video: {v['title']} (ID: {v['id']})")
-        
-        # 1. Fetch transcript
-        transcript_text, length = get_transcript_text(v['id'])
-        if not transcript_text:
-            print(f"Überspringe Video {v['id']} aufgrund fehlenden Transkripts.")
-            continue
+    else:
+        print(f"Es werden {len(videos_to_process)} Videos verarbeitet.")
+        for i, v in enumerate(videos_to_process, 1):
+            print(f"\n[{i}/{len(videos_to_process)}] Verarbeite Video: {v['title']} (ID: {v['id']})")
             
-        print(f"Transkript erfolgreich geladen ({length} Untertitel-Einträge).")
+            # 1. Fetch transcript
+            transcript_text, length = get_transcript_text(v['id'])
+            if not transcript_text:
+                print(f"Überspringe Video {v['id']} aufgrund fehlenden Transkripts.")
+                continue
+                
+            print(f"Transkript erfolgreich geladen ({length} Untertitel-Einträge).")
 
-        # Create protocol paths
-        sess_slug = f"session_{v['session']}" if v['session'] > 0 else "session_unknown"
-        top_slug = clean_filename(v['top']) if v['top'] != 'N/A' else "top_unknown"
-        topic_slug = clean_filename(v['topic'])[:50] # cap topic slug length
-        
-        filename = f"{top_slug}_{topic_slug}.md"
-        relative_protocol_path = os.path.join("protocols", sess_slug, filename).replace("\\", "/")
-        absolute_protocol_path = os.path.join(docs_dir, "protocols", sess_slug, filename)
-        
-        # 2. Summarize with Gemini
-        summary_markdown = None
-        if client:
-            summary_markdown = summarize_with_gemini(client, v['title'], v, transcript_text, v['url'])
-        else:
-            # Offline dummy summary
-            summary_markdown = f"""# {v['topic']}
+            # Create protocol paths
+            sess_slug = f"session_{v['session']}" if v['session'] > 0 else "session_unknown"
+            top_slug = clean_filename(v['top']) if v['top'] != 'N/A' else "top_unknown"
+            topic_slug = clean_filename(v['topic'])[:50] # cap topic slug length
+            
+            filename = f"{top_slug}_{topic_slug}.md"
+            relative_protocol_path = os.path.join("protocols", sess_slug, filename).replace("\\", "/")
+            absolute_protocol_path = os.path.join(docs_dir, "protocols", sess_slug, filename)
+            
+            # 2. Summarize with Gemini
+            summary_markdown = None
+            if client:
+                summary_markdown = summarize_with_gemini(client, v['title'], v, transcript_text, v['url'])
+            else:
+                # Offline dummy summary
+                summary_markdown = f"""# {v['topic']}
+    
+    ## Sitzungs-Metadaten
+    - **Sitzung:** {v['session']}. Sitzung
+    - **Datum:** {v['date']}
+    - **Tagesordnungspunkt (TOP):** {v['top']}
+    - **Originaltitel:** {v['title']}
+    - **Video-Link:** [Auf YouTube ansehen]({v['url']})
+    
+    > [!WARNING]
+    > Dieses Protokoll wurde im Offline-Modus erstellt, da kein `GEMINI_API_KEY` verfügbar war. Das Transkript konnte nicht analysiert werden.
+    """
+            
+            if not summary_markdown:
+                print(f"Fehler beim Erzeugen der Zusammenfassung für Video {v['id']}.")
+                continue
 
-## Sitzungs-Metadaten
-- **Sitzung:** {v['session']}. Sitzung
-- **Datum:** {v['date']}
-- **Tagesordnungspunkt (TOP):** {v['top']}
-- **Originaltitel:** {v['title']}
-- **Video-Link:** [Auf YouTube ansehen]({v['url']})
+            # Extract German title from the first header line of the generated markdown
+            if client and summary_markdown:
+                lines = summary_markdown.strip().split('\n')
+                for line in lines:
+                    if line.startswith('# '):
+                        german_title = line[2:].strip()
+                        if german_title:
+                            v['topic'] = german_title
+                            print(f"Deutsche Übersetzung für das Thema extrahiert: '{german_title}'")
+                            break
 
-> [!WARNING]
-> Dieses Protokoll wurde im Offline-Modus erstellt, da kein `GEMINI_API_KEY` verfügbar war. Das Transkript konnte nicht analysiert werden.
-"""
-        
-        if not summary_markdown:
-            print(f"Fehler beim Erzeugen der Zusammenfassung für Video {v['id']}.")
-            continue
+            # 3. Save markdown protocol
+            os.makedirs(os.path.dirname(absolute_protocol_path), exist_ok=True)
+            try:
+                with open(absolute_protocol_path, 'w', encoding='utf-8') as f:
+                    f.write(summary_markdown)
+                print(f"Markdown-Protokoll gespeichert unter: {relative_protocol_path}")
+            except Exception as e:
+                print(f"Fehler beim Schreiben des Protokolls für {v['id']}: {e}")
+                continue
 
-        # Extract German title from the first header line of the generated markdown
-        if client and summary_markdown:
-            lines = summary_markdown.strip().split('\n')
-            for line in lines:
-                if line.startswith('# '):
-                    german_title = line[2:].strip()
-                    if german_title:
-                        v['topic'] = german_title
-                        print(f"Deutsche Übersetzung für das Thema extrahiert: '{german_title}'")
-                        break
+            # 4. Update index database
+            session_entry = {
+                "id": v['id'],
+                "title": v['title'],
+                "session": v['session'],
+                "date": v['date'],
+                "top": v['top'],
+                "topic": v['topic'],
+                "summary_path": relative_protocol_path,
+                "youtube_url": v['url'],
+                "processed_at": datetime.now().isoformat()
+            }
+            update_sessions_index(index_path, session_entry)
+            success_count += 1
+            
+            # Sleep to respect YouTube's rate limits and prevent 429 errors
+            if i < len(videos_to_process):
+                sleep_time = 8
+                print(f"Pausiere für {sleep_time} Sekunden vor dem nächsten Video, um YouTube Rate-Limits zu vermeiden...")
+                time.sleep(sleep_time)
+            
+        print(f"\n=== Video-Verarbeitung abgeschlossen: {success_count} von {len(videos_to_process)} Videos erfolgreich verarbeitet. ===")
 
-        # 3. Save markdown protocol
-        os.makedirs(os.path.dirname(absolute_protocol_path), exist_ok=True)
-        try:
-            with open(absolute_protocol_path, 'w', encoding='utf-8') as f:
-                f.write(summary_markdown)
-            print(f"Markdown-Protokoll gespeichert unter: {relative_protocol_path}")
-        except Exception as e:
-            print(f"Fehler beim Schreiben des Protokolls für {v['id']}: {e}")
-            continue
-
-        # 4. Update index database
-        session_entry = {
-            "id": v['id'],
-            "title": v['title'],
-            "session": v['session'],
-            "date": v['date'],
-            "top": v['top'],
-            "topic": v['topic'],
-            "summary_path": relative_protocol_path,
-            "youtube_url": v['url'],
-            "processed_at": datetime.now().isoformat()
-        }
-        update_sessions_index(index_path, session_entry)
-        success_count += 1
-        
-        # Sleep to respect YouTube's rate limits and prevent 429 errors
-        if i < len(videos_to_process):
-            sleep_time = 8
-            print(f"Pausiere für {sleep_time} Sekunden vor dem nächsten Video, um YouTube Rate-Limits zu vermeiden...")
-            time.sleep(sleep_time)
-        
-    print(f"\n=== Fertig! {success_count} von {len(videos_to_process)} Videos erfolgreich verarbeitet. ===")
+    # Run retroactive speaker statements analysis (configurable to protect quota)
+    run_retroactive_speaker_analysis(client, index_path, docs_dir, max_process=args.max_speakers_process)
+    
+    print("\n=== PolitAgent Crawler & Abgeordneten-Analyse beendet. ===")
 
 if __name__ == "__main__":
     main()

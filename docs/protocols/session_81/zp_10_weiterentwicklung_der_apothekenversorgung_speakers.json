@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zur 'Weiterentwicklung der Apothekenversorgung' spiegelte eine tiefe Spaltung zwischen den Regierungsparteien und der Opposition wider. Während CDU/CSU und SPD das Gesetz als Erfolg feierten, der Apotheken stärke, Bürokratie abbaue und die Versorgung sichere, äußerten Grüne, AfD und Linke scharfe Kritik. Extern wiederholten die Abgeordneten der Koalition ihre Überzeugung, dass das Gesetz die wirtschaftlichen Rahmenbedingungen verbessere und neue Leistungen ermögliche. Die Opposition, insbesondere Dr. Paula Piechotta und Ates Gürpinar, warnte außerhalb des Plenums vor Mehrkosten für die GKV und einer unzureichenden Stärkung der Vor-Ort-Apotheken. Martin Sichert (AfD) betonte die Forderung nach einer umfassenderen Vergütungserhöhung und lehnte eine Verwischung von Kompetenzen ab, was durch die Ablehnung eines entsprechenden AfD-Antrags bestätigt wurde.",
+  "sources": [
+    {
+      "name": "Simone Borchardt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Simone Borchardt bezeichnete das 'Apothekenversorgung-Weiterentwicklungsgesetz' als Erfolg, der pharmazeutische Dienstleistungen stärke, neue Parallelstrukturen verhindere und Apotheken entlaste. Sie bestätigte die im Koalitionsvertrag vereinbarte gestaffelte Erhöhung des Fixums auf 9,50 Euro und die Regelung von Fixum und Skonto per Verordnung. Im Vorfeld hatte sie die Fixumerhöhung als 'rote Linie' für die Zustimmung ihrer Fraktion bezeichnet.",
+      "source_title": "Habemus Apothekenreform. Hallelujah! / Apothekenversorgung stärken – wohnortnahe Versorgung sichern / Zweite/dritte Lesung: ApoVWG mit Änderungen verabschiedet, doch die Kritik bleibt",
+      "url": "https://www.apotheke-adhoc.de/nachrichten/detail/apothekenreform/borchardt-dieses-gesetz-ist-ein-erfolg/",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "found": false,
+      "statement": "Martin Sichert sprach sich in der Debatte gegen das Gesetz aus und kritisierte die unzureichende Vergütung der Apotheker. Ein von der AfD-Fraktion eingebrachter Antrag zur 'Flächendeckenden Arzneimittelversorgung mit Apotheken zukunftssicher machen', der unter anderem eine deutliche Erhöhung der Apothekenvergütung und Maßnahmen gegen Bürokratie forderte, wurde vom Bundestag abgelehnt.",
+      "source_title": "Vorstoß zur Zukunft der Apothekenversorgung abgelehnt (Beschlussempfehlung) / Bundestagstracker",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch / Website"
+    },
+    {
+      "name": "Dr. Tanja Machalet",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Tanja Machalet begrüßte das Gesetz als 'Ergebnis intensiver und konstruktiver Arbeit' und ein 'starkes Signal', das die Apotheken als wichtige Säule der Gesundheitsversorgung stärke und Arztpraxen entlaste. Sie bekräftigte, dass die Erhöhung des Fixums komme und dass das Gesetz einen ersten Baustein für die Primärversorgung setze.",
+      "source_title": "Habemus Apothekenreform. Hallelujah! / Apothekenreform stärkt Versorgung und Planungssicherheit / Machalet: ApoVWG setzt ersten Baustein für Primärversorgung",
+      "url": "https://www.apotheke-adhoc.de/nachrichten/detail/apothekenreform/borchardt-dieses-gesetz-ist-ein-erfolg/",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Dr. Paula Piechotta",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Paula Piechotta kritisierte das Gesetz scharf als 'unehrlich' und als Grund für die Unbeliebtheit der Bundesregierung. Sie warnte extern, dass es Milliarden Euro an Mehrkosten für die Gesetzliche Krankenversicherung (GKV) verursachen werde, die Arbeitgebern und Versicherten aufgebürdet würden, während es große Versandapotheken ohne zusätzliche Leistungen begünstige.",
+      "source_title": "Habemus Apothekenreform. Hallelujah! / Bundestag beschließt Apothekenreform trotz Kritik / Zweite/dritte Lesung: ApoVWG mit Änderungen verabschiedet, doch die Kritik bleibt",
+      "url": "https://www.apotheke-adhoc.de/nachrichten/detail/apothekenreform/borchardt-dieses-gesetz-ist-ein-erfolg/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ates Gürpinar erklärte, das Gesetz löse keine Probleme, sondern verschiebe sie und verschlechtere selbst die zaghaften Koalitionsversprechen. Er kritisierte die stückweise Fixum-Anhebung, die durch erhöhte Zwangsrabatte für die Krankenkassen kompensiert werde, und das Fehlen wirksamer Maßnahmen gegen den Versandhandel. Er bezeichnete den Gesetzgebungsprozess als 'schludrig'.",
+      "source_title": "Rede von Ates Gürpinar am 22.05.2026 / Koalition stimmt für Apothekengesetz – gegen massiven Widerstand von Kassen und Ärzteverbänden / Gürpinar: „Das verdient keine Zustimmung“",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-ates-guerpinar-am-22052026/",
+      "platform": "Website / Presse"
+    }
+  ]
+}

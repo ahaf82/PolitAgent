@@ -16,6 +16,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const welcomeView = document.getElementById('welcome-view');
     const protocolView = document.getElementById('protocol-view');
     const protocolContent = document.getElementById('protocol-content');
+    const speakersContent = document.getElementById('speakers-content');
+    const tabProtocol = document.getElementById('tab-protocol');
+    const tabSpeakers = document.getElementById('tab-speakers');
     const externalYoutubeLink = document.getElementById('external-youtube-link');
     const backToListBtn = document.getElementById('back-to-list-btn');
     
@@ -65,6 +68,29 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
     });
+
+    // Tab Switching
+    if (tabProtocol && tabSpeakers) {
+        tabProtocol.addEventListener('click', () => {
+            tabProtocol.classList.add('active');
+            tabSpeakers.classList.remove('active');
+            protocolContent.classList.remove('hidden');
+            speakersContent.classList.add('hidden');
+        });
+
+        tabSpeakers.addEventListener('click', () => {
+            tabSpeakers.classList.add('active');
+            tabProtocol.classList.remove('active');
+            protocolContent.classList.add('hidden');
+            speakersContent.classList.remove('hidden');
+            
+            // Render from cache
+            const activeSession = sessionsData.find(s => s.id === activeSessionId);
+            if (activeSession && activeSession.loadedSpeakersData) {
+                renderSpeakerStatements(activeSession.loadedSpeakersData);
+            }
+        });
+    }
 
     // Load Data
     const loadData = async () => {
@@ -196,6 +222,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const selectSession = async (session) => {
         activeSessionId = session.id;
         
+        // Reset tabs to default (Protocol)
+        if (tabProtocol && tabSpeakers) {
+            tabProtocol.classList.add('active');
+            tabSpeakers.classList.remove('active');
+            tabSpeakers.disabled = true;
+            tabSpeakers.setAttribute('title', 'Vergleicht Aussagen der Redner außerhalb des Plenums (z. B. auf Social Media, Webseiten, Abgeordnetenwatch).');
+            protocolContent.classList.remove('hidden');
+            if (speakersContent) speakersContent.classList.add('hidden');
+        }
+
         // Show loading spinner in content panel
         protocolView.classList.remove('hidden');
         welcomeView.classList.add('hidden');
@@ -256,6 +292,11 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // Scroll reader back to top
             protocolContent.scrollTop = 0;
+
+            // Fetch speakers statements if available
+            if (session.speakers_path) {
+                fetchSpeakersData(session);
+            }
             
         } catch (error) {
             console.error(error);
@@ -267,6 +308,142 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
         }
+    };
+
+    // Helper to get normalized party class
+    const getPartyClass = (party) => {
+        if (!party) return 'party-fraktionslos';
+        const p = party.toLowerCase();
+        if (p.includes('spd')) return 'party-spd';
+        if (p.includes('cdu') || p.includes('csu')) return 'party-cdu-csu';
+        if (p.includes('grün') || p.includes('grune')) return 'party-gruene';
+        if (p.includes('fdp')) return 'party-fdp';
+        if (p.includes('afd')) return 'party-afd';
+        if (p.includes('linke')) return 'party-linke';
+        if (p.includes('bsw')) return 'party-bsw';
+        return 'party-fraktionslos';
+    };
+
+    // Helper to map platform to FontAwesome icon
+    const getPlatformIcon = (platform) => {
+        if (!platform) return 'fa-solid fa-link';
+        const pl = platform.toLowerCase();
+        if (pl.includes('abgeordnetenwatch')) return 'fa-solid fa-circle-question';
+        if (pl.includes('social') || pl.includes('media') || pl.includes('twitter') || pl.includes('x') || pl.includes('instagram')) return 'fa-brands fa-x-twitter';
+        if (pl.includes('presse') || pl.includes('news')) return 'fa-solid fa-newspaper';
+        return 'fa-solid fa-globe';
+    };
+
+    // Fetch speaker statements from JSON
+    const fetchSpeakersData = async (session) => {
+        try {
+            // If already cached, reuse
+            if (session.loadedSpeakersData) {
+                if (tabSpeakers && activeSessionId === session.id) {
+                    tabSpeakers.disabled = false;
+                    tabSpeakers.setAttribute('title', 'Vergleicht Aussagen der Redner außerhalb des Plenums (z. B. auf Social Media, Webseiten, Abgeordnetenwatch).');
+                }
+                return;
+            }
+
+            const response = await fetch(session.speakers_path);
+            if (!response.ok) {
+                throw new Error("Fehler beim Laden der Abgeordneten-Stimmen.");
+            }
+            const data = await response.json();
+            
+            const hasRealUrl = (url) => {
+                if (!url || url === 'N/A' || !url.startsWith('http')) return false;
+                try {
+                    const parsed = new URL(url);
+                    return parsed.pathname !== '' && parsed.pathname !== '/';
+                } catch (e) {
+                    return false;
+                }
+            };
+            
+            const hasValidSpeakers = data.sources && data.sources.some(src => src.found && hasRealUrl(src.url));
+            
+            if (hasValidSpeakers) {
+                session.loadedSpeakersData = data;
+                if (tabSpeakers && activeSessionId === session.id) {
+                    tabSpeakers.disabled = false;
+                    tabSpeakers.setAttribute('title', 'Vergleicht Aussagen der Redner außerhalb des Plenums (z. B. auf Social Media, Webseiten, Abgeordnetenwatch).');
+                }
+            } else {
+                if (tabSpeakers && activeSessionId === session.id) {
+                    tabSpeakers.disabled = true;
+                    tabSpeakers.setAttribute('title', 'Keine spezifischen Abgeordneten-Stimmen mit Direkt-Links gefunden.');
+                }
+            }
+        } catch (error) {
+            console.warn('Konnte Abgeordneten-Stimmen nicht laden:', error);
+            if (tabSpeakers && activeSessionId === session.id) {
+                tabSpeakers.disabled = true;
+            }
+        }
+    };
+
+    // Render speaker statements tab contents
+    const renderSpeakerStatements = (speakersData) => {
+        if (!speakersContent) return;
+        
+        speakersContent.innerHTML = '';
+        
+        // Render synthesis
+        const synthesisDiv = document.createElement('div');
+        synthesisDiv.className = 'speakers-synthesis';
+        synthesisDiv.innerHTML = `
+            <h3><i class="fa-solid fa-circle-info"></i> Synthese der Positionen</h3>
+            <p>${speakersData.synthesis || 'Keine Synthese verfügbar.'}</p>
+        `;
+        speakersContent.appendChild(synthesisDiv);
+        
+        // Render grid of cards
+        const gridDiv = document.createElement('div');
+        gridDiv.className = 'speakers-grid';
+        
+        const hasRealUrl = (url) => {
+            if (!url || url === 'N/A' || !url.startsWith('http')) return false;
+            try {
+                const parsed = new URL(url);
+                return parsed.pathname !== '' && parsed.pathname !== '/';
+            } catch (e) {
+                return false;
+            }
+        };
+
+        const filteredSources = (speakersData.sources || []).filter(src => src.found && hasRealUrl(src.url));
+        
+        filteredSources.forEach(src => {
+            const card = document.createElement('div');
+            card.className = `speaker-card ${getPartyClass(src.party)}`;
+            
+            const iconClass = getPlatformIcon(src.platform);
+            
+            card.innerHTML = `
+                <div class="speaker-header">
+                    <div>
+                        <h4 class="speaker-name">${src.name}</h4>
+                        <span class="speaker-party">${src.party || 'Fraktionslos'}</span>
+                    </div>
+                </div>
+                <div class="speaker-body">
+                    <p class="speaker-quote">„${src.statement}“</p>
+                </div>
+                <div class="speaker-footer">
+                    <a href="${src.url}" target="_blank" class="speaker-source-btn">
+                        <i class="${iconClass}"></i> ${src.source_title || 'Zum Beitrag'}
+                    </a>
+                </div>
+            `;
+            gridDiv.appendChild(card);
+        });
+        
+        speakersContent.appendChild(gridDiv);
+        
+        // Scroll back to top
+        speakersContent.scrollTop = 0;
     };
 
     // Filter and search logic

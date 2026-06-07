@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zur Debatte um den Erhalt des Gaskraftwerks in Lubmin und dessen Übertragung an die Ukraine sind im analysierten Material begrenzt. Leif-Erik Holm (AfD) bekräftigte außerhalb des Bundestages die Position seiner Fraktion. Er betonte die strategische Bedeutung des Kraftwerks für die deutsche Energieversorgung und kritisierte die geplante Schenkung als „wirtschaftspolitischen Vandalismus“ und politische Geschmacklosigkeit. Für die anderen identifizierten Redner – Philipp Amthor (CDU/CSU), Claudia Müller (Bündnis 90/Die Grünen), Dunja Kreiser (SPD) und Jörg Cezanne (Die Linke) – konnten keine direkten externen Stellungnahmen zum spezifischen Thema jenseits ihrer parlamentarischen Redebeiträge gefunden werden, die den strengen Kriterien für persönliche, externe Aussagen entsprechen.",
+  "sources": [
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Holm kritisierte die geplante Schenkung des voll funktionsfähigen Kraftwerks als \"Energieirrsinn\" und \"wirtschaftspolitischen Vandalismus\". Er forderte den Erhalt der Anlage in Lubmin als strategische Option für Deutschlands Energieversorgung, insbesondere im Hinblick auf eine mögliche Wiederinbetriebnahme des Nord Stream 2 Strangs, um günstige Energie zu sichern. Er bezeichnete die Übergabe an die Ukraine als politisch geschmacklos, da das Land mutmaßlich an der Sabotage der Nord-Stream-Pipelines beteiligt war.",
+      "source_title": "Ein Abbau des Kraftwerks in Lubmin zerstört bewusst eine strategische Option Deutschlands – Leif-Erik Holm, MdB",
+      "url": "https://leif-erik-holm.de/ein-abbau-des-kraftwerks-in-lubmin-zerstoert-bewusst-eine-strategische-option-deutschlands/",
+      "platform": "Website"
+    },
+    {
+      "name": "Philipp Amthor",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Claudia Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jörg Cezanne",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

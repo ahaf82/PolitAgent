@@ -8,7 +8,8 @@
     "topic": "Arbeitszeitpolitik",
     "summary_path": "protocols/session_81/zp_8_9_arbeitszeitpolitik.md",
     "youtube_url": "https://www.youtube.com/watch?v=CPa1rLMiv64",
-    "processed_at": "2026-06-01T18:40:54.335985"
+    "processed_at": "2026-06-01T18:40:54.335985",
+    "speakers_path": "protocols/session_81/zp_8_9_arbeitszeitpolitik_speakers.json"
   },
   {
     "id": "KIBgYYoA3Ig",
@@ -19,7 +20,8 @@
     "topic": "Weiterentwicklung der Apothekenversorgung",
     "summary_path": "protocols/session_81/zp_10_weiterentwicklung_der_apothekenversorgung.md",
     "youtube_url": "https://www.youtube.com/watch?v=KIBgYYoA3Ig",
-    "processed_at": "2026-06-01T18:47:05.758200"
+    "processed_at": "2026-06-01T18:47:05.758200",
+    "speakers_path": "protocols/session_81/zp_10_weiterentwicklung_der_apothekenversorgung_speakers.json"
   },
   {
     "id": "WLavtNOFht8",
@@ -30,7 +32,8 @@
     "topic": "Antragsloses Kindergeld",
     "summary_path": "protocols/session_81/6_antragsloses_kindergeld.md",
     "youtube_url": "https://www.youtube.com/watch?v=WLavtNOFht8",
-    "processed_at": "2026-06-01T18:39:06.847335"
+    "processed_at": "2026-06-01T18:39:06.847335",
+    "speakers_path": "protocols/session_81/6_antragsloses_kindergeld_speakers.json"
   },
   {
     "id": "yGKHD8vLsGg",
@@ -41,7 +44,8 @@
     "topic": "Erhalt des Gaskraftwerks am Standort Lubmin und Integration in die deutsche Energieinfrastruktur",
     "summary_path": "protocols/session_81/29_erhalt_des_gaskraftwerks_am_standort_lubmin.md",
     "youtube_url": "https://www.youtube.com/watch?v=yGKHD8vLsGg",
-    "processed_at": "2026-06-01T18:43:10.014442"
+    "processed_at": "2026-06-01T18:43:10.014442",
+    "speakers_path": "protocols/session_81/29_erhalt_des_gaskraftwerks_am_standort_lubmin_speakers.json"
   },
   {
     "id": "MsRp2Ie2O1k",
@@ -52,7 +56,8 @@
     "topic": "Jahresabrüstungsberichte 2024 und 2025",
     "summary_path": "protocols/session_81/28_zp_12_jahresabruestungsberichte_2024_und_2025.md",
     "youtube_url": "https://www.youtube.com/watch?v=MsRp2Ie2O1k",
-    "processed_at": "2026-06-01T18:42:12.612203"
+    "processed_at": "2026-06-01T18:42:12.612203",
+    "speakers_path": "protocols/session_81/28_zp_12_jahresabruestungsberichte_2024_und_2025_speakers.json"
   },
   {
     "id": "kMDwOMwpvUU",
@@ -63,7 +68,8 @@
     "topic": "Globale Hungerkrise",
     "summary_path": "protocols/session_81/27_global_hunger_crisis.md",
     "youtube_url": "https://www.youtube.com/watch?v=kMDwOMwpvUU",
-    "processed_at": "2026-06-05T15:32:30.182581"
+    "processed_at": "2026-06-05T15:32:30.182581",
+    "speakers_path": "protocols/session_81/27_global_hunger_crisis_speakers.json"
   },
   {
     "id": "n7BA1cQg15A",
@@ -74,7 +80,8 @@
     "topic": "Aktuelle Stunde: Geschäftsmodelle der großen Immobilienkonzerne bekämpfen – Mieterinnen und Mieter konsequent schützen",
     "summary_path": "protocols/session_81/11_current_affairs_debate_real_estate_corporations_an.md",
     "youtube_url": "https://www.youtube.com/watch?v=n7BA1cQg15A",
-    "processed_at": "2026-06-02T09:57:41.050421"
+    "processed_at": "2026-06-02T09:57:41.050421",
+    "speakers_path": "protocols/session_81/11_current_affairs_debate_real_estate_corporations_an_speakers.json"
   },
   {
     "id": "2pytYs9XHLQ",
@@ -85,7 +92,8 @@
     "topic": "Steuer- und Steuerberatungsrecht",
     "summary_path": "protocols/session_80/zp_7_steuer_und_steuerberatungsrecht.md",
     "youtube_url": "https://www.youtube.com/watch?v=2pytYs9XHLQ",
-    "processed_at": "2026-06-01T18:37:43.499465"
+    "processed_at": "2026-06-01T18:37:43.499465",
+    "speakers_path": "protocols/session_80/zp_7_steuer_und_steuerberatungsrecht_speakers.json"
   },
   {
     "id": "ZRbZxv6M73Q",
@@ -96,7 +104,8 @@
     "topic": "Einberufung eines nationalen Bildungsgipfels",
     "summary_path": "protocols/session_80/zp_6_einberufung_eines_nationalen_bildungsgipfels.md",
     "youtube_url": "https://www.youtube.com/watch?v=ZRbZxv6M73Q",
-    "processed_at": "2026-06-01T18:35:10.814071"
+    "processed_at": "2026-06-01T18:35:10.814071",
+    "speakers_path": "protocols/session_80/zp_6_einberufung_eines_nationalen_bildungsgipfels_speakers.json"
   },
   {
     "id": "VNzDbKtMJF8",
