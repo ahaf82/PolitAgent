@@ -572,6 +572,34 @@ body.light-mode .icon-light, .icon-dark {
     transform: translateY(-1px);
 }
 
+.protocol-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.share-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background-color: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    color: var(--color-text-title);
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color var(--transition-fast), border-color var(--transition-fast), transform var(--transition-fast);
+}
+
+.share-btn:hover {
+    background-color: var(--color-bg-card-hover);
+    border-color: var(--color-border-focus);
+    transform: translateY(-1px);
+}
+
 .markdown-body {
     flex: 1;
     overflow-y: auto;

@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Application State
     let sessionsData = [];
     let activeSessionId = null;
+    let pendingTabId = null;
 
     // DOM Elements
     const searchInput = document.getElementById('search-input');
@@ -23,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const tabDocuments = document.getElementById('tab-documents');
     const externalYoutubeLink = document.getElementById('external-youtube-link');
     const backToListBtn = document.getElementById('back-to-list-btn');
+    const shareBtn = document.getElementById('share-btn');
     
     const statSessions = document.getElementById('stat-sessions');
     const statDays = document.getElementById('stat-days');
@@ -71,46 +73,57 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Tab Switching
-    if (tabProtocol && tabSpeakers && tabDocuments) {
-        tabProtocol.addEventListener('click', () => {
-            tabProtocol.classList.add('active');
-            tabSpeakers.classList.remove('active');
-            tabDocuments.classList.remove('active');
-            protocolContent.classList.remove('hidden');
-            if (speakersContent) speakersContent.classList.add('hidden');
-            if (documentsContent) documentsContent.classList.add('hidden');
-        });
+    // Central Tab Switching & Hash Updater
+    const activateTab = (tabId) => {
+        if (!tabProtocol || !tabSpeakers || !tabDocuments) return;
 
-        tabSpeakers.addEventListener('click', () => {
+        // Reset all UI tab states
+        tabProtocol.classList.remove('active');
+        tabSpeakers.classList.remove('active');
+        tabDocuments.classList.remove('active');
+        
+        protocolContent.classList.add('hidden');
+        if (speakersContent) speakersContent.classList.add('hidden');
+        if (documentsContent) documentsContent.classList.add('hidden');
+
+        // Activate requested tab
+        if (tabId === 'protocol') {
+            tabProtocol.classList.add('active');
+            protocolContent.classList.remove('hidden');
+        } else if (tabId === 'speakers' && !tabSpeakers.disabled) {
             tabSpeakers.classList.add('active');
-            tabProtocol.classList.remove('active');
-            tabDocuments.classList.remove('active');
-            protocolContent.classList.add('hidden');
             if (speakersContent) speakersContent.classList.remove('hidden');
-            if (documentsContent) documentsContent.classList.add('hidden');
             
             // Render from cache
             const activeSession = sessionsData.find(s => s.id === activeSessionId);
             if (activeSession && activeSession.loadedSpeakersData) {
                 renderSpeakerStatements(activeSession.loadedSpeakersData);
             }
-        });
-
-        tabDocuments.addEventListener('click', () => {
+        } else if (tabId === 'documents' && !tabDocuments.disabled) {
             tabDocuments.classList.add('active');
-            tabProtocol.classList.remove('active');
-            tabSpeakers.classList.remove('active');
-            protocolContent.classList.add('hidden');
-            if (speakersContent) speakersContent.classList.add('hidden');
             if (documentsContent) documentsContent.classList.remove('hidden');
-
+            
             // Render from cache
             const activeSession = sessionsData.find(s => s.id === activeSessionId);
             if (activeSession && activeSession.loadedDocumentsData) {
                 renderDocumentsData(activeSession.loadedDocumentsData);
             }
-        });
+        }
+
+        // Update URL hash
+        if (activeSessionId) {
+            const targetHash = `#/session/${activeSessionId}/tab/${tabId}`;
+            if (window.location.hash !== targetHash) {
+                window.location.hash = targetHash;
+            }
+        }
+    };
+
+    // Tab Switching
+    if (tabProtocol && tabSpeakers && tabDocuments) {
+        tabProtocol.addEventListener('click', () => activateTab('protocol'));
+        tabSpeakers.addEventListener('click', () => activateTab('speakers'));
+        tabDocuments.addEventListener('click', () => activateTab('documents'));
     }
 
     // Load Data
@@ -129,6 +142,9 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // Render list
             renderSessionsList(sessionsData);
+            
+            // Initial routing check
+            await handleRouting();
         } catch (error) {
             console.error('Fehler beim Laden der Sitzungsdaten:', error);
             renderErrorState(error.message);
@@ -211,12 +227,8 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
 
             card.addEventListener('click', () => {
-                // Remove active classes
-                document.querySelectorAll('.session-card').forEach(c => c.classList.remove('active'));
-                card.classList.add('active');
-                
-                // Load Protocol
-                selectSession(session);
+                // Update hash to trigger router
+                window.location.hash = `#/session/${session.id}/tab/protocol`;
                 
                 // Close sidebar on mobile after selection
                 if (window.innerWidth <= 900) {
@@ -240,8 +252,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // Select and load a Bundestag session
-    const selectSession = async (session) => {
+    const selectSession = async (session, targetTabId = 'protocol') => {
         activeSessionId = session.id;
+        pendingTabId = targetTabId;
         
         // Reset tabs to default (Protocol)
         if (tabProtocol && tabSpeakers && tabDocuments) {
@@ -372,6 +385,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (tabSpeakers && activeSessionId === session.id) {
                     tabSpeakers.disabled = false;
                     tabSpeakers.setAttribute('title', 'Vergleicht Aussagen der Redner außerhalb des Plenums (z. B. auf Social Media, Webseiten, Abgeordnetenwatch).');
+                    if (pendingTabId === 'speakers') {
+                        activateTab('speakers');
+                        pendingTabId = null;
+                    }
                 }
                 return;
             }
@@ -399,6 +416,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (tabSpeakers && activeSessionId === session.id) {
                     tabSpeakers.disabled = false;
                     tabSpeakers.setAttribute('title', 'Vergleicht Aussagen der Redner außerhalb des Plenums (z. B. auf Social Media, Webseiten, Abgeordnetenwatch).');
+                    if (pendingTabId === 'speakers') {
+                        activateTab('speakers');
+                        pendingTabId = null;
+                    }
                 }
             } else {
                 if (tabSpeakers && activeSessionId === session.id) {
@@ -510,10 +531,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Mobile back button inside protocol viewer
     if (backToListBtn) {
         backToListBtn.addEventListener('click', () => {
-            protocolView.classList.add('hidden');
-            welcomeView.classList.remove('hidden');
-            activeSessionId = null;
-            document.querySelectorAll('.session-card').forEach(c => c.classList.remove('active'));
+            window.location.hash = '';
         });
     }
 
@@ -525,6 +543,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (tabDocuments && activeSessionId === session.id) {
                     tabDocuments.disabled = false;
                     tabDocuments.setAttribute('title', 'Zeigt offizielle Bundestags-Drucksachen und Abstimmungsergebnisse.');
+                    if (pendingTabId === 'documents') {
+                        activateTab('documents');
+                        pendingTabId = null;
+                    }
                 }
                 return;
             }
@@ -539,6 +561,10 @@ document.addEventListener('DOMContentLoaded', () => {
             if (tabDocuments && activeSessionId === session.id) {
                 tabDocuments.disabled = false;
                 tabDocuments.setAttribute('title', 'Zeigt offizielle Bundestags-Drucksachen und Abstimmungsergebnisse.');
+                if (pendingTabId === 'documents') {
+                    activateTab('documents');
+                    pendingTabId = null;
+                }
             }
         } catch (error) {
             console.warn('Konnte Dokumenten-Daten nicht laden:', error);
@@ -712,6 +738,107 @@ document.addEventListener('DOMContentLoaded', () => {
         // Scroll back to top
         documentsContent.scrollTop = 0;
     };
+
+    // Parse the hash URL
+    const parseHash = () => {
+        const hash = window.location.hash;
+        // Format: #/session/{sessionId} or #/session/{sessionId}/tab/{tabId}
+        const match = hash.match(/^#\/session\/([a-zA-Z0-9_-]+)(?:\/tab\/([a-z]+))?$/);
+        if (match) {
+            return {
+                sessionId: match[1],
+                tabId: match[2] || 'protocol'
+            };
+        }
+        return null;
+    };
+
+    // Main Router
+    const handleRouting = async () => {
+        const route = parseHash();
+        if (!route) {
+            // No route or invalid, show welcome screen
+            if (activeSessionId !== null) {
+                activeSessionId = null;
+                welcomeView.classList.add('hidden');
+                protocolView.classList.add('hidden');
+                welcomeView.classList.remove('hidden');
+                document.querySelectorAll('.session-card').forEach(c => c.classList.remove('active'));
+            }
+            return;
+        }
+
+        const session = sessionsData.find(s => s.id === route.sessionId);
+        if (!session) {
+            console.warn(`Sitzung mit ID ${route.sessionId} nicht gefunden.`);
+            return;
+        }
+
+        // Highlight active session card
+        document.querySelectorAll('.session-card').forEach(c => {
+            if (c.dataset.id === session.id) {
+                c.classList.add('active');
+                c.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            } else {
+                c.classList.remove('active');
+            }
+        });
+
+        // Load session if not active
+        if (activeSessionId !== session.id) {
+            await selectSession(session, route.tabId);
+        } else {
+            // Switch tab directly if not already active
+            const tabButton = document.getElementById(`tab-${route.tabId}`);
+            if (tabButton && !tabButton.classList.contains('active')) {
+                activateTab(route.tabId);
+            }
+        }
+    };
+
+    // Wire up hashchange event listener
+    window.addEventListener('hashchange', handleRouting);
+
+    // Share Button click listener
+    if (shareBtn) {
+        shareBtn.addEventListener('click', async () => {
+            const shareUrl = window.location.href;
+            const activeSession = sessionsData.find(s => s.id === activeSessionId);
+            const title = activeSession ? `PolitAgent: ${activeSession.topic || activeSession.title}` : 'PolitAgent';
+            
+            // Try Web Share API first (Mobile)
+            if (navigator.share) {
+                try {
+                    await navigator.share({
+                        title: title,
+                        text: `Schau dir diese Bundestagssitzung auf PolitAgent an:`,
+                        url: shareUrl
+                    });
+                    console.log('Erfolgreich geteilt.');
+                } catch (err) {
+                    console.log('Teilen abgebrochen oder fehlgeschlagen:', err);
+                }
+            } else {
+                // Clipboard fallback (Desktop)
+                try {
+                    await navigator.clipboard.writeText(shareUrl);
+                    
+                    // Visual feedback
+                    const originalHTML = shareBtn.innerHTML;
+                    shareBtn.innerHTML = `<i class="fa-solid fa-check" style="color: #10b981;"></i> Link kopiert!`;
+                    shareBtn.style.borderColor = '#10b981';
+                    
+                    setTimeout(() => {
+                        shareBtn.innerHTML = originalHTML;
+                        shareBtn.style.borderColor = '';
+                    }, 2000);
+                } catch (err) {
+                    console.error('Konnte Link nicht kopieren:', err);
+                    alert('Link konnte nicht in die Zwischenablage kopiert werden.');
+                }
+            }
+        });
+    }
 
     // Initialize Page
     initTheme();
