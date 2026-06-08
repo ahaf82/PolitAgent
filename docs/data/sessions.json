@@ -126,7 +126,8 @@
     "summary_path": "protocols/session_80/23_abschoepfung_und_einziehung_von_vermoegenswerten.md",
     "youtube_url": "https://www.youtube.com/watch?v=VNzDbKtMJF8",
     "processed_at": "2026-06-01T18:36:57.450110",
-    "speakers_path": "protocols/session_80/23_abschoepfung_und_einziehung_von_vermoegenswerten_speakers.json"
+    "speakers_path": "protocols/session_80/23_abschoepfung_und_einziehung_von_vermoegenswerten_speakers.json",
+    "documents_path": "protocols/session_80/23_abschoepfung_und_einziehung_von_vermoegenswerten_documents.json"
   },
   {
     "id": "Y9ysrrEjSDg",
@@ -138,7 +139,8 @@
     "summary_path": "protocols/session_80/22_aenderung_des_preisangabenrechts.md",
     "youtube_url": "https://www.youtube.com/watch?v=Y9ysrrEjSDg",
     "processed_at": "2026-06-01T18:36:21.554857",
-    "speakers_path": "protocols/session_80/22_aenderung_des_preisangabenrechts_speakers.json"
+    "speakers_path": "protocols/session_80/22_aenderung_des_preisangabenrechts_speakers.json",
+    "documents_path": "protocols/session_80/22_aenderung_des_preisangabenrechts_documents.json"
   },
   {
     "id": "pHIL8fdZxbs",
@@ -150,7 +152,8 @@
     "summary_path": "protocols/session_80/20_medizinregister_und_medizinregisterdatennutzung.md",
     "youtube_url": "https://www.youtube.com/watch?v=pHIL8fdZxbs",
     "processed_at": "2026-06-01T18:35:45.207226",
-    "speakers_path": "protocols/session_80/20_medizinregister_und_medizinregisterdatennutzung_speakers.json"
+    "speakers_path": "protocols/session_80/20_medizinregister_und_medizinregisterdatennutzung_speakers.json",
+    "documents_path": "protocols/session_80/20_medizinregister_und_medizinregisterdatennutzung_documents.json"
   },
   {
     "id": "7uQt6fnAHrc",
@@ -162,7 +165,8 @@
     "summary_path": "protocols/session_80/19_allowances_for_specialized_forces_in_the_bundesweh.md",
     "youtube_url": "https://www.youtube.com/watch?v=7uQt6fnAHrc",
     "processed_at": "2026-06-02T09:56:08.815708",
-    "speakers_path": "protocols/session_80/19_allowances_for_specialized_forces_in_the_bundesweh_speakers.json"
+    "speakers_path": "protocols/session_80/19_allowances_for_specialized_forces_in_the_bundesweh_speakers.json",
+    "documents_path": "protocols/session_80/19_allowances_for_specialized_forces_in_the_bundesweh_documents.json"
   },
   {
     "id": "K2Lkl3oUzXg",
@@ -329,7 +333,8 @@
     "topic": "Aktuelle Stunde: Raumfahrtnation Deutschland",
     "summary_path": "protocols/session_73/zp_1_aktuelle_stunde_raumfahrtnation_deutschland.md",
     "youtube_url": "https://www.youtube.com/watch?v=C1zgMwvBfd0",
-    "processed_at": "2026-06-04T23:13:43.928239"
+    "processed_at": "2026-06-04T23:13:43.928239",
+    "speakers_path": "protocols/session_73/zp_1_aktuelle_stunde_raumfahrtnation_deutschland_speakers.json"
   },
   {
     "id": "pcpocHDKu9o",
@@ -340,7 +345,8 @@
     "topic": "Globale Gerechtigkeit und Entwicklungszusammenarbeit",
     "summary_path": "protocols/session_73/5_globale_gerechtigkeit_entwicklungszusammenarbeit.md",
     "youtube_url": "https://www.youtube.com/watch?v=pcpocHDKu9o",
-    "processed_at": "2026-06-04T23:15:37.371881"
+    "processed_at": "2026-06-04T23:15:37.371881",
+    "speakers_path": "protocols/session_73/5_globale_gerechtigkeit_entwicklungszusammenarbeit_speakers.json"
   },
   {
     "id": "yw90Z7v1Osc",
@@ -351,7 +357,8 @@
     "topic": "Befragung der Bundesregierung (Bundesministerium für Forschung, Technologie und Raumfahrt und Bundeskanzleramt)",
     "summary_path": "protocols/session_73/1_befragung_der_bundesregierung_bmftr_und_bkamt.md",
     "youtube_url": "https://www.youtube.com/watch?v=yw90Z7v1Osc",
-    "processed_at": "2026-06-04T23:10:54.831425"
+    "processed_at": "2026-06-04T23:10:54.831425",
+    "speakers_path": "protocols/session_73/1_befragung_der_bundesregierung_bmftr_und_bkamt_speakers.json"
   },
   {
     "id": "JmXz2nxenlw",
