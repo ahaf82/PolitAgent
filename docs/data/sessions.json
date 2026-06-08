@@ -113,7 +113,8 @@
     "summary_path": "protocols/session_80/zp_6_einberufung_eines_nationalen_bildungsgipfels.md",
     "youtube_url": "https://www.youtube.com/watch?v=ZRbZxv6M73Q",
     "processed_at": "2026-06-01T18:35:10.814071",
-    "speakers_path": "protocols/session_80/zp_6_einberufung_eines_nationalen_bildungsgipfels_speakers.json"
+    "speakers_path": "protocols/session_80/zp_6_einberufung_eines_nationalen_bildungsgipfels_speakers.json",
+    "documents_path": "protocols/session_80/zp_6_einberufung_eines_nationalen_bildungsgipfels_documents.json"
   },
   {
     "id": "VNzDbKtMJF8",
