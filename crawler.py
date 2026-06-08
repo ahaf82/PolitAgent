@@ -652,11 +652,11 @@ def verify_and_format_documents(doc_json):
                     doc['url'] = pdf_url
                     print(f"Drucksachen-PDF verifiziert: {pdf_url}")
                 else:
-                    fallback_url = f"https://dip.bundestag.de/suche?q=Drucksache%20{wp}/{num}"
+                    fallback_url = f"https://dip.bundestag.de/suche?term=Drucksache%20{wp}%2F{num}&rows=25"
                     doc['url'] = fallback_url
                     print(f"Drucksachen-PDF nicht verfuegbar ({r.status_code}), weiche auf DIP aus: {fallback_url}")
             except Exception as e:
-                fallback_url = f"https://dip.bundestag.de/suche?q=Drucksache%20{wp}/{num}"
+                fallback_url = f"https://dip.bundestag.de/suche?term=Drucksache%20{wp}%2F{num}&rows=25"
                 doc['url'] = fallback_url
                 print(f"Fehler bei Drucksachen-Verifikation ({e}), weiche auf DIP aus: {fallback_url}")
         else:

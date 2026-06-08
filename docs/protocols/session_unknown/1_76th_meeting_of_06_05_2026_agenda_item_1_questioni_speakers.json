@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten nach der Bundestagsdebatte vom 6. Mai 2026 zu Arbeits- und Sozialpolitik sowie wirtschaftlicher Zusammenarbeit und Entwicklung waren gemischt. René Springer (AfD) bekräftigte seine Kritik an der Zuwanderung in die Sozialsysteme und forderte eine Erhöhung der Rentenzuschüsse, um die „Plünderung der Rentenkasse“ zu stoppen. Peter Aumer (CDU/CSU) äußerte sich allgemein zur Flexibilisierung des öffentlichen Dienstrechts, was seine Forderungen nach flexibleren Arbeitszeitmodellen widerspiegelt. Für Ricarda Lang (Bündnis 90/Die Grünen), Daniela Rump (SPD) und Sören Pellmann (Die Linke) waren im unmittelbaren Anschluss an die Debatte keine spezifischen externen Stellungnahmen zu ihren jeweiligen Themen auffindbar.",
+  "sources": [
+    {
+      "name": "René Springer",
+      "party": "AfD",
+      "found": true,
+      "statement": "René Springer bekräftigte die Forderung, die Einwanderung in die Grundsicherung zu stoppen und verwies auf aktuelle Zahlen, die einen hohen Ausländeranteil unter den Leistungsempfängern zeigen. Er kritisierte zudem die geplante Kürzung des Bundeszuschusses zur Rentenversicherung und forderte stattdessen eine Erhöhung, um die finanzielle Stabilität der Rente zu gewährleisten und eine „Plünderung der Rentenkasse“ zu verhindern.",
+      "source_title": "Zuwanderung in die Grundsicherung stoppen / Bundeszuschuss zur Rente erhöhen statt kürzen",
+      "url": "https://afdbundestag.de/bundeszuschuss-zur-rente-erhoehen-statt-kuerzen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Peter Aumer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Peter Aumer äußerte sich auf abgeordnetenwatch.de zur Weiterentwicklung des Berufsbeamtentums und der Notwendigkeit von Modernisierungen im öffentlichen Dienstrecht, einschließlich der Einführung von Teilzeitregelungen. Dies untermauert die Position der CDU/CSU für mehr Flexibilität in der Arbeitszeitgestaltung, wie sie auch im Plenum gefordert wurde.",
+      "source_title": "Setzt sich Ihre Partei für eine Änderung des Art. 33. Absatz 5 GG ein? Z.b. Deckelung von Pensionen auf maximal mögliche Höchstrente + 15%",
+      "url": "https://www.abgeordnetenwatch.de/profile/peter-aumer/fragen-antworten/setzt-sich-ihre-partei-fuer-eine-aenderung-des-art-33-absatz-5-gg-ein-zb-deckelung-von-pensionen-auf-maximal",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Daniela Rump",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}
