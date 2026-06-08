@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6002",
+      "title": "Gesetzentwurf der Fraktionen der CDU/CSU und SPD Entwurf eines Neunten Gesetzes zur Änderung von Vorschriften im Steuerberatungsrecht sowie im Steuerrecht",
+      "url": "https://dip.bundestag.de/suche?q=Drucksache%2021/6002",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf auf Drucksache 21/6002 wurde interfraktionell an die in der Tagesordnung aufgeführten Ausschüsse zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

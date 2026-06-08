@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die analysierten Abgeordneten zeigen unterschiedliche, aber konsistente Positionen zum konsensbasierten Sexualstrafrecht außerhalb des Bundestags. Dr. Lena Gumnior (Bündnis 90/Die Grünen) und Kathrin Gebel (Die Linke) sind starke Befürworterinnen des „Nur Ja heißt Ja“-Prinzips. Sie betonen die Notwendigkeit eines Paradigmenwechsels zum Opferschutz, insbesondere bei Schockstarre, und kritisieren die unzureichende aktuelle Rechtslage sowie die geringe Verurteilungsrate. Dr. Johannes Fechner (SPD) zeigt sich offen für die Diskussion, fordert jedoch weitere Beratungen zur praktischen Beweisbarkeit. Demgegenüber lehnen Susanne Hierl (CDU/CSU) und Knuth Meyer-Soltau (AfD) den Gesetzentwurf ab, da sie Rechtsunsicherheit und eine verfassungswidrige Beweislastumkehr befürchten.",
+  "sources": [
+    {
+      "name": "Dr. Lena Gumnior",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Lena Gumnior ist eine prominente Befürworterin der 'Nur Ja heißt Ja'-Regelung, die sie als notwendigen Paradigmenwechsel im Sexualstrafrecht sieht. Sie betont, dass die aktuelle Rechtslage Opfer in Situationen der Schockstarre unzureichend schützt und die Verantwortung vom Opfer auf den Täter verlagert werden muss. Sie kritisiert die Justizministerin für Verzögerungen bei der Reform und verweist auf andere europäische Länder, die das Konsensprinzip bereits erfolgreich implementiert haben.",
+      "source_title": "Grünen-Politikerin Gumnior will „Nur Ja heißt Ja“-Regelung zur Ahndung sexualisierter Gewalt auch für Deutschland",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Susanne Hierl lehnt den Gesetzentwurf zum konsensbasierten Sexualstrafrecht ab, da er ihrer Meinung nach neue Unklarheiten und Rechtsunsicherheit schaffe. Sie betont, dass das bestehende § 177 StGB bereits Fälle von Schockstarre abdecke und der Vorschlag der Grünen die strukturellen Beweisprobleme nicht lösen werde. Sie warnt vor einer Schwächung des Vertrauens in den Rechtsstaat durch unwirksame Strafrechtsänderungen.",
+      "source_title": "Bundestag debattiert über \"Nur Ja heißt Ja\"-Regel im Sexualstrafrecht",
+      "url": "https://www.queer.de/detail.php?article_id=45989",
+      "platform": "Presse"
+    },
+    {
+      "name": "Knuth Meyer-Soltau",
+      "party": "AfD",
+      "found": true,
+      "statement": "Knuth Meyer-Soltau lehnt den Gesetzentwurf als einen \"Frontalangriff auf die Grundprinzipien des Strafrechts\" ab. Er befürchtet eine faktische, verfassungswidrige Beweislastumkehr, da die positive Zustimmung in intimen, vielschichtigen Situationen kaum nachweisbar sei und der Entwurf menschliche Missverständnisse kriminalisiere. Er kritisiert die Bürokratisierung zwischenmenschlicher Nähe und bezeichnet das Vorhaben als gefährliche Symbolpolitik.",
+      "source_title": "Bundestag debattiert über \"Nur Ja heißt Ja\"-Regel im Sexualstrafrecht",
+      "url": "https://www.queer.de/detail.php?article_id=45989",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Johannes Fechner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Johannes Fechner befürwortet grundsätzlich eine ernsthafte Diskussion über die Einführung des \"Nur Ja heißt Ja\"-Prinzips, betont jedoch den Beratungsbedarf. Er hebt hervor, dass die praktische Beweisbarkeit in der Strafverfolgung sowie ein möglicher Fahrlässigkeitstatbestand weitere Klärung erforderten. Die SPD sei sich der Schutzlücken im Opferschutz bewusst.",
+      "source_title": "Bundestag debattiert über \"Nur Ja heißt Ja\"-Regel im Sexualstrafrecht",
+      "url": "https://www.queer.de/detail.php?article_id=45989",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kathrin Gebel",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kathrin Gebel fordert ein 'Nur Ja heißt Ja'-Prinzip als absolutes Minimum im Sexualstrafrecht, da die aktuelle Gesetzgebung Frauen die Beweislast aufbürde und Schockstarre nicht ausreichend berücksichtige. Sie betont, dass Sex Zustimmung erfordere und verweist auf die Istanbul-Konvention sowie die geringen Verurteilungsraten bei sexueller Gewalt.",
+      "source_title": "Nur Ja heißt Ja - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

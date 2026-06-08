@@ -87,7 +87,8 @@
     "summary_path": "protocols/session_81/11_current_affairs_debate_real_estate_corporations_an.md",
     "youtube_url": "https://www.youtube.com/watch?v=n7BA1cQg15A",
     "processed_at": "2026-06-02T09:57:41.050421",
-    "speakers_path": "protocols/session_81/11_current_affairs_debate_real_estate_corporations_an_speakers.json"
+    "speakers_path": "protocols/session_81/11_current_affairs_debate_real_estate_corporations_an_speakers.json",
+    "documents_path": "protocols/session_81/11_current_affairs_debate_real_estate_corporations_an_documents.json"
   },
   {
     "id": "2pytYs9XHLQ",
@@ -99,7 +100,8 @@
     "summary_path": "protocols/session_80/zp_7_steuer_und_steuerberatungsrecht.md",
     "youtube_url": "https://www.youtube.com/watch?v=2pytYs9XHLQ",
     "processed_at": "2026-06-01T18:37:43.499465",
-    "speakers_path": "protocols/session_80/zp_7_steuer_und_steuerberatungsrecht_speakers.json"
+    "speakers_path": "protocols/session_80/zp_7_steuer_und_steuerberatungsrecht_speakers.json",
+    "documents_path": "protocols/session_80/zp_7_steuer_und_steuerberatungsrecht_documents.json"
   },
   {
     "id": "ZRbZxv6M73Q",
@@ -290,7 +292,8 @@
     "topic": "Beschleunigung der Vergabe öffentlicher Aufträge",
     "summary_path": "protocols/session_74/zp_3_beschleunigung_der_vergabe_oeffentlicher_auftraege.md",
     "youtube_url": "https://www.youtube.com/watch?v=UoiB0KZE7pQ",
-    "processed_at": "2026-06-05T01:00:13.569971"
+    "processed_at": "2026-06-05T01:00:13.569971",
+    "speakers_path": "protocols/session_74/zp_3_beschleunigung_der_vergabe_oeffentlicher_auftraege_speakers.json"
   },
   {
     "id": "6a_doefx9k4",
@@ -301,7 +304,8 @@
     "topic": "Konsensbasiertes Sexualstrafrecht",
     "summary_path": "protocols/session_74/8_konsensbasiertes_sexualstrafrecht.md",
     "youtube_url": "https://www.youtube.com/watch?v=6a_doefx9k4",
-    "processed_at": "2026-06-05T00:49:39.923614"
+    "processed_at": "2026-06-05T00:49:39.923614",
+    "speakers_path": "protocols/session_74/8_konsensbasiertes_sexualstrafrecht_speakers.json"
   },
   {
     "id": "1rhUxnLAnTc",
@@ -312,7 +316,8 @@
     "topic": "Stärkung der Maritimen Wirtschaft und ihre strategische Rolle",
     "summary_path": "protocols/session_74/18_maritime_wirtschaft.md",
     "youtube_url": "https://www.youtube.com/watch?v=1rhUxnLAnTc",
-    "processed_at": "2026-06-05T00:48:48.190275"
+    "processed_at": "2026-06-05T00:48:48.190275",
+    "speakers_path": "protocols/session_74/18_maritime_wirtschaft_speakers.json"
   },
   {
     "id": "C1zgMwvBfd0",
