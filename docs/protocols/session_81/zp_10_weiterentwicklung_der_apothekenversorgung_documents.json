@@ -1,0 +1,97 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4084",
+      "title": "Entwurf eines Gesetzes zur Weiterentwicklung der Apothekenversorgung (Apothekenversorgung-Weiterentwicklungsgesetz - ApoVWG)",
+      "url": "https://dip.bundestag.de/suche?q=Drucksache%2021/4084",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/2553",
+      "title": "Flächendeckende Arzneimittelversorgung mit Apotheken zukunftssicher machen",
+      "url": "https://dip.bundestag.de/suche?q=Drucksache%2021/2553",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3829",
+      "title": "Apotheken stärken – Arzneimittelversorgung verbessern",
+      "url": "https://dip.bundestag.de/suche?q=Drucksache%2021/3829",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6076",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (14. Ausschuss)",
+      "url": "https://dip.bundestag.de/suche?q=Drucksache%2021/6076",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung zur Weiterentwicklung der Apothekenversorgung wurde von CDU/CSU und SPD angenommen. Die Anträge der AfD und Die Linke wurden abgelehnt, wobei die Ablehnung des AfD-Antrags in namentlicher Abstimmung erfolgte.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 440,
+      "nein": 126,
+      "enthaltung": 0,
+      "nicht_abgegeben": 62
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 111,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 191,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 15
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 81,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 4
+      },
+      {
+        "faction": "FDP",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 125,
+        "enthaltung": 0,
+        "nicht_abgegeben": 25
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 56,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 8
+      },
+      {
+        "faction": "BSW",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 1,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

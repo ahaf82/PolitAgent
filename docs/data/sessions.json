@@ -9,7 +9,8 @@
     "summary_path": "protocols/session_81/zp_8_9_arbeitszeitpolitik.md",
     "youtube_url": "https://www.youtube.com/watch?v=CPa1rLMiv64",
     "processed_at": "2026-06-01T18:40:54.335985",
-    "speakers_path": "protocols/session_81/zp_8_9_arbeitszeitpolitik_speakers.json"
+    "speakers_path": "protocols/session_81/zp_8_9_arbeitszeitpolitik_speakers.json",
+    "documents_path": "protocols/session_81/zp_8_9_arbeitszeitpolitik_documents.json"
   },
   {
     "id": "KIBgYYoA3Ig",
@@ -21,7 +22,8 @@
     "summary_path": "protocols/session_81/zp_10_weiterentwicklung_der_apothekenversorgung.md",
     "youtube_url": "https://www.youtube.com/watch?v=KIBgYYoA3Ig",
     "processed_at": "2026-06-01T18:47:05.758200",
-    "speakers_path": "protocols/session_81/zp_10_weiterentwicklung_der_apothekenversorgung_speakers.json"
+    "speakers_path": "protocols/session_81/zp_10_weiterentwicklung_der_apothekenversorgung_speakers.json",
+    "documents_path": "protocols/session_81/zp_10_weiterentwicklung_der_apothekenversorgung_documents.json"
   },
   {
     "id": "WLavtNOFht8",
@@ -33,7 +35,8 @@
     "summary_path": "protocols/session_81/6_antragsloses_kindergeld.md",
     "youtube_url": "https://www.youtube.com/watch?v=WLavtNOFht8",
     "processed_at": "2026-06-01T18:39:06.847335",
-    "speakers_path": "protocols/session_81/6_antragsloses_kindergeld_speakers.json"
+    "speakers_path": "protocols/session_81/6_antragsloses_kindergeld_speakers.json",
+    "documents_path": "protocols/session_81/6_antragsloses_kindergeld_documents.json"
   },
   {
     "id": "yGKHD8vLsGg",
@@ -116,7 +119,8 @@
     "topic": "Umsetzung der Richtlinie zur Abschöpfung und Einziehung von Vermögenswerten",
     "summary_path": "protocols/session_80/23_abschoepfung_und_einziehung_von_vermoegenswerten.md",
     "youtube_url": "https://www.youtube.com/watch?v=VNzDbKtMJF8",
-    "processed_at": "2026-06-01T18:36:57.450110"
+    "processed_at": "2026-06-01T18:36:57.450110",
+    "speakers_path": "protocols/session_80/23_abschoepfung_und_einziehung_von_vermoegenswerten_speakers.json"
   },
   {
     "id": "Y9ysrrEjSDg",
@@ -127,7 +131,8 @@
     "topic": "Änderung des Preisangabenrechts",
     "summary_path": "protocols/session_80/22_aenderung_des_preisangabenrechts.md",
     "youtube_url": "https://www.youtube.com/watch?v=Y9ysrrEjSDg",
-    "processed_at": "2026-06-01T18:36:21.554857"
+    "processed_at": "2026-06-01T18:36:21.554857",
+    "speakers_path": "protocols/session_80/22_aenderung_des_preisangabenrechts_speakers.json"
   },
   {
     "id": "pHIL8fdZxbs",
@@ -138,7 +143,8 @@
     "topic": "Stärkung von Medizinregistern und Verbesserung der Medizinregisterdatennutzung",
     "summary_path": "protocols/session_80/20_medizinregister_und_medizinregisterdatennutzung.md",
     "youtube_url": "https://www.youtube.com/watch?v=pHIL8fdZxbs",
-    "processed_at": "2026-06-01T18:35:45.207226"
+    "processed_at": "2026-06-01T18:35:45.207226",
+    "speakers_path": "protocols/session_80/20_medizinregister_und_medizinregisterdatennutzung_speakers.json"
   },
   {
     "id": "7uQt6fnAHrc",
@@ -149,7 +155,8 @@
     "topic": "Zulagen für Spezialkräfte der Bundeswehr",
     "summary_path": "protocols/session_80/19_allowances_for_specialized_forces_in_the_bundesweh.md",
     "youtube_url": "https://www.youtube.com/watch?v=7uQt6fnAHrc",
-    "processed_at": "2026-06-02T09:56:08.815708"
+    "processed_at": "2026-06-02T09:56:08.815708",
+    "speakers_path": "protocols/session_80/19_allowances_for_specialized_forces_in_the_bundesweh_speakers.json"
   },
   {
     "id": "K2Lkl3oUzXg",
@@ -160,7 +167,8 @@
     "topic": "Zukunft des Handwerks und die Wirtschaft 2045",
     "summary_path": "protocols/session_80/17_zp_5_zukunft_des_handwerks_wirtschaft_2045.md",
     "youtube_url": "https://www.youtube.com/watch?v=K2Lkl3oUzXg",
-    "processed_at": "2026-06-01T18:34:26.224608"
+    "processed_at": "2026-06-01T18:34:26.224608",
+    "speakers_path": "protocols/session_80/17_zp_5_zukunft_des_handwerks_wirtschaft_2045_speakers.json"
   },
   {
     "id": "QmnOFlk9E8k",
@@ -171,7 +179,8 @@
     "topic": "Ergebnisse der Vorplanung für die Bahnstrecken Dresden–Grenze Deutschland/Tschechien, Niebüll–Westerland und Augsburg–Ulm",
     "summary_path": "protocols/session_80/16_results_of_preliminary_planning_for_new_and_upgrad.md",
     "youtube_url": "https://www.youtube.com/watch?v=QmnOFlk9E8k",
-    "processed_at": "2026-06-02T09:55:32.355844"
+    "processed_at": "2026-06-02T09:55:32.355844",
+    "speakers_path": "protocols/session_80/16_results_of_preliminary_planning_for_new_and_upgrad_speakers.json"
   },
   {
     "id": "JjbrYYC6y8w",
@@ -2559,6 +2568,42 @@
     "summary_path": "protocols/session_unknown/top_unknown_relief_measures_for_repair_caf_s.md",
     "youtube_url": "https://www.youtube.com/watch?v=AahnjpfejUM",
     "processed_at": "2026-06-05T21:19:19.794232"
+  },
+  {
+    "id": "U9TXXQ3jt4Q",
+    "title": "Hearing on the Second Air Traffic Tax Amendment Act",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zum Zweiten Gesetz zur Änderung des Luftverkehrssteuergesetzes",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_the_second_air_traffic_tax_amendment_ac.md",
+    "documents_path": "protocols/session_unknown/top_unknown_hearing_on_the_second_air_traffic_tax_amendment_ac_documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=U9TXXQ3jt4Q",
+    "processed_at": "2026-06-08T21:02:33.816935"
+  },
+  {
+    "id": "IAUnKCRvun4",
+    "title": "Hearing on the \"Federal Regulatory Sandbox Testing Act\" Draft Bill",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zum Entwurf eines Gesetzes zur Verbesserung der Rahmenbedingungen für die Erprobung von Innovationen in Reallaboren und zur Förderung des regulatorischen Lernens",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_the_federal_regulatory_sandbox_testing_.md",
+    "documents_path": "protocols/session_unknown/top_unknown_hearing_on_the_federal_regulatory_sandbox_testing__documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=IAUnKCRvun4",
+    "processed_at": "2026-06-08T21:04:05.296658"
+  },
+  {
+    "id": "zlsOgLbcn2g",
+    "title": "Gas networks to be only partially repurposed",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Gasnetze werden nur teilweise umgenutzt",
+    "summary_path": "protocols/session_unknown/top_unknown_gas_networks_to_be_only_partially_repurposed.md",
+    "documents_path": "protocols/session_unknown/top_unknown_gas_networks_to_be_only_partially_repurposed_documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=zlsOgLbcn2g",
+    "processed_at": "2026-06-08T21:05:52.069825"
   },
   {
     "id": "vHNXQug-Frc",

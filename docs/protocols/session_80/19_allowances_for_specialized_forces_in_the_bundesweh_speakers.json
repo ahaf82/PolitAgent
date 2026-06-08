@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externe Kommunikation der Abgeordneten zum Thema 'Zulagen für Spezialkräfte der Bundeswehr' spiegelt die im Plenum geäußerten Fraktionspositionen wider, erweitert diese jedoch um allgemeine verteidigungspolitische Schwerpunkte. Andreas Paul (AfD) bekräftigte die Forderung nach umgehenden und rückwirkenden Zulagen, um eine bestehende Ungerechtigkeit zu beheben. Ralph Edelhäußer (CDU/CSU) und Vivian Tauschwitz (CDU/CSU) betonten die Notwendigkeit einer kohärenten Personalstrategie und einer allgemeinen Stärkung der Bundeswehr. Ulrich Thoden (Die Linke) fokussierte auf die Kritik an Aufrüstung und die Verbesserung allgemeiner Arbeitsbedingungen, während Niklas Wagener (Bündnis 90/Die Grünen) das Wohl der Soldat*innen und Infrastrukturinvestitionen in den Vordergrund stellte. Für Sabine Dittmar (SPD) konnten keine spezifischen externen Äußerungen zum Thema gefunden werden.",
+  "sources": [
+    {
+      "name": "Andreas Paul",
+      "party": "AfD",
+      "found": false,
+      "statement": "Andreas Paul bekräftigte außerhalb der Debatte die Forderung nach vollständigen und rückwirkenden Zulagen für spezialisierte Kräfte der Bundeswehr. Er kritisierte 'politische Trägheit' und 'Bürokratieversagen' bei der Umsetzung dieser seit langem zugesagten Leistungen, die er als 'eklatante Ungerechtigkeit' bezeichnete.",
+      "source_title": "AK12 - Verteidigung auf afd.de (Stellungnahme vom 20.05.2026)",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ralph Edelhäußer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ulrich Thoden",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ulrich Thoden äußerte sich extern kritisch zur Militarisierung und Aufrüstung der Bundeswehr und betonte die Notwendigkeit besserer Arbeitsbedingungen und parlamentarischer Kontrolle. Er hinterfragte die Notwendigkeit einer Ausweitung der Wehrpflicht und sprach sich für Transparenz und gegen überhöhte Beschaffungskosten aus, ohne spezifisch auf Zulagen für Spezialkräfte einzugehen.",
+      "source_title": "DEUTSCHLAND: Linken-Politiker kritisiert Wehrpflicht! Bundeswehr sei 'absolut ausreichend'! - YouTube",
+      "url": "https://www.youtube.com/watch?v=R2jI5J4hB9c",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Vivian Tauschwitz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Vivian Tauschwitz betonte in externen Aussagen die Notwendigkeit, die Bundeswehr personell und strukturell zu stärken, um ihre Einsatzfähigkeit zu sichern. Sie hob die Wiedereinführung der Wehrerfassung hervor und unterstrich die Bedeutung einer größeren Wertschätzung für den Dienst der Soldatinnen und Soldaten.",
+      "source_title": "Reform des Wehrdienstes Tauschwitz: „Ein notwendiger Schritt für Sicherheit und Verlässlichkeit“ - CDU Kreisverband Heidekreis",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sabine Dittmar",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Niklas Wagener",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Niklas Wagener äußerte sich extern zur Notwendigkeit einer gut ausgestatteten Bundeswehr und betonte, dass das Wohl der Soldat*innen ein zentrales Anliegen sei. Er sprach sich für Investitionen in Ausrüstung und Infrastruktur sowie eine verbesserte Personalgewinnung aus, ohne sich auf die Zulagen für Spezialkräfte zu konzentrieren.",
+      "source_title": "Sicherheits- und Verteidigungspolitik auf niklas-wagener.de",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

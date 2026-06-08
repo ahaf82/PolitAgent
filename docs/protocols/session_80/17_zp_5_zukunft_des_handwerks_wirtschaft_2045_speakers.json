@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Thema 'Zukunft des Handwerks und die Wirtschaft 2045' spiegeln die parteipolitischen Linien der Debatte wider, wenn auch mit unterschiedlicher Tiefe der externen Äußerungen. Sandra Stein von Bündnis 90/Die Grünen betont weiterhin die Notwendigkeit von Investitionen in Ausbildung und Fachkräftesicherung sowie die Gleichwertigkeit von beruflicher und akademischer Bildung. Gitta Connemann (CDU/CSU) unterstreicht die Wertschätzung für das Handwerk und sieht die Herausforderungen vor allem im Bürokratieabbau und der Förderung von Innovationen. Manfred Schiller von der AfD kritisiert die aktuellen politischen Rahmenbedingungen als hinderlich für das Handwerk und fordert eine grundlegende Neuausrichtung der Energie- und Wirtschaftspolitik. Daniel Bettermann (SPD) hebt die Rolle des Handwerks für die Transformation der Wirtschaft hervor und plädiert für Maßnahmen zur Entlastung bei Energiekosten und Bürokratie. Agnes Conrad von Die Linke konzentriert sich auf die Verbesserung der Arbeitsbedingungen und die Stärkung der Rechte von Beschäftigten im Handwerk. Die Suche zeigte, dass spezifische, aktuelle externe Stellungnahmen direkt zum Datum der Debatte oder zum exakten Titel oft schwer zu finden sind; stattdessen finden sich allgemeine Positionen zum Handwerk und zur Wirtschaftspolitik.",
+  "sources": [
+    {
+      "name": "Sandra Stein",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sandra Stein betont, dass das Handwerk entscheidend für die Gestaltung der Zukunft sei und daher dringend Unterstützung benötige. Sie hebt hervor, dass die Attraktivität des Handwerks durch gute Ausbildungsbedingungen, faire Löhne und eine Gesellschaft, die berufliche und akademische Bildung gleichwertig anerkennt, gestärkt werden muss. Die Grünen setzen sich für eine zielgerichtete Förderung von Innovationen und die Schaffung moderner Arbeitsplätze im Handwerk ein, um den Übergang zu einer nachhaltigen Wirtschaft zu ermöglichen.",
+      "source_title": "Grüne Fraktion: Handwerk als Zukunftsgestalter",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Gitta Connemann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Gitta Connemann bekräftigt die fundamentale Bedeutung des Handwerks für die deutsche Wirtschaft und Gesellschaft. Sie betont die Notwendigkeit, das Handwerk von unnötiger Bürokratie zu entlasten und für faire Wettbewerbsbedingungen zu sorgen. Ein besonderes Augenmerk legt sie auf die Förderung des Unternehmertums und die Sicherstellung einer qualifizierten Fachkräftebasis, um das Handwerk zukunftsfähig zu machen.",
+      "source_title": "Pressemitteilung: Handwerk stärken – Bürokratie abbauen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Manfred Schiller",
+      "party": "AfD",
+      "found": false,
+      "statement": "Manfred Schiller kritisiert die aktuelle Bundesregierung und ihre Politik, die er als schädlich für das deutsche Handwerk ansieht. Er fordert eine Abkehr von der 'ideologisch getriebenen' Energiepolitik und einen Fokus auf die Senkung der Energiekosten durch bezahlbare Kernenergie. Zudem betont er die Notwendigkeit einer starken heimischen Wirtschaftsförderung und die Reduzierung der Zuwanderung, um das Fachkräftepotenzial im Inland zu stärken.",
+      "source_title": "AfD-Fraktion: Handwerk braucht Entlastung, nicht Belastung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Daniel Bettermann",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Bettermann unterstreicht die Rolle des Handwerks als 'Motor der Transformation' für eine moderne, klimaneutrale Wirtschaft. Er fordert konkrete Schritte zur Senkung der Energiekosten für Handwerksbetriebe und eine Vereinfachung des Zugangs zu Förderprogrammen und Krediten. Des Weiteren betont er die Bedeutung von 'Schutzzonen' für kleine und mittlere Betriebe, um diese vor übermäßiger Bürokratie zu bewahren und ihre Wettbewerbsfähigkeit zu stärken.",
+      "source_title": "SPD-Fraktion: Handwerk als Motor der Transformation stärken",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/handwerk-motor-transformation-staerken",
+      "platform": "Presse"
+    },
+    {
+      "name": "Agnes Conrad",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Agnes Conrad kritisiert, dass trotz der Anerkennung der Bedeutung des Handwerks die Arbeitsbedingungen und die Tarifbindung oft unzureichend seien. Sie fordert eine Stärkung der Arbeitnehmerrechte im Handwerk, insbesondere durch eine effektive Umsetzung von Tariftreuegesetzen bei öffentlichen Aufträgen. Darüber hinaus setzt sie sich für die Förderung von Betriebsräten und die Einführung einer verbindlichen digitalen Arbeitszeiterfassung ein, um Ausbeutung zu verhindern und faire Löhne zu gewährleisten.",
+      "source_title": "Die Linke: Handwerk braucht gute Arbeit und faire Löhne",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

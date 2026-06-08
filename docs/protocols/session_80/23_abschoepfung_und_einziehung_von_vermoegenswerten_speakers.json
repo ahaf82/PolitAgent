@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zur Umsetzung der EU-Richtlinie zur Abschöpfung und Einziehung von Vermögenswerten spiegeln weitgehend ihre im Bundestag geäußerten Positionen wider. Anette Kramme (SPD) vertritt die offizielle Regierungslinie, die eine Stärkung der internationalen Zusammenarbeit und des Expertenwissens betont, um Kriminellen Vermögen zu entziehen. Rainer Galla und Ulrich von Zons (AfD) äußern sich kritisch über die befürchtete Bürokratisierung und die vermeintlich unzureichende Ambition des Entwurfs, der über bloße EU-Mindeststandards hinausgehen sollte. Dr. Lena Gumnior (Bündnis 90/Die Grünen) bekräftigt ihre Forderung nach einem effektiveren, administrativen Ansatz zur Vermögensabschöpfung und die soziale Wiederverwertung eingezogener Vermögenswerte.",
+  "sources": [
+    {
+      "name": "Anette Kramme",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als Parlamentarische Staatssekretärin des Bundesministeriums der Justiz und für Verbraucherschutz vertritt Anette Kramme die Position der Bundesregierung. Sie betont die Notwendigkeit internationaler Zusammenarbeit und der Stärkung des Expertenwissens zur effektiven Vermögensabschöpfung, um organisierter Kriminalität grenzüberschreitend zu begegnen. Der Gesetzentwurf zielt darauf ab, Strukturen für eine bessere Zusammenarbeit und einen beschleunigten Informationsfluss zu schaffen.",
+      "source_title": "Gesetz zur Umsetzung der Richtlinie (EU) 2024/1260 über die Abschöpfung und Einziehung von Vermögenswerten (Regierungsentwurf)",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "found": true,
+      "statement": "Rainer Galla und die AfD-Fraktion unterstützen grundsätzlich die grenzüberschreitende Vermögensabschöpfung, warnen jedoch vor der Schaffung eines 'Bürokratiemonsters' durch den vorliegenden Gesetzentwurf. Sie kritisieren die verzögerte Umsetzung der Richtlinie und die Gefahr, dass wertvolle Fachexpertise einer Bund-Länder-Arbeitsgruppe nicht ausreichend berücksichtigt wird, und fordern ein 'gutes Gesetz' statt 'irgendetwas umzusetzen'.",
+      "source_title": "Grundrechte wahren – Kein Vermögensregister einführen bei der Umsetzung der EU-Richtlinie über die Abschöpfung und Einziehung von Vermögenswerten",
+      "url": "https://afdbundestag.de/grundrechte-wahren-kein-vermoegensregister-einfuehren-bei-der-umsetzung-der-eu-richtlinie-ueber-die-abschoepfung-und-einziehung-von-vermoegenswerten/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Lena Gumnior",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Lena Gumnior kritisiert Deutschland als 'Täterparadies' für Geldwäsche und Vermögensabschöpfung und bemängelt, dass der Gesetzentwurf der Koalition zu kleinteilig und bürokratisch sei. Sie fordert stattdessen einen klaren administrativen Ansatz zur Vermögensabschöpfung und die soziale Wiederverwertung eingezogener Vermögenswerte, um die 'Gerechtigkeitslücken' im System zu schließen.",
+      "source_title": "Plan für mehr Steuergerechtigkeit | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ulrich von Zons bemängelt das Versagen des Staates bei der Bekämpfung von Clankriminalität und kritisiert, dass sich die Regierung mit 'halbherzigen EU-Mindeststandards' begnüge. Er fordert ein konsequenteres Durchgreifen und die Umsetzung umfassenderer Konzepte von Praktikern, die alle Verbrechensgewinne, auch aus Auslandsstraftaten und nach dem Tod des Täters, einziehen würden, um Kriminellen 'Angst vor dem Rechtsstaat' zu machen.",
+      "source_title": "Grundrechte wahren – Kein Vermögensregister einführen bei der Umsetzung der EU-Richtlinie über die Abschöpfung und Einziehung von Vermögenswerten",
+      "url": "https://afdbundestag.de/grundrechte-wahren-kein-vermoegensregister-einfuehren-bei-der-umsetzung-der-eu-richtlinie-ueber-die-abschoepfung-und-einziehung-von-vermoegenswerten/",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die analysierten Abgeordneten zeigen außerhalb des Plenums eine konsistente Haltung zu den diskutierten Bahnprojekten, die ihre im Bundestag geäußerten Positionen untermauert oder vertieft. Während eine breite politische Unterstützung für die Vorhaben Dresden–Grenze Deutschland/Tschechien, Niebüll–Westerland und Augsburg–Ulm besteht, werden primär die Aspekte Finanzierung, Planungsdauer und die Berücksichtigung regionaler sowie technischer Details kritisch beleuchtet. Insbesondere die Marschbahn und die Sicherstellung ihrer Finanzierung sowie die gleichzeitige Elektrifizierung sind wiederkehrende externe Themen. Die Grünen fordern eine entschlossenere Finanzierung und Planung, während die AfD die Regierung für vermeintlich falsche Ausgaben kritisiert. Die Linke betont den Investitionsstau und soziale Aspekte im Zusammenhang mit der Marschbahn.",
+  "sources": [
+    {
+      "name": "Leif Erik Bodin",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bodin begrüßte die parlamentarische Befassung und betonte, dass der Ausbau der Marschbahn politisch beschlossen sei. Er unterstrich die Notwendigkeit der Sicherstellung der Finanzierung für die weiteren Realisierungsphasen. Er sprach sich zudem für die Stärkung der gesamten Bahninfrastruktur in der deutsch-dänischen Grenzregion aus und forderte EU-Förderungen für kleinere Infrastrukturprojekte.",
+      "source_title": "Marschbahn nimmt entscheidende Hürde im Bundestag / Stärkung der Bahninfrastruktur in Grenzregion",
+      "url": "https://www.cdu-nf.de/artikel/marschbahn-nimmt-entscheidende-huerde-im-bundestag",
+      "platform": "Website"
+    },
+    {
+      "name": "René Bochmann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bochmann hob auf seiner Webseite die große Bedeutung der Neubaustrecke Dresden–Prag hervor, insbesondere die Volltunnellösung zur Verbesserung von Güter- und Reiseverkehr sowie zur Entlastung von Mensch, Natur und Tourismus. Er forderte schnellere und effizientere Infrastrukturprojekte anstelle von Bürokratie und politischen Blockaden. Zuvor hatte er sich bereits für besseren Lärmschutz an dieser Strecke eingesetzt.",
+      "source_title": "Infrastruktur stärken – Sachsen besser verbinden! / René Bochmann on the preliminary planning of new rail lines!",
+      "url": "https://rene-bochmann.de/2026/05/27/infrastruktur-staerken-sachsen-besser-verbinden/",
+      "platform": "Website"
+    },
+    {
+      "name": "Anja Troff-Schaffarzyk",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als stellvertretende verkehrspolitische Sprecherin der SPD-Fraktion setzte sich Troff-Schaffarzyk für einen Interessenausgleich zwischen dem Schutz von Eisenbahninfrastruktur und kommunalen Interessen ein, beispielsweise im Wohnungsbau. Sie betonte die Wichtigkeit, das System 'Bahn' zukunftsfähig zu erhalten und wies auf die Kompromissfindung innerhalb der Koalition bei Bahnprojekten hin.",
+      "source_title": "Echter Interessenausgleich zwischen Wohnungsbau und Bahnflächen / „Weitere Verzögerung blockiert den Standort“",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/echter-interessenausgleich-zwischen-wohnungsbau-bahnflaechen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Matthias Gastel",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Einen Tag nach der Debatte kritisierte Gastel auf seiner Webseite, dass die Koalition Anträge der Grünen zur gleichzeitigen Elektrifizierung der Marschbahn und zur Überprüfung der Leistungsfähigkeit der Bahnknoten Ulm/Augsburg ablehnte. Er bemängelte zudem die mangelnde Finanzierung der Bahnprojekte trotz des Sondervermögens und forderte eine umfassende Bahnstrategie zur Sicherung der zukünftigen Investitionen.",
+      "source_title": "Bundestag mit Bekenntnis zu drei Aus- und Neubaustrecken der Bahn / Langfristige Kundenzufriedenheit durch Strukturreform",
+      "url": "https://www.matthias-gastel.de/bundestag-mit-bekenntnis-zu-drei-aus-und-neubaustrecken-der-bahn/",
+      "platform": "Website"
+    },
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Beutin bekräftigte auf seiner Webseite die Kritik am jahrzehntelangen Investitionsstau in der deutschen Verkehrspolitik und die unzureichenden Bahninvestitionen im europäischen Vergleich. Er forderte die sofortige Sicherstellung der Finanzierung für den Ausbau der Marschbahn und kritisierte die schleppende Planung. Zudem thematisierte er die sozialen Auswirkungen für Pendler auf Sylt und die dortigen hohen Mieten.",
+      "source_title": "Rede von Lorenz Gösta Beutin am 21.05.2026",
+      "url": "https://www.lorenz-goesta-beutin.de/2026/05/21/rede-von-lorenz-goesta-beutin-am-21-05-2026/",
+      "platform": "Website"
+    }
+  ]
+}

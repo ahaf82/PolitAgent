@@ -17,8 +17,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const protocolView = document.getElementById('protocol-view');
     const protocolContent = document.getElementById('protocol-content');
     const speakersContent = document.getElementById('speakers-content');
+    const documentsContent = document.getElementById('documents-content');
     const tabProtocol = document.getElementById('tab-protocol');
     const tabSpeakers = document.getElementById('tab-speakers');
+    const tabDocuments = document.getElementById('tab-documents');
     const externalYoutubeLink = document.getElementById('external-youtube-link');
     const backToListBtn = document.getElementById('back-to-list-btn');
     
@@ -70,24 +72,43 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Tab Switching
-    if (tabProtocol && tabSpeakers) {
+    if (tabProtocol && tabSpeakers && tabDocuments) {
         tabProtocol.addEventListener('click', () => {
             tabProtocol.classList.add('active');
             tabSpeakers.classList.remove('active');
+            tabDocuments.classList.remove('active');
             protocolContent.classList.remove('hidden');
-            speakersContent.classList.add('hidden');
+            if (speakersContent) speakersContent.classList.add('hidden');
+            if (documentsContent) documentsContent.classList.add('hidden');
         });
 
         tabSpeakers.addEventListener('click', () => {
             tabSpeakers.classList.add('active');
             tabProtocol.classList.remove('active');
+            tabDocuments.classList.remove('active');
             protocolContent.classList.add('hidden');
-            speakersContent.classList.remove('hidden');
+            if (speakersContent) speakersContent.classList.remove('hidden');
+            if (documentsContent) documentsContent.classList.add('hidden');
             
             // Render from cache
             const activeSession = sessionsData.find(s => s.id === activeSessionId);
             if (activeSession && activeSession.loadedSpeakersData) {
                 renderSpeakerStatements(activeSession.loadedSpeakersData);
+            }
+        });
+
+        tabDocuments.addEventListener('click', () => {
+            tabDocuments.classList.add('active');
+            tabProtocol.classList.remove('active');
+            tabSpeakers.classList.remove('active');
+            protocolContent.classList.add('hidden');
+            if (speakersContent) speakersContent.classList.add('hidden');
+            if (documentsContent) documentsContent.classList.remove('hidden');
+
+            // Render from cache
+            const activeSession = sessionsData.find(s => s.id === activeSessionId);
+            if (activeSession && activeSession.loadedDocumentsData) {
+                renderDocumentsData(activeSession.loadedDocumentsData);
             }
         });
     }
@@ -223,13 +244,17 @@ document.addEventListener('DOMContentLoaded', () => {
         activeSessionId = session.id;
         
         // Reset tabs to default (Protocol)
-        if (tabProtocol && tabSpeakers) {
+        if (tabProtocol && tabSpeakers && tabDocuments) {
             tabProtocol.classList.add('active');
             tabSpeakers.classList.remove('active');
+            tabDocuments.classList.remove('active');
             tabSpeakers.disabled = true;
+            tabDocuments.disabled = true;
             tabSpeakers.setAttribute('title', 'Vergleicht Aussagen der Redner außerhalb des Plenums (z. B. auf Social Media, Webseiten, Abgeordnetenwatch).');
+            tabDocuments.setAttribute('title', 'Zeigt offizielle Bundestags-Drucksachen und Abstimmungsergebnisse.');
             protocolContent.classList.remove('hidden');
             if (speakersContent) speakersContent.classList.add('hidden');
+            if (documentsContent) documentsContent.classList.add('hidden');
         }
 
         // Show loading spinner in content panel
@@ -296,6 +321,11 @@ document.addEventListener('DOMContentLoaded', () => {
             // Fetch speakers statements if available
             if (session.speakers_path) {
                 fetchSpeakersData(session);
+            }
+
+            // Fetch documents and voting data if available
+            if (session.documents_path) {
+                fetchDocumentsData(session);
             }
             
         } catch (error) {
@@ -486,6 +516,202 @@ document.addEventListener('DOMContentLoaded', () => {
             document.querySelectorAll('.session-card').forEach(c => c.classList.remove('active'));
         });
     }
+
+    // Fetch documents and voting data from JSON
+    const fetchDocumentsData = async (session) => {
+        try {
+            // If already cached, reuse
+            if (session.loadedDocumentsData) {
+                if (tabDocuments && activeSessionId === session.id) {
+                    tabDocuments.disabled = false;
+                    tabDocuments.setAttribute('title', 'Zeigt offizielle Bundestags-Drucksachen und Abstimmungsergebnisse.');
+                }
+                return;
+            }
+
+            const response = await fetch(session.documents_path);
+            if (!response.ok) {
+                throw new Error("Fehler beim Laden der Dokumenten-Daten.");
+            }
+            const data = await response.json();
+            
+            session.loadedDocumentsData = data;
+            if (tabDocuments && activeSessionId === session.id) {
+                tabDocuments.disabled = false;
+                tabDocuments.setAttribute('title', 'Zeigt offizielle Bundestags-Drucksachen und Abstimmungsergebnisse.');
+            }
+        } catch (error) {
+            console.warn('Konnte Dokumenten-Daten nicht laden:', error);
+            if (tabDocuments && activeSessionId === session.id) {
+                tabDocuments.disabled = true;
+                tabDocuments.setAttribute('title', 'Keine Dokumenten-Daten für diese Sitzung vorhanden.');
+            }
+        }
+    };
+
+    // Render documents and voting tab contents
+    const renderDocumentsData = (docData) => {
+        if (!documentsContent) return;
+        
+        documentsContent.innerHTML = '';
+        
+        // 1. Documents Section
+        const docsSection = document.createElement('div');
+        docsSection.className = 'documents-section';
+        
+        const docsHeader = document.createElement('h3');
+        docsHeader.innerHTML = `<i class="fa-solid fa-file-pdf"></i> Offizielle Bundestags-Drucksachen`;
+        docsSection.appendChild(docsHeader);
+        
+        const docs = docData.documents || [];
+        if (docs.length === 0) {
+            const emptyDocs = document.createElement('p');
+            emptyDocs.className = 'empty-documents';
+            emptyDocs.textContent = 'Für diese Debatte wurden keine spezifischen Drucksachen erfasst.';
+            docsSection.appendChild(emptyDocs);
+        } else {
+            const gridDiv = document.createElement('div');
+            gridDiv.className = 'documents-grid';
+            
+            docs.forEach(doc => {
+                const card = document.createElement('div');
+                card.className = 'document-card';
+                
+                const hasUrl = doc.url && doc.url !== 'N/A';
+                
+                card.innerHTML = `
+                    <div class="document-badge">${doc.type || 'Drucksache'}</div>
+                    <h4 class="document-title">${doc.title || 'Ohne Titel'}</h4>
+                    <span class="document-number">${doc.number || 'Drucksache'}</span>
+                    <div class="document-actions">
+                        ${hasUrl ? `
+                            <a href="${doc.url}" target="_blank" class="document-download-btn">
+                                <i class="fa-solid fa-file-arrow-down"></i> PDF / Suche anzeigen
+                            </a>
+                        ` : `
+                            <button class="document-download-btn" disabled>
+                                <i class="fa-solid fa-ban"></i> Nicht verfügbar
+                            </button>
+                        `}
+                    </div>
+                `;
+                gridDiv.appendChild(card);
+            });
+            docsSection.appendChild(gridDiv);
+        }
+        documentsContent.appendChild(docsSection);
+        
+        // 2. Voting / Decision Section
+        const votingSection = document.createElement('div');
+        votingSection.className = 'voting-section';
+        
+        const votingHeader = document.createElement('h3');
+        votingHeader.innerHTML = `<i class="fa-solid fa-box-archive"></i> Abstimmung & Beschluss`;
+        votingSection.appendChild(votingHeader);
+        
+        const voting = docData.voting || {};
+        
+        if (voting.has_namentliche_abstimmung) {
+            const votingCard = document.createElement('div');
+            votingCard.className = 'voting-card';
+            
+            // Determine badge for outcome
+            const isApproved = (voting.decision_text || '').toLowerCase().includes('angenommen');
+            const resultBadgeClass = isApproved ? 'badge-approved' : 'badge-rejected';
+            const resultBadgeText = isApproved ? 'Angenommen' : 'Abgelehnt';
+            
+            const overall = voting.overall_result || { ja: 0, nein: 0, enthaltung: 0, nicht_abgegeben: 0 };
+            const jaVal = parseInt(overall.ja) || 0;
+            const neinVal = parseInt(overall.nein) || 0;
+            const enthVal = parseInt(overall.enthaltung) || 0;
+            const totalVal = jaVal + neinVal + enthVal;
+            
+            // Percentages
+            const jaPct = totalVal > 0 ? ((jaVal / totalVal) * 100).toFixed(1) : 0;
+            const neinPct = totalVal > 0 ? ((neinVal / totalVal) * 100).toFixed(1) : 0;
+            const enthPct = totalVal > 0 ? ((enthVal / totalVal) * 100).toFixed(1) : 0;
+            
+            votingCard.innerHTML = `
+                <div class="voting-card-header">
+                    <span class="voting-badge ${resultBadgeClass}">Namentliche Abstimmung: ${resultBadgeText}</span>
+                    <p class="decision-desc">${voting.decision_text || ''}</p>
+                </div>
+                
+                <div class="voting-visualization">
+                    <h4>Gesamtergebnis</h4>
+                    <div class="vote-bar">
+                        ${jaVal > 0 ? `<div class="vote-part ja" style="width: ${jaPct}%" title="Ja: ${jaVal} (${jaPct}%)"></div>` : ''}
+                        ${neinVal > 0 ? `<div class="vote-part nein" style="width: ${neinPct}%" title="Nein: ${neinVal} (${neinPct}%)"></div>` : ''}
+                        ${enthVal > 0 ? `<div class="vote-part enthaltung" style="width: ${enthPct}%" title="Enthaltung: ${enthVal} (${enthPct}%)"></div>` : ''}
+                    </div>
+                    
+                    <div class="vote-legend">
+                        <span class="legend-item ja"><i class="fa-solid fa-circle"></i> Ja: <strong>${jaVal}</strong> (${jaPct}%)</span>
+                        <span class="legend-item nein"><i class="fa-solid fa-circle"></i> Nein: <strong>${neinVal}</strong> (${neinPct}%)</span>
+                        <span class="legend-item enthaltung"><i class="fa-solid fa-circle"></i> Enthaltung: <strong>${enthVal}</strong> (${enthPct}%)</span>
+                    </div>
+                </div>
+                
+                <div class="faction-breakdown">
+                    <h4>Abstimmungsverhalten nach Fraktionen</h4>
+                    <div class="factions-grid">
+                        ${(voting.faction_results || []).map(f => {
+                            const fJa = parseInt(f.ja) || 0;
+                            const fNein = parseInt(f.nein) || 0;
+                            const fEnth = parseInt(f.enthaltung) || 0;
+                            const fTotal = fJa + fNein + fEnth;
+                            const fJaPct = fTotal > 0 ? ((fJa / fTotal) * 100).toFixed(0) : 0;
+                            const fNeinPct = fTotal > 0 ? ((fNein / fTotal) * 100).toFixed(0) : 0;
+                            const fEnthPct = fTotal > 0 ? ((fEnth / fTotal) * 100).toFixed(0) : 0;
+                            
+                            return `
+                                <div class="faction-vote-card ${getPartyClass(f.faction)}">
+                                    <div class="faction-vote-header">
+                                        <h5>${f.faction}</h5>
+                                    </div>
+                                    <div class="faction-vote-body">
+                                        <div class="faction-vote-stats">
+                                            <span class="f-stat ja">Ja: <strong>${fJa}</strong></span>
+                                            <span class="f-stat nein">Nein: <strong>${fNein}</strong></span>
+                                            <span class="f-stat enth">Enth.: <strong>${fEnth}</strong></span>
+                                        </div>
+                                        <div class="vote-bar small-bar">
+                                            ${fJa > 0 ? `<div class="vote-part ja" style="width: ${fJaPct}%" title="Ja: ${fJaPct}%"></div>` : ''}
+                                            ${fNein > 0 ? `<div class="vote-part nein" style="width: ${fNeinPct}%" title="Nein: ${fNeinPct}%"></div>` : ''}
+                                            ${fEnth > 0 ? `<div class="vote-part enthaltung" style="width: ${fEnthPct}%" title="Enth.: ${fEnthPct}%"></div>` : ''}
+                                        </div>
+                                    </div>
+                                </div>
+                            `;
+                        }).join('')}
+                    </div>
+                </div>
+                
+                ${voting.official_voting_url && voting.official_voting_url !== 'N/A' ? `
+                    <div class="voting-card-footer">
+                        <a href="${voting.official_voting_url}" target="_blank" class="voting-link-btn">
+                            <i class="fa-solid fa-circle-info"></i> Detailliertes Einzelergebnis auf bundestag.de
+                        </a>
+                    </div>
+                ` : ''}
+            `;
+            votingSection.appendChild(votingCard);
+        } else {
+            // General decision text only
+            const decisionCard = document.createElement('div');
+            decisionCard.className = 'decision-card';
+            decisionCard.innerHTML = `
+                <div class="decision-badge">Normales Verfahren / Beschluss</div>
+                <p class="decision-desc-text">${voting.decision_text || 'Es wurde kein spezifischer Beschluss aufgezeichnet.'}</p>
+            `;
+            votingSection.appendChild(decisionCard);
+        }
+        
+        documentsContent.appendChild(votingSection);
+        
+        // Scroll back to top
+        documentsContent.scrollTop = 0;
+    };
 
     // Initialize Page
     initTheme();

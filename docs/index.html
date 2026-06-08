@@ -117,6 +117,7 @@
                     <div class="tabs-container">
                         <button class="tab-btn active" id="tab-protocol"><i class="fa-solid fa-scale-balanced"></i> Neutrales Protokoll</button>
                         <button class="tab-btn" id="tab-speakers" title="Vergleicht Aussagen der Redner außerhalb des Plenums (z. B. auf Social Media, Webseiten, Abgeordnetenwatch)." disabled><i class="fa-solid fa-comments"></i> Abgeordneten-Stimmen</button>
+                        <button class="tab-btn" id="tab-documents" title="Zeigt offizielle Bundestags-Drucksachen und Abstimmungsergebnisse." disabled><i class="fa-solid fa-file-invoice"></i> Dokumente & Abstimmungen</button>
                     </div>
                     <div class="tab-content-wrapper">
                         <div id="protocol-content" class="markdown-body">
@@ -124,6 +125,9 @@
                         </div>
                         <div id="speakers-content" class="speakers-container hidden">
                             <!-- Dynamically generated speaker cards dashboard -->
+                        </div>
+                        <div id="documents-content" class="documents-container hidden">
+                            <!-- Dynamically generated documents and voting results dashboard -->
                         </div>
                     </div>
                 </div>

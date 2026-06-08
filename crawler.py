@@ -465,6 +465,9 @@ def update_sessions_index(index_path, new_session):
         # Keep speakers_path if it exists in the old session but is not defined in the new one
         if 'speakers_path' in sessions[existing_index] and 'speakers_path' not in new_session:
             new_session['speakers_path'] = sessions[existing_index]['speakers_path']
+        # Keep documents_path if it exists in the old session but is not defined in the new one
+        if 'documents_path' in sessions[existing_index] and 'documents_path' not in new_session:
+            new_session['documents_path'] = sessions[existing_index]['documents_path']
         sessions[existing_index] = new_session
         print(f"Aktualisiere bestehenden Eintrag für Video {new_session['id']} im Index.")
     else:
@@ -495,6 +498,299 @@ def save_sessions_index(index_path, sessions):
             json.dump(sessions, f, indent=2, ensure_ascii=False)
     except Exception as e:
         print(f"Fehler beim Schreiben des Sessions-Index: {e}")
+
+def robust_json_loads(text):
+    """
+    Robustly parses JSON from text, extracting the first dictionary-like structure
+    and falling back to common cleaning methods or ast.literal_eval if standard json.loads fails.
+    """
+    text = text.strip()
+    start_idx = text.find('{')
+    end_idx = text.rfind('}')
+    if start_idx == -1 or end_idx == -1 or end_idx <= start_idx:
+        raise ValueError("Keine JSON-Struktur (Klammern) im Text gefunden.")
+        
+    extracted_text = text[start_idx:end_idx+1]
+    
+    # 1. Try standard JSON parse
+    try:
+        return json.loads(extracted_text)
+    except json.JSONDecodeError as standard_err:
+        # 2. Try ast.literal_eval for single-quoted Python dict-like output
+        import ast
+        try:
+            # ast.literal_eval parses Python dict literals (e.g. {'key': 'value', 'bool': True})
+            # JSON might have true/false/null which ast needs as True/False/None
+            cleaned = extracted_text
+            cleaned = re.sub(r'\btrue\b', 'True', cleaned)
+            cleaned = re.sub(r'\bfalse\b', 'False', cleaned)
+            cleaned = re.sub(r'\bnull\b', 'None', cleaned)
+            
+            parsed_dict = ast.literal_eval(cleaned)
+            if isinstance(parsed_dict, dict):
+                print("JSON erfolgreich mit ast.literal_eval geparst.")
+                return parsed_dict
+        except Exception as ast_err:
+            print(f"ast.literal_eval Fallback ebenfalls fehlgeschlagen: {ast_err}")
+            
+        raise standard_err
+
+def generate_session_documents(client, title, date, session, top, transcript_text):
+    """
+    Identifies the Bundestag Drucksachen (documents) mentioned in the transcript,
+    finds their official PDF or info URLs, and checks if a namentliche Abstimmung took place.
+    If so, gathers the voting results (Ja, Nein, Enthaltung) overall and per faction.
+    """
+    if not client:
+        return None
+        
+    print(f"Führe Google Search Grounding Dokumenten- und Abstimmungs-Analyse durch für '{title}' ({date})...")
+    
+    prompt = f"""
+    Analysiere das beigefügte Protokoll der Bundestagsdebatte vom {date} zum Thema '{title}'.
+    
+    **Deine Aufgaben:**
+    1. Identifiziere alle in der Debatte erwähnten offiziellen Bundestags-Drucksachen (z. B. im Format 'Drucksache 20/12345' oder '21/4463').
+    2. Suche im Internet nach den genauen Titeln dieser Drucksachen und ihren URLs auf bundestag.de (bevorzugt direkte PDF-Links von dserver.bundestag.de).
+       - *Hinweis:* Der Link zur Drucksache 21/4463 lautet: https://dserver.bundestag.de/btd/21/044/2104463.pdf. Du kannst diese Struktur nutzen, um Links zu generieren.
+    3. Ermittle, ob es zu dieser Debatte an diesem Tag eine \"namentliche Abstimmung\" im Bundestag gab.
+    4. Falls eine namentliche Abstimmung stattfand:
+       - Ermittle das Gesamtergebnis (Anzahl der Stimmen für Ja, Nein, Enthaltung, Nicht abgegeben/Ungültig).
+       - Ermittle das Ergebnis aufgeteilt nach den einzelnen Fraktionen (SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP, AfD, Die Linke, BSW, Fraktionslos).
+       - Suche den offiziellen Link zur Abstimmungsseite auf bundestag.de (z. B. unter https://www.bundestag.de/abstimmung).
+    5. Falls KEINE namentliche Abstimmung stattfand (oder du keine Daten dazu findest):
+       - Ermittle den Beschluss oder den Verfahrensstand aus dem Protokoll (z. B. \"Die Vorlage wurde an den Ausschuss für Arbeit und Soziales überwiesen\" oder \"Der Antrag wurde mit den Stimmen der Koalitionsmehrheit abgelehnt\").
+    
+    Gib das Ergebnis AUSSCHLIESSLICH als gültiges JSON-Objekt zurück. Schreibe keine Erklärungen, einleitenden Text oder Markdown-Blöcke außerhalb des JSON (kein ```json). Das JSON muss exakt der folgenden Struktur entsprechen:
+    {{
+      "documents": [
+        {{
+          "number": "Drucksache 20/XXXXX" oder "Drucksache 21/XXXXX",
+          "title": "Offizieller Titel der Drucksache (z. B. 'Gesetzentwurf der Bundesregierung...')",
+          "url": "Der direkte Link zur PDF-Datei auf dserver.bundestag.de oder die Suchseite auf dip.bundestag.de. Wenn nicht auffindbar, setze 'N/A'.",
+          "type": "Gesetzentwurf" | "Antrag" | "Beschlussempfehlung" | "Unterrichtung" | "Anderes"
+        }}
+      ],
+      "voting": {{
+        "has_namentliche_abstimmung": true | false,
+        "decision_text": "Eine sachliche Beschreibung des Beschlusses bzw. Verfahrensstands der Debatte (1-2 Sätze).",
+        "official_voting_url": "Die offizielle URL auf bundestag.de zur namentlichen Abstimmung. Wenn keine namentliche Abstimmung vorliegt, setze 'N/A'.",
+        "overall_result": {{
+          "ja": 123,
+          "nein": 45,
+          "enthaltung": 6,
+          "nicht_abgegeben": 7
+        }},
+        "faction_results": [
+          {{
+            "faction": "SPD" | "CDU/CSU" | "Bündnis 90/Die Grünen" | "FDP" | "AfD" | "Die Linke" | "BSW" | "Fraktionslos",
+            "ja": 100,
+            "nein": 0,
+            "enthaltung": 2,
+            "nicht_abgegeben": 1
+          }}
+        ]
+      }}
+    }}
+    
+    Befülle das JSON sorgfältig. Falls keine Drucksachen erwähnt wurden, gib ein leeres Array für 'documents' zurück. Falls keine namentliche Abstimmung stattfand, setze 'has_namentliche_abstimmung' auf false und setze 'overall_result' und 'faction_results' auf null oder leere Listen/Objekte.
+    
+    Hier ist das Protokoll der Sitzung:
+    {transcript_text[:12000]}
+    """
+    
+    try:
+        from google.genai import types
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction="Du bist ein hochpräziser parlamentarischer Analyst des Deutschen Bundestags, der offizielle Dokumente und Abstimmungen ermittelt und das Ergebnis als JSON ausgibt.",
+                tools=[{"google_search": {}}]
+            )
+        )
+        text = response.text.strip()
+        
+        start_idx = text.find('{')
+        end_idx = text.rfind('}')
+        json_data = robust_json_loads(text)
+        return json_data
+    except Exception as e:
+        print(f"Fehler bei der Dokumenten- und Abstimmungs-Analyse mit Gemini: {e}")
+        return None
+
+def verify_and_format_documents(doc_json):
+    """
+    Checks all document URLs and voting URLs in doc_json.
+    Verifies that they exist and return 200/300.
+    If a document PDF URL fails or returns 404, we replace it with a DIP search URL.
+    """
+    if not doc_json:
+        return
+        
+    import re
+    import requests
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+    
+    # Verify documents URLs
+    for doc in doc_json.get('documents', []):
+        num_str = doc.get('number', '')
+        # Try to parse WP and Doc Number
+        match = re.search(r'(\d{2})\/(\d{1,5})', num_str)
+        if match:
+            wp = match.group(1)
+            num = match.group(2)
+            padded_num = num.zfill(5)
+            first_three = padded_num[:3]
+            pdf_url = f"https://dserver.bundestag.de/btd/{wp}/{first_three}/{wp}{num}.pdf"
+            
+            try:
+                r = requests.get(pdf_url, headers=headers, timeout=5, stream=True)
+                if r.status_code < 400:
+                    doc['url'] = pdf_url
+                    print(f"Drucksachen-PDF verifiziert: {pdf_url}")
+                else:
+                    fallback_url = f"https://dip.bundestag.de/suche?q=Drucksache%20{wp}/{num}"
+                    doc['url'] = fallback_url
+                    print(f"Drucksachen-PDF nicht verfuegbar ({r.status_code}), weiche auf DIP aus: {fallback_url}")
+            except Exception as e:
+                fallback_url = f"https://dip.bundestag.de/suche?q=Drucksache%20{wp}/{num}"
+                doc['url'] = fallback_url
+                print(f"Fehler bei Drucksachen-Verifikation ({e}), weiche auf DIP aus: {fallback_url}")
+        else:
+            url = doc.get('url', 'N/A')
+            if url and url != 'N/A' and url.startswith('http'):
+                try:
+                    r = requests.get(url, headers=headers, timeout=5, stream=True)
+                    if r.status_code >= 400:
+                        doc['url'] = 'N/A'
+                except:
+                    doc['url'] = 'N/A'
+                    
+    # Verify voting URL
+    voting = doc_json.get('voting', {})
+    if voting:
+        vote_url = voting.get('official_voting_url', 'N/A')
+        if vote_url and vote_url != 'N/A' and vote_url.startswith('http'):
+            try:
+                r = requests.get(vote_url, headers=headers, timeout=5, stream=True)
+                if r.status_code >= 400:
+                    print(f"Abstimmungs-URL fehlerhaft ({r.status_code}): {vote_url}")
+                    voting['official_voting_url'] = 'N/A'
+            except Exception as e:
+                print(f"Fehler bei Abstimmungs-URL-Verifikation: {e}")
+                voting['official_voting_url'] = 'N/A'
+
+def run_retroactive_documents_analysis(client, index_path, docs_dir, max_process=3):
+    """
+    Runs retroactive document and voting analysis for recent sessions.
+    """
+    if not client:
+        print("Kein Gemini-Client vorhanden. Überspringe retroaktive Dokumenten-Analyse.")
+        return
+
+    if not os.path.exists(index_path):
+        print("Indexdatei existiert nicht. Überspringe Dokumenten-Analyse.")
+        return
+
+    try:
+        with open(index_path, 'r', encoding='utf-8') as f:
+            sessions = json.load(f)
+    except Exception as e:
+        print(f"Fehler beim Laden des Index für Dokumenten-Analyse: {e}")
+        return
+
+    now = datetime.now()
+    sessions_to_update = []
+
+    for s in sessions:
+        date_str = s.get('date', 'N/A')
+        is_recent = False
+        if date_str != 'N/A':
+            try:
+                session_date = datetime.strptime(date_str, "%Y-%m-%d")
+                if (now - session_date).days <= 14:  # up to 14 days ago
+                    is_recent = True
+            except:
+                pass
+        
+        has_docs = s.get('documents_path') is not None
+        
+        if not has_docs:
+            priority = 2 if is_recent else 1
+            sessions_to_update.append((priority, s))
+
+    # Sort by priority desc (recent first) and date desc
+    def get_sort_key(item):
+        priority, s = item
+        date_str = s.get('date', '0000-00-00')
+        if date_str == 'N/A' or not date_str:
+            date_str = '0000-00-00'
+        return (priority, date_str)
+    
+    sessions_to_update.sort(key=get_sort_key, reverse=True)
+    
+    # Process up to max_process
+    targets = [s for _, s in sessions_to_update[:max_process]]
+    if not targets:
+        print("Keine Sitzungen für retroaktive Dokumenten-Analyse gefunden.")
+        return
+
+    print(f"Starte retroaktive Dokumenten-Analyse für {len(targets)} Sitzungen...")
+    
+    for s in targets:
+        summary_path = s.get('summary_path')
+        if not summary_path:
+            continue
+            
+        absolute_protocol_path = os.path.join(docs_dir, summary_path)
+        if not os.path.exists(absolute_protocol_path):
+            print(f"Protokolldatei fehlt: {summary_path}")
+            continue
+            
+        try:
+            with open(absolute_protocol_path, 'r', encoding='utf-8') as f:
+                protocol_text = f.read()
+        except Exception as e:
+            print(f"Konnte Protokolldatei nicht lesen: {e}")
+            continue
+            
+        base, ext = os.path.splitext(summary_path)
+        relative_docs_path = f"{base}_documents.json"
+        absolute_docs_path = os.path.join(docs_dir, relative_docs_path)
+        
+        doc_json = generate_session_documents(
+            client, 
+            s.get('topic') or s.get('title'), 
+            s.get('date'), 
+            s.get('session'),
+            s.get('top'),
+            protocol_text
+        )
+        
+        if doc_json:
+            verify_and_format_documents(doc_json)
+            
+            try:
+                os.makedirs(os.path.dirname(absolute_docs_path), exist_ok=True)
+                with open(absolute_docs_path, 'w', encoding='utf-8') as f:
+                    json.dump(doc_json, f, indent=2, ensure_ascii=False)
+                print(f"Dokumente & Abstimmungen erfolgreich gespeichert unter: {relative_docs_path}")
+                
+                # Update session object in our loaded list
+                s['documents_path'] = relative_docs_path
+                
+                # Save index incrementally
+                save_sessions_index(index_path, sessions)
+            except Exception as e:
+                print(f"Fehler beim Schreiben der Dokumenten-JSON für {s['id']}: {e}")
+        else:
+            print(f"Dokumenten-Analyse für {s['id']} fehlgeschlagen oder keine Ergebnisse.")
+            
+        # Small delay between calls to respect API limits
+        time.sleep(5)
 
 def generate_speaker_statements(client, title, date, video_url, transcript_text):
     """
@@ -555,10 +851,7 @@ def generate_speaker_statements(client, title, date, video_url, transcript_text)
         # Robustly extract JSON object between first '{' and last '}'
         start_idx = text.find('{')
         end_idx = text.rfind('}')
-        if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
-            text = text[start_idx:end_idx+1]
-            
-        json_data = json.loads(text)
+        json_data = robust_json_loads(text)
         return json_data
     except Exception as e:
         print(f"Fehler bei der Abgeordneten-Stimmen-Analyse mit Gemini: {e}")
@@ -809,6 +1102,7 @@ def main():
     parser.add_argument("--max-videos", type=int, default=300, help="Maximale Anzahl der zu prüfenden YouTube-Videos.")
     parser.add_argument("--max-process", type=int, default=10, help="Maximale Anzahl der in diesem Durchlauf zu verarbeitenden Videos (schützt Quota).")
     parser.add_argument("--max-speakers-process", type=int, default=3, help="Maximale Anzahl der retroaktiv zu analysierenden Sitzungen für Abgeordneten-Stimmen.")
+    parser.add_argument("--max-documents-process", type=int, default=3, help="Maximale Anzahl der retroaktiv zu analysierenden Sitzungen für Dokumente & Abstimmungen.")
     parser.add_argument("--force-video", type=str, default=None, help="Erzwinge die Verarbeitung einer bestimmten YouTube Video-ID.")
     args = parser.parse_args()
 
@@ -983,6 +1277,34 @@ def main():
                 print(f"Fehler beim Schreiben des Protokolls für {v['id']}: {e}")
                 continue
 
+            # 3b. Generate session documents
+            relative_docs_path = None
+            if client:
+                base, ext = os.path.splitext(relative_protocol_path)
+                relative_docs_path = f"{base}_documents.json"
+                absolute_docs_path = os.path.join(docs_dir, relative_docs_path)
+                
+                doc_json = generate_session_documents(
+                    client,
+                    v['title'],
+                    v['date'],
+                    v['session'],
+                    v['top'],
+                    summary_markdown
+                )
+                if doc_json:
+                    verify_and_format_documents(doc_json)
+                    try:
+                        os.makedirs(os.path.dirname(absolute_docs_path), exist_ok=True)
+                        with open(absolute_docs_path, 'w', encoding='utf-8') as f:
+                            json.dump(doc_json, f, indent=2, ensure_ascii=False)
+                        print(f"Dokumente & Abstimmungen gespeichert unter: {relative_docs_path}")
+                    except Exception as e:
+                        print(f"Fehler beim Schreiben der Dokumente-JSON: {e}")
+                        relative_docs_path = None
+                else:
+                    relative_docs_path = None
+
             # 4. Update index database
             session_entry = {
                 "id": v['id'],
@@ -992,6 +1314,7 @@ def main():
                 "top": v['top'],
                 "topic": v['topic'],
                 "summary_path": relative_protocol_path,
+                "documents_path": relative_docs_path,
                 "youtube_url": v['url'],
                 "processed_at": datetime.now().isoformat()
             }
@@ -1009,7 +1332,10 @@ def main():
     # Run retroactive speaker statements analysis (configurable to protect quota)
     run_retroactive_speaker_analysis(client, index_path, docs_dir, max_process=args.max_speakers_process)
     
-    print("\n=== PolitAgent Crawler & Abgeordneten-Analyse beendet. ===")
+    # Run retroactive documents and voting analysis
+    run_retroactive_documents_analysis(client, index_path, docs_dir, max_process=args.max_documents_process)
+    
+    print("\n=== PolitAgent Crawler & Abgeordneten- und Dokumenten-Analyse beendet. ===")
 
 if __name__ == "__main__":
     main()
