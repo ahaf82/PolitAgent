@@ -48,7 +48,8 @@
     "summary_path": "protocols/session_81/29_erhalt_des_gaskraftwerks_am_standort_lubmin.md",
     "youtube_url": "https://www.youtube.com/watch?v=yGKHD8vLsGg",
     "processed_at": "2026-06-01T18:43:10.014442",
-    "speakers_path": "protocols/session_81/29_erhalt_des_gaskraftwerks_am_standort_lubmin_speakers.json"
+    "speakers_path": "protocols/session_81/29_erhalt_des_gaskraftwerks_am_standort_lubmin_speakers.json",
+    "documents_path": "protocols/session_81/29_erhalt_des_gaskraftwerks_am_standort_lubmin_documents.json"
   },
   {
     "id": "MsRp2Ie2O1k",
@@ -60,7 +61,8 @@
     "summary_path": "protocols/session_81/28_zp_12_jahresabruestungsberichte_2024_und_2025.md",
     "youtube_url": "https://www.youtube.com/watch?v=MsRp2Ie2O1k",
     "processed_at": "2026-06-01T18:42:12.612203",
-    "speakers_path": "protocols/session_81/28_zp_12_jahresabruestungsberichte_2024_und_2025_speakers.json"
+    "speakers_path": "protocols/session_81/28_zp_12_jahresabruestungsberichte_2024_und_2025_speakers.json",
+    "documents_path": "protocols/session_81/28_zp_12_jahresabruestungsberichte_2024_und_2025_documents.json"
   },
   {
     "id": "kMDwOMwpvUU",
@@ -72,7 +74,8 @@
     "summary_path": "protocols/session_81/27_global_hunger_crisis.md",
     "youtube_url": "https://www.youtube.com/watch?v=kMDwOMwpvUU",
     "processed_at": "2026-06-05T15:32:30.182581",
-    "speakers_path": "protocols/session_81/27_global_hunger_crisis_speakers.json"
+    "speakers_path": "protocols/session_81/27_global_hunger_crisis_speakers.json",
+    "documents_path": "protocols/session_81/27_global_hunger_crisis_documents.json"
   },
   {
     "id": "n7BA1cQg15A",
@@ -191,7 +194,8 @@
     "topic": "Änderung des Luftverkehrsteuergesetzes",
     "summary_path": "protocols/session_80/14_aenderung_des_luftverkehrsteuergesetzes.md",
     "youtube_url": "https://www.youtube.com/watch?v=JjbrYYC6y8w",
-    "processed_at": "2026-06-01T18:45:31.070136"
+    "processed_at": "2026-06-01T18:45:31.070136",
+    "speakers_path": "protocols/session_80/14_aenderung_des_luftverkehrsteuergesetzes_speakers.json"
   },
   {
     "id": "89TSUmwQOu8",

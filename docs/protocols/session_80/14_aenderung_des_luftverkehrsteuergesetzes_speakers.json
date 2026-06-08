@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zur Änderung des Luftverkehrsteuergesetzes zeigte eine klare Spaltung der Positionen, die sich auch in den externen Äußerungen der Abgeordneten widerspiegelt. Befürworter der Steuersenkung, wie Ingo Vogel (SPD) und Björn Simon (CDU/CSU), betonten außerhalb des Plenums die Notwendigkeit, den deutschen Luftverkehrsstandort zu stärken, Arbeitsplätze zu sichern und die internationale Wettbewerbsfähigkeit wiederherzustellen, indem die Luftfahrt als kritische Infrastruktur entlastet wird. Kritiker wie Hauke Finger (AfD) forderten eine vollständige Abschaffung der Steuer, da die vorgenommene Senkung zu gering sei und Deutschland im internationalen Vergleich weiterhin benachteilige. Sascha Müller (Bündnis 90/Die Grünen) und Doris Achelwilm (Die Linke) lehnten die Senkung ab und forderten stattdessen eine Reform nach dem Verursacherprinzip, eine stärkere Besteuerung von Premium- und Privatflügen und die Einbeziehung von Klimaaspekten, wobei Achelwilm zusätzlich die Subventionierung der Flugbranche und die Belastung des Verkehrsetats kritisierte.",
+  "sources": [
+    {
+      "name": "Ingo Vogel",
+      "party": "SPD",
+      "found": true,
+      "statement": "Ingo Vogel bekräftigte außerhalb des Bundestages, dass die Senkung der Luftverkehrsteuer ein richtiger und notwendiger Schritt sei, um den Luftverkehrsstandort Deutschland zu stärken und die Wirtschaft sowie Arbeitsplätze zu sichern. Er hob hervor, dass Flughäfen wirtschaftliche Knotenpunkte sind und die Absenkung der Steuer die Wettbewerbsfähigkeit Deutschlands im Vergleich zu anderen europäischen Ländern verbessern soll, wo das Flugangebot zurückgegangen ist.",
+      "source_title": "Gesetzentwurf zur Senkung der Luftverkehrsteuer beraten",
+      "url": "https://www.bundestag.de/resource/blob/1011504/Unaufgeforderte-Stellungnahme-von-Global-Fusion-Programme-CATF-.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Hauke Finger",
+      "party": "AfD",
+      "found": false,
+      "statement": "Hauke Finger kritisierte die beschlossene Senkung der Luftverkehrsteuer als 'viel zu spät und viel zu wenig' und forderte weiterhin deren vollständige Abschaffung. Er argumentierte extern, dass die Steuer dem Wirtschaftsstandort Deutschland massiv schade, zur Abwanderung von Kapazitäten und Arbeitsplätzen führe und Deutschland im europäischen Vergleich nicht wettbewerbsfähig mache.",
+      "source_title": "Mini-Senkung der Luftverkehrsteuer reicht nicht aus",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Björn Simon",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Björn Simon betonte in externen Mitteilungen, dass die Reduzierung der Luftverkehrsteuer eine gezielte Entlastung und ein wichtiger Schritt zur Stärkung des Luftverkehrsstandorts Deutschland sei. Er wies darauf hin, dass Deutschland im Vergleich zu Nachbarländern ein Hochkostenstandort geworden sei, was zur Verlagerung von Kapazitäten und dem Verlust von Arbeitsplätzen führe. Die Maßnahme soll die Konnektivität und Standortqualität sichern.",
+      "source_title": "Luftverkehrsstandort Deutschland stärken",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sascha Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sascha Müller plädierte extern für eine Reform der Luftverkehrsteuer nach dem Verursacherprinzip, anstatt pauschal zu subventionieren. Er schlägt vor, Privatjets in die Steuer einzubeziehen, besonders klimaschädliche Premiumflüge stärker zu besteuern und eine zusätzliche Distanzklasse für sehr lange Flugstrecken einzuführen. Zudem forderte er die Bundesregierung auf, der von Frankreich angeführten internationalen Allianz zur Besteuerung von Premiumflügen beizutreten.",
+      "source_title": "Kosten gerecht verteilen statt pauschal zu subventionieren",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Doris Achelwilm kritisierte die Senkung der Luftverkehrsteuer extern als 'Geschenke für Airlines gegen die Vernunft' und als 'Kerosinrabatt', der weder Wirtschaftsdruck nennenswert entlastet noch Fluggästen zugutekommt. Sie hob hervor, dass Flüge weiterhin hochsubventioniert seien, Kerosin steuerfrei bleibe und forderte eine Vielfliegersteuer sowie höhere Preise für die Business Class, um soziale und klimagerechte Lösungen zu finden.",
+      "source_title": "Bundestagsrede // Geschenke für Airlines gegen die Vernunft",
+      "url": "https://doris-achelwilm.de/aktuelles/bundestagsrede-geschenke-fuer-airlines-gegen-die-vernunft/",
+      "platform": "Website"
+    }
+  ]
+}
