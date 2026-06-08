@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Reaktionen und Positionen der identifizierten Abgeordneten nach der Befragung des Bundeskanzlers spiegelten mehrheitlich die bereits im Plenum geäußerten Standpunkte wider. Sebastian Roloff (SPD) bekräftigte außerhalb des Bundestages seine Forderungen nach konkreten Entlastungsmaßnahmen für Bürger angesichts hoher Energiepreise, insbesondere durch eine höhere Pendlerpauschale und die Einführung einer Übergewinnsteuer. Janine Wissler (Die Linke) setzte sich ebenfalls konsequent für eine Übergewinnsteuer für Mineralölkonzerne ein und schlug weitere Entlastungen wie ein Energiekrisengeld und das 9-Euro-Ticket vor. Für Dr. Michael Espendiller (AfD) und Robin Wagener (Bündnis 90/Die Grünen) konnten im direkten Anschluss an die Debatte keine spezifischen externen Stellungnahmen oder Reaktionen zu ihren Debattenbeiträgen auf den gesuchten Kanälen gefunden werden.",
+  "sources": [
+    {
+      "name": "Dr. Michael Espendiller",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": true,
+      "statement": "Nach der Debatte bekräftigte Sebastian Roloff seine Forderung nach einem Preisdeckel für Kraftstoffe, einer Anhebung der Pendlerpauschale auf 45 Cent pro Kilometer und die Einführung einer Übergewinnsteuer für Mineralölkonzerne, um die Bürger zu entlasten. Er äußerte die Hoffnung, dass die Bundesregierung sich schnell auf eine solche Steuer verständigen könne.",
+      "source_title": "Hohe Kraftstoffpreise - Roloff (SPD) für Preisdeckel - Ökonom Kooths: Sparsamer mit Rohstoff umgehen",
+      "url": "https://www.deutschlandfunk.de/roloff-spd-fuer-preisdeckel-oekonom-kooths-sparsamer-mit-rohstoff-umgehen-100.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Robin Wagener",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Janine Wissler",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Janine Wissler unterstützte weiterhin vehement die Einführung einer Übergewinnsteuer für Mineralölkonzerne, da diese laut Greenpeace-Berechnungen erhebliche tägliche Gewinne erzielen. Sie forderte zudem schnelle Entlastungen wie ein einkommensteuerpflichtiges Energiekrisengeld von 150 Euro und die Wiedereinführung des 9-Euro-Tickets als Reaktion auf die hohen Energiepreise und die Ablehnung anderer Entlastungsmaßnahmen.",
+      "source_title": "Linke fordert neues Energiekrisengeld nach Prämien-Stopp im Bundesrat - Hasepost",
+      "url": "https://hasepost.de/linke-fordert-neues-energiekrisengeld-nach-praemien-stopp-im-bundesrat-710821/",
+      "platform": "Presse"
+    }
+  ]
+}

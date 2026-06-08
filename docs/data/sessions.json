@@ -191,7 +191,8 @@
     "summary_path": "protocols/session_80/16_results_of_preliminary_planning_for_new_and_upgrad.md",
     "youtube_url": "https://www.youtube.com/watch?v=QmnOFlk9E8k",
     "processed_at": "2026-06-02T09:55:32.355844",
-    "speakers_path": "protocols/session_80/16_results_of_preliminary_planning_for_new_and_upgrad_speakers.json"
+    "speakers_path": "protocols/session_80/16_results_of_preliminary_planning_for_new_and_upgrad_speakers.json",
+    "documents_path": "protocols/session_80/16_results_of_preliminary_planning_for_new_and_upgrad_documents.json"
   },
   {
     "id": "JjbrYYC6y8w",
@@ -307,7 +308,8 @@
     "summary_path": "protocols/session_74/zp_3_beschleunigung_der_vergabe_oeffentlicher_auftraege.md",
     "youtube_url": "https://www.youtube.com/watch?v=UoiB0KZE7pQ",
     "processed_at": "2026-06-05T01:00:13.569971",
-    "speakers_path": "protocols/session_74/zp_3_beschleunigung_der_vergabe_oeffentlicher_auftraege_speakers.json"
+    "speakers_path": "protocols/session_74/zp_3_beschleunigung_der_vergabe_oeffentlicher_auftraege_speakers.json",
+    "documents_path": "protocols/session_74/zp_3_beschleunigung_der_vergabe_oeffentlicher_auftraege_documents.json"
   },
   {
     "id": "6a_doefx9k4",
@@ -319,7 +321,8 @@
     "summary_path": "protocols/session_74/8_konsensbasiertes_sexualstrafrecht.md",
     "youtube_url": "https://www.youtube.com/watch?v=6a_doefx9k4",
     "processed_at": "2026-06-05T00:49:39.923614",
-    "speakers_path": "protocols/session_74/8_konsensbasiertes_sexualstrafrecht_speakers.json"
+    "speakers_path": "protocols/session_74/8_konsensbasiertes_sexualstrafrecht_speakers.json",
+    "documents_path": "protocols/session_74/8_konsensbasiertes_sexualstrafrecht_documents.json"
   },
   {
     "id": "1rhUxnLAnTc",
@@ -331,7 +334,8 @@
     "summary_path": "protocols/session_74/18_maritime_wirtschaft.md",
     "youtube_url": "https://www.youtube.com/watch?v=1rhUxnLAnTc",
     "processed_at": "2026-06-05T00:48:48.190275",
-    "speakers_path": "protocols/session_74/18_maritime_wirtschaft_speakers.json"
+    "speakers_path": "protocols/session_74/18_maritime_wirtschaft_speakers.json",
+    "documents_path": "protocols/session_74/18_maritime_wirtschaft_documents.json"
   },
   {
     "id": "C1zgMwvBfd0",
@@ -343,7 +347,8 @@
     "summary_path": "protocols/session_73/zp_1_aktuelle_stunde_raumfahrtnation_deutschland.md",
     "youtube_url": "https://www.youtube.com/watch?v=C1zgMwvBfd0",
     "processed_at": "2026-06-04T23:13:43.928239",
-    "speakers_path": "protocols/session_73/zp_1_aktuelle_stunde_raumfahrtnation_deutschland_speakers.json"
+    "speakers_path": "protocols/session_73/zp_1_aktuelle_stunde_raumfahrtnation_deutschland_speakers.json",
+    "documents_path": "protocols/session_73/zp_1_aktuelle_stunde_raumfahrtnation_deutschland_documents.json"
   },
   {
     "id": "pcpocHDKu9o",
@@ -355,7 +360,8 @@
     "summary_path": "protocols/session_73/5_globale_gerechtigkeit_entwicklungszusammenarbeit.md",
     "youtube_url": "https://www.youtube.com/watch?v=pcpocHDKu9o",
     "processed_at": "2026-06-04T23:15:37.371881",
-    "speakers_path": "protocols/session_73/5_globale_gerechtigkeit_entwicklungszusammenarbeit_speakers.json"
+    "speakers_path": "protocols/session_73/5_globale_gerechtigkeit_entwicklungszusammenarbeit_speakers.json",
+    "documents_path": "protocols/session_73/5_globale_gerechtigkeit_entwicklungszusammenarbeit_documents.json"
   },
   {
     "id": "yw90Z7v1Osc",
@@ -367,7 +373,8 @@
     "summary_path": "protocols/session_73/1_befragung_der_bundesregierung_bmftr_und_bkamt.md",
     "youtube_url": "https://www.youtube.com/watch?v=yw90Z7v1Osc",
     "processed_at": "2026-06-04T23:10:54.831425",
-    "speakers_path": "protocols/session_73/1_befragung_der_bundesregierung_bmftr_und_bkamt_speakers.json"
+    "speakers_path": "protocols/session_73/1_befragung_der_bundesregierung_bmftr_und_bkamt_speakers.json",
+    "documents_path": "protocols/session_73/1_befragung_der_bundesregierung_bmftr_und_bkamt_documents.json"
   },
   {
     "id": "JmXz2nxenlw",
@@ -379,7 +386,8 @@
     "summary_path": "protocols/session_72/zp_13_aktuelle_stunde_militaerische_eskalation_und_human.md",
     "youtube_url": "https://www.youtube.com/watch?v=JmXz2nxenlw",
     "processed_at": "2026-06-04T22:59:41.483161",
-    "speakers_path": "protocols/session_72/zp_13_aktuelle_stunde_militaerische_eskalation_und_human_speakers.json"
+    "speakers_path": "protocols/session_72/zp_13_aktuelle_stunde_militaerische_eskalation_und_human_speakers.json",
+    "documents_path": "protocols/session_72/zp_13_aktuelle_stunde_militaerische_eskalation_und_human_documents.json"
   },
   {
     "id": "6-rjglQmsAU",
@@ -391,7 +399,8 @@
     "summary_path": "protocols/session_72/15_food_security_and_agricultural_policy.md",
     "youtube_url": "https://www.youtube.com/watch?v=6-rjglQmsAU",
     "processed_at": "2026-06-04T22:56:50.531785",
-    "speakers_path": "protocols/session_72/15_food_security_and_agricultural_policy_speakers.json"
+    "speakers_path": "protocols/session_72/15_food_security_and_agricultural_policy_speakers.json",
+    "documents_path": "protocols/session_72/15_food_security_and_agricultural_policy_documents.json"
   },
   {
     "id": "jbLPX-BJZAE",
@@ -403,7 +412,8 @@
     "summary_path": "protocols/session_71/10_small_modular_reactors_miniatomkraftwerke.md",
     "youtube_url": "https://www.youtube.com/watch?v=jbLPX-BJZAE",
     "processed_at": "2026-06-04T22:20:20.910512",
-    "speakers_path": "protocols/session_71/10_small_modular_reactors_miniatomkraftwerke_speakers.json"
+    "speakers_path": "protocols/session_71/10_small_modular_reactors_miniatomkraftwerke_speakers.json",
+    "documents_path": "protocols/session_71/10_small_modular_reactors_miniatomkraftwerke_documents.json"
   },
   {
     "id": "5JZFMSgFAQ4",
@@ -426,7 +436,8 @@
     "topic": "Zukunft der Automobilindustrie",
     "summary_path": "protocols/session_69/25_zp_10_zukunft_der_automobilindustrie.md",
     "youtube_url": "https://www.youtube.com/watch?v=feie6qiNlcU",
-    "processed_at": "2026-06-05T00:18:24.078088"
+    "processed_at": "2026-06-05T00:18:24.078088",
+    "speakers_path": "protocols/session_69/25_zp_10_zukunft_der_automobilindustrie_speakers.json"
   },
   {
     "id": "kC7OiuKnGz8",
@@ -473,7 +484,8 @@
     "topic": "Jahresbericht 2025 des Wehrbeauftragten",
     "summary_path": "protocols/session_68/9_jahresbericht_2025_des_wehrbeauftragten.md",
     "youtube_url": "https://www.youtube.com/watch?v=-RYhxp85a24",
-    "processed_at": "2026-06-04T23:53:31.799344"
+    "processed_at": "2026-06-04T23:53:31.799344",
+    "speakers_path": "protocols/session_68/9_jahresbericht_2025_des_wehrbeauftragten_speakers.json"
   },
   {
     "id": "8OSziZu0Juo",
@@ -507,7 +519,8 @@
     "topic": "Aktuelle Stunde: Gewalt gegen Frauen und Mädchen",
     "summary_path": "protocols/session_67/zp_1_aktuelle_stunde_gewalt_gegen_frauen_und_maedchen.md",
     "youtube_url": "https://www.youtube.com/watch?v=Ug8WAvh044c",
-    "processed_at": "2026-06-04T20:39:15.181212"
+    "processed_at": "2026-06-04T20:39:15.181212",
+    "speakers_path": "protocols/session_67/zp_1_aktuelle_stunde_gewalt_gegen_frauen_und_maedchen_speakers.json"
   },
   {
     "id": "JEaRS1VGxIE",
@@ -518,7 +531,8 @@
     "topic": "Befragung des Bundeskanzlers",
     "summary_path": "protocols/session_67/1_befragung_der_bundesregierung_bundeskanzler.md",
     "youtube_url": "https://www.youtube.com/watch?v=JEaRS1VGxIE",
-    "processed_at": "2026-06-04T20:57:56.951292"
+    "processed_at": "2026-06-04T20:57:56.951292",
+    "speakers_path": "protocols/session_67/1_befragung_der_bundesregierung_bundeskanzler_speakers.json"
   },
   {
     "id": "Gi13fSkw1FY",
@@ -529,7 +543,8 @@
     "topic": "Aktuelle Stunde: Kunst-, Kultur- und Meinungsfreiheit",
     "summary_path": "protocols/session_66/zp_11_aktuelle_stunde_kunst_kultur_und_meinungsfreiheit.md",
     "youtube_url": "https://www.youtube.com/watch?v=Gi13fSkw1FY",
-    "processed_at": "2026-06-04T08:31:36.534834"
+    "processed_at": "2026-06-04T08:31:36.534834",
+    "speakers_path": "protocols/session_66/zp_11_aktuelle_stunde_kunst_kultur_und_meinungsfreiheit_speakers.json"
   },
   {
     "id": "p63LODbaEto",
@@ -540,7 +555,8 @@
     "topic": "Kassenzulassung des nicht-invasiven Pränataltests",
     "summary_path": "protocols/session_66/24_kassenzulassung_des_nicht_invasiven_praenataltests.md",
     "youtube_url": "https://www.youtube.com/watch?v=p63LODbaEto",
-    "processed_at": "2026-06-04T08:32:30.611663"
+    "processed_at": "2026-06-04T08:32:30.611663",
+    "speakers_path": "protocols/session_66/24_kassenzulassung_des_nicht_invasiven_praenataltests_speakers.json"
   },
   {
     "id": "cF5yHi7RzNw",
@@ -551,7 +567,8 @@
     "topic": "Reform der Genfer Flüchtlingskonvention",
     "summary_path": "protocols/session_66/23_reform_der_genfer_fluechtlingskonvention.md",
     "youtube_url": "https://www.youtube.com/watch?v=cF5yHi7RzNw",
-    "processed_at": "2026-06-04T08:29:04.532250"
+    "processed_at": "2026-06-04T08:29:04.532250",
+    "speakers_path": "protocols/session_66/23_reform_der_genfer_fluechtlingskonvention_speakers.json"
   },
   {
     "id": "H99JRiEubLs",
@@ -573,7 +590,8 @@
     "topic": "Debatte über den Wiedereinstieg in die Kernkraft",
     "summary_path": "protocols/session_65/zp_5_kernkraftausstieg.md",
     "youtube_url": "https://www.youtube.com/watch?v=NTJ8cHzAgDg",
-    "processed_at": "2026-06-04T08:11:52.077782"
+    "processed_at": "2026-06-04T08:11:52.077782",
+    "speakers_path": "protocols/session_65/zp_5_kernkraftausstieg_speakers.json"
   },
   {
     "id": "T9DgT4YYR1c",

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur Reform der Genfer Flüchtlingskonvention (GFK) spiegeln weitgehend ihre im Plenum geäußerten Positionen wider. Dr. Alexander Wolf (AfD) bekräftigt in Pressemitteilungen die Notwendigkeit einer GFK-Revision zur Priorisierung regionalen Schutzes und zur Steuerung der Migration. Elisabeth Winkelmeier-Becker (CDU/CSU) positioniert sich über Parteidokumente für den Erhalt der GFK als Kernstück des Flüchtlingsschutzes, betont jedoch die Bedeutung effektiver Migrationssteuerung und sicherer Drittstaaten. Gabriela Heinrich (SPD) unterstreicht in Fraktionsmitteilungen die GFK als zivilisatorische Errungenschaft und betont die Rolle des Gemeinsamen Europäischen Asylsystems (GEAS) bei der Wahrung humanitärer Standards. Clara Bünger (Die Linke) verteidigt in Interviews und Pressemitteilungen vehement das individuelle Asylrecht und kritisiert GEAS-Verschärfungen, die sie als Angriff auf die GFK sieht. Für Luise Amtsberg (Bündnis 90/Die Grünen) konnten keine spezifischen externen Stellungnahmen außerhalb der Debattenzusammenfassungen gefunden werden, die ihre bereits im Plenum geäußerte Haltung nochmals gesondert untermauern würden.",
+  "sources": [
+    {
+      "name": "Dr. Alexander Wolf",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Alexander Wolf fordert die Reform der Genfer Flüchtlingskonvention, um eine 'regionale Erstschutz-Priorität' einzuführen und die illegale Migration zu stoppen. Er argumentiert, dass die GFK in ihrer heutigen Form angesichts der globalen Migrationsströme nicht mehr zeitgemäß sei und Deutschland als 'Hauptaufnahmeland' über seine Belastungsgrenzen hinausgehe. Er befürwortet Hilfe vor Ort in kulturell und geografisch benachbarten Regionen als effizienter und sicherer.",
+      "source_title": "Flüchtlingshilfe in benachbarten Regionen statt in Deutschland",
+      "url": "https://afdbundestag.de/fluechtlingshilfe-in-benachbarten-regionen-statt-in-deutschland/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Elisabeth Winkelmeier-Becker",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Die CDU/CSU-Fraktion vertritt die Position, die Kontrolle über Migration zurückzugewinnen und illegale Migration zu stoppen, während sie sich gleichzeitig zum Kern der Genfer Flüchtlingskonvention bekennt. Dies beinhaltet Forderungen nach einem sofortigen faktischen Aufnahmestopp, Grenzkontrollen mit Zurückweisungen und der Umsetzung des Konzepts sicherer Drittstaaten auf EU-Ebene, um Schlepperkriminalität zu zerschlagen und Schutzbedürftige direkt aus dem Ausland aufzunehmen.",
+      "source_title": "Illegale Migration stoppen, Grenzen wirksam kontrollieren",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Luise Amtsberg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Gabriela Heinrich",
+      "party": "SPD",
+      "found": true,
+      "statement": "Gabriela Heinrich und die SPD-Fraktion betonen, dass das individuelle Recht auf Asyl ein hohes Gut ist und Deutschland zu seinen menschen- und völkerrechtlichen Verpflichtungen steht. Sie unterstützen den Globalen Pakt für sichere, geordnete und reguläre Migration und setzen sich für eine menschenwürdige Umsetzung des Gemeinsamen Europäischen Asylsystems (GEAS) mit hohen humanitären und menschenrechtlichen Standards ein, insbesondere für Familien und Kinder.",
+      "source_title": "Eine echte europäische Lösung für die Migrationspolitik",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/echte-europaeische-loesung-migrationspolitik",
+      "platform": "Presse"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Clara Bünger kritisiert die GEAS-Reform scharf als faktische Abschaffung des Asylrechts, die zu mehr illegalen Push-Backs, Gewalt an den Grenzen und Toten führen werde. Sie fordert, die Genfer Flüchtlingskonvention und das individuelle Asylrecht uneingeschränkt gelten zu lassen und lehnt alle Asylrechtsverschärfungen ab, da Fluchtursachen bekämpft werden müssten, statt Flüchtende zu bekämpfen.",
+      "source_title": "Die GEAS-Reform tötet",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

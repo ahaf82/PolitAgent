@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zeigte einen breiten Konsens über die Dringlichkeit der Bekämpfung von Gewalt gegen Frauen und Mädchen. Außerhalb des Bundestages betonten Abgeordnete wie Katharina Dröge (Bündnis 90/Die Grünen) und Julia Klöckner (CDU/CSU) die Notwendigkeit eines umfassenden 'digitalen Gewaltschutzgesetzes' zur Bekämpfung neuer Gewaltformen wie Deepfakes und forderten klare rechtliche Rahmenbedingungen. Sonja Eichwede (SPD) hob die laufenden Bemühungen der Regierung hervor, darunter die Einführung der elektronischen Aufenthaltsüberwachung für Hochrisikotäter und die Stärkung des Schutzes vor häuslicher Gewalt. Kathrin Gebel (Die Linke) hingegen kritisierte Einzelmaßnahmen als unzureichend und forderte stattdessen weitreichende strukturelle Veränderungen, eine gesicherte Finanzierung von Frauenhäusern sowie spezialisierte Gerichte nach dem 'spanischen Modell'.",
+  "sources": [
+    {
+      "name": "Katharina Dröge",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Katharina Dröge und Britta Haßelmann forderten die Schließung von Strafbarkeitslücken bei bildbasierter sexualisierter Gewalt und kündigten einen eigenen Gesetzentwurf an. Sie betonten, dass digitale Gewalt durch KI-generierte Deepfakes ein dramatisches Ausmaß angenommen hat und Fälle wie der von Collien Fernandes auf ein großes gesellschaftliches Problem hinweisen, das im Strafrecht nicht ausreichend abgedeckt ist.\nZudem unterstützte sie eine Initiative prominenter Frauen, die von der Bundesregierung wirksame Schutzmaßnahmen gegen digitale Gewalt, sexualisierte Inhalte und geschlechtsspezifische Morde fordert, einschließlich der Strafbarkeit der Herstellung von nicht-einvernehmlichen Deepfakes und klarer Auskunftsrechte für Betroffene.",
+      "source_title": "Besserer Schutz vor digitaler Gewalt: Strafbarkeitslücken endlich schließen / „Solidarität mit Collien Fernandes“: Prominente Frauen fordern härtere Gesetze gegen digitale Übergriffe",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julia Klöckner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Julia Klöckner forderte eine ehrlichere Debatte über Gewalt gegen Frauen, die alle Facetten von Gewalt – inklusive Zwangsehen und Gruppenvergewaltigungen – anspricht, ohne Rassismusvorwürfe zu schüren.\nBereits 2025 äußerte sich Klöckner zufrieden über einen überparteilichen Konsens zum Gewalthilfegesetz, das einen Rechtsanspruch auf Schutzplätze und Beratung für Frauen und Kinder schafft und den Bund erstmals mit 2,6 Milliarden Euro an der Finanzierung des Gewaltschutzsystems beteiligt.",
+      "source_title": "Klöckner fordert ehrlichere Debatte über Gewalt gegen Frauen / Gute Nachrichten für Frauenhäuser der Region",
+      "url": "https://web.de/magazine/politik/julia-kloeckner-fordert-ehrlichere-debatte-gewalt-frauen-38827404",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sonja Eichwede",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sonja Eichwede betonte anlässlich der ersten Lesung des Gewaltschutzgesetzes, dass die Einführung der elektronischen Fußfessel ein wichtiger Schritt sei, um Frauen besser vor häuslicher Gewalt zu schützen und Leben zu retten. Sie forderte zudem den Ausbau eines flächendeckenden Hilfesystems mit Frauenhäusern und Beratungsstellen.\nIn einer Abgeordnetenwatch-Antwort hob sie hervor, dass der Opferschutz gestärkt werden müsse und mit dem Gewalthilfegesetz ein Rechtsanspruch auf kostenfreie Hilfe und Schutz für von häuslicher Gewalt betroffene Frauen und Kinder geschaffen wurde, dessen Angebote von den Ländern bis 2032 ausgebaut werden müssen.",
+      "source_title": "Erste Lesung Gewaltschutzgesetz: Schutz vor Gewalt wirksam stärken / Wie setzen Sie sich für Menschen ein, die nach Gewalt oder Behördenversagen Hilfe suchen, aber auf Vorurteile stoßen und für ihre Reaktionen bestraft werden?",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/erste-lesung-gewaltschutzgesetz-schutz-gewalt-wirksam-staerken",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kerstin Przygodda",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Kathrin Gebel",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kathrin Gebel bezeichnete Gewalt gegen Frauen als eine 'Epidemie' und 'geschlechtsspezifische, strukturelle Gewalt', die umfassende strukturelle Maßnahmen erfordert, anstatt sich auf Einzelmaßnahmen wie die elektronische Fußfessel zu beschränken.\nSie kritisierte zudem, dass Fälle digitaler sexualisierter Gewalt oft erst bei Prominenten ernst genommen werden und betonte, dass digitale Gewalt dieselbe Logik von Macht und Einschüchterung wie andere Formen männlicher Kontrolle verfolgt und gesellschaftliche Machtverhältnisse widerspiegelt.",
+      "source_title": "\"Ein GPS-Signal bedeutet nicht Sicherheit\" / Frauenpolitikerin zu SPD und Deepfakes: „Das ist keine Politik, das ist Heuchelei“",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum Wiedereinstieg in die Kernkraft spiegeln weitgehend ihre im Bundestag geäußerten Positionen wider. Dr. Paul Schmidt (AfD) bekräftigt außerhalb des Plenums die Notwendigkeit des Wiedereinstiegs zur Sicherung einer bezahlbaren und krisenfesten Energieversorgung und kritisiert die aktuelle Energiepolitik. Harald Ebner (Bündnis 90/Die Grünen) lehnt die Kernkraft vehement als teures „Subventionsgrab“ und Sicherheitsrisiko ab, während er erneuerbare Energien als Schlüssel zu Unabhängigkeit und günstiger Energie hervorhebt. Bundesminister Carsten Schneider (SPD) erteilt einer Renaissance der Atomkraft eine deutliche Absage, verweist auf die hohen Kosten und Risiken sowie den erfolgreichen deutschen Atomausstieg zugunsten erneuerbarer Energien.",
+  "sources": [
+    {
+      "name": "Dr. Paul Schmidt",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Paul Schmidt fordert den Wiedereinstieg Deutschlands in die Kernenergie und die Wiederinbetriebnahme stillgelegter Anlagen sowie den Neubau moderner Reaktoren. Er betont, dass dies die Stromversorgung krisensicherer, robuster und bezahlbarer mache, mit geschätzten Kosten von 1 bis 3 Milliarden Euro pro Anlage für die Wiederinbetriebnahme innerhalb von 1 bis 3 Jahren. Schmidt kritisiert die Fokussierung auf erneuerbare Energien durch andere Parteien als unzureichend für eine stabile Grundlastversorgung.",
+      "source_title": "06.03.2026 Dr. Paul Schmidt im Bundestag zu Anträgen der AfD-Fraktion – Rückkehr zur Kernenergie",
+      "url": "https://schmidt-afd.de/beitraege/06-03-2026-dr-paul-schmidt-im-bundestag-zu-antraegen-der-afd-fraktion-rueckkehr-zur-kernenergie/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Klaus Wiener",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Harald Ebner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Harald Ebner bezeichnet Atomkraft als \"milliardenschweres Subventionsgrab\" und eine Hochrisikotechnologie, die unsicher ist und geopolitische Abhängigkeiten schafft. Er argumentiert, dass der deutsche Atomausstieg das Land sicherer gemacht habe und dass echte Energieunabhängigkeit und bezahlbarer Strom durch Wind- und Solarenergie erreicht werden. Er kritisiert Forderungen nach einer \"Atom-Renaissance\" als Ignoranz gegenüber Risiken, wirtschaftlicher Realität und Sicherheitspolitik.",
+      "source_title": "Harald Ebner: 40 Jahre Tschernobyl | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/presse/2026/pm-april-2026/harald-ebner-40-jahre-tschernobyl/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Carsten Schneider",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bundesminister Carsten Schneider lehnt eine Renaissance der Atomkraft in Deutschland strikt ab, da sie teuer, subventionsbedürftig und gefährlich sei und 20-25 Jahre für den Bau neuer Anlagen benötige. Er betont, dass Deutschland seit drei Jahren sicher ohne Atomenergie auskomme und eine sichere Energieversorgung durch erneuerbare Energien gewährleistet sei. Schneider fordert stattdessen \"absolute Vorfahrt für erneuerbare Energien\" und sieht Atomkraft als einen Irrweg, der nur Ärger, Probleme und Milliardenkosten verursacht.",
+      "source_title": "„Absolute Vorfahrt für Erneuerbare“ : Carsten Schneider erteilt Atomdebatte eine Absage",
+      "url": "https://www.tagesspiegel.de/politik/absolute-vorfahrt-fur-erneuerbare-carsten-schneider-erteilt-atomdebatte-eine-absage-15373362.html",
+      "platform": "Presse"
+    }
+  ]
+}
