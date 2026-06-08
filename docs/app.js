@@ -694,35 +694,43 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="faction-breakdown">
                     <h4>Abstimmungsverhalten nach Fraktionen</h4>
                     <div class="factions-grid">
-                        ${(voting.faction_results || []).map(f => {
-                            const fJa = parseInt(f.ja) || 0;
-                            const fNein = parseInt(f.nein) || 0;
-                            const fEnth = parseInt(f.enthaltung) || 0;
-                            const fTotal = fJa + fNein + fEnth;
-                            const fJaPct = fTotal > 0 ? ((fJa / fTotal) * 100).toFixed(0) : 0;
-                            const fNeinPct = fTotal > 0 ? ((fNein / fTotal) * 100).toFixed(0) : 0;
-                            const fEnthPct = fTotal > 0 ? ((fEnth / fTotal) * 100).toFixed(0) : 0;
-                            
-                            return `
-                                <div class="faction-vote-card ${getPartyClass(f.faction)}">
-                                    <div class="faction-vote-header">
-                                        <h5>${f.faction}</h5>
-                                    </div>
-                                    <div class="faction-vote-body">
-                                        <div class="faction-vote-stats">
-                                            <span class="f-stat ja">Ja: <strong>${fJa}</strong></span>
-                                            <span class="f-stat nein">Nein: <strong>${fNein}</strong></span>
-                                            <span class="f-stat enth">Enth.: <strong>${fEnth}</strong></span>
+                        ${(voting.faction_results || [])
+                            .filter(f => {
+                                const fJa = parseInt(f.ja) || 0;
+                                const fNein = parseInt(f.nein) || 0;
+                                const fEnth = parseInt(f.enthaltung) || 0;
+                                const fNa = parseInt(f.nicht_abgegeben) || 0;
+                                return (fJa + fNein + fEnth + fNa) > 0;
+                            })
+                            .map(f => {
+                                const fJa = parseInt(f.ja) || 0;
+                                const fNein = parseInt(f.nein) || 0;
+                                const fEnth = parseInt(f.enthaltung) || 0;
+                                const fTotal = fJa + fNein + fEnth;
+                                const fJaPct = fTotal > 0 ? ((fJa / fTotal) * 100).toFixed(0) : 0;
+                                const fNeinPct = fTotal > 0 ? ((fNein / fTotal) * 100).toFixed(0) : 0;
+                                const fEnthPct = fTotal > 0 ? ((fEnth / fTotal) * 100).toFixed(0) : 0;
+                                
+                                return `
+                                    <div class="faction-vote-card ${getPartyClass(f.faction)}">
+                                        <div class="faction-vote-header">
+                                            <h5>${f.faction}</h5>
                                         </div>
-                                        <div class="vote-bar small-bar">
-                                            ${fJa > 0 ? `<div class="vote-part ja" style="width: ${fJaPct}%" title="Ja: ${fJaPct}%"></div>` : ''}
-                                            ${fNein > 0 ? `<div class="vote-part nein" style="width: ${fNeinPct}%" title="Nein: ${fNeinPct}%"></div>` : ''}
-                                            ${fEnth > 0 ? `<div class="vote-part enthaltung" style="width: ${fEnthPct}%" title="Enth.: ${fEnthPct}%"></div>` : ''}
+                                        <div class="faction-vote-body">
+                                            <div class="faction-vote-stats">
+                                                <span class="f-stat ja">Ja: <strong>${fJa}</strong></span>
+                                                <span class="f-stat nein">Nein: <strong>${fNein}</strong></span>
+                                                <span class="f-stat enth">Enth.: <strong>${fEnth}</strong></span>
+                                            </div>
+                                            <div class="vote-bar small-bar">
+                                                ${fJa > 0 ? `<div class="vote-part ja" style="width: ${fJaPct}%" title="Ja: ${fJaPct}%"></div>` : ''}
+                                                ${fNein > 0 ? `<div class="vote-part nein" style="width: ${fNeinPct}%" title="Nein: ${fNeinPct}%"></div>` : ''}
+                                                ${fEnth > 0 ? `<div class="vote-part enthaltung" style="width: ${fEnthPct}%" title="Enth.: ${fEnthPct}%"></div>` : ''}
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                            `;
-                        }).join('')}
+                                `;
+                            }).join('')}
                     </div>
                 </div>
                 

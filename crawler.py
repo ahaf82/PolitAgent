@@ -594,6 +594,7 @@ def generate_session_documents(client, title, date, session, top, transcript_tex
     }}
     
     Befülle das JSON sorgfältig. Falls keine Drucksachen erwähnt wurden, gib ein leeres Array für 'documents' zurück. Falls keine namentliche Abstimmung stattfand, setze 'has_namentliche_abstimmung' auf false und setze 'overall_result' und 'faction_results' auf null oder leere Listen/Objekte.
+    WICHTIG ZU DEN FRAKTIONEN: Liste NUR Fraktionen auf, die zum Zeitpunkt der Sitzung tatsächlich Sitze im Bundestag hatten. Fraktionen, die in der jeweiligen Legislaturperiode nicht existieren oder 0 Sitze haben (z.B. FDP und BSW im 21. Bundestag ab 2025/2026), dürfen NICHT im Array 'faction_results' enthalten sein.
     
     Hier ist das Protokoll der Sitzung:
     {transcript_text[:12000]}
