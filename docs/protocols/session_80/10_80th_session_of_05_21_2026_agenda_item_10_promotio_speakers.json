@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Resonanz der Abgeordneten auf die Debatte zur 'Förderung und Modernisierung des Anwaltsnotariats' ist überwiegend in den offiziellen Bundestags- oder Fraktionskanälen ihrer Reden verblieben. Einzig Thomas Fetsch von der AfD-Fraktion veröffentlichte eine detaillierte Kritik des Gesetzentwurfs als extern zugängliches Video seiner Rede. Er bemängelte die überstürzte Erstellung des Gesetzes, die unzureichende Berücksichtigung des Bewerbermangels und forderte die vollständige Aufhebung der Altersgrenze für Notare. Für die Abgeordneten Mahmut Özdemir (SPD), Johannes Wiegelmann (CDU/CSU), Helge Limburg (Bündnis 90/Die Grünen) und Aaron Valent (Die Linke) konnten keine zusätzlichen, über die Plenumsrede hinausgehenden externen Stellungnahmen oder Beiträge zu diesem spezifischen Thema gefunden werden.",
+  "sources": [
+    {
+      "name": "Mahmut Özdemir",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Thomas Fetsch",
+      "party": "AfD",
+      "found": true,
+      "statement": "Thomas Fetsch kritisierte den Gesetzentwurf zur Förderung und Modernisierung des Anwaltsnotariats als unausgereift, überstürzt und nicht evidenzbasiert. Er bemängelte, dass die Maßnahmen zur Erleichterung des Berufszugangs nicht ausreichen würden, um den Bewerbermangel zu beheben, und schlug vor, die Regelaltersgrenze für Anwaltsnotare und Nurnotare gänzlich entfallen zu lassen. Er beanstandete zudem die Zusammenführung mehrerer Gesetzesvorhaben zu einem „Omnibusgesetz“.",
+      "source_title": "Neues Anwaltsnotariatgesetz nicht praxisgerecht! - Thomas Fetsch - AfD-Fraktion im Bundestag",
+      "url": "https://www.youtube.com/watch?v=R9Kx8Q04Zq4",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Johannes Wiegelmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Helge Limburg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Aaron Valent",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

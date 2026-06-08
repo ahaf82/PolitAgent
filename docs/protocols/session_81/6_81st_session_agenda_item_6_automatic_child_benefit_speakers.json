@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum antragslosen Kindergeld spiegeln im Wesentlichen ihre bereits im Plenum geäußerten Positionen wider. Lars Klingbeil (SPD) hob die Entlastung junger Familien und den Bürokratieabbau als Schritt zu einem modernen, digitalen Staat hervor. Kay Gottschalk (AfD) bekräftigte seine Kritik an Missbrauchsfällen und forderte eine Indexierung der Kindergeldzahlungen ins Ausland. Dr. Anja Weisgerber (CDU/CSU) begrüßte die Initiative als wichtigen Fortschritt für eine familienfreundliche Verwaltung, schlug aber konkrete Nachbesserungen bei der Auszahlung vor. Dr. Franziska Brantner (Bündnis 90/Die Grünen) sah die Maßnahme als Entlastung für Frauen, betonte jedoch die Notwendigkeit umfassenderer Schritte zur Kinderarmutsbekämpfung und der Einforderung von Unterhalt. Doris Achelwilm (Die Linke) lobte den Bürokratieabbau, kritisierte aber vehement, dass die Höhe des Kindergeldes weiterhin unzureichend sei und eine echte Kindergrundsicherung fehle.",
+  "sources": [
+    {
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bundesfinanzminister Lars Klingbeil betonte, dass das antragslose Kindergeld eine spürbare Entlastung für junge Familien bedeute, da es Eltern \"mehr Zeit fürs Baby statt für lästige Bürokratie\" verschaffe. Er hob hervor, dass jährlich rund 300.000 Erstanträge entfallen und dies ein wichtiger Schritt zu einem modernen, digitalen Staat sei, der das Once-Only-Prinzip umsetzt.",
+      "source_title": "Automatische Auszahlungen: „Mehr Zeit fürs Baby statt für Bürokratie“ – Klingbeil kündigt antragsloses Kindergeld an / Rede von Lars Klingbeil im Deutschen Bundestag",
+      "url": "https://www.welt.de/politik/deutschland/article6a0fa431f0f7eb608db79f0f/automatische-auszahlungen-mehr-zeit-fuers-baby-statt-fuer-buerokratie-klingbeil-kuendigt-antragsloses-kindergeld-an.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kay Gottschalk kritisierte die deutsche Kindergeldpolitik scharf und bemängelte die massiven Zahlungen ins Ausland ohne Indexierung an die dortigen Lebenshaltungskosten. Er warnte vor Missbrauchsfällen und forderte eine grundlegende Reform des Systems sowie strengere Kontrollen, um \"Einwanderung in Sozialsysteme\" zu unterbinden.",
+      "source_title": "€528 MILLION abroad! – Kay Gottschalk (AfD) slams child benefit system in the Bundestag / Kindergeldzahlungen für im Ausland lebende Kinder indexieren!",
+      "url": "https://www.youtube.com/watch?v=fjKLC_IzCIU",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Anja Weisgerber",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Anja Weisgerber begrüßte den Gesetzentwurf als wichtigen Schritt zu einer modernen, digitalen und familienfreundlichen Verwaltung, die den Bürokratieaufwand für Eltern reduziert. Sie forderte jedoch eine Nachbesserung, wonach das Kindergeld im antragslosen Verfahren grundsätzlich an die Kindesmutter ausgezahlt werden sollte, falls die Eltern keine andere Bestimmung treffen.",
+      "source_title": "Einfachere Wege für Familien! / Das antraglose Kindergeld kommt! / Weniger Bürokratie, mehr Unterstützung für Familien: Im Bundestag spricht Anja Weisgerber über das neue antragslose Kindergeld. - YouTube",
+      "url": "https://www.csu-landesgruppe.de/themen/arbeit-und-soziales-gesundheit-familie/einfachere-wege-fuer-familien",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Franziska Brantner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Franziska Brantner lobte das antragslose Kindergeld als Entlastung, besonders für Frauen, die den Großteil der Sorgearbeit leisten. Sie forderte aber, die gewonnenen Daten auch zur konsequenten Einforderung von Unterhalt bei zahlungsunwilligen Vätern zu nutzen und die Kinderarmut umfassender zu bekämpfen, anstatt Kürzungen bei Sozialleistungen wie dem Unterhaltsvorschuss vorzunehmen.",
+      "source_title": "Einführung eines antragslosen Kindergeldes beraten / \"Ich habe keine Sehnsucht nach dieser CDU\" – Franziska Brantner on a Black-Green coalition - YouTube",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-kindergeld-1174720",
+      "platform": "Website"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Doris Achelwilm begrüßte die antragslose Auszahlung des Kindergeldes als sinnvollen Bürokratieabbau, der insbesondere Frauen entlastet. Gleichzeitig kritisierte sie scharf, dass die vereinfachte Auszahlung nichts an der als zu niedrig empfundenen Höhe von 259 Euro pro Kind ändere und forderte stattdessen eine armutsfeste Kindergrundsicherung.",
+      "source_title": "Bundestagsrede // Das Kindergeld wird antragslos - das ist schön, aber zu wenig gegen Kinderarmut! / Einführung eines antragslosen Kindergeldes beraten",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

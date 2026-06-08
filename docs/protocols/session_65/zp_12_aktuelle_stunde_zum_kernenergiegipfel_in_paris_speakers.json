@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Kernenergiegipfel in Paris spiegeln die bereits in der Debatte geäußerten, tief divergierenden energiepolitischen Ansichten wider. Während die AfD und Teile der CDU/CSU eine Renaissance der Kernenergie befürworteten und eine Technologieoffenheit, insbesondere für SMRs, betonten, lehnten SPD, Bündnis 90/Die Grünen und Die Linke einen Wiedereinstieg in die Atomkraft vehement ab. Sie kritisierten diese als zu teuer, risikoreich, zeitlich ineffizient und als Ursache neuer Abhängigkeiten. Stattdessen forderten die Befürworter eines deutschen Atomausstiegs den konsequenten und beschleunigten Ausbau erneuerbarer Energien als einzig tragfähige Lösung für Energiesicherheit und Klimaneutralität.",
+  "sources": [
+    {
+      "name": "Andreas Bleck",
+      "party": "AfD",
+      "found": false,
+      "statement": "Andreas Bleck bekräftigte die Forderung der AfD-Fraktion nach einem Wiedereinstieg in die Kernkraft, bezeichnete den deutschen Atomausstieg als strategischen Fehler und forderte die Reaktivierung stillgelegter Kraftwerke sowie den Neubau moderner Reaktortypen. Er sah die globale 'Renaissance der Kernenergie' als Bestätigung der AfD-Position.",
+      "source_title": "AfD-Fraktion fordert Wiedereinstieg in die Kernkraft / Andreas Bleck on the importance of nuclear power in Germany!",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Andreas Lenz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Andreas Lenz beurteilte die Abkehr von der Kernkraft als strategischen Fehler, hielt jedoch eine Reaktivierung alter Anlagen für politisch unrealistisch. Er sprach sich für eine Offenheit gegenüber neuen Technologien wie Small Modular Reactors (SMRs) und Fusionsforschung aus, um Deutschlands Rolle als Forschungsstandort zu sichern.",
+      "source_title": "Unions-Energiesprecher will Atomkraft nicht ganz abschreiben",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Harald Ebner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Harald Ebner bezeichnete die Atomkraft als 'aberwitzig falsch' und 'milliardenschweres Subventionsgrab', das Deutschland geopolitisch an Russland binde und Geld für den Ausbau von Netzen und Speichern entziehe. Er betonte die Notwendigkeit, sich auf erneuerbare Energien zu konzentrieren, um echte Energieunabhängigkeit und bezahlbaren Strom zu gewährleisten.",
+      "source_title": "Harald Ebner: 40 Jahre Tschernobyl / Atom – Harald Ebner, MdB",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Nina Scheer",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Nina Scheer argumentierte, dass ein erneutes Setzen auf Atomenergie ein 'teurer Irrweg' sei, der keine zeitnahen Lösungen biete und neue Abhängigkeiten schaffe. Sie bezeichnete Atomkraft als die teuerste und risikoreichste Energieform und kritisierte SMRs als nicht faktenbasiert, finanziell untragbar und die Umwelt zusätzlich mit radioaktiven Abfällen belastend.",
+      "source_title": "Wiedereinstieg in Atomenergie ist teurer Irrweg / Nina Scheer: Atomenergie-Vorstoß grenzt an politische „Veruntreuung“ von Steuergeldern",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/wiedereinstieg-atomenergie-teurer-irrweg%20/%20https://herzogtum-direkt.de/nina-scheer-atomenergie-vorstoss-grenzt-an-politische-veruntreuung-von-steuergeldern/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Janine Wissler",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Janine Wissler und Die Linke-Fraktion sehen Atomkraft als die teuerste, gefährlichste und abhängigkeitsstiftendste Form der Stromerzeugung. Sie betonten, dass ein Wiedereinstieg in die Atomkraft der falsche Weg sei und stattdessen der Ausbau erneuerbarer Energien, sowie der Ausstieg aus Öl und Gas notwendig sei.",
+      "source_title": "Atomkraft? Nein danke!",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

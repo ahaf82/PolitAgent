@@ -1,0 +1,32 @@
+{
+  "synthesis": "Leif-Erik Holm (AfD) kritisierte die Maßnahmen der Bundesregierung zur Entlastung bei hohen Spritpreisen als unzureichend und forderte stattdessen direkte Steuersenkungen und die Abschaffung der CO2-Abgabe. Er argumentierte, dass die vorgeschlagenen Schritte die Preise nicht schnell senken und sogar erhöhen könnten. Isabel Cademartori (SPD) zeigte sich verärgert über die Mineralölkonzerne, da diese Preiserhöhungen sofort weitergäben, Preissenkungen jedoch nicht, und kritisierte zudem den geplanten Tankrabatt als kontraproduktiv für die Elektromobilität und die Energiewende. Für Andreas Audretsch (Bündnis 90/Die Grünen) konnten keine direkten externen Stellungnahmen zu den spezifischen Debattenthemen im relevanten Zeitraum gefunden werden.",
+  "sources": [
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm kritisierte die Maßnahmen der Bundesregierung zur Entlastung bei hohen Spritpreisen als unzureichend und forderte stattdessen schnelle Steuersenkungen auf Brennstoffe (Energiesteuer und CO2-Abgabe) zur direkten Entlastung von Bürgern und Transportunternehmen. Er argumentierte, dass die vorgeschlagenen Maßnahmen die Spritpreise nicht schnell senken würden und möglicherweise sogar zu Preiserhöhungen führen könnten.",
+      "source_title": "Fuel prices: Leif-Erik Holm dissects the government's package of measures! - YouTube",
+      "url": "https://www.youtube.com/watch?v=PV5WpJpuwIQ&vl=en-US",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Isabel Cademartori",
+      "party": "SPD",
+      "found": true,
+      "statement": "Isabel Cademartori äußerte ihren Ärger über die Mineralölkonzerne und kritisierte, dass diese Preiserhöhungen am Rohölmarkt sofort an die Endkunden weitergäben, aber Senkungen nicht. Sie bemängelte die mangelnde Glaubwürdigkeit der Erklärungen der Unternehmen zur Preisgestaltung und lehnte zusammen mit weiteren SPD-Politikern den geplanten Tankrabatt ab, da dieser Fehlanreize setze, die Elektromobilität bremse und die Abhängigkeit von fossilen Energien vertiefe.",
+      "source_title": "Spritpreis: Isabel Cademartori erklärt ihren Ärger über die Mineralölkonzerne - Spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/spritpreis-spd-politikerin-isabel-cademartori-erkaert-ihren-aerger-ueber-die-mineraloelkonzerne-a-26b49296-e6eb-4dda-b19a-1f3489f0ae8d",
+      "platform": "Presse"
+    },
+    {
+      "name": "Andreas Audretsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

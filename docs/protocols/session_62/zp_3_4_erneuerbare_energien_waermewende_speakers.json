@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur Energie- und Wärmewende spiegeln die parteispezifischen Positionen aus der Bundestagsdebatte wider und vertiefen diese durch konkrete Stellungnahmen und Vorschläge. Dr. Julia Verlinden (Bündnis 90/Die Grünen) betont dabei die Notwendigkeit bezahlbarer und sozial gerechter Klimaschutzmaßnahmen sowie die schnelle Umsetzung der Wärmewende durch Gebäudesanierungen und erneuerbare Energien. Sepp Müller (CDU/CSU) verteidigt den technologieoffenen Ansatz der Koalition beim Gebäudemodernisierungsgesetz, der die Wahlfreiheit der Bürger bei Heizsystemen sicherstellen soll, und schlägt zur Kosteneinsparung sogar die Auflösung der Deutschen Energie-Agentur vor. Steffen Kotré (AfD) lehnt die Energiewende als ideologisch ab und kritisiert die Förderung von Geothermie sowie die CO2-Besteuerung. Dr. Nina Scheer (SPD) positioniert sich klar gegen einen Wiedereinstieg in die Atomenergie als teuren Irrweg und fordert Verlässlichkeit für den beschleunigten Umstieg auf erneuerbare Wärme. Jörg Cezanne (Die Linke) mahnt eine bessere Finanzierung für den Ausbau der Geothermie an, um Kommunen bei den hohen Anfangsinvestitionen zu unterstützen.",
+  "sources": [
+    {
+      "name": "Dr. Julia Verlinden",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Julia Verlinden betonte auf einem Panel im März 2026 die Wichtigkeit, sowohl die Klimaziele als auch die soziale Gerechtigkeit im Gebäudesektor zu berücksichtigen. Sie sprach sich für Gebäudesanierungen, den Anschluss an Fernwärmenetze und erneuerbare Energien als Win-Win-Maßnahmen aus, wobei Beratungs- und Förderprogramme niedrigschwellig gestaltet werden müssen. Zuvor betonte sie im Februar 2025 in einem Bürgerdialog, dass klimafreundliches Heizen bezahlbar und sozial gerecht bleiben müsse und hob die Rolle des Gebäudeenergiegesetzes und der kommunalen Wärmeplanung hervor.",
+      "source_title": "Mind the Gap – Wie Klimaschutz im Gebäudesektor sozialverträglich und wirtschaftlich gelingen kann / Bürgerdialog über Zukunft der Energieversorgung",
+      "url": "https://www.kreiszeitung-wochenblatt.de/winsen/c-politik/gruene-energie-und-waermewende-im-fokus_a347533",
+      "platform": "Website"
+    },
+    {
+      "name": "Sepp Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Sepp Müller forderte im April 2026 die Auflösung der Deutschen Energie-Agentur (Dena) als staatliche Sparmaßnahme, da die Kompetenzen auch intern in den Ministerien vorhanden seien. Bezüglich des Gebäudemodernisierungsgesetzes betonte er im Februar 2026, dass die Bürger nun wieder die Freiheit hätten, selbst über ihre Heizungsart zu entscheiden, und dass einkommensstärkere Haushalte keine Heizungsförderung benötigten.",
+      "source_title": "Unions-Fraktionsvize Sepp Müller schlägt Auflösung der Dena vor / Einigung zum Heizungsgesetz: Befreiungsschlag oder \"soziale Zeitbombe\"?",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Steffen Kotré",
+      "party": "AfD",
+      "found": false,
+      "statement": "Steffen Kotré bezeichnete im Oktober 2025 die großflächige Anwendung von Geothermie in Deutschland als \"nicht marktfähig\" und kritisierte die Einstufung solcher Projekte als \"überragendes öffentliches Interesse\" als Eindampfung des Rechtsstaats. Er lehnte zudem das CO2-Speichergesetz als \"teure Luftnummer\" ab und forderte generell eine Rückkehr zu preiswerter Energie durch Gaslieferungen und Kernkraft, anstatt auf erneuerbare Energien zu setzen.",
+      "source_title": "\"Alles Quatsch\": Wie die AfD gegen schwarz-rote Energiegesetze poltert",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Nina Scheer",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Nina Scheer sprach sich in einer Pressemitteilung vom März 2026 klar gegen einen Wiedereinstieg in die Atomenergie aus, da diese die teuerste Form der Energiegewinnung und eine Hochrisikotechnologie sei. Sie betonte bereits im Dezember 2025, dass eine sichere, saubere und bezahlbare Wärmeversorgung einen beschleunigten Umstieg auf erneuerbare Energien und Abwärmenutzung erfordere und die Wärmewende Verlässlichkeit brauche.",
+      "source_title": "Wiedereinstieg in Atomenergie ist teurer Irrweg / Wärmewende braucht Verlässlichkeit",
+      "url": "https://www.spdfraktion.de/abgeordnete/scheer-dr-nina",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jörg Cezanne",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Jörg Cezanne kritisierte im Dezember 2025 das Geothermie-Gesetz als \"ungenügend\", da die Nutzung der Erdwärme hohe Anfangsinvestitionen erfordere, für die Städte und Gemeinden entsprechende Finanzierungen und Förderprogramme bräuchten. Er argumentierte, dass die Beschleunigung von Geothermie-Projekten ohne ausreichende Finanzierung nicht realisierbar sei.",
+      "source_title": "Grünes Licht für Geothermie",
+      "url": "https://www.das-parlament.de/wirtschaft/energie/gruenes-licht-fuer-geothermie",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Analyse externer Äußerungen der Abgeordneten zur EU-Verordnung über Künstliche Intelligenz zeigt eine Fortführung der im Bundestag geäußerten Positionen. Abgeordnete der SPD und Bündnis 90/Die Grünen unterstreichen die Notwendigkeit einer ausgewogenen Regulierung zum Schutz von Grundrechten und zur Förderung vertrauenswürdiger KI. Die Linke äußert sich konsistent kritisch bezüglich gesellschaftlicher Risiken und der Effektivität der Regulierung. Vertreter der CDU/CSU betonen extern wie intern die Chancen von KI und fordern einen innovationsfreundlichen Rahmen. Für den AfD-Abgeordneten konnten keine spezifischen externen Stellungnahmen gefunden werden, die über seine parlamentarische Kritik an Bürokratie hinausgehen.",
+  "sources": [
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": false,
+      "statement": "In einem Interview betonte Dr. Wagner die Notwendigkeit verlässlicher Regeln für den KI-Einsatz, da der EU AI Act einen Ausgleich zwischen Nutzen und Risiken schaffe. Sie hob hervor, dass KI-Anwendungen Werte, Datenschutz, Transparenz und Ethik respektieren müssen und dass es sich nicht um eine Entscheidung zwischen Innovation und Regulierung handle, sondern um deren Integration.",
+      "source_title": "bundestagsgepräch mit Carolin Wagner und Sonja Lemke zur EU-Verordnung über KI am 20.03.26",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Franziska Brantner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Bereits 2024 sprach sich Dr. Brantner in einem Interview als Mitverhandlerin des AI Act für dessen frühzeitige und wirksame Umsetzung aus. Sie betonte, dass das Gesetz ein Gleichgewicht zwischen der Nutzung von Innovationspotenzialen und der Bewältigung von Risiken, wie der automatischen Emotionserkennung, schaffen müsse, um die Grundrechte zu wahren.",
+      "source_title": "AI Act: Grünen-Politikerin Franziska Brantner über KI-Gesetz - »es geht um unsere Grundrechte« - DER SPIEGEL",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Auf ihrer persönlichen Website betonte Sonja Lemke am Tag der Debatte, dass KI kein Allheilmittel sei, sondern große gesellschaftliche Risiken wie Diskriminierung, Ausbeutung und Ressourcenverbrauch berge, die die Regierung ernst nehmen müsse. Bereits im November 2025 kritisierte sie auf der Fraktionswebsite, die Bundesregierung opfere Grundrechte dem Unternehmensprofit, indem sie den Datenschutz aufweiche und die KI-Verordnung 'entkerne'.",
+      "source_title": "Gesellschaftliche Risiken von KI ernstnehmen! - Die Linke MdB Sonja Lemke",
+      "url": "https://www.sonja-lemke.de/themen/digitales/news/gesellschaftliche-risiken-von-ki-ernstnehmen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "In einem Beitrag für die Konrad-Adenauer-Stiftung vom November 2025 plädierte Marvin Schulz für eine starke KI-Strategie, die Innovationen durch gemeinsame Datenräume ermöglicht und gleichzeitig Vertrauen schafft. Er hob die Bedeutung digitaler Kompetenzen und der Entwicklung eines umfassenden Ökosystems hervor, um Deutschland als KI-Nation zu positionieren.",
+      "source_title": "Von ChatGPT zur europäischen KI-Strategie - Konrad-Adenauer-Stiftung",
+      "url": "https://www.kas.de/de/einzeltitel/-/content/von-chatgpt-zur-europaeischen-ki-strategie",
+      "platform": "Website"
+    }
+  ]
+}

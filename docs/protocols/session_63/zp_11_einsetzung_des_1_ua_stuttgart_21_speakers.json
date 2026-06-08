@@ -1,0 +1,50 @@
+{
+  "synthesis": "Abgeordnete äußerten sich außerhalb des Bundestags mehrheitlich kritisch zum Projekt „Stuttgart 21“, wobei die AfD und Bündnis 90/Die Grünen besonders die Kostenexplosionen, Bauverzögerungen und planerischen Mängel anprangerten. Lars Haise (AfD) forderte vehement einen Untersuchungsausschuss und sprach von einem „politischen Denkmal des Versagens“. Matthias Gastel (Bündnis 90/Die Grünen) betonte die Veralterung des Projekts, die fehlende Verantwortungsübernahme und die Notwendigkeit, Bahnprojekte nach bahnbetrieblichen Kriterien zu entscheiden. Michael Frieser (CDU/CSU) zeigte in einem früheren Abstimmungsverhalten eine Position gegen einen Baustopp, während für Martin Kröber (SPD) und Dr. Fabian Fahl (Die Linke) keine spezifischen externen Stellungnahmen außerhalb des Plenums gefunden werden konnten, die über ihre Debattenbeiträge hinausgehen.",
+  "sources": [
+    {
+      "name": "Lars Haise",
+      "party": "AfD",
+      "found": true,
+      "statement": "Lars Haise hat mehrfach die Notwendigkeit eines Untersuchungsausschusses zu Stuttgart 21 betont, das Projekt als „politisches Denkmal des Versagens“ bezeichnet und die unzureichende Kontrolle durch das Bundesverkehrsministerium kritisiert. Er äußerte Bedenken, dass ein Großteil der Mittel für das Bestandsnetz in das immer teurer werdende Projekt geflossen sein könnte und hinterfragte die Kapazität des Tiefbahnhofs sowie die Notwendigkeit des Pfaffensteigtunnels.",
+      "source_title": "AfD-Fraktion fordert Untersuchungsausschuss zu Stuttgart 21 / AfD-Fraktion beantragt Parlamentarischen Untersuchungsausschuss zu Stuttgart 21 / Lars Haise zum Projekt Stuttgart 21!",
+      "url": "https://afdbundestag.de/afd-fraktion-fordert-untersuchungsausschuss-zu-stuttgart-21/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Frieser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Michael Frieser hat sich bereits 2010 gegen einen vorläufigen Bau- und Vergabestopp bei Stuttgart 21 ausgesprochen. Sein Abstimmungsverhalten auf Abgeordnetenwatch zeigt eine Ablehnung eines solchen Stopps.",
+      "source_title": "Vorläufiger Bau- und Vergabestopp bei Stuttgart 21",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Matthias Gastel",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Matthias Gastel kritisierte Stuttgart 21 als immer teurer und verzögerter werdendes, veraltetes Projekt und forderte eine Ausrichtung von Bahnprojekten an bahnbetrieblichen Anforderungen. Er kommentierte ein Gerichtsurteil, wonach die Bahn die Mehrkosten allein tragen muss, und betonte die Pflicht des Bundes als Eigentümer zur finanziellen Leistungsfähigkeit der Bahn. Er war auch Teil des 'Pro Gäubahn-Landesbündnisses', das den drohenden Kapazitätsverlust kritisierte.",
+      "source_title": "Stuttgart 21 noch teurer! Und später ..? / Pressemitteilung - BVMB / Pro Gäubahn-Landesbündnis kritisiert Koalitionsvertrag",
+      "url": "https://www.matthias-gastel.de/stuttgart-21-noch-teurer-und-spaeter/",
+      "platform": "Website"
+    },
+    {
+      "name": "Martin Kröber",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Dr. Fabian Fahl",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

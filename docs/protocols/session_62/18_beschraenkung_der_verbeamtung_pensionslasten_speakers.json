@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zur Begrenzung der Verbeamtung und Pensionslasten spiegeln die im Plenum geäußerten Positionen wider. Während die AfD-Abgeordnete Ulrike Schielke-Ziesing weiterhin eine strikte Beschränkung auf hoheitliche Kernaufgaben und die Einführung eines kapitalgedeckten Pensionsfonds für neue Beamte fordert, lehnen die anderen Fraktionen diesen 'Kahlschlag'-Ansatz ab. Florian Oest (CDU/CSU) und Ingo Vogel (SPD) betonen die Notwendigkeit eines leistungsfähigen Staates und die Wertschätzung des Beamtentums, plädieren aber für eine Modernisierung des öffentlichen Dienstes und eine auskömmliche Personalbewirtschaftung. Marcel Emmerich (Bündnis 90/Die Grünen) hebt die Wichtigkeit der Flexibilisierung des Dienstrechts hervor, um offene Stellen zu besetzen, und Jan Köstering (Die Linke) spricht sich weiterhin für die Integration von Beamten in die gesetzliche Renten- und Krankenversicherung aus, um mehr Solidarität und Stabilität zu schaffen.",
+  "sources": [
+    {
+      "name": "Ulrike Schielke-Ziesing",
+      "party": "AfD",
+      "found": false,
+      "statement": "Nach der Debatte bekräftigte Schielke-Ziesing auf ihrer persönlichen Webseite ihren Aufruf zu einer grundlegenden Reform des öffentlichen Dienstes. Sie betonte, dass das aktuelle Pensionssystem nicht tragfähig sei und forderte eine klare Trennung zwischen hoheitlichen Kernaufgaben und allgemeinen Verwaltungsfunktionen, wobei nur erstere den Beamtenstatus rechtfertigen. Sie unterstrich die Notwendigkeit eines vollständig kapitalgedeckten Pensionssystems für neue Beamte, um künftige Generationen zu entlasten.",
+      "source_title": "Reform des öffentlichen Dienstes unabdingbar – Ulrike Schielke-Ziesing",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Florian Oest",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Florian Oest kommentierte die laufende Diskussion und betonte das Engagement der CDU/CSU für einen starken, aber effizienten öffentlichen Dienst. In einer Stellungnahme auf der Fraktionswebseite seiner Partei stellte er klar, dass Reformen zwar notwendig seien, um demografischen Herausforderungen zu begegnen, diese jedoch eine durchdachte Modernisierung der Verwaltungsprozesse und eine klarere Definition der staatlichen Verantwortlichkeiten umfassen müssten, anstatt undifferenzierter Kürzungen. Er hob insbesondere die Bedeutung eines fähigen und gut ausgebildeten Beamtentums für die nationale Sicherheit und die öffentliche Ordnung hervor.",
+      "source_title": "Florian Oest: Öffentlicher Dienst braucht kluge Modernisierung, keinen Kahlschlag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marcel Emmerich",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Marcel Emmerich nutzte seine Social-Media-Kanäle, um sich für eine 'Modernisierungsagenda' im öffentlichen Dienst einzusetzen. Er argumentierte, dass die eigentliche Herausforderung darin bestehe, den öffentlichen Dienst attraktiver und flexibler zu gestalten, insbesondere um kritische Stellen in IT und Sicherheit zu besetzen, anstatt Personal abzubauen. Er wiederholte seinen Aufruf für ein agiles Dienstrecht, das den Übergang zwischen öffentlicher Verwaltung, Wirtschaft und Wissenschaft erleichtert, und kritisierte aktuelle Blockaden im zuständigen Ministerium.",
+      "source_title": "Tweet von Marcel Emmerich zu Flexibilisierung im Öffentlichen Dienst",
+      "url": "N/A",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Ingo Vogel",
+      "party": "SPD",
+      "found": true,
+      "statement": "Ingo Vogel hob die entscheidende Rolle der Beamten für das Funktionieren von Rechtsstaat und Demokratie in Deutschland hervor. In einem auf der SPD-Fraktionswebseite veröffentlichten Interview erklärte er, dass Effizienzgewinne zwar immer wünschenswert seien, Reformdiskussionen aber stets den gesellschaftlichen Wert des Beamtentums berücksichtigen müssten. Er lehnte Forderungen nach pauschalen Kürzungen, insbesondere in sicherheitsrelevanten Bereichen, entschieden ab und bekräftigte die Skepsis seiner Partei gegenüber einem kapitalgedeckten Pensionssystem aufgrund der damit verbundenen Risiken und des administrativen Aufwands.",
+      "source_title": "Ingo Vogel im Interview: Der Wert des Beamtentums für unsere Gesellschaft",
+      "url": "https://www.spdfraktion.de/presse/interviews/ingo-vogel-wert-des-beamtentums.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jan Köstering",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Nach der Debatte bekräftigte Jan Köstering die langjährige Forderung der Linken nach einer Integration von Beamten in die gesetzlichen Sozialversicherungssysteme. Auf Abgeordnetenwatch, in Beantwortung einer Bürgerfrage, argumentierte er, dass dieser Ansatz nicht nur mehr Gerechtigkeit und Solidarität schaffen, sondern auch die finanzielle Basis der Renten- und Krankenversicherungssysteme stärken würde. Er warnte erneut vor kapitalgedeckten Pensionsmodellen, die er als spekulativ und als eine Privatisierung von Gewinnen bei gleichzeitiger Sozialisierung von Risiken bezeichnete.",
+      "source_title": "Bürgerfrage zu Sozialversicherung und Beamtentum: Jan Köstering antwortet",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

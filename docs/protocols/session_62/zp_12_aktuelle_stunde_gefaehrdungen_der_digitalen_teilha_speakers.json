@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte zeigen die Abgeordneten ähnliche, aber nuancierte Positionen zur digitalen Teilhabe und zum Jugendmedienschutz. Während Bundesfamilienministerin Karin Prien (CDU) und Armand Zorn (SPD) feste Altersgrenzen für soziale Medien und eine obligatorische Altersverifikation befürworten, oft unter Nutzung der EUDI-Wallet, lehnen Ruben Rupp (AfD) und Anne-Mieke Bremer (Die Linke) pauschale Verbote und die damit verbundene Klarnamenpflicht oder Datensammlung strikt ab. Dr. Anna Lührmann (Bündnis 90/Die Grünen) konzentriert sich auf plattformseitige Regulierung und sichere Standardeinstellungen sowie ein gesetzliches Mindestalter, um digitale Teilhabe zu sichern und gleichzeitig Kinder zu schützen. Fraktionsübergreifend besteht Einigkeit über die Notwendigkeit von Kinderschutz im digitalen Raum, jedoch mit deutlichen Unterschieden in den vorgeschlagenen Maßnahmen und deren Auswirkungen auf die Meinungsfreiheit und Anonymität im Netz.",
+  "sources": [
+    {
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "found": false,
+      "statement": "Ruben Rupp kritisiert scharf die Forderung nach einer Klarnamenpflicht im Internet und ein Social-Media-Verbot für unter 14-Jährige als Angriffe auf Meinungsfreiheit und Demokratie. Er sieht dies als Versuch, alternative Medien und die AfD zu schaden und schlägt stattdessen technische Altersverifikation für Eltern vor. Er bezeichnet den Digital Services Act als Zensurinstrument.",
+      "source_title": "Anonymität demokratisiert das Internet",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bundesfamilienministerin Karin Prien betont die Notwendigkeit, Kinder und Jugendliche vor den negativen Auswirkungen übermäßiger Social-Media-Nutzung und schädlichen Inhalten zu schützen. Sie spricht sich für Altersgrenzen (persönlich sympathisch ab 14 Jahren, aber auch für 16 diskutiert) und effektive, datenschutzkonforme Altersverifikation aus. Sie wartet auf die Empfehlungen einer von ihr eingesetzten Expertenkommission.",
+      "source_title": "Social-Media-Verbot: Karin Prien will abgestufte Regeln für soziale Medien",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Anna Lührmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Anna Lührmann fordert sichere soziale Netzwerke durch verbindliche Standardeinstellungen für Jugendschutz und die konsequente Durchsetzung des Digital Services Act. Sie plädiert für ein gesetzliches Mindestalter von 14 Jahren für Social-Media-Plattformen und abgestufte Funktionen ab 16 Jahren, lehnt jedoch pauschale Verbote ab, um digitale Teilhabe zu ermöglichen.",
+      "source_title": "Grünes Positionspapier zu Social Media",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": true,
+      "statement": "Armand Zorn befürwortet ein Mindestalter von 14 Jahren für soziale Medien und fordert, dass Plattformen für 14- bis 16-Jährige altersgerechte Jugendversionen ohne suchtfördernde Algorithmen anbieten. Er spricht sich für eine verpflichtende Altersverifikation mittels EUDI-Wallet aus und betont die Notwendigkeit, bestehende europäische Regeln wie den Digital Services Act konsequent durchzusetzen.",
+      "source_title": "Kinder und Jugendliche im Netz wirksam schützen",
+      "url": "https://www.spdfraktion.de/themen/kinder-und-jugendliche-netz-wirksam-schuetzen",
+      "platform": "Website"
+    },
+    {
+      "name": "Anne-Mieke Bremer",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Anne-Mieke Bremer kritisiert Social-Media-Verbote für Minderjährige als \"reine Symbolpolitik\", die gesellschaftliche Teilhabe einschränkt. Sie fordert stattdessen eine stärkere Regulierung der Plattformkonzerne und Investitionen in begleitete Mediennutzung und Medienkompetenzförderung. Sie warnt eindringlich vor der Abschaffung der Anonymität im Netz durch flächendeckende Altersverifikationssysteme, die zu massiver Datensammlung führen würden.",
+      "source_title": "Gegen Symbolpolitik im Netz: Warum Social-Media-Verbote keinen Schutz für Kinder und Jugendliche darstellen",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

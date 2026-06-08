@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum 'Gutachten zu Forschung und Innovation 2026' reflektieren die im Bundestag geäußerten Fraktionspositionen. Holger Mann (SPD) begrüßte das Gutachten als Bestätigung des Koalitionskurses und forderte eine konsequentere Umsetzung des Wissenstransfers, während er auch kritische Fragen zur Kernfusion aufwarf. Florian Müller (CDU/CSU) betonte die Notwendigkeit einer präzisen Umsetzung der Hightech Agenda für Wohlstand und Wertschöpfung in Deutschland. Ayse Asar (Bündnis 90/Die Grünen) kritisierte extern die fehlende Transparenz und die unzureichende Grundfinanzierung der Hochschulen, welche die Hightech Agenda nicht ersetzen könne. Sonja Lemke (Die Linke) äußerte sich bereits vor der Debatte kritisch zur Ausrichtung der Hightech Agenda und den Arbeitsbedingungen in der Wissenschaft. Für Dr. Michael Kaufmann (AfD) wurden keine spezifischen externen Stellungnahmen zum Gutachten gefunden.",
+  "sources": [
+    {
+      "name": "Florian Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Florian Müller, forschungspolitischer Sprecher der CDU/CSU-Bundestagsfraktion, betonte, dass die Hightech Agenda Deutschland für Aufbruch stehe und die Grundlage für ein neues Kapitel der deutschen Wohlstandsgeschichte legen könne. Er unterstrich, dass die treffsichere Umsetzung der Hightech Agenda höchste Priorität habe, um hochwertige Arbeitsplätze, Wertschöpfung und Wohlstand in Deutschland zu sichern.",
+      "source_title": "Hightech Agenda steht für Aufbruch",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Michael Kaufmann",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Holger Mann",
+      "party": "SPD",
+      "found": true,
+      "statement": "Holger Mann (SPD) erklärte, das EFI-Gutachten 2026 bestätige den Kurs der Bundesregierung in der Hightech Agenda und fordere einen konsequenteren Transfer von Forschungsergebnissen in die wirtschaftliche Verwertung. Er kritisierte zudem das Vorpreschen Bayerns beim Bau eines Fusionskraftwerks und forderte eine unabhängige, wissenschaftsgeleitete Bewertung aufgrund der Milliardeninvestitionen und unklaren Zeitpläne.",
+      "source_title": "EFI-Gutachten 2026: Kurs der Bundesregierung für Innovation bestätigt / Fusionsreaktor: Das Vorpreschen Bayerns irritiert",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/efi-gutachten-2026-kurs-der-bundesregierung-fuer-innovation-bestaetigt",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ayse Asar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Ayse Asar (Bündnis 90/Die Grünen) forderte eine klare Handlungsagenda der Bundesregierung im Anschluss an das EFI-Gutachten 2026 und kritisierte die Ankündigungspolitik und mangelnde Transparenz der Hightech Agenda. Sie bemängelte zudem die Intransparenz der Finanzierung der Hightech Agenda und das unzureichende Vorgehen beim Sanierungsstau an Hochschulen.",
+      "source_title": "EFI-Gutachten 2026: Klare Handlungsagenda für die Bundesregierung / Forschungsausschuss: Diskussion über EFI-Gutachten und Hochschulbau",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lemke (Die Linke) kritisierte in einem Interview, dass die Hightech Agenda von realen Problemen ablenke. Sie sprach sich für eine Reform des WissZeitVG aus, um befristete Arbeitsverträge in der Forschung zu reduzieren und betonte die Bedeutung von Kontinuität für die Forschungsqualität.",
+      "source_title": "Sonja Lemke: „Die Hightech-Agenda lenkt von realen Problemen ab“",
+      "url": "https://table.media/briefings/sonja-lemke-die-hightech-agenda-lenkt-von-realen-problemen-ab/",
+      "platform": "Presse"
+    }
+  ]
+}

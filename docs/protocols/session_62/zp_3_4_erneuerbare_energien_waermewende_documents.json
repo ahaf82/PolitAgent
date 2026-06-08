@@ -1,0 +1,52 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4457",
+      "title": "Die Sonne ihren Job machen lassen – Für ein zukunftsfestes Netzpaket und Erneuerbare-Energien-Gesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4457&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2724",
+      "title": "Heizkostenfalle verhindern – Wärmewende weiterführen für ein warmes und bezahlbares Zuhause",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2724&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4391",
+      "title": "Beschlussempfehlung und Bericht zu dem Antrag der Abgeordneten Dr. Alaa Alhamwi, Kassem Taher Saleh, Dr. Julia Verlinden, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4391&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/3910",
+      "title": "Für das Recht auf Heizen – Bezahlbar und erneuerbar",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3910&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5405",
+      "title": "Kleine Anfrage zur Finanzierung der kommunalen Wärmeplanung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5405&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4271",
+      "title": "Nach Urteil des Bundesverwaltungsgerichts – Ein Klima-Turbo für Deutschland",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4271&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte befasste sich mit Anträgen der Fraktionen Bündnis 90/Die Grünen und Die Linke zu den Themen 'Erneuerbare Energien und Wärmewende'. Die Anträge der Fraktion Bündnis 90/Die Grünen (Drucksachen 21/4457 und 21/2724) sowie der Antrag der Fraktion Die Linke (Drucksache 21/3910) wurden nach der Aussprache zur weiteren Beratung an die zuständigen Ausschüsse überwiesen. Für Drucksache 21/2724 lag bereits eine Beschlussempfehlung (Drucksache 21/4391) vor, die die Ablehnung empfahl.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 0,
+      "nein": 0,
+      "enthaltung": 0,
+      "nicht_abgegeben": 0
+    },
+    "faction_results": []
+  }
+}

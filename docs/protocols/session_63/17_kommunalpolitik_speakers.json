@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externe Kommunikation der Abgeordneten zur Kommunalpolitik spiegelt die im Bundestag geäußerten Fraktionspositionen wider, wobei der Fokus auf parteispezifischen Lösungsansätzen liegt. Karoline Otte (Grüne) betont weiterhin die Notwendigkeit, Kommunen finanziell zu stärken und demokratisches Engagement vor Ort zu schützen, wie in Pressemitteilungen und auf ihrer Website hervorgehoben. Wilhelm Gebhard und Michael Kießling (CDU/CSU) unterstreichen die Forderung nach Bürokratieabbau und effizienterer Mittelvergabe, was auch in Abgeordnetenwatch-Fragen und Ausschussarbeit zum Ausdruck kommt. Sebastian Münzenmaier (AfD) vertritt in seiner externen Kommunikation weiterhin die Position, die Probleme des ländlichen Raums jenseits ideologischer Debatten anzugehen und schlägt konkrete Entlastungen vor, während Esra Limbacher (SPD) und Sören Pellmann (Die Linke) eine strukturelle Neuordnung der Kommunalfinanzen und die Anwendung des 'Wer bestellt, bezahlt'-Prinzips als zentrale Forderungen beibehalten, die auch auf Parteitagen und in Artikeln thematisiert werden.",
+  "sources": [
+    {
+      "name": "Karoline Otte",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Karoline Otte setzt sich auf ihrer Website und in Pressemitteilungen für starke Kommunen ein, indem sie finanzielle Unterstützung für Klimaschutz, soziale Gerechtigkeit und gute Infrastruktur vor Ort fordert. Sie betont, dass Demokratie vor Ort beginnt und kritisiert die 'schlimmste Finanzkrise' der Kommunen, die zu Kürzungen bei wichtigen Angeboten führt. Otte engagiert sich zudem für den Schutz von Kommunalpolitikern vor Bedrohungen.",
+      "source_title": "Zusammenhalt vor Ort – Demokratie braucht Begegnung, Schutz und verlässliche Kommunen – Karoline Otte MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Wilhelm Gebhard",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Wilhelm Gebhard betont auf seiner Homepage und in seiner Rolle im Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen die Notwendigkeit von Reformen und Bürokratieabbau für die Kommunen. Er setzt sich für mehr frei verfügbare Mittel ein, anstatt eines 'Förderdschungels', und bekräftigt die Position der CDU/CSU, dass die Kommunen am besten wissen, wo das Geld benötigt wird.",
+      "source_title": "Deutscher Bundestag - Wilhelm Gebhard",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Münzenmaier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Sebastian Münzenmaier, Abgeordneter der AfD, betont in externen Stellungnahmen die Notwendigkeit, die Sorgen der Menschen im ländlichen Raum ernst zu nehmen, insbesondere in Bezug auf finanzielle Engpässe für grundlegende kommunale Aufgaben. Er kritisiert eine 'linke Akademikermilieu'-Politik und fordert stattdessen Maßnahmen wie die Streichung der Grundsteuer und die Erhöhung der Pendlerpauschale, um die Bürger direkt zu entlasten und die kommunale Selbstverwaltung zu stärken.",
+      "source_title": "Sebastian Münzenmaier - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/sebastian-muenzenmaier/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Esra Limbacher",
+      "party": "SPD",
+      "found": false,
+      "statement": "Esra Limbacher hebt in seiner externen Kommunikation, wie auch im Bundestag, die zentrale Bedeutung der Kommunalpolitik als 'Herz unserer Demokratie' hervor und fordert eine strukturelle Neuordnung der Kommunalfinanzen. Er betont, dass trotz der Bereitstellung vieler Mittel durch die Koalition, diese nicht ausreichen und die Gelder direkt bei den Kommunen ankommen müssen, anstatt bei den Ländern hängen zu bleiben.",
+      "source_title": "Ein Zeichen für die Demokratie: SPD Maintal stellt „Schwammi“ zur Kommunalwahl 2026 vor",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sören Pellmann fordert in öffentlichen Äußerungen und Artikeln weiterhin vehement die Wiederherstellung der Handlungsfähigkeit der Kommunen durch das Prinzip 'Wer bestellt, bezahlt!', um die finanzielle Unterfinanzierung vom Bund übertragener Aufgaben zu beenden. Er kritisiert unzureichende Investitionen und betont die Notwendigkeit, soziale Infrastruktur und Ehrenamt finanziell zu stärken, um die Demokratie vor Ort zu erhalten.",
+      "source_title": "Kollabierende Kommunalfinanzen: Eine Gemeindefinanzreform ist überfällig - Leipziger Zeitung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Kießling",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Michael Kießling unterstreicht in seiner externen Kommunikation die Bedeutung von Kommunalwahlen als Ausdruck gelebter Demokratie vor Ort. Er kritisiert Vorschläge für neue Bundesförderungen als Bevormundung der Kommunen und plädiert für mehr lokale Entscheidungsfreiheit und eine Entlastung der Kommunen durch effizientere Prozesse und weniger Bürokratie.",
+      "source_title": "Michael Kießling - Profil bei abgeordnetenwatch.de",
+      "url": "https://www.abgeordnetenwatch.de/profile/michael-kiessling",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

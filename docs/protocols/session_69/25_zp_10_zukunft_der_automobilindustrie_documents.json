@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3715",
+      "title": "Jetzt handeln – Die Zukunft der Automobilindustrie sozial und ökologisch gestalten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3715&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4952",
+      "title": "E-Auto-Förderung wirksam ausrichten – Sozial, klimawirksam und europäisch",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4952&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zum Thema 'Zukunft der Automobilindustrie' wurde auf Grundlage zweier Anträge der Fraktionen Die Linke und Bündnis 90/Die Grünen geführt. Beide Anträge wurden anschließend an den federführenden Ausschuss für Wirtschaft und Energie zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

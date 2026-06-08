@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zur Abschaffung des CO2-Emissionshandelssystems (ETS) spiegeln die parteiinternen Positionen aus der Debatte wider. Während die AfD-Abgeordneten Micha Fehre und Kay Gottschalk weiterhin vehement die Abschaffung des ETS fordern, um die deutsche Wirtschaft und Bürger zu entlasten, positionieren sich die SPD und CDU/CSU klar gegen eine solche Maßnahme. Esra Limbacher (SPD) und Dr. Thomas Gebhart (CDU/CSU) betonen die Notwendigkeit des Emissionshandels als effizientes Klimaschutzinstrument, das jedoch präzisiert und modernisiert werden müsse, um Wettbewerbsfähigkeit und Arbeitsplätze zu sichern. Julian Joswig (Bündnis 90/Die Grünen) sieht im ETS ein kluges, marktwirtschaftliches Instrument und warnt vor den negativen Folgen einer Abschaffung für Investitionen und die europäische Wirtschaft.",
+  "sources": [
+    {
+      "name": "Micha Fehre",
+      "party": "AfD",
+      "found": true,
+      "statement": "Micha Fehre kritisiert den CO2-Emissionshandel als eine Belastung für die deutsche Industrie und eine versteckte Steuer, die die Energiekosten erhöht und die Wettbewerbsfähigkeit schwächt. Er fordert die vollständige Abschaffung des Systems und des CO2-Grenzausgleichsmechanismus (CBAM), um die Wirtschaft zu stärken und Wohlstandsverluste zu vermeiden. Seine Position ist konsistent mit der Haltung der AfD-Fraktion, die den Emissionshandel als ineffektiv und schädlich ansieht.",
+      "source_title": "Abschaffung des CO2-Emissionshandelssystems gefordert - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-994348",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Thomas Gebhart",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Thomas Gebhart bekräftigt die Position der CDU/CSU, den Emissionshandel als marktwirtschaftliches und effizientes Instrument zum Klimaschutz zu erhalten. Er räumt die Notwendigkeit einer Reform und Modernisierung des Systems ein, um Unternehmen langfristige Investitionsperspektiven zu geben und Abwanderungen zu verhindern. Die Abschaffung des ETS wird von ihm als 'völlig unverantwortlich' und rückwärtsgewandt abgelehnt.",
+      "source_title": "AfD fordert Ende der CO2-Bepreisung - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julian Joswig",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Julian Joswig sieht das Emissionshandelssystem als das klügste Klimaschutzinstrument an, das marktwirtschaftliche Preissignale setzt und Technologieoffenheit fördert. Er warnt, dass ein Antrag zur Abschaffung des ETS die europäische Wirtschaft gefährde und Planungsunsicherheit schaffe. Joswig betont, dass der ETS Emissionen reduziert und gleichzeitig das Wirtschaftswachstum fördert.",
+      "source_title": "Julian Joswig - Profil bei abgeordnetenwatch.de",
+      "url": "https://www.abgeordnetenwatch.de/profile/julian-joswig",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Esra Limbacher",
+      "party": "SPD",
+      "found": true,
+      "statement": "Esra Limbacher und die SPD-Fraktion verteidigen den Emissionshandel als zentrales und effektives Klimaschutzinstrument, das für die deutsche Industrie Verlässlichkeit und Planbarkeit bietet. Er warnt davor, dass eine Abschaffung des ETS ganze Teile der Stahl- und Chemieindustrie zum Erliegen bringen und Arbeitsplätze vernichten würde. Die SPD fordert eine präzise Nachsteuerung des ETS, anstatt das System grundsätzlich infrage zu stellen.",
+      "source_title": "SPD-Bundestagsfraktion: „Emissionshandel präzisieren statt neu erfinden“",
+      "url": "https://background.tagesspiegel.de/energie-klima/emissionshandel-praezisieren-statt-neu-erfinden",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kay Gottschalk unterstützt die Forderung der AfD nach Abschaffung der CO2-Bepreisung und des Emissionshandels, um die hohen Energiepreise zu senken und die Wettbewerbsfähigkeit der deutschen Wirtschaft zu stärken. Er kritisiert die Kosten des CO2-Preises in Deutschland im Vergleich zu anderen Ländern und sieht darin eine Belastung für Unternehmen und Bürger. Seine Ansicht ist, dass die Klimaschutzmaßnahmen keine nennenswerten Effekte haben, aber Wohlstand und Arbeitsplätze gefährden.",
+      "source_title": "AfD fordert Abschaffung des CO2-Emissionshandelssystems gefordert - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-994348",
+      "platform": "Website"
+    }
+  ]
+}

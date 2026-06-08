@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4029",
+      "title": "Vermögensteuer wieder erheben – Länderfinanzen nachhaltig sichern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4029&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4456",
+      "title": "Gerechtigkeitslücke im Steuersystem schließen – 300-Wohneinheiten-Regelung in der Erbschaftsteuer abschaffen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4456&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Anträge der Fraktion Die Linke zum Thema Vermögensteuer und der Fraktion Bündnis 90/Die Grünen zur Schließung von Steuergerechtigkeitslücken wurden nach der Debatte dem federführenden Finanzausschuss zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

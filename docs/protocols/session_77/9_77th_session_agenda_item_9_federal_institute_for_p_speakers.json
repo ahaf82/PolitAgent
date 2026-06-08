@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die AfD-Fraktion, vertreten durch Martin Reichardt, vertritt außerhalb des Parlaments weiterhin die Position, dass Deutschland eine \"demografische Katastrophe\" erlebe und fordert eine \"aktivierende Familienpolitik\" zur Steigerung der Geburtenrate der einheimischen Bevölkerung, während sie Einwanderung als Lösung ablehnt. Demgegenüber betonen Abgeordnete der SPD, Bündnis 90/Die Grünen und Die Linke in ihren externen Stellungnahmen die Notwendigkeit, alle vielfältigen Familienmodelle zu unterstützen. Sie fordern umfassende Maßnahmen zur finanziellen Entlastung von Familien, zum Ausbau der Kinderbetreuung und zur Bekämpfung von Kinderarmut, um soziale Sicherheit und Wahlfreiheit bei der Familiengründung zu gewährleisten. Die CDU/CSCS-Position des genannten Redners Oliver Pöpsel konnte nicht durch spezifische externe Einzelaussagen außerhalb des Plenums belegt werden.",
+  "sources": [
+    {
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Reichardt, familienpolitischer Sprecher der AfD-Bundestagsfraktion, betont, Deutschland befinde sich in einer demografischen Katastrophe aufgrund niedriger Geburtenraten (1,36 Kinder/Frau im Jahr 2023). Er fordert eine aktivierende Familienpolitik mit steuerlichen Erleichterungen für Familien und vergünstigten Kinderbedarfsartikeln, um junge Menschen zur Familiengründung zu ermutigen und das \"Aussterben des deutschen Volkes\" abzuwenden, wobei Einwanderung als Lösung ausgeschlossen wird.",
+      "source_title": "Martin Reichardt: Mit aktivierender Familienpolitik die demographische Katastrophe abwenden - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/martin-reichardt-mit-aktivierender-familienpolitik-die-demographische-katastrophe-abwenden/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Oliver Pöpsel",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Misbah Khan",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Als stellvertretende Fraktionsvorsitzende fordert Misbah Khan eine umfassende Gesamtstrategie der Bundesregierung zur wirksamen und nachhaltigen Bekämpfung von Kinderarmut. Sie betont, dass die Verankerung von Kinderrechten im Grundgesetz überfällig und kein bloßer Symbolakt sei, um Kindern die verdiente rechtliche und politische Bedeutung zu geben, und kritisiert das untätige Zusehen der Regierung angesichts wachsender sozialer Ungleichheit.",
+      "source_title": "Misbah Khan: Gesamtstrategie gegen Kinderarmut und Kinderrechte ins Grundgesetz | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/presse/pm-november-2025/misbah-khan-gesamtstrategie-gegen-kinderarmut-und-kinderrechte-ins-grundgesetz/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Truels Reichardt",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Kinderbeauftragter spricht sich Truels Reichardt entschieden gegen Kürzungen beim Unterhaltsvorschuss aus. Er bezeichnet diesen als einen zentralen Schutz für hunderttausende Kinder und einen verlässlichen Baustein für Alleinerziehende, um finanzielle Abstürze zu verhindern. Statt Leistungskürzungen fordert er einen Fokus auf die Behebung von Schwachstellen im System durch verbesserte Verwaltungsstrukturen und Datenaustausch, um das Kindeswohl zu schützen und soziale Sicherheit zu stärken.",
+      "source_title": "Kinder schützen – Alleinerziehende stärken - Truels Reichardt",
+      "url": "https://www.truels-reichardt.de/2026/04/20/kinder-schuetzen-alleinerziehende-staerken/",
+      "platform": "Website"
+    },
+    {
+      "name": "Mandy Eißing",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Mandy Eißing kritisiert, dass es eine Frechheit sei, wenn Politiker Frauen vorschreiben wollen, Kinder zu gebären, um die Demografie zu retten. Sie betont, dass junge Familien stattdessen soziale Sicherheit und echte Gleichberechtigung benötigen. Ihre Partei setzt sich für eine moderne Familienpolitik ein, die alle Familienformen respektiert und unterstützt.",
+      "source_title": "Reden - Frauen als Gebärmaschinen? Nicht mit uns! Mandy Eißing, 07.05.2026",
+      "url": "https://www.dielinkebt.de/themen/reden/mandy-eissing/",
+      "platform": "Presse"
+    }
+  ]
+}

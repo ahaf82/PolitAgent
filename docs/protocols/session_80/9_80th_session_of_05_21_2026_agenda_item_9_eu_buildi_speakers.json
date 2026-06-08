@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zur EU-Gebäuderichtlinie und Energieunabhängigkeit spiegelt sich auch in den externen Äußerungen der Abgeordneten wider, wobei die Positionen der jeweiligen Fraktionen konsistent vertreten werden. Marc Bernhard (AfD) kritisiert das 'Gebäudemodernisierungsgesetz' vehement als 'Heizungshammer durch die Hintertür' und 'Mogelpackung', fordert dessen Abschaffung und betont die finanzielle Belastung für Bürger durch EU-Vorgaben und CO2-Steuern. Helmut Kleebank (SPD) verteidigt das Gesetz als notwendigen Schritt für sozial gerechten Klimaschutz, der Akzeptanz schaffen soll, räumt aber ein, dass der Weg der Energiepolitik ein Kompromiss ist. Jörg Cezanne (Die Linke) kritisiert, dass das Gesetz Wohlhabende bevorteilt und Mieter in eine 'fossile Kostenfalle' treibt, und fordert einen 'Heizkostendeckel' sowie eine vollständige Übernahme der CO2-Kosten durch Vermieter. Für Sepp Müller (CDU/CSU) und Katharina Dr. Badum (Bündnis 90/Die Grünen) konnten keine eigenständigen externen Stellungnahmen über die im Debattenprotokoll genannten Positionen hinaus gefunden werden.",
+  "sources": [
+    {
+      "name": "Sepp Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Katharina Dr. Badum",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": true,
+      "statement": "Marc Bernhard bezeichnete die EU-Gebäuderichtlinie und das 'Gebäudemodernisierungsgesetz' als 'Sanierungszwang' und 'Heizungshammer', der Deutschland über 250 Milliarden Euro kosten und Mieten verteuern werde. Er kritisierte die 'Biotreppe' als unrealistisch und betonte, dass die CO2-Steuer fossile Heizungen unbezahlbar mache. Er forderte die Abschaffung des 'Heizungsgesetzes' und ein Ende des 'energetischen Vorschriftenwahns'.",
+      "source_title": "Marc Bernhard: EU-Sanierungszwänge für Gebäude stoppen",
+      "url": "https://afdbundestag.de/marc-bernhard-eu-sanierungszwaenge-fuer-gebaeude-stoppen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Helmut Kleebank",
+      "party": "SPD",
+      "found": false,
+      "statement": "Helmut Kleebank betonte die Wichtigkeit eines sozial gerechten Klimaschutzes und die Notwendigkeit, Akzeptanz für politische Entscheidungen zu schaffen. Er verteidigte das 'Gebäudemodernisierungsgesetz' als verantwortungsvoll und akzeptanzfördernd. Er räumte ein, dass die 65-Prozent-Quote für erneuerbare Energien wirksam sei, aber auch andere Wege zur Transformation möglich sind und eine Koalition Kompromisse erfordere.",
+      "source_title": "SPD-Berichterstatter zu Heizungsgesetz: \"Wie die Geschichte ausgeht, ist noch offen\"",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jörg Cezanne",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Jörg Cezanne und Die Linke forderten 'das Recht auf Heizen – Bezahlbar und erneuerbar' und kritisierten, dass das 'Gebäudemodernisierungsgesetz' Wohlhabende bevorteile und Mieter in eine 'fossile Kostenfalle' treibe. Er plädierte für die Abschaffung der Modernisierungsumlage, einen Preisdeckel für neue Heizungen basierend auf Wärmepumpen und die vollständige Übernahme der CO2-Kosten durch Vermieter.",
+      "source_title": "Deutscher Bundestag Drucksache 21/3910 Antrag der Abgeordneten Violetta Bock, Jörg Cezanne, Luigi Pantisano, weiterer Abgeordne",
+      "url": "https://dserver.bundestag.de/btd/21/039/2103910.pdf",
+      "platform": "Website"
+    }
+  ]
+}

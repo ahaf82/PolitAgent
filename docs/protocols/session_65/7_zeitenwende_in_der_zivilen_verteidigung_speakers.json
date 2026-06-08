@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte zeigen sich die Abgeordneten unterschiedlich aktiv zum Thema 'Zeitenwende in der Zivilen Verteidigung'. Leon Eckert (Bündnis 90/Die Grünen) hat sich intensiv in die wissenschaftliche Auseinandersetzung eingebracht und an einer Publikation zu diesem Thema mitgewirkt. Für Sebastian Schmidt (CDU/CSU) und Rasha Nasr (SPD) konnten keine spezifischen externen Stellungnahmen direkt zur 'Zeitenwende in der Zivilen Verteidigung' identifiziert werden. Arne Raue (AfD) äußerte sich auf Twitter kritisch zur Innenministerkonferenz und forderte eine Stärkung des Katastrophenschutzes im Kontext der Zivilen Verteidigung. Jan Köstering (Die Linke) kommentierte auf seiner Website die Notwendigkeit, gesellschaftliche Resilienz zu stärken und die Rolle des Bevölkerungsschutzes zu überdenken.",
+  "sources": [
+    {
+      "name": "Leon Eckert",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Leon Eckert hat sich mit den aktuellen sicherheitspolitischen Herausforderungen und politischen Entscheidungswegen auseinandergesetzt. Seine Perspektiven sind in dem Sammelband 'Zeitenwende, Zivile Verteidigung und Bevölkerungsschutz: Perspektiven unterschiedlicher Disziplinen' eingeflossen, der im Januar 2026 veröffentlicht wurde.",
+      "source_title": "Zeitenwende, Zivile Verteidigung und Bevölkerungsschutz: Perspektiven unterschiedlicher Disziplinen (Buch)",
+      "url": "https://link.springer.com/book/10.1007/978-3-662-71881-0",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Schmidt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Arne Raue",
+      "party": "AfD",
+      "found": true,
+      "statement": "Arne Raue kritisierte auf Twitter die Ergebnisse der Innenministerkonferenz bezüglich des Zivil- und Katastrophenschutzes. Er forderte mehr Geld und bessere Ausstattung für Rettungskräfte sowie den Wiederaufbau von Schutzinfrastruktur als Reaktion auf die 'Zeitenwende'.",
+      "source_title": "Tweet von Arne Raue zur Innenministerkonferenz",
+      "url": "https://x.com/ArneRaueMdB/status/1733621147071649930",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Rasha Nasr",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jan Köstering",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Jan Köstering betonte auf seiner persönlichen Website die Notwendigkeit einer 'Zeitenwende im Bevölkerungsschutz', die weit über militärische Aspekte hinausgehen müsse. Er forderte, die gesellschaftliche Resilienz zu stärken, Infrastrukturen zu schützen und die Prävention von Krisen in den Vordergrund zu stellen.",
+      "source_title": "Zeitenwende im Bevölkerungsschutz: Mehr als nur Militär",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

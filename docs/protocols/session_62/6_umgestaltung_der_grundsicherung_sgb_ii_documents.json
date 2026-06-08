@@ -1,0 +1,101 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3541",
+      "title": "Entwurf eines Dreizehnten Gesetzes zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3541&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4522",
+      "title": "Beschlussempfehlung des Ausschusses für Arbeit und Soziales zu dem Gesetzentwurf der Bundesregierung – Entwurf eines Dreizehnten Gesetzes zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4522&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4525",
+      "title": "Änderungsantrag der Abgeordneten Jan Feser, René Springer, Gerrit Huy, weiterer Abgeordneter und der Fraktion der AfD zu dem Gesetzentwurf der Bundesregierung – Entwurf eines Dreizehnten Gesetzes zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4525&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3605",
+      "title": "Antrag der Fraktion der AfD: Aktivierende Grundsicherung statt Grundsicherungsgeld",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3605&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2222",
+      "title": "Antrag der Fraktion der AfD: Bürgergeldleistungen stoppen bei Haftbefehlen – Keine Unterstützung für gesuchte Straftäter",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2222&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3606",
+      "title": "Antrag der Fraktion Bündnis 90/Die Grünen: Chancen statt Stigmatisierung – Für eine gerechte Grundsicherung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3606&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3604",
+      "title": "Antrag der Fraktion Die Linke: Sanktionen stoppen und Arbeitsvermittlung stärken – Grundpfeiler einer menschenwürdigen Grundsicherung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3604&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag hat am 5. März 2026 den Gesetzentwurf der Bundesregierung zur Umgestaltung des Bürgergelds zu einer neuen Grundsicherung in der vom Ausschuss für Arbeit und Soziales geänderten Fassung mit 320 Ja-Stimmen angenommen. Mehrere Änderungsanträge und Anträge der Oppositionsfraktionen wurden mit den Stimmen der Koalitionsmehrheit abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=921",
+    "overall_result": {
+      "ja": 320,
+      "nein": 268,
+      "enthaltung": 2,
+      "nicht_abgegeben": 40
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 113,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 7
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 207,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 85,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 145,
+        "enthaltung": 0,
+        "nicht_abgegeben": 5
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 55,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 1,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

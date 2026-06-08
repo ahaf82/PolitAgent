@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zum Thema 'Regierungserklärung zum Europäischen Rat' im März 2026 spiegeln im Wesentlichen die Positionen wider, die auch im Bundestag geäußert wurden. Bundeskanzler Friedrich Merz betonte weiterhin die Notwendigkeit eines wirtschaftlich starken und verteidigungsfähigen Europas, forderte Bürokratieabbau und lobte die Beschlüsse des Europäischen Rates zur Wettbewerbsfähigkeit und Ukraine-Unterstützung, kritisierte jedoch Ungarns Blockadehaltung. Jens Spahn unterstützte diese Haltung und betonte Europas Bedarf an einem 'Willen zur Macht' im Kontext globaler Verschiebungen. Tino Chrupalla (AfD) äußerte sich kritisch zur Ukraine-Politik und forderte eine Beendigung des Krieges durch Verhandlungen, warnte vor einer Eskalation und kritisierte die finanzielle Unterstützung der Ukraine. Für Dirk Wiese und Katharina Dröge konnten im direkten Zeitrahmen zum Europäischen Rat keine expliziten externen Stellungnahmen gefunden werden, die über die im Plenum geäußerten Positionen hinausgehen.",
+  "sources": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bundeskanzler Merz betonte vor und nach dem Europäischen Rat im März 2026 die Wichtigkeit eines starken, wettbewerbsfähigen und verteidigungsfähigen Europas. Er drängte auf Bürokratieabbau, die Stärkung des Binnenmarktes und den Abschluss neuer Freihandelsabkommen. Merz kritisierte auch die Blockadehaltung Ungarns bezüglich des Ukraine-Kredits und bekräftigte die umfassende Unterstützung für die Ukraine sowie die Ablehnung einer militärischen Beteiligung Deutschlands im Nahost-Konflikt ohne Mandat.",
+      "source_title": "Statement des Bundeskanzlers vor Europäischem Rat | Bundesregierung; Regierungserklärung des Kanzlers zum Europäischen Rat | Bundesregierung; Wirtschaftsreformen stärken Europa - CDU Deutschlands; Pressekonferenz des Kanzlers nach dem Europäischen Rat - Bundesregierung.de",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jens Spahn",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Jens Spahn, als Unionsfraktionschef, forderte im März 2026 angesichts globaler Machtverschiebungen ein neues Bewusstsein für Europas Stärke und betonte, dass Europa den 'Willen zur Macht' brauche, um seine Interessen durchzusetzen. Er unterstützte die Linie des Kanzlers bezüglich Wettbewerbsfähigkeit und des Nahost-Konflikts und kritisierte die AfD scharf.",
+      "source_title": "Spahn: Europa braucht Willen zur Macht - CDU/CSU-Fraktion im Deutschen Bundestag; Spahn: „Unsere Wahl heißt: Europa!“ - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "found": true,
+      "statement": "Tino Chrupalla äußerte sich im März 2026 enttäuscht über das Vorgehen von US-Präsident Trump im Iran, das er als Bruch von Wahlversprechen ansah, und befürchtete eine Eskalation im Nahen Osten. Er sprach sich wiederholt für Friedensverhandlungen in der Ukraine aus und kritisierte die Bundesregierung für ihren Konfrontationskurs und die finanzielle Unterstützung, die Deutschland ins politische Abseits manövriere und Steuerzahler finanziellen Risiken aussetze.",
+      "source_title": "AfD leader Chrupalla on Trump and the Iran war: \"I am extremely disappointed\" | Markus Lanz, Marc... - YouTube; Alice Weidel/Tino Chrupalla: Ukraine-Kredit ist ein politisches und fiskalisches Desaster - Presseportal; Chrupalla: „Kompromiss kann für Ukraine schmerzhaft sein. Aber es sterben keine Menschen mehr“ - WELT",
+      "url": "https://www.youtube.com/watch?v=k_lPjF-Xv4g,%20https://www.presseportal.de/pm/111811/5674315,%20https://www.welt.de/politik/deutschland/article249673528/Chrupalla-Kompromiss-kann-fuer-Ukraine-schmerzhaft-sein-Aber-es-sterben-keine-Menschen-mehr.html,%20https://www.welt.de/politik/deutschland/article249089028/Chrupalla-ueber-Merz-Wenn-der-Machthaber-der-Ukraine-auf-Betteltour-geht-kommen-dem-Kanzler-die-Traenen.html",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Katharina Dröge",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

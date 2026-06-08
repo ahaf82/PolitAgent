@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/1974",
+      "title": "Entwurf eines Steueränderungsgesetzes 2025",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1974&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/3104",
+      "title": "Beschlussempfehlung und Bericht des Finanzausschusses zum Entwurf eines Steueränderungsgesetzes 2025",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3104&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6034",
+      "title": "Sportvereine, Ehrenamt und Katastrophenschutz stärken – Bürokratie abbauen, Steuern senken, Nachwuchs und Zukunft sichern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6034&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zum Thema 'Sozialer Zusammenhalt durch Engagement – Das Ehrenamt als Rückgrat unserer Gesellschaft' wurde als vereinbarte Debatte geführt. Es wurden verschiedene Standpunkte der Fraktionen zum Bürokratieabbau, zur Wertschätzung und zu Fördermaßnahmen für das Ehrenamt ausgetauscht. Ein konkreter Beschluss oder eine Abstimmung über einen vorliegenden Antrag oder eine Vorlage wurde im bereitgestellten Protokoll nicht vermerkt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

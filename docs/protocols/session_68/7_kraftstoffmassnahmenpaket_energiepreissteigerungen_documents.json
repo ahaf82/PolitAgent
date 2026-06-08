@@ -1,0 +1,101 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4744",
+      "title": "Entwurf eines Gesetzes zur Einführung eines Gesetzes zur Anpassung von Kraftstoffpreisen und zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (Kraftstoffmaßnahmenpaket)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4744&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4984",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss) zu dem Gesetzentwurf der Fraktionen der CDU/CSU und SPD - Drucksache 21/4744 - Entwurf eines Gesetzes zur Einführung eines Gesetzes zur Anpassung von Kraftstoffpreisen und zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (Kraftstoffmaßnahmenpaket)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4984&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4988",
+      "title": "Entschließungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der dritten Beratung des Gesetzentwurfs der Fraktionen der CDU/CSU und SPD – Drucksachen 21/4744, 21/4984 – Entwurf eines Gesetzes zur Einführung eines Gesetzes zur Anpassung von Kraftstoffpreisen und zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (Kraftstoffmaßnahmenpaket)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4988&rows=25",
+      "type": "Entschließungsantrag"
+    },
+    {
+      "number": "Drucksache 21/4989",
+      "title": "Entschließungsantrag der Fraktion Die Linke zu der dritten Beratung des Gesetzentwurfs der Fraktionen der CDU/CSU und SPD – Drucksachen 21/4744, 21/4984 – Entwurf eines Gesetzes zur Einführung eines Gesetzes zur Anpassung von Kraftstoffpreisen und zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (Kraftstoffmaßnahmenpaket)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4989&rows=25",
+      "type": "Entschließungsantrag"
+    },
+    {
+      "number": "Drucksache 21/4750",
+      "title": "Antrag der Fraktion der AfD: Energiepreisschocks durch Irankrieg ernst nehmen – Unternehmen und Verbraucher nachhaltig und dauerhaft entlasten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4750&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4747",
+      "title": "Antrag der Fraktion Die Linke: Bezahlbares Leben statt fossiler Profite - Übergewinne abschöpfen und raus aus der fossilen Kostenfalle",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4747&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4748",
+      "title": "Antrag der Fraktion Die Linke: Sofortige Entlastung der Bevölkerung wegen des Anstiegs der Energiepreise",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4748&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf der Koalition (Drucksache 21/4744 in geänderter Fassung 21/4984) zur Einführung eines Kraftstoffmaßnahmenpakets wurde mit den Stimmen der Koalitionsfraktionen CDU/CSU und SPD sowie Bündnis 90/Die Grünen angenommen. Die Entschließungsanträge der Opposition (Drucksachen 21/4988 und 21/4989) sowie die Anträge der AfD (Drucksache 21/4750) und Die Linke (Drucksachen 21/4747 und 21/4748) wurden abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/parlament/plenum/abstimmung/liste/2026",
+    "overall_result": {
+      "ja": 445,
+      "nein": 138,
+      "enthaltung": 0,
+      "nicht_abgegeben": 46
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 203,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 5
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 137,
+        "enthaltung": 0,
+        "nicht_abgegeben": 13
+      },
+      {
+        "faction": "SPD",
+        "ja": 107,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 12
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 80,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 5
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 54,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 10
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 1,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

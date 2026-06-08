@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur Bekämpfung der Organisierten Kriminalität spiegeln größtenteils ihre im Bundestag vertretenen Positionen wider. Sascha Lensing (AfD) kritisiert weiterhin mangelnde Daten und ineffektive Strategien der Bundesregierung bei der Bekämpfung von Kriminalität, insbesondere im Bereich Drogen und Paralleljustiz, und fordert eine rechtsstaatliche Stärkung der Behörden ohne Massenüberwachung. Sebastian Fiedler (SPD) unterstreicht die Notwendigkeit einer umfassenden, international koordinierten Kriminalitätspolitik, die auch Umwelt- und Drogenkriminalität umfasst und gleichzeitig den Opferschutz und die Prävention stärkt. Lamya Kaddor (Bündnis 90/Die Grünen) betont eine differenzierte Betrachtung von 'Clankriminalität', warnt vor völkischen Zuschreibungen und setzt sich für grundrechtlich gesicherte Sicherheitsmaßnahmen ein. Katrin Fey (Die Linke) bekräftigt ihre Einschätzung, dass der AfD-Antrag ein taktisches Manöver mit fremdenfeindlicher Agenda sei. Für Dr. Katja Strauss-Köster (CDU/CSU) konnten keine spezifischen externen Stellungnahmen zum Thema Organisierte Kriminalität im relevanten Zeitraum gefunden werden, die über ihre Debattenbeteiligung hinausgehen.",
+  "sources": [
+    {
+      "name": "Sascha Lensing",
+      "party": "AfD",
+      "found": false,
+      "statement": "Sascha Lensing kritisiert, dass der Bundesregierung grundlegende Daten zur Gefährdungslage von Polizeibeamten im Bereich der Organisierten Kriminalität fehlen. Er bezeichnet dies als sicherheitspolitischen Blindflug und fordert ein bundesweites Schutzkonzept sowie eine systematische Erfassung illegaler Drogenimporte über den Postverkehr. Er warnt zudem vor einer 'Paralleljustiz' durch Clanregeln, die den Rechtsstaat untergrabe.",
+      "source_title": "Bundesregierung kennt Ausmaß der Bedrohung für Polizeibeamte nicht / Bundesregierung bei Bekämpfung der Drogenkriminalität im Blindflug / Head-on Attack on the German Constitutional State: Sascha Lensing on Migrant Parallel Justice!",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Katja Strauss-Köster",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Lamya Kaddor",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Lamya Kaddor kritisiert in einem parlamentarischen Austausch die 'völkische' Sichtweise auf Clankriminalität und betont, dass viele der betroffenen Familien längst deutsche Staatsbürger sind und das Phänomen der Organisierten Kriminalität breiter gefasst werden muss. Sie fordert eine differenzierte Herangehensweise, die nicht nur auf ethnische Zuschreibungen reduziert.",
+      "source_title": "Clan-Kriminalität in Deutschland - aus Sicht der Grünen - Michael Behrens",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sebastian Fiedler fordert einen gesamtgesellschaftlichen Ansatz in der Kriminalpolitik, insbesondere bei Wirtschafts- und Finanzkriminalität, Geldwäsche und Korruption. Er betont, dass Organisierte Kriminalität international und digital agiert und auch Umweltkriminalität ein wachsendes Betätigungsfeld für kriminelle Netzwerke darstellt, weshalb ein konsequenter Kampf notwendig ist. Er wurde zudem auf abgeordnetenwatch.de zur Beweislastumkehr bei Geldwäsche befragt, was seine Expertise in diesem Debattenpunkt unterstreicht.",
+      "source_title": "Strategie bei Organisierte Kriminalität – Interview mit Sebastian Fiedler, SPD / Das Ausmaß der Gewaltkriminalität bleibt besorgniserregend / Reform des Umweltstrafrechts stärkt Kampf gegen organisierte Kriminalität / Sehr geehrter Herr Fiedler, woran scheitert bei uns die Beweisumkehr (Geldwäsche) im Rahen der Bekämpfung der organisierten Kriminalität?",
+      "url": "N/A",
+      "platform": "Presse / Website / Abgeordnetenwatch"
+    },
+    {
+      "name": "Katrin Fey",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Katrin Fey bezeichnet den Antrag der AfD zur Organisierten Kriminalität als 'Wolf im Schafspelz' und taktisches Manöver, das trotz weicher Formulierung eine menschenfeindliche Agenda verfolge. Sie kritisiert die mangelnde Auseinandersetzung mit struktureller Kriminalität in Wirtschaft und Politik und bemängelt fehlende effektive Geldwäschebekämpfungsmaßnahmen.",
+      "source_title": "Reden - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/katrin-fey/",
+      "platform": "Website"
+    }
+  ]
+}

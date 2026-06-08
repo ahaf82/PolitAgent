@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5396",
+      "title": "Antrag: Achtstundentag im EU-Recht verankern und Beschäftigte schützen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5396&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5781",
+      "title": "Antrag: Vereinbarkeit statt Verfügbarkeit – Für eine moderne Arbeitszeitpolitik",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5781&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Anträge der Fraktion Die Linke (Drucksache 21/5396) und der Fraktion Bündnis 90/Die Grünen (Drucksache 21/5781) wurden nach der Debatte an den Ausschuss für Arbeit und Soziales (federführend) sowie weitere Ausschüsse zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": {},
+    "faction_results": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4100",
+      "title": "Unterrichtung durch die Bundesregierung. Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2025. – Drucksache 21/1080 –. Stellungnahme der Bundesregierung.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4100&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/1080",
+      "title": "Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2025",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1080&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/4350",
+      "title": "Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2026",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4350&rows=25",
+      "type": "Unterrichtung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte befasste sich mit der Unterrichtung der Bundesregierung über die Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2025 und 2026. Beide Unterrichtungen wurden im Anschluss an die Ausschüsse zur weiteren Beratung überwiesen, federführend an den Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung. Es wurde keine namentliche Abstimmung durchgeführt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Debatte zur Anpassung der Krankenhausreform (KHAG) spiegelt die konträren Positionen aus dem Bundestag wider. Während die Koalitionsfraktionen (CDU/CSU und SPD) das Gesetz als notwendige und praxistaugliche Weiterentwicklung zur Sicherung der Patientenversorgung und Entlastung der Beitragszahler begrüßen, kritisieren die Oppositionsfraktionen (AfD, Bündnis 90/Die Grünen, Die Linke) es scharf. Die Opposition sieht das KHAG als Verwässerung der ursprünglichen Reformziele, eine Gefahr für die Patientensicherheit durch aufgeweichte Qualitätsstandards, eine Zunahme der Bürokratie und eine Fortführung struktureller Probleme, insbesondere hinsichtlich der Finanzierung und des Schutzes ländlicher Versorgungsstrukturen.",
+  "sources": [
+    {
+      "name": "Dr. Stephan Pilsinger",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Stephan Pilsinger, Berichterstatter der CDU/CSU-Fraktion für Krankenhausthemen, begrüßte das Krankenhausreformanpassungsgesetz (KHAG) als wichtige Nachbesserung zur praxisnahen Gestaltung des Transformationsprozesses. Er hob hervor, dass das Gesetz mehr Planungssicherheit schaffe und die gesetzliche Krankenversicherung sowie die Länder finanziell entlaste, unter anderem durch erhöhte Bundesmittel für den Transformationsfonds. Pilsinger betonte zudem die Sicherung wichtiger Fachkliniken und die Verbesserung der Patientenversorgung durch Maßnahmen wie schnellere Termine für ambulante radiologische Untersuchungen.",
+      "source_title": "Bundestag verbessert Krankenhausreform und stärkt Zukunft der Kliniken | CSU-Landesgruppe",
+      "url": "https://www.csu-landesgruppe.de/presse/pressemitteilungen/bundestag-verbessert-krankenhausreform-und-staerkt-zukunft-der-kliniken",
+      "platform": "Website"
+    },
+    {
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Sichert (AfD) kritisierte den Gesetzentwurf zur Anpassung der Krankenhausreform als 'Stückwerk' und ein 'bürokratisches Monstrum', das die Ineffizienz im Gesundheitswesen weiter steigere. Er warnte vor einem 'Krankenhaussterben' in ländlichen Regionen und längeren Wartezeiten für Patienten, insbesondere bei Fachärzten. Sichert forderte einen grundlegenden Systemwechsel, der Profitmaximierung beendet und Lobbyinteressen entgegenwirkt, anstatt immer mehr Bürokratie aufzubauen und die Bürger mit Kosten zu belasten.",
+      "source_title": "Martin Sichert zur Krankenhausreform! - AfD-Fraktion im Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=2We63MYi5K8",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dagmar Schmidt",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dagmar Schmidt, stellvertretende Fraktionsvorsitzende der SPD, verteidigte die Krankenhausreform als überfälligen Schritt zur Korrektur struktureller Schieflagen in einem zu teuren und oft ineffizienten deutschen Gesundheitssystem. Sie betonte die Notwendigkeit einer patientenorientierten Versorgung und bekräftigte, dass das Anpassungsgesetz die Reform praxistauglich mache und Planungssicherheit schaffe, ohne die Grundarchitektur der Reform zu verändern. Schmidt lehnte Leistungskürzungen oder weitere Belastungen für die Versicherten entschieden ab und forderte stattdessen strukturelle Reformen zur Effizienzsteigerung.",
+      "source_title": "Für eine stabile, gute sowie gerechte Krankenversorgung - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/stabile-gute-gerechte-krankenversorgung",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Janosch Dahmen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Janosch Dahmen, gesundheitspolitischer Sprecher von Bündnis 90/Die Grünen, bezeichnete das Krankenhausreformanpassungsgesetz als 'faktische Rückabwicklung' der ursprünglichen Krankenhausreform. Er warnte, dass die Aufweichung von Qualitätskriterien und die Verschiebung von Mindestvorhaltezahlen die Patientensicherheit gefährdeten und zu steigenden Krankenkassenbeiträgen führen würden. Dahmen kritisierte, dass ineffiziente Strukturen konserviert und wichtige Ziele wie Spezialisierung und Qualität ausgehebelt würden, anstatt eine konsequente, patientenorientierte Reform umzusetzen.",
+      "source_title": "bundestagesgespräch mit Christos Pantazis und Janosch Dahmen zur Krankenhausreform am 06.03.26 - YouTube",
+      "url": "https://www.youtube.com/watch?v=wK4rtlbg6Zk",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ates Gürpinar von Die Linke kritisierte, dass die Anpassung der Krankenhausreform die Versprechen der Entökonomisierung und Überwindung der Fallpauschalen nicht einlöse. Er bemängelte, dass das Fallpauschalensystem weiterhin das Hauptproblem sei, das zu weiterer Unterfinanzierung der Grundversorgung und Klinikschließungen führe, während private Konzerne Milliardengewinne auf Kosten der Patienten machten. Gürpinar forderte ein Gewinnverbot für Krankenhäuser und die vollständige Ausgliederung sämtlicher Personalkosten aus den Fallpauschalen, um eine bedarfsgerechte und wohnortnahe Versorgung zu sichern.",
+      "source_title": "Linke kritisiert Warken-Reform als \"Mogelpackung\" - Berlin Story News",
+      "url": "https://www.berlinstory.de/news/linke-kritisiert-warken-reform-als-mogelpackung/",
+      "platform": "Presse"
+    }
+  ]
+}

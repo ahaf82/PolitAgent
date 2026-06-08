@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zur Windenergie spiegeln die konträren Positionen aus der Bundestagsdebatte wider. Während Abgeordnete der AfD (Reck, Holm) außerhalb des Plenums vehement die Abschaffung des Windenergieflächenbedarfsgesetzes und ein Moratorium für den Ausbau fordern, um Stromkostenexplosionen und Umweltzerstörung zu verhindern, betonen Politiker von Bündnis 90/Die Grünen (Uhlig) und SPD (Kreiser) die Windenergie als unverzichtbaren Baustein für eine unabhängige und klimafreundliche Energieversorgung. Sie fordern stattdessen einen beschleunigten Ausbau, Netzentwicklung und Speicherlösungen. Vertreter der CDU/CSU (Weiss, Kießling) positionieren sich ebenfalls gegen einen Ausbaustopp und plädieren für eine bessere Steuerung des Ausbaus und die Integration in ein modernes Energiesystem. Die Linke (Beutin) kritisiert die Bundesregierung für eine in ihren Augen verfehlte und sozial ungerechte Klimapolitik, die den Ausbau der Windenergie bremse und stattdessen fossile Abhängigkeiten verstetige.",
+  "sources": [
+    {
+      "name": "Christian Reck",
+      "party": "AfD",
+      "found": false,
+      "statement": "Christian Reck fordert die Abschaffung des Windenergieflächenbedarfsgesetzes, das er als 'planwirtschaftlichen grünen Irrsinn' bezeichnet. Er kritisiert die verpflichtenden 2%-Flächenziele und die damit verbundenen Umweltfolgen, wirtschaftlichen Belastungen und die Missachtung des Bürgerwillens, und unterstützt Volksanträge zum Stopp des Windkraftausbaus.",
+      "source_title": "Christian Reck | MdB / Redebeitrag Christian Reck (AfD) am 08.05.2026",
+      "url": "N/A",
+      "platform": "Website / Social Media"
+    },
+    {
+      "name": "Dr. Maria-Lena Weiss",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Maria-Lena Weiss lehnt die AfD-Anträge als 'Verhinderungspolitik' ab und betont, dass Windenergie ein wichtiger und unverzichtbarer Baustein eines modernen Energiesystems sei. Sie fordert, den Windenergieausbau besser zu steuern, anstatt ihn zu stoppen, und plädiert für Flexibilität, Speicherentfesselung und schnelleren Netzausbau.",
+      "source_title": "Vorschläge zur Abschaffung des Windenergieflächenbedarfsgesetzes abgelehnt - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katrin Uhlig",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Katrin Uhlig setzt sich aktiv für den Ausbau erneuerbarer Energien wie Wind- und Solarkraft ein, um diese bezahlbar und nachhaltig zu gestalten. Sie war maßgeblich an der größten Reform des EEG beteiligt und unterstützte Maßnahmen zur Beschleunigung von Genehmigungsverfahren für Windenergie an Land und auf See.",
+      "source_title": "Katrin Uhlig | Bundestagsfraktion Bündnis 90/Die Grünen / Katrin Uhlig | Für Bonn. Im Bundestag.",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dunja Kreiser betont die Bedeutung der Windenergie für Unabhängigkeit, Versorgungssicherheit, Zehntausende Arbeitsplätze und Gewerbesteuereinnahmen für Kommunen. Sie engagiert sich für den Netzausbau, Speicherlösungen und die Sektorkopplung, um ungenutzten Windstrom sinnvoll zu verwenden und die Energiewende voranzutreiben.",
+      "source_title": "Wie stellen Sie sich auf den ungenutzte, aber bezahlte Windstrom (10,5 TWh im Jahr 2023) zu nutzen? | Frage an Dunja Kreiser (SPD) - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/dunja-kreiser/fragen-antworten/wie-stellen-sie-sich-auf-den-ungenutzte-aber-bezahlte-windstrom-105-twh-im-jahr-2023-zu-nutzen",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Lorenz Gösta Beutin kritisiert die 'bremsende und kontraproduktive Politik' beim Ausbau der Windenergie und fordert, den Niedergang dieser Schlüsselindustrie zu verhindern. Er betont die Notwendigkeit, Klimaschutz und Naturerhalt nicht gegeneinander auszuspielen und plädiert für bundeseinheitliche Vorgaben zum Artenschutz, erleichtertes Repowering und eine stärkere Beteiligung der Standortkommunen.",
+      "source_title": "Windkraft im Naturpark: Bundestagsausschuss-Vorsitzender Lorenz Gösta Beutin besucht das Herzogtum Lauenburg / Mitglied des Bundestages | Im Wahlkreis - Lorenz Gösta Beutin",
+      "url": "N/A",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Michael Kießling",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Michael Kießling (CDU/CSU) bezeichnet die AfD-Anträge als 'Populismus' und 'Blockade'. Er betont die Notwendigkeit, die Energiewende ganzheitlich zu betrachten und den Ausbau der Windenergie zu steuern, nicht zu stoppen, um negative wirtschaftliche Auswirkungen eines Moratoriums zu vermeiden und die Stromversorgung zu sichern.",
+      "source_title": "Vorschläge zur Abschaffung des Windenergieflächenbedarfsgesetzes abgelehnt - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm fordert die Abschaffung des Windenergieflächenbedarfsgesetzes und ein Moratorium für den Windindustrieausbau, um 'explodierenden Stromkosten und der Zerstörung unserer Natur' entgegenzuwirken. Er kritisiert Windräder als 'Ungetüme', die bei Flaute keinen Strom liefern, und bezeichnet erneuerbare Energien als Gefahr für die nationale Sicherheit.",
+      "source_title": "Diesen Wahnsinn müssen wir dringend beenden! - Leif-Erik Holm - AfD-Fraktion im Bundestag - YouTube / Holm: Erneuerbare Energien sind große Gefahr für die nationale Sicherheit - AfD-Fraktion im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FjBfT2yB360%20/%20https://afdbundestag.de/holm-erneuerbare-energien-sind-grosse-gefahr-fuer-die-nationale-sicherheit/",
+      "platform": "Social Media / Website"
+    }
+  ]
+}

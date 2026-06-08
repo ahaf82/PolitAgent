@@ -1,0 +1,34 @@
+{
+  "documents": [
+    {
+      "number": "N/A",
+      "title": "Gesetzentwurf zur Stärkung der Angebote der Jugendarbeit im Ganztag während der Schulferien",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "N/A",
+      "title": "Bericht zum Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote für Grundschulkinder",
+      "url": "N/A",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "N/A",
+      "title": "Entschließungsantrag der Fraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung in der Ausschussfassung zur Stärkung der Angebote der Jugendarbeit und Ganztagsbetreuung in Schulferien wurde in zweiter und dritter Beratung angenommen. Die Fraktionen CDU/CSU und SPD stimmten zu, Die Linke lehnte ab, während sich AfD und Bündnis 90/Die Grünen enthielten.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 0,
+      "nein": 0,
+      "enthaltung": 0,
+      "nicht_abgegeben": 0
+    },
+    "faction_results": []
+  }
+}
