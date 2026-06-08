@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5688",
+      "title": "Entwurf eines Zweiten Gesetzes zur Änderung des Luftverkehrsteuergesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5688&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6069",
+      "title": "Beschlussempfehlung des Finanzausschusses zu dem Entwurf eines Zweiten Gesetzes zur Änderung des Luftverkehrsteuergesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6069&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6070",
+      "title": "Bericht gemäß § 96 der Geschäftsordnung des Deutschen Bundestages zur Finanzierbarkeit des Entwurfs eines Zweiten Gesetzes zur Änderung des Luftverkehrsteuergesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6070&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/6071",
+      "title": "Entschließungsantrag der Fraktion der AfD zum Zweiten Gesetz zur Änderung des Luftverkehrsteuergesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6071&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6072",
+      "title": "Entschließungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Zweiten Gesetz zur Änderung des Luftverkehrsteuergesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6072&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der von der Bundesregierung eingebrachte Gesetzentwurf zur Senkung der Luftverkehrsteuer wurde in zweiter und dritter Beratung mit den Stimmen von CDU/CSU, AfD und SPD angenommen. Die Entschließungsanträge der Fraktionen der AfD und Bündnis 90/Die Grünen wurden jeweils abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen der Abgeordneten zum Thema Kleine Modulare Reaktoren (SMRs) zeigt eine konsistente Fortführung der im Bundestag geäußerten Positionen. Abgeordnete der AfD wie Adam Balten bekräftigen die Notwendigkeit von SMRs als sichere und wirtschaftliche Energiequelle zur Sicherung der Stromversorgung. Vertreter der CDU/CSU wie Dr. Saskia Ludwig befürworten zwar Forschung, lehnen aber eine sofortige Implementierung aufgrund fehlender Marktreife ab. Abgeordnete der Koalition und der Linken, darunter Dr. Alaa Alhamwi (Bündnis 90/Die Grünen), Dunja Kreiser (SPD) und Mirze Edis (Die Linke), lehnen SMRs außerhalb des Plenums als unwirtschaftlich und mit ungelösten Risiken behaftet ab und plädieren für den Ausbau erneuerbarer Energien.",
+  "sources": [
+    {
+      "name": "Adam Balten",
+      "party": "AfD",
+      "found": true,
+      "statement": "Adam Balten bekräftigte auf seiner persönlichen Website die Bedeutung von Small Modular Reactors (SMRs) als Kernkraft der Zukunft. Er hebt hervor, dass SMRs standardisiert sind und eine sichere Energieversorgung, neue Arbeitsplätze sowie Exportchancen bieten. Er kritisierte die deutsche Energiepolitik, die den Ausbau der Kernkraft und SMRs blockiert, während andere Länder voranschreiten.",
+      "source_title": "Paul in Berlin – Alternative für Deutschland - AfD Karlsruhe (Blogeintrag)",
+      "url": "https://afd-ka.de/paul/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Saskia Ludwig",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Teil der CDU/CSU-Fraktion stimmte Dr. Saskia Ludwig der Empfehlung des Ausschusses für Wirtschaft und Energie zu, den Antrag der AfD zu Kleinen Modularen Reaktoren abzulehnen. Dies spiegelt die Position wider, dass SMRs zwar ein reales Problem adressieren, aber noch nicht marktreif sind und eine energiepolitische Richtungsentscheidung zum jetzigen Zeitpunkt keinen Konsens findet.",
+      "source_title": "Drucksache 21/6137 - Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie",
+      "url": "https://dserver.bundestag.de/btd/21/061/2106137.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Alaa Alhamwi",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Alaa Alhamwi war Berichterstatter für den Ausschuss für Wirtschaft und Energie, der die Ablehnung des AfD-Antrags zu Kleinen Modularen Reaktoren empfahl. Dies untermauert seine im Plenum geäußerte Skepsis, dass SMRs keine zukunftsfähige oder finanzierbare Lösung darstellen und bestehende Probleme wie Atommüll nicht lösen.",
+      "source_title": "Drucksache 21/6137 - Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie",
+      "url": "https://dserver.bundestag.de/btd/21/061/2106137.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": true,
+      "statement": "Die SPD-Fraktion, deren Position Dunja Kreiser im Bundestag vertritt, stimmte im Ausschuss für Wirtschaft und Energie ebenfalls für die Ablehnung des AfD-Antrags zu SMRs. Dies bekräftigt die Haltung der SPD, die SMRs als technisch überholt und energiepolitisch gefährlich ansieht und stattdessen den Ausbau erneuerbarer Energien vorantreibt.",
+      "source_title": "Drucksache 21/6137 - Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie",
+      "url": "https://dserver.bundestag.de/btd/21/061/2106137.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mirze Edis",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Mirze Edis äußerte sich in einer Pressemitteilung der Fraktion Die Linke im Bundestag klar gegen Kleine Atomreaktoren. Er bezeichnet sie als großes Sicherheitsrisiko, teuer, auf Jahre nicht verfügbar und betonte, dass die Atommüllfrage ungelöst bleibt. Er kritisierte die Rückkehr zur Atomkraft als Irrweg.",
+      "source_title": "Nicht nur die Miniatomkraftwerke, sondern auch die AfD ist ein Sicherheitsrisiko - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/mirze-edis/",
+      "platform": "Presse"
+    }
+  ]
+}

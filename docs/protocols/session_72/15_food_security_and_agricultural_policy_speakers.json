@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die identifizierten Abgeordneten vertreten außerhalb des Bundestags konsistente Positionen zur Ernährungssicherheit und Agrarpolitik, die ihre jeweiligen Parteilinien widerspiegeln. Dr. Franziska Kersten (SPD) betont eine starke, nachhaltige Landwirtschaft, die Umwelt- und Tierschutz sowie faire Preise integriert. Dr. Ophelia Nick (Bündnis 90/Die Grünen) setzt sich für eine resiliente, klimagerechte Landwirtschaft und eine 'Planetary Health Diet' ein. Christian Reck (AfD) kritisiert staatliche Kürzungen und Bürokratie, die er als Bedrohung für die heimische Landwirtschaft und Ernährungssicherheit sieht. Marcel Bauer (Die Linke) prangert die Marktmacht großer Lebensmittelkonzerne an und fordert eine regionale, soziale und ökologische Agrarwende. Für Hermann Färber (CDU/CSU) konnte keine spezifische externe Stellungnahme zum Thema außerhalb seiner parlamentarischen Rolle gefunden werden.",
+  "sources": [
+    {
+      "name": "Hermann Färber",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christian Reck",
+      "party": "AfD",
+      "found": true,
+      "statement": "Christian Reck kritisiert die geplanten Kürzungen der EU-Mittel für Landwirtschaft und ländliche Räume als Skandal, der die Existenz mittelgroßer Betriebe, die Ernährungssicherheit und den sozialen Zusammenhalt gefährdet. Er fordert, stattdessen klare Prioritäten für starke Bauern, Arbeitsplätze im ländlichen Raum und eine zukunftsfähige Landwirtschaft zu setzen, anstatt Betriebe mit bürokratischen Hürden und unsicheren finanziellen Rahmenbedingungen zu erdrücken.",
+      "source_title": "Bundesregierung macht Bauern zu Bauernopfern ihrer kopflosen Finanzpolitik!",
+      "url": "https://christian-reck.de/2025/09/24/bundesregierung-macht-bauern-zu-bauernopfern-ihrer-kopflosen-finanzpolitik/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Franziska Kersten",
+      "party": "SPD",
+      "found": false,
+      "statement": "Dr. Franziska Kersten betont die Notwendigkeit einer starken und nachhaltigen Landwirtschaft, die gesunde und nachhaltige Lebensmittel, Tierwohl, Klima- und Umweltschutz gewährleistet und Erzeuger mit fairen Preisen honoriert. Sie setzt sich für eine gesunde und nachhaltige Ernährung für alle zu fairen Preisen ein, fordert klare Kennzeichnung und unterstützt den Umbau der Tierhaltung basierend auf den Empfehlungen der Borchert-Kommission und Zukunftskommission Landwirtschaft.",
+      "source_title": "Pressemitteilung zum Start der Grünen Woche - SPD-Agrarpolitik für eine starke und nachhaltige Landwirtschaft",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Ophelia Nick",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Ophelia Nick setzt sich als Sprecherin für Landwirtschaftspolitik dafür ein, dass gutes Essen für alle möglich ist und die Landwirtschaft nachhaltiger sowie zukunftsfest wird, um Höfe zu erhalten und Tiere besser zu schützen. Sie betont, dass eine zukunftsfeste Landwirtschaft sich der Klimakrise anpassen und zum Klimaschützer werden muss, damit Bäuerinnen und Bauern langfristig gut von ihrer Arbeit leben können. Sie fördert eine \"Planetary Health Diet\" für gesündere Ernährung und einen gesunden Planeten.",
+      "source_title": "Startseite / Landwirtschaft / Ernährung - Ophelia Nick MdB",
+      "url": "https://ophelia-nick.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Marcel Bauer",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Marcel Bauer kritisiert die Marktmacht der Einzelhandelskonzerne, die die deutsche Landwirtschaft knechten und Preise diktieren, was viele Landwirte an ihre Existenzgrenze treibt und gutes Essen für viele unbezahlbar macht. Er fordert, diese Marktmacht zu brechen, um eine soziale und ökologische Agrarwende zu ermöglichen, die faire Bedingungen für Bauern und bezahlbare, gesunde Lebensmittel für alle gewährleistet.",
+      "source_title": "Vom Traktor bis zum Einkaufskorb: Keine Profite mit unserer Nahrung! - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/nachrichten/detail/keine-profite-mit-unserem-essen-fuer-eine-landwirtschaft-die-uns-allen-dient/",
+      "platform": "Presse"
+    }
+  ]
+}

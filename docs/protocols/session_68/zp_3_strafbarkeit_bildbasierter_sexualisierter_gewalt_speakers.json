@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum Thema 'Strafbarkeit bildbasierter sexualisierter Gewalt' spiegeln die im Bundestag geäußerten Positionen wider und vertiefen diese. Dr. Lena Gumnior (Grüne) tritt als prominente Verfechterin schneller und umfassender Gesetzesänderungen auf, die Deepfakes und heimliche Aufnahmen effektiv unter Strafe stellen sollen, wobei sie die Notwendigkeit des Opferschutzes hervorhebt und die Regierung für Verzögerungen kritisiert. Axel Müller (CDU/CSU) und Hakan Demir (SPD) bestätigen die Notwendigkeit eines 'digitalen Gewaltschutzgesetzes' und verweisen auf einen in Vorbereitung befindlichen Regierungsentwurf, wobei Müller die Speicherung von IP-Adressen als unerlässlich für die Strafverfolgung betont. Donata Vogtschmidt (Die Linke) solidarisiert sich stark mit den Opfern, kritisiert systemische Probleme und lehnt gleichzeitig Überwachung wie die Vorratsdatenspeicherung ab. Knuth Meyer-Soltau (AfD) bleibt seiner Linie treu und bewertet den Grünen-Entwurf als handwerklich mangelhaft und politisch motiviert, ohne ausreichende juristische Substanz.",
+  "sources": [
+    {
+      "name": "Dr. Lena Gumnior",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Lena Gumnior ist eine führende Stimme der Grünen, die sich für die Schließung von Strafbarkeitslücken bei bildbasierter sexualisierter Gewalt und Deepfakes einsetzt. Sie kritisiert Deutschland als 'Täterparadies' aufgrund unzureichenden Opferschutzes und fordert einen 'Nur Ja heißt Ja'-Grundsatz im Sexualstrafrecht, lehnt aber gleichzeitig eine Klarnamenpflicht und IP-Adressen-Speicherung ab.",
+      "source_title": "Wochenzeitung „Das Parlament“ - Rechtspolitikerin Gumnior (Grüne) beklagt massive Schutzlücken bei digitaler sexualisierter Gewalt",
+      "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-260326-vorab-interview-gumnior-1158092",
+      "platform": "Presse"
+    },
+    {
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Axel Müller (CDU/CSU) begrüßt die Notwendigkeit, digitale sexuelle Gewalt strafrechtlich zu erfassen, kritisiert jedoch den Grünen-Entwurf als 'handwerklich unsauber' und zu unbestimmt. Er verweist auf einen umfassenden Gesetzentwurf der Bundesregierung und fordert die Speicherung von IP-Adressen als unabdingbar für die Täterermittlung.",
+      "source_title": "Plenardebatte zur Strafbarkeit bildbasierter sexualisierter Gewalt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-strafgesetzbuch-1157670",
+      "platform": "Presse"
+    },
+    {
+      "name": "Knuth Meyer-Soltau",
+      "party": "AfD",
+      "found": true,
+      "statement": "Knuth Meyer-Soltau (AfD) lehnt den Grünen-Entwurf als 'politisches Projekt' mit 'minimaler juristischer Substanz' ab, kritisiert die Verwendung unbestimmter Begriffe und warnt vor Rechtsunsicherheit. Er betont, dass das Strafrecht kein Allheilmittel sei und bestehende Normen oft ausreichten, während neue Gesetze die Justiz überlasten.",
+      "source_title": "Knuth Meyer-Soltau redet sich in Rage! - AfD-Fraktion im Bundestag",
+      "url": "https://www.youtube.com/watch?v=IBGhRBQVPEc",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "found": true,
+      "statement": "Hakan Demir (SPD) erkennt ein 'Männerproblem' bezüglich Gewalt gegen Frauen, auch im digitalen Raum, an. Er bestätigt, dass die SPD-Fraktion und das Bundesjustizministerium an einem 'Gesetz gegen digitale Gewalt' arbeiten, um Strafbarkeitslücken bei bildbasierter sexualisierter Gewalt und Deepfakes zu schließen.",
+      "source_title": "Plenardebatte zur Strafbarkeit bildbasierter sexualisierter Gewalt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-strafgesetzbuch-1157670",
+      "platform": "Presse"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Donata Vogtschmidt (Die Linke) drückt ihre Solidarität mit Opfern sexualisierter Gewalt aus und konstatiert, dass das Problem bei Männern und einem Täterschutzsystem liege. Sie befürwortet den Grünen-Entwurf grundsätzlich, äußert aber Skepsis gegenüber der Umsetzung von Regierungsvorhaben und kritisiert Kürzungen für Organisationen wie HateAid sowie die Vorratsdatenspeicherung.",
+      "source_title": "Das Problem ist nicht das Internet, das Problem sind Männer! Rede von Donata Vogtschmidt, 26. März 2026",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten auf die Neuausrichtung des Bundesprogramms 'Demokratie leben!' spiegeln weitgehend ihre im Bundestag geäußerten Positionen wider. Karin Prien (CDU) verteidigte die Reform als notwendig, um das Programm effektiver zu gestalten und die 'Mitte der Gesellschaft' zu erreichen, da zuvor zu viele Mittel in 'linke Projekte' geflossen seien. Clara Bünger (Die Linke) und Misbah Khan (Bündnis 90/Die Grünen) kritisierten die geplanten Kürzungen und Umstrukturierungen scharf als ideologisch motivierten 'Kahlschlag' und 'Frontalangriff' auf die Zivilgesellschaft, der ohne ausreichende fachliche Grundlage erfolge. Felix Döring (SPD) äußerte Bedenken hinsichtlich der vorzeitigen Projektbeendigung und betonte die Notwendigkeit, den Koalitionsvertrag einzuhalten und den Kampf gegen Rechtsextremismus als Schwerpunkt zu bewahren.",
+  "sources": [
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Clara Bünger von der Fraktion Die Linke im Bundestag kritisiert den Umbau des Programms 'Demokratie leben!' als 'Riesenskandal' und 'Kahlschlag', der die Zivilgesellschaft schwäche. Sie sieht darin einen 'Frontalangriff' und bemängelt, dass die Änderungen ohne vorliegende Evaluationsergebnisse erfolgen.",
+      "source_title": "Stoppt den Umbau von \"Demokratie leben\" - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-mandy-eissing-am-27032026/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bundesfamilienministerin Karin Prien verteidigte die Reform des Programms 'Demokratie leben!', da es ihrer Ansicht nach bisher zu einseitig ausgerichtet war und zu viele Mittel in die Förderung von 'linken Projekten' geflossen seien. Sie will stärker die Mitte der Gesellschaft erreichen und sei 'allergisch gegen Identitätspolitik'.",
+      "source_title": "Prien: Zu viele Mittel sind in die Förderung von linken Projekten geflossen | Jüdische Allgemeine",
+      "url": "https://www.juedische-allgemeine.de/politik/prien-zu-viele-mittel-sind-in-die-foerderung-von-linken-projekten-geflossen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Felix Döring",
+      "party": "SPD",
+      "found": true,
+      "statement": "Felix Döring kritisierte, dass die Pläne von Ministerin Prien zum Umbau von 'Demokratie leben!' den Koalitionsvertrag 'keinesfalls hergeben' und äußerte Bedenken über die vorzeitige Beendigung laufender Projekte. Er verurteilte den Umgang mit Organisationen wie HateAid als 'völlig inakzeptabel'.",
+      "source_title": "Ärger in der Koalition wegen Programm \"Demokratie leben\" - Evangelisch.de",
+      "url": "https://www.evangelisch.de/inhalte/253985/25-03-2026/aerger-der-koalition-wegen-programm-demokratie-leben",
+      "platform": "Presse"
+    },
+    {
+      "name": "Misbah Khan",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Misbah Khan forderte, den Umbau des Programms 'Demokratie leben!' auszusetzen, bis die wissenschaftliche Evaluation abgeschlossen ist. Sie kritisierte, dass die Restrukturierung die 'Handschrift ideologischer Prioritätensetzung statt fachlich begründeter Politik' trage und ohne fundierte Grundlage geschehe.",
+      "source_title": "Grüne fordern Aussetzung des Umbaus von \"Demokratie leben\" - regionalHeute.de",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

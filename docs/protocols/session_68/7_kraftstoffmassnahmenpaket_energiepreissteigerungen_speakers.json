@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestags bekräftigten die Abgeordneten ihre im Plenum geäußerten Positionen zu den steigenden Kraftstoff- und Energiepreisen. Vertreter der Koalition (CDU/CSU, SPD) hoben die Notwendigkeit weiterer zielgerichteter Entlastungsmaßnahmen hervor und sprachen sich teils für eine europäische Übergewinnsteuer aus, während sie das beschlossene Kraftstoffmaßnahmenpaket als wichtigen ersten Schritt verteidigten. Die Opposition (AfD, Bündnis 90/Die Grünen, Die Linke) kritisierte die Maßnahmen als unzureichend und forderte primär sofortige Steuersenkungen (AfD) oder die Abschöpfung von Übergewinnen der Energiekonzerne, flankiert von sozialen Entlastungen wie einem Energiekrisengeld und einem 9-Euro-Ticket (Bündnis 90/Die Grünen, Die Linke). Es zeigte sich eine breite Forderung nach mehr Transparenz und einer stärkeren Regulierung des Energiemarktes, aber grundlegende Differenzen bei den bevorzugten Instrumenten zur Entlastung der Bürger und Unternehmen.",
+  "sources": [
+    {
+      "name": "Dr. Andreas Lenz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Andreas Lenz verteidigte das Kraftstoffmaßnahmenpaket der Koalition als notwendigen Schritt zur Stärkung des Wettbewerbs und zur Eindämmung von Abzocke an Tankstellen, betonte jedoch, dass weitere gezielte Maßnahmen folgen müssten. Er forderte im April 2026, eine Erhöhung der Pendlerpauschale, eine Senkung der Stromsteuer oder die Aussetzung der CO2-Abgabe zu prüfen, abhängig von der Entwicklung des Iran-Konflikts.",
+      "source_title": "Maßnahmenpaket zur Eindämmung der Spritpreise beschlossen / Energiepreise - Wirtschaftspolitischer Sprecher der Union fordert weitere entlastende Maßnahmen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm bezeichnete das Koalitionspaket als Aktionismus und forderte umgehend die drastische Senkung der Energiesteuern und Abgaben, die Aussetzung der CO₂-Bepreisung und eine Senkung der Mehrwertsteuer auf Sprit, da der Staat der größte Preistreiber sei. Er bezweifelte die Wirksamkeit der '12-Uhr-Regel' und warnte vor möglichen Preiserhöhungen durch Sicherheitsmargen der Konzerne.",
+      "source_title": "Leif-Erik Holm: Reiche betreibt Aktionismus, statt Bürger und Unternehmen nachhaltig zu entlasten / Energiepreisschocks durch Irankrieg ernst nehmen – Unternehmen und Verbraucher nachhaltig und dauerhaft entlasten",
+      "url": "https://www.presseportal.de/pm/132478/5732785%20/%20https://www.afdbundestag.de/energiepreisschocks-durch-irankrieg-ernst-nehmen-unternehmen-und-verbraucher-nachhaltig-und-dauerhaft-entlasten/",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": false,
+      "statement": "Armand Zorn begrüßte die Maßnahmen der Koalition als Schritt gegen Marktdysfunktionalität, forderte aber weitere zielgerichtete Entlastungen und strukturelle Maßnahmen zur Energieunabhängigkeit durch erneuerbare Energien. Er sprach sich für eine 'Spritpreisbremse' aus und brachte eine Übergewinnsteuer für Mineralölkonzerne auf europäischer Ebene ins Spiel, um 'maßlose Krisengewinne' abzuschöpfen.",
+      "source_title": "Hohe Spritpreise - SPD fordert Marktregelung / Weltverbrauchertag inmitten neuer Energiepreiskrise: „Verbraucherinnen und Verbraucher sind nicht die Melkkühe der Mineralölkonzerne“ / SPD-Politiker fordert Preisdeckel und Übergewinnsteuer auf Sprit",
+      "url": "N/A",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Andreas Audretsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Andreas Audretsch kritisierte das beschlossene Gesetz als unzureichend und forderte die Abschöpfung von Übergewinnen der Öl- und Gaskonzerne, eine Stromsteuersenkung und eine Initiative für ein 9-Euro-Ticket. Er betonte, dass fossile Konzerne sich nicht an der Krise bereichern dürften und warnte vor einer falschen Energiepolitik, die Deutschland in eine fossile Abhängigkeit führe.",
+      "source_title": "Grüne fordern Maßnahmen gegen „Energiepreisschock“ / VAT debate “completely absurd!” – Sharp criticism from Andreas Audretsch",
+      "url": "N/A",
+      "platform": "Presse / Social Media"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Christian Görke forderte vehement eine sofortige und wirksame Übergewinnsteuer, um die 'Abzocke' der Mineralölkonzerne zu beenden, und kritisierte die zögerliche Haltung der Koalition. Er schlug vor, die Einnahmen für ein 'Energiekrisengeld' von 150 Euro für alle Bürger und die Wiedereinführung des 9-Euro-Tickets zu verwenden.",
+      "source_title": "Linke stellt Antrag für „Übergewinnsteuer“ gegen Mineralölkonzerne / Abzocke bei den Energiepreisen stoppen! / Hohe Spritpreise: Linke will Gesetz für Übergewinnsteuer erzwingen",
+      "url": "N/A",
+      "platform": "Presse / Website"
+    }
+  ]
+}
