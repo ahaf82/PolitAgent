@@ -1,0 +1,22 @@
+{
+  "name": "PolitAgent",
+  "short_name": "PolitAgent",
+  "description": "Dokumentiert, fasst zusammen und analysiert Bundestagssitzungen.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#0b0f19",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "politagent_app_icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "politagent_app_icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
