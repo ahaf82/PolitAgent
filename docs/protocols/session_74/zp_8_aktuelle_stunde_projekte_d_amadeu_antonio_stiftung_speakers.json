@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zur Debatte um die Amadeu Antonio Stiftung spiegeln die parteipolitischen Linien der Plenardebatte wider. Während AfD-Abgeordnete wie Tino Chrupalla ihre Kritik an der Stiftung fortsetzen und deren staatliche Förderung infrage stellen, betonen Abgeordnete der Grünen und SPD wie Misbah Khan und Felix Döring die Wichtigkeit der zivilgesellschaftlichen Arbeit gegen Rechtsextremismus und die Instrumentalisierung des Themas durch die AfD. Michael Hose (CDU/CSU) hebt weiterhin das schnelle Krisenmanagement im konkreten Fall hervor. Maik Brückner (Die Linke) kritisiert die Fokussierung der AfD auf vermeintliche Skandale, um von relevanteren Problemen abzulenken. Insgesamt ist eine klare Lagerbildung erkennbar, die die Positionen im Plenum auch in externen Äußerungen untermauert.",
+  "sources": [
+    {
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Obwohl keine direkten externen Stellungnahmen zum spezifischen Vorfall in Schleife nach der Debatte vom 23. April 2026 gefunden wurden, konzentriert sich Michael Hose laut seinem Abgeordnetenwatch-Profil auf den Kinderschutz im digitalen Raum und betont, dass er und die CDU/CSU-Fraktion sich mit Nachdruck dafür einsetzen, Kinder wirksam zu schützen, ohne die Sicherheit und Vertraulichkeit der Kommunikation zu gefährden. Dies passt zu seiner Debattenposition, die AfD solle sich eher diesem Thema widmen als den Vorfall zu instrumentalisieren.",
+      "source_title": "Michael Hose - Profil bei abgeordnetenwatch.de",
+      "url": "https://www.abgeordnetenwatch.de/profile/michael-hose",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Misbah Khan",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Misbah Khan verteidigte das Bundesförderprogramm 'Demokratie leben!' im April 2026, kurz vor oder um die Debatte, gegen Kritik und warnte vor strukturellen Änderungen. Sie betonte, dass viele geförderte Projekte aus der gesellschaftlichen Mitte kämen und wies den Vorwurf zurück, sie seien 'links-grün versifft'. Khan kritisierte auch die Idee, Kommunalparlamenten mehr Mitspracherecht bei Projektförderungen zu geben, da dort bereits rechtsextreme Akteure säßen, die Projekte blockieren könnten. Zudem ist auf ihrer Website eine Rede vom 12.05.2026 (Pressemitteilung) zum AfD-Antrag 'Die Finanzierung der Amadeu Antonio Stiftung durch Bundesmittel beenden' aufgeführt, in der sie die demokratische Zivilgesellschaft als Feindbild der AfD bezeichnete.",
+      "source_title": "Grünen-Politikerin verteidigt Programm „Demokratie leben“ gegen Umbaupläne / Grünen-Fraktionsvize weist Kritik an \"Demokratie leben\" zurück / Meine Rede zum AfD-Antrag „Die Finanzierung der Amadeu Antonio Stiftung durch Bundesmittel beenden“",
+      "url": "https://misbah-khan.de/news/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Felix Döring",
+      "party": "SPD",
+      "found": true,
+      "statement": "Felix Döring hat sich bereits im Januar 2026 vehement gegen den AfD-Antrag positioniert, der die Einstellung der staatlichen Förderung für die Amadeu Antonio Stiftung forderte. Er betonte die feste Solidarität der SPD mit der demokratischen Zivilgesellschaft und verurteilte rechte Bestrebungen. Eine Veröffentlichung der Amadeu Antonio Stiftung vom November 2025 zitiert ihn mit der Aussage, dass die AfD die demokratische Zivilgesellschaft zum Feind erkläre und die Stiftung schon früh vor Rechtsextremismus gewarnt habe.",
+      "source_title": "Über 240.000 Menschen – Übergabe der Petition „AfD will uns zerstören: Lasst das nicht zu!“ / Bundestag: Breite Kritik an rechtsextremer Kampagne gegen Amadeu Antonio Stiftung",
+      "url": "https://www.amadeu-antonio-stiftung.de/bundestag-breite-kritik-an-rechtsextremer-kampagne-153775/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Maik Brückner",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Maik Brückner veröffentlichte am selben Tag der Debatte, dem 23. April 2026, eine Pressemitteilung auf der Fraktionswebsite der Linken. Darin kritisiert er die AfD scharf dafür, ein Missgeschick in einem Schulworkshop zu nutzen, um NGOs und queere Themen zu diffamieren, anstatt sich mit relevanten Problemen wie Bildung, maroden Schulgebäuden, rechter Gewalt und sozialen Krisen auseinanderzusetzen. Er bezeichnet die Prioritätensetzung der AfD als 'peinlich'. Seine persönliche Website betont ebenfalls sein Engagement gegen Faschismus und Queerfeindlichkeit.",
+      "source_title": "AfD nimmt politische Bildung weiter unter Beschuss - Fraktion Die Linke im Bundestag / Maik Brückner",
+      "url": "https://maik-brueckner.de/",
+      "platform": "Presse"
+    }
+  ]
+}

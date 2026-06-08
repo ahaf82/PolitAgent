@@ -603,7 +603,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 const card = document.createElement('div');
                 card.className = 'document-card';
                 
-                const hasUrl = doc.url && doc.url !== 'N/A';
+                let targetUrl = doc.url;
+                if (targetUrl && targetUrl.includes('dip.bundestag.de/suche')) {
+                    try {
+                        const urlObj = new URL(targetUrl);
+                        const term = urlObj.searchParams.get('term') || urlObj.searchParams.get('q') || '';
+                        if (term) {
+                            targetUrl = `https://dip.bundestag.de/suche?term=${encodeURIComponent(term)}&rows=25`;
+                        }
+                    } catch (e) {
+                        console.warn('Fehler beim Formatieren der DIP-URL:', e);
+                    }
+                }
+                
+                const hasUrl = targetUrl && targetUrl !== 'N/A';
                 
                 card.innerHTML = `
                     <div class="document-badge">${doc.type || 'Drucksache'}</div>
@@ -611,7 +624,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <span class="document-number">${doc.number || 'Drucksache'}</span>
                     <div class="document-actions">
                         ${hasUrl ? `
-                            <a href="${doc.url}" target="_blank" class="document-download-btn">
+                            <a href="${targetUrl}" target="_blank" class="document-download-btn">
                                 <i class="fa-solid fa-file-arrow-down"></i> PDF / Suche anzeigen
                             </a>
                         ` : `
