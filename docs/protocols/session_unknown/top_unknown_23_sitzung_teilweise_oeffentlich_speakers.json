@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema Staatsmodernisierung, Digitalisierung des Sozialstaates und EU-Datenregulierung zeigt klare Positionen der Fraktionen. Während Bundesministerin Bärbel Bas (SPD) und Dr. Carolin Wagner (SPD) eine konsequente und bürgerfreundliche Digitalisierung des Sozialstaates befürworten, inklusive des Einsatzes von KI zur Prozessautomatisierung und dem Abbau von Bürokratie, äußern Dr. Konrad Körner (CDU/CSU) Unterstützung für die EU-Datenakte, fordern aber eine praxistaugliche Umsetzung und Berücksichtigung von KMU. Sonja Lemke (Die Linke) warnt hingegen vor den Risiken von KI-Einsatz in der Verwaltung, insbesondere in Bezug auf Diskriminierung und fehlende Transparenz, und fordert ein KI-Transparenzregister. Prof. Dr. Michael Kaufmann (AfD) kritisiert die EU-Datenregulierung generell als bürokratisch und innovationshemmend, die den Mittelstand schwäche und große Konzerne bevorzuge.",
+  "sources": [
+    {
+      "name": "Bärbel Bas",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bärbel Bas betont die Notwendigkeit, den Sozialstaat durch Digitalisierung und den verantwortungsvollen Einsatz von KI zu modernisieren, um ihn bürgerfreundlicher und effizienter zu gestalten. Sie kündigt die Einrichtung eines Expertengremiums zur Digitalisierung der Sozialverwaltung und Investitionen in die digitale Infrastruktur an. Bas sieht KI als Mittel zur Prozessautomatisierung und zur Schaffung neuer Arbeitsplätze durch Weiterbildung, nicht als Jobkiller.",
+      "source_title": "Arbeitsministerin will »digitalen Wildwuchs« bei Sozialleistungen abbauen",
+      "url": "https://www.spiegel.de/politik/deutschland/baerbel-bas-arbeitsministerin-will-digitalen-wildwuchs-bei-sozialleistungen-abbauen-a-a01d6196-8797-4448-b9d7-0d551da20a74",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Konrad Körner begrüßt die nationalen Umsetzungsgesetze zum Data Governance Act und Data Act als wichtig für Rechtssicherheit und Praxistauglichkeit. Er fordert eine Evaluation der Gesetze hinsichtlich des Arbeits- und Personalaufwands und plädiert für Gebührenermäßigungen für KMU und Start-ups, um Innovationshürden abzubauen.",
+      "source_title": "Umsetzung von EU-Vorgaben zum Datenzugang und zur Datennutzung",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw03-de-datennutzung-1134366",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Carolin Wagner als stellvertretende Sprecherin für Digitales und Staatsmodernisierung der SPD-Fraktion setzt sich für eine effiziente Digitalisierung der Sozialverwaltung ein und betont die Notwendigkeit, Ängste vor KI in der Arbeitswelt zu nehmen. Sie befürwortet eine flexible Umsetzung des Data Governance Act und die Begünstigung von KMU und Start-ups bei Gebührenregelungen.",
+      "source_title": "Dr. Carolin Wagner, MdB - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/abgeordnete/wagner-dr-carolin",
+      "platform": "Website"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lemke äußert grundlegende Bedenken gegen den Einsatz von KI für Ermessensentscheidungen in Sozialverwaltungen, insbesondere wegen der Risiken von Diskriminierung und mangelnder Transparenz. Sie fordert ein verpflichtendes nationales KI-Transparenzregister und kritisiert die unzureichende Berücksichtigung gesellschaftlicher Risiken durch die Bundesregierung.",
+      "source_title": "Digitalisierung muss vereinfachen und nicht Zugang erschweren",
+      "url": "https://www.sonja-lemke.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Prof. Dr. Michael Kaufmann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Prof. Dr. Michael Kaufmann kritisiert den Data Governance Act und den Data Act als 'Auswuchs der Brüsseler Regulierungswut', der neue Kosten und Bürokratie schaffe und die deutsche Wirtschaft bremse. Er warnt vor dem Abzug von Fachkräften aus der Privatwirtschaft und unangemessen hohen Bußgeldern, die den Mittelstand ruinieren könnten.",
+      "source_title": "Moderate Kritik am Daten-Governance-Gesetz",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-pa-digitales-daten-governance-1136806",
+      "platform": "Presse"
+    }
+  ]
+}

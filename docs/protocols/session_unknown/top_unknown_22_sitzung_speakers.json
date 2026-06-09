@@ -1,0 +1,23 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten Jens Lehmann (CDU/CSU) und Lars Schieske (AfD) spiegeln und vertiefen ihre im Ausschuss für Sport und Ehrenamt geäußerten Positionen. Lehmann betont die Notwendigkeit einer umfassenden Spitzensportreform, um den seit 35 Jahren anhaltenden Rückgang im Medaillenspiegel umzukehren, und fordert eine zielgerichtete Förderung von Athleten und Sportarten. Schieske sieht den deutschen Spitzensport ebenfalls im Niedergang und plädiert für die Wiedereinführung der DHfK Leipzig zur Verbesserung der Trainerausbildung sowie eine deutliche Erhöhung des Sportetats, finanziert durch die Umverteilung von Mitteln aus seiner Sicht ineffizienter Ausgaben. Beide Abgeordneten betonen die Bedeutung von Leistung und klaren Strukturen im Sport, wobei Schieske auch ideologische Aspekte wie die 'Gendersprache' in seinen sportpolitischen Kontext einordnet.",
+  "sources": [
+    {
+      "name": "Jens Lehmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Jens Lehmann fordert eine grundlegende Reform der Spitzensportförderung, um den seit Jahrzehnten anhaltenden Rückgang deutscher Medaillenerfolge zu stoppen und Deutschland wieder zu einer erfolgreichen Sportnation zu machen. Er befürwortet eine gezielte Förderung vielversprechender Athleten und Sportarten, um die Effizienz der eingesetzten Mittel zu maximieren. Zudem kritisiert er den Zustand der Sportstätten und die unzureichende finanzielle Unterstützung im Breitensport.",
+      "source_title": "CDU-Sportpolitiker Lehmann setzt auf Spitzensport-Reform für mehr Medaillen",
+      "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-260522-das-parlament-lehmann-1182008",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lars Schieske",
+      "party": "AfD",
+      "found": false,
+      "statement": "Lars Schieske kritisiert den '30-jährigen Niedergang des deutschen Spitzensports' und fordert die Wiedereinrichtung der DHFK Leipzig zur Verbesserung der Trainerausbildung sowie eine substantielle Erhöhung des Sportetats durch die Umverteilung von Geldern aus ineffizienten Ausgaben. Er betont die Notwendigkeit von Leistungsgedanken und Disziplin im Sport und lehnt ideologische Einflüsse wie 'Gendersprache' ab, auch in sportpolitischen Kontexten.",
+      "source_title": "AK05 - Sport - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

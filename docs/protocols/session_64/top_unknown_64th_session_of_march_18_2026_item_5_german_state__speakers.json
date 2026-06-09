@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte um das deutsche Staatsgold im Bundestag zeigte die klaren ideologischen Gräben zwischen der AfD und den anderen Fraktionen. Während Peter Boehringer (AfD) und seine Partei die vollständige Heimholung des Goldes als Akt der Souveränität und Risikominimierung fordern und dies auch seit Jahren öffentlich vertreten, betonen die Vertreter der anderen Parteien die strategische Diversifizierung der Lagerorte und die Unabhängigkeit der Bundesbank. Außerhalb des Plenums konnte vor allem Peter Boehringer eine konsistente Positionierung zum Thema 'Deutsches Staatsgold' über seine Parteiwebsite, seine persönliche Historie als Initiator und in Presseartikeln belegen. Für die anderen identifizierten Redner – Mechthilde Wittmann (CDU/CSU), Dr. Sebastian Schäfer (Bündnis 90/Die Grünen), Dr. Philipp Rottwilm (SPD) und Doris Achelwilm (Die Linke) – ließen sich im Rahmen der Suche keine expliziten externen Stellungnahmen oder Beiträge zu diesem spezifischen Thema außerhalb ihrer parlamentarischen Redebeiträge finden.",
+  "sources": [
+    {
+      "name": "Peter Boehringer",
+      "party": "AfD",
+      "found": true,
+      "statement": "Peter Boehringer ist seit langem ein Verfechter der vollständigen Rückholung des deutschen Staatsgoldes. Er war der Hauptinitiator der Bürgerinitiative 'Holt unser Gold heim' und hat ein Buch zu diesem Thema veröffentlicht. Die AfD-Fraktion reichte am 17. März 2026 einen Antrag zur vollständigen Repatriierung der Goldreserven ein, wobei Boehringer die Position vertrat, dass die Auslands-Lagerung Drittparteien- und Sanktionsrisiken unterliege und die nationale Souveränität gefährde.",
+      "source_title": "AfD-Fraktion im Deutschen Bundestag - Antrag 'Deutsches Staatsgold vollständig nach Deutschland holen' / 'Holt unser Gold heim' Initiative",
+      "url": "https://afdbundestag.de/deutsches-staatsgold-vollstaendig-nach-deutschland-holen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Mechthilde Wittmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Sebastian Schäfer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Philipp Rottwilm",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

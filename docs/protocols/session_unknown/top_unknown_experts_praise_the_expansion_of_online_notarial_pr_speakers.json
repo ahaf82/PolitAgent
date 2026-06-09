@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten zur Ausweitung notarieller Onlineverfahren zeigen eine mehrheitlich befürwortende Haltung gegenüber der Digitalisierung von Rechtsprozessen. Carsten Müller (CDU/CSU) und seine Fraktion begrüßten den Gesetzentwurf der Bundesregierung, da er effizientere und schnellere Verfahren im Immobilienbereich verspricht. Dr. Till Steffen (Bündnis 90/Die Grünen) unterstrich die allgemeine Notwendigkeit einer umfassenden Digitalisierung des Justizwesens, um den Zugang zum Recht zu gewährleisten. Nadine Heselhaus (SPD) fokussiert sich in ihrer Arbeit auf die Verbesserung des Verbraucherschutzes im digitalen Bereich, was eine progressive, aber schutzorientierte Herangehensweise an digitale Rechtsdienstleistungen widerspiegelt. Für Dr. Johannes Fechner (SPD) und Stephan Brandner (AfD) konnten keine spezifischen externen Stellungnahmen zu diesem konkreten Thema außerhalb des Bundestages identifiziert werden.",
+  "sources": [
+    {
+      "name": "Carsten Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als amtierender Vorsitzender des Rechtsausschusses und für seine Fraktion begrüßte Carsten Müller den Gesetzentwurf zur Ausweitung notarieller Onlineverfahren. Die CDU/CSU-Fraktion hob dabei hervor, dass der Entwurf effizientere und schnellere Verfahren im Bereich des Vollzugs von Immobilienverträgen schaffen, eine beschleunigte Eigentumsumschreibung mittels Digitalisierung ermöglichen sowie Medienbrüche abbauen und mehrfache Datenerfassungen vermeiden soll.",
+      "source_title": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (Bundestagsdrucksache 21/5806)",
+      "url": "https://dserver.bundestag.de/btd/21/058/2105806.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Johannes Fechner",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Till Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Till Steffen betonte in einem Fachgespräch zur Digitalisierung der Justiz die Dringlichkeit, das Rechtssystem durch umfassende Digitalisierung, inklusive elektronischer Akten, vor dem Kollaps zu bewahren. Er forderte, den Zugang zum Recht durch attraktive digitale Angebote für Bürgerinnen und Bürger zu sichern und auszuweiten, wobei der Bund eine koordinierende Rolle bei der Umsetzung spielen müsse.",
+      "source_title": "Digitalisierung der Justiz: Fachgespräch der Grünen im Bundestag - Anwaltsblatt",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Martin Pfeffer",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als stellvertretende Sprecherin der SPD im Ausschuss für Recht und Verbraucherschutz gestaltet Nadine Heselhaus aktiv die Position ihrer Partei mit. Sie hat sich vorgenommen, den Verbraucherschutz im digitalen Bereich zu verbessern, beispielsweise durch Maßnahmen gegen täuschende Webseiten-Designs und versteckte Preiserhöhungen, was ihre Unterstützung für digitale Neuerungen mit einem klaren Fokus auf den Schutz der Bürgerinnen und Bürger unterstreicht.",
+      "source_title": "Meine Arbeit im Ausschuss für Recht und Verbraucherschutz - Nadine Heselhaus (Website)",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

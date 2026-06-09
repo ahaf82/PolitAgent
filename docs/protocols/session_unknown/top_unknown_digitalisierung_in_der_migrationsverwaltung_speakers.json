@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zur Digitalisierung in der Migrationsverwaltung spiegeln die parteipolitischen Positionen wider, die auch in der Bundestagsdebatte anklingen. Detlef Seif (CDU/CSU) betont die Notwendigkeit einer effizienten Digitalisierung zur Steuerung der Migration und zur Bewältigung der europäischen Asylwende. Johannes Schätzl (SPD) sieht die Digitalisierung als entscheidend für das Vertrauen in einen modernen Staat und fordert eine umfassende Staatsmodernisierung mit Fokus auf Infrastruktur, digitale Souveränität und Künstliche Intelligenz. Lukas Benner (Bündnis 90/Die Grünen) äußert grundlegende Bedenken hinsichtlich der Umsetzung des Gemeinsamen Europäischen Asylsystems (GEAS) und potenzieller Grundrechtsverletzungen im Zuge der Digitalisierung sowie kritisiert Auswirkungen auf soziale Einrichtungen.",
+  "sources": [
+    {
+      "name": "Detlef Seif",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Detlef Seif wurde im Mai 2025 zum „Beauftragten des Fraktionsvorsitzenden für die Umsetzung der europäischen Asyl- und Migrationswende“ ernannt und betont die dringende Notwendigkeit einer Wende in der Asyl- und Migrationspolitik. Er sieht eine einmalige Chance für neue Regelungen und setzt sich dafür ein, dass die unionsgeführte Bundesregierung wichtige Impulse in dieser national und europäisch prägenden Thematik setzt. Er argumentiert, dass weitergehende Zurückweisungen an den deutschen Grenzen unumgänglich sind, solange das europäische Asylsystem nicht funktioniert und andere Mitgliedstaaten Asylsuchende weiterschicken.",
+      "source_title": "Neue Aufgabe für Detlef Seif: Unionsfraktion setzt auf Asyl-Experten / Medien und Reden",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Wert",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als digitalpolitischer Sprecher der SPD-Bundestagsfraktion seit 2025 betont Johannes Schätzl, dass eine gute Digitalpolitik entscheidend für das Vertrauen der Bürger in den Staat ist, der sich als moderner Dienstleister verstehen müsse. Er legt den Fokus auf Infrastruktur, digitale Souveränität, Staatsmodernisierung und Künstliche Intelligenz, um Verwaltung, Infrastruktur und Sicherheit spürbar zu modernisieren und den Datenaustausch zu verbessern.",
+      "source_title": "Ausblick auf die Digitalpolitik der neuen Bundesregierung - Wirtschaftsforum der SPD e.V. / Johannes Schätzl, MdB - SPD-Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lukas Benner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Lukas Benner, Obmann von Bündnis 90/Die Grünen im Innenausschuss, kritisiert die Umsetzung des Gemeinsamen Europäischen Asylsystems (GEAS) durch Union und SPD als 'höchst problematisch'. Er äußert erhebliche verfassungs- und völkerrechtliche Bedenken, insbesondere hinsichtlich möglicher Ausgangsbeschränkungen und der Auslagerung von Asylverfahren in Drittstaaten. Zudem thematisierte er Bedenken bezüglich der Schließung von Beratungsstellen für Geflüchtete, was indirekt die Relevanz einer ressourcenoptimierten Verwaltung berührt.",
+      "source_title": "ASYLREFORM: 'Das finden wir höchst problematisch!' Grünen-Politiker kritisiert EU-Verschärfungen - YouTube / Lukas Benner - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.youtube.com/watch?v=Fj7n0qQ0tN8",
+      "platform": "Social Media"
+    }
+  ]
+}

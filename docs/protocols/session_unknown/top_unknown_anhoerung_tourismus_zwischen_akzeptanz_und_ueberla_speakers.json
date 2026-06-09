@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Thema 'Tourismus zwischen Akzeptanz und Überlastung' zeigen ein breites Spektrum an Positionen. Während Michael Kießling (CDU/CSU) und Erhard Brocker (AfD) die wirtschaftlichen Potenziale des Tourismus betonen und sich primär für effizientes Besuchermanagement sowie die Behebung lokaler Infrastrukturdefizite aussprechen, rücken Claudia Moll (SPD) und Katalin Gennburg (Die Linke) die soziale Verträglichkeit und die Einbeziehung der lokalen Bevölkerung in den Vordergrund. Stefan Schmidt (Bündnis 90/Die Grünen) fordert zudem entschiedenere Maßnahmen gegen Übertourismus, wie Regulierungen für Ferienwohnungen und eine Neuausrichtung hin zu klimafreundlicherem Reisen, um fragile Ökosysteme zu schützen und die Demokratisierung des Tourismus zu erhalten. Insgesamt zeichnet sich eine Debatte zwischen wirtschaftlicher Förderung und ökologisch-sozialer Nachhaltigkeit ab, wobei ein Konsens über die Notwendigkeit von Besucherlenkung besteht, aber die Mittel und Prioritäten variieren.",
+  "sources": [
+    {
+      "name": "Michael Kießling",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Michael Kießling setzt sich für einen zukunftsfähigen und nachhaltigen Tourismus in Deutschland ein, der die wirtschaftliche Bedeutung des Sektors hervorhebt, aber auch eine kluge Besucherlenkung und digitale Lösungen erfordert. Er betont die Notwendigkeit, ein Gleichgewicht zwischen ökonomischen Vorteilen und ökologisch-sozialer Nachhaltigkeit zu finden, um die Akzeptanz vor Ort zu sichern.",
+      "source_title": "Nachhaltiger Tourismus: CDU/CSU fordert zukunftsfähige Strategie - Michael Kießling / Dipl.-Ing. (FH) Michael Kießling - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Herr Seifert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dario Seifert (AfD), ein Mitglied des Ausschusses für Tourismus, kritisiert die aktuelle Politik für die Vernachlässigung der heimischen Tourismusinfrastruktur und die unzureichende finanzielle Unterstützung der Branche in Deutschland. Er fordert stattdessen Investitionen in die touristische Infrastruktur und Planungssicherheit für Betriebe, anstatt Millionen für internationale Projekte auszugeben.",
+      "source_title": "Cuts endanger jobs and the future! Dario Seifert - AfD parliamentary group in the Bundestag / Dario Seifert - Deutscher Bundestag",
+      "url": "https://afdbundestag.de/aktuelles/kuerzungen-gefaehrden-arbeitsplaetze-und-zukunft-dario-seifert/%20/%20https://www.bundestag.de/abgeordnete/biografien/S/seifert_dario-861622",
+      "platform": "Presse"
+    },
+    {
+      "name": "Claudia Moll",
+      "party": "SPD",
+      "found": false,
+      "statement": "Claudia Moll spricht sich für einen sozial und ökologisch nachhaltigen Tourismus aus, der die Belange der lokalen Bevölkerung und die finanzielle Handlungsfähigkeit der Kommunen in den Mittelpunkt rückt. Sie betont die Bedeutung der frühzeitigen Einbindung der Einheimischen und des Ehrenamtes in touristische Entwicklungsprozesse, um gesellschaftliche Akzeptanz zu fördern und Konflikte zu vermeiden.",
+      "source_title": "Claudia Moll setzt sich für nachhaltigen Tourismus ein / Claudia Moll, MdB | SPD-Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Stefan Schmidt setzt sich für eine Transformation des Tourismus hin zu mehr Klimafreundlichkeit und gegen Übertourismus ein. Er fordert strengere Regulierungen für Kurzzeitvermietungen, die Einführung von Besuchergebühren in Hotspots und betont die Notwendigkeit, fragile Ökosysteme vor den Auswirkungen des Tourismus und des Klimawandels zu schützen.",
+      "source_title": "Stefan Schmidt MdB - Für nachhaltigen Tourismus und weniger Overtourism / Tourismus | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Katalin Gennburg",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Katalin Gennburg, tourismuspolitische Sprecherin der Fraktion Die Linke, plädiert für eine stärkere Regulierung des Tourismuswachstums und eine Tourismus-Governance, die lokale Gemeinschaften schützt und die Bedürfnisse der Bewohner vor Profitinteressen stellt. Sie kritisiert die Auswirkungen unregulierter Ferienwohnungsplattformen auf den Wohnraum und fordert Monitoring-Systeme zur frühzeitigen Erkennung von Konflikten.",
+      "source_title": "Katalin Gennburg: Tourismus – Die Linke im Bundestag / Zu mir: Katalin Gennburg - Die Linke Berlin",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Live Buddin",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Erhard Brocker",
+      "party": "AfD",
+      "found": true,
+      "statement": "Erhard Brocker vertritt die Ansicht, dass in Deutschland kein flächendeckendes Problem des Übertourismus besteht, sondern eher lokale Überlastungserscheinungen in Bezug auf Verkehr und Parkplätze. Er betont die wirtschaftlichen Potenziale des Tourismus und hinterfragt die Umsetzbarkeit nationaler Tourismusstrategien ohne ausreichende kommunale Finanzspielräume.",
+      "source_title": "Nationale Tourismusstrategie für mehr Wirtschaftswachstum und sichere Arbeitsplätze - AfD-Fraktion im Deutschen Bundestag / AfD fragt nach Tourismusstrategie - Deutscher Bundestag",
+      "url": "https://afdbundestag.de/nationale-tourismusstrategie-fuer-mehr-wirtschaftswachstum-und-sichere-arbeitsplaetze/%20/%20https://www.bundestag.de/webarchiv/presse/hib/2019_09/656792-656792",
+      "platform": "Website"
+    }
+  ]
+}

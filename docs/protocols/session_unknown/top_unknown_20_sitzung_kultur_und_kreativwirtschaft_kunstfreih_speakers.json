@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die analysierten externen Stellungnahmen der Abgeordneten zur Kultur- und Kreativwirtschaft und Kunstfreiheit zeigen eine übergreifende Anerkennung der essenziellen Rolle von Kunst und Kultur für die demokratische Gesellschaft. Während sich Grüne und SPD für die Stärkung der Kunstfreiheit ohne staatliche 'Gesinnungsprüfung' und die Verankerung eines 'Staatsziel Kultur' aussprechen, betont die CDU/CSU die Förderung kultureller Vielfalt bei gleichzeitiger Ablehnung extremistischer Inhalte in der staatlichen Förderung. Die Linke hebt die prekäre soziale Lage der Kulturschaffenden hervor und kritisiert staatliche Kontrollmechanismen scharf. Ein Konsens besteht in der Notwendigkeit besserer Rahmenbedingungen und der Bewältigung der Herausforderungen durch digitale Plattformen und KI, jedoch mit unterschiedlichen Schwerpunkten bei der Umsetzung.",
+  "sources": [
+    {
+      "name": "Sven Lehmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sven Lehmann betont die unverzichtbare Rolle einer freien und vielfältigen Kultur für das demokratische Zusammenleben. Er setzt sich für die Verankerung eines 'Staatsziels Kultur' im Grundgesetz ein, um Kunst und Kultur umfassend zu stärken und allen Menschen Zugang zu ermöglichen. Zudem fordert er Kennzeichnungen für KI-freie Werke, um die Urheber zu schützen und faire Vergütung zu gewährleisten.",
+      "source_title": "Welche Bedeutung hat die Förderung der Kultur, insbesondere der freien Musikszene für Sie? Was soll mit der Kölner Oper geschehen? Vielen herzlichen Dank für eine kurze Stellungnahme dazu.",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Pascal Reddig",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Pascal Reddig vertritt eine Kulturpolitik aus der politischen Mitte, die kulturelle Vielfalt bekennt, aber gleichzeitig Extremismus in der staatlichen Förderung ablehnt. Er betont die Notwendigkeit transparenter Kriterien bei Förderentscheidungen und sieht den Ausschuss für Kultur und Medien als Grundpfeiler der Gesellschaft. Er äußert sich kritisch zu ideologischen Kulturkämpfen und bekräftigt die Unterstützung der CDU/CSU für die physische Archivierungsarbeit der Deutschen Nationalbibliothek.",
+      "source_title": "Wie beurteilen Sie das Verhalten des Kulturstaatsministers Weimer? | Frage an Pascal Reddig (CDU)",
+      "url": "https://www.abgeordnetenwatch.de/profile/pascal-reddig/fragen-antworten/wie-beurteilen-sie-das-verhalten-des-kulturstaatsministers-weimer",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Awet Tesfaiesus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Awet Tesfaiesus setzt sich als Obfrau für eine gerechte und zukunftsfähige Kulturpolitik ein, mit dem Ziel, marginalisierte Perspektiven sichtbar zu machen und zu stärken. Sie engagiert sich für eine multiperspektivische Erinnerungskultur und betont die Relevanz des Urheberrechts im Kontext von Künstlicher Intelligenz. Sie unterstützt zudem die Verankerung eines 'Staatsziel Kultur' im Grundgesetz.",
+      "source_title": "KULTUR",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Martin Rabanus",
+      "party": "SPD",
+      "found": false,
+      "statement": "Martin Rabanus betont die Kunstfreiheit als Grundpfeiler der Demokratie, die Grenzen überschreiten und Debatten anstoßen darf. Er warnt vor 'Gesinnungsprüfung' bei Kulturförderung und fordert transparente, qualitäts- und relevanzorientierte Förderentscheidungen. Er setzt sich für die Sicherung der Freiheit der Kunst, unabhängige Entscheidungen und klare rechtsstaatliche Verfahren ein, um Vertrauen zu stärken und kulturelle Vielfalt zu fördern.",
+      "source_title": "Zum Spannungsfeld von Kunstfreiheit und Verfassungstreue",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "David Schliesing",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "David Schliesing kritisiert, dass die Kunstfreiheit bedroht ist, wenn Armut und Unsicherheit unter Kulturschaffenden herrschen. Er fordert die Stärkung der Künstlersozialkasse und des öffentlichen Kultursektors und lehnt staatliche Kulturförderung als Instrument politischer Kontrolle vehement ab. Er sieht in der Einflussnahme von Geheimdiensten auf Förderentscheidungen eine ernste Gefahr für die Meinungs- und Kunstfreiheit.",
+      "source_title": "Die Kunstfreiheit ist bedroht, wenn Armut und Unsicherheit regieren",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

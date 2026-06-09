@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte zeigen die Abgeordneten weiterhin Engagement für die im Ausschuss für Kultur und Medien behandelten Themen. Katrin Göring-Eckardt von Bündnis 90/Die Grünen betont die Notwendigkeit konkreter Lösungen und einer verlässlichen Finanzierung für Kultureinrichtungen und kritisiert Kürzungen. Dr. Franziska Kersten von der SPD unterstreicht die Bedeutung des Kulturdenkmalschutzes und weist auf konkrete Bundesförderungen für Kultureinrichtungen hin. David Schliesing von Die Linke äußert Bedenken hinsichtlich der Kunstfreiheit, fordert Investitionsverpflichtungen für Streamingdienste und setzt sich für eine zugängliche und gut finanzierte Kulturlandschaft ein. Michael Hose von der CDU/CSU hebt allgemein die Bedeutung von Kultur und Medien für seine Region hervor.",
+  "sources": [
+    {
+      "name": "Sven Wendorf",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Michael Hose betont auf seiner persönlichen Website die kulturelle Stärke und den Reichtum seiner Region, was ein Kernthema seines Engagements im Bereich Kultur und Medien ist. Er ist Mitglied des Ausschusses für Kultur und Medien und des Ausschusses für Bildung, Familie, Senioren, Frauen und Jugend.",
+      "source_title": "Ihr Abgeordneter für Erfurt & Weimar",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Katrin Göring-Eckardt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Katrin Göring-Eckardt fordert konkrete Lösungen, Sicherheit und einen verlässlichen Rahmen für die Kultur, um deren Freiheit zu gewährleisten. Sie kritisiert Kürzungen und Einflussnahmen auf Kultureinrichtungen und spricht sich für den Erhalt und die Ausweitung des Kulturpasses sowie für Filmförderung aus.",
+      "source_title": "Kulturpolitische Ziele in der 21. Legislaturperiode: Bündnis 90/Die Grünen – Katrin Göring-Eckardt - Politik und Kultur",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Franziska Kersten",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Franziska Kersten setzt sich für die Erhaltung von Kulturdenkmälern sowie deren nationalen und internationalen Schutz ein, insbesondere im Kontext von Krisen und Konflikten. Sie hob zudem die Förderung von national bedeutsamen Kultureinrichtungen hervor, wie die Bundesmittel für die Sanierung der Franckeschen Stiftungen.",
+      "source_title": "Dr. Franziska Kersten, MdB - SPD-Bundestagsfraktion / Mitteilungen - Dr. Franziska Kersten",
+      "url": "https://www.spdfraktion.de/abgeordnete/franziska-kersten%20/%20https://www.franziska-kersten.de/mitteilungen/",
+      "platform": "Website"
+    },
+    {
+      "name": "David Schliesing",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "David Schliesing kritisiert die Politik des Kulturstaatsministers als Gefahr für die Kunstfreiheit und fordert eine gesetzliche Investitionsverpflichtung für Streamingkonzerne, um die deutsche Filmbranche zu stärken. Er setzt sich für eine von der Gesellschaft auskömmlich getragene, freie Kunst- und Kulturlandschaft mit fairen Arbeitsbedingungen und barrierefreiem Zugang ein.",
+      "source_title": "Pressemitteilungen - David Schliesing / Linke fordert gesetzliche Investitionsverpflichtung für US-Streamingkonzerne - Fraktion Die Linke im Bundestag / David Schliesing - Profil - Fraktion Die Linke im Bundestag / Kulturpolitik - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website, Presse"
+    }
+  ]
+}

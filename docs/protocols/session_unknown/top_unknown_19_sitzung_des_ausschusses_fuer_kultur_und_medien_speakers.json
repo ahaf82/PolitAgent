@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten auf die Debatte zur sozialen Lage von Künstlerinnen und Künstlern zeigen fraktionsübergreifend ein Bewusstsein für die prekäre Situation. Katrin Göring-Eckardt (Bündnis 90/Die Grünen) und Kerstin Griese (SPD) betonen die Notwendigkeit fairer Bezahlung, sozialer Absicherung und einer Stärkung der Einkommen durch angepasste Sicherungssysteme wie die KSK. Dr. Gregor Gysi und Sören Pellmann (Die Linke) fordern ebenfalls eine verbesserte soziale Absicherung, faire Honorare und eine Anpassung des Urheberrechts an das digitale Zeitalter und KI. Dr. Götz Frömming (AfD) hingegen äußert grundsätzliche Kritik an der staatlichen Kunstförderung und hinterfragt die Rolle des Staates als Mäzen, ohne konkrete Vorschläge zur direkten Verbesserung der sozialen Lage von Künstlern zu unterbreiten.",
+  "sources": [
+    {
+      "name": "Katrin Göring-Eckardt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Katrin Göring-Eckardt und die Grünen im Bundestag setzen sich für bessere Bedingungen für Künstler*innen ein, fordernd fairere Bezahlung, soziale Absicherung und die Anerkennung kreativer Arbeit als zentral für die kulturelle Vielfalt. Sie betonen, dass Kultur kein Luxus ist, sondern entscheidend für Demokratie und persönliche Entfaltung. Angesichts der Corona-Krise im Juli 2020 forderte sie ein Existenzgeld von monatlich rund 1200 Euro für Selbstständige in Notlagen, inklusive Kulturschaffende, und eine Aufstockung der Kulturförderung um mindestens eine Milliarde Euro.",
+      "source_title": "Kultur | Bundestagsfraktion Bündnis 90/Die Grünen, Corona-Krise: Katrin Göring-Eckardt fordert Existenzgeld für Kulturschaffende - Spiegel",
+      "url": "N/A",
+      "platform": "Fraktions-Website, Presse"
+    },
+    {
+      "name": "Kerstin Griese",
+      "party": "SPD",
+      "found": false,
+      "statement": "Kerstin Griese, als Parlamentarische Staatssekretärin im BMAS, betont, dass die Verbesserung der sozialen Lage von Künstlerinnen und Künstlern ein wichtiges gesellschafts- und sozialpolitisches Anliegen ist. Sie sieht die Stärkung der Einkommen als Schlüssel für nachhaltige Verbesserungen. Ihr Fokus liegt auf der Weiterentwicklung der sozialen Sicherungssysteme für Soloselbstständige, um geringe Rentenansprüche durch die Einbeziehung aller relevanten Einkünfte in die Beitragspflicht zu adressieren, ohne das KSK-System zu überdehnen oder Beitragszahler zu überlasten.",
+      "source_title": "Die soziale Lage ist besser, als viele befürchtet haben | Kerstin Griese MdB, Kerstin Griese - BMAS, Kerstin Griese, MdB - NRWSPD",
+      "url": "N/A",
+      "platform": "Website, Fraktions-Website"
+    },
+    {
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Götz Frömming, als kulturpolitischer Sprecher der AfD-Bundestagsfraktion, hinterfragt die Rolle des Staates als Mäzen und kritisiert die Förderung von Kunst, die nicht der \"historischen Werktreue\" dient. Er äußerte in der Debatte Bedenken hinsichtlich der Effizienz der KSK-Verwaltungskosten. Allgemein kritisiert er eine \"verschwenderische Versorgungspolitik\" im Kulturbereich, die nicht der \"gezielten Kulturförderung\" entspreche.",
+      "source_title": "Dr. Götz Frömming | MdB | AfD, Götz Frömming, Autor bei Politik und Kultur, Götz Frömming: Statt gezielter Kulturförderung betreibt Claudia Roth verschwenderische Versorgungspolitik - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/abgeordnete/goetz-froemming/,%20https://www.politik-und-kultur.de/autoren/goetz-froemming.html,%20https://afdbundestag.de/goetz-froemming-statt-gezielter-kulturfoerderung-betreibt-claudia-roth-verschwenderische-versorgungspolitik/",
+      "platform": "Fraktions-Website, Presse"
+    },
+    {
+      "name": "Dr. Gregor Gysi",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Dr. Gregor Gysi fordert als kulturpolitischer Sprecher der Linksfraktion eine bessere soziale Absicherung von Künstlerinnen und Künstlern sowie Kulturschaffenden, um deren Arbeits- und Lebensbedingungen zu verbessern und Altersarmut zu verhindern. Er betont die Notwendigkeit fairer Vergütung und einer Anpassung des Urheberrechts im Zeitalter der Künstlichen Intelligenz, inklusive fairer Vergütung für Kreative, Transparenz bei KI-generierten Inhalten und Kennzeichnung künstlich erzeugter Werke.",
+      "source_title": "Kulturpolitische Ziele in der 21. Legislaturperiode: Die Linke – Gregor Gysi, Dr. Gregor Gysi - Profil - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse, Fraktions-Website"
+    },
+    {
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sören Pellmann setzt sich als Mitglied der Linksfraktion im Bundestag und Sprecher für Inklusion und Teilhabe für soziale Sicherheit und faire Löhne ein, was auch die soziale Lage von Künstlern einschließt. Er fordert \"Renten rauf statt Absturz im Alter\" und eine \"Solidarische Mindestrente von 1.400 Euro\". Seine Partei tritt generell für eine Förderung des kulturellen Lebens in allen Milieus und Regionen ein und betont die Notwendigkeit, Kulturarbeit fair zu finanzieren und Basishonorare zu etablieren.",
+      "source_title": "Sören Pellmann - Profil - Fraktion Die Linke im Bundestag, Über mich: DIE LINKE. Sören Pellmann, Kulturpolitik - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Fraktions-Website, Website"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externe Debatte um ein kostenfreies Mittagessen in Schulen und Kitas spiegelt die im Bundestag geäußerten Positionen wider, wobei Die Linke und die SPD die Forderung grundsätzlich unterstützen, während CDU/CSU und AfD sie kritisch sehen, jedoch mit unterschiedlichen Schwerpunkten. Ina Latendorf (Die Linke) und ihre Fraktion bekräftigen die Notwendigkeit eines universellen, gesunden und regionalen Mittagessens als Menschenrecht und Maßnahme gegen Kinderarmut. Caroline Bosbach (CDU/CSU) und ihre Partei lehnen ein flächendeckendes Angebot aufgrund hoher Kosten, föderaler Zuständigkeiten und des bestehenden Bildungs- und Teilhabepakets ab. Danny Meiners (AfD) und seine Fraktion befürworten zwar ein kostenfreies Schulessen, betonen jedoch die Zuständigkeit der Länder und lehnen eine bundesweite, ideologisch motivierte 'Gießkannenpolitik' ab. Die SPD, vertreten durch Svenja Stadler, teilt das Anliegen einer guten Verpflegung und fordert ebenfalls kostenfreie Mahlzeiten, betont aber die Umsetzbarkeit im föderalen System und eine gezielte Unterstützung für bedürftige Familien, während sie gleichzeitig die 'programmatische DNA' für kostenfreies Schulessen hervorhebt.",
+  "sources": [
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Ina Latendorf und ihre Fraktion Die Linke fordern seit Langem ein kostenfreies, gesundes und leckeres Mittagessen in allen Schulen und Kitas, um Kinderarmut zu bekämpfen und Bildungschancen zu verbessern. Sie betont, dass gesundes Essen ein Menschenrecht ist und sieht in der kostenfreien Verpflegung eine Möglichkeit zur Prävention von Krankheiten und zur Stärkung regionaler, ökologischer Landwirtschaft. Sie kritisierte auch die Haltung des Agrarministers zu mehr Fleischangeboten und verwies auf ein Gutachten zur Bundeskompetenz in dieser Frage.",
+      "source_title": "Rede von Ina Latendorf am 21.05.2026 - Fraktion Die Linke im Bundestag / Neuigkeiten: DIE LINKE. Ina Latendorf, MdB / Kostenfreie Kita- und Schulverpflegung jetzt! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Caroline Bosbach",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Caroline Bosbach und die CDU/CSU-Fraktion lehnen ein universelles kostenfreies Mittagessen in Schulen als 'teure Symbolpolitik' ab. Sie betonen, dass 'kostenlos' am Ende von allen über höhere Steuern und Gebühren bezahlt werden muss und plädieren stattdessen für gezielte Förderungen für bedürftige Familien, beispielsweise über das Bildungs- und Teilhabepaket. Die Partei verweist auf die Zuständigkeit der Länder und Kommunen und äußerte Bedenken gegen eine zentrale Steuerung des Essensangebots.",
+      "source_title": "Kostenloses Mittagessen an Schulen - \"teure Symbolpolitik\", meint die Rats-CDU - Radio Hannover / Landesregierung legt schriftlichen Bericht zu Mittagsverpflegung... - CDU Landtagsfraktion Schleswig Holstein / Umsetzbarkeit des kostenlosen Mittagessens an Schulen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Danny Meiners",
+      "party": "AfD",
+      "found": false,
+      "statement": "Die AfD, auch auf Landesebene, fordert die Einführung eines kostenfreien Mittagessens in Kindergärten und Grundschulen, um arbeitende Eltern zu entlasten und soziale Ungerechtigkeiten abzubauen. Sie kritisiert jedoch die Bundesregierung für angeblich fehlende Gelder und lehnt zentrale, bundesweite Vorgaben als Verstoß gegen den Föderalismus und als 'ideologisch' motivierte Eingriffe ab, insbesondere wenn es um die einseitige Bevorzugung pflanzenbasierter Lebensmittel geht.",
+      "source_title": "AfD-Antrag: Kostenfreies Mittagessen in Kindergärten und Grundschulen! - AfD-Fraktion Sachsen / Kita-Kosten müssen sinken! Kostenloses Mittagessen bis zur Grundschule! - AfD-Fraktion Sachsen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Svenja Stadler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Svenja Stadler und die SPD-Bundestagsfraktion sehen ein kostenfreies, qualitativ hochwertiges Mittagessen in Schulen und Kitas als 'überfällig' und als Teil ihrer 'programmatischen DNA'. Sie betonen die Bedeutung für soziale Gleichheit, Lernverhalten und die Entlastung einkommensschwacher Familien. Während sie die Empfehlungen des Bürgerrats unterstützen, fordern sie eine realistische, schrittweise Umsetzung und die gemeinsame Finanzierung durch Bund, Länder und Kommunen, wobei auch eine gezielte Unterstützung für Familien mit wenig Geld priorisiert wird.",
+      "source_title": "Kostenfrei Mittagessen in Schulen ist überfällig - SPD-Bundestagsfraktion / Für Familien und Kinder - SPD-Bundestagsfraktion / Kostenloses Mittagessen an Kitas und Grundschulen! - SPD-Fraktion im Bayerischen Landtag",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/kostenfrei-mittagessen-schulen-ueberfaellig%20;%20https://www.spdfraktion.de/system/files/documents/20250709_familien_kinder.pdf%20;%20https://www.bayernspd-landtag.de/presse/kostenloses-mittagessen-an-kitas-und-grundschulen-staatsregierung-verpasst-wichtige-chance/",
+      "platform": "Website"
+    }
+  ]
+}

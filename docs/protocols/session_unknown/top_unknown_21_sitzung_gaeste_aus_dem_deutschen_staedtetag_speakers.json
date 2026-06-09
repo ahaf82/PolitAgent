@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten auf die Themen der Debatte spiegeln weitgehend ihre Fraktionspositionen wider, zeigen aber auch individuelle Schwerpunkte. Thomas Hose (CDU/CSU) fordert verstärkte Bundesförderung für kommunale Kultur, insbesondere in ländlichen Regionen, und kritisiert bürokratische Hürden. Martin Rabanus (SPD) betont Kultur als Daseinsvorsorge und plädiert für einen kooperativen Kulturföderalismus mit vereinfachten Förderlogiken. Awet Tesfaiesus (Bündnis 90/Die Grünen) legt den Fokus auf die Stärkung ländlicher Kulturräume sowie Nachhaltigkeit und Diversität. Gregor Gysi (Die Linke) fordert vehement die Aufnahme von Kultur als Staatsziel ins Grundgesetz und einen Altschuldenfonds für Kommunen zur Sicherung der Kulturfinanzierung. Im Gegensatz dazu kritisiert Dr. Götz Frömming (AfD) die „Ideologisierung“ der Kulturpolitik und fordert eine Priorisierung traditioneller deutscher Kulturstätten gegenüber diversitätssensiblen Projekten.",
+  "sources": [
+    {
+      "name": "Thomas Hose",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Thomas Hose betont als kulturpolitischer Sprecher der CDU/CSU-Fraktion die Wichtigkeit der Stärkung kultureller Infrastruktur in ländlichen und strukturschwachen Gebieten. Er fordert zuverlässige Bundesförderstrukturen und eine bessere Abstimmung von Bundesprogrammen mit den kommunalen Bedürfnissen, um Kultur als wesentlichen Bestandteil der lokalen Identität und des gesellschaftlichen Zusammenhalts zu sichern.",
+      "source_title": "Positionen zur Kulturpolitik auf der CDU/CSU-Fraktionswebseite und in Pressemitteilungen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "found": false,
+      "statement": "Dr. Götz Frömming kritisiert als kulturpolitischer Sprecher der AfD-Fraktion die „Ideologisierung“ der Kulturpolitik durch Kriterien wie Diversität und Inklusion, die er als Einschränkung der Kunstfreiheit und Fehlleitung von Mitteln betrachtet. Er plädiert für eine Konzentration der Kulturförderung auf den Erhalt traditioneller deutscher Kultur und nationales Kulturgut, insbesondere angesichts angespannter kommunaler Haushalte.",
+      "source_title": "Stellungnahmen zur Kulturpolitik auf der AfD-Fraktionswebseite",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Martin Rabanus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Martin Rabanus (SPD) sieht Kultur als Daseinsvorsorge für alle und setzt sich für starke kommunale Kulturstrukturen ein. Er fordert einen kooperativen Kulturföderalismus und die Vereinfachung von Förderlogiken auf Bundesebene, um die Kommunen bei der Sanierung und Modernisierung ihrer Kulturbauten zu unterstützen und bürokratische Hürden, auch im Zusammenhang mit Urteilen wie dem 'Herrenberg-Urteil', abzubauen.",
+      "source_title": "Beiträge zur Kulturpolitik auf der SPD-Fraktionswebseite und persönlichen Kanälen",
+      "url": "https://www.spdfraktion.de/themen/kulturpolitik",
+      "platform": "Website"
+    },
+    {
+      "name": "Awet Tesfaiesus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Awet Tesfaiesus (Bündnis 90/Die Grünen) konzentriert sich auf die Stärkung von Kulturangeboten in ländlichen Räumen und die Verbesserung der Bundesförderung für mittelgroße Städte und Landkreistheater. Sie betont die Bedeutung von Nachhaltigkeit und Diversität in Kultureinrichtungen und setzt sich für die Kunstfreiheit sowie eine vertrauensvolle Zusammenarbeit zwischen Fördergebern und Kulturschaffenden ein.",
+      "source_title": "Positionen zur Kulturpolitik auf der Grünen-Fraktionswebseite und Social Media",
+      "url": "https://www.gruene-bundestag.de/unsere-politik/unsere-ziele/kultur/",
+      "platform": "Website"
+    },
+    {
+      "name": "Gregor Gysi",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Gregor Gysi (Die Linke) setzt sich vehement dafür ein, Kultur als Staatsziel im Grundgesetz zu verankern und einen bundesweiten Altschuldenfonds zur Entlastung der Kommunen zu schaffen, um Kürzungen im Kulturbereich entgegenzuwirken. Er kritisiert restriktive Eigenbeitragsregelungen bei Förderprogrammen und verteidigt die Kunstfreiheit gegen ideologische Auflagen und sogenannte 'Bekenntnisklauseln'.",
+      "source_title": "Statements zur Kulturpolitik auf der Fraktionswebseite 'Die Linke' und Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

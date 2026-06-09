@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte zeigen Abgeordnete unterschiedliche, aber konsistente Positionen zur Versorgung bei Schwangerschaftsabbrüchen. Dr. Kirsten Kappert-Gonther (Bündnis 90/Die Grünen) tritt vehement für die Entkriminalisierung und Abschaffung des Paragraphen 218 StGB ein, fordert bessere Zugänge und die Integration des Themas in die medizinische Ausbildung. Stefan Seidler (fraktionslos) kritisiert konkret Versorgungslücken nach Krankenhausfusionen und fordert die Bundesregierung zu Maßnahmen auf, um die Verweigerung von Abbrüchen in konfessionellen Krankenhäusern zu unterbinden. Martina Kempf (AfD) lehnt eine Ausweitung von Abtreibungsangeboten entschieden ab, betrachtet Abbrüche als 'Tötungen Ungeborener' und betont stattdessen die Förderung von Alternativen und konkreten Hilfsangeboten. Dr. Christos Pantazis (SPD) unterstützt das Selbstbestimmungsrecht von Frauen und tritt der Stigmatisierung entgegen, während für Dr. Maria-Lena Weiss (CDU/CSU) keine direkten externen Stellungnahmen gefunden wurden, ihre Fraktion jedoch generell keine strukturelle Unterversorgung sieht und an der Rolle der Schwangerschaftsberatung festhält.",
+  "sources": [
+    {
+      "name": "Dr. Kirsten Kappert-Gonther",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Kirsten Kappert-Gonther fordert die Entkriminalisierung des Schwangerschaftsabbruchs und die Abschaffung von Paragraph 218 StGB. Sie betont, dass die Kriminalisierung zu einer schlechten Versorgungslage führt und dass die Erkenntnisse der ELSA-Studie einen klaren Handlungsauftrag zur Verbesserung des Zugangs zu Schwangerschaftsabbrüchen darstellen. Zudem setzt sie sich für die Verankerung des Themas in der ärztlichen Aus- und Weiterbildung ein und kritisiert Hindernisse durch Krankenhausfusionen mit katholischen Trägern.",
+      "source_title": "Der Schwangerschaftsabbruch gehört nicht ins Strafgesetzbuch - Pharmazeutische Zeitung / Feminismus | Dr. Kirsten Kappert-Gonther / Koalition lässt ungewollt Schwangere im Stich | Bundestagsfraktion Bündnis 90/Die Grünen / Wie stehen Sie zu der Abstimmung: Selbstbestimmung (Abtreibung) soll Menschenrecht werden. | Frage an Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN) - Abgeordnetenwatch",
+      "url": "https://www.pharmazeutische-zeitung.de/sti-nehmen-in-europa-zu-146030/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Seidler",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Stefan Seidler kritisiert die gravierende Verschlechterung der Versorgungslage bei Schwangerschaftsabbrüchen nach Krankenhausfusionen, wie im Falle Flensburgs, und fordert von der Bundesregierung wirksame Maßnahmen zur Sicherstellung der Versorgung. Er plädiert dafür, dass Krankenhausfusionen nicht dazu führen dürfen, medizinische Versorgungsaufträge auszuhöhlen, und fordert die verpflichtende Verankerung von Schwangerschaftsabbrüchen in der ärztlichen Aus- und Weiterbildung. Er hinterfragt zudem, wie zeitgemäß der Anspruch katholischer Krankenhäuser ist, Abbrüche nicht zuzulassen.",
+      "source_title": "PM: Seidler kritisiert Versorgungslücke bei Schwangerschaftsabbrüchen – Bundestag debattiert Maßnahmen – Stefan Seidler / Pressemitteilung Stefan Seidler fragt Bundesregierung zum Thema Abtreibung in kirchlichen Krankenhäusern",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Maria-Lena Weiss",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Martina Kempf",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martina Kempf spricht sich gegen die Pläne der Regierung aus, die Versorgung mit Schwangerschaftsabbrüchen 'wohnortnah zu ermöglichen', und bezeichnet diese als 'Tötungen Ungeborener'. Sie betont, dass es in Deutschland kein Recht auf Abtreibung gebe und fokussiert sich auf konkrete Hilfsangebote und Adoptionsmöglichkeiten für ungewollt schwangere Frauen. Zudem kritisiert sie Studien, die ein erhöhtes Suizidrisiko nach einer Geburt im Vergleich zu einem Schwangerschaftsabbruch zeigen, und bezweifelt die wissenschaftliche Aussagekraft der ELSA-Studie.",
+      "source_title": "Martina Kempf fordert Ende ideologischer Abtreibungspolitik! - AfD-Fraktion im Bundestag / Debate on abortions escalates! Martina Kempf - AfD parliamentary group in the Bundestag",
+      "url": "https://afdbundestag.de/martina-kempf-fordert-ende-ideologischer-abtreibungspolitik/,%20https://www.alamy.de/stockfoto-debate-on-abortions-escalates-martina-kempf-afd-parliamentary-group-in-the-bundestag-173874304.html%20(Video%20transcript%20content%20refers%20to%20her%20speech)",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Christos Pantazis",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Christos Pantazis betont, dass er sich für eine demokratische Streitkultur einsetzt, die sich nicht von 'rechter Hetze oder populistischen Angriffen' beeinflussen lässt. In Bezug auf das Selbstbestimmungsrecht von Frauen und die Entkriminalisierung des Schwangerschaftsabbruchs bis zur 12. Woche impliziert seine Antwort eine klare Unterstützung für diese Anliegen, die mit der Position der SPD-Fraktion übereinstimmt, praktische Engpässe und regionale Ungleichheiten zu beseitigen und die Entkriminalisierung von Schwangerschaftsabbrüchen anzustreben.",
+      "source_title": "Unterstützen Sie das Selbstbestimmungsrecht von Frauen, mybodymychoise? | Frage an Armand Zorn (SPD) - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/armand-zorn/fragen-antworten/unterstuetzen-sie-das-selbstbestimmungsrecht-von-frauen-mybodymychoise",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

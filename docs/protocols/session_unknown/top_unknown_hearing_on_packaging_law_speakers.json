@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die identifizierten Abgeordneten zeigen fraktionsübergreifend ein starkes Engagement für die Weiterentwicklung des Verpackungsrechts und der Kreislaufwirtschaft. Michael Thews (SPD) hebt die Bedeutung einer ökologisierten Lizenzabgabe und von Mehrwegalternativen hervor, während Anja Weisgerber (CDU/CSU) die Stärkung kommunaler Rechte und Anreize für Rezyklateinsatz betont. Jan-Niclas Gesenhues (Bündnis 90/Die Grünen) fordert verbindliche Vermeidungs- und Reduktionsziele sowie einen Ausbau von Recycling und Wiederverwendung. Ralph Lenkert (Die Linke) kritisiert die Aufrechterhaltung der dualen Systeme und fordert stattdessen kommunale Erfassungssysteme und Herstellerverantwortung. Insgesamt besteht Konsens über die Notwendigkeit, Abfall zu vermeiden und den Rezyklateinsatz zu fördern, jedoch divergieren die Meinungen über die konkrete Ausgestaltung und Finanzierung dieser Maßnahmen.",
+  "sources": [
+    {
+      "name": "Anja Weisgerber",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Anja Weisgerber betont die Notwendigkeit eines 'Recyclinglabels' und die Förderung der Kreislaufwirtschaft, um Ressourcen zu schonen. Sie fordert ehrgeizigere Recyclingquoten und eine stärkere Ökologisierung der Lizenzentgelte, um Anreize zur Reduzierung von Verpackungsmaterialien zu schaffen und die Kommunen gegenüber den Dualen Systemen zu stärken. Zudem setzt sie sich für den Abbau rechtlicher Hemmnisse beim Einsatz von Rezyklaten ein.",
+      "source_title": "Pressemitteilung aus dem Büro der Bundestagsabgeordneten Dr. Anja Weisgerber / Müll vermeiden – Sekundärrohstoffe nutzen / „Spitzengespräch der Kreislaufwirtschaft“ mit CDU-CSU-Bundestagsfraktion",
+      "url": "https://www.csu.de/dateien/partei/presse/archiv/2017/pm-anpassung-verpackungsgesetz.pdf%20/%20https://www.anja-weisgerber.de/im-wahlkreis/detail/news/muell-vermeiden-sekundaerrohstoffe-nutzen%20/%20https://www.avu-online.de/aktuelles/pressemitteilungen/spitzengespraech-der-kreislaufwirtschaft-mit-cdu-csu-bundestagsfraktion",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Thews",
+      "party": "SPD",
+      "found": false,
+      "statement": "Michael Thews sieht die Kreislaufwirtschaft als Schlüsselthema und plädiert für eine ökologisierte Lizenzabgabe im Verpackungsgesetz. Er unterstützt die Verpflichtung von Gastronomen und Einzelhändlern, Mehrwegalternativen anzubieten, und fordert einen verpflichtenden Mindestrezyklatanteil in PET-Flaschen, um Abfall zu vermeiden und die Wirtschaft zu einer echten Kreislaufwirtschaft umzubauen.",
+      "source_title": "„Wir brauchen ein Recyclinglabel“ – Interview Michael Thews - Klimaschutz Kommune / Rede von Michael Thews zum Verpackungsgesetz / Plastiktütenverbot | SPD-Bundestagsfraktion / Bundestag berät über Anpassung des Verpackungsrechts",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jan-Niclas Gesenhues",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Jan-Niclas Gesenhues betont, dass eine wirksame Kreislaufwirtschaft bereits beim Produktdesign beginnt und fordert verbindliche rechtliche Vermeidungs- und Reduktionsziele für Rohstoffverbrauch und Abfallmengen. Er kritisiert das Fehlen von Maßnahmen zur Mehrwegförderung im aktuellen Gesetzentwurf und setzt sich für einen deutlichen Ausbau von Recycling und Wiederverwendung sowie ökonomische Anreize für Langlebigkeit und Reparierbarkeit ein.",
+      "source_title": "Bundeskongress Kreislaufwirtschaft – Programm / „Spitzengespräch der Kreislaufwirtschaft“ mit Bündnis 90/Die Grünen / Mit weniger Abfall in eine echte Kreislaufwirtschaft - Eco-World.de / Bundestag berät über Anpassung des Verpackungsrechts",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ralph Lenkert",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ralph Lenkert kritisiert die Probleme der dualen Sammelsysteme und fordert eine grundlegende Reform des Systems. Er schlägt die Einführung von Verpackungsabgaben statt aufwendiger Lizensierungen und den Übergang zu kommunalen Erfassungssystemen vor, um Betrug zu vermindern und Doppelstrukturen zu vermeiden. Zudem fordert er Herstellerverantwortung, anstatt die EU-Einwegkunststoffsteuer aus dem Steuersäckel zu bezahlen.",
+      "source_title": "Rede im Bundestag: Nur die kommunale Sammlung von Verpackungsabfällen macht Sinn: Umwelt, Energie und Klima / Einwegkunststoff: Hersteller in die Verantwortung nehmen! - Fraktion Die Linke im Bundestag",
+      "url": "https://www.ralph-lenkert.de/reden-im-bundestag/rede-im-bundestag-nur-die-kommunale-sammlung-von-verpackungsabfaellen-macht-sinn%20/%20https://www.dielinke-fraktion.de/presse/pressemitteilungen/detail/einwegkunststoff-hersteller-in-die-verantwortung-nehmen/",
+      "platform": "Website"
+    }
+  ]
+}

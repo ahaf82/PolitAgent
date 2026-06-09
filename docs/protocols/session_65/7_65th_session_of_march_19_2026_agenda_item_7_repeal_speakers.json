@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zur Aufhebung des Polizeibeauftragtengesetzes zeigt eine klare Spaltung der Positionen. Während die AfD und die CDU/CSU in der Debatte das Amt kritisierten, verteidigen die Koalitionspartner Bündnis 90/Die Grünen und SPD sowie Die Linke die Rolle des Polizeibeauftragten als essenzielle Instanz der Kontrolle und Vertrauensbildung. Außerhalb des Plenums bekräftigen Befürworter wie Dr. Irene Mihalic und Sebastian Fiedler die Notwendigkeit und den Erfolg des Amtes, indem sie seine Bedeutung für die Fehlerkultur und die Aufarbeitung struktureller Probleme hervorheben. Clara Bünger von Die Linke unterstreicht die Wichtigkeit unabhängiger Kontrolle staatlicher Gewalt. Für die AfD- und CDU/CSU-Sprecher sind zum Thema außerhalb der Plenumsdebatte keine spezifischen, abweichenden oder ergänzenden externen Stellungnahmen auffindbar.",
+  "sources": [
+    {
+      "name": "Steffen Janich",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Florian Oest",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Irene Mihalic bekräftigt die Bedeutung des Polizeibeauftragten als unabhängige Instanz für Aufarbeitungs- und Fehlerkultur. Sie verweist auf die Relevanz des Amtes für Polizisten und Bürger und betont, dass unabhängige Kontrolle das Vertrauen in die Polizei stärkt und nicht schwächt. Sie hat sich bereits seit Jahren für die Schaffung einer solchen unabhängigen Stelle eingesetzt und sieht in Uli Grötsch einen erfolgreichen Amtsinhaber.",
+      "source_title": "Polizeibeauftragter - Irene Mihalic / Der Polizeibeauftragte - Ein Schritt für mehr Transparenz und Reformen",
+      "url": "https://irene-mihalic.de/berlin/innere-sicherheit/polizei/der-polizeibeauftragte-ein-schritt-zu-mehr-transparenz-und-reformen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sebastian Fiedler verteidigt das Amt des Polizeibeauftragten als Ausdruck einer guten Fehlerkultur. Er betont, dass Deutschland mit diesem Amt keinen Sonderweg beschreitet und der Beauftragte mit der Polizei zusammenarbeite und hohe Anerkennung bei den Beschäftigten genieße. Er sieht das Amt als wichtiges Instrument zur Aufklärung struktureller Vorgänge und zur Stärkung des Vertrauens in die Sicherheitsbehörden.",
+      "source_title": "Sebastian Fiedler - Rede im Deutschen Bundestag zum Thema: Bundespolizeibeauftragten - 19.03.2026",
+      "url": "https://www.youtube.com/watch?v=DpxloxdhRWc&t=701s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Clara Bünger kritisiert die Initiative zur Abschaffung des Polizeibeauftragten als Versuch, die demokratische Kontrolle von Sicherheitsbehörden zu reduzieren und unkontrolliertes Handeln zu ermöglichen. Sie betont die Notwendigkeit unabhängiger Kontrolle gerade dort, wo der Staat Zwang ausübt und Menschen staatlichem Handeln ausgeliefert sind, um die Rechte der Bürger zu schützen.",
+      "source_title": "Keine Polizei ohne unabhängige Kontrolle! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

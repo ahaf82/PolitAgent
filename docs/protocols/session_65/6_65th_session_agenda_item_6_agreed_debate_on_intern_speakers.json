@@ -1,0 +1,41 @@
+{
+  "synthesis": "Karin Prien (CDU/CSU) betonte außerhalb des Bundestags die weltweite Bedrohung von Frauenrechten und Deutschlands Verantwortung, diese zu verteidigen, forderte aber auch im Inland weitere Anstrengungen bei gleicher Bezahlung und Repräsentation, und warnte vor Diskriminierung durch KI. Bundestagspräsidentin Bärbel Bas (SPD) hob in externen Stellungnahmen hervor, dass trotz Fortschritten die Gleichstellung im Alltag, insbesondere bei der Lohnlücke und der Verteilung von Sorgearbeit, noch nicht erreicht sei und echte Gleichstellung eine Zukunftsfrage für das Land sei. Beatrix von Storch (AfD) bekräftigte ihre Kritik am „intersektionalen Feminismus“ und der „Transideologie“ und forderte den Schutz biologischer Frauenräume, während sie traditionelle Familienrollen und die Sicherheit von Frauen in den Vordergrund stellte. Britta Haßelmann (Bündnis 90/Die Grünen) sprach sich bei einer Fraktionsveranstaltung energisch gegen Sexismus und patriarchale Strukturen aus und forderte eine stärkere Repräsentation von Frauen in der Politik und die Durchsetzung gleicher Rechte und Löhne.",
+  "sources": [
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Anlässlich des Internationalen Frauentags 2026 forderte Bundesfrauenministerin Karin Prien weitere Anstrengungen bei der Umsetzung der Frauenrechte in Deutschland, da es noch \"Luft nach oben\" gebe, insbesondere bei Führungspositionen und der Lohnlücke. Sie betonte, dass Deutschland bei der Gleichberechtigung zwar ordentlich dastehe, die Umsetzung aber ein Verfassungsauftrag und eine Frage der wirtschaftlichen Zukunftsfähigkeit sei. Prien warnte zudem vor Diskriminierung von Frauen durch Künstliche Intelligenz.",
+      "source_title": "Internationaler Frauentag: Frauenministerin warnt vor Diskriminierung durch KI - DIE ZEIT / Karin Prien sieht „Luft nach oben“ bei Frauenrechten - Jüdische Allgemeine",
+      "url": "https://www.juedische-allgemeine.de/politik/karin-prien-sieht-luft-nach-oben-bei-frauenrechten/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Beatrix von Storch",
+      "party": "AfD",
+      "found": false,
+      "statement": "Beatrix von Storch kritisierte in externen Äußerungen, die ihre Bundestagsrede spiegelten, den \"intersektionalen Feminismus\" als radikal und widersprüchlich und warnte vor einer angeblichen \"Transideologie\", die biologisches Geschlecht negiere. Sie betonte die Notwendigkeit, Schutzräume für Frauen ausschließlich biologischen Frauen vorzubehalten und forderte \"ehrliche Gleichberechtigung statt Gleichstellung\" unter Anerkennung spezifischer Unterschiede von Mann und Frau.",
+      "source_title": "Beatrix von Storch zum Internationalen Frauentag (WP 21, 65. Sitzung, TOP 6) - YouTube / Sollten ihrer Meinung nach Schutzräume für Frauen ausschließlich biologischen Frauen vorbehalten sein? | Frage an Beatrix von Storch (AfD) - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Bärbel Bas",
+      "party": "SPD",
+      "found": true,
+      "statement": "In einem Impulsvortrag zum Internationalen Frauentag 2024 betonte Bundestagspräsidentin Bärbel Bas, dass trotz Fortschritten noch lange keine echte Gleichstellung erreicht sei, insbesondere im Hinblick auf die Lohnlücke und die Verteilung von Sorgearbeit. Sie wies darauf hin, dass Frauen im Schnitt 16 Prozent weniger als Männer verdienen und forderte verbindliche Quoten, um Parität in den Parlamenten zu erreichen. Bas stellte fest, dass Gleichstellung eine Frage des Respekts und eine Zukunftsfrage für Deutschland ist.",
+      "source_title": "Impulsvortrag von Bundestagspräsidentin Bärbel Bas beim Frauenempfang zum Internationalen Frauentag 2024 in Wesel - Deutscher Bundestag / Bärbel Bas zum Weltfrauentag: \"Gleichstellung ist Frage des Respekts\" | WEB.DE",
+      "url": "https://web.de/magazine/politik/inland/baerbel-bas-weltfrauentag-gleichstellung-frage-respekts-41980044",
+      "platform": "Website"
+    },
+    {
+      "name": "Britta Haßelmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Britta Haßelmann betonte auf einem parlamentarischen Abend ihrer Fraktion zum Internationalen Frauentag 2026, dass Frauen mit nur 32 Prozent im Bundestag deutlich unterrepräsentiert seien und dem patriarchalen Rollback entschlossen entgegengetreten werden müsse. Sie hob hervor, dass Frauen das Recht auf Gleichstellung, Würde, Macht, Einfluss und gleichen Lohn haben, und rief dazu auf, Bündnisse für mehr Gleichberechtigung zu schließen.",
+      "source_title": "CouRAGE – was Frauen verbindet | Bundestagsfraktion Bündnis 90/Die Grünen / No woman should accept this! – Britta Hasselmann on International Women's Day - YouTube",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

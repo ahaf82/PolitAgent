@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten spiegeln weitgehend ihre im Bundestag geäußerten Positionen wider, wobei die Notwendigkeit zur Bewältigung der gestiegenen Kraftstoff- und Energiepreise stark betont wurde. Sepp Müller (CDU/CSU) und Armand Zorn (SPD) verteidigten die Maßnahmen der Koalition, wie die Begrenzung von Preiserhöhungen und die Verschärfung des Kartellrechts, zeigten sich aber auch offen für weitere Entlastungen wie eine Übergewinnsteuer bei anhaltender Krise. Leif-Erik Holm (AfD) kritisierte die Regierungsansätze als unzureichend und forderte stattdessen massive Steuersenkungen und eine Stärkung der Kernenergie. Ines Schwerdtner (Die Linke) verlangte drastische Schritte wie eine rückwirkende Übergewinnsteuer, ein Energiekrisengeld und die Wiedereinführung des 9-Euro-Tickets, während für Dr. Julia Verlinden (Bündnis 90/Die Grünen) keine spezifischen externen Aussagen zu diesem Paket in den Suchergebnissen gefunden wurden.",
+  "sources": [
+    {
+      "name": "Sepp Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sepp Müller, Co-Vorsitzender der Taskforce zu den wirtschaftlichen Auswirkungen des Iran-Krieges, betonte die Notwendigkeit schneller und zielgerichteter Entlastung für Unternehmen und Verbraucher. Er unterstützte das 'Österreich-Modell' (eine Preiserhöhung pro Tag) und die Verschärfung des Kartellrechts, forderte volle Transparenz von Mineralölkonzernen und bezeichnete deren Preispolitik als 'Preistreiberei' und 'Abzocke'. Sollte die Lage anhalten, stellte er weitere Entlastungsmaßnahmen wie über die Kfz-Steuer oder eine Übergewinnsteuer in Aussicht, warnte aber vor dauerhaften Subventionen.",
+      "source_title": "Kraftstoffpreise: Sepp Müller drängt auf schnelle Entlastung / Hohe Spritpreise: Koalitionspolitiker für schnelle Maßnahmen / Zweites Maßnahmenpaket gegen steigende Energiepreise",
+      "url": "https://www.cda-bund.de/aktuelles/kraftstoffpreise-sepp-mueller-draengt-auf-schnelle-entlastung/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm kritisierte die Regierungspläne zur Begrenzung von Spritpreiserhöhungen als 'Aktionismus' und einen 'Holzweg', der das Gegenteil bewirken könnte. Er forderte stattdessen sofortige und umfassende Steuersenkungen, darunter die Energiesteuer auf das EU-Minimum, die Abschaffung der CO2-Abgabe und die Senkung der Mehrwertsteuer auf null für Heizöl, Gas und Sprit. Holm betonte, dass der Staat der größte Profiteur der hohen Spritpreise sei und dass günstige Energie statt teurer Ideologie benötigt werde, um Deindustrialisierung zu verhindern.",
+      "source_title": "Kay Gottschalk/Leif-Erik Holm: Bürger werden bei Energiekosten von der Ampel weiter geschröpft / Leif-Erik Holm: Hohe Energiepreise sind Unternehmenskiller Nr. 1 / Fuel prices: Leif-Erik Holm dissects the government's package of measures!",
+      "url": "https://afdbundestag.de/kay-gottschalk-leif-erik-holm-buerger-werden-bei-energiekosten-von-der-ampel-weiter-geschroepft/",
+      "platform": "Website"
+    },
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": true,
+      "statement": "Armand Zorn, ebenfalls Co-Vorsitzender der Taskforce, verurteilte die 'Abzocke' der Mineralölkonzerne und betonte, dass es 'unanständig' sei, aus dem Krieg Profit zu schlagen. Er forderte über die initialen Maßnahmen hinausgehend einen Spritpreisdeckel und eine Übergewinnsteuer, um ungerechtfertigte Gewinne abzuschöpfen und an die Bürger zurückzugeben. Zorn sprach sich für eine weitere Verschärfung des Kartellrechts aus, um mehr Transparenz zu erzwingen und 'dysfunktionalen' Wettbewerb zu unterbinden.",
+      "source_title": "Hohe Spritpreise: Koalitionspolitiker für schnelle Maßnahmen / Hohe Kraftstoffpreise - SPD fordert Marktregelung / Wir entlasten schnell und spürbar",
+      "url": "https://live.deutsche-boerse.com/nachrichten/Hohe-Spritpreise-Koalitionspolitiker-fuer-schnelle-Massnahmen-0c3f3905-2182-4e05-a60c-ff15f306bf4f",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Julia Verlinden",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ines Schwerdtner",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Als Linken-Chefin forderte Ines Schwerdtner angesichts der 'Gierflation' und der 'hemmungslosen Übergewinne' der Mineralölkonzerne, den Staat zum sofortigen Eingreifen zu bewegen. Sie plädierte für einen EU-weiten Ölpreisdeckel und eine sofortige, rückwirkende Übergewinnsteuer für fossile Energiekonzerne. Zudem verlangte sie die Auszahlung eines Energiekrisengeldes von 150 Euro an alle Haushalte und die Wiedereinführung des 9-Euro-Tickets, da die bisherigen Maßnahmen der Regierung nicht ausreichten.",
+      "source_title": "Wirtschaft - Linken-Chefin Schwerdtner: Staat muss wegen hoher Kraftstoffpreise eingreifen / Energiepreise: Linke will Rückkehr des 9-Euro-Tickets / Inflation: Bundesregierung muss die Menschen entlasten!",
+      "url": "https://www.deutschlandfunk.de/linken-chefin-schwerdtner-staat-muss-wegen-hoher-kraftstoffpreise-eingreifen-100.html",
+      "platform": "Presse"
+    }
+  ]
+}

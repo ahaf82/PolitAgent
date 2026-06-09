@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum Thema '40 Jahre nach Tschernobyl: Atomkraft und ihre Folgen' spiegeln weitgehend ihre im Bundestag geäußerten Fraktionspositionen wider. Während Harald Ebner (Bündnis 90/Die Grünen), Rita Schwarzelühr-Sutter (SPD) und Lorenz Gösta Beutin (Die Linke) den Atomausstieg als strategischen Erfolg und Sicherheitsgewinn betonen, verurteilen sie Atomkraft als unwirtschaftlich, riskant und geopolitisch gefährlich, und fordern den konsequenten Ausbau erneuerbarer Energien. Marcel Queckemeyer (AfD) hingegen kritisiert die Instrumentalisierung des Tschernobyl-Jahrestags als 'billige Propaganda' und 'Wahlkampf mit Toten', plädiert für den Weiterbetrieb und die Entwicklung moderner Kernkraftwerke und stellt die Grüne Energiepolitik als 'ideologische Selbstverstümmelung' dar. Für einige Abgeordnete der Unionsfraktion und der AfD konnten keine spezifischen externen Aussagen zum Thema jenseits des Protokolls gefunden werden, die ihre individuelle Haltung detailliert ergänzen würden.",
+  "sources": [
+    {
+      "name": "Harald Ebner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Harald Ebner betont, dass 40 Jahre nach Tschernobyl die Gefahr der Atomkraft fortbesteht und sie ein unwirtschaftliches 'Subventionsgrab' darstellt, das von den erneuerbaren Energien ablenkt. Er sieht den deutschen Atomausstieg als Sicherheitsgewinn und plädiert für Wind- und Solarenergie als Weg zur Energieunabhängigkeit und bezahlbarem Strom. Er warnt vor geopolitischen Risiken und der Verwundbarkeit von AKWs in Konflikten.",
+      "source_title": "Harald Ebner: 40 Jahre Tschernobyl | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Anna Aeikens",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Rainer Kraft",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Rita Schwarzelühr-Sutter",
+      "party": "SPD",
+      "found": true,
+      "statement": "Rita Schwarzelühr-Sutter lehnt eine Rückkehr zur Atomkraft entschieden ab, da sie eine veraltete, teure und riskante Technologie mit ungelösten Endlagerfragen und Kriegsgefahren darstellt. Sie betont, dass die Gefahren der Atomkraft nicht an Ländergrenzen haltmachen und setzt sich für den konsequenten Ausbau erneuerbarer Energien als zukunftsfähige und unabhängige Energieversorgung ein, basierend auf ihrem Engagement in der Anti-Atom-Bewegung.",
+      "source_title": "Die Risiken der Atomkraft machen nicht an Grenzen Halt - Rita Schwarzelühr-Sutter",
+      "url": "https://xn--schwarzelhr-sutter-u6b.de/die-risiken-der-atomkraft-machen-nicht-an-grenzen-halt/",
+      "platform": "Website"
+    },
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Lorenz Gösta Beutin bekräftigt die Ablehnung der Atomkraft, die er als unbezahlbar, gefährlich und abhängig machend beschreibt. Er sieht den Atomausstieg als richtig an und würdigt das jahrzehntelange Engagement der Anti-Atomkraft-Bewegung. Er fordert stattdessen einen massiven Ausbau der erneuerbaren Energien.",
+      "source_title": "Atomkraft? Nein danke! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Alexander Engelhard",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Marcel Queckemeyer",
+      "party": "AfD",
+      "found": true,
+      "statement": "Marcel Queckemeyer kritisiert die Nutzung des Tschernobyl-Jahrestags als 'billige Propaganda' und 'Wahlkampf mit Toten' durch die Grünen. Er argumentiert, dass Deutschland über sichere Reaktoren verfügte und deren Abschaltung eine 'ideologische Selbstverstümmelung' war, die zur Abhängigkeit von französischem Atomstrom führte. Er plädiert für Innovation statt Verbote in der Klimapolitik.",
+      "source_title": "Marcel Queckemeyer dismantles the Green Party's motion! - AfD parliamentary group in the Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=1F_45c47qYQ",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Jakob Blankenburg",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jakob Blankenburg lehnt als atompolitischer Sprecher der SPD-Fraktion Laufzeitverlängerungen für Atomkraftwerke ab, da diese eine Risikotechnologie mit ungelöster Endlagerung sind und anfällig für Katastrophen und Angriffe. Er betont die Notwendigkeit eines beschleunigten Ausbaus erneuerbarer Energien als nachhaltige und kostengünstige Lösung, wobei sein politisches Engagement von einer Skepsis gegenüber der Kernkraft geprägt ist und sein Wahlkreis Gorleben umfasst.",
+      "source_title": "Weiterbetrieb von Atomkraftwerken keine Option - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/weiterbetrieb-atomkraftwerke-keine-option",
+      "platform": "Website"
+    }
+  ]
+}

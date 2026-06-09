@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Betrachtung der Anhörung zur Modernisierung des Produkthaftungsrechts durch die Sachverständigen zeigt ein geteiltes Bild. Während Verbraucherschutzorganisationen die längst überfällige Anpassung an das digitale Zeitalter und die erweiterte Haftung für Software, KI und neue Akteure wie Online-Plattformen grundsätzlich begrüßen, fordern sie weitere Klarstellungen bei Beweiserleichterungen und finanzielle Absicherung für Bevollmächtigte. Industrievertreter warnen hingegen vor einer Überregulierung, die über EU-Vorgaben hinausgeht, Geschäftsgeheimnisse gefährdet und den Wirtschaftsstandort Deutschland beeinträchtigen könnte. Sie fordern präventive Schutzmaßnahmen und eine differenzierte Betrachtung von Haftungsrisiken für KMU. Juristische Experten loben den Entwurf in seiner Umsetzung der EU-Richtlinie, sehen aber Detailbedarf bei Definitionen, der Verankerung im BGB und dem Schutz beruflich genutzter Privatgegenstände.",
+  "sources": [
+    {
+      "name": "Dr. Bellinghausen",
+      "party": "N/A",
+      "found": false,
+      "statement": "Rupert Bellinghausen, Vertreter des Deutschen Anwaltvereins (DAV) im Zivilrechtsausschuss, begrüßt die Anpassung an das digitale Zeitalter und die erweiterte Haftung für neue Akteure. Er äußert jedoch Bedenken hinsichtlich vieler neuer Vermutungen und des Dokumentenherausgabeanspruchs, die zu 'US-amerikanischen Verhältnissen' führen könnten und den Schutz von Geschäftsgeheimnissen gefährden. Der DAV kritisiert zudem begriffliche Unklarheiten im Gesetzentwurf.",
+      "source_title": "SN 66/25: RefE Produkthaftungsrecht - Deutscher Anwaltverein / Öffentliche Anhörung im Bundestag: Reform der Produkthaftung stößt auf Kritik",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Gabriele Bernhard",
+      "party": "N/A",
+      "found": true,
+      "statement": "Gabriele Bernhard von der Verbraucherzentrale Baden-Württemberg sieht die Neuregelung des Produkthaftungsrechts als überfällig an und begrüßt die erweiterte Haftung für Plattformbetreiber und EU-Repräsentanten. Sie betont die Notwendigkeit, dass Bevollmächtigte mit ausreichenden finanziellen Mitteln und Fachwissen ausgestattet sein müssen, um Haftungsansprüche nicht ins Leere laufen zu lassen und 'Briefkastenfirmen' zu verhindern.",
+      "source_title": "Für Ihre Rechte – drei Fälle aus unserer Rechtsdurchsetzung | Verbraucherzentrale Baden-Württemberg / Verbraucherzeitung der Verbraucherzentrale Baden-Württemberg (Juli 2021)",
+      "url": "https://www.verbraucherzentrale-bawue.de/sites/default/files/2021-07/VerbraucherZeitung-3-2021-Internet.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Herr Kulager",
+      "party": "N/A",
+      "found": false,
+      "statement": "Julian Kulaga von der DIHK kritisiert, dass der Entwurf materiellrechtlich über die unionsrechtlichen Vorgaben hinausgeht und prozessrechtlich hinter den Möglichkeiten zurückbleibt, die Geschäftsgeheimnisse deutscher Unternehmen schützen könnten. Er warnt vor einer Gefährdung des Wirtschaftsstandorts Deutschland durch erleichterte Kollektivklagen und unzureichende Schutzmechanismen wie 'in camera'-Verfahren.",
+      "source_title": "Novelle des Produkthaftungsrechts unterschiedlich bewertet - Deutscher Bundestag / DIHK zur Modernisierung des Produkthaftungsrechts / Modernizing Product Liability Law: DIHK calls for clear rules and protection for businesses",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Herr Mädmann",
+      "party": "N/A",
+      "found": true,
+      "statement": "Felix Methmann (im Protokoll als 'Herr Mädmann' bezeichnet) vom Verbraucherzentrale Bundesverband (vzbv) bezeichnet die Modernisierung als längst überfällig und begrüßt die Einordnung von Software als Produkt und die erweiterte Haftung. Er fordert verpflichtende Mindeststandards, fachliche Qualifikation und eine Versicherungspflicht für Bevollmächtigte sowie einen vorgerichtlichen Auskunfts- und Offenlegungsanspruch für Geschädigte. Der vzbv fordert generell eine Umkehr der Beweislast bei fehlerhaften Produkten.",
+      "source_title": "Novelle des Produkthaftungsrechts unterschiedlich bewertet - Deutscher Bundestag / Produkthaftungsrecht in der EU veraltet (vzbv) / Produkthaftung - Verbraucherzentrale Bundesverband / Produkthaftung: Brüssel muss nachbessern (vzbv) / „SAFETY BY DESIGN“ – PRODUKTHAFTUNGSRECHT FÜR DAS INTERNET DER DINGE (vzbv)",
+      "url": "https://www.vzbv.de/sites/default/files/downloads/2018/09/10/17-04-25_vzbv_diskussionspapier_produkthaftung_final_neu.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Professor Dr. Schmidt Kessel",
+      "party": "N/A",
+      "found": true,
+      "statement": "Professor Dr. Martin Schmidt-Kessel von der Universität Bayreuth (im Protokoll als 'Universität des Saarlandes' genannt, jedoch in externen Quellen als Universität Bayreuth ausgewiesen) lobt den Entwurf als insgesamt gelungen und gut lesbar, insbesondere als Umsetzung der EU-Richtlinie. Er sieht jedoch in mehreren Punkten 'fundamentale Ausweitungen der Haftung' und schlägt vor, die Formulierung 'berufliche Zwecke' präziser zu fassen, um arbeitnehmerisch genutzte Sachen besser zu schützen. Er befasst sich auch mit der Kollision von Informationspflichten und den Herausforderungen der Digitalisierung für das Vertragsrecht.",
+      "source_title": "Novelle des Produkthaftungsrechts unterschiedlich bewertet - Deutscher Bundestag / Stellungnahme zu den Entwürfen eines Gesetzes zur Regelung des Verkaufs von Sachen mit digitalen Elementen / Gutachten & Stellungnahmen - Universität Bayreuth / Prof. Dr. Martin Schmidt-Kessel - Zivilrecht IX - Universität Bayreuth",
+      "url": "https://www.schmidt-kessel.uni-bayreuth.de/de/team/schmidt-kessel_martin/index.php",
+      "platform": "Website"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die Analyse externer Äußerungen von Abgeordneten zur Tierschutzgesetz-Novellierung zeigt, dass nur für Dr. Franziska Kersten (SPD) explizite und verifizierbare Stellungnahmen außerhalb des Bundestags gefunden werden konnten. Als agrarpolitische Sprecherin der SPD-Fraktion setzt sie sich demnach konsequent für eine Stärkung des Tierschutzes ein, befürwortet die schrittweise Abschaffung der Anbindehaltung und eine effektive Bekämpfung von Qualzuchten. Für die anderen im Debattenprotokoll genannten „Kolleg:innen“ Eikens (CDU/CSU), Schumann (AfD) und Meer (Bündnis 90/Die Grünen) ließen sich keine direkten externen Äußerungen zum Thema als Bundestagsabgeordnete identifizieren, wobei in zwei Fällen auch keine aktuelle Mitgliedschaft im Bundestag unter dem genannten Namen verifiziert werden konnte.",
+  "sources": [
+    {
+      "name": "Anna Aeikens",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stephan Schumann",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Franziska Kersten",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als agrarpolitische Sprecherin der SPD-Fraktion hat sich Dr. Franziska Kersten wiederholt für eine Stärkung des Tierschutzes und eine tierwohlgerechtere Nutztierhaltung ausgesprochen. Sie fordert eine Überarbeitung des Tierschutzgesetzes, um Haltungspraktiken wie die Anbindehaltung schrittweise abzuschaffen und Qualzuchten effektiv zu bekämpfen. Zudem setzt sie sich für eine bessere Kontrolle von Tiertransporten ein und befürwortet eine Kennzeichnungspflicht für Fleischprodukte zur Transparenz für Verbraucher.",
+      "source_title": "Franziska Kersten - Wikipedia (Abschnitt: Tierschutz und Tierhaltung)",
+      "url": "https://de.wikipedia.org/wiki/Franziska_Kersten#Tierschutz_und_Tierhaltung",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Kirsten Meer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

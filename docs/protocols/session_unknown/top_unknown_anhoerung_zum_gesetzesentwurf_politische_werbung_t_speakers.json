@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Entwurf des „Politische-Werbung-Transparenz-Gesetzes“ (PWTG) und der zugrunde liegenden EU-Verordnung zeigen ein geteiltes Bild. Während Dr. Konrad Körner (CDU/CSU) die Kernidee der Transparenz, insbesondere im Hinblick auf Rechtsextremismus, grundsätzlich befürwortet, äußerten die Vertreter der AfD, Ruben Rupp und Tobias Ebenberger, scharfe Kritik. Sie bezeichneten die EU-Verordnung als \"Bürokratiemonster\" und \"Angriff auf die Pressefreiheit\", der zu Rechtsunsicherheit und dem Rückzug von Plattformen aus der politischen Werbung führe. Johannes Schätzl (SPD) betonte die Notwendigkeit von Transparenzregeln gegen verdeckte Einflussnahme und Microtargeting, räumte aber ein, dass die Verordnung noch praktikabler ausgestaltet werden müsse. Anna Lührmann (Bündnis 90/Die Grünen) mahnte vor \"Chilling-Effekten\" und forderte eine Stärkung der digitalen Souveränität durch europäische Alternativen. Donata Vogtschmidt (Die Linke) kritisierte die sozialen Netzwerke als \"Profitmaschinen\" und sah in der EU-Verordnung lediglich eine \"Symptombekämpfung\" der grundlegenden Probleme personalisierter politischer Werbung.",
+  "sources": [
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Konrad Körner betonte in einer Bundestagsdebatte, dass der Grundgedanke der EU-Verordnung zur Transparenz politischer Werbung richtig sei. Er argumentierte, dass politische Werbung ein integraler Bestandteil der demokratischen Meinungsbildung ist und Transparenz, insbesondere im Kampf gegen Rechtsextremismus, unerlässlich ist.",
+      "source_title": "Transparenz und Targeting politischer Werbung strittig debattiert - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/987820/041-Sitz-.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ruben Rupp kritisierte den Referentenentwurf des Politische-Werbung-Transparenz-Gesetzes als einen \"perfiden Angriff auf die Pressefreiheit\". Er verurteilte die geplanten umfassenden Durchsuchungs- und Beschlagnahmebefugnisse für die Bundesnetzagentur ohne richterlichen Beschluss, die nicht nur große Plattformen, sondern auch Verlage und Redaktionen betreffen würden. Er forderte eine Überarbeitung des Entwurfs und die ersatzlose Streichung dieser Passagen, da die EU-Verordnung ein \"Bürokratiemonster\" sei und zu Rechtsunsicherheit führe.",
+      "source_title": "Angriff des Digitalministeriums auf die Pressefreiheit stoppen - Mittelrhein-Tageblatt",
+      "url": "https://www.mittelrhein-tageblatt.de",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Die AfD-Fraktion, der Tobias Ebenberger angehört, sieht das Politische-Werbung-Transparenz-Gesetz als ein \"riesiges Bürokratiemonster der EU\". Mehrere von ihr angehörte Experten hätten diese Befürchtung bestätigt und die Verordnung sei keine Verbesserung gegenüber nationalen Lösungen. Dies untermauert die Position der AfD-Fraktion, dass der Ansatz der EU-Überregulierung fehlgeleitet ist.",
+      "source_title": "Urteil der AfD-Fraktion zum Politische-Werbung-Transparenz-Gesetz von allen Parteien bestätigt - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/urteil-der-afd-fraktion-zum-politische-werbung-transparenz-gesetz-von-allen-parteien-bestaetigt/",
+      "platform": "Website"
+    },
+    {
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "found": true,
+      "statement": "Johannes Schätzl, digitalpolitischer Sprecher der SPD, verteidigte die Notwendigkeit von Transparenzregeln als Antwort auf Probleme wie verdeckte ausländische Einflussnahme und Microtargeting. Obwohl er die EU-Verordnung als \"kein perfektes Instrument\" bezeichnete, betonte er, dass politische Werbung als solche erkennbar sein müsse, um einen fairen demokratischen Diskurs im digitalen Raum zu gewährleisten.",
+      "source_title": "Transparenz und Targeting politischer Werbung strittig debattiert - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/987820/041-Sitz-.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Anna Lührmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Anna Lührmann forderte im Kontext der Debatte über politische Werbung, dass Deutschland \"Ernst machen bei der digitalen Souveränität\" müsse. Sie kritisierte die mangelhafte Reaktion der Bundesregierung auf Sanktionen von Plattformen und betonte die Notwendigkeit, europäische Alternativen zu unterstützen und Plattformen, die \"Hassschleudern\" seien, zu verlassen, um sich vor Willkür zu schützen.",
+      "source_title": "Transparenz und Targeting politischer Werbung strittig debattiert - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/987820/041-Sitz-.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Donata Vogtschmidt kritisierte soziale Netzwerke als \"Profitmaschinen\", die durch die Manipulierbarkeit der Meinung enorme Gewinne erzielen. Sie bezeichnete die EU-Verordnung als \"schwachen Versuch\" und reine \"Symptombekämpfung\", die die grundlegenden Probleme der Online-Werbung, insbesondere die personalisierte Werbung, nicht adressiere. Vogtschmidt argumentierte, dass solche Praktiken die Meinungsbildung einschränken und Manipulation fördern.",
+      "source_title": "Onlinewerbung stoppen statt entfesseln - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

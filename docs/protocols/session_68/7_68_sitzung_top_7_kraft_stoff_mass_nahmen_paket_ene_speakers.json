@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zum Kraftstoffmaßnahmenpaket und den Energiepreissteigerungen spiegeln weitgehend ihre im Plenum geäußerten Positionen wider. Abgeordnete der CDU/CSU wie Dr. Andreas Lenz betonten die Notwendigkeit, Marktmacht zu bekämpfen und gezielte Entlastungen zu schaffen, während sie pauschale Maßnahmen ablehnten. Leif-Erik Holm von der AfD kritisierte die beschlossenen Maßnahmen als unzureichend und forderte umgehende Steuersenkungen. Armand Zorn (SPD) bekräftigte die Notwendigkeit weiterer Schritte, einschließlich eines Spritpreisdeckels und einer Übergewinnsteuer, und warf den Konzernen Missbrauch vor. Andreas Audretsch (Bündnis 90/Die Grünen) forderte ebenfalls eine Übergewinnsteuer und den beschleunigten Ausbau erneuerbarer Energien. Christian Görke (Die Linke) drängte auf eine sofortige, höhere Übergewinnsteuer und ein Energiekrisengeld, um die Bevölkerung direkt zu entlasten.",
+  "sources": [
+    {
+      "name": "Dr. Andreas Lenz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Andreas Lenz betonte, dass Marktmacht nicht ausgenutzt werden dürfe und es kein Recht auf Abzocke gebe. Er kündigte weitere zielgerichtete Hilfen an und sprach sich für die Stärkung der Missbrauchsaufsicht und die 'Einmal-am-Tag-Regel' an Tankstellen aus. Er forderte schnell wirkende Maßnahmen wie eine Erhöhung der Pendlerpauschale und eine Senkung der Strom- oder CO2-Steuer.",
+      "source_title": "Maßnahmenpaket zur Eindämmung der Spritpreise beschlossen / Energiepreise - Wirtschaftspolitischer Sprecher der Union fordert weitere entlastende Maßnahmen",
+      "url": "https://www.deutschlandfunk.de/wirtschaftspolitischer-sprecher-der-union-fordert-weitere-entlastende-massnahmen-102.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm bezeichnete die von der Regierung beschlossenen Maßnahmen als 'simulierte Hilfe' und 'Nebelkerzen', die keine spürbare Preissenkung bewirken. Er forderte stattdessen sofortige Steuersenkungen, die Abschaffung der CO2-Steuer und die Reduzierung der Energiesteuern auf das EU-Minimum, da der Staat über die Mehrwertsteuer von den hohen Preisen profitiere.",
+      "source_title": "Fuel prices: Leif-Erik Holm dissects the government's package of measures! / Fuel prices: Leif-Erik Holm loses his temper!",
+      "url": "https://www.youtube.com/watch?v=IUgztp0ufCE",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": false,
+      "statement": "Armand Zorn betonte die Handlungsfähigkeit der Koalition gegen 'Abzocke' und forderte weitere zielgerichtete Entlastungspakete sowie strukturelle Maßnahmen für Energieunabhängigkeit. Er sprach sich für die Prüfung einer Übergewinnsteuer aus, um Gewinne der Mineralölkonzerne abzuschöpfen, und forderte die Einführung eines Preisdeckels oder einer Übergewinnsteuer zur Finanzierung weiterer Entlastungen.",
+      "source_title": "SPD-Fraktionsvize erhebt Vorwürfe gegen Mineralölkonzerne / Preischaos an den Tankstellen beenden – Verbraucher:innen schützen / Wir entlasten schnell und spürbar",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Andreas Audretsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Andreas Audretsch begrüßte den Gesetzentwurf als ersten Schritt, hielt ihn aber für unzureichend. Er forderte eine Übergewinnsteuer für Öl- und Gaskonzerne, transparente Lebensmittelpreise, eine Stromsteuersenkung und die Förderung erneuerbarer Energien. Er betonte, dass Deutschland unabhängig von Gas und Öl werden müsse, um Preisschwankungen abzufedern.",
+      "source_title": "Grüne drängen auf Übergewinnsteuer und Entlastungen / Andreas Audretsch (Bündnis 90/Die Grünen) im Bundestag: / Andreas Audretsch (Grüne): „Jetzt ist Krise, jetzt muss man die Entlastung auf den Weg bringen“",
+      "url": "https://www.welt.de/videos/video69d53e9323891189a21d3294/andreas-audretsch-gruene-jetzt-ist-krise-jetzt-muss-man-die-entlastung-auf-den-weg-bringen.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Christian Görke forderte eine sofortige Übergewinnsteuer mit einem Steuersatz von 50%, um die 'Abzocke' durch Mineralölkonzerne zu beenden und die Einnahmen für ein 'Energiekrisengeld' von 150 Euro für alle sowie die Wiedereinführung des 9-Euro-Tickets zu nutzen. Er kritisierte die SPD für ihre zögerliche Haltung.",
+      "source_title": "Linke stellt Antrag für \"Übergewinnsteuer\" gegen Mineralölkonzerne / Linke fordert Übergewinnsteuer, Spritpreisdeckel und 9-Euro-Ticket / Reden - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/christian-goerke/",
+      "platform": "Presse"
+    }
+  ]
+}

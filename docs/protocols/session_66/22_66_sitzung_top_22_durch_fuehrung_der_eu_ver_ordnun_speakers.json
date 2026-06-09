@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zur Umsetzung der EU-KI-Verordnung spiegeln weitgehend ihre Positionen aus der Bundestagsdebatte wider. Dr. Carolin Wagner (SPD) betont die Notwendigkeit verlässlicher Regeln zum Schutz von Grundrechten und die Rolle der Bundesnetzagentur als zentrale Behörde, wobei sie einen europäischen Mittelweg zwischen Innovation und Schutz befürwortet. Dr. Franziska Brantner (Bündnis 90/Die Grünen) hebt die Bedeutung der KI-Verordnung als \"erste Verteidigungslinie\" für europäische Werte und Grundrechte hervor und fordert eine menschenzentrierte KI. Marvin Schulz (CDU/CSU) unterstreicht die Chancen der KI für Deutschland und plädiert für innovationsfreundliche Rahmenbedingungen und die Bundesnetzagentur als \"Möglichmacher\". Sonja Lemke (Die Linke) kritisiert hingegen die unzureichende Regulierung von Hochrisiko-KIs, mangelnde Transparenz und die Ignoranz von gesellschaftlichen Risiken durch die Bundesregierung, insbesondere im Hinblick auf Überwachung und soziale Ungleichheiten.",
+  "sources": [
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": false,
+      "statement": "",
+      "source_title": "",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": false,
+      "statement": "Dr. Carolin Wagner betont in einem Interview, dass es verlässliche Regeln für den Einsatz und die Nutzung von KI brauche, um Werte, Datenschutz, Transparenz und Ethik zu respektieren. Sie sieht den AI Act als einen Ausgleich zwischen Nutzen und Risiken und bekräftigt die Rolle der Bundesnetzagentur als zentrale Behörde für Koordination, Prüfung, Beratung und Beschwerdestelle. Europa solle einen eigenen Weg zwischen dem US-amerikanischen Markt- und dem chinesischen Staatsmodell gehen, um Innovation und Schutz zu vereinen.",
+      "source_title": "Bundestagsgespräch mit Carolin Wagner und Sonja Lemke zur EU-Verordnung über KI",
+      "url": "N/A",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Franziska Brantner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Als Mitverhandlerin des EU-KI-Gesetzes lobt Franziska Brantner den Kompromiss als gelungen und betont, dass die Verordnung erstmals einen europäischen Mindeststandard für KI-basierte automatische Gesichtserkennung schaffe, um Grundrechte zu schützen. Sie sieht den AI Act als wichtige Verteidigungslinie für europäische Werte gegen Manipulation und Desinformation und hebt hervor, dass es darum gehe, wo die besten KIs entstehen, nicht sie dem Zufall zu überlassen.",
+      "source_title": "AI Act: Grünen-Politikerin Franziska Brantner über KI-Gesetz - »es geht um unsere Grundrechte«",
+      "url": "https://www.spiegel.de/netzwelt/netzpolitik/ai-act-gruenen-politikerin-franziska-brantner-ueber-ki-gesetz-es-geht-um-unsere-grundrechte-a-411c0425-a113-4026-95d8-eac784502bbf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Marvin Schulz betont, dass Künstliche Intelligenz eine der größten Chancen für Deutschland seit dem Wiederaufbau nach 1945 darstellt und warnt davor, die Führung anderen zu überlassen. Er fordert, die Bundesnetzagentur als zentrale Aufsichtsbehörde als \"Möglichmacher\" zu verstehen und mehr KI-Reallabore für Start-ups zu fördern. Zudem setzt er sich für eine stärkere Berücksichtigung von KI-Mitteln im Verteidigungsetat ein, um Innovationen voranzutreiben.",
+      "source_title": "Von ChatGPT zur europäischen KI-Strategie",
+      "url": "https://www.kas.de/de/einzeltitel/-/content/von-chatgpt-zur-europaeischen-ki-strategie",
+      "platform": "Website"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sonja Lemke kritisiert die Umsetzung der KI-Verordnung als unzureichend, insbesondere da die Bundesregierung das Inkrafttreten einer Regulierung von Hochrisiko-KIs verzögert und die Bundesnetzagentur mit zu vielen Aufgaben ohne entsprechende Personalressourcen überfrachtet. Sie fordert mehr Transparenz über Algorithmen und Trainingsdaten, um Diskriminierung zu verhindern, sowie eine realistische Risikoabschätzung und Berücksichtigung von Nachhaltigkeitskriterien im Einsatz von KI in der Bundesverwaltung.",
+      "source_title": "KI-Verordnung schnell umsetzen",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

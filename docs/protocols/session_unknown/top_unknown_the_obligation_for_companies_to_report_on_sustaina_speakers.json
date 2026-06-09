@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur Nachhaltigkeitsberichterstattung von Unternehmen (CSRD) zeigen unterschiedliche Schwerpunkte. Katharina Beck (Bündnis 90/Die Grünen) befürwortet die CSRD als wichtigen Schritt für mehr Transparenz, mahnt jedoch eine einfache, praktikable und bürokratiearme Umsetzung an, um die Wirtschaft nicht unnötig zu belasten. Cem Özdemir (Bündnis 90/Die Grünen) betont in seinen externen Äußerungen die Dringlichkeit einer nachhaltigen Landwirtschaft und einer grünen Wirtschaft insgesamt, was die Ziele der Nachhaltigkeitsberichterstattung im weiteren Sinne unterstützt. Für Axel Müller (CDU/CSU) und Ulrich von Zons (AfD) konnten keine spezifischen externen Stellungnahmen zu den Kontroversen der Unternehmens-Nachhaltigkeitsberichterstattung außerhalb ihrer Ausschusstätigkeiten identifiziert werden. Eine weitere im Protokoll genannte Person namens 'Wilnard' konnte als Abgeordnete nicht eindeutig identifiziert werden.",
+  "sources": [
+    {
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Katharina Beck",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Katharina Beck sieht die EU-Vorgaben zur Nachhaltigkeitsberichterstattung als wichtigen Meilenstein für mehr Transparenz in der Wirtschaft, fordert aber eine einfache und praxisnahe Umsetzung, um Bürokratie und Kosten zu minimieren und das Gesetz nicht zu einem 'Bürokratiemonster' werden zu lassen. Sie begleitet die nationale Umsetzung als Berichterstatterin und betont die Notwendigkeit, ökologische und soziale Faktoren als Erfolgskennzahlen zu etablieren.",
+      "source_title": "Nachhaltigkeitsberichterstattung – Die EU hat jetzt einheitliche Vorgaben...",
+      "url": "https://katharina-beck.de/aktuelles/",
+      "platform": "Website"
+    },
+    {
+      "name": "Cem Özdemir",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Als Bundesminister für Ernährung und Landwirtschaft setzt sich Cem Özdemir für ein nachhaltiges Landwirtschaftssystem ein und adressiert die Wechselwirkungen zwischen Ernährung, Landwirtschaft und Klima. Er betont die Notwendigkeit, nachhaltiger und klimafreundlicher zu werden, und spricht sich für eine grüne und nachhaltige Wirtschaft aus, was die übergeordneten Ziele der Nachhaltigkeitsberichterstattung stützt.",
+      "source_title": "Cem Özdemir - BÜNDNIS 90/DIE GRÜNEN",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Wilnard",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

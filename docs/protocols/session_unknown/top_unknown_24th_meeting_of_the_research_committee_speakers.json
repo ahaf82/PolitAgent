@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen zur Hightech Agenda Deutschland zeigen eine deutliche parteipolitische Spaltung. Während Florian Müller (CDU/CSU) und Holger Mann (SPD) die Agenda grundsätzlich positiv bewerten, ihre ambitionierten Ziele und die Hinwendung zu ergebnisorientierter Förderung loben, betonen sie zugleich die Notwendigkeit einer konsequenten Umsetzung und engen Zusammenarbeit. Demgegenüber äußern Dr. Michael Kaufmann (AfD) und Sonja Lemke (Die Linke) erhebliche Skepsis und scharfe Kritik. Sie bemängeln fehlende Transparenz, mangelnde konkrete Projektdefinitionen, unzureichende Finanzierung und eine fehlende Berücksichtigung sozial-ökologischer Aspekte sowie des Datenschutzes, insbesondere im Bereich der Künstlichen Intelligenz.",
+  "sources": [
+    {
+      "name": "Florian Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Florian Müller, forschungspolitischer Sprecher der CDU/CSU-Bundestagsfraktion, sieht die Hightech Agenda Deutschland als entscheidendes Instrument für Transfer und Innovation, um Deutschland als führenden Innovationsstandort zu stärken. Er fordert Bürokratieabbau durch ein Innovationsfreiheitsgesetz, um Spitzenforschung anzuziehen und Ausgründungen zu erleichtern, und betont die Bedeutung der konkreten Umsetzung und Zusammenarbeit mit Wissenschaft und Wirtschaft zur Hebelung der bereitgestellten Mittel.",
+      "source_title": "Hightech Agenda steht für Aufbruch | CDU·CSU-Fraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Michael Kaufmann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Michael Kaufmann (AfD) kritisiert die Hightech Agenda scharf als „Mogelpackung“ und „leere Versprechen“, die durch unzureichende Finanzierung, fehlende konkrete Projektinformationen und Bewertungskriterien gekennzeichnet sei. Er bemängelt Deutschlands Rückstand bei Forschungsinvestitionen im Vergleich zu anderen Nationen und fordert eine technologieoffene Forschungspolitik, verlässliche Mittel und echte Innovationsfreiheit, anstatt ideologiegetriebener Förderungen.",
+      "source_title": "Hightech-Agenda? leere Versprechen! - Dr. Michael Kaufmann - AfD-Fraktion im Bundestag",
+      "url": "https://www.youtube.com/watch?v=Giql1sruVwA",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Holger Mann",
+      "party": "SPD",
+      "found": true,
+      "statement": "Holger Mann (SPD) begrüßt die Roadmaps der Hightech Agenda als neues Kapitel der deutschen Forschungs- und Innovationspolitik, die klare Prioritäten und ambitionierte, messbare 'Moonshot'-Ziele setzt. Er lobt die Umstellung auf eine meilensteinbasierte Förderlogik, die auf erzielte Ergebnisse fokussiert, und betont die Stärkung technologischer Souveränität und Wertschöpfung durch Initiativen wie High-Tech-Regionen und digitale Gesundheitsforschung.",
+      "source_title": "Hightech-Agenda: Mit Roadmaps für neue Wertschöpfung und mehr Souveränität | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/hightech-agenda-mit-roadmaps-fuer-neue-wertschoepfung-und-mehr-souveraenitaet",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Lüpke",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Frau Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lemke (Die Linke) äußert starke Kritik an der Hightech Agenda, insbesondere an der fehlenden Transparenz, einer ehrlichen Kosten-Nutzen-Rechnung und der Berücksichtigung sozialökologischer Aspekte. Sie bemängelt, dass die benötigten Rechenzentren für KI immense Energiemengen verbrauchen und der Datenschutz vernachlässigt wird, und fordert einen Neustart der Agenda, die reale gesellschaftliche Herausforderungen angeht und auf breiter Beteiligung basiert.",
+      "source_title": "Sonja Lemke: „Die Hightech-Agenda lenkt von realen Problemen ab“ • Table.Briefings",
+      "url": "https://table.media/research/briefings/sonja-lemke-die-hightech-agenda-lenkt-von-realen-problemen-ab/",
+      "platform": "Presse"
+    }
+  ]
+}

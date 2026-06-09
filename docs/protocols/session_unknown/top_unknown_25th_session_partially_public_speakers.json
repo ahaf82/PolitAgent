@@ -1,0 +1,50 @@
+{
+  "synthesis": "Abgeordnete äußern sich außerhalb des Bundestages differenziert zum Einsatz von Künstlicher Intelligenz in der Bundesverwaltung. Während die CDU/CSU-Fraktion über ihren Abgeordneten Marvin Schulz die Notwendigkeit einer starken KI-Strategie betont, die Faktoren wie Daten, Rechenkapazitäten und digitale Souveränität berücksichtigt, fordert die AfD durch Robin Jünger klare, messbare Kriterien für den KI-Einsatz und eine strikte menschliche Kontrolle. Rebecca Lenhard von Bündnis 90/Die Grünen kritisiert die mangelnde Transparenz bei der Umsetzung des EU-AI Acts und thematisiert die Umweltfolgen des KI-Einsatzes. Sonja Lemke von Die Linke äußert sich besonders kritisch zu den gesellschaftlichen Risiken von KI-Anwendungen, dem hohen Energieverbrauch und der unzureichenden Risikobewertung durch die Bundesregierung, während für Dr. Carolin Wagner (SPD) keine direkt zuzuordnenden externen Stellungnahmen zum Thema gefunden wurden.",
+  "sources": [
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Marvin Schulz betont die Wichtigkeit politischer Weichenstellungen zur Stärkung der KI-Entwicklung in Deutschland, die neben Regulierung und Innovation auch globale Wettbewerbsfähigkeit berücksichtigt. Er sieht KI als zentralen Wettbewerbsfaktor, der eine umfassende Strategie erfordert, die Daten, Rechenkapazitäten, Energie, Talente und digitale Souveränität einschließt.",
+      "source_title": "Roundtable mit MdB Marvin Schulz - KI made in Germany – zwischen Regulierung, Innovation und globalem Wettbewerb",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": false,
+      "statement": "Robin Jünger positioniert sich als Obmann für Digitalisierung und Staatsmodernisierung für eine moderne, effiziente Verwaltung und digitale Souveränität Deutschlands. Er kritisiert, dass die Bundesregierung bei der Umsetzung von EU-KI-Recht zu viel reguliert und fordert schlanke, unternehmensfreundliche Strukturen. Er hat eine parlamentarische Anfrage zu den Auswirkungen von KI auf Beschäftigte in der Bundesverwaltung mitverfasst.",
+      "source_title": "Robin Jünger, MdB – AfD-Abgeordneter für Gießen / Auswirkungen von Künstlicher Intelligenz auf Beschäftigte in der Bundesverwaltung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Rebecca Lenhard kritisiert das Fehlen zivilgesellschaftlicher Akteure in Expertengremien zur KI und bemängelt die mangelnde Transparenz des EU-Praxisleitfadens für Allzweck-KI-Modelle, insbesondere das Streichen zentraler Transparenzverpflichtungen. Sie äußert zudem Besorgnis über den Energiehunger von KI-Rechenzentren und setzt sich für nachhaltige Digitalisierung ein.",
+      "source_title": "Fortschritt bei der Regulierung, Rückschritt bei der Transparenz / Wie fördert die Grünen-Fraktion photonische Chips als Schlüsseltechnologie für \"Green IT\"...?",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lemke fordert die Bundesregierung auf, die gesellschaftlichen Risiken von KI-Anwendungen ernst zu nehmen und kritisiert, dass Anspruch und Wirklichkeit beim KI-Einsatz in der Bundesverwaltung weit auseinanderklaffen. Sie bemängelt unzureichende Risikobewertungen, das Ignorieren von Nachhaltigkeitskriterien und den hohen Energieverbrauch von KI-Systemen.",
+      "source_title": "Die Bundesregierung muss gesellschaftliche Risiken von KI-Anwendungen ernstnehmen! / Erhebliche Mängel beim Einsatz von KI in der Bundesverwaltung",
+      "url": "https://www.sonja-lemke.de/politik/digitales/die-bundesregierung-muss-gesellschaftliche-risiken-von-ki-anwendungen-ernstnehmen/%20/%20https://www.sonja-lemke.de/politik/digitales/erhebliche-maengel-beim-einsatz-von-ki-in-der-bundesverwaltung/",
+      "platform": "Website"
+    }
+  ]
+}

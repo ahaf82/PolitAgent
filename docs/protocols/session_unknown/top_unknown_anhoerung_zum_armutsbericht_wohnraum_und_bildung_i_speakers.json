@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die identifizierten Abgeordneten, Dr. Ottilie Klein (CDU/CSU), René Springer (AfD) und Jessica Heubach (SPD), vertreten in ihren externen Stellungnahmen konsistente Positionen zu Armut, Wohnraum und Bildung, die ihre Beiträge im Bundestagsausschuss widerspiegeln. Dr. Klein betont weiterhin die zentrale Rolle von Arbeit als besten Schutz vor Armut und fordert eine starke Wirtschaft sowie Arbeitsmarkt- und Sozialreformen, die den sozialen Aufstieg fördern. René Springer führt steigende Armut auf Massenzuwanderung und eine verfehlte Umverteilungspolitik zurück, kritisiert die CO2-Bepreisung und fordert eine Abkehr von der 'Armutsmigration'. Jessica Heubach setzt sich vehement für die Schaffung von bezahlbarem Wohnraum, Mietpreisregulierung und eine stärkere Besteuerung hoher Vermögen ein, um Ungleichheit zu reduzieren und soziale Teilhabe zu gewährleisten.",
+  "sources": [
+    {
+      "name": "Dr. Ottilie Klein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Klein betont, dass Arbeit der wirksamste Schutz vor Armut ist und plädiert für eine starke Wirtschaft, die sichere und gut bezahlte Arbeitsplätze schafft. Sie kritisiert die aktuellen Haushaltspläne und das Bürgergeld der Ampelregierung, die ihrer Meinung nach notwendige Reformen in der Arbeitsmarkt- und Sozialpolitik verschleppen und nicht realistisch Menschen in Arbeit vermitteln. Auf ihrer persönlichen Website hebt sie hervor, dass ein engmaschiges Netz an Hilfen und Beratungen sowie Unterstützung beim Weg aus der Langzeitarbeitslosigkeit notwendig sind, um Armut und deren negative Folgen für Bildungschancen und soziale Teilhabe zu bekämpfen.",
+      "source_title": "„Gift für unsere Gesellschaft“: 17,6 Prozent müssen laut Armutsbericht auf Wichtiges verzichten - Tagesspiegel / Dr. Ottilie Klein - Persönliche Website / Gastbeitrag Dr. Ottilie Klein, MdB, CDU Haushaltstricks verschleppen dringende Reformen bei der Arbeitsmarkt- und Sozialpolitik - Die Arbeitgeber",
+      "url": "https://arbeitgeber.de/gastbeitrag-dr-ottilie-klein-mdb-cdu/",
+      "platform": "Presse"
+    },
+    {
+      "name": "René Springer",
+      "party": "AfD",
+      "found": true,
+      "statement": "René Springer sieht die Hauptursache für die zunehmende Armut in Deutschland in der 'Massenzuwanderung in die Sozialsysteme' und in einer ineffizienten staatlichen Umverteilungspolitik. Er kritisiert die CO2-Bepreisung als zusätzliche Belastung für Menschen mit geringem Einkommen und fordert stattdessen eine Senkung von Steuern und Energiepreisen. Er argumentiert, dass der Sozialstaat ohne ein Ende der 'Armutsmigration' nicht zu retten sei und dass Leistung und Arbeit sich wieder lohnen müssen, anstatt den Wohlstand des Landes großzügig in alle Welt zu verteilen.",
+      "source_title": "Armutsbericht verschweigt Ursache Nummer eins – Armutsmigration - AfD-Fraktion im Deutschen Bundestag / Poverty in Germany has reached a new record high once again! - René Springer, MdB - AfD (Facebook/YouTube) / René Springer: Ohne Stopp der Armutsmigration ist der Sozialstaat nicht zu retten - AfD-Fraktion im Deutschen Bundestag / René Springer: Durch explodierende Treibstoff- und Energiekosten droht Verelendung großer Teile der Bevölkerung - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/rene-springer-durch-explodierende-treibstoff-und-energiekosten-droht-verelendung-grosser-teile-der-bevoelkerung/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jessica Heubach",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jessica Heubach setzt sich nachdrücklich für die Schaffung von ausreichend bezahlbarem Wohnraum ein und schlägt konkrete Maßnahmen wie den Bau von jährlich 100.000 neuen Sozialwohnungen, die Aufstockung des Wohngeldes und ein fünfjähriges Mietenmoratorium in Ballungsräumen vor. Sie betont die Stärkung des sozialen Mietrechts durch wirksame Mietpreisbremsen und die Förderung öffentlicher Wohnungsbauunternehmen. Zudem engagiert sie sich als Beauftragte für die Belange von Menschen mit Behinderungen für Inklusion und Chancengleichheit, um Barrieren in allen Lebensbereichen abzubauen und eine solidarische Gesellschaft zu gestalten.",
+      "source_title": "Bezahlbaren Wohnraum schaffen - Heike Heubach (Persönliche Website) / Heike Heubach neue Beauftragte der SPD-Bundestagsfraktion für Belange behinderter Menschen | kobinet-nachrichten / Radikal inklusiv | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/Inklusionskonferenz",
+      "platform": "Website"
+    }
+  ]
+}

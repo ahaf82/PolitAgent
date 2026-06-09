@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zum Klimaschutzprogramm zeigen erwartbare Positionierungen entlang der Parteilinien. Karsten Hilse von der AfD kritisiert den Windkraftausbau als Bedrohung für die Natur und lehnt eine als ideologisch empfundene Energiewende ab. Lisa Badum von Bündnis 90/Die Grünen fordert eine konsequente Förderung erneuerbarer Energien wie Solarenergie und mahnt eine sozial gerechte Ausgestaltung der Klimapolitik an, einschließlich eines Klimageldes. Clara Anne Bock von Die Linke äußert scharfe Kritik an der Klimapolitik der Bundesregierung, die sie als sozial ungerecht und unzureichend für die Klimaneutralität, insbesondere im Gebäudesektor, erachtet. Jakob Blankenburg von der SPD betont die Notwendigkeit von Mehrheiten und Akzeptanz für den Klimaschutz sowie die Sicherstellung der sozialen Gerechtigkeit während der Energiewende. Für Dr. Gebhardt von der CDU/CSU konnten keine aktuellen externen Stellungnahmen zu diesem spezifischen Thema identifiziert werden.",
+  "sources": [
+    {
+      "name": "Dr. Gebhardt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Karsten Hilse",
+      "party": "AfD",
+      "found": false,
+      "statement": "Karsten Hilse kritisiert die Klimaschutzpolitik der Bundesregierung und den Ausbau der Windkraft. Er sieht darin eine Bedrohung für Naturflächen und lehnt die Energiewende als 'ideologischen Unsinn' ab, da sie die Wirtschaft zerstöre. Hilse vertritt die Ansicht, dass die Klimamodelle ungeeignet seien und warnt vor einer 'Klimahysterie'.",
+      "source_title": "Klimaschutz und Energie - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lisa Badum",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Lisa Badum setzt sich leidenschaftlich für Klimaschutz und soziale Gerechtigkeit ein und fordert einen schnellen Ausbau erneuerbarer Energien, insbesondere der Solarenergie. Sie kritisiert die unzureichende soziale Flankierung der Klimaschutzpolitik und schlägt die Einführung eines Klimageldes vor, um Haushalte mit niedrigen und mittleren Einkommen zu entlasten.",
+      "source_title": "Grüne liefert Umweltminister Ideen für sozialen Klimaschutz | taz.de",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jan Blankenburg",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jan Blankenburg betont die Notwendigkeit, die Energieversorgung krisenfest zu machen und den Alltag von Bürgern mit kleinen und mittleren Einkommen durch Klimaschutzmaßnahmen zu erleichtern. Er ist Sprecher der SPD-Bundestagsfraktion für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit und setzt sich für eine sozialverträgliche Energiewende ein, die alle Menschen mitnimmt.",
+      "source_title": "„Die Transformation ist die Chance auf ein besseres Leben“ – Interview mit Jakob Blankenburg - spw – Zeitschrift für sozialistische Politik und Wirtschaft",
+      "url": "https://www.spw.de/die-transformation-ist-die-chance-auf-ein-besseres-leben-interview-mit-jakob-blankenburg/",
+      "platform": "Website"
+    },
+    {
+      "name": "Clara Anne Bock",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Clara Anne Bock kritisiert das Klimaschutzprogramm als unvollständig, unzureichend und sozial ungerecht. Sie bemängelt das Fehlen eines wirksamen Gebäudeenergiegesetzes und warnt vor Belastungen für Mieter durch steigende Kosten für fossile Energien. Sie fordert stattdessen ein Recht auf bezahlbares und erneuerbares Heizen und mehr staatliche Unterstützung für eine soziale Wärmewende.",
+      "source_title": "Bock (Die Linke) kritisiert Heizungspläne der Bundesregierung: „Für Mieterinnen und Mieter bleibt es teuer“ - Deutschlandfunk",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

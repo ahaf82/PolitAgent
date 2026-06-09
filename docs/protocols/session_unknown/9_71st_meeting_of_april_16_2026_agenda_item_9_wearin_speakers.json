@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zum Verbot des Kinderkopftuchs in Bildungseinrichtungen zeigte eine deutliche Polarisierung unter den Abgeordneten. Während Kerstin Przygodda (AfD) vehement ein Verbot forderte, da das Kopftuch ihrer Ansicht nach ein Symbol der Frauenunterdrückung und des politischen Islams darstellt, lehnten Lamya Kaddor (Bündnis 90/Die Grünen) und Nicole Gohlke (Die Linke) pauschale Verbote ab. Kaddor betonte, dass es keine theologische Grundlage für ein Kinderkopftuch im Islam gäbe und staatliche Verbote das Problem lediglich in den privaten Raum verlagern würden. Gohlke verurteilte zwar Zwang zum Kopftuch, sprach sich jedoch gegen einen staatlichen Zwang zum Ablegen aus, der zu Ausgrenzung führen könnte, und plädierte stattdessen für Selbstbestimmung durch Bildung. Für Ellen Demuth (CDU/CSU) und Saskia Esken (SPD) konnten außerhalb ihrer parlamentarischen Beiträge keine spezifischen externen Stellungnahmen zu diesem Thema gefunden werden.",
+  "sources": [
+    {
+      "name": "Kerstin Przygodda",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kerstin Przygodda (AfD) erklärte, dass die Entscheidung Österreichs für ein Kinderkopftuchverbot ein längst überfälliges Signal für Deutschland sei, da das Kopftuch ein Symbol der Unterdrückung der Frau und des politischen Islams darstelle, das in Bildungseinrichtungen nichts zu suchen habe. Sie argumentierte, dass ohne ein Verbot Forderungen nach Gleichstellung leere Phrasen blieben.",
+      "source_title": "Mädchen schützen – dem Beispiel Österreichs beim Kinderkopftuchverbot folgen - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ellen Demuth",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Lamya Kaddor",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Lamya Kaddor (Bündnis 90/Die Grünen) betont auf Abgeordnetenwatch, dass es keinerlei theologische Grundlage für ein Kopftuch bei jungen Mädchen gibt und die Annahme, das Kopftuch sei per se ein Symbol der Unterdrückung, zu kurz greift, da vielfältige Motive wie religiöse Überzeugung, Identität oder Selbstbestimmung existieren. Sie lehnt staatliche Verbote ab, da diese das Problem lediglich ins Private verlagern würden.",
+      "source_title": "Lamya Kaddor - Fragen und Antworten - Abgeordnetenwatch / Ist die aktive Förderung des Islam (v.a. in Bezug auf das Recht, Kopftuch zu tragen) mit der vom Grundgesetz vorgeschriebenen tatsächlichen Durchsetzung der Gleichberechtigung vereinbar?",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Saskia Esken",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Nicole Gohlke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Nicole Gohlke (Die Linke) kritisiert, dass die AfD das Thema 'Kinderschutz' missbrauche, um muslimische Mädchen auszugrenzen und antimuslimischen Rassismus zu schüren. Sie plädiert für Selbstbestimmung statt Kleidervorschriften und Grundrechte statt 'AfD-Sittenwächterei', da der effektive Schutz von Mädchen durch Beratung, Jugendhilfe, Bildung und gesellschaftliche Teilhabe geschehe.",
+      "source_title": "Plenarrede zum AfD-Antrag „Kopftuchverbot an Schulen - Nicole Gohlke, MdB",
+      "url": "https://nicole-gohlke.de/aktuelles/reden/",
+      "platform": "Website"
+    }
+  ]
+}

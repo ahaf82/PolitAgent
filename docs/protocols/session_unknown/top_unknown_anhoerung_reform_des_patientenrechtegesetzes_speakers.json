@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zum Thema „Reform des Patientenrechtegesetzes“ zeigen unterschiedliche Schwerpunkte. Linda Heitmann (Bündnis 90/Die Grünen) und Stefan Schwartze (SPD) treten vehement für eine Stärkung der Patientenrechte ein, insbesondere durch eine Erleichterung der Beweislast und verbesserte Transparenz. Sie sehen deutlichen Reformbedarf und kritisieren strukturelle Nachteile für Patienten bei der Durchsetzung ihrer Rechte. Thomas Dietz (AfD) äußert sich generell kritisch gegenüber einer zunehmenden Bürokratisierung im Gesundheitswesen und fordert eine patientenorientierte Medizin, jedoch liegen von ihm keine direkten externen Stellungnahmen zu den spezifischen Reformvorschlägen des Patientenrechtegesetzes vor. Für die namentlich genannten Vertreter der CDU/CSU und Die Linke konnten keine aktuellen, spezifischen externen Stellungnahmen zu diesem Reformvorhaben gefunden werden.",
+  "sources": [
+    {
+      "name": "Linda Heitmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Linda Heitmann setzt sich für eine umfassende Reform des Patientenrechtegesetzes ein, um Hürden für Betroffene von Behandlungsfehlern abzubauen. Sie fordert eine Erleichterung der Beweisführung, orientiert an einer überwiegenden Wahrscheinlichkeit, eine gesetzlich verankerte Organisationsverantwortung sowie die Sicherstellung unabhängiger Gutachten und transparenter Dokumentation. Ziel ist es, Patientinnen und Patienten eine wirksamere Durchsetzung ihrer Rechte zu ermöglichen, da das Problem nicht in fehlenden Rechten, sondern in deren mangelnder Durchsetzbarkeit liegt.",
+      "source_title": "Patient*innenrechte | Linda Heitmann / Stärkung der Rechte von Patientinnen und Patienten | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Michaela Weiler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Thomas Dietz",
+      "party": "AfD",
+      "found": true,
+      "statement": "Thomas Dietz kritisiert die zunehmende Bürokratie im deutschen Gesundheitswesen und fordert den Erhalt einer diversifizierten und patientenorientierten Medizin. Er äußert Bedenken hinsichtlich der Finanzierbarkeit und der Auswirkungen von Gesetzesentwürfen auf die ärztliche Versorgung und die Patientensicherheit, wie etwa beim Krankenhaustransparenzgesetz. Obwohl er sich für Patientenrechte starkmacht, wurden keine direkten externen Stellungnahmen zu den spezifischen Reformpunkten des Patientenrechtegesetzes (wie Beweislastreduzierung oder Gutachterwesen) gefunden.",
+      "source_title": "Thomas Dietz: Diversifizierte und patientenorientierte Medizin erhalten / Thomas Dietz: Katastrophale Zustände im deutschen Krankenhauswesen beenden",
+      "url": "https://afdbundestag.de/thomas-dietz-diversifizierte-und-patientenorientierte-medizin-erhalten/,%20https://afdbundestag.de/thomas-dietz-katastrophale-zustaende-im-deutschen-krankenhauswesen-beenden/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Schwartze",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Patientenbeauftragter der Bundesregierung setzt sich Stefan Schwartze für ein 'Patientenrechtegesetz 2.0' ein, das mehr Transparenz, das Recht auf Akteneinsicht und eine bessere Fehlerkultur fördern soll. Er fordert eine Absenkung des Beweismaßes für die Kausalität bei Behandlungsfehlern auf 'überwiegende Wahrscheinlichkeit' und schlägt einen Patientenentschädigungsfonds vor, um Geschädigten auch außerhalb des Rechtsweges zu helfen. Schwartze betont, dass Patientinnen und Patienten im Behandlungsgeschehen gestärkt werden müssen.",
+      "source_title": "Patientenbeauftragter will neues Patientenrechtegesetz anstoßen – News – Deutsches Ärzteblatt / Patientenrechte stärken: mehr Sicherheit bei Behandlungsfehlern – SPD-Bundestagsfraktion",
+      "url": "https://www.aerzteblatt.de/news/elektronisches-herzinfarktregister-waechst-langsamer-als-erhofft-7017d25e-3457-4e36-b7e0-f119a850875f",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frau Schütz",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

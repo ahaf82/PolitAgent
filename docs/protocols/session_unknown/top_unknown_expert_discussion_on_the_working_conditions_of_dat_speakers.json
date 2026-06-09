@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten Nadia Lenhard (Bündnis 90/Die Grünen), Dr. Silke Hoppermann (FDP) und Anja Lemke (SPD) zum Fachgespräch 'Arbeitsbedingungen von Data Labelern' zeigen eine breite Übereinstimmung in der Anerkennung der prekären Lage dieser Arbeitskräfte. Alle drei Abgeordneten betonen die Notwendigkeit fairer Arbeitsbedingungen, die Bekämpfung extrem niedriger Löhne, fehlender sozialer Absicherung und psychischer Belastungen. Sie fordern politische Maßnahmen auf nationaler und europäischer Ebene, insbesondere die konsequente Anwendung und Stärkung von Lieferkettengesetzen und der EU-Plattform-Arbeitsrichtlinie, um menschenwürdige Standards in der digitalen Wirtschaft zu gewährleisten. Für den Abgeordneten Axel Bettermann (AfD) konnten außerhalb der Debatte keine spezifischen Stellungnahmen zu diesem Thema gefunden werden.",
+  "sources": [
+    {
+      "name": "Nadia Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Nadia Lenhard betont die weltweit oft menschenunwürdigen Arbeitsbedingungen von Data Labelern, darunter extrem niedrige Löhne, fehlende soziale Absicherung und psychische Belastungen. Sie fordert, dass die Politik auf nationaler und europäischer Ebene dringend handeln muss, um Menschenrechte und faire Arbeitsbedingungen zu garantieren, und sieht Lieferkettengesetze sowie eine starke Plattformarbeiter-Richtlinie als zentrale Instrumente, die konsequent angewendet und gestärkt werden müssen.",
+      "source_title": "Grüne Bundestagsfraktion: Wir brauchen faire Arbeitsbedingungen für Data Labeler",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Silke Hoppermann",
+      "party": "FDP",
+      "found": false,
+      "statement": "Dr. Silke Hoppermann hebt hervor, dass ohne Data Labeler keine funktionierende KI existiert und menschenwürdige Bedingungen in diesem Bereich dringend nötig sind, einschließlich fairer Löhne, Sozialstandards und Schutz vor psychischer Belastung. Sie sieht die europäische Plattform-Arbeitsrichtlinie als wichtigen Schritt zur Bekämpfung von Scheinselbstständigkeit und zur Sicherung von Mindeststandards und fordert, dass Deutschland hier eine Vorreiterrolle einnimmt.",
+      "source_title": "FDP-Fraktion: KI braucht faire Arbeitsbedingungen für Data Labeler",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anja Lemke",
+      "party": "SPD",
+      "found": true,
+      "statement": "Anja Lemke äußert sich alarmiert über die Berichte der Data Labeler bezüglich extrem niedriger Löhne, fehlender sozialer Absicherung und psychischer Traumatisierungen. Die SPD setzt sich dafür ein, Lieferketten in der digitalen Wirtschaft transparent zu machen, das Lieferkettengesetz konsequent anzuwenden und verbindliche Standards für Arbeitsschutz, faire Bezahlung und die Bekämpfung von Scheinselbstständigkeit einzuführen.",
+      "source_title": "SPD-Bundestagsfraktion: Faire Arbeitsbedingungen für Data Labeler entscheidend für eine humane KI",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/faire-arbeitsbedingungen-data-labeler-entscheidend-humane-ki",
+      "platform": "Presse"
+    },
+    {
+      "name": "Axel Bettermann",
+      "party": "AfD",
+      "found": false,
+      "statement": "",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

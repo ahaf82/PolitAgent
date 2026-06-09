@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten zum Thema Sport und Ehrenamt zeigen unterschiedliche Schwerpunkte. Artur Auernhammer (CDU/CSU) betont die gesellschaftliche Bedeutung des Sports und begrüßt die „Sportmilliarde“ als wichtige Investition in den Breitensport. Dr. Ophelia Nick (Bündnis 90/Die Grünen) kritisiert den Entwurf eines Sportfördergesetzes, insbesondere hinsichtlich der Konzentration von Entscheidungskompetenzen und der mangelnden Berücksichtigung von Geschlechtergleichstellung und Diversität, und fordert Nachbesserungen. Sie hebt zudem die Notwendigkeit einer besseren Finanzierung kommunaler Sportstätten hervor. Für Ringo König (AfD) konnten keine spezifischen externen Stellungnahmen zu diesem Themenkomplex außerhalb des Bundestages gefunden werden.",
+  "sources": [
+    {
+      "name": "Artur Auernhammer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Artur Auernhammer begrüßt die „Sportmilliarde“ des Bundestages, die eine Milliarde Euro für die Sanierung und Modernisierung von Sportstätten im Breitensport bereitstellt. Er betont, dass dies ein starkes Zeichen für den hohen Stellenwert des Sports und eine Investition in den gesellschaftlichen Zusammenhalt sei, und sieht darin einen wichtigen Impuls für Kommunen und Landkreise.",
+      "source_title": "Eine „sportliche“ Milliarde - Artur Auernhammer",
+      "url": "https://artur-auernhammer.de/eine-sportliche-milliarde/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Ophelia Nick",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Ophelia Nick und Tina Winklmann kritisierten den Entwurf eines Sportfördergesetzes scharf. Sie bemängelten eine weitgehende Konzentration von Entscheidungskompetenzen, unzureichende Transparenz bei der Mittelvergabe und mangelnde Verankerung von Geschlechtergleichstellung, Diversität und Inklusion. Zudem setzt sie sich für die Förderung der Sanierung kommunaler Sportstätten ein.",
+      "source_title": "Grüne: SPD und Union legen Sportfördergesetz aus der Schublade vor – mit Verschlechterungen / Grüne kritisieren Sportfördergesetz-Entwurf – Nachbesserung nötig / Sportfördermillionen: Bund fördert Sanierung kommunaler Sportstätten in Hilden, Solingen, Velbert und Wülfrath",
+      "url": "N/A",
+      "platform": "Presse, Website"
+    },
+    {
+      "name": "Ringo König",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

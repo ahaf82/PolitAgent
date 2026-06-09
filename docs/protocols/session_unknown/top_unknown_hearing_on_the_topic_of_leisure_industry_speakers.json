@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Aussagen der Abgeordneten zur Freizeitwirtschaft unterstreichen die parteiübergreifende Anerkennung ihrer wirtschaftlichen und sozialen Bedeutung. Michael Kießling (CDU/CSU) setzt sich für die Senkung der Mehrwertsteuer in der Gastronomie und Bürokratieabbau ein, um die Branche zu entlasten und Investitionen zu fördern. Stefan Zierke (SPD) hebt das enorme Potenzial des Tourismus im ländlichen Raum hervor und fordert eine stärkere Vernetzung touristischer Angebote sowie verbesserte Verkehrsanbindungen. Stefan Schmidt (Bündnis 90/Die Grünen) kritisiert die unzureichende Nachhaltigkeit der Nationalen Tourismusstrategie und plädiert für mehr Investitionen in klimafreundliche Anreiseoptionen. Katalin Gennburg (Die Linke) betont als Sprecherin für Tourismus und Stadtentwicklung die Relevanz von Freizeit- und Kulturangeboten, insbesondere im Kontext urbaner Entwicklung und öffentlicher Räume.",
+  "sources": [
+    {
+      "name": "Michael Kießling",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Michael Kießling, tourismuspolitischer Sprecher der CDU/CSU-Fraktion, setzt sich nachdrücklich für die Senkung der Umsatzsteuer auf 7 Prozent für Gastronomie und Tourismus ein, um Steuergerechtigkeit zu schaffen und die Branche zu stärken. Er sieht Tourismus als wichtige 'Visitenkarte' Deutschlands und befürwortet Maßnahmen zum Bürokratieabbau und zur Beschleunigung von Bauvorhaben im ländlichen Raum.",
+      "source_title": "7 Prozent für unsere Gastronomie – Fair, gerecht und zukunftssicher! / MdB Kießling: „Tourismus in Deutschland – unsere Visitenkarte in der Welt!“",
+      "url": "N/A",
+      "platform": "Website / Presse"
+    },
+    {
+      "name": "Stefan Zierke",
+      "party": "SPD",
+      "found": true,
+      "statement": "Stefan Zierke, tourismuspolitischer Sprecher der SPD-Bundestagsfraktion, betont das 'enorme Potenzial' ländlicher Räume für den Tourismus und fordert eine stärkere Vernetzung touristischer Angebote mit regionaler Landwirtschaft, Kultur und Natur. Er setzt sich für bessere Verkehrsanbindungen, Rad- und Wanderwege sowie digitale Informationsangebote ein, um ländliche Regionen attraktiver und zugänglicher zu machen. Er ist zudem Präsident des Bundesverbandes der Campingwirtschaft.",
+      "source_title": "Die tourismuspolitischen Schwerpunkte der SPD im Überblick / Interview: Stefan Zierke, Präsident des Camping-Bundesverbands / Tourismus im ländlichen Raum/Infrastruktur",
+      "url": "https://www.spdfraktion.de/system/files/documents/tourismuspolitisches_informationsgespraech_laendliche_raeume.pdf",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Stefan Schmidt, tourismuspolitischer Sprecher der Grünen, kritisiert die Nationale Tourismusstrategie als 'oberflächliches Sammelsurium' ohne strategischen Rahmen für einen nachhaltigen und klimaneutralen Tourismus. Er fordert einen Fokus auf klimaneutrale An- und Abreisemöglichkeiten, verstärkte Investitionen in Bus und Bahn sowie die Förderung emissionsfreien Reisens innerhalb Europas.",
+      "source_title": "Strategie ohne Perspektive für nachhaltigen und zukunftsfähigen Tourismus / Das sind die tourismuspolitischen Pläne der Grünen",
+      "url": "https://www.reisevor9.de/inside/das-sind-die-tourismuspolitischen-plaene-der-gruenen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katalin Gennburg",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Katalin Gennburg ist als tourismuspolitische Sprecherin und Obfrau im Ausschuss für Tourismus der Fraktion Die Linke tätig. Ihre externen Stellungnahmen konzentrieren sich stark auf Stadtentwicklung, die Wiederaneignung öffentlicher Räume und Landpolitik, was indirekt die Rahmenbedingungen für die Freizeitwirtschaft im urbanen Kontext beeinflusst.",
+      "source_title": "Katalin Gennburg - Deutscher Bundestag / Katalin Gennburg - Berlin - re:publica / Katalin Gennburg - Profil - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/abgeordnete/profil/katalin-gennburg/",
+      "platform": "Website"
+    }
+  ]
+}

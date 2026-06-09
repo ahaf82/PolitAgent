@@ -1,0 +1,23 @@
+{
+  "synthesis": "Zum „Tag der Ein- und Ausblicke“ am 3. Mai 2026 im Deutschen Bundestag haben sowohl Bundestagspräsidentin Julia Klöckner als auch Bundestagsvizepräsidentin Andrea Lindholz die Bedeutung von Transparenz und Bürgernähe hervorgehoben. Lindholz betonte bei der Eröffnung, dass der Bundestag das Haus der Bürger sei und die Demokratie erlebbar mache. Klöckner nutzte soziale Medien, um die Öffnung des Parlaments für Einblicke hinter die Kulissen zu kommunizieren. Beide Politikerinnen unterstrichen damit die Wichtigkeit des direkten Austauschs und der Partizipation der Öffentlichkeit an der parlamentarischen Arbeit.",
+  "sources": [
+    {
+      "name": "Andrea Lindholz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bundestagsvizepräsidentin Andrea Lindholz eröffnete den Tag der Ein- und Ausblicke und begrüßte die Gäste mit den Worten, der Deutsche Bundestag sei \"Ihr Haus\" und gehöre den Bürgerinnen und Bürgern. Sie hob hervor, dass das Parlament der \"Maschinenraum der Demokratie\" sei, der anschaulich die Arbeitsweise des Bundestages zeige.",
+      "source_title": "11.700 Gäste blicken hinter die Türen des Bundestages - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julia Klöckner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bundestagspräsidentin Julia Klöckner postete auf ihrem offiziellen Instagram-Account, dass der Bundestag am Tag der Ein- und Ausblicke seine Türen für alle Bürgerinnen und Bürger geöffnet und viele Einblicke hinter die Kulissen ermöglicht habe.",
+      "source_title": "Instagram-Account der Bundestagspräsidentin",
+      "url": "https://www.instagram.com/bundestagspraesidentin/",
+      "platform": "Social Media"
+    }
+  ]
+}

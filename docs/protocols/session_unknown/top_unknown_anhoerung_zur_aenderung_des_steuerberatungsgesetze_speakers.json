@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Diskussion um die Änderung des Steuerberatungsgesetzes hat bei den Abgeordneten außerhalb des Plenums unterschiedliche Schwerpunkte offenbart. Fritz Güntzler (CDU/CSU) und Doris Achelwilm (Die Linke) betonten die Wichtigkeit der Sicherung des Fremdbesitzverbots, um die Unabhängigkeit der Steuerberatung vor dem Einfluss von Finanzinvestoren zu schützen. Jens Behrens (SPD) sprach sich für eine Ausweitung der Befugnisse von Bilanzbuchhaltern aus, um die Praxis zu entlasten, ein Anliegen, das auch Sascha Müller (Bündnis 90/Die Grünen) und seine Fraktion unterstützten, wenn auch ihre weitreichenderen Vorschläge nicht vollständig umgesetzt wurden. Torben Braga (AfD) kritisierte die mangelnde Reformbereitschaft der Regierung und forderte eine grundlegende Vereinfachung des Steuerrechts sowie eine Ablehnung der Anhebung des Gewerbesteuer-Mindesthebesatzes. Insgesamt spiegeln die externen Äußerungen die fortlaufende Debatte über die Balance zwischen beruflichem Schutz, Marktzugang und kommunaler Finanzhoheit wider.",
+  "sources": [
+    {
+      "name": "Fritz Güntzler",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Fritz Güntzler, finanzpolitischer Sprecher der CDU/CSU-Bundestagsfraktion, erklärte, dass im Rahmen des 9. Änderungsgesetzes zum Steuerberatungsgesetz die uneingeschränkte Fortgeltung des Fremdbesitzverbots beschlossen wurde. Er warnte vor den negativen Auswirkungen von Private Equity auf die Beratungsqualität und die Marktstruktur mittelständischer Kanzleien. Der Finanzausschuss setzte mit seiner Hilfe ein klares Zeichen zur Unabhängigkeit der Steuerberatung.",
+      "source_title": "Steuerberatung bleibt unabhängig - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "https://www.cducsu.de/presse/steuerberatung-bleibt-unabhaengig",
+      "platform": "Website"
+    },
+    {
+      "name": "Torben Braga",
+      "party": "AfD",
+      "found": true,
+      "statement": "Torben Braga (AfD) kritisierte die Gesetzesentwürfe zur Änderung des Steuerberatungsgesetzes als 'handwerklichen Dilettantismus' der Regierung, besonders im Hinblick auf das Scheitern einer Entlastungsprämie im Bundesrat. Er forderte eine grundlegende Neuordnung und Vereinfachung des Steuerrechts anstelle von inkonsistenten Regelwerken. Zudem sprach er sich gegen eine Anhebung des Mindesthebesatzes der Gewerbesteuer aus, da dies Investitionen hemme und keinen nachhaltigen Beitrag zur Kommunalfinanzierung leiste.",
+      "source_title": "Torben Braga criticizes the government's amateurish legislative work! - AfD Parliamentary Group - YouTube",
+      "url": "https://www.youtube.com/watch?v=PNRFGDmfAiw",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Jens Behrens",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jens Behrens (SPD) äußerte im Bundestag den Wunsch nach einer Befugniserweiterung für Bilanzbuchhalter, um kleine und mittlere Unternehmen sowie überlastete Steuerberatungskanzleien zu entlasten. Er stellte klar, dass das Thema für ihn mit dem beschlossenen Gesetz nicht abgeschlossen sei und weiterhin verfolgt werde. Behrens war als Berichterstatter für die SPD-Fraktion benannt.",
+      "source_title": "StBerG-Reform beschlossen: Politische Mehrheit bleibt hinter Praxisbedarf zurück - BVBC",
+      "url": "https://www.bvbc.de/bundesverband-der-bilanzbuchhalter-und-controller/mitteilung?tx_ttnews%5Btt_news%5D=630&cHash=1bad5b22ff74d05b787396d31b6ed585",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sascha Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sascha Müller (Bündnis 90/Die Grünen) kritisierte, dass das Gesetz zur Änderung des Steuerberatungsgesetzes nicht weit genug gehe, insbesondere im Hinblick auf die Erweiterung der Befugnisse von Bilanzbuchhaltern und Steuerfachwirten. Er sprach sich für pragmatische Lösungen aus, wie sie der Bundesverband der Bilanzbuchhalter und Controller vorschlägt, darunter Hilfen bei der Einnahmen-Überschuss-Rechnung und Umsatzsteuervoranmeldung. Seine Fraktion hatte einen eigenen Antrag mit weitreichenderen Öffnungen eingereicht.",
+      "source_title": "StBerG-Reform erneut im Bundestag: BVBC fordert weiter echte Entlastung für die Praxis",
+      "url": "https://www.bvbc.de/bundesverband-der-bilanzbuchhalter-und-controller/mitteilung?tx_ttnews%5Btt_news%5D=633&cHash=36aa7b7eecfd178d2577650d50b77461",
+      "platform": "Presse"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Doris Achelwilm (Die Linke) sprach sich dezidiert dafür aus, Private-Equity-Investoren aus freien Berufen und der Daseinsvorsorge herauszuhalten und das Fremdbesitzverbot zu stärken. Sie betonte, dass Steuerberater und andere Berufe unabhängig von renditesüchtigen Finanzinvestoren bleiben müssen und lobte die Korrektur von Regulierungslücken. Als Berichterstatterin ihrer Fraktion setzte sie sich zudem für eine Anhebung des Mindesthebesatzes der Gewerbesteuer und die Einbeziehung weiterer Bemessungsgrundlagen ein.",
+      "source_title": "Private-Equity-Investoren aus freien Berufen und Daseinsvorsorge raushalten - Fremdbesitzverbot stärken - Doris Achelwilm",
+      "url": "https://www.doris-achelwilm.de/im-parlament/meine-reden/detail-neu/news/bundestagsrede-private-equity-investoren-aus-freien-berufen-und-daseinsvorsorge-raushalten-fremdbesitzverbot-staerken-1/",
+      "platform": "Website"
+    }
+  ]
+}

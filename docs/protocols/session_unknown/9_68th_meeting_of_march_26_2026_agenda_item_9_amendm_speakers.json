@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zum Thema Straßenverkehrsgesetz zeigen eine Fortsetzung und Vertiefung ihrer im Plenum geäußerten Positionen. Während die CDU/CSU-Fraktion die Digitalisierung und Bürokratieentlastung des Gesetzes hervorhebt, bleiben direkte externe Stellungnahmen des identifizierten Redners Günter Baumgartner schwer auffindbar. Die AfD zeigte generell eine kritische Haltung gegenüber Überwachung, ohne dass jedoch ein spezifisches externes Statement des Abgeordneten Maximilian Kneller zu diesem Gesetzentwurf gefunden wurde. Truels Reichardt (SPD) äußerte sich in einem Pressebericht grundsätzlich offen für eine Debatte über soziale Staffelung von Bußgeldern, wenngleich mit Blick auf die Praktikabilität. Swantje Henrike Michaelsen (Bündnis 90/Die Grünen) setzte sich außerhalb der Debatte mit einem eigenen Gesetzentwurf für ein Tempolimit ein, was ihre verkehrspolitische Agenda unterstreicht. Jorrit Bosch (Die Linke) wird in externen Medien weiterhin mit dem Vorstoß seiner Fraktion für soziale Gerechtigkeit durch einkommensabhängige Gebühren und Bußgelder in Verbindung gebracht.",
+  "sources": [
+    {
+      "name": "Günter Baumgartner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Maximilian Kneller",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Truels Reichardt",
+      "party": "SPD",
+      "found": false,
+      "statement": "Truels Reichardt zeigte sich in einem Interview grundsätzlich offen für die Idee, Bußgelder sozial zu staffeln, um eine gerechtere Wirkung zu erzielen, da 'ein Millionär über die Bußgelder lacht'. Er betonte jedoch die Notwendigkeit einer praktischen Umsetzung dieser Maßnahme.",
+      "source_title": "Straßenverkehrsgesetz: Diese neuen Regeln will der Bundestag beschließen - Spiegel",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Swantje Henrike Michaelsen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Als Mitunterzeichnerin eines Gesetzentwurfs forderte Swantje Henrike Michaelsen die Einführung eines allgemeinen Tempolimits von 130 km/h auf Autobahnen, um Kraftstoffverbrauch zu reduzieren, Preise zu dämpfen, Klimaschutzziele zu erreichen und die Verkehrssicherheit zu verbessern.",
+      "source_title": "Gesetz zur Änderung des Straßenverkehrsgesetzes (Tempolimit) - DIP",
+      "url": "https://dip.bundestag.de/vorgang/gesetz-zur-aenderung-des-strassenverkehrsgesetzes-tempolimit/333696",
+      "platform": "Website"
+    },
+    {
+      "name": "Jorrit Bosch",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Jorrit Bosch und die Fraktion Die Linke werden in der Presse mit ihrem Vorstoß für eine soziale Staffelung von Anwohnerparkgebühren und einkommensabhängigen Bußgeldern in Verbindung gebracht, was die Forderung nach mehr sozialer Gerechtigkeit im Straßenverkehr untermauert.",
+      "source_title": "Straßenverkehrsgesetz: Diese neuen Regeln will der Bundestag beschließen - Spiegel",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

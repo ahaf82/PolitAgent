@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestages zeigen die Reaktionen der Abgeordneten auf die EU-Industrieemissionsrichtlinie (IED 2024/1785) unterschiedliche Schwerpunkte. Die CDU/CSU und die AfD lehnen die geplante Richtlinienänderung als bürokratische Überlastung und Gefahr für den Industriestandort Deutschland ab. Sie befürchten eine \"schleichende Deindustrialisierung\" und warnen vor Wettbewerbsnachteilen. Die SPD hingegen betont die Notwendigkeit der Richtlinie für den Klima- und Umweltschutz und setzt sich für eine praxistaugliche, unbürokratische nationale Umsetzung ein, die auch die Interessen der Industrie berücksichtigt.",
+  "sources": [
+    {
+      "name": "Steffen Krauthausen",
+      "party": "AfD",
+      "found": false,
+      "statement": "Die AfD-Fraktion, die Herr Krauthausen im Rahmen der Anhörung durch Fragen vertrat, lehnt die geplanten Änderungen der Industrieemissionsrichtlinie (IED) strikt ab. Sie warnt davor, dass strengere deutsche Standards zur Abwanderung der Produktion ins Ausland führen könnten, was globale Emissionen erhöhen und Deutschland deindustrialisieren würde. Die Fraktion forderte die Bundesregierung auf, die Verhandlungen in Brüssel zu stoppen und setzte sich gegen eine zusätzliche Belastung von Industrie und Landwirtschaft ein.",
+      "source_title": "AfD-Fraktion fordert Stopp der von Brüssel geplanten Emissionsverschärfung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Anja Weisgerber",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Anja Weisgerber äußert tiefe Besorgnis über die Novellierung der IED, die sie als Risiko für den Wirtschaftsstandort Deutschland und als Ursache für eine \"schleichende Deindustrialisierung\" betrachtet. Sie kritisiert die zusätzliche finanzielle und bürokratische Belastung für Unternehmen und fordert die Bundesregierung auf, sich in Brüssel entschieden gegen die geplanten Verschärfungen zu positionieren, um bewährte Mechanismen zu erhalten und neue Auflagen zu vermeiden.",
+      "source_title": "Verschärfung der IED-Richtlinie gefährdet Industriebetriebe und Landwirtschaft",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Thews",
+      "party": "SPD",
+      "found": true,
+      "statement": "Die SPD-Bundestagsfraktion, in der Michael Thews als umweltpolitischer Sprecher tätig ist, sieht die Überarbeitung der Industrieemissionsrichtlinie (IED) als wichtiges Element zur Erreichung der Klimaschutzziele. Sie setzt sich für eine praxistaugliche und unbürokratische nationale Umsetzung ein, bei der die Transformation der Industrie hin zu Klima- und Schadstoffneutralität unterstützt wird und wichtige Forderungen der Industrie, wie der Schutz von Geschäftsgeheimnissen, berücksichtigt werden.",
+      "source_title": "Klimaschutz voranbringen und Transformation der Wirtschaft beschleunigen",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/klimaschutz-voranbringen-transformation-wirtschaft-beschleunigen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Jan-Niclas Gesenhues",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Ralph Lenkert",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}
