@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4082",
+      "title": "Entwurf eines Gesetzes zur Einführung der elektronischen Aufenthaltsüberwachung und der Täterarbeit im Gewaltschutzgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4082&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5809",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) zu dem Entwurf eines Gesetzes zur Einführung der elektronischen Aufenthaltsüberwachung und der Täterarbeit im Gewaltschutzgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5809&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/3918",
+      "title": "Antrag: Für eine Gesamtstrategie zum Schutz vor häuslicher und geschlechtsspezifischer Gewalt anstelle von isolierten Einzelmaßnahmen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3918&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5811",
+      "title": "Entschließungsantrag der Fraktion Bündnis 90/Die Grünen zu einer personellen und strukturellen Stärkung der Familiengerichte",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5811&rows=25",
+      "type": "Entschließungsantrag"
+    },
+    {
+      "number": "Drucksache 21/5810",
+      "title": "Bericht gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5810&rows=25",
+      "type": "Bericht"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag nahm den vom Ausschuss für Recht und Verbraucherschutz geänderten Gesetzentwurf zur Einführung der elektronischen Aufenthaltsüberwachung und der Täterarbeit im Gewaltschutzgesetz am 8. Mai 2026 an. Die Fraktionen von CDU/CSU, AfD, SPD und Bündnis 90/Die Grünen stimmten dafür, während die Fraktion Die Linke sich enthielt. Ein Entschließungsantrag der Grünen (Drucksache 21/5811) wurde vom Parlament abgelehnt. Ein Antrag der Linksfraktion (Drucksache 21/3918) fand ebenfalls keine Mehrheit; CDU/CSU, AfD und SPD lehnten diesen Antrag ab, während die Grünen dafür votierten.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

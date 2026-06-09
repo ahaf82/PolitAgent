@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4082",
+      "title": "Entwurf eines Gesetzes zur Einführung der elektronischen Aufenthaltsüberwachung und Täterarbeit im Gewaltschutzgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4082&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5809",
+      "title": "Beschlussempfehlung zu dem Gesetzentwurf zur Einführung der elektronischen Aufenthaltsüberwachung und Täterarbeit im Gewaltschutzgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5809&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Einführung der elektronischen Aufenthaltsüberwachung und Täterarbeit im Gewaltschutzgesetz wurde mehrheitlich angenommen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur Umsetzung der EU-Verbraucherkreditrichtlinie und der Förderung klimaneutraler Mobilität spiegeln die parteipolitischen Positionen wider. Die SPD-Abgeordneten Nadine Heselhaus und Carmen Wegge betonten die Stärkung des Verbraucherschutzes durch strengere Kreditwürdigkeitsprüfungen, die Regulierung von „Buy now, pay later“-Modellen und die Einführung des „Rechts auf Vergessenwerden“. Kritische Stimmen kamen von Stefan Schmidt (Bündnis 90/Die Grünen), der Schutzlücken und die fachfremde E-Auto-Förderung bemängelte, sowie von Christin Willnat (Die Linke), die die unzureichende Finanzierung der Schuldnerberatung und die intransparente Macht von Scoring-Unternehmen hervorhob. Susanne Hierl (CDU/CSU) begrüßte zwar die Aktualisierung des Verbraucherschutzes, warnte jedoch vor übermäßiger Bevormundung.",
+  "sources": [
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Nadine Heselhaus betonte die umfassende Stärkung des Verbraucherschutzes durch das neue Gesetz, insbesondere durch verschärfte Kreditwürdigkeitsprüfungen und die Regulierung von „Buy now, pay later“-Modellen, um Überschuldung zu verhindern. Sie hob auch die Forderung nach einem „Recht auf Vergessenwerden“ für ehemals Krebserkrankte im Bereich Versicherungen und Kredite hervor. Zudem setzt sie sich extern für eine Stärkung der Verbraucherbildung und -forschung ein.",
+      "source_title": "Umsetzung der EU-Verbraucherkreditrichtlinie: Wir schützen Verbraucher:innen besser vor Überschuldung.",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/umsetzung-eu-verbraucherkreditrichtlinie-wir-schuetzen-verbraucherinnen-besser-ueberschuldung",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Möller",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Susanne Hierl begrüßte die Anpassung des Verbraucherschutzes an die digitale Realität, warnte jedoch vor einer Bevormundung der Verbraucher und unterstrich die Bedeutung praxistauglicher Zahlungsformen wie des Kaufs auf Rechnung. Sie sah im Gesetz einen wichtigen Schritt zur Modernisierung, der Bürokratie abbaut und die Entschließung zum „Recht auf Vergessenwerden“ für Krebsüberlebende unterstützt.",
+      "source_title": "Schuldenfallen beim Online-Shopping werden entschärft - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Stefan Schmidt kritisierte die verspätete Umsetzung der EU-Richtlinie und bemängelte verbleibende Schutzlücken, insbesondere den Verzicht auf die Schriftform bei Online-Krediten, der Betrug begünstigen könne. Er lehnte die E-Auto-Förderung als fachfremden Anhang ab und forderte eine Neuausrichtung der Förderung ausschließlich für emissionsfreie Fahrzeuge und mit sozial gerechten Einkommensgrenzen.",
+      "source_title": "Schutz vor Schulden per Mausklick - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christin Willnat",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Christin Willnat prangerte die mangelhafte Finanzierung der Schuldnerberatung an und forderte ein gesetzliches Recht auf kostenfreie Beratung, finanziert durch einen Bundesfonds und Beiträge der Kreditwirtschaft. Sie kritisierte zudem die intransparente Macht von privatwirtschaftlichen Scoring-Unternehmen wie der Schufa und forderte echten Übereilungsschutz sowie Transparenz bei der Bonitätsprüfung.",
+      "source_title": "Gefährliche Lücke beim Verbraucherschutz - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/presse/pressemitteilungen/detail/gefaehrliche-luecke-beim-verbraucherschutz",
+      "platform": "Website"
+    },
+    {
+      "name": "Carmen Wegge",
+      "party": "SPD",
+      "found": true,
+      "statement": "Carmen Wegge setzte sich als Teil der SPD-Fraktion leidenschaftlich für die Aufnahme des „Rechts auf Vergessenwerden“ für Krebserkrankte in den Gesetzentwurf ein, um Diskriminierung bei Versicherungen und Krediten zu beenden. Sie betonte, dass das Gesetz konkreten Schutz biete, auch durch neue Regeln für das Scoring, die Diskriminierung verhindern sollen.",
+      "source_title": "Umsetzung der EU-Verbraucherkreditrichtlinie: Wir schützen Verbraucher:innen besser vor Überschuldung.",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/umsetzung-eu-verbraucherkreditrichtlinie-wir-schuetzen-verbraucherinnen-besser-ueberschuldung",
+      "platform": "Presse"
+    }
+  ]
+}

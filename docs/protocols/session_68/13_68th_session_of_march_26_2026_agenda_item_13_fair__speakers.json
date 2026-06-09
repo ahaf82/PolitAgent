@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag zur Umsetzung des Data Acts und Data Governance Acts spiegelt eine klare Trennung der Positionen wider, die sich auch in externen Äußerungen der Abgeordneten wiederfindet. Während die Koalition und CDU/CSU die Gesetze als wichtigen Schritt zur Stärkung der Datensouveränität und fairer Datennutzung begrüßen, kritisieren AfD und Die Linke eine Überregulierung beziehungsweise eine unzureichende Ausstattung der Behörden. Jeanne Dillschneider (Bündnis 90/Die Grünen) betont in einer Pressemitteilung die Stärkung der Nutzerrechte durch den Data Act, während Dr. Konrad Körner (CDU/CSU) außerhalb des Parlaments die Notwendigkeit einer praxisgerechten EU-Digitalregulierung und die Potenziale für einen wettbewerbsfähigen Datenbinnenmarkt hervorhebt. Dr. Carolin Wagner (SPD) bekräftigt die Bedeutung der Gesetze für fairen Datenzugang und Innovation. Dr. Michael Kaufmann (AfD) kritisiert die Gesetze als bürokratisch und innovationshemmend.",
+  "sources": [
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Konrad Körner betont, dass eine praxisgerechte Reform der EU-Digitalregulierung, einschließlich des Data Acts und der DSGVO, entscheidend ist, um Bürokratie abzubauen, Rechtssicherheit zu stärken und Innovationen zu fördern. Er sieht Datenräume als Basis für digitale Geschäftsmodelle und souveräne KI-Entwicklung in Europa und diskutiert die Herausforderungen des Data Acts, insbesondere den nahtlosen Wechsel zwischen Cloud-Dienstleistern.",
+      "source_title": "ZVEI Digital R:Evolution Day / IT-Vergabetag",
+      "url": "https://www.zvei.org/themen/zvei-digital-revolution-day",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Michael Kaufmann",
+      "party": "AfD",
+      "found": false,
+      "statement": "Dr. Michael Kaufmann äußert Bedenken, dass der Data Act es Behörden erlaube, den Zugang zu Daten zu erzwingen, selbst bei Notlagen. Er warnt, dass dies bei 'freiheitsliebenden Bürgern die Alarmglocken schrillen' lassen sollte und kritisiert, dass die Regelungen neue Bürokratie schaffen, erhebliche Kosten für Steuerzahler verursachen und dringend benötigte Fachkräfte der Wirtschaft entziehen.",
+      "source_title": "Umsetzung von EU-Vorgaben zum Datenzugang und zur Datennutzung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": false,
+      "statement": "Dr. Carolin Wagner sieht die neuen digitalpolitischen Regelwerke als gut an und entgegnet Kritik, indem sie betont, dass die Gesetze die Frage nach dem 'Eigentum an Daten' beantworten und datenbasierte Geschäftsmodelle sowie Innovationen fördern sollen. Sie hebt hervor, dass der Data Act fairen Datenzugang, mehr Wettbewerb im Cloud-Bereich und gestärkte Nutzerrechte schafft.",
+      "source_title": "Umsetzung von EU-Vorgaben zum Datenzugang und zur Datennutzung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jeanne Dillschneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Anlässlich des Inkrafttretens des europäischen Datengesetzes (Data Act) erklärt Jeanne Dillschneider, dass dies ein wichtiger Schritt für die europäische Datennutzung ist und Nutzenden ein Stück Souveränität über ihre Daten zurückgibt. Der Data Act schaffe klare Regeln für den Austausch und die Nutzung nicht-personenbezogener Daten und gebe Verbraucher*innen Transparenz und Entscheidungshoheit über die von ihnen erzeugten Daten.",
+      "source_title": "Jeanne Dillschneider zum Inkrafttreten des Data Act | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/presse/standard-titel-1/jeanne-dillschneider-zum-inkrafttreten-des-data-act/",
+      "platform": "Website"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

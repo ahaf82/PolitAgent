@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages spiegeln im Wesentlichen ihre im Plenum geäußerten Fraktionspositionen wider, wobei der Fokus auf Klimaschutz, Energiepolitik und dem Verbandsklagerecht liegt. Lorenz Gösta Beutin (Die Linke) betont die Notwendigkeit des Ausbaus erneuerbarer Energien und lehnt Atomkraft vehement ab, während Dr. Jan-Niclas Gesenhues (Bündnis 90/Die Grünen) sich für offensiven Natur- und Umweltschutz einsetzt und die Rolle der Zivilgesellschaft hervorhebt. Klaus Mack (CDU/CSU) unterstreicht die Bedeutung von Planungsbeschleunigung und warnt vor Missbrauch des Klagerechts. Carsten Träger (SPD) verteidigt die Regierungspolitik zur Verfahrensbeschleunigung und bekräftigt gleichzeitig die Bedeutung der Zivilgesellschaft. Marcel Queckemeyer (AfD) kritisiert linke NGOs und fordert einen diversifizierten Energiemix inklusive Kernenergie.",
+  "sources": [
+    {
+      "name": "Dr. Jan-Niclas Gesenhues",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Jan-Niclas Gesenhues setzt sich als umweltpolitischer Sprecher der Grünen Bundestagsfraktion und Parlamentarischer Staatssekretär im Bundesumweltministerium für einen offensiven Natur- und Umweltschutz ein. Er betont die Notwendigkeit, Natur- und Klimaschutz zusammenzudenken und plädiert für die Renaturierung von Ökosystemen, um Klimaziele zu erreichen. Er hat zudem ein Buch zum Thema 'Offensiver Umweltschutz' veröffentlicht, in dem er darlegt, wie die Umweltbewegung gestärkt werden kann.",
+      "source_title": "Natur schützen, Klima retten – Jan-Niclas Gesenhues",
+      "url": "https://gesenhues.eu/umweltschutz/",
+      "platform": "Website"
+    },
+    {
+      "name": "Klaus Mack",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Klaus Mack, als Vorsitzender der Arbeitsgemeinschaft Kommunalpolitik der CDU/CSU-Bundestagsfraktion, bringt über zwei Jahrzehnte kommunalpolitische Erfahrung ein. Er setzt sich für die Stärkung der kommunalen Schlagkraft auf Bundesebene und die Berücksichtigung kommunaler Belange ein. Er betont die Bedeutung einer modernen und digitalen Infrastruktur und schneller Datennetze für die Zukunftsfähigkeit der Regionen.",
+      "source_title": "Klaus Mack neuer Vorsitzender der Arbeitsgemeinschaft Kommunalpolitik",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marcel Queckemeyer",
+      "party": "AfD",
+      "found": true,
+      "statement": "Marcel Queckemeyer ist Obmann und Mitglied des Umweltausschusses im Deutschen Bundestag und engagiert sich in der Kommunalpolitik. Obwohl keine direkten externen Aussagen zum Verbandsklagerecht gefunden wurden, ist seine Rolle im Umweltausschuss relevant. Seine Biografie zeigt ein Engagement auf kommunaler Ebene, unter anderem als Mitglied des Gemeinderats von Bippen und des Kreistags des Landkreises Osnabrück.",
+      "source_title": "Marcel Queckemeyer - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/abgeordnete/biografien/Q/queckemeyer_marcel-1046642",
+      "platform": "Website"
+    },
+    {
+      "name": "Carsten Träger",
+      "party": "SPD",
+      "found": true,
+      "statement": "Carsten Träger war Parlamentarischer Staatssekretär beim Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit und Sprecher der SPD-Bundestagsfraktion für Umwelt-, Natur- und nukleare Sicherheit. Er war zudem Mitglied im Bundestagsausschuss für Umwelt, Naturschutz und nukleare Sicherheit und überzeugter Verfechter der Bedeutung kommunaler Unternehmen für die Umwelt- und Klimapolitik.",
+      "source_title": "Lebenslauf des Parlamentarischen Staatssekretärs Carsten Träger - BMUKN",
+      "url": "https://www.bundesumweltministerium.de/ministerium/hausleitung/carsten-traeger/lebenslauf-des-parlamentarischen-staatssekretaers-carsten-traeger",
+      "platform": "Website"
+    },
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Lorenz Gösta Beutin (Die Linke) positioniert sich klar gegen Atomkraft, die er als unbezahlbar, gefährlich und abhängig machend bezeichnet. Er fordert stattdessen einen massiven Ausbau erneuerbarer Energien und eine sozial gerechte Energiewende. Er kritisiert die Energie- und Verkehrspolitik der Bundesregierung als Angriff auf die Klimaziele und setzt sich für eine stärkere Beteiligung der Standortkommunen an Einnahmen der Ökostrombetreiber ein.",
+      "source_title": "Atomkraft? Nein danke! - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-lorenz-goesta-beutin-am-22042026/",
+      "platform": "Presse"
+    }
+  ]
+}

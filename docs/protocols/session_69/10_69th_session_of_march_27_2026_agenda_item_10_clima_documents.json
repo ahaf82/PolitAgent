@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4951",
+      "title": "Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN Klimaschutzprogramm als Entlastungsprogramm",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4951&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4271",
+      "title": "Antrag: Nach Urteil des Bundesverwaltungsgerichts – Ein Klima-Turbo für Deutschland",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4271&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4890",
+      "title": "Beschlussempfehlung des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN 'Nach Urteil des Bundesverwaltungsgerichts – Ein Klima-Turbo für Deutschland'",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4890&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Antrag der Fraktion Bündnis 90/Die Grünen 'Nach Urteil des Bundesverwaltungsgerichts – Ein Klima-Turbo für Deutschland' (Drucksache 21/4271) wurde mit den Stimmen von CDU/CSU, AfD und SPD bei Zustimmung durch Die Linke abgelehnt. Der Antrag 'Klimaschutzprogramm als Entlastungsprogramm' (Drucksache 21/4951) wurde zur weiteren Beratung an den federführenden Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

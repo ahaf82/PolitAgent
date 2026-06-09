@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Bundestagsdebatte vom 16. April 2026 befasste sich mit dem hypothetischen Wahlausgang in Ungarn, bei dem Peter Magyars Tisza-Partei einen bedeutenden Sieg errungen haben soll. Während die Debatte im Plenum lebhaft geführt wurde, konnten außerhalb des Bundestages spezifische externe Stellungnahmen zu diesem fiktiven Wahlergebnis nur für Metin Hakverdi (SPD) identifiziert werden. Er interpretierte den Wahlsieg als ein \"demokratisches Aufbruchssignal\" gegen Korruption und Populismus und forderte Europa auf, die neue ungarische Regierung aktiv zu unterstützen. Für die anderen in der Debatte prominenten Redner Gunther Krichbaum (CDU/CSU), Markus Frohnmaier (AfD), Agnieszka Brugger (Bündnis 90/Die Grünen) und Janina Böttger (Die Linke) wurden keine entsprechenden externen Äußerungen zu diesem spezifischen, hypothetischen Wahlausgang gefunden.",
+  "sources": [
+    {
+      "name": "Gunther Krichbaum",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Metin Hakverdi",
+      "party": "SPD",
+      "found": true,
+      "statement": "Metin Hakverdi bewertete den Wahlsieg von Péter Magyar in Ungarn als \"Aufstand der Demokraten gegen eine systematisch korrupte, populistische und antieuropäische Regierung\" und als \"demokratisches Aufbruchsignal\" für Ungarn und Europa. Er betonte, dass Europa dieses Zeitfenster nutzen und Ungarn den Weg zurück in die konstruktive europäische Mitte erleichtern müsse, inklusive der Freigabe von EU-Mitteln bei gleichzeitigen Rechtsstaatsreformen.",
+      "source_title": "Hoffnung auf demokratischen Aufbruch in Europa | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/hoffnung-demokratischen-aufbruch-europa",
+      "platform": "Presse"
+    },
+    {
+      "name": "Agnieszka Brugger",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Janina Böttger",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

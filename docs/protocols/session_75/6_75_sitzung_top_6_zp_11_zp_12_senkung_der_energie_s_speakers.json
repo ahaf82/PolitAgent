@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte um die Senkung der Energiesteuern und Änderungen im Steuerberatungsrecht zeigt deutliche Fraktionsunterschiede, wobei die zeitliche Einordnung aufgrund der Quellenlage herausfordernd ist, aber auf eine Re-Evaluierung oder neue Gesetzgebung im Jahr 2026 hindeutet. Die SPD-Vertreter wie Michael Thews befürworten die Energiesteuersenkung und die Entlastungsprämie als gezielte Maßnahmen zur Inflationsdämpfung und Arbeitsplatzsicherung, während Andreas Audretsch von Bündnis 90/Die Grünen den 'Tankrabatt' scharf als 'Wahnsinn' kritisiert, der den Verbrauch fossiler Brennstoffe befeuere und das Geld primär den Ölkonzernen zugute komme. Kay Gottschalk von der AfD stimmt der Energiesteuersenkung zwar zu, bezeichnet sie aber als unzureichenden 'Tropfen auf den heißen Stein' und fordert dauerhafte Entlastungen sowie die Abschaffung der CO2-Bepreisung. Doris Achelwilm von Die Linke lehnt den 'Tankrabatt' als gescheiterte Maßnahme ab und plädiert für ein Energiekrisengeld und eine Übergewinnsteuer. Dr. Matthias Hiller (CDU/CSU) betont die schnelle und spürbare Entlastung durch die Energiesteuersenkung und die Bedeutung flankierender Maßnahmen im Kartellrecht, um die Weitergabe an die Verbraucher zu gewährleisten, sowie die Stärkung der Unabhängigkeit im Steuerberatungsrecht.",
+  "sources": [
+    {
+      "name": "Michael Thews",
+      "party": "SPD",
+      "found": false,
+      "statement": "Michael Thews befürwortet die Senkung der Energiesteuer um 17 Cent und die Entlastungsprämie als 'Hilfestellung genau an der richtigen Stelle', um Verbraucher gezielt zu entlasten, die Inflation zu dämpfen und Arbeitsplätze zu sichern. Er kritisiert den Vorschlag der Grünen zur Stromsteuersenkung als unfinanzierbar und betont stattdessen die Notwendigkeit, direkt bei den akuten Preisproblemen von Benzin und Diesel anzusetzen.",
+      "source_title": "Bundestag stimmt für Tankrabatt und Entlastungsprämie - mitmischen.de / Michael Thews (SPD) Rede zum Antrag der Grünen die Stromsteuer zu senken - YouTube",
+      "url": "N/A",
+      "platform": "Presse / Social Media"
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kay Gottschalk und die AfD-Fraktion stimmen der Senkung der Energiesteuer zwar 'schweren Herzens' zu, kritisieren sie aber als 'Tropfen auf den heißen Stein', der nur temporär wirke und nicht zu einer realen Entlastung führe. Er fordert stattdessen die Absenkung der Energiesteuer auf das europäische Minimum, die Abschaffung der CO2-Bepreisung und eine dauerhafte Erhöhung der Pendlerpauschale, da der Staat an der Tankstelle 'mehr als die Hälfte' kassiere.",
+      "source_title": "AfD-Fraktion stimmt Strom- und Energiesteuersenkungen zu / Fuel prices: Kay Gottschalk gives the Chancellor a piece of his mind! - YouTube",
+      "url": "https://www.youtube.com/watch?v=rmu0wWUEO3w",
+      "platform": "Presse / Social Media"
+    },
+    {
+      "name": "Dr. Matthias Hiller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Matthias Hiller befürwortet die Senkung der Energiesteuer und betont, dass die Regierung 'Handlungsfähigkeit' zeige und flankierende Maßnahmen im Kartellrecht ergreife, um die Weitergabe der Entlastung an die Verbraucher sicherzustellen. Hinsichtlich des Steuerberatungsrechts bekräftigt er die Notwendigkeit des Fremdbesitzverbots, um die Unabhängigkeit und Qualität des Berufsstands zu schützen.",
+      "source_title": "Steuerberatung bleibt unabhängig - CDU/CSU-Fraktion im Deutschen Bundestag / Debatte zu möglichen zusätzlichen Gewinnen von Mineralölkonzernen - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw16-de-aktuelle-stunde-mineraloelkonzerne-1165316",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Andreas Audretsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Andreas Audretsch kritisiert den 'Tankrabatt' als 'absurd' und einen 'Wahnsinn', da er den Verbrauch fossiler Brennstoffe befeuere und das Geld großteils an Öl- und Gaskonzerne fließe. Er fordert stattdessen alternative Entlastungen wie ein 9-Euro-Ticket, die Senkung der Stromsteuer für alle, eine Übergewinnsteuer für fossile Konzerne und eine Steuerreform, die kleine und mittlere Einkommen entlastet.",
+      "source_title": "The subsidy is \"thrown down the throats\" of corporations, according to Andreas Audretsch | ntv - YouTube / Grüne drängen auf Übergewinnsteuer und Entlastungen - EU-Schwerbehinderung",
+      "url": "https://www.eu-schwerbehinderung.eu/index.php/33-aktuelles/34065-gruene-draengen-auf-uebergewinnsteuer-und-entlastungen",
+      "platform": "Social Media / Presse"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Doris Achelwilm kritisiert den 'Tankrabatt' als 'gescheiterte Maßnahme', deren Entlastung größtenteils bei den Ölkonzernen landen werde. Sie fordert ein 'Energiekrisengeld von 150 Euro' für alle, die Wiedereinführung des 9-Euro-Tickets, die Streichung der Mehrwertsteuer auf Grundnahrungsmittel, einen bundesweiten Mietendeckel und die europaweite Abschöpfung von Übergewinnen.",
+      "source_title": "Tankrabatt und Co.: Das Entlastungspaket der GroKo ist keins - Fraktion Die Linke im Bundestag / Rede von Doris Achelwilm am 16.04.2026 - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

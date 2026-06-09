@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur Zukunft der Automobilindustrie spiegeln weitgehend ihre Debattenpositionen wider, ergänzen diese aber mit spezifischen Beispielen und stärkerer Gewichtung ihrer Hauptanliegen. Agnes Conrad (Die Linke) kritisiert die Kürzungen der Bundesregierung und fordert eine sozial gerechte Transformation mit starker Arbeitnehmerbeteiligung. Tilman Kuban (CDU/CSU) plädiert für Technologieoffenheit und einen langsameren, pragmatischeren Übergang zur Elektromobilität, um Arbeitsplätze zu sichern. Marc Bernhard (AfD) sieht die Ursachen für die Probleme der Industrie in staatlichen Verboten und fordert Deregulierung sowie Steuersenkungen. Dunja Kreiser (SPD) äußert sich zuversichtlich über die Transformationsfähigkeit der deutschen Automobilindustrie und hebt regionale Fortschritte hervor.",
+  "sources": [
+    {
+      "name": "Agnes Conrad",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Agnes Conrad kritisiert die Kürzungen der Bundesregierung bei Zukunftsinvestitionen in der Automobilindustrie und im Handwerk als \"fatales Signal\" und warnt vor Arbeitsplatzverlusten durch eine fehlgeleitete Politik. Sie betont, dass die Transformation sozial gerecht gestaltet werden muss und lehnt eine Aufweichung des Verbrenner-Aus auf EU-Ebene ab, um eine echte Klimapolitik zu gewährleisten.",
+      "source_title": "„Fatales Signal“: Agnes Conrad attackiert Bundesregierung wegen Kürzungen bei Autoindustrie und Handwerk",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tilman Kuban",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Tilman Kuban fordert mehr Zeit für die Umstellung auf Elektromobilität und warnt davor, die Wirtschaft zu überfordern, um Industriearbeitsplätze in Deutschland zu erhalten. Er sieht das batterieelektrische Auto als Zukunft, betont aber die Notwendigkeit von Technologieoffenheit und kritisiert das \"Verbrenner-Aus\" als zu abrupt.",
+      "source_title": "„Mehr Zeit für den Wandel“ – Kuban kritisiert Verbrenner-Aus und warnt vor Eile",
+      "url": "http://enbenews.de/2025/10/02/ueberschriftmehr-zeit-fuer-den-wandel-kuban-kritisiert-verbrenner-aus-und-warnt-vor-eile/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": true,
+      "statement": "Marc Bernhard macht das \"Verbrennerverbot\" und die \"arbeitsplatzfeindliche Politik\" der Regierung für die Rezession und den Abbau von Arbeitsplätzen in der Automobilindustrie verantwortlich. Er fordert die Abschaffung des Verbrennerverbots, eine massive Senkung von Steuern und Energiepreisen sowie die Rückkehr zur Kernkraft, da staatliche Planung und Subventionen dem deutschen Erfindergeist widersprechen.",
+      "source_title": "Bernhard: Neue CO2-Grenzwerte für Autos sind Todesstoß gegen unseren Wohlstand",
+      "url": "https://afdbundestag.de/bernhard-neue-co2-grenzwerte-fuer-autos-sind-todesstoss-gegen-unseren-wohlstand/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dunja Kreiser ist überzeugt, dass in Deutschland weiterhin Autos produziert werden und die Branche sich inmitten der Transformation befindet. Sie betont die Notwendigkeit, den Wandel aktiv mitzugestalten, und verweist auf Erfolge wie den Bau einer Batteriezellfertigungsanlage in ihrem Wahlkreis Salzgitter. Als stellvertretende wirtschaftspolitische Sprecherin ist sie für die Transformation der Automobilindustrie in der SPD-Bundestagsfraktion zuständig.",
+      "source_title": "Dunja Kreiser ist stellvertretende wirtschaftspolitische Sprecherin der SPD-Bundestagsfraktion",
+      "url": "https://www.dunja-kreiser.de/2025/06/04/dunja-kreiser-ist-stellvertretende-wirtschaftspolitische-sprecherin-der-spd-bundestagsfraktion/",
+      "platform": "Website"
+    }
+  ]
+}

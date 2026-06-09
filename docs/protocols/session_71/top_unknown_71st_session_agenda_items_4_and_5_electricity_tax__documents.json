@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5320",
+      "title": "Entwurf eines Gesetzes zur Änderung des Stromsteuergesetzes und weiterer Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5320&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5319",
+      "title": "Entwurf eines Gesetzes zur Änderung des Straßenverkehrsgesetzes (Tempolimit)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5319&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Gesetzentwürfe der Fraktion Bündnis 90/Die Grünen zur Änderung des Stromsteuergesetzes (Drucksache 21/5320) und zur Änderung des Straßenverkehrsgesetzes (Tempolimit, Drucksache 21/5319) wurden im Anschluss an die erste Lesung zur weiteren Beratung an die Ausschüsse überwiesen. Der Gesetzentwurf zum Stromsteuergesetz wurde federführend an den Finanzausschuss überwiesen, der zum Straßenverkehrsgesetz federführend an den Verkehrsausschuss.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

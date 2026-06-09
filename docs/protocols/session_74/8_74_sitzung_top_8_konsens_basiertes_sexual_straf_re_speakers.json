@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Debatte über das konsensbasierte Sexualstrafrecht spiegelt die kontroversen Positionen wider, die auch im Bundestag geäußert wurden. Befürworter aus den Reihen von Bündnis 90/Die Grünen und Die Linke betonen die Notwendigkeit eines Paradigmenwechsels zu 'Nur Ja heißt Ja', um Schutzlücken für Opfer in Schockstarre zu schließen und völkerrechtlichen Verpflichtungen nachzukommen. Sie kritisieren die bisherige Beweislastverteilung, die Frauen benachteiligt. Die CDU/CSU und AfD äußern weiterhin erhebliche Bedenken hinsichtlich der Rechtsunsicherheit, einer befürchteten Beweislastumkehr und der Vereinbarkeit mit rechtsstaatlichen Prinzipien. Sie sehen im geltenden Recht bereits ausreichende Schutzmechanismen und warnen vor einer Kriminalisierung menschlicher Fehlinterpretationen.",
+  "sources": [
+    {
+      "name": "Dr. Lena Gumnior",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Lena Gumnior ist eine der Hauptinitiatorinnen des Gesetzentwurfs für ein konsensbasiertes Sexualstrafrecht. Sie argumentiert, dass die aktuelle Gesetzgebung 'Nein heißt Nein' nicht ausreiche, da sie Opfer in Schockstarre nicht schütze und Deutschland damit völkerrechtlichen Verpflichtungen, insbesondere der Istanbul-Konvention, nicht gerecht werde. Sie fordert, dass 'Erlaubt ist nur, was beide wollen', und verweist auf 15 europäische Länder, die bereits ein solches Prinzip umgesetzt haben.",
+      "source_title": "Gesetzentwurf der Abgeordneten Dr. Lena Gumnior u.a. (Drucksache 21/5480) / Kein Sex ohne Konsens",
+      "url": "https://dserver.bundestag.de/btd/21/054/2105480.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Susanne Hierl mahnt zur Sorgfalt bei der Prüfung von Opferschutzvorschlägen und kritisiert den Gesetzentwurf als potenziell neue Unklarheiten schaffend. Sie vertritt die Ansicht, dass das bestehende Sexualstrafrecht (§177 StGB) bereits über die 'Nein heißt Nein'-Regel hinausgeht und auch Situationen der Schockstarre abdeckt.",
+      "source_title": "Kein Sex ohne Konsens - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Knuth Meyer-Soltau",
+      "party": "AfD",
+      "found": false,
+      "statement": "Knuth Meyer-Soltau bezeichnet den Gesetzentwurf als 'Frontalangriff auf die Grundprinzipien unseres Strafrechts' und kritisiert eine faktische Beweislastumkehr, die er für verfassungswidrig hält. Er hinterfragt die praktische Nachweisbarkeit nonverbaler Zustimmung und warnt davor, menschliche Missverständnisse zu kriminalisieren.",
+      "source_title": "Kein Sex ohne Konsens - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Johannes Fechner",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Kathrin Gebel",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kathrin Gebel fordert entschieden das 'Nur Ja heißt Ja'-Prinzip, da die derzeitige Gesetzeslage Frauen die Beweislast aufbürde und Situationen wie Schockstarre nicht ausreichend berücksichtige. Sie betont, dass niemand Anspruch auf den Körper eines anderen Menschen habe und Sex immer Zustimmung erfordere, und kritisiert die niedrigen Verurteilungsraten.",
+      "source_title": "Kein Sex ohne Konsens - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

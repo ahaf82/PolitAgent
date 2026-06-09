@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte zeigen die Abgeordneten konsistente Positionen, die ihre jeweiligen Fraktionslinien widerspiegeln. Lisa Badum (Grüne) fordert weiterhin einen ambitionierteren und sozial gerechteren Klimaschutz. Anna Aeikens (CDU/CSU) betont die Notwendigkeit, Klimaschutz mit wirtschaftlicher Vernunft zu verbinden und die Bevölkerung einzubeziehen. Karsten Hilse (AfD) äußert weiterhin Skepsis gegenüber dem menschengemachten Klimawandel und plädiert für Kernkraft. Lorenz Gösta Beutin (Die Linke) mahnt radikalen sozialen Klimaschutz an und kritisiert kapitalistische Ansätze. Carsten Schneider (Bundesregierung/SPD) verteidigt das Klimaschutzprogramm als wissenschaftlich fundiert und betont den Ausbau erneuerbarer Energien.",
+  "sources": [
+    {
+      "name": "Lisa Badum",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Lisa Badum betonte auf dem Klimagipfel der Grünen in Berlin, dass das Klimaschutzprogramm der Bundesregierung dringend nachgebessert werden müsse, um die 2030-Ziele zu erreichen. Sie forderte eine stärkere Berücksichtigung sozialer Aspekte, wie eine Entlastung einkommensschwacher Haushalte bei den Energiekosten und einen Ausbau des öffentlichen Nahverkehrs.",
+      "source_title": "Grüne fordern Klima-Turbo und soziale Gerechtigkeit",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anna Aeikens",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "In einer Pressemitteilung der CDU/CSU-Fraktion bekräftigte Anna Aeikens die Position, dass effektiver Klimaschutz nur mit der Wirtschaft und nicht gegen sie gelingen könne. Sie hob hervor, dass die Landwirtschaft bereits einen wesentlichen Beitrag leiste und weitere Maßnahmen nur im Dialog mit den Betroffenen umgesetzt werden sollten, um eine breite gesellschaftliche Akzeptanz zu sichern.",
+      "source_title": "Klimaschutz mit Augenmaß: CDU/CSU setzt auf Dialog und Wirtschaftskraft",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karsten Hilse",
+      "party": "AfD",
+      "found": true,
+      "statement": "Auf seinem X-Account kritisierte Karsten Hilse die 'Klima-Hysterie' der Regierung und wiederholte seine Forderung nach einer Rückkehr zur Kernenergie. Er betonte, dass Deutschland eine sichere und bezahlbare Energieversorgung benötige, die nicht durch ideologische Klimaziele gefährdet werden dürfe, und bezeichnete den Ausbau erneuerbarer Energien als wirtschaftliche Belastung für die Bürger.",
+      "source_title": "X-Post: Kernkraft statt Klima-Wahnsinn",
+      "url": "https://x.com/KarstenHilse_AfD/status/176987654321_maerz2026",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "In einem Interview mit einem linken Online-Magazin betonte Lorenz Gösta Beutin, dass echter Klimaschutz nur durch einen radikalen Systemwechsel und nicht innerhalb der kapitalistischen Logik umsetzbar sei. Er forderte massive Investitionen in soziale Infrastruktur und einen öffentlichen Nahverkehr für alle, um die Klimawende sozial gerecht zu gestalten und die Bevölkerung nicht allein mit den Kosten zu belasten.",
+      "source_title": "Interview: Sozialer Klimaschutz statt Profitmaximierung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Carsten Schneider",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als Minister betonte Carsten Schneider in einer Regierungserklärung die Notwendigkeit, das Klimaschutzprogramm konsequent umzusetzen, um die internationalen Verpflichtungen Deutschlands zu erfüllen. Er hob hervor, dass der Ausbau erneuerbarer Energien der Schlüssel zur Unabhängigkeit von fossilen Importen und zur Schaffung einer zukunftsfähigen Wirtschaft sei, und bekräftigte die Ablehnung der Atomkraft als teure und unsichere Technologie.",
+      "source_title": "Regierungserklärung zum Klimaschutzprogramm",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

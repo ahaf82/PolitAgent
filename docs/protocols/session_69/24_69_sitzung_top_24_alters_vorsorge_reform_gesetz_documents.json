@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4088",
+      "title": "Entwurf eines Gesetzes zur Reform der steuerlich geförderten privaten Altersvorsorge (Altersvorsorgereformgesetz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4088&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4996",
+      "title": "Beschlussempfehlung und Bericht des Finanzausschusses zum Gesetzentwurf der Bundesregierung zur Reform der steuerlich geförderten privaten Altersvorsorge (Altersvorsorgereformgesetz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4996&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4997",
+      "title": "Bericht des Haushaltsausschusses gemäß § 96 der Geschäftsordnung des Deutschen Bundestages zur Finanzierbarkeit des Gesetzentwurfs der Bundesregierung zur Reform der steuerlich geförderten privaten Altersvorsorge (Altersvorsorgereformgesetz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4997&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/2830",
+      "title": "Antrag der Abgeordneten Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof, weiterer Abgeordneter und der Fraktion der AfD – Private Altersvorsorge modernisieren – ETF-Sparplan für die Rente ermöglichen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2830&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3617",
+      "title": "Antrag der Abgeordneten Stefan Schmidt, Katharina Beck, Dr. Armin Grau, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN – Ein Bürgerfonds für eine bessere ergänzende Altersvorsorge – Einfach, sicher, renditestark",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3617&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung zur Reform der steuerlich geförderten privaten Altersvorsorge (Altersvorsorgereformgesetz, Drucksache 21/4088) wurde in der zweiten und dritten Beratung am 27. März 2026 im Deutschen Bundestag mit den Stimmen der Koalitionsfraktionen CDU/CSU und SPD angenommen. Die Fraktion Die Linke stimmte dagegen, während sich die Fraktionen AfD und Bündnis 90/Die Grünen enthielten. Die gleichzeitig debattierten Anträge der AfD (Drucksache 21/2830) und Bündnis 90/Die Grünen (Drucksache 21/3617) wurden mehrheitlich abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

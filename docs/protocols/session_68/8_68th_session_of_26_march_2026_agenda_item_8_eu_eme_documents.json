@@ -1,0 +1,71 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3204",
+      "title": "Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/2748 zu Notfallverfahren aufgrund eines Binnenmarkt-Notfalls bei Gasgeräten und PSA",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3204&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4981",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales zu dem Gesetzentwurf der Bundesregierung zur Durchführung der Verordnung (EU) 2024/2748 zu Notfallverfahren aufgrund eines Binnenmarkt-Notfalls bei Gasgeräten und PSA",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4981&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag stimmte dem Gesetzentwurf zur Durchführung der EU-Verordnung 2024/2748 zu Notfallverfahren bei Gasgeräten und persönlicher Schutzausrüstung, einschließlich der damit verbundenen Änderung des Siebten Buches Sozialgesetzbuch zur Anhebung des Schwellenwerts für Sicherheitsbeauftragte, zu.",
+    "official_voting_url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=804",
+    "overall_result": {
+      "ja": 430,
+      "nein": 132,
+      "enthaltung": 0,
+      "nicht_abgegeben": 67
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 110,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 191,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 17
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 76,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "AfD",
+        "ja": 128,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 22
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 55,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 1,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

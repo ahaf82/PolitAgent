@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zur letztmaligen Verlängerung des UNIFIL-Mandats im Bundestag spiegelte unterschiedliche Positionen wider, die sich auch in den externen Äußerungen der Abgeordneten wiederfanden. Während Verteidigungsminister Boris Pistorius (SPD) den geordneten Abschluss der Mission als pragmatische Reaktion auf eine UN-Entscheidung darstellte und Deutschlands fortgesetztes Engagement im Libanon betonte, sah Sara Nanni (Bündnis 90/Die Grünen) das Ende der Mission als politisches Versagen und bedauerte die mangelnde Fortsetzung angesichts der regionalen Instabilität. Gerald Otten (AfD) begrüßte die Beendigung als längst überfällig und kritisierte die Ineffizienz des Einsatzes, forderte jedoch eine Nachfolgemission. Cansu Özdemir (Die Linke) lehnte militärische Mandate grundsätzlich ab und forderte stattdessen eine Stärkung der Diplomatie und zivilgesellschaftlicher Kräfte. Kerstin Vieregge (CDU/CSU) bewertete das Ende als geordneten Abschluss und hob die Erfolge der libanesischen Marineausbildung hervor, ohne separate externe Stellungnahmen zum spezifischen Thema zu veröffentlichen.",
+  "sources": [
+    {
+      "name": "Boris Pistorius",
+      "party": "SPD",
+      "found": false,
+      "statement": "Verteidigungsminister Pistorius betonte, dass der operative Auftrag der Bundeswehr bei UNIFIL bis Ende 2026 beendet wird und würdigte dabei die Leistungen der Soldatinnen und Soldaten. Er unterstrich die Bedeutung des deutschen Engagements für die Stabilisierung des Libanon und die Sicherung strategisch wichtiger Seewege auch nach UNIFIL. Frühere Aussagen zeigten jedoch, dass er im Oktober 2023 noch vor einem Abzug der UNIFIL-Mission gewarnt hatte, was einen Richtungswechsel in der Positionierung durch die UN-Entscheidung widerspiegelt.",
+      "source_title": "Missionsende: Pistorius würdigt im Bundestag Beitrag der Bundeswehr zu UNIFIL / Pistorius: Für Libanon auch künftig engagiert bleiben / German defense minister from Lebanon: Withdrawing UNIFIL would send wrong signal",
+      "url": "N/A",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Gerald Otten",
+      "party": "AfD",
+      "found": true,
+      "statement": "Gerald Otten begrüßte die von der UN beschlossene Beendigung der UNIFIL-Mission als längst überfällig und konsequent angesichts der mangelnden Effizienz des Einsatzes. Er unterstützte die Mandatsverlängerung lediglich, da diese den geordneten Abzug der Streitkräfte ermögliche. Die AfD forderte eine Nachfolgemission ab 2027, die den Libanon befähigen soll, das staatliche Gewaltmonopol gegen die Hisbollah durchzusetzen, unter Voraussetzung völkerrechtlich bindender Sicherheitsgarantien.",
+      "source_title": "AfD-Fraktion unterstützt Mandat zum UNIFIL-Abzug / Gerold Otten zu UNIFIL: Es geschieht nichts!",
+      "url": "https://afdbundestag.de/afd-fraktion-unterstuetzt-mandat-zum-unifil-abzug/,%20https://www.youtube.com/watch?v=sS_j31lY1K0",
+      "platform": "Website / Social Media"
+    },
+    {
+      "name": "Sara Nanni",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sara Nanni äußerte ihr Bedauern über das Ende der UNIFIL-Mission, die sie als sicherheitspolitische Sprecherin als wichtigen Baustein für Frieden und Sicherheit in der Region ansah. Sie kritisierte, dass das Mandat aus politischen Gründen und nicht wegen eines Erfolgs beendet werde, was ihrer Meinung nach ein großer Fehler sei und zu weiterer Destabilisierung führen könnte. Zuvor hatte sie sich generell für die Stärkung internationaler Friedensmissionen, einschließlich UNIFIL, ausgesprochen.",
+      "source_title": "Bundeswehreinsatz in Libanon (UNIFIL) / United Nations Peacekeeping Ministerial 2025: Die Bundesregierung muss internationale Friedensmissionen stärken / Sara Nanni, MdB: Herzlich Willkommen auf meiner Homepage!",
+      "url": "N/A",
+      "platform": "Website / Presse"
+    },
+    {
+      "name": "Cansu Özdemir",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Cansu Özdemir, als außenpolitische Sprecherin der Linksfraktion, sprach sich gegen den UNIFIL-Einsatz aus, den sie als Symbolpolitik ohne nachweisbare Sicherheitsverbesserungen im Libanon bezeichnete. Sie forderte die Beendigung militärischer Mandate zugunsten von Diplomatie und der Unterstützung zivilgesellschaftlicher Kräfte. Ihre Position beinhaltet auch eine kritische Haltung gegenüber Waffenlieferungen in Konfliktregionen.",
+      "source_title": "UNIFIL-Einsatz beenden und Zivilgesellschaft stärken! / Wie stehen Sie zu Waffenlieferungen nach Israel?",
+      "url": "N/A",
+      "platform": "Website / Abgeordnetenwatch"
+    },
+    {
+      "name": "Kerstin Vieregge",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6048",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) zu dem Gesetzentwurf der Bundesregierung – Drucksachen 21/5441, 21/5868 – Entwurf eines Gesetzes zur Förderung und Modernisierung des Anwaltsnotariats.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6048&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6050",
+      "title": "Entschließungsantrag der Fraktion der AfD zu dem Gesetzentwurf der Bundesregierung - Drucksachen 21/5441, 21/5868 - Entwurf eines Gesetzes zur Förderung und Modernisierung des Anwaltsnotariats.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6050&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Förderung und Modernisierung des Anwaltsnotariats wurde in der Schlussabstimmung angenommen. Der Entschließungsantrag der Fraktion der AfD wurde abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

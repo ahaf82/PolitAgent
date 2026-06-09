@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur Debatte um die Senkung der Energiesteuer im Frühjahr 2026 zeigen eine deutliche Polarisierung. Vertreter der Koalition aus SPD und CDU/CSU befürworteten den temporären Tankrabatt als schnelle und zielgerichtete Entlastungsmaßnahme, betonten aber auch die Notwendigkeit einer verschärften Kartellrechtskontrolle und die Prüfung einer Übergewinnsteuer. Die Opposition von Bündnis 90/Die Grünen und Die Linke lehnte den Tankrabatt als ineffektiv und konzernfreundlich ab, forderte stattdessen direkte Bürgerhilfen wie ein Klimageld oder Energiekrisengeld sowie eine Übergewinnsteuer. Die AfD kritisierte die Maßnahme als unzureichend und forderte dauerhafte Steuersenkungen und die Abschaffung der CO2-Steuer, sprach sich jedoch gegen eine Übergewinnsteuer aus. Insgesamt spiegeln die Reaktionen die unterschiedlichen ideologischen Ansätze der Parteien zur Bewältigung der Energiekrise wider.",
+  "sources": [
+    {
+      "name": "Dr. Wiebke Esdar",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Wiebke Esdar verteidigte den Tankrabatt als schnelle und unbürokratische Maßnahme zur Entlastung der Bürger, die von den hohen Spritpreisen betroffen sind. Sie betonte die Notwendigkeit, das Kartellrecht zu verschärfen, um sicherzustellen, dass die Entlastung bei den Verbrauchern ankommt, und forderte zudem die Prüfung einer nationalstaatlichen Übergewinnsteuer für Unternehmen, die in der Krise Zusatzgewinne erzielen.",
+      "source_title": "Schnelle Entlastung und klare Regeln gegen Abzocke",
+      "url": "https://spdfraktion.de/presse/pressemitteilungen/schnelle-entlastung-und-klare-regeln-gegen-abzocke",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kay Gottschalk kritisierte die Energiesteuersenkung als zu spät, zu wenig und nicht dauerhaft. Er forderte stattdessen die Abschaffung der CO2-Steuer, eine dauerhafte Senkung der Energie- und Mehrwertsteuer sowie eine Erhöhung der Pendlerpauschale. Er lehnte eine Übergewinnsteuer als 'wirtschaftspolitisch falsches Signal' ab, da sie vor allem den Mittelstand treffen würde, stimmte dem temporären Tankrabatt der Koalition jedoch 'schweren Herzens' zu, da jede Entlastung gut sei.",
+      "source_title": "Kay Gottschalk: Zu spät, zu wenig: Bundesregierung bleibt echte Entlastung schuldig!",
+      "url": "https://www.afd.de/kay-gottschalk-zu-spaet-zu-wenig-bundesregierung-bleibt-echte-entlastung-schuldig/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Mathias Middelberg",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Mathias Middelberg unterstützte den Tankrabatt als zielgerichtetes Entlastungssignal für Pendler und das Transportgewerbe, das schnell und spürbar ankommen werde. Er hob die Bedeutung der Beweislastumkehr im Kartellrecht hervor, um die Weitergabe der Entlastung durch die Mineralölkonzerne zu gewährleisten. Er betonte, dass der Staat nicht alle Risiken abfedern könne und es sich um eine Akutmaßnahme handele, kein Heilmittel.",
+      "source_title": "Mineralölsteuer: Grüne und Linke sehen keine Wirksamkeit im Tankrabatt-Entwurf",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katharina Dröge",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Katharina Dröge kritisierte den Tankrabatt als 'Schnapsidee', die die Marktmacht der Mineralölkonzerne stärke und die Entlastung nicht vollständig bei den Verbrauchern ankommen lasse. Sie forderte stattdessen direkte Auszahlungen an Bürger in Form eines Energiekrisengeldes/Klimageldes, eine Absenkung der Stromsteuer sowie Energiesparmaßnahmen wie ein Tempolimit. Zudem befürwortete sie die Einführung einer Übergewinnsteuer.",
+      "source_title": "Mit 35 Milliarden Euro entschlossen aus der Krise: Ein Krisenaktionsplan für spürbare Entlastung und langfristige Resilienz",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Heidi Reichinnek",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Heidi Reichinnek bezeichnete die Maßnahmen der Regierung als 'grottenschlecht' und 'Arbeitsverweigerung', da die Senkung von 17 Cent viel zu gering sei, um die hohen Spritpreise effektiv zu mildern. Sie forderte eine sofortige Übergewinnsteuer für Mineralölkonzerne, ein sozial gerechtes Energiekrisengeld, die Wiedereinführung des 9-Euro-Tickets und die Senkung der Mehrwertsteuer auf Grundnahrungsmittel.",
+      "source_title": "Reichinnek fordert Übergewinnsteuer und kritisiert Tankrabatt",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Schrodi",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Parlamentarischer Staatssekretär im Bundesfinanzministerium präsentierte Michael Schrodi den Gesetzentwurf zur Energiesteuersenkung als eine wichtige, notwendige und inflationsdämpfende Maßnahme zur Reaktion auf die Energiekrise. Er betonte die Bedeutung der Verschärfung des Kartellrechts und die Prüfung einer EU-Energiekrisenabgabe. Langfristig sprach er sich für den beschleunigten Ausbau erneuerbarer Energien zur Reduzierung von Abhängigkeiten aus.",
+      "source_title": "Preisspirale an der Zapfsäule stoppen!",
+      "url": "https://michael-schrodi.de/preisspirale-an-der-zapfsaeule-stoppen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Iris Nieland",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

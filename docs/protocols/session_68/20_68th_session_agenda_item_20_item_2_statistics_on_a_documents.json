@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4940",
+      "title": "Gewalt und andere Formen schwerwiegender Übergriffe an Schulen systematisch erfassen, untersuchen und durch geeignete Maßnahmen verhindern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4940&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4941",
+      "title": "Schutz von Kindern und Jugendlichen vor religiösem Zwang, Mobbing und gruppendynamischem Druck stärken – Auch Konversionsdruck wirksam begegnen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4941&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/766",
+      "title": "Kleine Anfrage der Fraktion der AfD. Gewalt an Schulen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F766&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/904",
+      "title": "Antwort der Bundesregierung auf die Kleine Anfrage der Abgeordneten Birgit Bessin, Martin Reichardt, Sebastian Maack, weiterer Abgeordneter und der Fraktion der AfD – Drucksache 21/766 – Gewalt an Schulen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F904&rows=25",
+      "type": "Antwort"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die beiden Anträge der AfD-Fraktion (Drucksachen 21/4940 und 21/4941) wurden nach der Debatte vom Bundestag zur weiteren federführenden Beratung an die Ausschüsse überwiesen. Der Antrag 21/4940 wurde an den Innenausschuss und der Antrag 21/4941 an den Bildungsausschuss überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

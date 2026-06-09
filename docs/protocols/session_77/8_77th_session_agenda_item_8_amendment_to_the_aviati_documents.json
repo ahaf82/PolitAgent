@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "N/A",
+      "title": "Gesetzentwurf der Bundesregierung zur Änderung des Luftverkehrsteuergesetzes",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Änderung des Luftverkehrsteuergesetzes wurde in erster Lesung im Bundestag debattiert und voraussichtlich zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

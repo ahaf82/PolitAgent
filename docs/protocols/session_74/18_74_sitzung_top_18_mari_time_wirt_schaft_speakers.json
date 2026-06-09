@@ -1,0 +1,41 @@
+{
+  "synthesis": "Außerhalb des Bundestages unterstreichen die Abgeordneten ihre Positionen zur Stärkung der maritimen Wirtschaft, wobei der Fokus auf nationaler Sicherheit, Infrastrukturinvestitionen und internationaler Wettbewerbsfähigkeit liegt. Vanessa Zobel (CDU/CSU) fordert massive Bundesinvestitionen in Häfen und betont deren sicherheitspolitische Bedeutung. Leif-Erik Holm (AfD) kritisiert mangelnde Investitionen in Häfen und deutsche Wettbewerbsnachteile, während er Steuersenkungen und Bürokratieabbau fordert. Dunja Kreiser (SPD) äußert sich besorgt über die Verlagerung des Schiffbaus nach China und plädiert für eine europäische Industriepolitik. Claudia Müller (Bündnis 90/Die Grünen) hebt als Koordinatorin für maritime Wirtschaft die Notwendigkeit von emissionsarmen Transportwegen und die Stärkung des Schiffbaus durch innovative Produktion und Klimaschutz hervor.",
+  "sources": [
+    {
+      "name": "Vanessa Zobel",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Vanessa Zobel setzt sich als Berichterstatterin für maritime Wirtschaft und stellvertretende Vorsitzende des Arbeitskreises Küste in der CDU/CSU-Bundestagsfraktion aktiv für die Stärkung der deutschen Häfen ein. Sie begrüßte die Bereitstellung von 1,35 Milliarden Euro für den Hafen Bremerhaven als Schlüsselstandort für militärische und wirtschaftliche Sicherheit und fordert eine bundesweite Hafen-Offensive mit 15 Milliarden Euro für die Modernisierung der Seehäfen.",
+      "source_title": "1,35 Milliarden Euro für Bremerhaven: Vanessa Zobel macht Druck für bundesweite Hafen-Offensive",
+      "url": "https://www.vanessazobel-mdb.de/2025/11/14/135-milliarden-euro-fuer-bremerhaven-vanessa-zobel-macht-druck-fuer-bundesweite-hafen-offensive/",
+      "platform": "Website"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm kritisiert, dass das Sondervermögen für Infrastruktur und Klimaschutz nicht bei den Seehäfen ankomme und Deutschland im internationalen Vergleich, beispielsweise zu Polen, abgehängt werde. Er fordert zur Stärkung der maritimen Wirtschaft Steuersenkungen, bezahlbare Energie und Bürokratieabbau.",
+      "source_title": "Leif-Erik Holm zur Maritimen Wirtschaft!",
+      "url": "https://www.youtube.com/watch?v=cY2x1-UcW00&t=354s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dunja Kreiser betont die Stärke der maritimen Industrie, äußert jedoch Bedenken über die zunehmende Verlagerung von Schiffbauaufträgen nach China. Sie fordert eine europäische Antwort auf Chinas strategische Industriepolitik, um wettbewerbsfähige Bedingungen zu schaffen und den Schiffbau stärker in EU-Instrumente zu integrieren.",
+      "source_title": "Bundestag will Deutschlands maritime Wirtschaft stärken",
+      "url": "https://www.bundestag.de/services/soziale_medien/instagram_praesidentin/1-bas-sternenkinder-991732",
+      "platform": "Presse"
+    },
+    {
+      "name": "Claudia Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Claudia Müller, als Koordinatorin der Bundesregierung für maritime Wirtschaft und Tourismus, legt den Fokus auf emissionsarmen Transport, umweltfreundliche Schifffahrt und innovative Produktion im Schiffbau, um Know-how und Arbeitsplätze in der Region zu erhalten. Sie hebt die Bedeutung von Planungssicherheit und Klimaschutz für die Stärkung der maritimen Wirtschaft hervor.",
+      "source_title": "Nationale Maritime Konferenz: Mit Planungssicherheit und Klimaschutz unsere Maritime Wirtschaft stärken",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

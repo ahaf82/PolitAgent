@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur Reform der Einbürgerungspolitik spiegeln die parteiübergreifenden Positionen wider. Dr. Gottfried Curio (AfD) lehnt die Einbürgerungserleichterungen vehement ab, sieht sie als schädlich für Deutschland und fordert eine Rückkehr zu strengeren Regeln mit längeren Fristen und ohne Mehrstaatigkeit. Hakan Demir (SPD) verteidigt die Reform als einen historischen Fortschritt und einen guten Kompromiss, bekräftigt das Festhalten an der Fünf-Jahres-Frist und der Mehrstaatigkeit, räumt aber ein, dass die Abschaffung der 'Turboeinbürgerung' ein politischer Kompromiss war. Filiz Polat (Bündnis 90/Die Grünen) befürwortet die Reform als entscheidenden Schritt zur Stärkung der Demokratie und zur Bindung von Fachkräften, warnt jedoch vor Versuchen, das Staatsangehörigkeitsrecht parteipolitisch zu instrumentalisieren. Ferat Koçak (Die Linke) kritisiert, dass die Reform nicht weit genug geht, und fordert eine umfassendere Einbürgerungspolitik, die allen hier lebenden Menschen gleiche Rechte und die Staatsbürgerschaft unabhängig vom Einkommen ermöglicht.",
+  "sources": [
+    {
+      "name": "David Gregosz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Gottfried Curio äußerte, dass Einbürgerungserleichterungen nicht im Interesse Deutschlands seien und dass die Regierung mit solchen Maßnahmen weitere 'Pull-Signale' sende. Er forderte die Rückkehr zu einem Einbürgerungsrecht, das erst nach acht Jahren einen Pass ermöglicht und die Mehrstaatigkeit ablehnt, da das aktuelle Gesetz den Weg in eine 'Multiminoritätengesellschaft' fördere. Er kritisierte zudem die Union für parteitaktische Manöver und warnte vor einer 'Verschleuderung' der Staatsangehörigkeit, die Integration nicht fördere und sogar Abschiebungen von Islamisten erschweren könne.",
+      "source_title": "Einbürgerungserleichterungen nicht im Interesse der Deutschen",
+      "url": "https://afdbundestag.de/gottfried-curio-einbuergerungserleichterungen-nicht-im-interesse-der-deutschen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "found": false,
+      "statement": "Hakan Demir betonte, dass es mit der SPD keine Rückschritte beim Staatsangehörigkeitsgesetz geben werde und die Mehrstaatigkeit zu einem modernen Land gehöre. Er verteidigte die Einbürgerungsreform von 2024, die eine Einbürgerung nach fünf Jahren ermöglicht, als einen 'historischen Kompromiss' mit ausgewogenen Anforderungen. Obwohl die Abschaffung der 'Turboeinbürgerung' nach drei Jahren ein politischer Kompromiss sei, den er mittrage, blieben die anderen Fortschritte wie die Mehrstaatigkeit bestehen, und er sehe es als seine Aufgabe, die Reform öffentlich zu erklären und zu bewerben.",
+      "source_title": "Anfrage bezüglich der Möglichkeit einer Änderung des Einbürgerungsgesetzes oder der Einführung strengerer Voraussetzungen | Frage an Hakan Demir (SPD)",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Filiz Polat",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Filiz Polat bezeichnete die Reform des Staatsangehörigkeitsrechts von 2024, die verkürzte Fristen und Mehrstaatigkeit ermöglicht, als eine 'Erfolgsgeschichte' und einen wichtigen Beitrag zur Stärkung der Demokratie. Sie betonte, dass die Staatsbürgerschaft nicht nur ein Verwaltungsakt, sondern Ausdruck von Zugehörigkeit und Identität sei und warnte davor, die Einbürgerungspolitik zum Gegenstand parteipolitischer Verhandlungen zu machen, da dies Verunsicherung schüre und Rechtsextremen in die Hände spiele. Sie kritisierte auch frühere Versuche der Großen Koalition, ein 'Leitkultur'-Prinzip zu verankern, als rückwärtsgewandt und schädlich für die Integration.",
+      "source_title": "Polat: Reform des Staatsangehörigkeitsrechts von 2024 ist Erfolgsgeschichte",
+      "url": "https://www.filiz-polat.de/presse/polat-reform-des-staatsangehoerigkeitsrechts-von-2024-ist-erfolgsgeschichte/",
+      "platform": "Website"
+    },
+    {
+      "name": "Ferat Koçak",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ferat Koçak kritisierte, dass die Reform des Staatsangehörigkeitsrechts der Ampel-Koalition nicht weit genug gegangen sei. Er forderte die deutsche Staatsangehörigkeit für alle, die in Deutschland geboren werden oder seit fünf Jahren hier leben, und zwar unabhängig von deren Einkommen. Darüber hinaus sprach er sich für ein Wahlrecht für alle Menschen aus, die ihren Lebensmittelpunkt in Deutschland haben. Seine Fraktion brachte einen entsprechenden Antrag in den Bundestag ein, um Einbürgerungen einkommensunabhängig zu ermöglichen.",
+      "source_title": "Viel Kritik an AfD-Vorstoß zu Einbürgerungen - Das Parlament",
+      "url": "https://www.das-parlament.de/inland/innenpolitik/viel-kritik-an-afd-vorstoss-zu-einbuergerungen",
+      "platform": "Presse"
+    }
+  ]
+}

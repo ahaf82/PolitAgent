@@ -490,7 +490,8 @@
     "summary_path": "protocols/session_68/9_jahresbericht_2025_des_wehrbeauftragten.md",
     "youtube_url": "https://www.youtube.com/watch?v=-RYhxp85a24",
     "processed_at": "2026-06-04T23:53:31.799344",
-    "speakers_path": "protocols/session_68/9_jahresbericht_2025_des_wehrbeauftragten_speakers.json"
+    "speakers_path": "protocols/session_68/9_jahresbericht_2025_des_wehrbeauftragten_speakers.json",
+    "documents_path": "protocols/session_68/9_jahresbericht_2025_des_wehrbeauftragten_documents.json"
   },
   {
     "id": "8OSziZu0Juo",
@@ -658,7 +659,8 @@
     "summary_path": "protocols/session_65/6_vereinbarte_debatte_zum_internationalen_frauentag.md",
     "youtube_url": "https://www.youtube.com/watch?v=jIGYAP_6Tpc",
     "processed_at": "2026-06-04T08:04:50.270408",
-    "speakers_path": "protocols/session_65/6_vereinbarte_debatte_zum_internationalen_frauentag_speakers.json"
+    "speakers_path": "protocols/session_65/6_vereinbarte_debatte_zum_internationalen_frauentag_speakers.json",
+    "documents_path": "protocols/session_65/6_vereinbarte_debatte_zum_internationalen_frauentag_documents.json"
   },
   {
     "id": "MOF5PaOhCwg",
@@ -826,7 +828,8 @@
     "summary_path": "protocols/session_62/6_umgestaltung_der_grundsicherung_sgb_ii.md",
     "youtube_url": "https://www.youtube.com/watch?v=VIXUtMDJV8s",
     "processed_at": "2026-06-03T21:46:02.764857",
-    "documents_path": "protocols/session_62/6_umgestaltung_der_grundsicherung_sgb_ii_documents.json"
+    "documents_path": "protocols/session_62/6_umgestaltung_der_grundsicherung_sgb_ii_documents.json",
+    "speakers_path": "protocols/session_62/6_umgestaltung_der_grundsicherung_sgb_ii_speakers.json"
   },
   {
     "id": "rKhfF_8gY8k",
@@ -903,7 +906,8 @@
     "summary_path": "protocols/session_62/12_kernenergie.md",
     "youtube_url": "https://www.youtube.com/watch?v=6uDPmwxK4gA",
     "processed_at": "2026-06-03T21:52:15.656031",
-    "speakers_path": "protocols/session_62/12_kernenergie_speakers.json"
+    "speakers_path": "protocols/session_62/12_kernenergie_speakers.json",
+    "documents_path": "protocols/session_62/12_kernenergie_documents.json"
   },
   {
     "id": "DafT7ZlKYok",
@@ -1006,7 +1010,8 @@
     "summary_path": "protocols/session_80/26_80th_session_of_05_21_2026_agenda_item_26_bundeswe.md",
     "youtube_url": "https://www.youtube.com/watch?v=Xi0fv75oYrQ",
     "processed_at": "2026-06-02T09:52:07.271280",
-    "documents_path": "protocols/session_80/26_80th_session_of_05_21_2026_agenda_item_26_bundeswe_documents.json"
+    "documents_path": "protocols/session_80/26_80th_session_of_05_21_2026_agenda_item_26_bundeswe_documents.json",
+    "speakers_path": "protocols/session_80/26_80th_session_of_05_21_2026_agenda_item_26_bundeswe_speakers.json"
   },
   {
     "id": "g1VIOsQrEUg",
@@ -1018,7 +1023,8 @@
     "summary_path": "protocols/session_80/24_80th_session_of_05_21_2026_agenda_item_24_sports_p.md",
     "youtube_url": "https://www.youtube.com/watch?v=g1VIOsQrEUg",
     "processed_at": "2026-06-05T15:40:35.124388",
-    "documents_path": "protocols/session_80/24_80th_session_of_05_21_2026_agenda_item_24_sports_p_documents.json"
+    "documents_path": "protocols/session_80/24_80th_session_of_05_21_2026_agenda_item_24_sports_p_documents.json",
+    "speakers_path": "protocols/session_80/24_80th_session_of_05_21_2026_agenda_item_24_sports_p_speakers.json"
   },
   {
     "id": "CsRKCnH_VXw",
@@ -1068,7 +1074,8 @@
     "summary_path": "protocols/session_80/11_80th_session_of_05_21_2026_agenda_item_11_abolitio.md",
     "youtube_url": "https://www.youtube.com/watch?v=6XsGOqk-aiM",
     "processed_at": "2026-06-02T09:50:29.244323",
-    "speakers_path": "protocols/session_80/11_80th_session_of_05_21_2026_agenda_item_11_abolitio_speakers.json"
+    "speakers_path": "protocols/session_80/11_80th_session_of_05_21_2026_agenda_item_11_abolitio_speakers.json",
+    "documents_path": "protocols/session_80/11_80th_session_of_05_21_2026_agenda_item_11_abolitio_documents.json"
   },
   {
     "id": "7LvA7cDeX44",
@@ -1080,7 +1087,8 @@
     "summary_path": "protocols/session_80/10_80th_session_of_05_21_2026_agenda_item_10_promotio.md",
     "youtube_url": "https://www.youtube.com/watch?v=7LvA7cDeX44",
     "processed_at": "2026-06-02T09:49:31.185527",
-    "speakers_path": "protocols/session_80/10_80th_session_of_05_21_2026_agenda_item_10_promotio_speakers.json"
+    "speakers_path": "protocols/session_80/10_80th_session_of_05_21_2026_agenda_item_10_promotio_speakers.json",
+    "documents_path": "protocols/session_80/10_80th_session_of_05_21_2026_agenda_item_10_promotio_documents.json"
   },
   {
     "id": "RfX6SkTe9Ok",
@@ -1092,7 +1100,8 @@
     "summary_path": "protocols/session_80/ai_80th_session_of_05_21_2026_agenda_item_ai_4_curren.md",
     "youtube_url": "https://www.youtube.com/watch?v=RfX6SkTe9Ok",
     "processed_at": "2026-06-02T09:48:44.146708",
-    "speakers_path": "protocols/session_80/ai_80th_session_of_05_21_2026_agenda_item_ai_4_curren_speakers.json"
+    "speakers_path": "protocols/session_80/ai_80th_session_of_05_21_2026_agenda_item_ai_4_curren_speakers.json",
+    "documents_path": "protocols/session_80/ai_80th_session_of_05_21_2026_agenda_item_ai_4_curren_documents.json"
   },
   {
     "id": "io434XNBiT8",
@@ -1103,7 +1112,9 @@
     "topic": "Aktuelle Stunde: Extremes Szenario zur Erderwärmung laut Forschern des IPCC weggefallen – Konsequenzen für die Klimapolitik der Bundesregierung",
     "summary_path": "protocols/session_79/ap_79th_session_of_05_20_2026_agenda_item_ap_1_curren.md",
     "youtube_url": "https://www.youtube.com/watch?v=io434XNBiT8",
-    "processed_at": "2026-06-05T15:36:14.532884"
+    "processed_at": "2026-06-05T15:36:14.532884",
+    "speakers_path": "protocols/session_79/ap_79th_session_of_05_20_2026_agenda_item_ap_1_curren_speakers.json",
+    "documents_path": "protocols/session_79/ap_79th_session_of_05_20_2026_agenda_item_ap_1_curren_documents.json"
   },
   {
     "id": "a1Lxu1kxYls",
@@ -1115,7 +1126,8 @@
     "summary_path": "protocols/session_79/1_79th_session_of_05_20_2026_agenda_item_1_questioni.md",
     "youtube_url": "https://www.youtube.com/watch?v=a1Lxu1kxYls",
     "processed_at": "2026-06-05T15:34:20.734107",
-    "speakers_path": "protocols/session_79/1_79th_session_of_05_20_2026_agenda_item_1_questioni_speakers.json"
+    "speakers_path": "protocols/session_79/1_79th_session_of_05_20_2026_agenda_item_1_questioni_speakers.json",
+    "documents_path": "protocols/session_79/1_79th_session_of_05_20_2026_agenda_item_1_questioni_documents.json"
   },
   {
     "id": "3cmwGQnCQEU",
@@ -1127,7 +1139,8 @@
     "summary_path": "protocols/session_78/top_unknown_78th_session_of_8_may_2026_agenda_items_7_and_13_b.md",
     "youtube_url": "https://www.youtube.com/watch?v=3cmwGQnCQEU",
     "processed_at": "2026-06-05T14:14:07.603237",
-    "speakers_path": "protocols/session_78/top_unknown_78th_session_of_8_may_2026_agenda_items_7_and_13_b_speakers.json"
+    "speakers_path": "protocols/session_78/top_unknown_78th_session_of_8_may_2026_agenda_items_7_and_13_b_speakers.json",
+    "documents_path": "protocols/session_78/top_unknown_78th_session_of_8_may_2026_agenda_items_7_and_13_b_documents.json"
   },
   {
     "id": "ru51SyrXQRU",
@@ -1139,7 +1152,8 @@
     "summary_path": "protocols/session_78/23_78th_session_agenda_item_23_wind_energy.md",
     "youtube_url": "https://www.youtube.com/watch?v=ru51SyrXQRU",
     "processed_at": "2026-06-05T21:17:59.705621",
-    "speakers_path": "protocols/session_78/23_78th_session_agenda_item_23_wind_energy_speakers.json"
+    "speakers_path": "protocols/session_78/23_78th_session_agenda_item_23_wind_energy_speakers.json",
+    "documents_path": "protocols/session_78/23_78th_session_agenda_item_23_wind_energy_documents.json"
   },
   {
     "id": "RiG5jDEsbfg",
@@ -1151,7 +1165,8 @@
     "summary_path": "protocols/session_78/22_78th_session_of_may_8_2026_agenda_item_22_item_12_.md",
     "youtube_url": "https://www.youtube.com/watch?v=RiG5jDEsbfg",
     "processed_at": "2026-06-05T14:06:07.772525",
-    "speakers_path": "protocols/session_78/22_78th_session_of_may_8_2026_agenda_item_22_item_12__speakers.json"
+    "speakers_path": "protocols/session_78/22_78th_session_of_may_8_2026_agenda_item_22_item_12__speakers.json",
+    "documents_path": "protocols/session_78/22_78th_session_of_may_8_2026_agenda_item_22_item_12__documents.json"
   },
   {
     "id": "uMaMcXpEOQ8",
@@ -1163,7 +1178,8 @@
     "summary_path": "protocols/session_78/22_78th_session_agenda_item_22_item_12_electronic_mon.md",
     "youtube_url": "https://www.youtube.com/watch?v=uMaMcXpEOQ8",
     "processed_at": "2026-06-05T14:08:39.306938",
-    "speakers_path": "protocols/session_78/22_78th_session_agenda_item_22_item_12_electronic_mon_speakers.json"
+    "speakers_path": "protocols/session_78/22_78th_session_agenda_item_22_item_12_electronic_mon_speakers.json",
+    "documents_path": "protocols/session_78/22_78th_session_agenda_item_22_item_12_electronic_mon_documents.json"
   },
   {
     "id": "YcrK0X9Rt54",
@@ -1175,7 +1191,8 @@
     "summary_path": "protocols/session_77/9_77th_session_of_05_07_2026_agenda_item_9_federal_i.md",
     "youtube_url": "https://www.youtube.com/watch?v=YcrK0X9Rt54",
     "processed_at": "2026-06-05T01:39:11.921781",
-    "speakers_path": "protocols/session_77/9_77th_session_of_05_07_2026_agenda_item_9_federal_i_speakers.json"
+    "speakers_path": "protocols/session_77/9_77th_session_of_05_07_2026_agenda_item_9_federal_i_speakers.json",
+    "documents_path": "protocols/session_77/9_77th_session_of_05_07_2026_agenda_item_9_federal_i_documents.json"
   },
   {
     "id": "Uv9rlB6JVbc",
@@ -1187,7 +1204,8 @@
     "summary_path": "protocols/session_77/9_77th_session_agenda_item_9_federal_institute_for_p.md",
     "youtube_url": "https://www.youtube.com/watch?v=Uv9rlB6JVbc",
     "processed_at": "2026-06-05T01:40:24.315090",
-    "speakers_path": "protocols/session_77/9_77th_session_agenda_item_9_federal_institute_for_p_speakers.json"
+    "speakers_path": "protocols/session_77/9_77th_session_agenda_item_9_federal_institute_for_p_speakers.json",
+    "documents_path": "protocols/session_77/9_77th_session_agenda_item_9_federal_institute_for_p_documents.json"
   },
   {
     "id": "XjEZKZdxXVA",
@@ -1199,7 +1217,8 @@
     "summary_path": "protocols/session_77/8_77th_session_agenda_item_8_amendment_to_the_aviati.md",
     "youtube_url": "https://www.youtube.com/watch?v=XjEZKZdxXVA",
     "processed_at": "2026-06-05T01:37:12.313494",
-    "speakers_path": "protocols/session_77/8_77th_session_agenda_item_8_amendment_to_the_aviati_speakers.json"
+    "speakers_path": "protocols/session_77/8_77th_session_agenda_item_8_amendment_to_the_aviati_speakers.json",
+    "documents_path": "protocols/session_77/8_77th_session_agenda_item_8_amendment_to_the_aviati_documents.json"
   },
   {
     "id": "L6qzlfYaIfk",
@@ -1211,7 +1230,8 @@
     "summary_path": "protocols/session_77/6_77th_session_agenda_item_6_amendment_to_the_disabi.md",
     "youtube_url": "https://www.youtube.com/watch?v=L6qzlfYaIfk",
     "processed_at": "2026-06-05T01:35:07.371086",
-    "speakers_path": "protocols/session_77/6_77th_session_agenda_item_6_amendment_to_the_disabi_speakers.json"
+    "speakers_path": "protocols/session_77/6_77th_session_agenda_item_6_amendment_to_the_disabi_speakers.json",
+    "documents_path": "protocols/session_77/6_77th_session_agenda_item_6_amendment_to_the_disabi_documents.json"
   },
   {
     "id": "h_Bh9PLyauE",
@@ -1222,7 +1242,9 @@
     "topic": "Höhe der Krankenversicherungsbeiträge",
     "summary_path": "protocols/session_77/3_77th_session_agenda_item_3_amount_of_health_insura.md",
     "youtube_url": "https://www.youtube.com/watch?v=h_Bh9PLyauE",
-    "processed_at": "2026-06-05T01:36:21.723532"
+    "processed_at": "2026-06-05T01:36:21.723532",
+    "speakers_path": "protocols/session_77/3_77th_session_agenda_item_3_amount_of_health_insura_speakers.json",
+    "documents_path": "protocols/session_77/3_77th_session_agenda_item_3_amount_of_health_insura_documents.json"
   },
   {
     "id": "aUAXrb0S62A",
@@ -1233,7 +1255,9 @@
     "topic": "76. Sitzung vom 6. Mai 2026. Tagesordnungspunkt 1: Aktuelle Stunde: Ein Jahr Regierung unter Bundeskanzler Merz – Auswirkungen auf Deutschland als führende Industrienation",
     "summary_path": "protocols/session_76/1_76th_session_of_may_6_2026_agenda_item_1_topical_d.md",
     "youtube_url": "https://www.youtube.com/watch?v=aUAXrb0S62A",
-    "processed_at": "2026-06-05T01:25:03.428087"
+    "processed_at": "2026-06-05T01:25:03.428087",
+    "speakers_path": "protocols/session_76/1_76th_session_of_may_6_2026_agenda_item_1_topical_d_speakers.json",
+    "documents_path": "protocols/session_76/1_76th_session_of_may_6_2026_agenda_item_1_topical_d_documents.json"
   },
   {
     "id": "b15CuqHquUI",
@@ -1244,7 +1268,9 @@
     "topic": "75. Sitzung, TOP 6, ZP 11, ZP 12: Senkung der Energiesteuern und Änderung des Steuerberatungsrechts",
     "summary_path": "protocols/session_75/6_75_sitzung_top_6_zp_11_zp_12_senkung_der_energie_s.md",
     "youtube_url": "https://www.youtube.com/watch?v=b15CuqHquUI",
-    "processed_at": "2026-06-05T01:02:25.463740"
+    "processed_at": "2026-06-05T01:02:25.463740",
+    "speakers_path": "protocols/session_75/6_75_sitzung_top_6_zp_11_zp_12_senkung_der_energie_s_speakers.json",
+    "documents_path": "protocols/session_75/6_75_sitzung_top_6_zp_11_zp_12_senkung_der_energie_s_documents.json"
   },
   {
     "id": "c5HXDFS7_hk",
@@ -1255,7 +1281,9 @@
     "topic": "Neun-Euro-Ticket und kommunale Verkehrsfinanzierung",
     "summary_path": "protocols/session_75/19_75th_session_agenda_item_19_item_13_nine_euro_tick.md",
     "youtube_url": "https://www.youtube.com/watch?v=c5HXDFS7_hk",
-    "processed_at": "2026-06-05T01:01:26.579720"
+    "processed_at": "2026-06-05T01:01:26.579720",
+    "speakers_path": "protocols/session_75/19_75th_session_agenda_item_19_item_13_nine_euro_tick_speakers.json",
+    "documents_path": "protocols/session_75/19_75th_session_agenda_item_19_item_13_nine_euro_tick_documents.json"
   },
   {
     "id": "IDNXLrgwzf4",
@@ -1266,7 +1294,9 @@
     "topic": "Aktuelle Debatte: Kein Sozialabbau auf Kosten von Kindern, Jugendlichen, Familien und Menschen mit Behinderungen",
     "summary_path": "protocols/session_75/15_75th_session_of_april_24_2026_agenda_item_15_topic.md",
     "youtube_url": "https://www.youtube.com/watch?v=IDNXLrgwzf4",
-    "processed_at": "2026-06-05T01:03:21.165222"
+    "processed_at": "2026-06-05T01:03:21.165222",
+    "speakers_path": "protocols/session_75/15_75th_session_of_april_24_2026_agenda_item_15_topic_speakers.json",
+    "documents_path": "protocols/session_75/15_75th_session_of_april_24_2026_agenda_item_15_topic_documents.json"
   },
   {
     "id": "CKNoYPUri34",
@@ -1277,7 +1307,9 @@
     "topic": "Aktuelle Debatte: Kein Sozialabbau auf Kosten von Kindern, Jugendlichen, Familien und Menschen mit Behinderungen",
     "summary_path": "protocols/session_75/15_75th_session_of_april_24_2026_agenda_item_15_topic.md",
     "youtube_url": "https://www.youtube.com/watch?v=CKNoYPUri34",
-    "processed_at": "2026-06-05T01:08:23.020261"
+    "processed_at": "2026-06-05T01:08:23.020261",
+    "speakers_path": "protocols/session_75/15_75th_session_of_april_24_2026_agenda_item_15_topic_speakers.json",
+    "documents_path": "protocols/session_75/15_75th_session_of_april_24_2026_agenda_item_15_topic_documents.json"
   },
   {
     "id": "aNKyAZB6bVQ",
@@ -1288,7 +1320,9 @@
     "topic": "Kommunales Vetorecht gegen die Zuweisung von Asylbewerbern",
     "summary_path": "protocols/session_74/top_unknown_74_sitzung_zp_4_zp_5_kommu_nales_veto_recht_gegen_.md",
     "youtube_url": "https://www.youtube.com/watch?v=aNKyAZB6bVQ",
-    "processed_at": "2026-06-05T00:45:50.526636"
+    "processed_at": "2026-06-05T00:45:50.526636",
+    "speakers_path": "protocols/session_74/top_unknown_74_sitzung_zp_4_zp_5_kommu_nales_veto_recht_gegen__speakers.json",
+    "documents_path": "protocols/session_74/top_unknown_74_sitzung_zp_4_zp_5_kommu_nales_veto_recht_gegen__documents.json"
   },
   {
     "id": "Npfdcn3rLZY",
@@ -1299,7 +1333,9 @@
     "topic": "Konsensbasiertes Sexualstrafrecht: Verbesserung des Schutzes vor sexueller Misshandlung und Vergewaltigung",
     "summary_path": "protocols/session_74/8_74_sitzung_top_8_konsens_basiertes_sexual_straf_re.md",
     "youtube_url": "https://www.youtube.com/watch?v=Npfdcn3rLZY",
-    "processed_at": "2026-06-05T00:47:56.613397"
+    "processed_at": "2026-06-05T00:47:56.613397",
+    "speakers_path": "protocols/session_74/8_74_sitzung_top_8_konsens_basiertes_sexual_straf_re_speakers.json",
+    "documents_path": "protocols/session_74/8_74_sitzung_top_8_konsens_basiertes_sexual_straf_re_documents.json"
   },
   {
     "id": "cY2x1-UcW00",
@@ -1310,7 +1346,9 @@
     "topic": "Stärkung der Maritimen Wirtschaft",
     "summary_path": "protocols/session_74/18_74_sitzung_top_18_mari_time_wirt_schaft.md",
     "youtube_url": "https://www.youtube.com/watch?v=cY2x1-UcW00",
-    "processed_at": "2026-06-05T00:46:51.664479"
+    "processed_at": "2026-06-05T00:46:51.664479",
+    "speakers_path": "protocols/session_74/18_74_sitzung_top_18_mari_time_wirt_schaft_speakers.json",
+    "documents_path": "protocols/session_74/18_74_sitzung_top_18_mari_time_wirt_schaft_documents.json"
   },
   {
     "id": "RKveEFj7hjk",
@@ -1332,7 +1370,8 @@
     "topic": "40 Jahre nach Tschernobyl: Atomkraft und ihre Folgen",
     "summary_path": "protocols/session_74/15_74th_session_of_april_23_2026_agenda_item_15_40_ye.md",
     "youtube_url": "https://www.youtube.com/watch?v=fA3ySh7YTq8",
-    "processed_at": "2026-06-05T00:57:39.966508"
+    "processed_at": "2026-06-05T00:57:39.966508",
+    "documents_path": "protocols/session_74/15_74th_session_of_april_23_2026_agenda_item_15_40_ye_documents.json"
   },
   {
     "id": "IEjmctgOCFg",
@@ -1343,7 +1382,9 @@
     "topic": "74. Sitzung vom 23. April 2026, Tagesordnungspunkt 10: Gerichtsurteil zur Correctiv-Berichterstattung",
     "summary_path": "protocols/session_74/10_74th_session_of_april_23_2026_agenda_item_10_court.md",
     "youtube_url": "https://www.youtube.com/watch?v=IEjmctgOCFg",
-    "processed_at": "2026-06-05T00:56:13.566547"
+    "processed_at": "2026-06-05T00:56:13.566547",
+    "speakers_path": "protocols/session_74/10_74th_session_of_april_23_2026_agenda_item_10_court_speakers.json",
+    "documents_path": "protocols/session_74/10_74th_session_of_april_23_2026_agenda_item_10_court_documents.json"
   },
   {
     "id": "Gzaat-WSnAg",
@@ -1354,7 +1395,9 @@
     "topic": "Umsetzung der EU-Richtlinie über Verbraucherkreditverträge und Regelung zur Förderung klimaneutraler Mobilität",
     "summary_path": "protocols/session_72/top_unknown_72nd_session_item_14_eu_directive_on_consumer_cred.md",
     "youtube_url": "https://www.youtube.com/watch?v=Gzaat-WSnAg",
-    "processed_at": "2026-06-04T22:55:55.269979"
+    "processed_at": "2026-06-04T22:55:55.269979",
+    "speakers_path": "protocols/session_72/top_unknown_72nd_session_item_14_eu_directive_on_consumer_cred_speakers.json",
+    "documents_path": "protocols/session_72/top_unknown_72nd_session_item_14_eu_directive_on_consumer_cred_documents.json"
   },
   {
     "id": "jsAZqiMH1rw",
@@ -1365,7 +1408,9 @@
     "topic": "Ernährungssicherheit und Landwirtschaftspolitik",
     "summary_path": "protocols/session_72/15_72nd_session_agenda_item_15_food_security_and_agri.md",
     "youtube_url": "https://www.youtube.com/watch?v=jsAZqiMH1rw",
-    "processed_at": "2026-06-05T00:29:36.702957"
+    "processed_at": "2026-06-05T00:29:36.702957",
+    "speakers_path": "protocols/session_72/15_72nd_session_agenda_item_15_food_security_and_agri_speakers.json",
+    "documents_path": "protocols/session_72/15_72nd_session_agenda_item_15_food_security_and_agri_documents.json"
   },
   {
     "id": "yrzMqe14ank",
@@ -1376,7 +1421,9 @@
     "topic": "71. Sitzung vom 16. April 2026. Tagesordnungspunkte 4 und 5: Stromsteuergesetz, Straßenverkehrsgesetz",
     "summary_path": "protocols/session_71/top_unknown_71st_session_of_april_16_2026_agenda_items_4_and_5.md",
     "youtube_url": "https://www.youtube.com/watch?v=yrzMqe14ank",
-    "processed_at": "2026-06-04T22:14:23.501236"
+    "processed_at": "2026-06-04T22:14:23.501236",
+    "speakers_path": "protocols/session_71/top_unknown_71st_session_of_april_16_2026_agenda_items_4_and_5_speakers.json",
+    "documents_path": "protocols/session_71/top_unknown_71st_session_of_april_16_2026_agenda_items_4_and_5_documents.json"
   },
   {
     "id": "RiOIKPIINUw",
@@ -1387,7 +1434,9 @@
     "topic": "71. Sitzung: Bundestag trauert um Christian Schwarz-Schilling",
     "summary_path": "protocols/session_71/top_unknown_71st_session_bundestag_mourns_christian_schwarz_sc.md",
     "youtube_url": "https://www.youtube.com/watch?v=RiOIKPIINUw",
-    "processed_at": "2026-06-04T22:46:01.110553"
+    "processed_at": "2026-06-04T22:46:01.110553",
+    "speakers_path": "protocols/session_71/top_unknown_71st_session_bundestag_mourns_christian_schwarz_sc_speakers.json",
+    "documents_path": "protocols/session_71/top_unknown_71st_session_bundestag_mourns_christian_schwarz_sc_documents.json"
   },
   {
     "id": "d3kwYWK6Kuc",
@@ -1398,7 +1447,9 @@
     "topic": "71. Sitzung, ZP 2, ZP 3, TOP 12: Senkung der Energiesteuer",
     "summary_path": "protocols/session_71/top_unknown_71st_session_zp_2_zp_3_item_12_reduction_of_energy.md",
     "youtube_url": "https://www.youtube.com/watch?v=d3kwYWK6Kuc",
-    "processed_at": "2026-06-04T22:47:16.092286"
+    "processed_at": "2026-06-04T22:47:16.092286",
+    "speakers_path": "protocols/session_71/top_unknown_71st_session_zp_2_zp_3_item_12_reduction_of_energy_speakers.json",
+    "documents_path": "protocols/session_71/top_unknown_71st_session_zp_2_zp_3_item_12_reduction_of_energy_documents.json"
   },
   {
     "id": "OY3yuhmwDR4",
@@ -1409,7 +1460,8 @@
     "topic": "71. Sitzung, Tagesordnungspunkte 4 und 5: Erste Beratung der Gesetzentwürfe zur Änderung des Stromsteuergesetzes und des Straßenverkehrsgesetzes (Tempolimit)",
     "summary_path": "protocols/session_71/top_unknown_71st_session_agenda_items_4_and_5_electricity_tax_.md",
     "youtube_url": "https://www.youtube.com/watch?v=OY3yuhmwDR4",
-    "processed_at": "2026-06-04T22:49:22.628744"
+    "processed_at": "2026-06-04T22:49:22.628744",
+    "documents_path": "protocols/session_71/top_unknown_71st_session_agenda_items_4_and_5_electricity_tax__documents.json"
   },
   {
     "id": "ZFQQ2IQFvBI",
@@ -1420,7 +1472,9 @@
     "topic": "71. Sitzung vom 16. April 2026: Entkriminalisierung des Fahrens ohne Fahrschein",
     "summary_path": "protocols/session_71/9_71st_session_of_april_16_2026_agenda_item_9_amnest.md",
     "youtube_url": "https://www.youtube.com/watch?v=ZFQQ2IQFvBI",
-    "processed_at": "2026-06-04T22:18:37.336328"
+    "processed_at": "2026-06-04T22:18:37.336328",
+    "speakers_path": "protocols/session_71/9_71st_session_of_april_16_2026_agenda_item_9_amnest_speakers.json",
+    "documents_path": "protocols/session_71/9_71st_session_of_april_16_2026_agenda_item_9_amnest_documents.json"
   },
   {
     "id": "UOC_sEoTlhc",
@@ -1431,7 +1485,9 @@
     "topic": "Aktuelle Stunde: Ungarn nach der Wahl – Neue Chance für Europa",
     "summary_path": "protocols/session_71/8_71st_session_of_16_april_2026_agenda_item_8_topica.md",
     "youtube_url": "https://www.youtube.com/watch?v=UOC_sEoTlhc",
-    "processed_at": "2026-06-04T22:17:41.377034"
+    "processed_at": "2026-06-04T22:17:41.377034",
+    "speakers_path": "protocols/session_71/8_71st_session_of_16_april_2026_agenda_item_8_topica_speakers.json",
+    "documents_path": "protocols/session_71/8_71st_session_of_16_april_2026_agenda_item_8_topica_documents.json"
   },
   {
     "id": "4Zit8kaTlkg",
@@ -1442,7 +1498,9 @@
     "topic": "Deutsche Klimaschutzmaßnahmen",
     "summary_path": "protocols/session_71/7_71st_session_agenda_item_7_german_climate_protecti.md",
     "youtube_url": "https://www.youtube.com/watch?v=4Zit8kaTlkg",
-    "processed_at": "2026-06-04T22:52:17.998930"
+    "processed_at": "2026-06-04T22:52:17.998930",
+    "speakers_path": "protocols/session_71/7_71st_session_agenda_item_7_german_climate_protecti_speakers.json",
+    "documents_path": "protocols/session_71/7_71st_session_agenda_item_7_german_climate_protecti_documents.json"
   },
   {
     "id": "rxtbbCrxoJk",
@@ -1453,7 +1511,8 @@
     "topic": "Berufsfreiheit für Selbstständige sicherstellen – Abgrenzung zu abhängiger Beschäftigung rechtssicher machen",
     "summary_path": "protocols/session_71/10_71st_session_of_april_16_2026_agenda_item_10_freed.md",
     "youtube_url": "https://www.youtube.com/watch?v=rxtbbCrxoJk",
-    "processed_at": "2026-06-04T22:22:03.303861"
+    "processed_at": "2026-06-04T22:22:03.303861",
+    "speakers_path": "protocols/session_71/10_71st_session_of_april_16_2026_agenda_item_10_freed_speakers.json"
   },
   {
     "id": "lQtpA1xBG60",
@@ -1464,7 +1523,9 @@
     "topic": "Wissenschafts- und Meinungsfreiheit an Hochschulen",
     "summary_path": "protocols/session_70/4_70th_session_of_april_15_2026_agenda_item_4_academ.md",
     "youtube_url": "https://www.youtube.com/watch?v=lQtpA1xBG60",
-    "processed_at": "2026-06-04T22:10:46.126103"
+    "processed_at": "2026-06-04T22:10:46.126103",
+    "speakers_path": "protocols/session_70/4_70th_session_of_april_15_2026_agenda_item_4_academ_speakers.json",
+    "documents_path": "protocols/session_70/4_70th_session_of_april_15_2026_agenda_item_4_academ_documents.json"
   },
   {
     "id": "7Hq4Gw_pg_c",
@@ -1475,7 +1536,8 @@
     "topic": "70. Sitzung vom 15. April 2026. Tagesordnungspunkt 2: Fragestunde",
     "summary_path": "protocols/session_70/2_70th_session_of_april_15_2026_agenda_item_2_questi.md",
     "youtube_url": "https://www.youtube.com/watch?v=7Hq4Gw_pg_c",
-    "processed_at": "2026-06-04T22:06:55.013005"
+    "processed_at": "2026-06-04T22:06:55.013005",
+    "speakers_path": "protocols/session_70/2_70th_session_of_april_15_2026_agenda_item_2_questi_speakers.json"
   },
   {
     "id": "0uP8Y-IrplQ",
@@ -1486,7 +1548,9 @@
     "topic": "70. Sitzung vom 15. April 2026, Tagesordnungspunkt 1: Aktuelle Stunde: Entlastungen für die Bürgerinnen und Bürger – Zusätzliche Gewinne für Mineralölkonzerne verhindern",
     "summary_path": "protocols/session_70/1_70th_session_of_april_15_2026_agenda_item_1_curren.md",
     "youtube_url": "https://www.youtube.com/watch?v=0uP8Y-IrplQ",
-    "processed_at": "2026-06-04T22:07:53.985290"
+    "processed_at": "2026-06-04T22:07:53.985290",
+    "speakers_path": "protocols/session_70/1_70th_session_of_april_15_2026_agenda_item_1_curren_speakers.json",
+    "documents_path": "protocols/session_70/1_70th_session_of_april_15_2026_agenda_item_1_curren_documents.json"
   },
   {
     "id": "IcXXWALMhqU",
@@ -1497,7 +1561,9 @@
     "topic": "Zukunft der Automobilindustrie",
     "summary_path": "protocols/session_69/25_69th_session_agenda_item_25_item_10_future_of_the_.md",
     "youtube_url": "https://www.youtube.com/watch?v=IcXXWALMhqU",
-    "processed_at": "2026-06-05T00:16:27.905706"
+    "processed_at": "2026-06-05T00:16:27.905706",
+    "speakers_path": "protocols/session_69/25_69th_session_agenda_item_25_item_10_future_of_the__speakers.json",
+    "documents_path": "protocols/session_69/25_69th_session_agenda_item_25_item_10_future_of_the__documents.json"
   },
   {
     "id": "NWgAzV0z2Ug",
@@ -1508,7 +1574,9 @@
     "topic": "Altersvorsorgereformgesetz",
     "summary_path": "protocols/session_69/24_69_sitzung_top_24_alters_vorsorge_reform_gesetz.md",
     "youtube_url": "https://www.youtube.com/watch?v=NWgAzV0z2Ug",
-    "processed_at": "2026-06-05T00:15:19.599527"
+    "processed_at": "2026-06-05T00:15:19.599527",
+    "speakers_path": "protocols/session_69/24_69_sitzung_top_24_alters_vorsorge_reform_gesetz_speakers.json",
+    "documents_path": "protocols/session_69/24_69_sitzung_top_24_alters_vorsorge_reform_gesetz_documents.json"
   },
   {
     "id": "ahglqQ2wfu4",
@@ -1519,7 +1587,9 @@
     "topic": "69. Sitzung vom 27. März 2026. Tagesordnungspunkt 10: Klimaschutzpolitik",
     "summary_path": "protocols/session_69/10_69th_session_of_march_27_2026_agenda_item_10_clima.md",
     "youtube_url": "https://www.youtube.com/watch?v=ahglqQ2wfu4",
-    "processed_at": "2026-06-04T21:54:43.696949"
+    "processed_at": "2026-06-04T21:54:43.696949",
+    "speakers_path": "protocols/session_69/10_69th_session_of_march_27_2026_agenda_item_10_clima_speakers.json",
+    "documents_path": "protocols/session_69/10_69th_session_of_march_27_2026_agenda_item_10_clima_documents.json"
   },
   {
     "id": "-pvbf1qMEZg",
@@ -1530,7 +1600,9 @@
     "topic": "Strafbarkeit bildbasierter sexualisierter Gewalt",
     "summary_path": "protocols/session_68/top_unknown_68_sitzung_zp_3_strafbar_keit_bild_basierter_sexua.md",
     "youtube_url": "https://www.youtube.com/watch?v=-pvbf1qMEZg",
-    "processed_at": "2026-06-04T23:57:39.539106"
+    "processed_at": "2026-06-04T23:57:39.539106",
+    "speakers_path": "protocols/session_68/top_unknown_68_sitzung_zp_3_strafbar_keit_bild_basierter_sexua_speakers.json",
+    "documents_path": "protocols/session_68/top_unknown_68_sitzung_zp_3_strafbar_keit_bild_basierter_sexua_documents.json"
   },
   {
     "id": "jkzHkFDh8SY",
@@ -1541,7 +1613,9 @@
     "topic": "Beratung des Jahresberichts 2025 des Wehrbeauftragten des Deutschen Bundestages",
     "summary_path": "protocols/session_68/9_68th_session_agenda_item_9_2025_annual_report_of_t.md",
     "youtube_url": "https://www.youtube.com/watch?v=jkzHkFDh8SY",
-    "processed_at": "2026-06-04T23:54:45.826039"
+    "processed_at": "2026-06-04T23:54:45.826039",
+    "speakers_path": "protocols/session_68/9_68th_session_agenda_item_9_2025_annual_report_of_t_speakers.json",
+    "documents_path": "protocols/session_68/9_68th_session_agenda_item_9_2025_annual_report_of_t_documents.json"
   },
   {
     "id": "OqnIcwHxbdU",
@@ -1552,7 +1626,8 @@
     "topic": "EU-Notfallverfahren für Gasgeräte und persönliche Schutzausrüstung",
     "summary_path": "protocols/session_68/8_68th_session_of_26_march_2026_agenda_item_8_eu_eme.md",
     "youtube_url": "https://www.youtube.com/watch?v=OqnIcwHxbdU",
-    "processed_at": "2026-06-05T00:08:19.012526"
+    "processed_at": "2026-06-05T00:08:19.012526",
+    "documents_path": "protocols/session_68/8_68th_session_of_26_march_2026_agenda_item_8_eu_eme_documents.json"
   },
   {
     "id": "rNuo3UvUXKk",
@@ -1563,7 +1638,8 @@
     "topic": "Beratung zu Vorlagen zum Kraftstoffmaßnahmenpaket und zur Entlastung bei Energiepreissteigerungen",
     "summary_path": "protocols/session_68/7_68_sitzung_top_7_kraft_stoff_mass_nahmen_paket_ene.md",
     "youtube_url": "https://www.youtube.com/watch?v=rNuo3UvUXKk",
-    "processed_at": "2026-06-04T23:48:55.042052"
+    "processed_at": "2026-06-04T23:48:55.042052",
+    "documents_path": "protocols/session_68/7_68_sitzung_top_7_kraft_stoff_mass_nahmen_paket_ene_documents.json"
   },
   {
     "id": "jrBsz-2k0tY",
@@ -1574,7 +1650,9 @@
     "topic": "68. Sitzung des Deutschen Bundestages am 26. März 2026: Muslimisches Leben in Deutschland (TOP 27)",
     "summary_path": "protocols/session_68/27_68th_session_of_march_26_2026_agenda_item_27_musli.md",
     "youtube_url": "https://www.youtube.com/watch?v=jrBsz-2k0tY",
-    "processed_at": "2026-06-05T00:07:42.997261"
+    "processed_at": "2026-06-05T00:07:42.997261",
+    "speakers_path": "protocols/session_68/27_68th_session_of_march_26_2026_agenda_item_27_musli_speakers.json",
+    "documents_path": "protocols/session_68/27_68th_session_of_march_26_2026_agenda_item_27_musli_documents.json"
   },
   {
     "id": "Etsy3tgoJMI",
@@ -1585,7 +1663,9 @@
     "topic": "Statistiken zu Gewalt und Übergriffen an Schulen",
     "summary_path": "protocols/session_68/20_68th_session_agenda_item_20_item_2_statistics_on_a.md",
     "youtube_url": "https://www.youtube.com/watch?v=Etsy3tgoJMI",
-    "processed_at": "2026-06-04T23:51:10.369024"
+    "processed_at": "2026-06-04T23:51:10.369024",
+    "speakers_path": "protocols/session_68/20_68th_session_agenda_item_20_item_2_statistics_on_a_speakers.json",
+    "documents_path": "protocols/session_68/20_68th_session_agenda_item_20_item_2_statistics_on_a_documents.json"
   },
   {
     "id": "zunR39VF8Z8",
@@ -1596,7 +1676,8 @@
     "topic": "68. Sitzung vom 26. März 2026. Tagesordnungspunkt 15: Gesetz über intelligente Verkehrssysteme",
     "summary_path": "protocols/session_68/15_68th_session_of_march_26_2026_agenda_item_15_intel.md",
     "youtube_url": "https://www.youtube.com/watch?v=zunR39VF8Z8",
-    "processed_at": "2026-06-05T00:01:49.389033"
+    "processed_at": "2026-06-05T00:01:49.389033",
+    "speakers_path": "protocols/session_68/15_68th_session_of_march_26_2026_agenda_item_15_intel_speakers.json"
   },
   {
     "id": "LD7B_UK0pwg",
@@ -1607,7 +1688,8 @@
     "topic": "Umsetzung europäischer Datennutzungsvorgaben: Fairer Datenzugang und Daten-Governance-Gesetz",
     "summary_path": "protocols/session_68/13_68th_session_of_march_26_2026_agenda_item_13_fair_.md",
     "youtube_url": "https://www.youtube.com/watch?v=LD7B_UK0pwg",
-    "processed_at": "2026-06-05T00:00:10.671014"
+    "processed_at": "2026-06-05T00:00:10.671014",
+    "speakers_path": "protocols/session_68/13_68th_session_of_march_26_2026_agenda_item_13_fair__speakers.json"
   },
   {
     "id": "Da9UlY4qL-A",
@@ -1618,7 +1700,8 @@
     "topic": "Änderung des Transplantationsgesetzes – Novellierung der Regelungen zur Lebendorganspende",
     "summary_path": "protocols/session_68/11_68th_session_of_march_26_2026_agenda_item_11_amend.md",
     "youtube_url": "https://www.youtube.com/watch?v=Da9UlY4qL-A",
-    "processed_at": "2026-06-04T23:58:26.650429"
+    "processed_at": "2026-06-04T23:58:26.650429",
+    "speakers_path": "protocols/session_68/11_68th_session_of_march_26_2026_agenda_item_11_amend_speakers.json"
   },
   {
     "id": "FbULCo9eGp4",
@@ -1629,7 +1712,8 @@
     "topic": "67. Sitzung vom 25. März 2026. Tagesordnungspunkt 8: Reform der Einbürgerungspolitik",
     "summary_path": "protocols/session_67/8_67th_session_of_march_25_2026_agenda_item_8_reform.md",
     "youtube_url": "https://www.youtube.com/watch?v=FbULCo9eGp4",
-    "processed_at": "2026-06-04T20:41:02.127037"
+    "processed_at": "2026-06-04T20:41:02.127037",
+    "speakers_path": "protocols/session_67/8_67th_session_of_march_25_2026_agenda_item_8_reform_speakers.json"
   },
   {
     "id": "o-QoJM9mzwY",
@@ -1651,7 +1735,8 @@
     "topic": "66. Sitzung vom 20. März 2026: Tagesordnungspunkt 25 – Klimageld",
     "summary_path": "protocols/session_66/top_unknown_66th_session_of_march_20_2026_item_25_climate_mone.md",
     "youtube_url": "https://www.youtube.com/watch?v=SI6bJtYFOlA",
-    "processed_at": "2026-06-04T08:29:53.560074"
+    "processed_at": "2026-06-04T08:29:53.560074",
+    "speakers_path": "protocols/session_66/top_unknown_66th_session_of_march_20_2026_item_25_climate_mone_speakers.json"
   },
   {
     "id": "l1Zo41AV9uc",
@@ -1684,7 +1769,8 @@
     "topic": "Schutz von Natur, Klima und Zivilgesellschaft",
     "summary_path": "protocols/session_66/10_66th_session_of_march_20_2026_agenda_item_10_prote.md",
     "youtube_url": "https://www.youtube.com/watch?v=R6fJuk33LWA",
-    "processed_at": "2026-06-04T08:30:42.107719"
+    "processed_at": "2026-06-04T08:30:42.107719",
+    "speakers_path": "protocols/session_66/10_66th_session_of_march_20_2026_agenda_item_10_prote_speakers.json"
   },
   {
     "id": "DutU9z8t7-Q",
@@ -1695,7 +1781,8 @@
     "topic": "Debatte über den Wiedereinstieg in die Kernkraft",
     "summary_path": "protocols/session_65/top_unknown_65_sitzung_zp_5_kern_kraft_aus_stieg.md",
     "youtube_url": "https://www.youtube.com/watch?v=DutU9z8t7-Q",
-    "processed_at": "2026-06-04T08:13:05.899536"
+    "processed_at": "2026-06-04T08:13:05.899536",
+    "speakers_path": "protocols/session_65/top_unknown_65_sitzung_zp_5_kern_kraft_aus_stieg_speakers.json"
   },
   {
     "id": "7a-DYukM07g",

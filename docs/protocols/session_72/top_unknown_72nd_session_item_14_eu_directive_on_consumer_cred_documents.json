@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/1851",
+      "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1851&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/2459",
+      "title": "Unterrichtung: Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge - Drucksache 21/1851 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2459&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/5381",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz zu dem Gesetzentwurf der Bundesregierung – Drucksachen 21/1851, 21/2459 – Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge und zur Regelung der Förderung klimaneutraler Mobilität",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5381&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Umsetzung der EU-Richtlinie über Verbraucherkreditverträge und zur Regelung zur Förderung klimaneutraler Mobilität wurde in der 72. Sitzung des Bundestages am 17. April 2026 mit den Stimmen der Koalitionsfraktionen (CDU/CSU und SPD) gegen die Stimmen der Oppositionsfraktionen angenommen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

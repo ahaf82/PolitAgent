@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5485",
+      "title": "Kommunales Vetorecht gegen Zwangszuweisungen von Flüchtlingen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5485&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5476",
+      "title": "Entwurf eines Gesetzes zur Änderung des Bürgerlichen Gesetzbuchs und des Asylgesetzes (Massenmigrationsbewältigungsgesetz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5476&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die von der AfD-Fraktion eingebrachten Vorlagen, der Antrag 'Kommunales Vetorecht gegen Zwangszuweisungen von Flüchtlingen' (Drucksache 21/5485) und der Gesetzentwurf 'Entwurf eines Gesetzes zur Änderung des Bürgerlichen Gesetzbuchs und des Asylgesetzes (Massenmigrationsbewältigungsgesetz)' (Drucksache 21/5476), wurden zur weiteren Beratung an die zuständigen Ausschüsse, federführend den Innenausschuss, überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

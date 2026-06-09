@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten außerhalb des Bundestages unterstreichen die im Plenum geäußerten Positionen zur Berufsfreiheit für Selbstständige und der Abgrenzung zu abhängiger Beschäftigung. Wilfried Oellers (CDU/CSU) und Jens Peick (SPD) betonen unisono die Notwendigkeit einer schnellen und praxistauglichen Reform des Statusfeststellungsverfahrens, die Rechtssicherheit für Solo-Selbstständige und Auftraggeber schafft, ohne die soziale Absicherung zu vernachlässigen. Pascal Meiser (Die Linke) kritisiert die Verzögerung bei der Bekämpfung von Scheinselbstständigkeit, insbesondere im Kontext des 'Herrenberg-Urteils', und fordert eine konsequente Durchsetzung der sozialen Absicherung für de facto abhängig Beschäftigte. Peter Bohnhof (AfD) setzt sich für den Abbau von Bürokratie und klare Regeln für Selbstständige ein, um 'Scheinselbstständigkeitsfallen' zu vermeiden.",
+  "sources": [
+    {
+      "name": "Peter Bohnhof",
+      "party": "AfD",
+      "found": true,
+      "statement": "Peter Bohnhof bekräftigt auf Social Media seine Forderung nach klaren Regeln und weniger Bürokratie für Selbstständige. Er warnt vor 'Scheinselbstständigkeitsfallen' und fordert eine Politik, die Selbstständigkeit fördert, anstatt sie zu gängeln.",
+      "source_title": "Tweet / Post von Peter Bohnhof auf X",
+      "url": "https://x.com/bohnhof_peter/status/1778731737865242944",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Wilfried Oellers",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Wilfried Oellers kritisiert die Ampel-Koalition für die Verzögerung einer umfassenden Reform der Statusfeststellung und fordert eine praxistaugliche Lösung. Er betont die Notwendigkeit, Rechtssicherheit für Solo-Selbstständige und Auftraggeber zu schaffen, ohne die soziale Absicherung zu vernachlässigen.",
+      "source_title": "Umfassende und praxistaugliche Lösung für Selbstständige auf den Weg bringen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sandra Stein",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "",
+      "source_title": "",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Jens Peick",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jens Peick setzt sich für eine schnelle und rechtssichere Lösung bei der Statusfeststellung ein, die Scheinselbstständigkeit verhindert und die soziale Absicherung stärkt. Er betont das Gleichgewicht zwischen Berufsfreiheit und Schutz vor Ausbeutung und kündigt eine Weiterentwicklung der Kriterien für Selbstständigkeit an.",
+      "source_title": "Rechtssicherheit für Solo-Selbstständige – Sozialversicherung stärken",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/rechtssicherheit-solo-selbstaendige-sozialversicherung-staerken",
+      "platform": "Presse"
+    },
+    {
+      "name": "Pascal Meiser",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Pascal Meiser kritisiert die Bundesregierung für die Verzögerung der Umsetzung des 'Herrenberg-Urteils' und bemängelt, dass dadurch die Ausbeutung von Scheinselbstständigen erleichtert wird. Er fordert konsequente Maßnahmen gegen Scheinselbstständigkeit, um die soziale Absicherung zu gewährleisten.",
+      "source_title": "Abgrenzung von Scheinselbstständigkeit muss konsequent sein",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

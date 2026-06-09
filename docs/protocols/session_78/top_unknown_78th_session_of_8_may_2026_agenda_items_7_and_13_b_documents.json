@@ -1,0 +1,89 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4762",
+      "title": "30 Jahre Erfolg nicht aufs Spiel setzen – LEADER-Programm sichern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4762&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5649",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Landwirtschaft, Ernährung und Heimat zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu den Verhandlungen zum Mehrjährigen Finanzrahmen der Europäischen Union für die Jahre 2028 bis 2034 hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23, Absatz 3 des Grundgesetzes 30 Jahre Erfolg nicht aufs Spiel setzen - LEADER-Programm sichern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5649&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4763",
+      "title": "Höfe stärken, Klima schützen, Artenvielfalt bewahren und Europa zusammenführen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4763&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5648",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Landwirtschaft, Ernährung und Heimat zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu den Verhandlungen zum Mehrjährigen Finanzrahmen der Europäischen Union für die Jahre 2028 bis 2034 hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23, Absatz 3 des Grundgesetzes Höfe stärken, Klima schützen, Artenvielfalt bewahren und Europa zusammenführen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5648&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/5394",
+      "title": "Antrag der Abgeordneten Janina Böttger, Desiree Becker, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke zu den Verhandlungen zum Mehrjährigen Finanzrahmen der Europäischen Union für die Jahre 2028 bis 2034 hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23, Absatz 3 des Grundgesetzes Sozialen Zusammenhalt sichern – Kürzungen bei sozialer und regionaler Förderung verhindern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5394&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Antrag der Fraktion Bündnis 90/Die Grünen mit dem Titel „30 Jahre Erfolg nicht aufs Spiel setzen – LEADER-Programm sichern“ wurde in namentlicher Abstimmung abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 417,
+      "nein": 73,
+      "enthaltung": 53,
+      "nicht_abgegeben": 87
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 194,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 14
+      },
+      {
+        "faction": "AfD",
+        "ja": 125,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 25
+      },
+      {
+        "faction": "SPD",
+        "ja": 97,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 23
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 72,
+        "enthaltung": 0,
+        "nicht_abgegeben": 13
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 53,
+        "nicht_abgegeben": 11
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 1,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

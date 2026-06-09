@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zum Neun-Euro-Ticket und der kommunalen Verkehrsfinanzierung spiegeln weitgehend ihre im Plenum geäußerten Positionen wider. Abgeordnete der Linken, wie Luigi Pantisano, fordern konsequent ein deutlich günstigeres oder kostenloses ÖPNV-Angebot, finanziert durch höhere Steuern für Superreiche und Unternehmensbeteiligung, um soziale Teilhabe und Klimaschutz zu fördern. Michael Donth (CDU/CSU) und Wolfgang Wiehle (AfD) lehnen umfassende Subventionen oder kostenlosen ÖPNV als unrealistisch und finanziell untragbar ab, betonen die Notwendigkeit von Infrastrukturinvestitionen und kritisieren die Finanzierung des Deutschlandtickets als Steuerlast ohne ausreichenden Mehrwert für alle. Martin Kröber (SPD) und Victoria Broßart (Bündnis 90/Die Grünen) fordern ebenfalls massive Investitionen in den Ausbau und die Qualität des ÖPNV, wobei die Grünen insbesondere eine dauerhafte und dynamische Bundesförderung der Kommunen durch das GVFG betonen, während die SPD die korrekte Mittelverwendung durch die Länder hervorhebt, um ein verlässliches und barrierefreies Angebot zu gewährleisten.",
+  "sources": [
+    {
+      "name": "Luigi Pantisano",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Luigi Pantisano fordert weiterhin die Wiedereinführung des 9-Euro-Tickets oder ein kostenloses 0-Euro-Ticket für bestimmte Gruppen, finanziert durch die Besteuerung von 'Übergewinnen' der Mineralölkonzerne und Superreichen sowie durch die Beteiligung von Unternehmen. Er plädiert für eine Mobilitätsgarantie mit kostenfreiem Zugang zum ÖPNV und kritisiert das Deutschlandticket als zu teuer, das die Mobilität hart arbeitender Familien belaste und zu Investitionsmangel führe.",
+      "source_title": "Bezahlbarer ÖPNV: Unternehmen in die Finanzierung einbeziehen; Nahverkehr wird im Bundestag zum Streitfall; Sondervermögen Infrastruktur: Die klimagerechte Mobilitätswende braucht Investitionen; Reden - Fraktion Die Linke im Bundestag; Bahn frei für die Verkehrswende",
+      "url": "N/A",
+      "platform": "Presse, Website"
+    },
+    {
+      "name": "Michael Donth",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Michael Donth sieht das Deutschlandticket als zwar grundsätzlich positiv an, kritisiert jedoch die Finanzierung und Umsetzung. Er bemängelt, dass es primär Großstädtern zugutekomme, Steuerzahler belaste und Mittel für den ÖPNV-Ausbau fehlten. Er fordert transparente Mittelverwendung, eine bessere Vernetzung von Stadt und Land sowie eine Reform des Eisenbahnregulierungsgesetzes angesichts drohender Trassenpreiserhöhungen, um den ÖPNV langfristig zu sichern.",
+      "source_title": "Finanzierung des Deutschlandtickets bis 2030 vereinbart; Bareiß/Donth: Angebot muss besser werden; 49-Euro-Ticket: ÖPNV-Finanzierung: Streit über Verwendungsnachweise der Länder; Bundesregierung enttäuscht bei 49-Euro-Ticket weiter auf ganzer Linie; Michael Donth zu den drohenden Trassenpreiserhöhungen im Nahverkehr ab 2026: „Eine Katastrophe für den ÖPNV!“; Donth erneut zum Obmann im Verkehrs-Ausschuss sowie zum Obmann im Tourismus-Ausschuss gewählt",
+      "url": "https://www.michael-donth.de/donth-erneut-zum-obmann-im-verkehrs-ausschuss-sowie-zum-obmann-im-tourismus-ausschuss-gewaehlt/",
+      "platform": "Presse, Website"
+    },
+    {
+      "name": "Wolfgang Wiehle",
+      "party": "AfD",
+      "found": true,
+      "statement": "Wolfgang Wiehle lehnt einen kostenlosen oder stark subventionierten ÖPNV vehement ab, da dies zu einer Belastung der Steuerzahler führe und Mittel für notwendige Infrastrukturverbesserungen entziehe. Er fordert stattdessen einen 'ehrlichen Preis' für das Deutschlandticket und zielgerichtete Sozialtarife, um eine qualitativ hochwertige, pünktliche und sichere Mobilität zu gewährleisten. Er kritisiert die 'Verkehrswende' als politisch gewollte Mangelwirtschaft.",
+      "source_title": "Für und Wider eines kostenlosen öffentlichen Nahverkehrs debattiert; Nahverkehr wird im Bundestag zum Streitfall; Deutschland-Ticket: Wer ehrlich rechnet, braucht keine Tricks!",
+      "url": "https://www.youtube.com/watch?v=AOBxIRIyeao",
+      "platform": "Presse, Social Media"
+    },
+    {
+      "name": "Martin Kröber",
+      "party": "SPD",
+      "found": true,
+      "statement": "Martin Kröber betont die Notwendigkeit massiver Investitionen in den ÖPNV-Ausbau und die Infrastruktur, um gesellschaftliche Teilhabe zu sichern. Er kritisiert, dass Regionalisierungsmittel nicht immer zielgerecht eingesetzt werden, und fordert die Länder auf, mehr Eigenmittel zu investieren und Schienenstrecken zu reaktivieren. Er sieht Taxis, besonders im ländlichen Raum, als unabdingbaren Teil der öffentlichen Daseinsvorsorge, für die gegebenenfalls Vorhalteprämien denkbar seien.",
+      "source_title": "49-Euro-Ticket kommt: Forderungen nach mehr Einsatz für ÖPNV; Positionspapier: ÖPNV und Deutschlandticket; Bundestagsabgeordneter kritisiert Verkehrspolitik in Sachsen-Anhalt; Martin Kröber: Nach dem Koalitionsvertrag hat die Wunschfee vier Jahre frei",
+      "url": "https://taxi-times.com/martin-kroeber-nach-dem-koalitionsvertrag-hat-die-wunschfee-vier-jahre-frei/",
+      "platform": "Presse, Website"
+    },
+    {
+      "name": "Victoria Broßart",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Victoria Broßart setzt sich für einen umfassenden Ausbau des ÖPNV als klimafreundliche Alternative ein und kritisiert dessen chronische Unterfinanzierung, besonders in den Kommunen. Sie fordert eine dauerhafte Erhöhung und Dynamisierung der GVFG-Mittel durch den Bund, die sich an der tatsächlichen Preisentwicklung orientiert, sowie die Förderung emissionsfreier Busantriebe und den Abbau bürokratischer Hürden.",
+      "source_title": "Nahverkehr wird im Bundestag zum Streitfall; Victoria Broßart | Bundestagsfraktion Bündnis 90/Die Grünen; Victoria Broßart - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Victoria_Bro%C3%9Fart",
+      "platform": "Presse, Website"
+    }
+  ]
+}

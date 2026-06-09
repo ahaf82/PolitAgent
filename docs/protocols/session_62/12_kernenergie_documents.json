@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4460",
+      "title": "Anzahl staatlich subventioniert neu zu errichtender Gaskraftwerke durch den Wiedereinstieg in die Kernenergie verringern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4460&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4461",
+      "title": "Kernenergie als umweltfreundliche und saubere Energie anerkennen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4461&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Vorlagen (Drucksachen 21/4460 und 21/4461) wurden nach der Aussprache an den federführenden Ausschuss für Wirtschaft und Energie zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

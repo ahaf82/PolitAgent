@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur Wissenschafts- und Meinungsfreiheit an Hochschulen spiegeln die im Bundestag geäußerten Positionen wider und vertiefen diese. Abgeordnete der AfD, wie Dr. Ingo Hahn, Daniel Zerbin und Michael Kaufmann, betonen die Notwendigkeit, die Wissenschaftsfreiheit vor ideologischer Vereinnahmung und politischem Druck zu schützen und fordern eine solide Grundfinanzierung. Sie kritisieren die Regierung für unzureichende Maßnahmen und thematisieren die Gefahr extremistischer Einflüsse. Im Gegensatz dazu setzen sich Ayse Asar (Bündnis 90/Die Grünen) und Oliver Kaczmarek (SPD) für eine starke institutionelle Autonomie, verlässliche Finanzierung und den Schutz vor Desinformation ein. Sie sehen die Gefahr einer selektiven Anwendung von Wissenschaftsfreiheit durch die AfD und treten für eine offene und vielfältige Forschungslandschaft ein. Für Dr. Hans Theiss (CDU/CSU) wurden keine spezifischen externen Stellungnahmen zu diesem Thema gefunden.",
+  "sources": [
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Ingo Hahn kritisiert einen Gesetzentwurf der Bundesregierung zur Wissenschaftsfreiheit als unzureichend, da er die tatsächlichen Probleme im Wissenschaftsbetrieb verkenne. Er betont, dass der Bund dort, wo er Fördermittel vergibt, offene Debatten und den Schutz von Wissenschaftlern vor Benachteiligung aufgrund ihrer Meinung sicherstellen muss und warnt vor wachsender Selbstzensur und eingeschränktem wissenschaftlichem Diskurs. Zuvor hatte er sich bereits für den Freispruch eines Biologieprofessors eingesetzt, dessen auf Expertise basierende Kritik als Meinungsäußerung von der Freiheit der Wissenschaft gedeckt sei.",
+      "source_title": "Gesetzentwurf der Regierung zur Wissenschaftsfreiheit ist unzureichend - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/gesetzentwurf-der-regierung-zur-wissenschaftsfreiheit-ist-unzureichend/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Hans Theiss",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Daniel Zerbin",
+      "party": "AfD",
+      "found": true,
+      "statement": "Daniel Zerbin fordert einen Kodex zur Regulierung der Religionsausübung an Hochschulen nach dem Grundgesetz, um antisemitische Anfeindungen und islamistische Vorfälle zu unterbinden. Er betont, dass Hochschulen Orte der Freiheit sind, an denen Meinungs- und Wissenschaftsfreiheit gelebt und gewahrt werden müssen, und dass alle Mitglieder sich dort sicher fühlen sollten.",
+      "source_title": "Klare Kante gegen radikalen Islamismus an Hochschulen! - AfD-Fraktion NRW",
+      "url": "https://afd-fraktion.nrw/allgemein/klare-kante-gegen-radikalen-islamismus-an-hochschulen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ayse Asar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Ayse Asar betont, dass die Bundesregierung die Wissenschaftsfreiheit international und in Deutschland entschlossen verteidigen muss, da sie weltweit unter Druck steht. Sie fordert eine stabile und dauerhafte Grundfinanzierung der Hochschulen, um deren Unabhängigkeit und Widerstandsfähigkeit gegen politischen Druck zu gewährleisten, und warnt vor einer 'Hochglanz Hightech Agenda' als Ersatz dafür. Zudem setzt sie sich auf Abgeordnetenwatch für eine stärkere Pflicht der sozialen Netzwerke gegen Falschinformationen ein und betont die Notwendigkeit von Medienbildung.",
+      "source_title": "Ayse Asar: Bundesregierung muss Wissenschaftsfreiheit international und in Deutschland entschlossen verteidigen | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/presse/2026/pm-maerz-2026/ayse-asar-bundesregierung-muss-wissenschaftsfreiheit-international-und-in-deutschland-entschlossen-verteidigen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Oliver Kaczmarek",
+      "party": "SPD",
+      "found": true,
+      "statement": "Oliver Kaczmarek betont die Attraktivität Deutschlands als Forschungs- und Wissenschaftsstandort, die nicht zuletzt auf dem hohen Maß an Wissenschaftsfreiheit beruht. Er kritisiert die AfD scharf für ihre Absicht, Forschungsgelder in zahlreichen Bereichen zu kürzen oder zu streichen, und bekräftigt, dass Forschungsgelder nicht nach politischem Gusto der AfD vergeben werden dürfen. Als forschungspolitischer Sprecher setzt er sich zudem für bessere Arbeitsbedingungen in der Wissenschaft ein.",
+      "source_title": "Plenarrede zur Wissenschafts- und Meinungsfreiheit an Universitäten - Oliver Kaczmarek, MdB",
+      "url": "https://www.oliver-kaczmarek.de/2026/04/plenarrede-zur-wissenschafts-und-meinungsfreiheit-an-universitaeten/",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Kaufmann",
+      "party": "AfD",
+      "found": false,
+      "statement": "Michael Kaufmann verurteilt Angriffe auf die Wissenschaftsfreiheit, wie die Besetzung des Präsidiums der Freien Universität Berlin, als massive Einschüchterungsversuche gegenüber Wissenschaftlern. Er setzt sich auf seiner Website für die Stärkung der Autonomie der Hochschulen, eine solide Grundfinanzierung zur Unabhängigkeit von Drittmitteln und den Schutz der Freiheit von Forschung und Lehre ohne ideologische Schranken ein. Zudem kritisiert er die chronische Unterfinanzierung der Hochschulen für Angewandte Wissenschaften.",
+      "source_title": "AfD-Fraktion verurteilt Angriff auf die Wissenschaftsfreiheit - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

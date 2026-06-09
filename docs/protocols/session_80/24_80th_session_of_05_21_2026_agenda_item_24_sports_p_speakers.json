@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zum Spitzensportfördergesetz spiegeln größtenteils die Positionen wider, die sie auch im Plenum vertreten haben. Staatsministerin Dr. Christiane Schenderlein (Bundesregierung) verteidigt das Gesetz als Meilenstein für eine leistungsstärkere und transparentere Förderung des deutschen Spitzensports durch eine unabhängige Agentur. Oppositionsparteien äußerten sich kritisch: Bettina Lugk (SPD) und Tina Winklmann (Bündnis 90/Die Grünen) fordern eine stärkere Athletenbeteiligung und Unabhängigkeit der Agentur von Verbandsinteressen. Christian Görke (Die Linke) sieht das Gesetz als unzureichend finanziert und kritisiert mangelnde Athletenrechte. Jörn König (AfD) fordert ebenfalls eine bessere Athletenvertretung und mehr finanzielle Mittel, während Stephan Mayer (CDU/CSU) das Gesetz als notwendigen Paradigmenwechsel lobt, aber im parlamentarischen Verfahren Nachbesserungen fordert, insbesondere zur Rolle des Bundes und des DOSB. Die Debatte wird als vertane Reformchance von Grünen und Linken, aber als wichtiger Schritt von Koalition und Union gesehen.",
+  "sources": [
+    {
+      "name": "Dr. Christiane Schenderlein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Staatsministerin Dr. Christiane Schenderlein sieht das Sportfördergesetz als einen 'Meilenstein' und eine 'zentrale Reform', um den deutschen Spitzensport wieder in die internationale Spitze zu bringen. Sie betont, dass die neue unabhängige Spitzensportagentur klare Zuständigkeiten schaffen, schnelle Entscheidungen ermöglichen und die Förderung konsequent an Leistung und sportfachlicher Kompetenz ausrichten soll. Sie verteidigt auch den Standort Leipzig für die Agentur und weist Kritik an mangelnder Unabhängigkeit zurück, indem sie eine Eingliederung unter das Dach des DOSB ablehnt.",
+      "source_title": "Förderung: „Meilenstein“: Kabinett beschließt neues Sportfördergesetz - Tagesspiegel",
+      "url": "https://www.tagesspiegel.de/sport/forderung-meilenstein-kabinett-beschliesst-neues-sportfordergesetz-15399116.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jörn König",
+      "party": "AfD",
+      "found": true,
+      "statement": "Jörn König (AfD) begrüßt die gesetzliche Grundlage für die Spitzensportförderung, kritisiert jedoch, dass der Entwurf nur ein Anfang sei und fordert konkrete Verbesserungen. Er fordert die Entsendung von Athletenvertretern mit Stimmrecht in den Stiftungsrat der Agentur und eine Verdreifachung der Trainer- und Athletenvertreter im Sportfachbeirat. Er sieht das Gesetz als wichtig an, um den 'beispiellosen Niedergang' des deutschen Spitzensports zu stoppen, und betonte die Notwendigkeit von mehr Geld für den Leistungssport und die Verbesserung der Sportstätteninfrastruktur.",
+      "source_title": "AfD-Fraktion legt Plan zur Förderung des Spitzensports vor - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/afd-fraktion-legt-plan-zur-foerderung-des-spitzensports-vor/",
+      "platform": "Website"
+    },
+    {
+      "name": "Bettina Lugk",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bettina Lugk (SPD) betont, dass Athletinnen und Athleten sowie Trainer im Mittelpunkt der Sportreform stehen müssen. Sie befürwortet die Spitzensportagentur zur effizienteren Steuerung, sieht aber erheblichen Optimierungsbedarf bei den Mitwirkungsrechten der Athleten und der Sicherstellung der Unabhängigkeit der Agentur von Verbandsinteressen. Sie kritisiert, dass im Gesetzentwurf 'vieles schwammig, unklar' sei und die Betroffenen nicht im Mittelpunkt stünden.",
+      "source_title": "Sportfördergesetz: Reform muss echten Fortschritt für Athletinnen und Athleten bringen | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/sportfoerdergesetz-reform-muss-echten-fortschritt-athletinnen-athleten-0",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tina Winklmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Tina Winklmann (Bündnis 90/Die Grünen) kritisiert, dass der Kabinettsbeschluss zum Sportfördergesetz keine echte Reform darstelle und alte Machtstrukturen absichere. Sie fordert eine steuernde und transparente Spitzensportagentur, einen stimmberechtigten Sitz für eine unabhängige Athletenvertretung im Stiftungsrat und die verbindliche Umsetzung des Safe Sport Code als Fördervoraussetzung. Sie bemängelt, dass im geplanten Gesetz eine fehlende Mitsprache der Athletinnen und Athleten zu erkennen sei.",
+      "source_title": "Tina Winklmann: Kabinett gibt Entwurf zum Sportfördergesetz frei, Reformchance vertan | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/presse/2026/pm-maerz-2026/tina-winklmann-kabinett-gibt-entwurf-zum-sportfoerdergesetz-frei-reformchance-vertan/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Christian Görke (Die Linke) bezeichnet das Sportfördergesetz als 'Stillstand mit Ansage' und 'Politbüro 2.0', da es die alte Logik der Medaillenzählung beibehalte und Athleten zu Statisten mache. Er fordert eine langfristige Ausfinanzierung des Spitzensports mit einem jährlichen Aufwuchs von 10% im Haushalt und kritisiert die mangelnde stimmberechtigte Vertretung von Athleten und des Behindertensportverbandes im Stiftungsrat. Zudem bemängelt er, dass die Regierung die Unterfinanzierung des Sports nicht angeht.",
+      "source_title": "Rede von Christian Görke am 21.05.2026 - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-christian-goerke-am-21052026/",
+      "platform": "Website"
+    },
+    {
+      "name": "Stephan Mayer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Stephan Mayer (CDU/CSU) bewertet den Gesetzentwurf grundsätzlich als 'sehr notwendig und auch sehr gut', der einen 'Paradigmenwechsel' durch die unabhängige Sportagentur einleite. Er sieht jedoch Verbesserungsbedarf im parlamentarischen Verfahren, insbesondere bei der klaren Regelung der Zuständigkeiten der Sportagentur und dem Einfluss des Bundes. Er kritisierte einen früheren Entwurf als 'Mogelpackung', da die Agentur nicht unabhängig genug sei und forderte, dem DOSB einen Sitz im Stiftungsrat zuzuweisen.",
+      "source_title": "Mayer: Echte Spitzensportreform steht weiterhin aus - Presseportal",
+      "url": "https://www.presseportal.de/pm/7846/5903044",
+      "platform": "Presse"
+    }
+  ]
+}
