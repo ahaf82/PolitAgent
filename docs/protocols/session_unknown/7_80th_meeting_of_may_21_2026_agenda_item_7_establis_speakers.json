@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte haben die Abgeordneten ihre im Plenum vertretenen Positionen zum Nord-Stream-Angriff und der Forderung nach einem Untersuchungsausschuss bekräftigt oder weiter ausgeführt. Markus Frohnmaier (AfD) betonte die Notwendigkeit einer Aufklärung der mutmaßlichen ukrainischen Beteiligung und forderte eine Wiederinbetriebnahme der Pipelines sowie eine Wiederaufnahme der russischen Gaslieferungen, wobei er auch den Gazprom-Chef traf. Demgegenüber lehnten Dr. Hendrik Hoppenstedt (CDU/CSU), Daniel Baldy (SPD) und Marc Henrichmann (CDU/CSU) den AfD-Antrag weiterhin ab, verwiesen auf die laufenden Ermittlungen des Generalbundesanwalts und warfen der AfD vor, russische Narrative zu verbreiten oder parteipolitische Ziele zu verfolgen. Ina Latendorf (Die Linke) sah den AfD-Antrag ebenfalls als populistische Wahlkampfaktion und kritisierte die Energiepolitik vergangener Regierungen, während sie der AfD die Verbreitung von Fake News vorwarf.",
+  "sources": [
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Frohnmaier forderte in einer Pressemitteilung und einem Interview die Einsetzung eines Untersuchungsausschusses zur lückenlosen Aufklärung des Nord-Stream-Anschlags. Er verwies auf identifizierte ukrainische Tatverdächtige und kritisierte die fehlende Transparenz der Bundesregierung. Er traf sich zudem mit dem Gazprom-Chef Alexej Miller, um eine mögliche Wiederinbetriebnahme der Pipelines und die Wiederaufnahme russischer Gaslieferungen zu besprechen.",
+      "source_title": "AfD-Fraktion verlangt Untersuchungsausschuss zur Nord-Stream-Sprengung / Putin-Vertrauter spricht mit AfD-Politiker über Nord Stream",
+      "url": "https://live.deutsche-boerse.com/nachrichten/Putin-Vertrauter-spricht-mit-AfD-Politiker-ueber-Nord-Stream-753e2e6d-380b-4163-bd45-6c97e28f3ec8",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Dr. Hendrik Hoppenstedt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Hoppenstedt lehnte den AfD-Antrag zum Untersuchungsausschuss aus rechtlichen und politischen Gründen ab. Er betonte, dass der Generalbundesanwalt kompetent ermittle und ein Untersuchungsausschuss nur für abgeschlossene Missstände gedacht sei. Er warf der AfD vor, pro-russische Narrative zu verbreiten und ein politisches Schaulaufen zu inszenieren.",
+      "source_title": "Untersuchungsausschuss zu den Nord-Stream-Pipelines gefordert - Deutscher Bundestag / Wer steckt hinter der Sabotage? AfD-Antrag zu Nordstream im Bundestag - Audimax.de",
+      "url": "https://audimax.de/politik/wer-steht-hinter-der-sabotage-kontroverse-debatte-zum-afd-antrag-fur-nordstream-untersuchungsausschuss/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Daniel Baldy",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Baldy betonte, dass die Bundesregierung umfassende Maßnahmen zum Schutz kritischer Infrastruktur ergreife und daher kein Untersuchungsausschuss nötig sei. Er verwies auf die laufenden Ermittlungen des Generalbundesanwalts und sah keine Notwendigkeit für 'parlamentarische Hilfssheriffs'. Er stimmte auch gegen einen Grünen-Antrag, der sich gegen die Wiederaufnahme russischer Energieimporte aussprach.",
+      "source_title": "Untersuchungsausschuss zu den Nord-Stream-Pipelines gefordert - Deutscher Bundestag / Ablehnung des Grünen-Antrags gegen die Weiterführung der Nord-Stream-Pipelines | abgeordnetenwatch.de",
+      "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/ablehnung-des-gruenen-antrags-gegen-die-weiterfuehrung-der-nord-stream-pipelines/tabelle?constituency=All&fraction=All&order=last_name&sort=asc&page=1",
+      "platform": "Presse / Abgeordnetenwatch"
+    },
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ina Latendorf bezeichnete den AfD-Antrag als 'populistische Fahrkarte' für den Wahlkampf und warf der AfD Heuchelei und Antiaufklärung vor. Sie betonte, dass Putin den Gashahn bereits vor dem Anschlag zugedreht habe und kritisierte die energiepolitischen Fehler vergangener Regierungen.",
+      "source_title": "Untersuchungsausschuss zu den Nord-Stream-Pipelines gefordert - Deutscher Bundestag / Bundestag: AfD fordert Nord‑Stream‑Untersuchungsausschuss – Grüne sprechen von „Kniefall vor Putin“ - WELT",
+      "url": "https://www.welt.de/politik/deutschland/article6a0edd20f0f7eb608db79258/bundestag-afd-fordert-nordstreamuntersuchungsausschuss-gruene-sprechen-von-kniefall-vor-putin.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marc Henrichmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Marc Henrichmann lobte die Sicherheitsbehörden im August 2025 für die Festnahme eines Ukrainers im Zusammenhang mit der Nord-Stream-Sabotage und betonte die Notwendigkeit einer lückenlosen Aufklärung durch die Ermittler. Er bezeichnete den AfD-Antrag als 'reine Wahlkampfshow' und als Instrument hybrider Kriegsführung Russlands.",
+      "source_title": "Nord-Stream-Festnahme: Henrichmann lobt Sicherheitsbehörden - regionalHeute.de / Untersuchungsausschuss zum Angriff auf Nord Stream-Pipelines gefordert - Das Parlament",
+      "url": "https://www.das-parlament.de/inland/bundestag/untersuchungsausschuss-zum-angriff-auf-nord-stream-pipelines-gefordert",
+      "platform": "Presse"
+    }
+  ]
+}

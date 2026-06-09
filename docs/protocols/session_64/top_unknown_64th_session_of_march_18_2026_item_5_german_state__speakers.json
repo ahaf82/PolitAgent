@@ -1,41 +1,41 @@
 {
-  "synthesis": "Die Debatte um das deutsche Staatsgold im Bundestag zeigte die klaren ideologischen Gräben zwischen der AfD und den anderen Fraktionen. Während Peter Boehringer (AfD) und seine Partei die vollständige Heimholung des Goldes als Akt der Souveränität und Risikominimierung fordern und dies auch seit Jahren öffentlich vertreten, betonen die Vertreter der anderen Parteien die strategische Diversifizierung der Lagerorte und die Unabhängigkeit der Bundesbank. Außerhalb des Plenums konnte vor allem Peter Boehringer eine konsistente Positionierung zum Thema 'Deutsches Staatsgold' über seine Parteiwebsite, seine persönliche Historie als Initiator und in Presseartikeln belegen. Für die anderen identifizierten Redner – Mechthilde Wittmann (CDU/CSU), Dr. Sebastian Schäfer (Bündnis 90/Die Grünen), Dr. Philipp Rottwilm (SPD) und Doris Achelwilm (Die Linke) – ließen sich im Rahmen der Suche keine expliziten externen Stellungnahmen oder Beiträge zu diesem spezifischen Thema außerhalb ihrer parlamentarischen Redebeiträge finden.",
+  "synthesis": "Die Debatte um das deutsche Staatsgold zeigte außerhalb des Bundestages eine Fortführung der im Plenum geäußerten Positionen. Peter Boehringer von der AfD bekräftigte in Pressemitteilungen und Online-Formaten seine langjährige Forderung nach vollständiger Rückführung der Goldreserven, begründet durch Bedenken hinsichtlich Souveränität und Bilanzsolidität der Bundesbank. Vertreter der CDU/CSU, Bündnis 90/Die Grünen und SPD – Mechthilde Wittmann, Dr. Sebastian Schäfer und Dr. Philipp Rottwilm – lehnten den AfD-Antrag extern ab. Sie verwiesen auf die strategische Diversifizierung der Lagerorte und die Unabhängigkeit der Bundesbank. Für Doris Achelwilm von Die Linke konnten keine spezifischen externen Stellungnahmen zum Thema Staatsgold über ihre Beteiligung an der Parlamentsdebatte hinaus identifiziert werden.",
   "sources": [
     {
       "name": "Peter Boehringer",
       "party": "AfD",
       "found": true,
-      "statement": "Peter Boehringer ist seit langem ein Verfechter der vollständigen Rückholung des deutschen Staatsgoldes. Er war der Hauptinitiator der Bürgerinitiative 'Holt unser Gold heim' und hat ein Buch zu diesem Thema veröffentlicht. Die AfD-Fraktion reichte am 17. März 2026 einen Antrag zur vollständigen Repatriierung der Goldreserven ein, wobei Boehringer die Position vertrat, dass die Auslands-Lagerung Drittparteien- und Sanktionsrisiken unterliege und die nationale Souveränität gefährde.",
-      "source_title": "AfD-Fraktion im Deutschen Bundestag - Antrag 'Deutsches Staatsgold vollständig nach Deutschland holen' / 'Holt unser Gold heim' Initiative",
-      "url": "https://afdbundestag.de/deutsches-staatsgold-vollstaendig-nach-deutschland-holen/",
-      "platform": "Website"
+      "statement": "Peter Boehringer kritisierte die Bundesbank für ihre Erklärungen zur Verlustsituation und betonte, dass die Bilanz nur durch die Aufwertungsgewinne des Staatsgoldes 'solide' erscheine. Er hielt es für absurd, den Substanzwert des Goldes als bloßen 'Symbolwert' zu bezeichnen. Zudem forderte er vor der Debatte in einem Video, das Gold heimzuholen und nicht 'heuchlerisch' zu sein, da die Goldreserven jahrzehntelang vernachlässigt wurden und die Überprüfung der physischen Existenz mangelhaft sei.",
+      "source_title": "Die Bundesbank hat Grund, sich zu ihrer Bilanz zu erklären - AfD / Now we're holding the Bundestag to an oath regarding German gold! – Boehringer near Bubeck (YouTube)",
+      "url": "https://www.youtube.com/watch?v=zL2aTmom4R4&vl=de",
+      "platform": "Presse / Social Media"
     },
     {
       "name": "Mechthilde Wittmann",
       "party": "CDU/CSU",
-      "found": false,
-      "statement": "N/A",
-      "source_title": "N/A",
-      "url": "N/A",
-      "platform": "N/A"
+      "found": true,
+      "statement": "Mechthilde Wittmann lehnte die Forderung der AfD, das deutsche Staatsgold zurückzuholen, als 'Witzantrag' ab, wie in einem Bericht von 'Das Parlament' nach der Debatte zitiert. Sie betonte, dass Goldreserven ein strategischer Stabilitätsanker seien, mit dem man nicht mit Alarmismus oder politisch fahrlässig umgehen dürfe.",
+      "source_title": "AfD will Bundesbank-Gold nach Deutschland holen - Das Parlament",
+      "url": "https://www.das-parlament.de/wirtschaft/finanzen/afd-will-bundesbank-gold-nach-deutschland-holen",
+      "platform": "Presse"
     },
     {
       "name": "Dr. Sebastian Schäfer",
       "party": "Bündnis 90/Die Grünen",
       "found": false,
-      "statement": "N/A",
-      "source_title": "N/A",
+      "statement": "Dr. Sebastian Schäfer bekräftigte, dass das deutsche Staatsgold in den Tresoren der Federal Reserve Bank in New York City sicher sei. Er hob hervor, dass die Diversifizierung der Lagerorte sinnvoll sei, um im Krisenfall den Tausch in die Reservewährung Dollar zu ermöglichen.",
+      "source_title": "AfD will Bundesbank-Gold nach Deutschland holen - Das Parlament",
       "url": "N/A",
-      "platform": "N/A"
+      "platform": "Presse"
     },
     {
       "name": "Dr. Philipp Rottwilm",
       "party": "SPD",
       "found": false,
-      "statement": "N/A",
-      "source_title": "N/A",
+      "statement": "Dr. Philipp Rottwilm betonte, dass das Gold nicht wegen eines inhärenten Wertes gehalten werde, sondern um es im absoluten Krisenfall gegen Güter oder Devisen eintauschen zu können. Er wies darauf hin, dass eine vorherige Heimholung impraktikabel wäre, um schnell auf US-Dollar zugreifen zu können.",
+      "source_title": "AfD will Bundesbank-Gold nach Deutschland holen - Das Parlament",
       "url": "N/A",
-      "platform": "N/A"
+      "platform": "Presse"
     },
     {
       "name": "Doris Achelwilm",

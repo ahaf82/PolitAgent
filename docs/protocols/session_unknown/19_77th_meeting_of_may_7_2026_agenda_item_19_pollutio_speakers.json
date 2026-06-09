@@ -1,0 +1,59 @@
+{
+  "synthesis": "Abgeordnete wie Karl Bär (Bündnis 90/Die Grünen) und Christin Willnat (Die Linke) fordern außerhalb des Bundestages vehement umfassende, gruppenbasierte Verbote von PFAS und betonen die Notwendigkeit des Verursacherprinzips sowie Entschädigungsfonds für Betroffene. Bär hebt dabei die Kontamination von Gewässern wie dem Tegernsee durch TFA hervor und kritisiert das Zögern bei der Regulierung von Pestiziden und Kühlmitteln. Christin Willnat unterstreicht die PFAS-Belastung als soziale Frage und fordert konsequente Grenzwerte. Dr. Franziska Kersten (SPD) spricht sich ebenfalls für eine gruppenbasierte Beschränkung aus, betont jedoch die Notwendigkeit eines differenzierten Vorgehens mit Ausnahmen für gesellschaftlich unerlässliche Anwendungen, um eine ausgewogene Lösung zu finden. Für Anna Aeikens (CDU/CSU), Dario Seifert (AfD) und Stefan Seidler (fraktionslos) konnten in den bereitgestellten Quellen keine expliziten externen Stellungnahmen zum Thema PFAS jenseits ihrer parlamentarischen Beiträge identifiziert werden.",
+  "sources": [
+    {
+      "name": "Karl Bär",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Karl Bär betont, dass Ewigkeitschemikalien, insbesondere TFA, flächendeckend Gewässer wie den Tegernsee belasten. Er fordert die Entfernung von PFAS, um Natur und Trinkwasser zu bewahren, und setzt sich dafür ein, dass alle Pestizide und Kühlmittel, die zu TFA zerfallen, vom Markt genommen werden. Seine Fraktion hat einen Antrag im Bundestag eingebracht, der ein umfassendes Verbot zur Eindämmung der PFAS-Flut fordert und das Verursacherprinzip anwenden will.",
+      "source_title": "Am Tegernsee: Karl Bär | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Anna Aeikens",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dario Seifert",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Franziska Kersten",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Franziska Kersten tritt als Berichterstatterin der SPD-Bundestagsfraktion für eine ausgewogene Lösung zum Thema PFAS ein. Sie befürwortet die Beschränkung der Stoffe nach dem Vorsorgeprinzip aufgrund ihrer Langlebigkeit, betont jedoch gleichzeitig die Notwendigkeit von Ausnahmen für gesellschaftlich wichtige Anwendungen wie Medizingeräte und Elektrobatterien. Das EU-Beschränkungsverfahren soll entscheiden, wo PFAS zugelassen bleiben oder ersetzt werden müssen.",
+      "source_title": "Wie ist Ihre Haltung zum Thema PFAS-Verbot? | Frage an Franziska Kersten (SPD)",
+      "url": "https://www.abgeordnetenwatch.de/politician/146793/fragen-antworten/wie-ist-ihre-haltung-zum-thema-pfas-verbot",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Christin Willnat",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Christin Willnat fordert eine gruppenbasierte Regulierung der gesamten PFAS-Stoffgruppe nach dem Vorsorgeprinzip, klare Grenzwerte und die volle Entschädigung von Betroffenen durch die Verursacher. Sie sieht PFAS als soziale Frage, da sauberes Trinkwasser kein Luxus sein darf, und kritisiert das systematische Versagen bisheriger Regulierungen, die ein Verbot einzelner Stoffe durch den Ersatz ähnlicher Substanzen umgehen.",
+      "source_title": "Christin Willnat (MdB) | Die Linke Brandenburg | Für Euch im Bundestag.",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Stefan Seidler",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

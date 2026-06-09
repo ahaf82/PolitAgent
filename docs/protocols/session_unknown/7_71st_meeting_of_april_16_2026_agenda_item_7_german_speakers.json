@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zu den deutschen Klimaschutzmaßnahmen spiegeln die parteispezifischen Positionen wider und vertiefen diese. Karsten Hilse (AfD) bekräftigte seine Skepsis gegenüber dem menschengemachten Klimawandel und forderte ein Ende der bestehenden Klimapolitik zur Senkung der Energiekosten. Andreas Jung (CDU/CSU) betonte die Notwendigkeit, Klimaschutz mit wirtschaftlicher Stärke und sozialem Ausgleich zu verbinden und sprach sich für marktwirtschaftliche Instrumente wie den Emissionshandel aus. Lisa Badum (Bündnis 90/Die Grünen) forderte einen beschleunigten Ausbau erneuerbarer Energien und kritisierte unzureichende staatliche Maßnahmen, während Jakob Blankenburg (SPD) einen sozial gerechten und bezahlbaren Klimaschutz in den Vordergrund stellte und regierungsinterne Energiepakete kritisierte, die Fehlanreize setzen könnten.",
+  "sources": [
+    {
+      "name": "Karsten Hilse",
+      "party": "AfD",
+      "found": false,
+      "statement": "Karsten Hilse bestreitet den maßgeblichen Einfluss des Menschen auf das Klima und bezeichnet Klimaschutzmaßnahmen als „unverantwortliche, ja asoziale Klimaschutzpolitik“. Er fordert stattdessen den Ausbau der Kernkraft und eine faktenbasierte Energiepolitik, basierend auf der Annahme, dass bisher keine wissenschaftlichen Belege für einen maßgeblichen menschlichen Einfluss vorliegen.",
+      "source_title": "Die AfD ist die einzige der 6 großen Parteien, die eine Energiepolitik ohne Fantasietechnologien will. Warum glaubt die AfD aber an Fantasiephysik, obwohl dies gar nicht notwendig ist? | Frage an Karsten Hilse (AfD) - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Andreas Jung",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Andreas Jung betont, dass Klimaschutz nur im Dreiklang mit wirtschaftlicher Stärke und sozialem Ausgleich gelingen kann, um Arbeitsplätze und Wettbewerbsfähigkeit zu erhalten. Er befürwortet den Ausbau erneuerbarer Energien und fordert Reformen im Emissionshandel, um die deutsche Industrie zu schützen und Planungs- und Investitionssicherheit zu gewährleisten.",
+      "source_title": "CDU-Vize Jung: 'Wir nehmen die Mineralölkonzerne in die Pflicht' | WEB.DE",
+      "url": "https://web.de/magazine/politik/cdu-vize-jung-mineraloelkonzerne-pflicht-38018956",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lisa Badum",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Lisa Badum kritisiert die Klimapolitik der Bundesregierung als unzureichend und fordert strukturelle Maßnahmen, um Deutschland aus der Abhängigkeit von Öl- und Gasheizungen zu befreien und keine Anreize für neue Verbrenner zu schaffen. Sie setzt sich für den Ausbau günstiger erneuerbarer Energien, wie Wind und Solar, ein und spricht sich gegen die Kernenergie aus.",
+      "source_title": "Neues Klimaschutzprogramm der Bundesregierung: Interview mit Lisa Badum (Grüne) | 25.03.2026 - YouTube",
+      "url": "https://www.youtube.com/watch?v=kR6sI-E7x3c",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Jakob Blankenburg",
+      "party": "SPD",
+      "found": false,
+      "statement": "Jakob Blankenburg setzt sich als umwelt- und klimapolitischer Sprecher der SPD-Bundestagsfraktion für einen sozial gerechten Klimaschutz ein, der alle Menschen mitnimmt und bezahlbare Energie ermöglicht. Er kritisierte die Einigung der Koalition auf ein Energie-Entlastungspaket, da es Fehlanreize für fossile Mobilität setze und die Elektromobilität hemme.",
+      "source_title": "SPD-Abgeordnete kritisieren Tankrabatt als faktische Verlängerung für fossil betriebene Pkw-Zulassungen - Photon",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Fabian Pahl",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}
