@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen der in der Bundestagsdebatte zum Ausschuss für Sport und Ehrenamt genannten Abgeordneten zeigt, dass die Sprecherin für Sport und Ehrenamt der SPD-Fraktion, Bettina Lugk, sich aktiv und detailliert außerhalb des Plenums zu den Themen äußert. Sie betont die Notwendigkeit, das Ehrenamt zu stärken, bürokratische Hürden abzubauen und die Rahmenbedingungen für Engagierte zu verbessern, unter anderem durch Initiativen wie den „Zukunftspakt Ehrenamt“ und das Sportfördergesetz. Für die anderen identifizierten Abgeordneten – Artur Auernhammer (CDU/CSU), Martin Schieske (AfD), Dr. Ophelia Nick (Bündnis 90/Die Grünen) und Christian Görke (Die Linke) – ließen sich im Rahmen dieser Recherche keine spezifischen, externen Stellungnahmen zu den in der Ausschussdebatte behandelten Themen Sport und Ehrenamt außerhalb der parlamentarischen Arbeit (wie auf persönlichen Websites, Social Media oder in Pressemitteilungen ihrer Fraktionen) finden. Ihre Rollen als Mitglieder oder Obleute in den entsprechenden Ausschüssen sind zwar dokumentiert, aber konkrete, öffentliche Statements zu den spezifischen Debatteninhalten außerhalb des Parlaments waren nicht auffindbar.",
+  "sources": [
+    {
+      "name": "Bettina Lugk",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bettina Lugk unterstreicht die Wichtigkeit des Ehrenamts für den gesellschaftlichen Zusammenhalt und betont das Ziel der Koalition, es durch konkrete Maßnahmen wie den 'Zukunftspakt Ehrenamt' und das Steueränderungsgesetz 2025 zu stärken und bürokratische Hürden abzubauen. Sie hebt die Erhöhung von Ehrenamts- und Übungsleiterpauschalen hervor und fordert eine umfassende Aufarbeitung von Gewalt und Missbrauch im Fußball, um Kinder und Jugendliche zu schützen.",
+      "source_title": "Ehrenamt bekommt mehr Gewicht – erste Maßnahmen umgesetzt; Zukunftspakt Ehrenamt bringt konkrete Verbesserungen; Plenarrede – Zusammenhalt durch Engagement; Meine Plenarrede zur Sportpolitik der Bundesregierung; Plenarrede – Rüstungskontrolle und Abrüstung; Ehrung für Engagement; Sportausschuss Archive",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/ehrenamt-bekommt-mehr-gewicht-erste-massnahmen-umgesetzt;%20https://bettina-lugk.de/zukunftspakt-ehrenamt-bringt-konkrete-verbesserungen-fuer-engagierte-und-vereine-im-maerkischen-kreis/;%20https://bettina-lugk.de/plenarrede-zusammenhalt-durch-engagement-das-ehrenamt-als-rueckgrat-unserer-gesellschaft/;%20https://bettina-lugk.de/meine-plenarrede-zur-sportpolitik-der-bundesregierung/;%20https://bettina-lugk.de/;%20https://lokaldirekt.de/ehrenamt/ehrung-fuer-engagement;%20https://bettina-lugk.de/category/sportausschuss-archive/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Artur Auernhammer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Martin Schieske",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Ophelia Nick",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

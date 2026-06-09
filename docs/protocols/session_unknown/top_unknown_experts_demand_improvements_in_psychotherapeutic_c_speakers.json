@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten und ihrer Fraktionen zur psychotherapeutischen Versorgung sind geprägt von großer Sorge angesichts der Honorarkürzungen und struktureller Defizite. Abgeordnete von Bündnis 90/Die Grünen, Die Linke und AfD kritisieren die Kürzungen scharf als fatales Signal, das die Versorgung verschlechtert, Wartzeiten verlängert und Praxen wirtschaftlich unter Druck setzt. Sie fordern strukturelle Reformen, eine bedarfsgerechte Bedarfsplanung und die Sicherstellung der Finanzierung der Psychotherapeuten-Weiterbildung. Auch die CDU/CSU und SPD zeigen sich besorgt über die Auswirkungen der Kürzungen und betonen die Notwendigkeit einer verbesserten Versorgung, insbesondere für Kinder und Jugendliche sowie in ländlichen Regionen, um Chronifizierung zu verhindern und das Gesundheitssystem nachhaltig zu stärken.",
+  "sources": [
+    {
+      "name": "Carina Schießl",
+      "party": "AfD",
+      "found": true,
+      "statement": "Carina Schießl kritisiert die Honorarkürzungen für psychotherapeutische Leistungen um 4,5 Prozent als \"fatales Signal\" und einen \"Schlag ins Gesicht\" für Betroffene und Therapeuten. Sie warnt davor, dass dies die Rentabilität ambulanter Praxen gefährdet, zu einem Rückzug aus der kassenärztlichen Versorgung führt und eine \"soziale Spaltung im Gesundheitssystem\" begünstigt, da psychische Gesundheit kein Luxusgut sein dürfe. Sie fordert die Rücknahme des Beschlusses und unterstützt eine Petition.",
+      "source_title": "Honorarkürzungen gefährden die psychotherapeutische Versorgung - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/honorarkuerzungen-gefaehrden-die-psychotherapeutische-versorgung/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Kirsten Kappert-Gonther",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Kirsten Kappert-Gonther, als Fachärztin für Psychiatrie und Psychotherapie und Obfrau im Gesundheitsausschuss, bezeichnet die 4,5% Honorarkürzungen als \"inakzeptabel\" und ein \"verheerendes Signal\", das die Versorgungsschieflage verschärft und Fehlanreize zulasten gesetzlich Versicherter setzt. Sie betont die steigende psychische Belastung, besonders bei Kindern und Jugendlichen, und fordert \"nachhaltige Reformen und strukturelle Verbesserungen\", einschließlich einer neuen Bedarfsplanung und der gesicherten Finanzierung der psychotherapeutischen Weiterbildung. Sie hebt hervor, dass Psychotherapie Grundversorgung und keine Sparmasse ist und dass der Antrag ihrer Fraktion die Problembeschreibung der Sachverständigen in der Anhörung aufgreift.",
+      "source_title": "Die psychotherapeutische Versorgung stärken – nicht unter Druck setzen | Dr. Kirsten Kappert-Gonther",
+      "url": "https://kappert-gonther.de/neuigkeiten/die-psychotherapeutische-versorgung-staerken-nicht-unter-druck-setzen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Emmi Zeulner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Emmi Zeulner wurde auf Abgeordnetenwatch direkt zu ihrer Haltung gegen eine Budgetierung der Psychotherapie und den Auswirkungen der Rückführung psychotherapeutischer Leistungen in die MGV befragt, woraufhin ihr Team die Aufnahme der Anregungen in die weitere Diskussion bestätigte. Ihre Fraktion, die CDU/CSU, setzt sich grundsätzlich für eine Weiterentwicklung der Bedarfsplanung, insbesondere für Kinder und Jugendliche sowie in ländlichen Regionen, und den Ausbau der psychischen Krisen- und Notfallversorgung ein, um die Qualität der psychotherapeutischen Versorgung zu gewährleisten und Wartezeiten zu reduzieren.",
+      "source_title": "Stimmen Sie gegen eine Budgetierung der Psychotherapie? | Frage an Emmi Zeulner (CSU) - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/emmi-zeulner/fragen-antworten/stimmen-sie-gegen-eine-budgetierung-der-psychotherapie",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Wolfgang Schwarze",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Evelyn Schötz",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Evelyn Schötz kritisiert vehement die geplanten Honorarkürzungen für Psychotherapeuten als eine Maßnahme, die \"die Realität der Patientinnen und Patienten ignoriert\" und die psychotherapeutische Versorgung \"massiv gefährdet\". Sie warnt vor einer Verlängerung der Wartezeiten und einer Bevorzugung von Privatversicherten. Die Linke setzt sich für eine flächendeckende, bedarfsgerechte und solidarisch finanzierte Gesundheitsversorgung ein, die eine gesonderte Bedarfsplanung für Kinder- und Jugendpsychotherapeuten sowie eine ausreichende Finanzierung der Weiterbildung umfasst.",
+      "source_title": "Linke kritisiert Krankenkassen für Einsparversuch bei Psychotherapeuten - Deutsches Ärzteblatt",
+      "url": "https://www.aerzteblatt.de/news/linke-kritisiert-krankenkassen-fur-einsparversuch-bei-psychotherapeuten-6b3894eb-e5d6-4768-8041-ab91dbfeec58",
+      "platform": "Presse"
+    }
+  ]
+}

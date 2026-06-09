@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur 'Zeitenwende in der Zivilen Verteidigung' spiegeln die Debatten im Plenum wider, oft mit einem Fokus auf die jeweiligen Parteipositionen. Leon Eckert (Bündnis 90/Die Grünen) und seine Fraktion fordern vehement eine strukturelle Stärkung und Neuausrichtung der zivilen Verteidigung mit einem Operationsplan und stärkerer Bürgerbeteiligung. Sebastian Schmidt (CDU/CSU) und die Union betonen die bereits erzielten Fortschritte und erheblichen Investitionen in den Bevölkerungsschutz, sehen aber auch weitere Notwendigkeit zur Stärkung der Ehrenamtlichen. Rasha Nasr (SPD) unterstreicht ebenfalls die Investitionen und die Notwendigkeit einer umfassenden Krisenvorsorge, lehnt aber Zentralisierungen und verpflichtende Schulausbildungen ab. Die Linke, vertreten durch Jan Köstering, kritisiert weiterhin die mangelnde Verantwortung des Innenministeriums und lehnt eine Militarisierung des Gesundheitswesens ab, während die AfD (Arne Raue, Steffen Janich) die Regierung für mangelnde innere Sicherheit und Vernachlässigung der Zivilverteidigung scharf attackiert, oft unter Betonung innenpolitischer Bedrohungen und einer kritischen Haltung zu internationaler Diplomatie.",
+  "sources": [
+    {
+      "name": "Leon Eckert",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Leon Eckert und die Grünen-Bundestagsfraktion fordern eine strukturelle Stärkung der zivilen Verteidigung und die Umsetzung der 'Zeitenwende' in diesem Bereich, da sie diese als bisher ausgeblieben betrachten. Sie schlagen ein Reformpapier 2025-2029 vor, welches einen ressortübergreifenden Operationsplan, abgestimmte Schutzziele, klare Zuständigkeiten und die Stärkung der Selbstschutzfähigkeiten der Bürger*innen beinhaltet, sowie verbesserte Rahmenbedingungen für Ehrenamtliche.",
+      "source_title": "Grüne fordern „Zeitenwende“ in der Zivilen Verteidigung / Die Zeitenwende in der Zivilen Verteidigung umsetzen / Bevölkerungsschutz",
+      "url": "https://leon-eckert.de/meine-arbeit-im-bundestag/meine-initiativen/",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Sebastian Schmidt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sebastian Schmidt betont, dass die CDU/CSU die Zeitenwende im Bevölkerungsschutz bereits durch massive Investitionen in das BBK, THW, Spezialfahrzeuge und Warnsysteme umsetzt. Er hebt hervor, dass Deutschland krisenfester werden muss und die Verzahnung von militärischer und ziviler Verteidigung sowie die Stärkung der ehrenamtlichen Helfer essenziell sind.",
+      "source_title": "Bevölkerungsschutz: Deutschland muss krisenfester werden / Fraktionen befürworten Stärkung des Zivil- und Katastrophenschutzes",
+      "url": "https://table.media/berlin/talk-of-the-town/zivilschutz-regierung-bemueht-sich-um-signal-von-einigkeit-und-fortschritt",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Arne Raue",
+      "party": "AfD",
+      "found": false,
+      "statement": "Arne Raue kritisiert das Versagen der Regierungspolitik bei der zivilen Verteidigung, insbesondere den systematischen Abbau seit dem Kalten Krieg und die Vernachlässigung von Schutzräumen und Infrastruktur. Er fordert eine ehrliche Bestandsaufnahme der Verwundbarkeit des Landes und betont, dass die 'Zeitenwende' nur durch belastbare Schutzkonzepte glaubwürdig wird.",
+      "source_title": "Antrag zur „Zeitenwende in der Zivilen Verteidigung“ debattiert",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rasha Nasr",
+      "party": "SPD",
+      "found": true,
+      "statement": "Rasha Nasr begrüßt den 'Pakt für Bevölkerungsschutz' als Beleg für ein umfassenderes Denken der sicherheitspolitischen Herausforderungen, bei dem militärische und zivile Verteidigung zusammengehören. Sie betont die Notwendigkeit von Investitionen und Zusammenarbeit zwischen Bund, Ländern und Kommunen, lehnt jedoch neue Strukturdebatten und eine obligatorische Schulausbildung ab.",
+      "source_title": "Pakt für den Bevölkerungsschutz – für mehr zivile Resilienz / Fraktionen befürworten Stärkung des Zivil- und Katastrophenschutzes",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-aktuelle-stunde-bevoelkerungsschutz-1178882",
+      "platform": "Website / Presse"
+    },
+    {
+      "name": "Jan Köstering",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Jan Köstering begrüßt die Erkenntnis des Handlungsbedarfs im Bevölkerungsschutz, kritisiert jedoch, dass die Defizite in Ausstattung, Zuständigkeiten, Warnsystemen und Finanzierung seit der Hochwasserkatastrophe 2021 offengelegt sind. Die Linksfraktion lehnt eine 'Militarisierung des Gesundheitswesens' ab, da dies im Kriegsfall die zivile Versorgung gefährden würde, und fordert stattdessen den Schutz ziviler Einrichtungen.",
+      "source_title": "Fraktionen befürworten Stärkung des Zivil- und Katastrophenschutzes / Linke gegen die Militarisierung des Gesundheitswesens / Resilienz im Gesundheitswesen",
+      "url": "N/A",
+      "platform": "Presse / Website"
+    }
+  ]
+}

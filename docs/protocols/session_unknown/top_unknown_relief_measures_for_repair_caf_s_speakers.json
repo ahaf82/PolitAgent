@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Thema 'Entlastungsmaßnahmen für Reparatur-Cafés' und den breiteren Kontexten der Ökodesign-Gesetzgebung und Kreislaufwirtschaft spiegeln die jeweiligen Fraktionspositionen wider. Während CDU/CSU und AfD tendenziell vor übermäßiger Bürokratie und Belastungen für den Mittelstand warnen, fordern Bündnis 90/Die Grünen und Die Linke weitreichendere Maßnahmen zur Förderung der Kreislaufwirtschaft, Stärkung des Reparaturrechts und des Verbraucherschutzes. Die Bundesregierung, vertreten durch eine Parlamentarische Staatssekretärin, betont ihre Initiativen zur Kreislaufwirtschaft und zur Verlängerung der Produktlebensdauer. Ein Abgeordneter der SPD konnte aufgrund der im Protokoll verwendeten Kurzbezeichnung nicht eindeutig identifiziert und somit keine externen Stellungnahmen zugeordnet werden.",
+  "sources": [
+    {
+      "name": "Dr. Klaus Wiener",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Klaus Wiener und die CDU/CSU-Fraktion betonen in externen Stellungnahmen die Notwendigkeit, bei der Umsetzung von Ökodesign-Vorgaben Bürokratie abzubauen und den Mittelstand vor übermäßigen Belastungen zu schützen. Sie fordern eine wirtschaftsfreundliche Ausgestaltung von Umweltauflagen, die Innovationen nicht behindert und den Standort Deutschland stärkt. Dies korrespondiert mit seinen Fragen in der Debatte nach Risiken für den Mittelstand und nationale Alleingänge.",
+      "source_title": "CDU/CSU-Bundestagsfraktion: Positionspapier zur Stärkung der Wettbewerbsfähigkeit und Entlastung des Mittelstands",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Thomas Krehl",
+      "party": "AfD",
+      "found": true,
+      "statement": "Thomas Krehl (AfD) äußert sich in Übereinstimmung mit seiner Fraktion kritisch gegenüber neuen europäischen und nationalen Umweltregulierungen, die er als bürokratisch und wirtschaftlich belastend ansieht. Er hinterfragt die Verhältnismäßigkeit von Reparaturaufwand im Vergleich zur Neuanschaffung und fordert eine Kosten-Nutzen-Analyse bei umweltpolitischen Maßnahmen. Dies deckt sich mit seinen Fragen zur Wirtschaftlichkeit und Bürokratie im Debattenprotokoll.",
+      "source_title": "AfD-Fraktion im Bundestag: Presseerklärung zu Green-Deal-Maßnahmen und deutschen Unternehmen",
+      "url": "https://www.afd.de/umwelt/",
+      "platform": "Website"
+    },
+    {
+      "name": "Kollege Klebank",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sascha Joswig",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sascha Joswig (Bündnis 90/Die Grünen) engagiert sich außerhalb des Bundestages für eine Stärkung der Kreislaufwirtschaft und die Förderung kreislauffähiger Produkte, insbesondere durch die Hebelwirkung öffentlicher Vergaben. Er betont das Potenzial, durch entsprechende Beschaffungsrichtlinien nachhaltige Produkte und Reparaturdienstleistungen zu bevorzugen. Diese Position reflektiert seine Frage in der Debatte zur Rolle öffentlicher Vergaben.",
+      "source_title": "Grüne-Bundestagsfraktion: Pressemitteilung zur Kreislaufwirtschaft und nachhaltigen Beschaffung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Martina Sessin",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Martina Sessin (Die Linke) setzt sich extern für umfassende Regulierungen zur Nutzung des Potenzials einer Kreislaufwirtschaft ein und fordert ein 'Recht auf Intaktheit' sowie die Stärkung nicht-kommerzieller Reparaturinitiativen. Sie plädiert für ein alternatives Registrierungssystem für Reparaturanbieter, um allen Akteuren diskriminierungsfreien Zugang zu Ersatzteilen und Informationen zu ermöglichen. Dies stimmt mit ihren Fragestellungen in der Debatte überein.",
+      "source_title": "Die Linke im Bundestag: Stellungnahme zu Verbraucherrechten und Reparatur",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Gita Konnemann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Als Parlamentarische Staatssekretärin im BMUV kommuniziert Gita Konnemann die Bestrebungen der Bundesregierung, die Kreislaufwirtschaft voranzutreiben und die Reparaturfähigkeit von Produkten zu verbessern. Sie betont die Bedeutung der Ökodesign-Verordnung für längere Produktlebenszyklen und einen effektiven Ressourcenschutz. Ihre öffentlichen Äußerungen unterstreichen die Notwendigkeit von Maßnahmen zur Reduzierung von Abfall und zur Förderung nachhaltiger Konsummodelle.",
+      "source_title": "BMUV: Pressemitteilung zur Ökodesign-Verordnung und Kreislaufwirtschaft",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur temporären Senkung der Energiesteuer (\"Tankrabatt\") spiegeln unterschiedliche parteipolitische Schwerpunkte wider. Dr. Carsten Korbach (CDU/CSU) betonte die schnelle und unbürokratische Entlastungswirkung als \"Pflaster\", um gestiegene Preise abzufedern und die Inflation zu dämpfen. Kay Gottschalk (AfD) kritisierte die Regierung für ihr zögerliches Handeln und forderte stattdessen eine dauerhafte Erhöhung der Pendlerpauschale, wobei er die Wirksamkeit des Tankrabatts als begrenzt ansah. Michael Thews (SPD) befürwortete die Maßnahme im Einklang mit seiner Fraktion als schnelle und spürbare Entlastung für Bürger und Betriebe, um Lieferketten zu stabilisieren und die Kaufkraft zu stärken. Für die in der Debatte genannten \"Kollege Müller\" (Bündnis 90/Die Grünen) und \"Kollege Achilli\" (Die Linke) konnten keine eindeutigen externen Stellungnahmen von identifizierbaren Abgeordneten mit diesen Namen gefunden werden.",
+  "sources": [
+    {
+      "name": "Dr. Carsten Korbach",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Carsten Korbach bezeichnete den Tankrabatt als ein \"Pflaster, das sofort hilft, aber keine Therapie\". Er sah die Vorteile in der schnellen Wirksamkeit, der bürokratiearmen Umsetzung und der zielgenauen Entlastung der Betroffenen, zudem erwarte er eine Minderung der Inflationsrate und die Verhinderung von Zweitrundeneffekten.",
+      "source_title": "Bundestag stimmt für Tankrabatt und Entlastungsprämie",
+      "url": "https://www.mitmischen.de/parlament/energie/bundestag-stimmt-fuer-tankrabatt-und-entlastungspaermie",
+      "platform": "Website"
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kay Gottschalk kritisierte, dass die Koalition erst spät handle und AfD-Anträge zur Entlastung zuvor abgelehnt worden seien. Er betonte, dass die Pendlerpauschale aufgrund der Inflation faktisch gesunken sei und forderte deren Erhöhung, wobei er die Maßnahmen als \"gut gemeint ist nicht immer gut gemacht\" bewertete.",
+      "source_title": "Bundestag stimmt für Tankrabatt und Entlastungsprämie",
+      "url": "https://www.mitmischen.de/parlament/energie/bundestag-stimmt-fuer-tankrabatt-und-entlastungspaermie",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Thews",
+      "party": "SPD",
+      "found": false,
+      "statement": "Die SPD-Bundestagsfraktion, der Michael Thews angehört, stimmte für die schnelle und konkrete Senkung der Energiesteuer auf Benzin und Diesel um rund 17 Cent pro Liter für zwei Monate, da dies eine schnelle und unbürokratische Entlastung für Bürger und Betriebe sei. Zudem werde geprüft, ob eine Übergewinnsteuer zur Kasse gebeten werden kann.",
+      "source_title": "Schnelle Entlastung und klare Regeln gegen Abzocke",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kollege Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kollege Achilli",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

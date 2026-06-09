@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Betrachtung der Abgeordneten zum Thema Entlastung der Forschung zeigt ein breites Spektrum an Positionen, die jedoch oft die im Bundestag geäußerten Fraktionslinien widerspiegeln. Es besteht weitgehend Konsens über die Notwendigkeit des Bürokratieabbaus in der Wissenschaft, wobei die spezifischen Ansätze und Prioritäten variieren. Während manche Abgeordnete die Stärkung der Grundfinanzierung und bessere Arbeitsbedingungen für Wissenschaftler hervorheben, betonen andere die Rolle der Digitalisierung und die Vereinfachung von Förderstrukturen. Kritische Stimmen mahnen zudem an, dass Bürokratie auch wichtige Schutzfunktionen erfüllen kann und eine reine Deregulierung nicht zielführend ist. Insgesamt wird die Debatte um die Entlastung der Forschung als entscheidend für die internationale Wettbewerbsfähigkeit Deutschlands angesehen.",
+  "sources": [
+    {
+      "name": "Oliver Kaczmarek",
+      "party": "SPD",
+      "found": false,
+      "statement": "Oliver Kaczmarek setzt sich als Sprecher für Forschung, Technologie und Raumfahrt der SPD-Bundestagsfraktion für eine bessere Forschungsförderung und die Bewältigung des Forschungsrückstands bei bestimmten Erkrankungen ein. Er betont die Notwendigkeit, postinfektiöse Erkrankungen stärker zu erforschen und hierfür erhebliche Mittel bereitzustellen, um bessere Behandlungs- und Therapiemöglichkeiten zu schaffen. Er sieht Gesetze als Ergebnis von komplexen Prozessen im Bundestag, in denen Themen eingegrenzt und mehrheitsfähige Lösungen gesucht werden.",
+      "source_title": "Herr Kaczmarek, werden Sie sich im Haushalt 2026 konkret für eine massive Erhöhung der ME/CFS-Forschungsmittel einsetzen und damit ein Zeichen für Hoffnung und Menschlichkeit setzen?",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Thomas Rachel",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Thomas Rachel war lange Zeit Obmann für Bildungs- und Forschungspolitik und später Parlamentarischer Staatssekretär im Bundesministerium für Bildung und Forschung. Er hat sich in der Vergangenheit kritisch zur Reform des Hochschulrahmengesetzes geäußert und betont, dass die Hochschulfinanzierung primär in der Kompetenz der Länder liege. Auch in seiner Rolle als Staatssekretär war er maßgeblich an der Gestaltung der Forschungspolitik beteiligt.",
+      "source_title": "Thomas Rachel - Geschichte der CDU - Konrad-Adenauer-Stiftung",
+      "url": "https://www.kas.de/de/web/geschichte-der-cdu/personen/thomas-rachel",
+      "platform": "Website"
+    },
+    {
+      "name": "Kai Gehring",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kai Gehring, ehemaliger Vorsitzender des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung, hat sich für starke Forschung, Innovationsfreude und Wissenschaftsfreiheit eingesetzt. Er befürwortet unter anderem Maßnahmen zur Reduzierung des 'Klima-Fußabdrucks' der Wissenschaft, wie ein Förderprogramm für klimaneutrale Universitäten. Er hat sich zudem in seiner Rolle als Berichterstatter für internationale Austauschprogramme engagiert.",
+      "source_title": "Forschung: „Alle Potenziale unseres Innovationslands heben“ - Tagesspiegel Background",
+      "url": "https://background.tagesspiegel.de/forschung/alle-potenziale-unseres-innovationslands-heben",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mario Brandenburg",
+      "party": "FDP",
+      "found": true,
+      "statement": "Mario Brandenburg ist Parlamentarischer Staatssekretär bei der Bundesministerin für Bildung und Forschung und war zuvor Sprecher der FDP-Fraktion für Forschung, Technologie und Innovation. Er bringt Expertise insbesondere im Bereich der Künstlichen Intelligenz mit und hat sich zum Ziel gesetzt, Deutschland global im Bereich moderner Technologien als Innovationsnation hervorzuheben.",
+      "source_title": "Mario Brandenburg | Berlin Science Week",
+      "url": "https://berlinscienceweek.com/foundation/people/mario-brandenburg",
+      "platform": "Website"
+    },
+    {
+      "name": "Nicole Gohlke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Nicole Gohlke, Sprecherin für Bildung und Wissenschaft der Linksfraktion, kritisiert die anhaltende Prekarität und Bürokratie im deutschen Wissenschaftssystem. Sie fordert eine nachhaltige, umfängliche Finanzierung der Hochschulen, die Berücksichtigung der sozialen Lage von Studierenden und Azubis sowie bessere Arbeitsbedingungen für wissenschaftliches Personal durch feste Stellen statt Befristungsunwesen. Sie ist auch eine Verfechterin eines zivilen Leitbildes für Hochschulen und Wissenschaft, das eine Trennung von militärischer und ziviler Forschung betont.",
+      "source_title": "MdB Nicole Gohlke im Interview: Hochschulpolitische Positionen der Linken im Bundestag - DUZ",
+      "url": "https://www.brandbucket.com/names/duz",
+      "platform": "Presse"
+    }
+  ]
+}
