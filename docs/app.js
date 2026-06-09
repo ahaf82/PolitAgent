@@ -861,6 +861,15 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Register Service Worker for PWA support
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('sw.js')
+                .then(reg => console.log('Service Worker registriert scope:', reg.scope))
+                .catch(err => console.error('Service Worker Registrierungsfehler:', err));
+        });
+    }
+
     // Initialize Page
     initTheme();
     loadData();
