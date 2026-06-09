@@ -1,0 +1,47 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3546",
+      "title": "Entwurf eines Gesetzes zur Änderung des Bundesjagdgesetzes und zur Änderung des Bundesnaturschutzgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3546&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4090",
+      "title": "Unterrichtung: Entwurf eines Gesetzes zur Änderung des Bundesjagdgesetzes und zur Änderung des Bundesnaturschutzgesetzes - Drucksache 21/3546 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4090&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/4371",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Landwirtschaft, Ernährung und Heimat",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4371&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4472",
+      "title": "Entschließungsantrag der Fraktion der AfD",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4472&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4473",
+      "title": "Entschließungsantrag der Fraktion Bündnis 90/Die Grünen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4473&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4474",
+      "title": "Entschließungsantrag der Fraktion Die Linke",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4474&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Änderung des Bundesjagdgesetzes und des Bundesnaturschutzgesetzes wurde mit den Stimmen von CDU/CSU, AfD und SPD in der vom Ausschuss für Landwirtschaft, Ernährung und Heimat geänderten Fassung angenommen. Bündnis 90/Die Grünen und Die Linke stimmten gegen die Gesetzesänderung. Die Entschließungsanträge der AfD, Bündnis 90/Die Grünen und Die Linke wurden abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

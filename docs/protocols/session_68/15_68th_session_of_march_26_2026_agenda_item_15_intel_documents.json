@@ -1,0 +1,15 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Neuregelung des Rechtsrahmens für intelligente Verkehrssysteme wurde in zweiter und dritter Beratung mehrheitlich angenommen. Die Koalitionsfraktionen (SPD, Bündnis 90/Die Grünen) und die CDU/CSU-Fraktion stimmten der Annahme in der Ausschussfassung zu. Die AfD-Fraktion enthielt sich, und die Fraktion Die Linke lehnte den Entwurf ab.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": []
+  }
+}

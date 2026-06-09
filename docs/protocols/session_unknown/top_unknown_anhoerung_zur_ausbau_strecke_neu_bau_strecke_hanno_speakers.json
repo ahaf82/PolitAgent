@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der identifizierten Abgeordneten außerhalb der Bundestagsanhörung zur Ausbau- und Neubaustrecke Hannover-Hamburg spiegeln die parteipolitischen Linien wider. Die AfD äußerte sich vehement gegen die Neubaustrecke, betonte Bürgerinteressen und forderte den Ausbau der Bestandsstrecken, während Bündnis 90/Die Grünen die Notwendigkeit von Schienenausbau zur Erreichung von Klimazielen und für den Deutschlandtakt unterstrichen. Die Linke sprach sich generell für massive Investitionen in die Modernisierung und den Ausbau der bestehenden Schieneninfrastruktur aus und kritisierte die aktuelle Bahnpolitik. Von der SPD zeigte sich ein Abgeordneter offen für neue Verbindungen aufgrund des steigenden Güterumschlags, während die Position der CDU/CSU-Vertreter eher auf die Notwendigkeit von Verbesserungen im Fern- und Nahverkehr abzielte, ohne sich klar für oder gegen einen Neubau auszusprechen, sondern die Umsetzung von Alpha E und die strategische Bedeutung des Korridors hervorhebend.",
+  "sources": [
+    {
+      "name": "Henning Rehbaum",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jakob Blankenburg",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Sprecher seiner Fraktion für Umwelt und Klimaschutz plädiert Jakob Blankenburg für eine neue Verbindung zwischen Hamburg und Hannover. Er rechnet mit einem zunehmenden Güterumschlag, auch aufgrund der geplanten Fehmarnbelt-Querung nach Dänemark, was eine neue Infrastruktur notwendig macht.",
+      "source_title": "Bahn-Zoff um Streckenneubau nach Hamburg – Mehrheit der Abgeordneten sagt Nein",
+      "url": "https://www.mopo.de/im-norden/bahn-zoff-um-streckenneubau-nach-hamburg-mehrheit-der-abgeordneten-sagt-nein/894343",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nyke Slawik",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Nyke Slawik betont, dass der Ausbau des Bahnverkehrs ein zentraler Baustein für die Verkehrswende und den Klimaschutz in Deutschland ist. Sie bekräftigt das Ziel, mehr Verkehr auf die Schiene zu verlagern und den bestehenden Sanierungsstau im Streckennetz schnellstmöglich abzubauen, auch wenn dies aufgrund vieler Baustellen zu Fahrplanänderungen führen kann.",
+      "source_title": "Welche Maßnahmen werden gegen das Chaos in der Bahn unternommen? | Frage an Nyke Slawik (BÜNDNIS 90/DIE GRÜNEN)",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dirk Brandes",
+      "party": "AfD",
+      "found": false,
+      "statement": "Dirk Brandes spricht sich offen gegen eine Neubaustrecke Hamburg-Hannover aus, da diese am Interesse der Bürger vorbeigehe und auf Kosten des Ausbaus der Bestandsstrecken erfolgen würde. Er kritisiert die Regierung für mangelnde Öffentlichkeitsbeteiligung und eine 'Verschleierungstaktik' bei der Planung der Schienenstrecke.",
+      "source_title": "Dirk Brandes: Schienenstrecke Hamburg-Hannover – Ampel verhindert Öffentlichkeitsbeteiligung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Bernd Riexinger",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Bernd Riexinger fordert eine grundlegende Änderung in der Bahnpolitik, mit massiven Investitionen von bis zu hundert Milliarden Euro in die Infrastruktur. Er plädiert für die Umwandlung der Bahn in eine gemeinnützige Körperschaft öffentlichen Rechts, um den Bürgern Mobilität zu garantieren und kritisiert die Priorisierung des Straßenbaus gegenüber dem Ausbau der Schiene.",
+      "source_title": "Der Gewerkschafter: Bernd Riexinger - Das Parlament",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/11650",
+      "title": "Unterrichtung: Baukulturbericht 2024/25 der Bundesstiftung Baukultur mit Stellungnahme der Bundesregierung",
+      "url": "https://dserver.bundestag.de/btd/20/116/2011650.pdf",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/4022",
+      "title": "Beschlussempfehlung und Bericht: zu der Unterrichtung durch die Bundesregierung - Drucksache 20/11650 - Baukulturbericht 2024/25 der Bundesstiftung Baukultur mit Stellungnahme der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4022&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag hat am 5. März 2026 den Baukulturbericht 2024/25 abschließend beraten und auf Empfehlung des Ausschusses für Wohnen, Stadtentwicklung, Bauwesen und Kommunen eine Entschließung zu dem Bericht angenommen. Dafür stimmten CDU/CSU, SPD und Bündnis 90/Die Grünen. Die AfD und Die Linke stimmten dagegen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

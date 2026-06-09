@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4939",
+      "title": "Antrag auf abstrakte Normenkontrolle beim Bundesverfassungsgericht gemäß Artikel 94 Absatz 1 Nummer 2 des Grundgesetzes wegen des Bundeshaushaltsgesetzes 2025, des Bundeshaushaltsgesetzes 2026 und des Gesetzes zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4939&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/779",
+      "title": "Gesetz zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität (SVIKG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F779&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Antrag der AfD-Fraktion (Drucksache 21/4939) auf abstrakte Normenkontrolle bezüglich des Sondervermögens Infrastruktur und Klimaneutralität wurde nach erster Beratung mit der Mehrheit der Stimmen von CDU/CSU, SPD, Bündnis 90/Die Grünen und Die Linke gegen das Votum der Antragsteller (AfD) abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

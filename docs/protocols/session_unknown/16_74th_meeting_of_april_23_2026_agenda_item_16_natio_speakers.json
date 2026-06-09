@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestags zur nationalen Mobilfunknetzabdeckung spiegeln weitgehend die Positionen ihrer Fraktionen aus der Debatte wider. Ruben Rupp (AfD) bekräftigt die Forderung nach nationalem Roaming in 'grauen Flecken' und staatlicher Förderung für 'weiße Flecken', wobei er die Initiative seiner Partei hervorhebt und die Bundesnetzagentur für das Aufgreifen ihrer Vorschläge kritisiert. Joachim Ebmeyer (CDU/CSU) betont die Bedeutung des Breitbandausbaus durch private Investitionen und optimierte Genehmigungsverfahren, lehnt jedoch Eingriffe ab, die Investitionsanreize schmälern könnten. Rebecca Lenhard (Bündnis 90/Die Grünen) hebt die Notwendigkeit des politischen Willens zur Nutzung bestehender Gesetze und zur Stärkung der digitalen Souveränität Europas hervor. Parsa Marvi (SPD) spricht sich als digitalpolitischer Sprecher für die Umsetzung der Gigabitstrategie und Versorgungsauflagen aus, um flächendeckende Abdeckung zu erreichen, und warnt vor nationalem Roaming als Investitionshemmnis.",
+  "sources": [
+    {
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ruben Rupp, digitalpolitischer Sprecher der AfD-Fraktion, hob in einer Pressemitteilung hervor, dass die Bundesnetzagentur Forderungen der AfD-Fraktion zur besseren Netzabdeckung, insbesondere zum lokalen Roaming, übernommen habe. Er bezeichnete dies als 'dreist abgeschrieben' und betonte, dass die AfD-Fraktion bereits Ende April in einer Plenardebatte den zügigen Ausbau der Mobilfunkabdeckung gefordert hatte.",
+      "source_title": "Bundesnetzagentur übernimmt Forderung der AfD-Fraktion zur besseren Netzabdeckung",
+      "url": "https://afdbundestag.de/bundesnetzagentur-uebernimmt-forderung-der-afd-fraktion-zur-besseren-netzabdeckung/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Joachim Ebmeyer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Joachim Ebmeyer betonte in einem Interview im September 2025 die Aufgabe des Bundes, die digitale Infrastruktur, einschließlich 5G-Mobilfunk und Glasfaser, flächendeckend bereitzustellen und Fördermöglichkeiten für Unternehmen zu schaffen. Er erwähnte auch seine Beteiligung an der 2. Beratung des TKG-Änderungsgesetzes 2025, welches den Ausbau von Telekommunikationsnetzen beschleunigen soll.",
+      "source_title": "Joachim Ebmeyer, MdB CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=wIzptbPg860",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Rebecca Lenhard, digitalpolitische Sprecherin der Grünen im Bundestag, äußerte sich im Mai 2026 zur Stärkung der digitalen Souveränität Deutschlands und Europas, insbesondere durch die Formulierung eigener europäischer Regulierungsrahmen für KI. Sie warnt auch vor einem Abbau von Schutzstandards im Kontext des 'Digital-Omnibus' im November 2025.",
+      "source_title": "\"Europe must have the courage to set its own digital standards\" | Heinrich Böll Stiftung",
+      "url": "https://eu.boell.org/en/2026/05/29/europe-must-have-courage-set-its-own-digital-standards",
+      "platform": "Website"
+    },
+    {
+      "name": "Parsa Marvi",
+      "party": "SPD",
+      "found": true,
+      "statement": "Parsa Marvi übernahm im Januar 2023 die Rolle des Co-Berichterstatters für Digitale Infrastruktur, einschließlich Mobilfunk und nationalem Roaming, für die SPD-Bundestagsfraktion. Er betont, dass die Bundesregierung bis 2030 den neuesten Mobilfunkstandard überall dort bereitstellen möchte, wo Menschen leben, arbeiten oder unterwegs sind, und dies über die Gigabitstrategie und Versorgungsauflagen der Netzbetreiber umgesetzt werden soll.",
+      "source_title": "Neue Berichterstatterfunktion: Mobilfunk | Parsa Marvi MdB",
+      "url": "https://parsa-marvi.de/neue-berichterstatterfunktion-mobilfunk/",
+      "platform": "Website"
+    }
+  ]
+}

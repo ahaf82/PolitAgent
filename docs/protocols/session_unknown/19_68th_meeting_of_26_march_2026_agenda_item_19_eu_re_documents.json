@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4993",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu der Verordnung der Bundesregierung – Drucksachen 21/4294(neu), 21/4383 Nr. 2.1 – Verordnung zur Durchführung der Verordnung (EU) 2024/573 über fluorierte Treibhausgase",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4993&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4294(neu)",
+      "title": "Verordnung der Bundesregierung Verordnung zur Durchführung der Verordnung (EU) 2024/573 über fluorierte Treibhausgase",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4294&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4383 Nr. 2.1",
+      "title": "Teil der Verordnung der Bundesregierung zur Durchführung der Verordnung (EU) 2024/573 über fluorierte Treibhausgase",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4383&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Beschlussempfehlung auf Drucksache 21/4993, die besagt, auf die Ablehnung oder Änderung der Verordnung zu verzichten, wurde mit den Stimmen der Unionsfraktion, SPD, Bündnis 90/Die Grünen und Die Linke gegen die Stimmen der AfD-Fraktion angenommen. Es gab keine Enthaltungen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

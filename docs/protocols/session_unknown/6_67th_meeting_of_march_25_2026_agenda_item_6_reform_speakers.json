@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen der Abgeordneten zum Thema 'Reform des Unterhaltsvorschusses' zeigt, dass die wesentlichen Positionen, die in der Bundestagsdebatte vom 25. März 2026 vertreten wurden, auch in Veröffentlichungen und Stellungnahmen außerhalb des Plenums widergespiegelt werden. Mareike Hermeier (Die Linke), Gereon Bollmann (AfD) und Christian Zaum (AfD) haben ihre Debattenbeiträge auf Fraktionswebseiten oder Social-Media-Kanälen veröffentlicht. Truels Reichardt (SPD) äußerte sich in Pressemitteilungen und auf seiner Webseite konsistent zu der Notwendigkeit einer hälftigen Kindergeldanrechnung und der stärkeren Inpflichtnahme von Unterhaltsverweigerern. Ulle Schauws (Bündnis 90/Die Grünen) thematisierte in einer Bürgerfrage die Ablehnung einer FDP-geprägten Reform des Unterhaltsrechts, die Alleinerziehende finanziell schlechter gestellt hätte. Für Ansgar Heveling (CDU/CSU) und Wolfgang Dahler (CDU/CSU) konnten keine spezifischen externen Stellungnahmen zum direkten Debattenthema gefunden werden, die über die Darstellung ihrer Positionen im Plenum hinausgehen.",
+  "sources": [
+    {
+      "name": "Mareike Hermeier",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Hermeier betonte die Notwendigkeit, Alleinerziehende und deren Kinder besser zu unterstützen, indem das Kindergeld nur hälftig auf den Unterhaltsvorschuss angerechnet wird, und forderte die Abschaffung der Bedarfsprüfung für Kinder über zwölf Jahre sowie die Verlängerung des Anspruchs bis zum 25. Lebensjahr. Sie kritisierte die Lücken im bestehenden Gesetz und die als 'dystopisch' abgetane Lage Alleinerziehender.",
+      "source_title": "Rede von Mareike Hermeier am 25.03.2026 - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-mareike-hermeier-am-25032026/",
+      "platform": "Website"
+    },
+    {
+      "name": "Ansgar Heveling",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Gereon Bollmann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bollmann kritisierte den Antrag der Linken als 'untauglichen Versuch', der zur 'Verteilung von Staatsknete' führe und einen 'Pullfaktor' für nicht freizügigkeitsberechtigte ausländische Staatsangehörige schaffe. Er betonte, dass der Staat nicht zum 'Ersatzvater' werden solle und die Unterhaltspflichtigen stärker in die Verantwortung genommen werden müssten.",
+      "source_title": "UNTERHALTSVORSCHUSS IM STREIT! AfD gegen Antrag der Linken – Bollmann rechnet ab - YouTube",
+      "url": "https://www.youtube.com/watch?v=CD_FkTp8Yj4",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Truels Reichardt",
+      "party": "SPD",
+      "found": false,
+      "statement": "Reichardt stellte klar, dass die SPD-Bundestagsfraktion Kürzungen beim Unterhaltsvorschuss ablehnt und diesen als zentrale Schutzleistung für Kinder betrachtet. Er forderte 'Effizienzsteigerungen ja – Leistungskürzungen nein' und betonte die Notwendigkeit, Unterhaltsverweigerer wirksamer in die Pflicht zu nehmen, um die Rückholquoten zu verbessern.",
+      "source_title": "Kinder schützen – Alleinerziehende stärken - Truels Reichardt",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulle Schauws",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Schauws äußerte sich kritisch zur Reform des Unterhaltsrechts, die an die Reform des Abstammungsrechts gekoppelt war und Alleinerziehende finanziell schlechter gestellt hätte. Sie hob die Ungerechtigkeit der vollen Kindergeldanrechnung auf den Unterhaltsvorschuss hervor und mahnte die Bundesregierung zur schnellen Umsetzung der im Koalitionsvertrag vereinbarten Änderungen.",
+      "source_title": "Sehr geehrte Frau Schauws, Vielen Dank für Ihre großartige Arbeit! Meine zukünftige Frau und ich fragen uns schon lange: Schaffen Sie es noch, die Stiefkindadoption für queere Eltern abzuschaffen? - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/ulle-schauws/fragen-antworten/sehr-geehrte-frau-schauws-vielen-dank-fuer-ihre-grossartige-arbeit-meine-zukuenftige-frau-und-ich-fragen-uns",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Wolfgang Dahler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Christian Zaum",
+      "party": "AfD",
+      "found": false,
+      "statement": "Zaum kritisierte den Antrag der Linken als Versuch, 'Staatsknete' zu verteilen und 'Privatversagen zu kollektivieren', wobei er die von Die Linke genannten Zahlen zur Unterhaltsnichtzahlung anzweifelte. Er betonte die geringe Rückholquote des Unterhaltsvorschusses und forderte eine Stärkung familiärer Verantwortung anstelle der Kompensation familiärer Erosion durch finanzielle Mittel.",
+      "source_title": "State money that simply isn't there! Christian Zaum - AfD parliamentary group in the Bundestag - YouTube",
+      "url": "N/A",
+      "platform": "Social Media"
+    }
+  ]
+}

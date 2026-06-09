@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten spiegeln weitgehend die Positionen wider, die sie in der hypothetischen Debatte zum Energiewirtschaftsgesetz vertreten. Dr. Saskia Ludwig (CDU/CSU) kritisiert staatliche Eingriffe in die Heizungspolitik und betont die Bedeutung von Technologieoffenheit und dem Erhalt bestehender Gasnetze. Steffen Kotré (AfD) lehnt die Wasserstoffstrategie der Regierung vehement ab, bezeichnet sie als unwirtschaftlich und ideologisch. Dr. Nina Scheer (SPD) setzt sich für eine beschleunigte Energiewende mit erneuerbaren Energien und dem Ausbau einer tragfähigen Wasserstoffinfrastruktur ein, wobei sie auch Finanzierungsfragen und Netzentgelte anspricht. Dr. Julia Verlinden (Bündnis 90/Die Grünen) fordert einen strukturierten Rückbau der Gasnetze und warnt vor Kostenfallen für Verbraucher. Jörg Cezanne (Die Linke) befürwortet den Gasausstieg, mahnt aber soziale Gerechtigkeit bei den Kosten der Energiewende an und kritisiert die Umsetzung der Wasserstoffstrategie.",
+  "sources": [
+    {
+      "name": "Dr. Saskia Ludwig",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Ludwig äußerte scharfe Kritik am Gebäudeenergiegesetz (GEG) und bezeichnete es als 'Scharade' und 'knallharte Planwirtschaft'. Sie betonte, dass die Grünen sich mit ihren Vorstellungen durchgesetzt hätten, wenn auch verzögert, und missbilligte die Beratungspflicht beim Kauf einer Gasheizung als Zeichen staatlicher Einmischung.",
+      "source_title": "CDU-Politikerin Saskia Ludwig bei Stimmt zum Heizungs-Kompromiss: „Ich bezeichne das Gesetz als Scharade“ | NIUS",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Steffen Kotré",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kotré kritisierte den 'Wasserstoffhype der Bundesregierung' als grundlagenlos und als Sabotage des Wirtschaftsstandortes. Er bezeichnete die planwirtschaftliche Subventionspolitik für Wasserstoffprojekte als gescheitert und betonte, Wasserstoff sei ein 'Milliardengrab' und nicht wirtschaftlich, da er in der Energiegewinnung einen geringen Wirkungsgrad aufweise.",
+      "source_title": "Steffen Kotré: Dem Wasserstoffhype der Bundesregierung fehlt die Grundlage - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/steffen-kotre-dem-wasserstoffhype-der-bundesregierung-fehlt-die-grundlage/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Nina Scheer",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Scheer betonte die Notwendigkeit, Investitionen in erneuerbare Energien und Wasserstoff statt in neue Erdgasbohrungen zu lenken, um die Energieversorgung zukunftssicher zu gestalten. Sie hob die Einführung eines Amortisationskontos und die Schaffung eines Wasserstoffkernnetzes als wichtige Schritte hervor, um die Finanzierungslasten zu strecken und Investitionssicherheit zu gewährleisten.",
+      "source_title": "Nina Scheer: Wir müssen Investitionen in Erneuerbare und erneuerbaren Wasserstoff statt in neue Erdgasbohrungen lenken – Gasbohrung vor Borkum erfüllt nicht den Nachweis der Unverzichtbarkeit",
+      "url": "https://www.nina-scheer.de/2024/08/15/nina-scheer-wir-muessen-investitionen-in-erneuerbare-und-erneuerbaren-wasserstoff-statt-in-neue-erdgasbohrungen-lenken-gasbohrung-vor-borkum-erfuellt-nicht-den-nachweis-der-unverzichtbarkeit/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Julia Verlinden",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Verlinden setzt sich für eine umfassende Gas-Wende ein, die den Umstieg auf erneuerbare Gase und die Förderung von Power-to-Gas-Technologien beinhaltet. Sie betont, dass fossiles Erdgas vermieden werden sollte und Deutschland Vorreiter bei neuen Technologien werden kann, wobei sie auch die Notwendigkeit einer Streckung der Netzausbaukosten für Verbraucher anspricht.",
+      "source_title": "Gas-Wende - Dr. Julia Verlinden",
+      "url": "https://julia-verlinden.de/energiepolitik/gas-wende/",
+      "platform": "Website"
+    },
+    {
+      "name": "Jörg Cezanne",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Cezanne forderte einen 'radikalen Neustart der Wasserstoffstrategie', kritisierte das Herunterschrauben von Zielen und die geringe Umsetzung von Wasserstoffprojekten. Er mahnte an, dass die Regierung bei der sozialen Wärmewende planlos agiere und die Finanzierung von Gasspeicherumlagen aus dem Klima- und Transformationsfonds den eigentlichen Zielen widerspreche, was zu einer 'dramatischen Kostenfalle' für Gasnutzer führe.",
+      "source_title": "Neustart für die Wasserstoffstrategie: Mehr Tempo statt Aufweichung der Ziele - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-joerg-cezanne-am-06112025-2/",
+      "platform": "Website"
+    }
+  ]
+}

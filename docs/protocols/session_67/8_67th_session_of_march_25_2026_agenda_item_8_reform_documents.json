@@ -1,0 +1,71 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4792",
+      "title": "Beschlussempfehlung und Bericht des Innenausschusses (4. Ausschuss) zu dem Antrag der Fraktion der AfD: Eine wirkliche Migrationswende braucht eine reformierte Einbürgerungspolitik",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4792&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4466",
+      "title": "Antrag der Fraktion der AfD: Eine wirkliche Migrationswende braucht eine reformierte Einbürgerungspolitik",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4466&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag hat am 25. März 2026 einen Antrag der AfD-Fraktion mit dem Titel „Eine wirkliche Migrationswende braucht eine reformierte Einbürgerungspolitik“ (Drucksache 21/4466) zurückgewiesen. Die namentliche Abstimmung erfolgte über die Beschlussempfehlung des Innenausschusses (Drucksache 21/4792), den Antrag abzulehnen.",
+    "official_voting_url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=8091",
+    "overall_result": {
+      "ja": 439,
+      "nein": 135,
+      "enthaltung": 0,
+      "nicht_abgegeben": 55
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 201,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 7
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 134,
+        "enthaltung": 0,
+        "nicht_abgegeben": 16
+      },
+      {
+        "faction": "SPD",
+        "ja": 103,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 16
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 78,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 7
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 56,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 8
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 1,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

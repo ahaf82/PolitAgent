@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Kommunikation der Abgeordneten zur Umsetzung der EU-Industrieemissionsrichtlinie spiegelt die im Bundestag geäußerten Fraktionspositionen wider. Daniel Rinkert (SPD) betont die Notwendigkeit beschleunigter Genehmigungsverfahren und einer praktischen Ausgestaltung der EU-Vorgaben zur Förderung der klimaneutralen Transformation der Industrie. Dr. Michael Blos (AfD) kritisiert vehement die Zunahme von EU-Regulierungen und die damit verbundene Bürokratie, die er als Belastung für die deutsche Wirtschaft ansieht. Christian Moser (CDU/CSU) fordert eine Minimierung bürokratischer Lasten und Planungssicherheit für Unternehmen bei der Umsetzung europäischer Klimaschutzmaßnahmen. Für Sascha van Beek (CDU/CSU) und Violetta Bock (Die Linke) konnten keine spezifischen externen Stellungnahmen zu diesem konkreten Gesetzentwurf gefunden werden, die über ihre Debattenbeiträge hinausgehen.",
+  "sources": [
+    {
+      "name": "Daniel Rinkert",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Rinkert, zuständiger Berichterstatter, betonte im Juni 2024, dass die Novelle des Bundes-Immissionsschutzgesetzes (BImSchG) – die Grundlage für die Umsetzung der IED – für mehr Tempo bei der Genehmigung von Industrie- und Erneuerbaren-Anlagen sorgen wird. Er bezeichnete die Regelungen als 'echten Booster' für Wirtschaftswachstum, Arbeitsplätze, Klima- und Umweltschutz und sprach von der größten Novelle des BImSchG seit 30 Jahren als wuchtiges Planungsbeschleunigungs- und Investitionsgesetz.",
+      "source_title": "Neues Tempo beim Immissionsschutz - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/neues-tempo-beim-immissionsschutz",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Michael Blos",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Michael Blos äußerte sich in einem YouTube-Beitrag Ende April 2026, der allgemein 'MEHR EU-Regulierungen' thematisierte, sehr kritisch über neue EU-Vorgaben und deutsches Vollzugsrecht. Er beklagte, dass diese die Produzenten und den Mittelstand mit weiteren, praxisfernen Pflichten überzögen und forderte 'endlich wieder politische Vernunft' statt noch mehr Bürokratie für Deutschland.",
+      "source_title": "MORE EU ​​regulations: Thanks for nothing, dear coalition partners! Dr. Michael Blos on EU bureau... - YouTube",
+      "url": "https://www.youtube.com/watch?v=hG3zL02P32c",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Sascha van Beek",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Violetta Bock",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Christian Moser betonte im November 2025 in einer Pressemitteilung der CSU-Landesgruppe die Wichtigkeit, Belastungen für deutsche Unternehmen – insbesondere den produzierenden Mittelstand – so gering wie möglich zu halten, insbesondere im Kontext europäischer Klimaziele wie dem ETS 2. Er forderte Planungssicherheit und gegebenenfalls bessere finanzielle Kompensationen für Unternehmen.",
+      "source_title": "Belastungen so gering wie möglich halten - CSU-Landesgruppe",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4500",
+      "title": "Entwurf eines Ersten Gesetzes zur Änderung des Wissenschaftsfreiheitsgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4500&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4784",
+      "title": "Entwurf eines Ersten Gesetzes zur Änderung des Wissenschaftsfreiheitsgesetzes - Drucksache 21/4500 - Gegenäußerung der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4784&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/1393",
+      "title": "Entwurf eines ... Gesetzes zur Änderung des Gesetzes zur Flexibilisierung von haushaltsrechtlichen Rahmenbedingungen außeruniversitärer Wissenschaftseinrichtungen (Wissenschaftsfreiheitsgesetz - WissFG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1393&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die öffentliche Anhörung im Forschungsausschuss diente der Erörterung von Gesetzentwürfen zur Änderung des Wissenschaftsfreiheitsgesetzes, insbesondere im Hinblick auf die Flexibilisierung des Besserstellungsverbots für gemeinnützige Forschungseinrichtungen. Die Mehrheit der Sachverständigen begrüßte den Regierungsentwurf, während kritische Stimmen weitere Maßnahmen zur Verbesserung der Arbeitsbedingungen forderten. Die Vorlagen wurden zuvor zur weiteren Beratung an den Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten zur Bekämpfung der russischen Schattenflotte spiegeln weitgehend ihre im Bundestag geäußerten Positionen wider. Robin Wagener (Bündnis 90/Die Grünen) und Roderich Kiesewetter (CDU/CSU) fordern ein konsequenteres Vorgehen gegen die Flotte, um die Kriegsfinanzierung Russlands zu unterbinden und Umweltgefahren zu minimieren, und plädieren für eine stärkere europäische Koordination. Markus Frohnmaier (AfD) kritisiert die Sanktionspolitik als Ursache des Problems und betont die Bedeutung von Dialog und wirtschaftlichen Interessen Deutschlands. Macit Karaahmetoğlu (SPD) bekräftigt die Notwendigkeit, Völkerrechtsverletzungen durch Sanktionen zu begegnen. Sören Pellmann (Die Linke) lehnt ein militärisches Vorgehen als „Piraterie“ ab und warnt vor Eskalation, während er Diplomatie und Deeskalation fordert.",
+  "sources": [
+    {
+      "name": "Robin Wagener",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Robin Wagener betonte, dass Deutschland die vorhandenen Fähigkeiten zur Bekämpfung der russischen Schattenflotte nutzen müsse, wobei bereits das Stoppen einzelner Schiffe eine abschreckende Wirkung haben könnte. Er wies darauf hin, dass deutsche Häfen bei einer vollständigen Festsetzung an Kapazitätsgrenzen stoßen würden, sieht aber den Signalwert als entscheidend an, um Russlands Kosten zu erhöhen und Gewinne zu reduzieren.",
+      "source_title": "Maritime Sicherheit: Bund plant härteres Vorgehen gegen Schattenflotte - Tagesspiegel Background",
+      "url": "https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/bund-plant-haerteres-vorgehen-gegen-schattenflotte",
+      "platform": "Presse"
+    },
+    {
+      "name": "Roderich Kiesewetter",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Roderich Kiesewetter kritisierte bereits im Juni 2025 die zurückhaltende Haltung gegenüber der russischen Schattenflotte mit den Worten: \"Es ist nur ein Beobachten, aber kein Eindämmen.\" Er forderte eine \"härtere Gangart\", da Russland nur auf Härte reagiere, um die Risiken von Umweltkatastrophen und Spionage einzudämmen.",
+      "source_title": "Schiffslotse packt über Putins gefährliche Schrott-Tanker in Ostsee aus - FOCUS online",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "found": false,
+      "statement": "Markus Frohnmaier argumentierte, dass die Schattenflotte eine direkte Folge einer gescheiterten Sanktionspolitik sei, die die Geldbeutel der Bürger leere, statt Putins Kriegskasse. Seine Teilnahme am Internationalen Wirtschaftsforum in St. Petersburg erklärte er damit, dass Deutschland eine Politik benötige, die Versorgungssicherheit und die Interessen der eigenen Bürger in den Mittelpunkt stelle, betonte jedoch, dies sei keine Billigung des Krieges.",
+      "source_title": "Wirtschaftsforum in St. Petersburg: Annäherung deutscher Unternehmen und AfD-Politiker an Russland? - Perspektive Online",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Macit Karaahmetoğlu",
+      "party": "SPD",
+      "found": true,
+      "statement": "Macit Karaahmetoğlu bekräftigte auf seiner Webseite seine Fragen zur Schattenflotte, nämlich ob das Völkerrecht immer oder nur dann gelte, wenn es politisch passend sei, und ob Sanktionen glaubwürdig seien, wenn sie anderswo aus Abhängigkeit unterlassen würden. Er unterstreicht, dass diese unbequemen Fragen notwendig seien, um konsequent zu bleiben.",
+      "source_title": "Rede zur russischen Schattenflotte - Aktuelles | Macit Karaahmetoglu, Mitglied des Bundestages",
+      "url": "https://www.macit-mdb.de/blog",
+      "platform": "Website"
+    },
+    {
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sören Pellmann kritisierte den Grünen-Antrag als \"Suche nach militärischen Zwischenfällen\" und bezeichnete ein Vorgehen gegen die Schattenflotte durch einzelne Staaten als nicht völkerrechtskonform und gleichbedeutend mit \"Piraterie\". Er betonte, dass Die Linke eine internationalistische Friedenspartei sei, die sich konsequent für Gewaltfreiheit zwischen Staaten und gegen einseitige Sanktionen als strukturelle Gewalt einsetze.",
+      "source_title": "Rede zu russischen Schattenflotte - Rede vom 17.04.2026: DIE LINKE. Sören Pellmann",
+      "url": "https://www.soeren-pellmann.de/home/home/detail/news/rede-zu-russischen-schattenflotte-rede-vom-17042026/",
+      "platform": "Website"
+    }
+  ]
+}

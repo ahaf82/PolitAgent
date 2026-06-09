@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externe Analyse der Abgeordneten zum Solidaritätszuschlag zeigt, dass die Positionen weitgehend konsistent mit ihren Äußerungen im Bundestag sind, jedoch oft tiefergehende Begründungen oder Zusatzforderungen enthalten. Die AfD (Kay Gottschalk) fordert vehement eine sofortige und vollständige Abschaffung, da der Soli seine Legitimation verloren habe und die Wirtschaft belaste. CDU/CSU (Olav Gutting, Dr. Florian Dorn) befürworten ebenfalls die vollständige Abschaffung, betonen aber, dass dies Teil einer umfassenden Steuerreform sein muss und nicht isoliert geschehen sollte. SPD (Parsa Marvi) und Bündnis 90/Die Grünen (Sascha Müller) lehnen eine ersatzlose Abschaffung ab, da der Soli wichtige Gemeinschaftsaufgaben finanziere und primär Besserverdienende belaste. Sie befürworten eine Entlastung kleiner und mittlerer Einkommen bzw. eine Integration des Solis in den Einkommensteuertarif. Die Linke (Doris Achelwilm) sieht den Soli als sozial gerecht an und fordert eine stärkere Besteuerung von Vermögenden als Gegenfinanzierung. Jüngste Gerichtsentscheidungen des Bundesverfassungsgerichts (März 2025) bestätigten die Rechtmäßigkeit des Solis, was von SPD und Die Linke als Bestärkung ihrer Positionen gesehen wurde, während die AfD weiterhin die Verfassungswidrigkeit anprangert.",
+  "sources": [
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kay Gottschalk hat den Gesetzentwurf zum Soli-Abbau als nicht ausreichend kritisiert und fordert eine komplette Abschaffung für alle Steuerzahler. Er sieht den Solidaritätszuschlag in seiner heutigen Ausgestaltung als verfassungswidrig an, da die Grundlage mit dem Wegfall des Solidarpaktes II verloren gegangen sei und er zu einer Reichensteuer geworden ist. Er betont, dass dies nicht nur Steuergerechtigkeit, sondern auch ein Investitionsmotor in Zeiten sinkenden Wirtschaftswachstums wäre.",
+      "source_title": "AfD zu Soli-Gesetzentwurf - \"Nichts anderes als eine billige Wahlkampfhilfe\" / Kay Gottschalk: Der Solidaritätszuschlag ist verfassungswidrig und gehört abgeschafft",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Olav Gutting",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Olav Gutting betont, dass der Soli weg muss, da er nur noch einen überschaubaren Teil der Steuerzahler belaste und zu einer verkappten Unternehmens- und Einkommensteuer für höhere Einkommen geworden sei. Er fordert die vollständige Abschaffung als Gebot der Steuergerechtigkeit, jedoch eingebettet in eine umfassende Körperschaft- und Einkommensteuerreform, um die wirtschaftliche Wettbewerbsfähigkeit zu stärken. Eine isolierte Abschaffung lehnt er ab.",
+      "source_title": "\"Ja, der Soli muss weg!\" / Soli-Abbau: Wir entlasten die Mitte der Gesellschaft",
+      "url": "https://www.olav-gutting.de/presse/presse-2026/2574-ja-der-soli-muss-weg",
+      "platform": "Website"
+    },
+    {
+      "name": "Sascha Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sascha Müller spricht sich für eine umfassende Steuerreform aus und schlägt vor, den Solidaritätszuschlag spätestens in der kommenden Legislaturperiode in den allgemeinen Tarifverlauf der Einkommensteuer zu integrieren. Er betont, dass eine reine Abschaffung nicht dem durchschnittlichen Arbeitnehmer nützt, sondern primär den Spitzenverdienern zugutekommt.",
+      "source_title": "AfD scheitert mit Antrag auf Soli-Ende",
+      "url": "https://www.das-parlament.de/wirtschaft/finanzen/afd-scheitert-mit-antrag-auf-soli-ende",
+      "platform": "Presse"
+    },
+    {
+      "name": "Parsa Marvi",
+      "party": "SPD",
+      "found": false,
+      "statement": "Parsa Marvi verteidigt die bestehenden Regelungen zum Solidaritätszuschlag und bekräftigt, dass es gut und richtig war, den vollen Soli für Alleinstehende mit höherem Einkommen beizubehalten, da nur noch das oberste Zehntel der Steuerzahler die Abgabe zahlt. Die SPD-Fraktion vertritt die Ansicht, dass eine vollständige Abschaffung des Soli nur denkbar ist, wenn sie mit einer Erhöhung der Reichen- und Einkommensteuer für Topverdiener verbunden ist, um die soziale Schere nicht weiter zu öffnen.",
+      "source_title": "AfD scheitert mit Antrag auf Soli-Ende / Soli wird für fast alle abgeschafft",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Die Fraktion Die Linke, deren Positionen Doris Achelwilm vertritt, sieht den Solidaritätszuschlag als wirtschaftlich sinnvoll und sozial gerecht an, da er hauptsächlich Spitzenverdiener betrifft und zur Finanzierung öffentlicher Ausgaben dient. Sie begrüßt die Entscheidung des Bundesverfassungsgerichts, die die Erhebung des Solis bestätigt hat, und fordert stattdessen die Wiedereinführung einer Vermögenssteuer, um die Finanzierungslücken zu schließen.",
+      "source_title": "Solidaritätszuschlag ist nicht verhandelbar / Zur Zukunft des Solidaritätszuschlags",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Florian Dorn",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Mitglied der CDU/CSU-Fraktion teilt Dr. Florian Dorn die Haltung, dass der Solidaritätszuschlag abgeschafft werden sollte, jedoch nicht isoliert. Die Fraktion fordert stattdessen eine umfassende Steuerreform, um die hohe Steuer- und Abgabenlast in Deutschland zu reduzieren und die Wettbewerbsfähigkeit zu stärken. Die Abschaffung des Solis sei Teil eines Gesamtkonzepts zur Entlastung der Mittelschicht.",
+      "source_title": "Unionsfraktion fragt nach Solidaritätszuschlag / Antrag zum CDU-Parteitag: Solidaritätszuschlag gehört bis 2021 restlos abgeschafft",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-881368",
+      "platform": "Presse"
+    }
+  ]
+}

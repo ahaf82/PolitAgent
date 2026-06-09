@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur Debatte über die GKV-Finanzierung und Hitzeschutzmaßnahmen zeigen eine Fortsetzung und Vertiefung ihrer Plenumspositionen. Während die Bundesregierung durch Tino Sorge strukturelle Reformen, Digitalisierung und Bürokratieabbau zur Sicherung der GKV-Finanzen betonte und die Notwendigkeit „disruptiver Maßnahmen“ ansprach, kritisierten Abgeordnete der Opposition die vorliegenden Reformvorschläge scharf. Ates Gürpinar (Die Linke) lehnte die als „Kürzungspaket“ bezeichnete Reform ab und forderte eine stärkere Beteiligung von Reichen und Privatversicherten. Grüne Abgeordnete wie Dr. Kirsten Kappert-Gonther und Linda Heitmann hoben die inakzeptablen Kürzungen in der psychotherapeutischen Versorgung und die unausgewogene Lastenverteilung des Gesetzentwurfs hervor, während Johannes Wagner sein persönliches Bekenntnis zur gesetzlichen Krankenversicherung bekräftigte. Für Tobias Matthias Peterka (AfD) und Bernd Schattner (AfD) konnten keine direkten externen Äußerungen zum spezifischen Thema im relevanten Zeitraum gefunden werden, jedoch passen Peterkas allgemeine Äußerungen zu den Kosten der Migration indirekt zu seiner Debattenposition.",
+  "sources": [
+    {
+      "name": "Tino Sorge",
+      "party": "CDU",
+      "found": true,
+      "statement": "Tino Sorge, als Parlamentarischer Staatssekretär im Bundesministerium für Gesundheit, hat sich extern für strukturelle Reformen, Digitalisierung und Bürokratieabbau zur Stabilisierung der GKV-Finanzen eingesetzt, um Leistungskürzungen zu vermeiden. Er sprach von der Notwendigkeit \"disruptiver Maßnahmen\" und schneller Ergebnisse, begrüßte das \"kleine Sparpaket\" zur GKV-Stabilisierung und thematisierte auch einen CDU-Vorschlag für gestaffelte GKV-Tarife zur Förderung der Wahlfreiheit.",
+      "source_title": "GKV-Finanzen erfordern „disruptive Maßnahmen“; Warum tut man sich so schwer, bei der Reform der GKV, Einsparungen vorzunehmen?; GKV-Reform: Reiche und Privatversicherte bleiben verschont",
+      "url": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/gkv-beitragssatzstabilisierungsgesetz-kabinett-29-04-26",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tobias Matthias Peterka",
+      "party": "AfD",
+      "found": true,
+      "statement": "Obwohl keine direkten externen Aussagen von Tobias Matthias Peterka zur GKV-Finanzierung nach der Debatte gefunden wurden, untermauern seine Pressemitteilungen im April und Mai 2026 zur Belastung der Justiz und Wohnungsnot durch Massenzuwanderung seine allgemeine politische Ausrichtung, die sich auf die Kosten der Migration auf öffentliche Dienstleistungen konzentriert, was mit seiner Debattenposition zur GKV-Finanzierung korreliert.",
+      "source_title": "Bundesregierung verschleppt Antwort auf Große Anfrage zur Justizkrise; Massenzuwanderung verschärft Wohnungsnot",
+      "url": "https://afdbundestag.de/abgeordnete/tobias-matthias-peterka/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ates Gürpinar kritisierte die GKV-Reform als \"massives Kürzungspaket\" zulasten von Patienten und Versicherten mit geringem und mittlerem Einkommen, während Reiche und Privatversicherte verschont blieben. Er forderte eine solidarische Gesundheitsversicherung, die alle Einkommensarten einbezieht und die Beitragsbemessungsgrenze abschafft, und verwies auf die ungleiche Subventionierung von Bürgergeld-Beziehenden in PKV und GKV.",
+      "source_title": "GKV-Reform: Reiche und Privatversicherte bleiben verschont; GKV-Reform ist ein massives Kürzungspaket auf dem Rücken der Patient:innen",
+      "url": "https://www.dielinkebt.de/presse/pressemitteilungen/ates-guerpinar/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Kirsten Kappert-Gonther",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Kirsten Kappert-Gonther hat sich vehement gegen geplante Kürzungen in der psychotherapeutischen Versorgung positioniert, da diese angesichts bestehender Versorgungslücken inakzeptabel seien. Sie betonte, dass Honorarkürzungen und finanzielle Einschnitte im GKV-Stabilisierungsgesetz individuelles Leid erhöhten und mittelfristig zu steigenden Kosten führen würden. Ihre Fraktion hat einen Eilantrag zur Stärkung der psychotherapeutischen Versorgung im Bundestag eingebracht.",
+      "source_title": "Die psychotherapeutische Versorgung stärken – nicht unter Druck setzen; Wie stehen Sie zu weiteren Einschnitten im Bereich der Psychotherapie?; Wenn Psychotherapie Kosten spart und gleichzeitig soziale Ungleichheit reduziert, warum wird genau hier gekürzt?",
+      "url": "https://www.abgeordnetenwatch.de/profile/kirsten-kappert-gonther/fragen-antworten/wenn-psychotherapie-kosten-spart-und-gleichzeitig-soziale-ungleichheit-reduziert-warum-wird-genau",
+      "platform": "Website"
+    },
+    {
+      "name": "Linda Heitmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Linda Heitmann kritisierte den Entwurf der GKV-Finanzreform im Mai 2026 als unausgewogen, unzureichend und sozialpolitisch kurzsichtig, da er die Lasten nicht fair verteile. Sie forderte echte Strukturreformen, die über kurzfristige Stabilisierung hinausgehen, um eine faire Entlastung und ein solidarisch finanziertes Gesundheitssystem für alle zu gewährleisten.",
+      "source_title": "GKV und PKV; Presse: Statement zum Entwurf der GKV-Finanzreform",
+      "url": "https://linda-heitmann.de/category/presse/",
+      "platform": "Website"
+    },
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Johannes Wagner hat auf seiner persönlichen Website seine bewusste Entscheidung zum Verbleib in der gesetzlichen Krankenversicherung betont, um ein Zwei-Klassen-System in der Medizin abzulehnen. Dies unterstreicht seine Position in der Debatte zur GKV-Finanzierung und zum Verhältnis von GKV und PKV. Seine Arbeit im Gesundheitsausschuss fokussiert sich zudem auf Prävention, Kindergesundheit und die Verknüpfung von Klima und Gesundheit.",
+      "source_title": "Transparenz | Johannes Wagner, MdB; Meine Ausschüsse | Johannes Wagner, MdB",
+      "url": "https://www.johannes-wagner.org/meine-ausschussarbeit",
+      "platform": "Website"
+    },
+    {
+      "name": "Bernd Schattner",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

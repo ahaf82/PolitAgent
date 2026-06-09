@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Kommunikation der Abgeordneten zur Vermögensteuer nach der Bundestagsdebatte vom 23. April 2026 spiegelt die im Plenum geäußerten Positionen wider. Christian Douglas (AfD) lehnt jegliche Steuererhöhungen, insbesondere die Vermögensteuer, als schädlich für den Wirtschaftsstandort ab. Olav Gutting (CDU/CSU) positioniert sich ebenfalls klar gegen eine Wiedereinführung der Vermögensteuer, warnt vor Neiddebatten und betont die Bedeutung einer moderaten Steuerpolitik. Im Gegensatz dazu setzen sich Karoline Otte (Bündnis 90/Die Grünen) und Christian Görke (Die Linke) aktiv für die Einführung einer Vermögensteuer ein, um soziale Ungleichheit zu bekämpfen und öffentliche Haushalte zu stärken, wobei Görke auf eine von seiner Fraktion beauftragte DIW-Studie verweist. Für Nadine Heselhaus (SPD) konnten keine spezifischen externen Aussagen zu diesem Thema gefunden werden.",
+  "sources": [
+    {
+      "name": "Christian Douglas",
+      "party": "AfD",
+      "found": false,
+      "statement": "Christian Douglas äußert sich außerhalb des Plenums konsistent gegen Steuererhöhungen, insbesondere gegen die Vermögensteuer, die er als wirtschaftspolitisch katastrophal, kostenintensiv und rechtlich unsicher bezeichnet. Er befürchtet eine Abwanderung von Leistungsträgern und Unternehmen sowie die Entwicklung zum 'gläsernen Bürger' durch Vermögensregister.",
+      "source_title": "Christian Douglas: Neue Steuer- und Abgabenflut zeigt Kontrollverlust der Regierung / Wie kommt dein Geld in meine Tasche! Christian Douglas - AfD-Fraktion im Bundestag / 270,000 Germans emigrate for tax reasons! Christian Douglas - AfD parliamentary group in the Bund... - YouTube",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Olav Gutting",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Olav Gutting lehnt die Wiedereinführung einer Vermögensteuer ab und kritisiert \"Rezepte aus der sozialistischen Mottenkiste\". Er betont, dass eine übermäßige Besteuerung von Vermögen den Mittelstand schwäche und Kapitalflucht verursache, während er eine moderate Erbschafts- und Schenkungsteuer für einen wichtigen Teil der sozialen Marktwirtschaft hält.",
+      "source_title": "Koalition lehnt Pläne zur Vermögensteuer ab / Rede von Olav Gutting MdB zur Erbschaft- und Schenkungsteuer",
+      "url": "https://www.olav-gutting.de/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karoline Otte",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Karoline Otte setzt sich entschieden für eine gerechtere Besteuerung von sehr hohen Vermögen ein, da massive Vermögensungleichheit das Vertrauen in den Staat gefährdet und Klimaschutzmaßnahmen erschwert. Sie fordert, Steuerlücken zu schließen und Privilegien abzubauen, um mehr Gerechtigkeit zu schaffen und Investitionen in öffentliche Güter zu ermöglichen.",
+      "source_title": "Für eine gerechtere Besteuerung von Vermögen – Petition zeigt Unterstützung für Reformen / Pressemitteilungen – Karoline Otte / Gerechte Steuern – Karoline Otte / Otte nach UK-Reise: Tax the Rich ist das Gebot der Stunde! – Karoline Otte",
+      "url": "https://karolineotte.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Christian Görke fordert vehement die Wiedereinführung der Vermögensteuer, um die finanzielle Schieflage von Ländern und Kommunen zu beheben und soziale Ungleichheit zu reduzieren. Er verweist auf eine DIW-Studie, die seiner Fraktion 100 Milliarden Euro zusätzliche Einnahmen prognostiziert und kritisiert die AfD-Steuerpolitik als Begünstigung der Reichsten.",
+      "source_title": "Vermögensteuer jetzt! - Fraktion Die Linke im Bundestag / Bundestag lehnt Vermögensabgabe für Milliardäre und Multimillionäre ab / Diese absurde Ungleichheit ist der Grund für die Vermögensteuer - Fraktion Die Linke im Bundestag / Christian Görke – Die Linke / 2,7 Milliarden Euro für Brandenburg?: Ex-Finanzminister Görke drängt auf Vermögenssteuer – und wirft der Regierung „Konkurs“ vor - Tagesspiegel / Reden - Fraktion Die Linke im Bundestag / DIW-Studie: Vermögensteuer der Linken soll 100 Milliarden Euro pro Jahr generieren",
+      "url": "https://www.surplusmagazin.de/linke-vermogensteuer-vermogen-konzept-studie/",
+      "platform": "Website"
+    }
+  ]
+}

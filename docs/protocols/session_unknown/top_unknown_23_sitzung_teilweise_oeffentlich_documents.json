@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3544",
+      "title": "Entwurf eines Gesetzes zur Durchführung der EU-Verordnung über europäische Daten-Governance (Daten-Governance-Gesetz – DGG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3544&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/2998",
+      "title": "Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2023/2854 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 über harmonisierte Vorschriften für einen fairen Datenzugang und eine faire Datennutzung sowie zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie (EU) 2020/1828",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2998&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Digitalausschuss hat in seiner 23. Sitzung am 25. März 2026 dem Gesetzentwurf zum Daten-Governance-Gesetz (Drucksache 21/3544) mit den Stimmen der Koalitionsfraktionen von CDU/CSU und SPD sowie Bündnis 90/Die Grünen bei Ablehnung der AfD und Enthaltung der Linken zugestimmt. Dem geänderten Entwurf für das Data Act-Durchführungsgesetz (Drucksache 21/2998) stimmte der Ausschuss mit den Stimmen von CDU/CSU und SPD bei Ablehnung der AfD und Enthaltung von Bündnis 90/Die Grünen und Die Linke zu. Beide Gesetzentwürfe wurden zur Beschlussfassung an das Bundestagsplenum weitergeleitet.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

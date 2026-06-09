@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/115",
+      "title": "Bericht der Bundesregierung zum Stand der Bemühungen um Rüstungskontrolle, Abrüstung und Nichtverbreitung sowie über die Entwicklung der Streitkräftepotenziale für das Jahr 2024 (Jahresabrüstungsbericht 2024)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F115&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/5921",
+      "title": "Entwurf eines Gesetzes zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur (Sportfördergesetz - SpoFöG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5921&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag debattierte den Entwurf eines Gesetzes zur Regelung der Förderung des Spitzensports (Drucksache 21/5921) in erster Lesung. Nach der Aussprache wurde der Gesetzentwurf zur weiteren Beratung an die Ausschüsse, federführend an den Ausschuss für Sport und Ehrenamt, überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

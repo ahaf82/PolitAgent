@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb der direkten Bundestagsdebatte zum Thema 'Digitalisierung des Vollzugs von Immobilienverträgen und notariellen Rechtsgeschäften' spiegeln die bereits im Plenum geäußerten Fraktionspositionen wider. Während SPD, CDU/CSU und Bündnis 90/Die Grünen die umfassende Digitalisierung und den damit verbundenen Bürokratieabbau sowie Effizienzgewinn als entscheidenden Schritt zur Staatsmodernisierung und Wirtschaftsentlastung begrüßen, äußern AfD und Die Linke wesentliche Vorbehalte. Die AfD betont dabei das Recht auf einen analogen Zugang zu staatlichen Leistungen und kritisiert die praktische Umsetzbarkeit sowie die Auswahl der digitalen Kommunikationswege, während Die Linke soziale Ausschlussrisiken für Bürger ohne digitalen Zugang und unzureichenden Datenschutz als Hauptkritikpunkte anführt. Insgesamt zeigt sich ein Konsens über die Notwendigkeit der Digitalisierung, jedoch deutliche Unterschiede in der Bewertung ihrer Umsetzung und der Sicherstellung sozialer und rechtsstaatlicher Standards.",
+  "sources": [
+    {
+      "name": "Mahmut Özdemir",
+      "party": "SPD",
+      "found": false,
+      "statement": "Mahmut Özdemir setzt sich als Mitglied des Rechtsausschusses aktiv für die Digitalisierung juristischer Abläufe ein, um diese einfacher, schneller und effizienter zu gestalten und Medienbrüche zu vermeiden. Er betont die wirtschaftliche Relevanz der Digitalisierung im Immobilienbereich und die Notwendigkeit eines ganzheitlichen behördlichen Systems für einen sicheren und interoperablen Datenaustausch, um über das bloße Scannen von Dokumenten hinauszugehen und das Once-Only-Prinzip zu etablieren.",
+      "source_title": "Expertenlob für Ausweitung notarieller Online-Verfahren - Deutscher Bundestag / Meine Ausschussarbeit - Mahmut Özdemir MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Fabian Jacobi",
+      "party": "AfD",
+      "found": true,
+      "statement": "Fabian Jacobi befürwortet grundsätzlich den Einsatz von Digitaltechnik zur Vereinfachung staatlicher Verfahren, lehnt es aber ab, digitale Verfahren den Bürgern aufzudrängen. Er fordert die Möglichkeit eines jederzeit möglichen herkömmlichen Zugangs zu staatlichen Leistungen und kritisiert, dass Notare mit Finanzämtern nur über das ELSTER-Portal kommunizieren sollen, was er für ungeeignet hält.",
+      "source_title": "Digital processes must not be imposed! - Fabian Jacobi - AfD Parliamentary Group (YouTube)",
+      "url": "https://www.youtube.com/watch?v=kR21LgM1r1E",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Johannes Wiegelmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Johannes Wiegelmann unterstützt die Digitalisierung in der Justiz zur Entbürokratisierung von Verfahren und zur Stärkung des Rechtsstaats. Er betont die Notwendigkeit, digitale Aspekte stärker in rechtlichen Rahmenwerken zu verankern, um Nachholbedarf zu beseitigen und Deutschland als Wirtschaftsstandort wettbewerbsfähiger zu machen.",
+      "source_title": "Johannes Wiegelmann (CDU): 'Unsere Heimat hat die beste Zeit noch vor sich' - KINZIG.NEWS / Vergabebeschleunigungsgesetz: Dr. Konrad Körner, MdB im Interview - Vergabeblog (Interview mit Dr. Konrad Körner, aber Johannes Wiegelmanns allgemeine Haltung ist dort thematisiert)",
+      "url": "https://kinzig.news/6513303692/johannes-wiegelmann-cdu-unsere-heimat-hat-die-beste-zeit-noch-vor-sich,%20https://www.vergabeblog.de/2026/04/29/vergabebeschleunigungsgesetz-dr-konrad-koerner-mdb-im-interview/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lukas Benner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Lukas Benner sieht in der Digitalisierung des Rechtsverkehrs einen wichtigen Schritt hin zu einem modernen Staat, der bürokratische Hürden abbaut und den Alltag von Bürgern und Unternehmen erleichtert. Er betont die Bedeutung einer digitalen und schlanken Bürokratie für die Akzeptanz des Staates und die Stärkung des Wirtschaftsstandortes Deutschland.",
+      "source_title": "Bürokratie abbauen – Privathaushalte und Wirtschaft entlasten - Lukas Benner",
+      "url": "https://www.lukas-benner.eu/buerokratie-abbauen-privathaushalte-und-wirtschaft-entlasten/",
+      "platform": "Website"
+    },
+    {
+      "name": "Aaron Valent",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Aaron Valent befürwortet die Digitalisierung in der Justiz als Fortschritt, fordert jedoch, dass diese sicher, sozial und für alle zugänglich sein muss. Er kritisiert unzureichende Regelungen zu Datenschutz und Haftung und befürchtet die Entstehung eines 'Digital-First-Systems', das ältere Menschen oder Personen ohne digitalen Zugang ausschließen könnte.",
+      "source_title": "Digitalisierung ja - aber sicher, sozial und für alle - Fraktion Die Linke im Bundestag / Digitalisierung darf nicht auf Kosten des Rechtsstaats gehen! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Konrad Körner vertritt eine klare Position zur Stärkung digitaler Aspekte in rechtlichen Verfahren, um dramatischen Nachholbedarf zu beseitigen. Als Mitglied des Ausschusses für Digitales und Staatsmodernisierung setzt er sich für die Modernisierung des Rechtsstaats ein, um strategische digitale Interessen zu berücksichtigen und die digitale Souveränität Deutschlands zu stärken.",
+      "source_title": "Vergabebeschleunigungsgesetz: Dr. Konrad Körner, MdB im Interview - Vergabeblog",
+      "url": "https://vergabeblog.de/2026-04-29/vergabebeschleunigungsgesetz-dr-konrad-koerner-mdb-im-interview/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Thomas Fetsch",
+      "party": "AfD",
+      "found": true,
+      "statement": "Thomas Fetsch kritisiert den 'digitalen Nachholbedarf' und das 'digitale Desaster' in der deutschen Justiz, fordert eine sofortige Modernisierung und digitale Infrastruktur. Er betont die Notwendigkeit schnellerer Verfahren im Zivilrecht zur Stärkung des Wirtschaftsstandortes, besteht aber darauf, dass Digitalisierungsbemühungen nicht zu einem Ausschluss des analogen Weges führen dürfen.",
+      "source_title": "„Digitales Desaster in den Gerichten?“ – Thomas Fetsch deckt auf! (YouTube) / Why faster procedures are crucial! Thomas Fetsch - AfD parliamentary group in the Bundestag (YouTube)",
+      "url": "https://www.youtube.com/watch?v=4Jt7V-09lS8,%20https://www.youtube.com/watch?v=3e-kM5E-X94",
+      "platform": "Social Media"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4454",
+      "title": "Entwurf eines Gesetzes zur Änderung des Bundesrechnungshofgesetzes (BRH-Unabhängigkeitsgesetz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4454&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5523",
+      "title": "Beschlussempfehlung und Bericht Haushaltsausschuss",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5523&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der von der AfD-Fraktion eingebrachte Gesetzentwurf zur Änderung des Bundesrechnungshofgesetzes (BRH-Unabhängigkeitsgesetz) wurde in der Abstimmung am 23. April 2026 mehrheitlich abgelehnt. Die übrigen Fraktionen folgten dabei der Beschlussempfehlung des Haushaltsausschusses, den Gesetzentwurf abzulehnen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

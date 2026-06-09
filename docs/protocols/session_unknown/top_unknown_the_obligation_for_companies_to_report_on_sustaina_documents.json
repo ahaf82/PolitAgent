@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/1857",
+      "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2464 hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen in der durch die Richtlinie (EU) 2025/794 geänderten Fassung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1857&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 20/12787",
+      "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2464 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 zur Änderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen",
+      "url": "https://dserver.bundestag.de/btd/20/127/2012787.pdf",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die 32. Sitzung des Ausschusses für Recht und Verbraucherschutz befasste sich mit einem Gesetzentwurf zur Umsetzung der EU-Richtlinie über die Nachhaltigkeitsberichterstattung von Unternehmen (CSRD) in einer Sachverständigenanhörung. Es wurde kein Beschluss gefasst oder Verfahrensstand über eine Abstimmung festgestellt, da es sich um eine Anhörung handelte.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": []
+  }
+}

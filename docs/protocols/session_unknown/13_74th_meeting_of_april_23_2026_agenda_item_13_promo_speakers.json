@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestages zeigten sich die Abgeordneten Thomas Fetsch (AfD) und Susanne Hierl (CDU/CSU) in ihren externen Stellungnahmen konsistent mit ihren im Plenum geäußerten Positionen zur Förderung und Modernisierung des Anwaltsnotariats. Thomas Fetsch kritisierte den Gesetzentwurf auf den Social-Media-Kanälen seiner Fraktion weiterhin als bürokratisch und unzureichend, wobei er die Forderung nach einem vollständigen Verzicht auf Altersgrenzen für Anwaltsnotare bekräftigte. Susanne Hierl lobte in einer Pressemitteilung ihrer Fraktion die Reform als ausgewogenen Kompromiss, der die notarielle Versorgung sichert und dem Nachwuchs Perspektiven bietet. Für Anette Kramme (Bundesregierung/SPD), Dr. Till Steffen (Bündnis 90/Die Grünen) und Aaron Valent (Die Linke) konnten keine expliziten externen Aussagen auf den abgefragten Kanälen gefunden werden, die ihre Haltung über die im Bundestag dargelegten Positionen hinaus verdeutlichen.",
+  "sources": [
+    {
+      "name": "Anette Kramme",
+      "party": "SPD",
+      "found": false,
+      "statement": "",
+      "source_title": "",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Thomas Fetsch",
+      "party": "AfD",
+      "found": true,
+      "statement": "Thomas Fetsch kritisiert in einer auf YouTube veröffentlichten Rede der AfD-Fraktion den Regierungsentwurf zur Notar-Reform scharf als unausgereift und politisch motiviert. Er bemängelt die komplizierte Altersgrenze, die den Nachwuchsmangel nicht löst, und fordert eine gänzliche Abschaffung der Altersgrenzen für Notare, um Bürokratie und Planungsunsicherheit zu reduzieren.",
+      "source_title": "Notar-Reform eskaliert im Bundestag: AfD zerlegt Regierungsentwurf | Altersgrenze & Bürokratie",
+      "url": "https://www.youtube.com/watch?v=2MGcV0Qlads",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Susanne Hierl erklärte in einer Pressemitteilung der CDU/CSU-Fraktion, dass der Gesetzentwurf zur Förderung und Modernisierung des Anwaltsnotariats das Anwaltsnotariat zukunftsfest mache. Sie betonte, dass bei der Neuregelung der Altersgrenze Augenmaß bewiesen werde, um die notarielle Versorgung zu sichern, ohne dem Nachwuchs Perspektiven zu nehmen. Auch die Verlängerung der Entscheidungsfrist bei Anträgen auf Amtszeitverlängerung auf sechs Monate schaffe Planungssicherheit.",
+      "source_title": "Das Anwaltsnotariat wird zukunftsfest – Versorgung sichern, Nachwuchs stärken",
+      "url": "https://www.cducsu.de/presse/das-anwaltsnotariat-wird-zukunftsfest-versorgung-sichern-nachwuchs-staerken",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Till Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "",
+      "source_title": "",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Aaron Valent",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "",
+      "source_title": "",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

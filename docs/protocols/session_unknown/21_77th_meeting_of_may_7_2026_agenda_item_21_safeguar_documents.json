@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3616",
+      "title": "Bundeskaderathletinnen und -athleten finanziell und sozial absichern sowie anschließende Berufsperspektiven ermöglichen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3616&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3956",
+      "title": "Beschlussempfehlung des Haushaltsausschusses zu dem Antrag der Fraktion Die Linke Bundeskaderathletinnen und -athleten finanziell und sozial absichern sowie anschließende Berufsperspektiven ermöglichen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3956&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Beschlussempfehlung des Haushaltsausschusses zur Ablehnung des Antrags der Fraktion Die Linke wurde angenommen. Der Antrag der Fraktion Die Linke wurde somit abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

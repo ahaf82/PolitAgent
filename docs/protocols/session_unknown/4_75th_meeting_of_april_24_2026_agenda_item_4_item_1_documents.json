@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5482",
+      "title": "Antrag: Preisexplosion bei den Gasnetzentgelten verhindern - Rückbau und Stilllegung der Gasnetze sofort stoppen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5482&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5493",
+      "title": "Antrag: Strompreise für alle Unternehmen in Deutschland senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5493&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die beiden Anträge der AfD-Fraktion zu den Gasnetzentgelten und Strompreisen wurden nach der Debatte zur weiteren Beratung an den Ausschuss für Wirtschaft und Energie (federführend) sowie weitere mitberatende Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

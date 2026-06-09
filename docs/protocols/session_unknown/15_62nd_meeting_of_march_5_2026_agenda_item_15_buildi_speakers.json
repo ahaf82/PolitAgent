@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die analysierten Bundestagsabgeordneten haben sich außerhalb der Plenardebatte zum Baukulturbericht 2024/25 und verwandten Themen geäußert. Sören Bartol (SPD) unterstreicht in seiner Rolle als Parlamentarischer Staatssekretär und Vorsitzender des Stiftungsrates der Bundesstiftung Baukultur kontinuierlich die Notwendigkeit von Investitionen in die Infrastruktur und beschleunigten Planungsverfahren. Carolin Bachmann (AfD) kritisiert vehement die kommunale Wärmeplanung und die Wohnungspolitik der Bundesregierung, fordert einen Fokus auf 'Deutsche Baukultur' und verknüpft Wohnraummangel mit Zuwanderung. Lars Rohwer (CDU/CSU) betont als Berichterstatter für den Bericht die Bedeutung von resilienter Infrastruktur, Kulturerhalt und dem Einsatz digitaler Planungswerkzeuge. Für Mayra Vriesema (Bündnis 90/Die Grünen) konnten keine dezidierten externen Stellungnahmen außerhalb der parlamentarischen Äußerungen gefunden werden, obwohl ihre Position zur Priorisierung von Bestandserhalt deutlich ist.",
+  "sources": [
+    {
+      "name": "Sören Bartol",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sören Bartol betont in seiner Funktion als Vorsitzender des Stiftungsrates der Bundesstiftung Baukultur die Relevanz des Baukulturberichts 2024/25 'Infrastrukturen' für die Transformation des Infrastrukturbereichs. Er spricht sich für die Stärkung einer hohen Baukultur und die Effizienzsteigerung von Bau- und Planungsprozessen aus.",
+      "source_title": "Magazin der Bundesstiftung Baukultur (Statement von Sören Bartol)",
+      "url": "https://www.bundesstiftung-baukultur.de/magazin",
+      "platform": "Website"
+    },
+    {
+      "name": "Carolin Bachmann",
+      "party": "AfD",
+      "found": false,
+      "statement": "Carolin Bachmann kritisiert die kommunale Wärmeplanung als 'politischen Anschlag auf unsere Infrastruktur' und als finanziell nicht machbar für Kommunen. Sie fordert eine 'Deutsche Baukultur' und eine Politik, die Baukosten senkt, den Bestand erhält und Migration als Ursache für Wohnraummangel angeht.",
+      "source_title": "AfD-Bundestagsfraktion wird für gesunde Kommunalfinanzen und tragfähige Infrastruktur kämpfen! / Deutsche Baukultur braucht DEUTSCHE Kultur!",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Lars Rohwer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Berichterstatter des Ausschusses für Wohnen, Stadtentwicklung, Bauwesen und Kommunen für den Baukulturbericht 2024/25 hat Lars Rohwer maßgeblich an der Beschlussempfehlung mitgewirkt. Dies beinhaltet die Betonung von technischen und sozialen Infrastrukturen als Grundlage der Demokratie sowie die Potenziale digitaler Werkzeuge zur Effizienzsteigerung in Planungs- und Bauprozessen.",
+      "source_title": "Beschlussempfehlung und Bericht zu Drucksache 20/11650 (Baukulturbericht 2024/25)",
+      "url": "https://dserver.bundestag.de/btd/21/040/2104022.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Mayra Vriesema",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

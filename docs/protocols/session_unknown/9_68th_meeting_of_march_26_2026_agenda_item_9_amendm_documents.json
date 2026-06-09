@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4986",
+      "title": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen zum Gesetzentwurf zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4986&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3505",
+      "title": "Entwurf eines Fünften Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3505&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4979",
+      "title": "Beschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss) zu dem Gesetzentwurf der Bundesregierung – Drucksache 21/3505 – Entwurf eines Fünften Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4979&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4987",
+      "title": "Entschließungsantrag der Fraktion Die Linke zu der dritten Beratung des Gesetzentwurfs der Bundesregierung – 21/3505, 21/4979 – Entwurf eines Fünften Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4987&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften (Drucksache 21/3505) wurde in zweiter und dritter Beratung angenommen. Ebenfalls angenommen wurde eine Beschlussempfehlung zur Annahme einer Entschließung (Drucksache 21/4979 Buchstabe b), während die Änderungsanträge der Fraktionen Bündnis 90/Die Grünen (Drucksache 21/4986) und Die Linke (Drucksache 21/4987) abgelehnt wurden.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

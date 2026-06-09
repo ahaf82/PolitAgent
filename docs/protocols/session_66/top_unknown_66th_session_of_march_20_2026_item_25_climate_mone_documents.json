@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/789",
+      "title": "Antrag der Fraktion Die Linke: Klimageld – Sofort und sozial gerecht",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F789&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4377",
+      "title": "Beschlussempfehlung des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Antrag der Fraktion Die Linke",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4377&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag hat am 20. März 2026 den Antrag der Fraktion Die Linke zum Klimageld auf Empfehlung des Umweltausschusses abgelehnt. Dafür stimmten die Fraktionen von AfD, CDU/CSU und SPD, dagegen votierten Bündnis 90/Die Grünen und Die Linke.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": []
+  }
+}

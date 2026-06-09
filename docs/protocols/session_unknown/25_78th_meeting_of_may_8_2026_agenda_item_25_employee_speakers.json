@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb der Bundestagsdebatte zeigen erwartbare, konsistente Positionen zur betrieblichen Mitbestimmung. Cem Ince von Die Linke bekräftigte vor der Debatte in einer Pressekonferenz und einem fraktionellen Antrag die Dringlichkeit einer umfassenden Ausweitung von Mitbestimmungsrechten zur Stärkung der Belegschaften. Jan Dieren von der SPD positionierte sich ebenfalls klar für eine Weiterentwicklung der Mitbestimmung, um Arbeitsplätze zukunftsfest zu gestalten, was durch eine Pressemitteilung der SPD-Fraktion und seine Website untermauert wird. Ricarda Lang von Bündnis 90/Die Grünen setzt sich auf ihrer persönlichen Website ebenfalls für mehr Arbeitnehmer*innen-Mitbestimmung in Betrieben ein. Im Gegensatz dazu lehnte Peter Bohnhof von der AfD die Vorschläge zur Ausweitung der Mitbestimmung nach der Debatte scharf ab und verglich sie mit einer „Stalinisierung der Wirtschaft“. Für Dr. Martin Plum von der CDU/CSU wurden keine spezifischen externen Aussagen zum Thema betriebliche Mitbestimmungsrechte gefunden, die über die Darstellung im Debattenprotokoll hinausgehen.",
+  "sources": [
+    {
+      "name": "Cem Ince",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Cem Ince betonte auf einer Parteipressekonferenz, dass Mitbestimmung im Betrieb ein Herzensanliegen sei und essenziell für Standorte und Beschäftigung. Er forderte die Stärkung von Betriebsräten und kritisierte Angriffe auf diese. Des Weiteren ist er Mitautor eines Bundestagsantrags, der eine deutliche Ausweitung zwingender Mitbestimmungsrechte zur aktiven Mitgestaltung des Arbeitsweltwandels durch Beschäftigte fordert.",
+      "source_title": "Parteipressekonferenz mit Ines Schwerdtner und Cem Ince; Deutscher Bundestag Drucksache 21/5719 Antrag der Abgeordneten Cem Ince...",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Martin Plum",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Peter Bohnhof",
+      "party": "AfD",
+      "found": true,
+      "statement": "Peter Bohnhof kritisierte in einer externen Videoreaktion die Vorschläge zur Ausweitung der Mitbestimmung als „schleichende Übernahme freier Betriebe durch sozialistische Aktivitäten“ und „Stalinisierung unserer Wirtschaft“. Er betonte, dass dies nichts mit Mitbestimmung zu tun habe und zu mehr Bürokratie und weniger Arbeitsplätzen führen würde, statt für echte Sozialpartnerschaft zu stehen.",
+      "source_title": "Stalinization of our economy! - Peter Bohnhof - AfD parliamentary group",
+      "url": "https://www.youtube.com/watch?v=UCyhz70IuYY",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Jan Dieren",
+      "party": "SPD",
+      "found": false,
+      "statement": "Jan Dieren sprach sich als Berichterstatter der SPD-Bundestagsfraktion für eine Weiterentwicklung der Mitbestimmung aus, um Betriebsräte besser vor Schikane zu schützen und Mitbestimmungsrechte zu stärken, insbesondere angesichts des Wandels der Arbeitswelt. Auf seiner persönlichen Website hebt er hervor, dass die Gestaltung des Wandels der Arbeitswelt den Ausbau und die Weiterentwicklung der Mitbestimmung erfordert.",
+      "source_title": "Zukunft der Arbeit mitbestimmt: SPD-Fraktion für stärkere Betriebsräte in Europa; Jan Dieren: Startseite",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Auf ihrer persönlichen Website listet Ricarda Lang unter ihren Herzensthemen 'Soziale Gerechtigkeit und gute Arbeit' auf. In diesem Kontext setzt sie sich konkret für 'mehr Mitbestimmung der Arbeitnehmer*innen in Betrieben' ein.",
+      "source_title": "Über mich - Ricarda Lang",
+      "url": "https://ricarda-lang.de/ueber-mich/",
+      "platform": "Website"
+    }
+  ]
+}

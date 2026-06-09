@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestages zeigten die Abgeordneten überwiegend eine konsistente Linie mit ihren im Plenum geäußerten Positionen. Lisa Badum (Bündnis 90/Die Grünen) übte scharfe Kritik am Gebäudemodernisierungsgesetz, warnte vor steigenden Kosten und einer drohenden Klimazielverfehlung, während Karl Bär (Bündnis 90/Die Grünen) vehement ein umfassendes Verbot von PFAS-Chemikalien forderte. Harald Ebner (Bündnis 90/Die Grünen) bekräftigte seine Ablehnung der Kernkraft aufgrund hoher Kosten und Sicherheitsrisiken. Für die Abgeordneten Dr. Jan-Niclas Gesenhues (Bündnis 90/Die Grünen) und Dr. Ingo Hahn (AfD) konnten keine direkten, externen Stellungnahmen zu ihren spezifischen Debattenbeiträgen gefunden werden, die über ihre generellen politischen Rollen hinausgingen.",
+  "sources": [
+    {
+      "name": "Dr. Jan-Niclas Gesenhues",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Karl Bär",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Karl Bär fordert ein umfassendes Verbot von Ewigkeitschemikalien (PFAS), insbesondere von Pestiziden und Kühlmitteln, deren Abbauprodukte im Grundwasser verbleiben. Er kritisierte die Bundesregierung, zu wenig gegen die Verbreitung von PFAS zu tun, und verwies auf strengere Regelungen in Dänemark und den Niederlanden als Vorbild.",
+      "source_title": "PFAS SCANDAL: Karl Bär (Green Party) calls them out in the Bundestag! ⚠️ / Am Tegernsee: Karl Bär / Karl Bär (@karlbaer@gruene.social)",
+      "url": "https://www.youtube.com/watch?v=R0c_q2wZ9oE%20/%20https://www.gruene-bundestag.de/presse/pressemitteilungen/pm-2026/am-tegernsee-karl-baer%20/%20https://gruene.social/@karlbaer/111394235881476902",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Lisa Badum",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Lisa Badum kritisierte den Referentenentwurf des Gebäudemodernisierungsgesetzes scharf, bezeichnete ihn als 'Chaos-Gesetz' und 'Biogas-Treppe ins Nirgendwo', welches teuer für Mieter sei und fossile Heizungen begünstige. Sie warnte vor klimaschädlichen Mehremissionen und forderte den Stopp des Gesetzes, da es die Abhängigkeit von fossilen Energieträgern zementiere.",
+      "source_title": "Grüne Klimapolitikerin kritisiert geplantes Heizungsgesetz scharf / Grünen-Politikerin Badum fordert Stopp des geplanten Heizungsgesetzes / Gebäudemodernisierungsgesetz stoppen – Mieter*innen und Klima schützen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Harald Ebner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Harald Ebner positionierte sich vehement gegen den Wiedereinstieg in die Atomkraft, bezeichnete diese als 'irrwitzig und teuer' und betonte die unkalkulierbaren Risiken sowie die dauerhafte Abhängigkeit. Er argumentierte, dass kostengünstige erneuerbare Energien die Lösung für eine sichere und unabhängige Energieversorgung seien.",
+      "source_title": "Atom – Harald Ebner, MdB / Forderung nach Wiedereinstieg in die Kernkraft beraten",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4029",
+      "title": "Antrag der Abgeordneten Christian Görke, Janine Wissler, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke: Vermögensteuer wieder erheben – Länderfinanzen nachhaltig sichern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4029&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4456",
+      "title": "Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN: Gerechtigkeitslücke im Steuersystem schließen – 300-Wohneinheiten-Regelung in der Erbschaftsteuer abschaffen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4456&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die beiden Anträge der Fraktionen Die Linke und Bündnis 90/Die Grünen wurden im Anschluss an die Debatte am 6. März 2026 zur federführenden Beratung an den Finanzausschuss überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

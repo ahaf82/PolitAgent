@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur Digitalisierung des Zwangsvollstreckungsverfahrens spiegeln weitgehend ihre Plenumsbeiträge wider, ergänzt durch allgemeinere Positionen zur Justizdigitalisierung. Daniel Rinkert (SPD) befürwortet die Digitalisierung als Effizienzsteigerung und Modernisierung des Rechtsstaats, besonders durch die Einbeziehung von Kreditinstituten. Dr. Till Steffen (Bündnis 90/Die Grünen) unterstreicht die Notwendigkeit und Überfälligkeit digitaler Justizreformen als Teil einer umfassenderen Modernisierungsstrategie. Aaron Valent (Die Linke) äußert sich kritisch zur punktuellen und nicht systematischen Digitalisierung im Justizbereich, bemängelt mangelnden Zugang und fehlende Schutzmechanismen, wodurch das Machtgefälle zwischen Gläubigern und Schuldnern verschärft wird. Für Tobias Matthias Peterka (AfD) und Dr. David Preisendanz (CDU/CSU) konnten keine direkten externen Stellungnahmen zum spezifischen Gesetzentwurf außerhalb der Berichterstattung über die Bundestagsdebatte gefunden werden, die über die im Plenum geäußerten Positionen hinausgehen.",
+  "sources": [
+    {
+      "name": "Daniel Rinkert",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Rinkert befürwortet den Gesetzentwurf als Ende der 'hybriden Bürokratie' in der Justiz, die durch die Corona-Pandemie verdeutlicht wurde. Er betont die erwartete Einsparung von 76.000 Arbeitsstunden jährlich und die Einbeziehung von Kreditinstituten, um die Durchsetzung von Forderungen zu beschleunigen und den Rechtsstaat zu modernisieren.",
+      "source_title": "Die Zwangsvollstreckung wird digitalisiert | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/zwangsvollstreckung-digitalisiert",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tobias Matthias Peterka",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. David Preisendanz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Till Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Till Steffen sieht die Digitalisierung der Justiz als Kernaufgabe, für die er sich im Rechtsausschuss einsetzt. Er betont die Notwendigkeit schneller, praktischer und guter Lösungen für juristisch komplexe Themen und die Relevanz der Digitalisierung für eine bürgerfreundliche Justiz.",
+      "source_title": "Über Mich - Till Steffen / Berlin - Till Steffen",
+      "url": "https://www.tillsteffen.de/ueber-mich/",
+      "platform": "Website"
+    },
+    {
+      "name": "Aaron Valent",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Aaron Valent kritisiert die punktuelle Digitalisierung im Justizbereich als unzureichend und unsystematisch. Er bemängelt, dass Menschen ohne passende Ausweisdokumente ausgeschlossen werden und fordert eine durchgängige Digitalisierung von A bis Z mit einer klaren Strategie.",
+      "source_title": "Digitalisierung vollumfänglich umsetzen! - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-aaron-valent-am-25032026-1/",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Thema 'Meinungsvielfalt und Bürgerbeteiligung – Stärkung der lokalen Medienlandschaft' zeigen konsistente Positionen zu ihren jeweiligen Fraktionslinien. Während die SPD und Bündnis 90/Die Grünen weiterhin eine Digitalabgabe und stärkere Regulierung von Tech-Konzernen fordern, um Lokaljournalismus zu finanzieren und zu schützen, warnt die AfD vor staatlicher Medienlenkung und kritisiert die Qualität der 'Mainstream-Medien'. Die Linke betont die Notwendigkeit einer Förderung des Qualitätsjournalismus, die direkt bei den Journalisten ankommt, und eine wirksame Digitalsteuer. Die CDU/CSU äußert sich allgemein zur Bedeutung lokaler Medien, ohne jedoch konkrete, neue externe Vorschläge zu machen, die über ihre Parlamentsrede hinausgehen.",
+  "sources": [
+    {
+      "name": "Martin Erwin Renner",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Erwin Renner lehnt den politischen Zugriff auf die digitale Öffentlichkeit und Versuche der Regulierung großer Internetplattformen ab. Er kritisiert, dass dies als 'Zensurnetzwerk' fungieren könnte und dass eine staatlich flankierte Meinungskontrolle droht. Er sieht die Ursachen für 'Nachrichtenwüsten' eher bei den 'sogenannten Qualitätsmedien' selbst, die ihre Kontrollfunktion vernachlässigen.",
+      "source_title": "AfD-Fraktion lehnt politischen Zugriff auf digitale Öffentlichkeit ab",
+      "url": "https://afdbundestag.de/afd-fraktion-lehnt-politischen-zugriff-auf-digitale-oeffentlichkeit-ab/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Holger Mann",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Dr. Anna Lührmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Anna Lührmann betont, dass Medien unabhängig von Politik und Konzernen sein müssen, geraten aber zunehmend in das 'Spinnennetz amerikanischer Digitalkonzerne', die Online-Werbeeinnahmen abschöpfen. Sie fordert daher eine Digitalabgabe auf Werbeumsätze von Plattformen, deren Einnahmen in einen staatsfernen Medienfonds für unabhängigen Journalismus fließen sollen.",
+      "source_title": "Im Spinnennetz der Techkonzerne!",
+      "url": "https://anna-luehrmann.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "David Schliesing",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "David Schliesing kritisiert die Untätigkeit der Bundesregierung bei der Einführung einer Digitalabgabe und fordert eine wirksame Digitalsteuer von mindestens 10 Prozent auf die Umsätze von Plattformen. Er spricht sich für eine Förderung von Qualitätsjournalismus aus, die direkt bei den Journalisten ankommt, beispielsweise durch eine bundesweite Stiftung für Qualitätsjournalismus.",
+      "source_title": "Pressemitteilung vom 29. Januar 2026: Nett klingende SPD-Papiere",
+      "url": "https://davidschliesing.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Anja Weisgerber",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

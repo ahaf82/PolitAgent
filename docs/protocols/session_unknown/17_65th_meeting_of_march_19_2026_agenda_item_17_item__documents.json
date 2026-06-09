@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4550",
+      "title": "Gesetzentwurf der Bundesregierung zur neunten Änderung des Steuerberatungsgesetzes und zur Änderung weiterer steuerrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4550&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4783",
+      "title": "Gesetzentwurf der Bundesregierung zur neunten Änderung des Steuerberatungsgesetzes und zur Änderung weiterer steuerrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4783&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4753",
+      "title": "Antrag der Fraktion Die Linke: Gewerbesteuer als kommunale Einnahmequelle stärken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4753&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4745",
+      "title": "Gesetzentwurf der Fraktion Bündnis 90/Die Grünen: Gesetz zum Schließen einer Gerechtigkeitslücke in der Immobilienbesteuerung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4745&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Nach der halbstündigen Aussprache wurden alle drei Vorlagen zur weiteren Beratung an die Ausschüsse, federführend den Finanzausschuss, überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/139",
+      "title": "Ein Tierschutzgesetz, das Tiere wirksam schützt",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F139&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Im Rahmen einer öffentlichen Anhörung des Ausschusses für Landwirtschaft, Ernährung und Heimat wurde der Antrag der Fraktion Die Linke zur umfassenden Überarbeitung des Tierschutzgesetzes debattiert. Die Sachverständigen zeigten sich uneinig über den optimalen Weg zur Novellierung, insbesondere hinsichtlich praktischer Umsetzbarkeit und wirtschaftlicher Folgen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

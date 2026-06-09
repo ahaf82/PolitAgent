@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4910",
+      "title": "Rechenzentrumsstrategie",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4910&rows=25",
+      "type": "Unterrichtung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Deutsche Bundestag debattierte die Rechenzentrumsstrategie der Bundesregierung. Im Anschluss an die einstündige Aussprache wurde die Unterrichtung (Drucksache 21/4910) dem federführenden Ausschuss für Digitales und Staatsmodernisierung zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

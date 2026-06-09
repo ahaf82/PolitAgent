@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3942",
+      "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1069 über den Schutz von Personen, die sich öffentlich beteiligen, vor offensichtlich unbegründeten Klagen oder missbräuchlichen Gerichtsverfahren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3942&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4276",
+      "title": "Antrag der Fraktion Die Linke: Einschüchterungsklagen stoppen – Demokratie und Pressefreiheit schützen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4276&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Ausschussdrucksache 21(6)66",
+      "title": "Entschließung der Fraktion BÜNDNIS 90/DIE GRÜNEN im 6. Ausschuss zu dem Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1069 über den Schutz von Personen, die sich öffentlich beteiligen, vor offensichtlich unbegründeten Klagen oder missbräuchlichen Gerichtsverfahren – Drucksache 21/3942 –",
+      "url": "N/A",
+      "type": "Entschließungsantrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Anhörung befasste sich mit dem Gesetzentwurf der Bundesregierung zur Umsetzung der Anti-SLAPP-Richtlinie, die Personen vor missbräuchlichen Klagen („SLAPP-Verfahren“) schützen soll. Zentrale Diskussionspunkte waren die Notwendigkeit und der Umfang der nationalen Umsetzung, insbesondere die Ausweitung des Anwendungsbereichs auf rein innerstaatliche Fälle und den außergerichtlichen Bereich. Der Gesetzentwurf der Bundesregierung und Anträge der Fraktionen Bündnis 90/Die Grünen und Die Linke wurden in die Anhörung einbezogen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

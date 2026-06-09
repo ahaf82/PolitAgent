@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3735",
+      "title": "Entwurf eines Gesetzes zur Digitalisierung des Vollzugs von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der steuerlichen Anzeigen der Notare",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3735&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5806",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz zu dem Gesetzentwurf der Bundesregierung – Drucksache 21/3735 – Entwurf eines Gesetzes zur Digitalisierung des Vollzugs von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der steuerlichen Anzeigen der Notare",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5806&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/5807",
+      "title": "Bericht des Haushaltsausschusses gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5807&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/5808",
+      "title": "Entschließungsantrag der Fraktion der AfD zu der dritten Beratung des Gesetzentwurfs der Bundesregierung – 21/3735, 21/5806 – Entwurf eines Gesetzes zur Digitalisierung des Vollzugs von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der steuerlichen Anzeigen der Notare",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5808&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag hat den Gesetzentwurf der Bundesregierung zur Digitalisierung des Vollzugs von Immobilienverträgen (Drucksache 21/3735), in der vom Ausschuss für Recht und Verbraucherschutz geänderten Fassung (Drucksache 21/5806), angenommen. CDU/CSU, SPD und Bündnis 90/Die Grünen stimmten für den Gesetzentwurf, während sich die AfD-Fraktion und Die Linke enthielten. Ein Entschließungsantrag der AfD-Fraktion (Drucksache 21/5808) wurde mit den Stimmen aller übrigen Fraktionen abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

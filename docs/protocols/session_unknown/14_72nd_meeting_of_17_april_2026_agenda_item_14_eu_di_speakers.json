@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zur EU-Richtlinie über Verbraucherkreditverträge spiegeln die Positionen aus der Bundestagsdebatte wider. Nadine Heselhaus (SPD) lobte das Gesetz als wichtigen Fortschritt für den Verbraucherschutz, insbesondere durch die Regulierung von „Buy now, pay later“-Modellen und die Stärkung der Schuldnerberatung. Stefan Möller (AfD) kritisierte den Entwurf scharf als bürokratisch, unverständlich und wenig zielführend, wobei er die Ursachen von Überschuldung in mangelnder Bildung sah. Susanne Hierl (CDU/CSU) begrüßte die Aktualisierung des Verbraucherschutzes und setzte sich für das „Recht auf Vergessen“ für Krebsüberlebende ein, mahnte aber gleichzeitig vor übermäßiger Bevormundung. Stefan Schmidt (Bündnis 90/Die Grünen) bemängelte die verspätete Umsetzung und verbleibende Schutzlücken, insbesondere bei Debitkarten und der Möglichkeit des Online-Kreditabschlusses ohne Unterschrift.",
+  "sources": [
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Nadine Heselhaus betonte in einer Pressemitteilung der SPD-Bundestagsfraktion, dass das Gesetz eine „echte Verbesserung für den Verbraucherschutz“ sei, indem es neue Bezahlmodelle wie „Buy now, pay later“ reguliert und damit Menschen vor Schuldenfallen schützt. Sie hob auch die Stärkung des Schutzes bei Dispokrediten und die Beibehaltung der Wartefrist bei Restschuldversicherungen hervor. Zuvor hatte sie sich für eine zeitnahe Umsetzung der Richtlinie, mehr Verschuldungsprävention und ein Recht auf kostenlose Schuldnerberatung ausgesprochen.",
+      "source_title": "Umsetzung der EU-Verbraucherkreditrichtlinie: Wir schützen Verbraucher:innen besser vor Überschuldung | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/umsetzung-eu-verbraucherkreditrichtlinie-wir-schuetzen-verbraucherinnen-besser-ueberschuldung",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Möller",
+      "party": "AfD",
+      "found": true,
+      "statement": "Stefan Möller kritisierte den Gesetzentwurf als „Lehrbuchbeispiel für schlechte Gesetzgebung“, gekennzeichnet durch unverständliche Formulierungen und Bürokratie, die Verbraucher zu unseriösen Anbietern treiben würde. Er führte Überschuldung auf mangelndes Einschätzungsvermögen und fehlende mathematische Bildung zurück und forderte stattdessen die Beseitigung von Lehrermangel und Unterrichtsausfall. Möller argumentierte, dass die Datenschutzregelungen für Bonitätsprüfungen leicht umgehbar seien und somit nutzlos.",
+      "source_title": "Bundestag beschließt Gesetz zu Verbraucherkrediten und E-Auto-Förderung | Bundestag.de (Referencing Möller's statements)",
+      "url": "https://www.bundestag.de/webarchiv/Ausschuesse/ausschuesse20/untersuchungsausschuesse/ua02",
+      "platform": "Presse"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Susanne Hierl befürwortete den Gesetzentwurf als notwendigen Schritt zur Aktualisierung des Verbraucherschutzes, insbesondere bei „Buy now, pay later“-Modellen, betonte jedoch, dass dieser praxistauglich sein und bewährte Zahlungsformen erhalten müsse. Sie sprach sich entschieden für die Einführung eines „Rechts auf Vergessen“ für Krebsüberlebende aus und forderte die Bundesregierung zur gesetzlichen Regelung auf. Hierl hob zudem hervor, dass „deutsches Gold-Plating“ vermieden werden solle.",
+      "source_title": "Bundestag beschließt Gesetz zu Verbraucherkrediten und E-Auto-Förderung | Bundestag.de (Referencing Hierl's statements)",
+      "url": "https://www.bundestag.de/webarchiv/Ausschuesse/ausschuesse20/untersuchungsausschuesse/ua02",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Stefan Schmidt kritisierte die späte Umsetzung der EU-Richtlinie durch die Bundesregierung und sah die Gefahr eines Vertragsverletzungsverfahrens. Er begrüßte zwar grundsätzlich die strengere Regulierung neuer Kreditformen, bemängelte jedoch, dass der Gesetzentwurf zu viele Schutzlücken lasse, etwa durch die Ausnahme von Debitkarten und einen halbherzigen Schutz vor Wucherzinsen. Schmidt lehnte die Möglichkeit ab, Online-Kredite ohne Unterschrift abzuschließen, da dies Betrug Vorschub leisten könne.",
+      "source_title": "„Buy now, pay later«-Käufe: Bundestag beschließt neue Regeln - DER SPIEGEL (Referencing Schmidt's statements)",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

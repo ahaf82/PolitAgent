@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4872",
+      "title": "Antrag der Abgeordneten Sahra Mirow, Kathrin Gebel, Luigi Pantisano, weiterer Abgeordneter und der Fraktion Die Linke. Wohnungslose Frauen besser schützen – Geschlechterspezifische Bedarfe in der Wohnungslosenhilfe konsequent berücksichtigen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4872&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/14216",
+      "title": "Antwort der Bundesregierung auf die Kleine Anfrage der Abgeordneten Sören Pellmann, Susanne Ferschl, Matthias Höhn, weiterer Abgeordneter und der Fraktion Die Linke. Stand und Weiterentwicklung der Wohnungslosenberichterstattung auf Bundesebene",
+      "url": "https://dserver.bundestag.de/btd/20/142/2014216.pdf",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/2183",
+      "title": "Antwort der Bundesregierung auf die Kleine Anfrage der Abgeordneten Sören Pellmann, Susanne Ferschl, Matthias Höhn, weiterer Abgeordneter und der Fraktion Die Linke. Situation wohnungsloser Frauen und die geschlechtersensible Ausrichtung der Wohnungslosenhilfe",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2183&rows=25",
+      "type": "Kleine Anfrage"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Aussprache wurde geschlossen und die Vorlage auf Drucksache 21/4872 wurde zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

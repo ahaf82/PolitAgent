@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Kommunikation der Abgeordneten zum Thema 'Vereinbarkeit von Familie und Beruf: Entgeltfortzahlung bei Erkrankung von Kindern' zeigt unterschiedliche Schwerpunkte. Mandy Eißing (Die Linke) hat ihre Position maßgeblich durch die Mitausarbeitung und Einbringung eines Gesetzentwurfs im Bundestag manifestiert, der spezifische Forderungen zur Verbesserung der Entgeltfortzahlung enthält. Jan Dieren (SPD) äußert auf seiner persönlichen Webseite ein allgemeines Bewusstsein für die Herausforderungen der Vereinbarkeit von Familie und Beruf, insbesondere als Familienvater. Für Sandra Carstensen (CDU/CSU), Dr. Anna Rathert (AfD) und Johannes Wagner (Bündnis 90/Die Grünen) waren im Rahmen der Recherche keine spezifischen externen Aussagen oder detaillierten Stellungnahmen zu diesem konkreten Thema außerhalb der Bundestagsdebatte zu identifizieren, die über allgemeine politische Schwerpunkte hinausgehen.",
+  "sources": [
+    {
+      "name": "Mandy Eißing",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Mandy Eißing ist Mitautorin des Gesetzentwurfs ihrer Fraktion zur Verbesserung der Vereinbarkeit von Familie und Beruf durch klare Regelung des Freistellungs- und Entgeltfortzahlungsanspruchs bei Erkrankung der Kinder. Dieser Entwurf fordert eine Freistellung für die gesamte Dauer der Erkrankung und eine verbesserte Lohnfortzahlung.",
+      "source_title": "Drucksache 21/5570: Entwurf eines Gesetzes zur Verbesserung der Vereinbarkeit von Familie und Beruf durch klare Regelung des Freistellungs- und Entgeltfortzahlungsanspruchs bei Erkrankung der Kinder",
+      "url": "https://www.bundestag.de/dip-api/api/v1/drucksache-text/287158?ref=bt&format=xml",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sandra Carstensen",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Anna Rathert",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jan Dieren",
+      "party": "SPD",
+      "found": false,
+      "statement": "Jan Dieren äußert auf seiner persönlichen Webseite, dass ihm als Familienvater die Vereinbarkeit von Familie und Beruf ein wichtiges und bewusster gewordenes Thema ist, neben anderen sozialen und umweltbezogenen Fragen.",
+      "source_title": "Über mich - Jan Dieren",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

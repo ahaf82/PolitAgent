@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/1568",
+      "title": "Psychotherapeuten bedarfsgerecht ausbilden – Weiterbildung sichern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1568&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/1571",
+      "title": "Streichung der Konsiliarberichtspflicht vor Beginn einer Psychotherapie",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1571&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4954",
+      "title": "Psychotherapeutische Versorgung strukturell stärken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4954&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die öffentliche Anhörung im Gesundheitsausschuss diente der Einholung von Expertenmeinungen zur Verbesserung der psychotherapeutischen Versorgung auf Basis von drei Anträgen. Es wurde keine Abstimmung durchgeführt, sondern die Diskussion zur Meinungsbildung fortgesetzt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

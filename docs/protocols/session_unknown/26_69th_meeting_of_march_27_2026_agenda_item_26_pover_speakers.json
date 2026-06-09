@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zum Siebten Armuts- und Reichtumsbericht spiegeln weitgehend ihre im Bundestag geäußerten Positionen wider. Kerstin Griese (SPD) hebt positive Entwicklungen im Niedriglohnsektor hervor, betont aber auch die ungleiche Vermögensverteilung und die sozialen Auswirkungen der Klimapolitik, während sie sich für einen vereinfachten Sozialstaat ausspricht. Gerrit Huy (AfD) kritisiert die steigende Alters- und Wohnarmut scharf und führt dies auf die Migrationspolitik und ideologische Klimavorgaben zurück. Dr. Ottilie Klein (CDU/CSU) unterstreicht Arbeit als besten Schutz vor Armut und fordert eine starke Wirtschaft sowie Investitionen in Bildung zur Bekämpfung von Kinderarmut. Timon Dzienus (Bündnis 90/Die Grünen) verurteilt die extreme Vermögensungleichheit als \"Gift für die Gesellschaft\" und plädiert für eine Besteuerung von Superreichen und Umverteilung.",
+  "sources": [
+    {
+      "name": "Kerstin Griese",
+      "party": "SPD",
+      "found": true,
+      "statement": "Kerstin Griese betont, dass die Einkommen über zehn Jahre real zugenommen hätten, der Zuwachs jedoch ungleich verteilt sei, was zu einer steigenden Armutsrisikoquote führe. Sie hebt den Rückgang des Niedriglohnanteils durch Mindestlohn und Tarifabschlüsse hervor und fordert eine Stärkung der Tarifbindung. Weiterhin verweist sie auf die Notwendigkeit, soziale Folgewirkungen des Klimawandels und der Klimapolitik für einkommensschwache Haushalte zu berücksichtigen und einen einfacheren, gerechteren und digitaleren Sozialstaat zu gestalten.",
+      "source_title": "Armut und Reichtum in Deutschland | Kerstin Griese MdB",
+      "url": "https://kerstin-griese.de/armut-und-reichtum-in-deutschland/",
+      "platform": "Website"
+    },
+    {
+      "name": "Gerrit Huy",
+      "party": "AfD",
+      "found": false,
+      "statement": "Gerrit Huy kritisiert die Zunahme der Altersarmut und die Tatsache, dass immer mehr Menschen in Deutschland armutsgefährdet sind, teilweise in prekären Arbeitsverhältnissen. Sie macht die \"falsche Sozial- und Rentenpolitik der letzten Jahrzehnte\" sowie die \"Masseneinwanderung\" und \"ideologiegetriebene Klimavorgaben\" für die wachsende Armut verantwortlich. Sie fordert eine wirksame Bekämpfung der Altersarmut und ein höheres Rentenniveau.",
+      "source_title": "Gerrit Huy: Zunehmende Altersarmut bekämpfen - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Ottilie Klein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Ottilie Klein betont, dass Arbeit der beste Schutz vor Armut ist und plädiert für eine starke Wirtschaft durch Steuererleichterungen und Bürokratieabbau, um Arbeitsplätze zu sichern und sozialen Aufstieg zu ermöglichen. Sie äußert sich besorgt über Kinderarmut und die mit Armut einhergehende Scham und Isolation. Sie setzt sich für ein \"neues Aufstiegsversprechen\" durch Investitionen in Bildung und frühkindliche Förderung ein.",
+      "source_title": "Dr. Ottilie Klein",
+      "url": "https://ottilieklein.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Timon Dzienus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Timon Dzienus kritisiert die extreme Vermögensungleichheit als \"ungerecht\" und \"Gift für unsere Gesellschaft\", da sie die Demokratie gefährde. Er lehnt Argumente gegen eine Besteuerung von Milliardären ab und fordert stattdessen eine faire Besteuerung der Überreichen sowie Umverteilung, um Wohlstand für alle zu schaffen. Er hebt die Kinderarmut hervor und fordert strukturelle Veränderungen, insbesondere im Bereich bezahlbaren Wohnraums und bei hohen Erbschaften.",
+      "source_title": "Wenn Inflation und steigende Mieten in die Enge treiben - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Cansin Köktürk",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

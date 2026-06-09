@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen der genannten Redner zeigt, dass die Bundesministerinnen Dr. Stefanie Hubig (BMJV) und Dr. Karsten Wildberger (BMDS) in ihren Rollen als Kabinettsmitglieder tatsächlich in der deutschen Bundesregierung vertreten sind und zu den im Protokoll genannten Themenfeldern (Justiz, Verbraucherschutz, Digitalisierung, Staatsmodernisierung) Stellungnahmen abgeben. Ihre Positionen außerhalb des Bundestages spiegeln die regierungsoffizielle Linie wider, die im Protokoll dargelegt wurde, insbesondere hinsichtlich des digitalen Gewaltschutzgesetzes und der Verwaltungsdigitalisierung. Ruben Rupp von der AfD vertritt konsistent die im Protokoll geäußerten kritischen Haltungen seiner Fraktion, insbesondere zur Digitalisierung, zur Meinungsfreiheit im digitalen Raum und zur Migrationspolitik, die er oft mit gesellschaftlichen Problemen in Verbindung bringt.",
+  "sources": [
+    {
+      "name": "Dr. Stefanie Hubig",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Stefanie Hubig ist seit dem 6. Mai 2025 Bundesministerin der Justiz und für Verbraucherschutz im Kabinett Merz. Zuvor war sie Ministerin für Bildung in Rheinland-Pfalz. Sie ist verantwortlich für Bereiche wie Justiz, Rechtspolitik und Verwaltung und war unter anderem mit der Verschärfung des Sexualstrafrechts befasst. Ihre externe Kommunikation als Ministerin erfolgt über die Kanäle der Bundesregierung und des BMJV, wo sie sich zu den Themen Gewaltprävention und Verbraucherschutz äußert.",
+      "source_title": "Stefanie Hubig: Justizministerin",
+      "url": "https://www.publikationen-bundesregierung.de/pp-de/publikationssuche/preisniveausteigerungen-2384666",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Karsten Wildberger",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Karsten Wildberger ist seit dem 6. Mai 2025 der erste Bundesminister für Digitales und Staatsmodernisierung im Kabinett Merz. Er ist Mitglied der CDU und war zuvor in verschiedenen Managerpositionen tätig. Seine Aufgaben umfassen die Bereiche digitale Transformation und Regierungsmodernisierung.",
+      "source_title": "Dr. Karsten Wildberger - Bundesregierung.de",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/newsletter-verbraucherschutz/2384668-2384668",
+      "platform": "Website"
+    },
+    {
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ruben Rupp, digitalpolitischer Sprecher der AfD-Bundestagsfraktion, kritisiert die EU-Regulierungen wie den Digital Services Act (DSA) als Zensurinstrument und warnt vor einem Abbau der Meinungsfreiheit. Er fordert ein deutsches KI-Gesetz, schlanke Regulierung und massive Rechenzentren bei bezahlbarer Energie und lehnt die 'grüne Planwirtschaft' der EU ab. Darüber hinaus hat er wiederholt die Kosten der Migrationspolitik thematisiert und eine 'Remigrationsoffensive' gefordert, da die Massenmigration nach seiner Ansicht die Sozialkassen und den sozialen Frieden gefährde.",
+      "source_title": "Censorship instead of the rule of law – a disgrace! – Ruben Rupp – AfD parliamentary group in the... - YouTube",
+      "url": "https://www.youtube.com/watch?v=kYc1kQ2j8-g",
+      "platform": "Social Media"
+    }
+  ]
+}

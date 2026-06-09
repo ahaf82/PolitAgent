@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten zur Debatte „Deutschland als Wissenschaftsstandort“ spiegeln weitgehend ihre im Bundestag geäußerten Positionen wider. Dr. Christoph Birghan (AfD) bekräftigte außerhalb des Plenums seine Kritik am vermeintlichen Stillstand der Regierung in der Forschungsförderung und forderte einen konsequenten Bürokratieabbau sowie eine Neuausrichtung der Exzellenzstrategie, die auch kleinere Universitäten nicht benachteiligen dürfe. Ayse Asar (Bündnis 90/Die Grünen) hob auf ihrer persönlichen Website die Bedeutung wissenschaftlicher Freiheit, verlässlicher Finanzierung und fairer Arbeitsbedingungen hervor, um exzellente Forschung und Innovation zu ermöglichen. Nicole Gohlke (Die Linke) kritisierte in Interviews und Pressemitteilungen den massiven Sanierungsstau an Hochschulen und die unzureichende Grundfinanzierung, die sie als grundlegende Probleme für den Wissenschaftsstandort Deutschland ansieht. Für Dr. Hans Theiss (CDU/CSU) und Maja Wallstein (SPD) konnten keine direkt ihnen zuzuordnenden externen Stellungnahmen zum spezifischen Thema „Deutschland als Wissenschaftsstandort“ rund um den Debattenzeitraum gefunden werden, obwohl ihre Fraktionen allgemeine Positionen dazu äußerten.",
+  "sources": [
+    {
+      "name": "Dr. Christoph Birghan",
+      "party": "AfD",
+      "found": true,
+      "statement": "Birghan kritisierte die Bundesregierung nach der Debatte scharf für ihren 'Stillstand' in der Forschungsförderung und die mangelnde Bereitschaft, den Wissenschaftsstandort Deutschland wiederzubeleben. Er forderte die Evaluation der jährlich Millionen kostenden Exzellenzstrategie und einen echten Bürokratieabbau, anstatt die Wissenschaftler mit lästigen Vorgaben zu belasten.",
+      "source_title": "Auch in der Forschungsförderung setzt die Regierung auf Stillstand",
+      "url": "https://afdbundestag.de/auch-in-der-forschungsfoerderung-setzt-die-regierung-auf-stillstand/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Hans Theiss",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ayse Asar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Ayse Asar betont, dass hervorragend ausgebildete Wissenschaftlerinnen und Wissenschaftler die Grundlage für echten Fortschritt sind. Sie fordert wissenschaftliche Freiheit, verlässliche Finanzierung und faire Arbeitsbedingungen an Hochschulen und Forschungseinrichtungen, um Innovationen zu fördern und Europa als Kontinent des Fortschritts zu sichern.",
+      "source_title": "Meine Themen: Forschung - Ayşe Asar (Persönliche Website)",
+      "url": "https://www.ayse-asar.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Maja Wallstein",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Nicole Gohlke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Nicole Gohlke kritisiert den massiven Sanierungsstau an deutschen Hochschulen von 60 Milliarden Euro und fordert Bund und Länder auf, wirksame Maßnahmen zu ergreifen. Sie betont die Notwendigkeit einer groß angelegten Sanierungsbauoffensive und einer guten Grundfinanzierung der Hochschulen anstelle der Abhängigkeit von Drittmitteln.",
+      "source_title": "Sanierungsbauoffensive statt bröckelnder Hochschulfassaden (Pressemitteilung)",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

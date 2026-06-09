@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4749",
+      "title": "Wieder in die Kernkraft einsteigen und strategische Fehler korrigieren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4749&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5892",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss) zu dem Antrag der Abgeordneten Dr. Paul Schmidt, Dr. Rainer Kraft, Andreas Bleck, weiterer Abgeordneter und der Fraktion der AfD – Drucksache 21/4749 – Wieder in die Kernkraft einsteigen und strategische Fehler korrigieren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5892&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Antrag der AfD-Fraktion (Drucksache 21/4749) wurde nach erster Debatte am 19. März 2026 zur weiteren Beratung an den Ausschuss für Wirtschaft und Energie (federführend) sowie an den Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (mitberatend) überwiesen. Der Ausschuss für Wirtschaft und Energie empfahl in seiner Beschlussempfehlung (Drucksache 21/5892) die Ablehnung des Antrags, welche mit den Stimmen der Fraktionen CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN und Die Linke gegen die Stimmen der Fraktion der AfD erfolgen sollte.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

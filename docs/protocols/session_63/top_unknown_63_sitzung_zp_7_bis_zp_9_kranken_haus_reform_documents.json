@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/2512",
+      "title": "Entwurf eines Gesetzes zur Anpassung der Krankenhausreform (Krankenhausreformanpassungsgesetz - KHAG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2512&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/3056",
+      "title": "Entwurf eines Gesetzes zur Anpassung der Krankenhausreform (Krankenhausreformanpassungsgesetz - KHAG) - Drucksache 21/2512 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3056&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/4527",
+      "title": "Beschlussempfehlung und Bericht: a) zu dem Gesetzentwurf der Bundesregierung – Drucksachen 21/2512, 21/3056 – Entwurf eines Gesetzes zur Anpassung der Krankenhausreform (Krankenhausreformanpassungsgesetz – KHAG); b) zu dem Antrag der Abgeordneten Stella Merendino, Nicole Gohlke, Dr. Michael Arndt, weiterer Abgeordneter und der Fraktion Die Linke – Drucksache 21/2707",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4527&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/2721",
+      "title": "Kindergesundheit stärken – Versorgung umfassend verbessern und nachhaltig finanzieren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2721&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2707",
+      "title": "Vorhaltungen der Krankenhäuser verlässlich finanzieren – Ausgliederung sämtlicher Personalkosten aus den Fallpauschalen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2707&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "In der 63. Sitzung des Deutschen Bundestages am 5. März 2026 wurde der Gesetzentwurf der Bundesregierung (Drucksache 21/2512) zur Anpassung der Krankenhausreform in zweiter und dritter Beratung angenommen. Die Anträge von Bündnis 90/Die Grünen (Drucksache 21/2721) und Die Linke (Drucksache 21/2707) wurden abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
