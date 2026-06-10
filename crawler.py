@@ -1188,11 +1188,13 @@ def main():
     
     # Load already processed videos
     processed_ids = set()
+    processed_topics = set()
     if os.path.exists(index_path):
         try:
             with open(index_path, 'r', encoding='utf-8') as f:
                 existing_data = json.load(f)
                 processed_ids = {item['id'] for item in existing_data}
+                processed_topics = {(item.get('topic'), item.get('date')) for item in existing_data if item.get('topic') and item.get('date')}
             print(f"{len(processed_ids)} bereits verarbeitete Videos im Index gefunden.")
         except Exception as e:
             print(f"Index konnte nicht gelesen werden, starte neu: {e}")
@@ -1206,11 +1208,21 @@ def main():
         print("Keine Videos gefunden. Beende.")
         return
 
-    # Parse metadata for all videos
+    # Parse metadata and filter duplicates within the fetched list
     parsed_videos = []
+    seen_in_this_fetch = set()
     for v in videos:
         meta = parse_video_title(v['title'], v['upload_date'])
         v.update(meta)
+        
+        # Deduplicate duplicates within the fetched YouTube feed by (topic, date)
+        topic_date = (v['topic'], v['date'])
+        if v['topic']:
+            if topic_date in seen_in_this_fetch:
+                print(f"Deduplizierung: Ignoriere Duplikat im Feed für Thema '{v['topic']}' am {v['date']} (Video ID: {v['id']})")
+                continue
+            seen_in_this_fetch.add(topic_date)
+            
         parsed_videos.append(v)
 
     # Filter videos to process
@@ -1259,6 +1271,11 @@ def main():
         # Continuous run: process all new videos
         for v in parsed_videos:
             if v['id'] not in processed_ids:
+                # Deduplicate against already processed sessions in database
+                topic_date = (v['topic'], v['date'])
+                if v['topic'] and topic_date in processed_topics:
+                    print(f"Deduplizierung: Thema '{v['topic']}' am {v['date']} bereits in der Datenbank (Video ID: {v['id']})")
+                    continue
                 videos_to_process.append(v)
         print(f"Fortlaufender Betrieb: {len(videos_to_process)} neue Videos zum Verarbeiten gefunden.")
         # Process older first
