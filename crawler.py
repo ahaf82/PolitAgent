@@ -1170,13 +1170,17 @@ def main():
     os.makedirs(data_dir, exist_ok=True)
     os.makedirs(protocols_dir, exist_ok=True)
     
-    # Write public OneSignal config file for frontend
+    # Write public config file for frontend (OneSignal and GoatCounter)
     config_path = os.path.join(data_dir, "config.json")
     onesignal_app_id = os.getenv("ONESIGNAL_APP_ID", "")
+    goatcounter_code = os.getenv("GOATCOUNTER_CODE", "")
     try:
         with open(config_path, 'w', encoding='utf-8') as f:
-            json.dump({"onesignal_app_id": onesignal_app_id}, f, indent=2)
-        print(f"OneSignal App ID Konfiguration geschrieben unter: {config_path}")
+            json.dump({
+                "onesignal_app_id": onesignal_app_id,
+                "goatcounter_code": goatcounter_code
+            }, f, indent=2)
+        print(f"Frontend-Konfigurationsdatei geschrieben unter: {config_path}")
     except Exception as e:
         print(f"Fehler beim Schreiben der Config-JSON: {e}")
 

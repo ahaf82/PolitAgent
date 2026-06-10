@@ -927,6 +927,47 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    // Initialize GoatCounter Privacy-Friendly Analytics
+    const initGoatCounter = async () => {
+        try {
+            const response = await fetch('data/config.json');
+            if (!response.ok) return;
+            const config = await response.json();
+            if (!config.goatcounter_code) return;
+
+            window.goatcounter = {
+                no_onload: true
+            };
+
+            // Create script element
+            const script = document.createElement('script');
+            script.async = true;
+            script.src = '//gc.zgo.at/count.js';
+            script.dataset.goatcounter = `https://${config.goatcounter_code}.goatcounter.com/count`;
+            document.head.appendChild(script);
+
+            // Path generator helper
+            const getPath = () => location.pathname + location.search + location.hash;
+
+            // Track pageview function
+            const trackPageview = () => {
+                if (window.goatcounter && typeof window.goatcounter.count === 'function') {
+                    window.goatcounter.count({
+                        path: getPath()
+                    });
+                }
+            };
+
+            // Trigger on script load (initial pageview)
+            script.onload = trackPageview;
+
+            // Listen for SPA hash changes
+            window.addEventListener('hashchange', trackPageview);
+        } catch (err) {
+            console.warn("GoatCounter initialization skipped:", err);
+        }
+    };
+
     // Register Service Worker for PWA support
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
@@ -940,4 +981,5 @@ document.addEventListener('DOMContentLoaded', () => {
     initTheme();
     loadData();
     initOneSignal();
+    initGoatCounter();
 });
