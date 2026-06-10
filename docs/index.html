@@ -22,6 +22,8 @@
     <link rel="stylesheet" href="styles.css">
     <!-- Marked.js for Markdown Parsing -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- OneSignal SDK -->
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 </head>
 <body class="dark-mode">
     <div class="app-container">
@@ -74,6 +76,9 @@
                 </div>
                 
                 <div class="header-actions">
+                    <button id="push-notification-btn" class="push-notification-btn hidden" aria-label="Benachrichtigungen umschalten" title="Benachrichtigungen aktivieren/deaktivieren">
+                        <i class="fa-regular fa-bell"></i>
+                    </button>
                     <button id="dark-mode-toggle" class="theme-toggle-btn" aria-label="Farbschema umschalten">
                         <i class="fa-solid fa-sun icon-light"></i>
                         <i class="fa-solid fa-moon icon-dark"></i>

@@ -1097,6 +1097,52 @@ def run_retroactive_speaker_analysis(client, index_path, docs_dir, max_process=3
         # Small delay between calls to respect API limits
         time.sleep(5)
 
+def send_push_notification(session_id, topic):
+    """Sends a push notification via OneSignal API when a new session is processed."""
+    app_id = os.getenv("ONESIGNAL_APP_ID")
+    rest_api_key = os.getenv("ONESIGNAL_REST_API_KEY")
+    app_url = os.getenv("APP_URL", "https://ahaf82.github.io/PolitAgent").rstrip('/')
+
+    if not app_id or not rest_api_key:
+        print("Push-Benachrichtigung übersprungen (ONESIGNAL_APP_ID oder ONESIGNAL_REST_API_KEY fehlt).")
+        return False
+
+    url = "https://api.onesignal.com/notifications"
+    headers = {
+        "Authorization": f"Basic {rest_api_key}",
+        "Content-Type": "application/json; charset=utf-8"
+    }
+
+    # Deep link to the session card and documents tab
+    session_link = f"{app_url}/#/session/{session_id}"
+
+    payload = {
+        "app_id": app_id,
+        "included_segments": ["All"],
+        "headings": {
+            "de": "Neue Sitzungsanalyse online ⚖️",
+            "en": "New Session Analysis Online ⚖️"
+        },
+        "contents": {
+            "de": f"PolitAgent hat ein neues Protokoll veröffentlicht: {topic}",
+            "en": f"PolitAgent published a new protocol: {topic}"
+        },
+        "url": session_link
+    }
+
+    try:
+        print(f"Sende Push-Benachrichtigung für Sitzung '{topic}'...")
+        response = requests.post(url, json=payload, headers=headers, timeout=10)
+        if response.status_code == 200 or response.status_code == 201:
+            print(f"Push-Benachrichtigung erfolgreich gesendet: {response.json()}")
+            return True
+        else:
+            print(f"Fehler beim Senden der Push-Benachrichtigung (HTTP {response.status_code}): {response.text}")
+            return False
+    except Exception as e:
+        print(f"Verbindungsfehler beim Senden der Push-Benachrichtigung: {e}")
+        return False
+
 def main():
     parser = argparse.ArgumentParser(description="PolitAgent Crawler - Dokumentiert und fasst Bundestagssitzungen zusammen.")
     parser.add_argument("--days", type=int, default=3, help="Anzahl der letzten Sitzungstage, die erfasst werden sollen (nur bei Erstbefüllung relevant).")
@@ -1124,6 +1170,16 @@ def main():
     os.makedirs(data_dir, exist_ok=True)
     os.makedirs(protocols_dir, exist_ok=True)
     
+    # Write public OneSignal config file for frontend
+    config_path = os.path.join(data_dir, "config.json")
+    onesignal_app_id = os.getenv("ONESIGNAL_APP_ID", "")
+    try:
+        with open(config_path, 'w', encoding='utf-8') as f:
+            json.dump({"onesignal_app_id": onesignal_app_id}, f, indent=2)
+        print(f"OneSignal App ID Konfiguration geschrieben unter: {config_path}")
+    except Exception as e:
+        print(f"Fehler beim Schreiben der Config-JSON: {e}")
+
     index_path = os.path.join(data_dir, "sessions.json")
     
     # Load already processed videos
@@ -1320,6 +1376,7 @@ def main():
                 "processed_at": datetime.now().isoformat()
             }
             update_sessions_index(index_path, session_entry)
+            send_push_notification(v['id'], v['topic'])
             success_count += 1
             
             # Sleep to respect YouTube's rate limits and prevent 429 errors

@@ -861,6 +861,72 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Initialize OneSignal Push Notifications
+    const initOneSignal = async () => {
+        try {
+            const response = await fetch('data/config.json');
+            if (!response.ok) return;
+            const config = await response.json();
+            if (!config.onesignal_app_id) return;
+
+            const pushBtn = document.getElementById('push-notification-btn');
+            if (!pushBtn) return;
+
+            // Show push button
+            pushBtn.classList.remove('hidden');
+
+            window.OneSignalDeferred = window.OneSignalDeferred || [];
+            OneSignalDeferred.push(async function(OneSignal) {
+                await OneSignal.init({
+                    appId: config.onesignal_app_id,
+                    serviceWorkerPath: "sw.js",
+                    serviceWorkerParam: {
+                        scope: "./"
+                    }
+                });
+
+                // Helper to update button state
+                const updateButtonState = (isSubscribed) => {
+                    const icon = pushBtn.querySelector('i');
+                    if (isSubscribed) {
+                        pushBtn.classList.add('subscribed');
+                        pushBtn.title = "Benachrichtigungen deaktivieren";
+                        if (icon) {
+                            icon.className = "fa-solid fa-bell";
+                        }
+                    } else {
+                        pushBtn.classList.remove('subscribed');
+                        pushBtn.title = "Benachrichtigungen aktivieren";
+                        if (icon) {
+                            icon.className = "fa-regular fa-bell";
+                        }
+                    }
+                };
+
+                // Check initial subscription status
+                const isOptedIn = OneSignal.User.PushSubscription.optedIn;
+                updateButtonState(isOptedIn);
+
+                // Listen for changes
+                OneSignal.User.PushSubscription.addEventListener("change", (event) => {
+                    updateButtonState(event.current.optedIn);
+                });
+
+                // Toggle click handler
+                pushBtn.addEventListener('click', async () => {
+                    const currentOptedIn = OneSignal.User.PushSubscription.optedIn;
+                    if (currentOptedIn) {
+                        await OneSignal.User.PushSubscription.optOut();
+                    } else {
+                        await OneSignal.User.PushSubscription.optIn();
+                    }
+                });
+            });
+        } catch (err) {
+            console.warn("OneSignal initialization skipped:", err);
+        }
+    };
+
     // Register Service Worker for PWA support
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
@@ -873,4 +939,5 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize Page
     initTheme();
     loadData();
+    initOneSignal();
 });
