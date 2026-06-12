@@ -1046,26 +1046,19 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
-    // Register Service Worker for PWA support
+    // Service Worker update handling (registration is done at top of file)
     if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-            navigator.serviceWorker.register(`/${swPathOneSignal}`, { scope: swScope })
-                .then(reg => {
-                    console.log('Service Worker registriert scope:', reg.scope);
-                    // Check for updates on load
-                    reg.update();
-                })
-                .catch(err => console.error('Service Worker Registrierungsfehler:', err));
-        });
-
-        // Reload the page when the active service worker changes (new version activated)
+        // Reload the page ONCE when a new service worker takes control
         let refreshing = false;
         navigator.serviceWorker.addEventListener('controllerchange', () => {
-            if (!refreshing) {
+            if (!refreshing && !sessionStorage.getItem('sw-refreshed')) {
                 refreshing = true;
+                sessionStorage.setItem('sw-refreshed', 'true');
                 window.location.reload();
             }
         });
+        // Clear the flag after a stable load (no more controller changes)
+        setTimeout(() => sessionStorage.removeItem('sw-refreshed'), 5000);
     }
 
     // Initialize Page
