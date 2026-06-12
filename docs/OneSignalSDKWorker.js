@@ -1,6 +1,6 @@
 importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js');
 
-const CACHE_NAME = 'politagent-cache-v8';
+const CACHE_NAME = 'politagent-cache-v9';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -48,6 +48,11 @@ self.addEventListener('activate', event => {
 // Fetch Event
 self.addEventListener('fetch', event => {
   const requestUrl = new URL(event.request.url);
+
+  // Skip caching for OneSignal API calls and SDK resources entirely
+  if (requestUrl.hostname.includes('onesignal.com') || requestUrl.hostname.includes('os.tc')) {
+    return; // Let the browser handle these requests natively
+  }
 
   // Strategy 1: Network-First for dynamic JSON data and markdown files.
   // This ensures users always get the freshest data if online, but fall back to cache if offline.

@@ -928,30 +928,56 @@ document.addEventListener('DOMContentLoaded', () => {
             try {
                 // Check initial subscription status
                 const isOptedIn = OneSignal.User.PushSubscription.optedIn;
-                console.log('[OneSignal] Initialer Abonnement-Status:', isOptedIn);
+                const subId = OneSignal.User.PushSubscription.id;
+                const subToken = OneSignal.User.PushSubscription.token;
+                console.log('[OneSignal] Initialer Abonnement-Status:', isOptedIn, 'ID:', subId, 'Token:', subToken);
+                console.log('[OneSignal] Notification.permission:', Notification.permission);
                 updateButtonState(isOptedIn);
 
                 // Listen for changes
                 OneSignal.User.PushSubscription.addEventListener("change", (event) => {
-                    console.log('[OneSignal] Abonnement geändert:', event.current.optedIn);
+                    console.log('[OneSignal] Abonnement geändert:', event.current.optedIn, 'Previous:', event.previous.optedIn);
                     updateButtonState(event.current.optedIn);
                 });
 
+                // Prevent multiple click handlers
+                let isProcessing = false;
+
                 // Toggle click handler
                 pushBtn.addEventListener('click', async () => {
+                    if (isProcessing) {
+                        console.log('[OneSignal] Klick ignoriert - wird gerade verarbeitet.');
+                        return;
+                    }
+                    isProcessing = true;
                     console.log('[OneSignal] Glocke geklickt.');
+
                     try {
                         const currentOptedIn = OneSignal.User.PushSubscription.optedIn;
                         console.log('[OneSignal] Aktueller Status:', currentOptedIn);
+                        console.log('[OneSignal] Notification.permission:', Notification.permission);
+
                         if (currentOptedIn) {
                             console.log('[OneSignal] Melde ab...');
-                            await OneSignal.User.PushSubscription.optOut();
+                            try {
+                                await OneSignal.User.PushSubscription.optOut();
+                                console.log('[OneSignal] optOut() abgeschlossen. Neuer Status:', OneSignal.User.PushSubscription.optedIn);
+                            } catch (optOutErr) {
+                                console.error('[OneSignal] optOut() Fehler:', optOutErr);
+                            }
                         } else {
                             console.log('[OneSignal] Melde an...');
-                            await OneSignal.User.PushSubscription.optIn();
+                            try {
+                                await OneSignal.User.PushSubscription.optIn();
+                                console.log('[OneSignal] optIn() abgeschlossen. Neuer Status:', OneSignal.User.PushSubscription.optedIn);
+                            } catch (optInErr) {
+                                console.error('[OneSignal] optIn() Fehler:', optInErr);
+                            }
                         }
                     } catch (clickErr) {
                         console.error('[OneSignal] Fehler beim Klicken der Glocke:', clickErr);
+                    } finally {
+                        isProcessing = false;
                     }
                 });
             } catch (subErr) {
