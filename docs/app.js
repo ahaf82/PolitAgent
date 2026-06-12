@@ -825,14 +825,25 @@ document.addEventListener('DOMContentLoaded', () => {
         shareBtn.addEventListener('click', async () => {
             const shareUrl = window.location.href;
             const activeSession = sessionsData.find(s => s.id === activeSessionId);
-            const title = activeSession ? `PolitAgent: ${activeSession.topic || activeSession.title}` : 'PolitAgent';
+            
+            let shareTitle = 'PolitAgent';
+            let shareText = 'Sachliche Analysen & Protokolle der Bundestagssitzungen';
+            
+            if (activeSession) {
+                const sessionNum = activeSession.session > 0 ? `${activeSession.session}. Sitzung` : 'Sitzung';
+                const topStr = activeSession.top ? `TOP ${activeSession.top}` : '';
+                const details = [sessionNum, topStr].filter(Boolean).join(', ');
+                
+                shareTitle = activeSession.topic || activeSession.title;
+                shareText = `${shareTitle} (${details})`;
+            }
             
             // Try Web Share API first (Mobile)
             if (navigator.share) {
                 try {
                     await navigator.share({
-                        title: title,
-                        text: `Schau dir diese Bundestagssitzung auf PolitAgent an:`,
+                        title: shareTitle,
+                        text: shareText,
                         url: shareUrl
                     });
                     console.log('Erfolgreich geteilt.');

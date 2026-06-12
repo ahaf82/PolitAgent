@@ -1097,7 +1097,7 @@ def run_retroactive_speaker_analysis(client, index_path, docs_dir, max_process=3
         # Small delay between calls to respect API limits
         time.sleep(5)
 
-def send_push_notification(session_id, topic):
+def send_push_notification(session_id, topic, session_num=None, top=None):
     """Sends a push notification via OneSignal API when a new session is processed."""
     app_id = os.getenv("ONESIGNAL_APP_ID")
     rest_api_key = os.getenv("ONESIGNAL_REST_API_KEY")
@@ -1116,16 +1116,26 @@ def send_push_notification(session_id, topic):
     # Deep link to the session card and documents tab
     session_link = f"{app_url}/#/session/{session_id}"
 
+    if session_num and top:
+        heading_de = f"{session_num}. Sitzung – TOP {top} ⚖️"
+        heading_en = f"{session_num}th Session – TOP {top} ⚖️"
+    elif session_num:
+        heading_de = f"{session_num}. Sitzung ⚖️"
+        heading_en = f"{session_num}th Session ⚖️"
+    else:
+        heading_de = "Neue Sitzungsanalyse online ⚖️"
+        heading_en = "New Session Analysis Online ⚖️"
+
     payload = {
         "app_id": app_id,
         "included_segments": ["All"],
         "headings": {
-            "de": "Neue Sitzungsanalyse online ⚖️",
-            "en": "New Session Analysis Online ⚖️"
+            "de": heading_de,
+            "en": heading_en
         },
         "contents": {
-            "de": f"PolitAgent hat ein neues Protokoll veröffentlicht: {topic}",
-            "en": f"PolitAgent published a new protocol: {topic}"
+            "de": topic,
+            "en": topic
         },
         "url": session_link
     }
@@ -1397,7 +1407,7 @@ def main():
                 "processed_at": datetime.now().isoformat()
             }
             update_sessions_index(index_path, session_entry)
-            send_push_notification(v['id'], v['topic'])
+            send_push_notification(v['id'], v['topic'], session_num=v.get('session'), top=v.get('top'))
             success_count += 1
             
             # Sleep to respect YouTube's rate limits and prevent 429 errors
