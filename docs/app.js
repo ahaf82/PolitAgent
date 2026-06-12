@@ -886,13 +886,17 @@ document.addEventListener('DOMContentLoaded', () => {
             // Show push button
             pushBtn.classList.remove('hidden');
 
+            const isGitHubPages = window.location.hostname.includes('github.io');
+            const swPath = isGitHubPages ? 'PolitAgent/sw.js' : 'sw.js';
+            const swScope = isGitHubPages ? '/PolitAgent/' : './';
+
             window.OneSignalDeferred = window.OneSignalDeferred || [];
             OneSignalDeferred.push(async function(OneSignal) {
                 await OneSignal.init({
                     appId: config.onesignal_app_id,
-                    serviceWorkerPath: "sw.js",
+                    serviceWorkerPath: swPath,
                     serviceWorkerParam: {
-                        scope: "./"
+                        scope: swScope
                     }
                 });
 
