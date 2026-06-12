@@ -1049,7 +1049,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Register Service Worker for PWA support
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            navigator.serviceWorker.register(swPathBrowser, { scope: swScope })
+            navigator.serviceWorker.register(`/${swPathOneSignal}`, { scope: swScope })
                 .then(reg => {
                     console.log('Service Worker registriert scope:', reg.scope);
                     // Check for updates on load
