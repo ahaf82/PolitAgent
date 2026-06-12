@@ -129,8 +129,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Load Data
     const loadData = async () => {
         try {
-            // Fetch the index json
-            const response = await fetch('data/sessions.json');
+            // Fetch the index json (bypass HTTP cache to ensure we get the latest sessions)
+            const response = await fetch('data/sessions.json', { cache: 'no-cache' });
             if (!response.ok) {
                 throw new Error('Indexdatei sessions.json konnte nicht geladen werden.');
             }
@@ -972,8 +972,21 @@ document.addEventListener('DOMContentLoaded', () => {
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
             navigator.serviceWorker.register('sw.js')
-                .then(reg => console.log('Service Worker registriert scope:', reg.scope))
+                .then(reg => {
+                    console.log('Service Worker registriert scope:', reg.scope);
+                    // Check for updates on load
+                    reg.update();
+                })
                 .catch(err => console.error('Service Worker Registrierungsfehler:', err));
+        });
+
+        // Reload the page when the active service worker changes (new version activated)
+        let refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+            if (!refreshing) {
+                refreshing = true;
+                window.location.reload();
+            }
         });
     }
 
