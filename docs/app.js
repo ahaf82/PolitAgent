@@ -4,14 +4,33 @@
 
 // 1. Synchronous OneSignal Initialization Queue (prevents race conditions with SDK loading)
 const isGitHubPages = window.location.hostname.includes('github.io');
-// OneSignal expects serviceWorkerPath to be relative to the domain origin without a leading slash
 const swPathOneSignal = isGitHubPages ? 'PolitAgent/OneSignalSDKWorker.js' : 'OneSignalSDKWorker.js';
-const swPathBrowser = isGitHubPages ? '/PolitAgent/OneSignalSDKWorker.js' : '/OneSignalSDKWorker.js';
 const swScope = isGitHubPages ? '/PolitAgent/' : '/';
 
+// 2. Pre-register Service Worker at correct path BEFORE OneSignal init
+// This prevents OneSignal from trying to register at the wrong (root) path
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(registrations => {
+        for (const reg of registrations) {
+            // Unregister any stale workers at wrong scope (e.g., root '/')
+            if (isGitHubPages && reg.scope === `${window.location.origin}/`) {
+                console.log('[SW] Unregistering stale service worker at root scope:', reg.scope);
+                reg.unregister();
+            }
+        }
+    }).then(() => {
+        return navigator.serviceWorker.register(`/${swPathOneSignal}`, { scope: swScope });
+    }).then(reg => {
+        console.log('[SW] Service Worker pre-registered at scope:', reg.scope);
+    }).catch(err => {
+        console.warn('[SW] Pre-registration failed (OneSignal will retry):', err.message);
+    });
+}
+
+// 3. OneSignal Deferred Initialization
 window.OneSignalDeferred = window.OneSignalDeferred || [];
 window.OneSignalDeferred.push(async function(OneSignal) {
-    console.log('[OneSignal] Synchronous initialization started. Path:', swPathOneSignal, 'Scope:', swScope);
+    console.log('[OneSignal] Initialization started. Path:', swPathOneSignal, 'Scope:', swScope);
     try {
         await OneSignal.init({
             appId: "804a1d04-5e6e-452d-81de-b276b4b2d6ab",
