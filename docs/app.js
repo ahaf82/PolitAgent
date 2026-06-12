@@ -892,16 +892,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
             window.OneSignalDeferred = window.OneSignalDeferred || [];
             OneSignalDeferred.push(async function(OneSignal) {
-                await OneSignal.init({
-                    appId: config.onesignal_app_id,
-                    serviceWorkerPath: swPath,
-                    serviceWorkerParam: {
-                        scope: swScope
-                    }
-                });
+                console.log('[OneSignal] Initialisiere mit App ID:', config.onesignal_app_id, 'swPath:', swPath, 'scope:', swScope);
+                try {
+                    await OneSignal.init({
+                        appId: config.onesignal_app_id,
+                        serviceWorkerPath: swPath,
+                        serviceWorkerParam: {
+                            scope: swScope
+                        }
+                    });
+                    console.log('[OneSignal] Initialisierung erfolgreich.');
+                } catch (initErr) {
+                    console.error('[OneSignal] Initialisierungsfehler:', initErr);
+                }
 
                 // Helper to update button state
                 const updateButtonState = (isSubscribed) => {
+                    console.log('[OneSignal] Update button state, isSubscribed:', isSubscribed);
                     const icon = pushBtn.querySelector('i');
                     if (isSubscribed) {
                         pushBtn.classList.add('subscribed');
@@ -918,27 +925,41 @@ document.addEventListener('DOMContentLoaded', () => {
                     }
                 };
 
-                // Check initial subscription status
-                const isOptedIn = OneSignal.User.PushSubscription.optedIn;
-                updateButtonState(isOptedIn);
+                try {
+                    // Check initial subscription status
+                    const isOptedIn = OneSignal.User.PushSubscription.optedIn;
+                    console.log('[OneSignal] Initialer Abonnement-Status:', isOptedIn);
+                    updateButtonState(isOptedIn);
 
-                // Listen for changes
-                OneSignal.User.PushSubscription.addEventListener("change", (event) => {
-                    updateButtonState(event.current.optedIn);
-                });
+                    // Listen for changes
+                    OneSignal.User.PushSubscription.addEventListener("change", (event) => {
+                        console.log('[OneSignal] Abonnement geändert:', event.current.optedIn);
+                        updateButtonState(event.current.optedIn);
+                    });
 
-                // Toggle click handler
-                pushBtn.addEventListener('click', async () => {
-                    const currentOptedIn = OneSignal.User.PushSubscription.optedIn;
-                    if (currentOptedIn) {
-                        await OneSignal.User.PushSubscription.optOut();
-                    } else {
-                        await OneSignal.User.PushSubscription.optIn();
-                    }
-                });
+                    // Toggle click handler
+                    pushBtn.addEventListener('click', async () => {
+                        console.log('[OneSignal] Glocke geklickt.');
+                        try {
+                            const currentOptedIn = OneSignal.User.PushSubscription.optedIn;
+                            console.log('[OneSignal] Aktueller Status:', currentOptedIn);
+                            if (currentOptedIn) {
+                                console.log('[OneSignal] Melde ab...');
+                                await OneSignal.User.PushSubscription.optOut();
+                            } else {
+                                console.log('[OneSignal] Melde an...');
+                                await OneSignal.User.PushSubscription.optIn();
+                            }
+                        } catch (clickErr) {
+                            console.error('[OneSignal] Fehler beim Klicken der Glocke:', clickErr);
+                        }
+                    });
+                } catch (subErr) {
+                    console.error('[OneSignal] Abonnement-Setup-Fehler:', subErr);
+                }
             });
         } catch (err) {
-            console.warn("OneSignal initialization skipped:", err);
+            console.error("[OneSignal] Haupt-Initialisierungsfehler:", err);
         }
     };
 

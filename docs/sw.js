@@ -1,6 +1,6 @@
 importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js');
 
-const CACHE_NAME = 'politagent-cache-v4';
+const CACHE_NAME = 'politagent-cache-v5';
 const STATIC_ASSETS = [
   './',
   './index.html',
