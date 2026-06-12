@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4594",
+      "title": "Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni 2024 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Gesetz zur Durchführung der Verordnung über künstliche Intelligenz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4594&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5143",
+      "title": "Unterrichtung durch die Bundesregierung Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni 2024 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Gesetz zur Durchführung der Verordnung über künstliche Intelligenz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5143&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/4758",
+      "title": "Antrag der Abgeordneten Sonja Lemke, Clara Bünger, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke. Gesellschaftliche Risiken von KI-Anwendungen ernst nehmen.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4758&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6407",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Digitales und Staatsmodernisierung zu dem Gesetzentwurf der Bundesregierung - Drucksachen 21/4594, 21/5143 - Entwurf eines Gesetzes zur Durchführung der Verordnung über künstliche Intelligenz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6407&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Im Ausschuss für Kultur und Medien wurde ein Änderungsantrag der Koalitionsfraktionen (Ausschussdrucksache 21 238) angenommen. Der so geänderte Gesetzentwurf (Bundestagsdrucksachen 21/4594 und 21/5143) wurde ebenfalls angenommen, wobei Bündnis 90/Die Grünen und Die Linke sich enthielten. Ein Entschließungsantrag der Koalitionsfraktionen (Ausschussdrucksache 21 2389) wurde angenommen, während ein Entschließungsantrag von Bündnis 90/Die Grünen (Ausschussdrucksache 21 2390) abgelehnt wurde. Der Antrag der Fraktion Die Linke zu gesellschaftlichen Risiken von KI-Anwendungen (Bundestagsdrucksache 21/4758) wurde abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

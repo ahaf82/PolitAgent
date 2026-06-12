@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5922",
+      "title": "Entwurf eines Gesetzes zur Stärkung von Medizinregistern und zur Verbesserung der Medizinregisterdatennutzung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5922&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/1749",
+      "title": "Einrichtung eines nationalen Mortalitätsregisters für Forschungszwecke",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1749&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2229",
+      "title": "Rohdaten klinischer Prüfungen von Arzneimitteln offenlegen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2229&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die öffentliche Anhörung des Gesundheitsausschusses befasste sich mit dem Gesetzentwurf der Bundesregierung zum Medizinregistergesetz sowie zweier Anträge der AfD-Fraktion. Es fand keine Abstimmung statt, da es sich um eine Ausschussanhörung handelte.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}
