@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten zur Zukunft der Luftfahrt in Deutschland und Europa spiegeln weitgehend ihre Positionen aus der Bundestagsdebatte wider. Klaus Peter Wilsch (CDU/CSU) und Sebastian Rolof (SPD) betonen konsistent die Notwendigkeit der Stärkung des Luftfahrtstandorts Deutschland durch Senkung der Luftverkehrssteuer und Bürokratieabbau, um die internationale Wettbewerbsfähigkeit zu gewährleisten. Andreas Meier (AfD), identifiziert als Andreas Mayer, fordert die vollständige Abschaffung der Luftverkehrssteuer und kritisiert eine 'grün-ideologische' Ausrichtung der Luftfahrtpolitik, während er die Bedeutung militärischer Souveränität unterstreicht. Tarik Al-Wazir (Bündnis 90/Die Grünen) äußert sich weiterhin kritisch gegenüber der Luftfahrtstrategie, bemängelt fehlende Konzepte für nachhaltige Kraftstoffe und die Subventionierung unrentabler Regionalflughäfen und fordert mehr Schutz für Flughafenanwohner.",
+  "sources": [
+    {
+      "name": "Klaus Peter Wilsch",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Klaus Peter Wilsch hat wiederholt die Notwendigkeit einer wettbewerbsfähigen Luftverkehrssteuer und die Reduzierung der Standortkosten in Deutschland betont, da die Erholung des deutschen Luftverkehrs im europäischen Vergleich hinterherhinkt. Er fordert die vollständige Abschaffung der Luftverkehrssteuer zur Stärkung der Luftfahrtindustrie und kritisiert 'grüne Ideologie', die die Branche behindert. Er ist Vorsitzender der interfraktionellen Parlamentsgruppe Luft- und Raumfahrt und engagiert sich für den Frankfurter Flughafen.",
+      "source_title": "Kosten im Luftverkehr müssen gesenkt werden! - Klaus-Peter Willsch MdB",
+      "url": "https://www.klaus-peter-willsch.de/aktuelles/news-detailseite/news/willsch-kosten-im-luftverkehr-muessen-gesenkt-werden/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=b3e93df65442db385d2992a1a5899bea",
+      "platform": "Website"
+    },
+    {
+      "name": "Andreas Meier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Andreas Mayer (häufig fälschlicherweise als Meier tituliert) hat als Luft- und Raumfahrttechnikingenieur und AfD-Bundestagsabgeordneter die Forderung nach vollständiger Abschaffung der Luftverkehrssteuer bekräftigt, da die von der Bundesregierung beschlossene Reduzierung nicht ausreiche. Er kritisiert die 'grün-ideologische' Ausrichtung der Luftfahrtstrategie als Innovationshemmnis und betont die Notwendigkeit, sich bei militärischen Luftfahrtsystemen wie dem FCAS-Nachfolger unabhängig von anderen Staaten aufzustellen.",
+      "source_title": "Mini-Senkung der Luftverkehrsteuer reicht nicht aus - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/mini-senkung-der-luftverkehrsteuer-reicht-nicht-aus/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Rolof",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sebastian Rolof, als wirtschaftspolitischer Sprecher der SPD-Bundestagsfraktion, unterstützt die Koalitionsstrategie zur Stärkung des Luftfahrtstandorts Deutschland. Er begrüßt die Senkung der Luftverkehrssteuer als Schritt zur Verbesserung der Wettbewerbsfähigkeit, weist jedoch auch auf die Notwendigkeit weiterer Entlastungen und die Behebung von Haushaltslücken hin. Er ist in die Verhandlungen zur Luftfahrt- und Wirtschaftspolitik der Koalition eingebunden und strebt an, Deutschlands Position als Luftfahrtnation zu sichern.",
+      "source_title": "Bundestag beschließt Senkung der Luftverkehrsteuer",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-luftverkehrsteuer-1174746",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tarik Al-Wazir",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Tarik Al-Wazir hat ein eigenes Autorenpapier für eine Grüne Luftfahrtstrategie vorgelegt, da er den Entwurf der Bundesregierung als 'planlos' kritisiert. Er fordert eine klare Strategie für den Hochlauf nachhaltiger Flugkraftstoffe und spricht sich gegen die dauerhafte Subventionierung unrentabler Regionalflughäfen aus. Zudem mahnt er konkrete Maßnahmen zum Schutz der Anwohner vor Fluglärm und Luftschadstoffen an.",
+      "source_title": "Autorenpapier vorgelegt: Al-Wazir kritisiert Entwurf für Luftfahrtstrategie - Tagesspiegel Background",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

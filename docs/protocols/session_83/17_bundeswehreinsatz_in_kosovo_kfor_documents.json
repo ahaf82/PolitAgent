@@ -1,0 +1,77 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5513",
+      "title": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsenz in Kosovo (KFOR)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5513&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6054",
+      "title": "Beschlussempfehlung und Bericht des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsenz in Kosovo (KFOR)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6054&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6055",
+      "title": "Bericht des Haushaltsausschusses gemäß Paragraf 96 der Geschäftsordnung des Bundestages zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsenz in Kosovo (KFOR) (Drucksache 21/5513)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6055&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Deutsche Bundestag beschloss in namentlicher Abstimmung, den Antrag der Bundesregierung (Drucksache 21/5513) zur Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten internationalen Sicherheitspräsenz in Kosovo (KFOR) für ein weiteres Jahr anzunehmen.",
+    "official_voting_url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=518",
+    "overall_result": {
+      "ja": 382,
+      "nein": 192,
+      "enthaltung": 2,
+      "nicht_abgegeben": 54
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 199,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 136,
+        "enthaltung": 0,
+        "nicht_abgegeben": 14
+      },
+      {
+        "faction": "SPD",
+        "ja": 108,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 11
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 75,
+        "nein": 0,
+        "enthaltung": 1,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 54,
+        "enthaltung": 1,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 0,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 2
+      }
+    ]
+  }
+}

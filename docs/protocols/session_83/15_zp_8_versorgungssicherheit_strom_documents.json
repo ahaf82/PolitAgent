@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6279",
+      "title": "Gesetzentwurf der Bundesregierung zur Sicherung der Versorgungssicherheit Strom und zur Bereitstellung neuer Kapazitäten und zur Änderung der Besonderen Gebührenverordnung BNetzA",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6279&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5920",
+      "title": "Gesetzentwurf des Bundesrates zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5920&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6369",
+      "title": "Antrag der Fraktion Bündnis 90/Die Grünen: Effiziente Kapazitätsausschreibungen mit Zukunft – Für eine Versorgungssicherheit ohne teuren fossilen Lock-In",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6369&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6360",
+      "title": "Antrag der Fraktion Die Linke: bezahlbare, erneuerbare und dezentrale Energieversorgung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6360&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zur Versorgungssicherheit Strom umfasste die erste Lesung des Gesetzentwurfs der Bundesregierung und weiterer Anträge. Alle Vorlagen wurden nach Aussprache zur weiteren Beratung an die Ausschüsse, federführend den Ausschuss für Wirtschaft und Energie, überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

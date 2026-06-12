@@ -1,0 +1,22 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6000",
+      "title": "Bericht des Petitionsausschusses (2. Ausschuss) Bitten und Beschwerden an den Deutschen Bundestag",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6000&rows=25",
+      "type": "Bericht"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag debattierte den Tätigkeitsbericht des Petitionsausschusses für das Jahr 2025 und nahm diesen zur Kenntnis.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": []
+  }
+}

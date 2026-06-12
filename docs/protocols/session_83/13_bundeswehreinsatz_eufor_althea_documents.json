@@ -1,0 +1,77 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5512",
+      "title": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUFOR ALTHEA in Bosnien und Herzegowina",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5512&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6052",
+      "title": "Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung – Drucksache 21/5512 – Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUFOR ALTHEA in Bosnien und Herzegowina",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6052&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6053",
+      "title": "Bericht des Haushaltsausschusses gemäß Paragraf 96 der Geschäftsordnung des Bundestages",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6053&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag hat die Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUFOR ALTHEA in Bosnien und Herzegowina mit bis zu 50 Soldatinnen und Soldaten bis zum 30. Juni 2027 beschlossen.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 386,
+      "nein": 193,
+      "enthaltung": 3,
+      "nicht_abgegeben": 48
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 199,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 135,
+        "enthaltung": 0,
+        "nicht_abgegeben": 15
+      },
+      {
+        "faction": "SPD",
+        "ja": 107,
+        "nein": 0,
+        "enthaltung": 1,
+        "nicht_abgegeben": 12
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 79,
+        "nein": 0,
+        "enthaltung": 1,
+        "nicht_abgegeben": 5
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 57,
+        "enthaltung": 1,
+        "nicht_abgegeben": 6
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 1,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

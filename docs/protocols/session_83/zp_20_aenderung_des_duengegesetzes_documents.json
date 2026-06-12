@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6135",
+      "title": "Gesetzentwurf der Bundesregierung Entwurf eines Zweiten Gesetzes zur Änderung des Düngegesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6135&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Änderung des Düngegesetzes (Drucksache 21/6135) wurde interfraktionell an die in der Tagesordnung aufgeführten Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

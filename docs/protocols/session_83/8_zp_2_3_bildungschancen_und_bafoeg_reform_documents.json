@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6335",
+      "title": "Zukunftsinvestitionen statt Kürzungen – Familien stärken und Kinder fördern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6335&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6336",
+      "title": "Bildung darf nicht vom Einkommen abhängen – Gleiche Bildungschancen für alle Kinder und Jugendlichen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6336&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5780",
+      "title": "Stärkung des BAföG",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5780&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2234",
+      "title": "Bildung bezahlbar machen – BAföG-Reform jetzt",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2234&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5130",
+      "title": "Beschlussempfehlung des Ausschusses für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung zu dem Antrag der Fraktion Bündnis 90/Die Grünen 'Bildung bezahlbar machen – BAföG-Reform jetzt'",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5130&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Antrag 'Bildung bezahlbar machen – BAföG-Reform jetzt' (Drucksache 21/2234) wurde in namentlicher Abstimmung mit 141 Ja-Stimmen und 442 Nein-Stimmen abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 141,
+      "nein": 442,
+      "enthaltung": 0,
+      "nicht_abgegeben": 47
+    },
+    "faction_results": []
+  }
+}

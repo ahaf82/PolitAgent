@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur Umsetzung der EU-KI-Verordnung spiegeln die divergierenden Standpunkte wider, die auch in der Debatte deutlich wurden. Marvin Schulz (CDU/CSU) und Robin Jünger (AfD) betonen die Notwendigkeit, bürokratische Hürden abzubauen und Deutschland als Innovationsstandort zu stärken, wobei Jünger die EU-Regulierung als überzogen kritisiert. Rebecca Lenhard (Bündnis 90/Die Grünen) und Sonja Lemke (Die Linke) hingegen fordern eine konsequentere und transparentere Umsetzung der Verordnung, kritisieren die Verzögerungen der Bundesregierung, unzureichende Ressourcen für Aufsichtsbehörden und mangelnden Grundrechtsschutz. Insbesondere heben Lenhard und Lemke Risiken wie mangelnde Transparenz, Diskriminierung und ökologische Auswirkungen von KI hervor.",
+  "sources": [
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Marvin Schulz plädiert für eine innovationsfreundliche Umsetzung der EU-KI-Verordnung in Deutschland, um im globalen Wettbewerb zu bestehen und Bürokratie abzubauen. Er betont die Wichtigkeit, politische Rahmenbedingungen zu schaffen, die Bürgern die Integration von KI in ihren Alltag ermöglichen, und fordert mehr Investitionen in KI im Verteidigungsetat.",
+      "source_title": "Von ChatGPT zur europäischen KI-Strategie; Umsetzung der KI-Verordnung ist so bürokratiearm und innovationsoffen wie möglich; Roundtable mit MdB Marvin Schulz; Brinkhaus und Schulz: Mehr KI-Mittel im Verteidigungsetat gefordert",
+      "url": "https://www.kas.de/de/einzeltitel/-/content/von-chatgpt-zur-europaeischen-ki-strategie",
+      "platform": "Website"
+    },
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Robin Jünger kritisiert die Regierungspolitik zur KI-Verordnung als übermäßig bürokratisch und innovationsfeindlich. Er fordert Technologieoffenheit, frühzeitige KI-Kompetenzvermittlung und eine klare Abwehrhaltung gegen 'irrationale' EU-Regulierung, um Deutschland an die digitale Weltspitze zu führen.",
+      "source_title": "Robin Jünger, MdB – Bundestagsabgeordneter für Gießen; Robin Jünger Archive - AfD-Fraktion im Deutschen Bundestag; KI & Bildung - Robin Jünger - MdB; Robin Jünger criticizes the CDU: Their policies are a risk to Germany, not AI!; Anträge zur Künstlichen Intelligenz beraten - Deutscher Bundestag; The AfD is ramping up its efforts, with Robin Jünger!",
+      "url": "https://robin-juenger.de/",
+      "platform": "Website, Presse, Social Media"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Rebecca Lenhard kritisiert die späte und unzureichende Umsetzung des EU AI Acts durch die Bundesregierung, insbesondere das Fehlen starker Aufsichtsstrukturen, ausreichender Ressourcen und klarer 'roter Linien' bei biometrischer Überwachung. Sie fordert umfassenden Grundrechtsschutz, ein verpflichtendes Transparenzregister und bemängelt die mangelnde Berücksichtigung zivilgesellschaftlicher Akteure sowie die Nachhaltigkeitsaspekte der Rechenzentrumsstrategie.",
+      "source_title": "Fortschritt bei der Regulierung, Rückschritt bei der Transparenz; BMWE-Gremium: Grüne Lenhard kritisiert Besetzung der KI-Expertenkommission; Rebecca Lenhard | Bundestagsfraktion Bündnis 90/Die Grünen; Positionen - Rebecca Lenhard; Lenhard und Lührmann: Nationale Rechenzentrumsstrategie – zu spät, zu vage und zu viel Greenwashing; Wie fördert die Grünen-Fraktion photonische Chips als Schlüsseltechnologie für \"Green IT\"?",
+      "url": "https://www.gruene-bundestag.de/presse/fortschritt-bei-der-regulierung-rueckschritt-bei-der-transparenz/",
+      "platform": "Website, Presse, Abgeordnetenwatch"
+    },
+    {
+      "name": "Sonne Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lemke fordert eine zügige und effektive Umsetzung der KI-Verordnung mit ausreichender Personalausstattung der Aufsichtsbehörden. Sie kritisiert die geplante Aufweichung von Regeln für Hochrisiko-KI auf EU-Ebene und die mangelnde Risikobewertung in der Bundesverwaltung. Lemke fordert zudem echte Transparenz bei Algorithmen und Trainingsdaten sowie eine Berücksichtigung der ökologischen und sozialen Risiken von KI.",
+      "source_title": "Gesellschaftliche Risiken von KI ernst nehmen!; Aktuell - Die Linke MdB Sonja Lemke; Pressemitteilung: Erhebliche Mängel beim Einsatz von KI in der Bundesverwaltung; KI-Verordnung schnell umsetzen; KI? Nicht um jeden Preis!; Gesellschaftliche Risiken von KI ernstnehmen!; Deutscher Bundestag Drucksache 21/4758 Antrag der Abgeordneten Sonja Lemke; bundestagsgepräch mit Carolin Wagner und Sonja Lemke zur EU-Verordnung über KI am 20.03.26",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-sonja-lemke-am-20032026/",
+      "platform": "Presse, Website, Social Media, Bundestag"
+    }
+  ]
+}

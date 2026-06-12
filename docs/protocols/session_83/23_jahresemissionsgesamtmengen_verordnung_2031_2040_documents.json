@@ -1,0 +1,77 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6124",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu der Verordnung der Bundesregierung – Drucksachen 21/5069, 21/5428 Nr. 2 – Verordnung zur Überführung der jährlichen Minderungsziele in Jahresemissionsgesamtmengen für die Jahre 2031 bis 2040 (Jahresemissionsgesamtmengen-Verordnung 2031-2040 – JEGMV 2031-2040)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6124&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/5069",
+      "title": "Verordnung zur Überführung der jährlichen Minderungsziele in Jahresemissionsgesamtmengen für die Jahre 2031 bis 2040 (Jahresemissionsgesamtmengen-Verordnung 2031-2040 - JEGMV 2031-2040)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5069&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/5428",
+      "title": "Unterrichtung über die gemäß § 80 Absatz 3 und § 92 der Geschäftsordnung an die Ausschüsse überwiesenen Vorlagen (Eingangszeitraum: 25. bis 30. März 2026)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5428&rows=25",
+      "type": "Unterrichtung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag stimmte in namentlicher Abstimmung der Beschlussempfehlung des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (Drucksache 21/6124) zur Verordnung der Bundesregierung (Drucksache 21/5069) über die Überführung der jährlichen Minderungsziele in Jahresemissionsgesamtmengen für die Jahre 2031 bis 2040 zu.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 303,
+      "nein": 188,
+      "enthaltung": 74,
+      "nicht_abgegeben": 65
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 196,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 12
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 132,
+        "enthaltung": 0,
+        "nicht_abgegeben": 18
+      },
+      {
+        "faction": "SPD",
+        "ja": 107,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 13
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 74,
+        "nicht_abgegeben": 11
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 55,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 0,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 2
+      }
+    ]
+  }
+}

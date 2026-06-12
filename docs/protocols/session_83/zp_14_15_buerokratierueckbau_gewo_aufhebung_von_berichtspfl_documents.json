@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6399",
+      "title": "Änderungsantrag der Fraktion der AfD zum Gesetzentwurf zum Bürokratierückbau in der Gewerbeordnung und dem Energieverbrauchskennzeichnungsgesetz sowie anderer Rechtsvorschriften zur Aufhebung von Berichtspflichten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6399&rows=25",
+      "type": "Änderungsantrag"
+    },
+    {
+      "number": "Drucksache 21/3740",
+      "title": "Entwurf eines Gesetzes zum Bürokratierückbau in der Gewerbeordnung und dem Energieverbrauchskennzeichnungsgesetz sowie anderer Rechtsvorschriften zur Aufhebung von Berichtspflichten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3740&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6401",
+      "title": "Entschließungsantrag der Fraktion Bündnis 90/Die Grünen zum Gesetzentwurf zum Bürokratierückbau in der Gewerbeordnung und dem Energieverbrauchskennzeichnungsgesetz sowie anderer Rechtsvorschriften zur Aufhebung von Berichtspflichten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6401&rows=25",
+      "type": "Entschließungsantrag"
+    },
+    {
+      "number": "Drucksache 21/5136",
+      "title": "Antrag: Transparenz, Wirtschaftlichkeit und Kontrolle bei Auslandshandelskammern sicherstellen – Empfehlungen des Bundesrechnungshofes konsequent umsetzen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5136&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Änderungsantrag der AfD-Fraktion (Drucksache 21/6399) wurde abgelehnt. Der Gesetzentwurf der Bundesregierung (Drucksache 21/3740) wurde in zweiter und dritter Beratung angenommen. Der Entschließungsantrag der Fraktion Bündnis 90/Die Grünen (Drucksache 21/6401) wurde abgelehnt. Die Vorlage der AfD-Fraktion (Drucksache 21/5136) wurde zur interfraktionellen Überweisung an die Ausschüsse vorgeschlagen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

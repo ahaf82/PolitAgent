@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4290",
+      "title": "Entwurf eines Gesetzes zur Änderung der Strafprozessordnung – Zeugnisverweigerungsrecht in der Sozialen Arbeit und ehrenamtlichen Rechtsberatung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4290&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4293",
+      "title": "Fanrechte im Fußball stärken – Diskriminierung und Repression bekämpfen und demokratische Beteiligung fördern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4293&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5826",
+      "title": "Fankultur schützen – Dialog statt Repression, Mitbestimmung statt Diskriminierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5826&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Änderung der Strafprozessordnung (Drucksache 21/4290) wurde nach der Debatte an die Ausschüsse zur weiteren Beratung überwiesen, federführend an den Rechtsausschuss. Der Antrag der Fraktion Bündnis 90/Die Grünen zu Fanrechten (Drucksache 21/4293) wurde an den Sportausschuss überwiesen. Der Antrag der Fraktion Die Linke zur Fankultur (Drucksache 21/5826) wurde an den Innenausschuss überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

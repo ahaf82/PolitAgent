@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6278",
+      "title": "Entwurf eines Gesetzes zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschriften im Wärmebereich",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6278&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Änderung des Gebäudeenergiegesetzes und weiterer Vorschriften im Wärmebereich wurde in erster Beratung debattiert und anschließend zur weiteren Beratung an den federführenden Ausschuss für Wirtschaft und Energie überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

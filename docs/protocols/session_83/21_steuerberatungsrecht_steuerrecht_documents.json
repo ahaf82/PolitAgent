@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6002",
+      "title": "Entwurf eines Neunten Gesetzes zur Änderung von Vorschriften im Steuerberatungsrecht sowie im Steuerrecht",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6002&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6392",
+      "title": "Beschlussempfehlung des Finanzausschusses zur geänderten Fassung des Entwurfs eines Neunten Gesetzes zur Änderung von Vorschriften im Steuerberatungsrecht sowie im Steuerrecht",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6392&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf zur Änderung des Steuerberatungs- und Steuerrechts wurde mit den Stimmen von CDU/CSU, SPD und Bündnis 90/Die Grünen angenommen. Ein Entschließungsantrag von Bündnis 90/Die Grünen wurde abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

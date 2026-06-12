@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6245",
+      "title": "Mündliche Fragen zur Fragestunde",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6245&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Fragestunde wurde durchgeführt, in der der Parlamentarische Staatssekretär Dr. Kippels die Fragen der Abgeordneten zu gesundheitspolitischen Themen beantwortete und die Positionen des Bundesministeriums für Gesundheit erläuterte.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
