@@ -4,8 +4,8 @@
 
 // 1. Synchronous OneSignal Initialization Queue (prevents race conditions with SDK loading)
 const isGitHubPages = window.location.hostname.includes('github.io');
-const swPath = 'sw.js';
-const swScope = isGitHubPages ? '/PolitAgent/' : './';
+const swPath = isGitHubPages ? '/PolitAgent/OneSignalSDKWorker.js' : '/OneSignalSDKWorker.js';
+const swScope = isGitHubPages ? '/PolitAgent/' : '/';
 
 window.OneSignalDeferred = window.OneSignalDeferred || [];
 window.OneSignalDeferred.push(async function(OneSignal) {
@@ -1002,7 +1002,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Register Service Worker for PWA support
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            navigator.serviceWorker.register('sw.js')
+            navigator.serviceWorker.register('OneSignalSDKWorker.js')
                 .then(reg => {
                     console.log('Service Worker registriert scope:', reg.scope);
                     // Check for updates on load
