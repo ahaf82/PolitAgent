@@ -4,7 +4,7 @@
 
 // 1. Synchronous OneSignal Initialization Queue (prevents race conditions with SDK loading)
 const isGitHubPages = window.location.hostname.includes('github.io');
-const swPath = isGitHubPages ? 'PolitAgent/sw.js' : 'sw.js';
+const swPath = 'sw.js';
 const swScope = isGitHubPages ? '/PolitAgent/' : './';
 
 window.OneSignalDeferred = window.OneSignalDeferred || [];
