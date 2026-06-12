@@ -4,16 +4,18 @@
 
 // 1. Synchronous OneSignal Initialization Queue (prevents race conditions with SDK loading)
 const isGitHubPages = window.location.hostname.includes('github.io');
-const swPath = isGitHubPages ? '/PolitAgent/OneSignalSDKWorker.js' : '/OneSignalSDKWorker.js';
+// OneSignal expects serviceWorkerPath to be relative to the domain origin without a leading slash
+const swPathOneSignal = isGitHubPages ? 'PolitAgent/OneSignalSDKWorker.js' : 'OneSignalSDKWorker.js';
+const swPathBrowser = isGitHubPages ? '/PolitAgent/OneSignalSDKWorker.js' : '/OneSignalSDKWorker.js';
 const swScope = isGitHubPages ? '/PolitAgent/' : '/';
 
 window.OneSignalDeferred = window.OneSignalDeferred || [];
 window.OneSignalDeferred.push(async function(OneSignal) {
-    console.log('[OneSignal] Synchronous initialization started. Path:', swPath, 'Scope:', swScope);
+    console.log('[OneSignal] Synchronous initialization started. Path:', swPathOneSignal, 'Scope:', swScope);
     try {
         await OneSignal.init({
             appId: "804a1d04-5e6e-452d-81de-b276b4b2d6ab",
-            serviceWorkerPath: swPath,
+            serviceWorkerPath: swPathOneSignal,
             serviceWorkerParam: {
                 scope: swScope
             }
@@ -1002,7 +1004,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Register Service Worker for PWA support
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            navigator.serviceWorker.register('OneSignalSDKWorker.js')
+            navigator.serviceWorker.register(swPathBrowser, { scope: swScope })
                 .then(reg => {
                     console.log('Service Worker registriert scope:', reg.scope);
                     // Check for updates on load
