@@ -2,6 +2,28 @@
    PolitAgent - Frontend Application Logic
    ========================================================================== */
 
+// 1. Synchronous OneSignal Initialization Queue (prevents race conditions with SDK loading)
+const isGitHubPages = window.location.hostname.includes('github.io');
+const swPath = isGitHubPages ? 'PolitAgent/sw.js' : 'sw.js';
+const swScope = isGitHubPages ? '/PolitAgent/' : './';
+
+window.OneSignalDeferred = window.OneSignalDeferred || [];
+window.OneSignalDeferred.push(async function(OneSignal) {
+    console.log('[OneSignal] Synchronous initialization started. Path:', swPath, 'Scope:', swScope);
+    try {
+        await OneSignal.init({
+            appId: "804a1d04-5e6e-452d-81de-b276b4b2d6ab",
+            serviceWorkerPath: swPath,
+            serviceWorkerParam: {
+                scope: swScope
+            }
+        });
+        console.log('[OneSignal] Initialization successful.');
+    } catch (err) {
+        console.error('[OneSignal] Initialization error:', err);
+    }
+});
+
 document.addEventListener('DOMContentLoaded', () => {
     // Application State
     let sessionsData = [];
@@ -872,95 +894,68 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Initialize OneSignal Push Notifications
-    const initOneSignal = async () => {
-        try {
-            const response = await fetch('data/config.json');
-            if (!response.ok) return;
-            const config = await response.json();
-            if (!config.onesignal_app_id) return;
+    // Initialize OneSignal Push Notifications Button and State Listeners
+    const initOneSignal = () => {
+        const pushBtn = document.getElementById('push-notification-btn');
+        if (!pushBtn) return;
 
-            const pushBtn = document.getElementById('push-notification-btn');
-            if (!pushBtn) return;
+        // Show push button
+        pushBtn.classList.remove('hidden');
 
-            // Show push button
-            pushBtn.classList.remove('hidden');
-
-            const isGitHubPages = window.location.hostname.includes('github.io');
-            const swPath = isGitHubPages ? 'PolitAgent/sw.js' : 'sw.js';
-            const swScope = isGitHubPages ? '/PolitAgent/' : './';
-
-            window.OneSignalDeferred = window.OneSignalDeferred || [];
-            OneSignalDeferred.push(async function(OneSignal) {
-                console.log('[OneSignal] Initialisiere mit App ID:', config.onesignal_app_id, 'swPath:', swPath, 'scope:', swScope);
-                try {
-                    await OneSignal.init({
-                        appId: config.onesignal_app_id,
-                        serviceWorkerPath: swPath,
-                        serviceWorkerParam: {
-                            scope: swScope
-                        }
-                    });
-                    console.log('[OneSignal] Initialisierung erfolgreich.');
-                } catch (initErr) {
-                    console.error('[OneSignal] Initialisierungsfehler:', initErr);
-                }
-
-                // Helper to update button state
-                const updateButtonState = (isSubscribed) => {
-                    console.log('[OneSignal] Update button state, isSubscribed:', isSubscribed);
-                    const icon = pushBtn.querySelector('i');
-                    if (isSubscribed) {
-                        pushBtn.classList.add('subscribed');
-                        pushBtn.title = "Benachrichtigungen deaktivieren";
-                        if (icon) {
-                            icon.className = "fa-solid fa-bell";
-                        }
-                    } else {
-                        pushBtn.classList.remove('subscribed');
-                        pushBtn.title = "Benachrichtigungen aktivieren";
-                        if (icon) {
-                            icon.className = "fa-regular fa-bell";
-                        }
+        window.OneSignalDeferred = window.OneSignalDeferred || [];
+        OneSignalDeferred.push(async function(OneSignal) {
+            // Helper to update button state
+            const updateButtonState = (isSubscribed) => {
+                console.log('[OneSignal] Update button state, isSubscribed:', isSubscribed);
+                const icon = pushBtn.querySelector('i');
+                if (isSubscribed) {
+                    pushBtn.classList.add('subscribed');
+                    pushBtn.title = "Benachrichtigungen deaktivieren";
+                    if (icon) {
+                        icon.className = "fa-solid fa-bell";
                     }
-                };
-
-                try {
-                    // Check initial subscription status
-                    const isOptedIn = OneSignal.User.PushSubscription.optedIn;
-                    console.log('[OneSignal] Initialer Abonnement-Status:', isOptedIn);
-                    updateButtonState(isOptedIn);
-
-                    // Listen for changes
-                    OneSignal.User.PushSubscription.addEventListener("change", (event) => {
-                        console.log('[OneSignal] Abonnement geändert:', event.current.optedIn);
-                        updateButtonState(event.current.optedIn);
-                    });
-
-                    // Toggle click handler
-                    pushBtn.addEventListener('click', async () => {
-                        console.log('[OneSignal] Glocke geklickt.');
-                        try {
-                            const currentOptedIn = OneSignal.User.PushSubscription.optedIn;
-                            console.log('[OneSignal] Aktueller Status:', currentOptedIn);
-                            if (currentOptedIn) {
-                                console.log('[OneSignal] Melde ab...');
-                                await OneSignal.User.PushSubscription.optOut();
-                            } else {
-                                console.log('[OneSignal] Melde an...');
-                                await OneSignal.User.PushSubscription.optIn();
-                            }
-                        } catch (clickErr) {
-                            console.error('[OneSignal] Fehler beim Klicken der Glocke:', clickErr);
-                        }
-                    });
-                } catch (subErr) {
-                    console.error('[OneSignal] Abonnement-Setup-Fehler:', subErr);
+                } else {
+                    pushBtn.classList.remove('subscribed');
+                    pushBtn.title = "Benachrichtigungen aktivieren";
+                    if (icon) {
+                        icon.className = "fa-regular fa-bell";
+                    }
                 }
-            });
-        } catch (err) {
-            console.error("[OneSignal] Haupt-Initialisierungsfehler:", err);
-        }
+            };
+
+            try {
+                // Check initial subscription status
+                const isOptedIn = OneSignal.User.PushSubscription.optedIn;
+                console.log('[OneSignal] Initialer Abonnement-Status:', isOptedIn);
+                updateButtonState(isOptedIn);
+
+                // Listen for changes
+                OneSignal.User.PushSubscription.addEventListener("change", (event) => {
+                    console.log('[OneSignal] Abonnement geändert:', event.current.optedIn);
+                    updateButtonState(event.current.optedIn);
+                });
+
+                // Toggle click handler
+                pushBtn.addEventListener('click', async () => {
+                    console.log('[OneSignal] Glocke geklickt.');
+                    try {
+                        const currentOptedIn = OneSignal.User.PushSubscription.optedIn;
+                        console.log('[OneSignal] Aktueller Status:', currentOptedIn);
+                        if (currentOptedIn) {
+                            console.log('[OneSignal] Melde ab...');
+                            await OneSignal.User.PushSubscription.optOut();
+                        } else {
+                            console.log('[OneSignal] Melde an...');
+                            await OneSignal.User.PushSubscription.optIn();
+                        }
+                    } catch (clickErr) {
+                        console.error('[OneSignal] Fehler beim Klicken der Glocke:', clickErr);
+                    }
+                });
+            } catch (subErr) {
+                console.error('[OneSignal] Abonnement-Setup-Fehler:', subErr);
+            }
+        });
     };
 
     // Initialize GoatCounter Privacy-Friendly Analytics
