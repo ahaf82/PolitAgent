@@ -12,6 +12,18 @@
     "processed_at": "2026-06-15T13:10:13.006241"
   },
   {
+    "id": "_-2WlJoEBkE",
+    "title": "Tabarot und Schnieder halten an der Bahnstrecke Freiburg - Colmar fest",
+    "session": 0,
+    "date": "2026-06-15",
+    "top": "N/A",
+    "topic": "Tabarot und Schnieder halten an der Bahnstrecke Freiburg - Colmar fest",
+    "summary_path": "protocols/session_unknown/top_unknown_tabarot_und_schnieder_halten_an_der_bahnstrecke_fr.md",
+    "documents_path": "protocols/session_unknown/top_unknown_tabarot_und_schnieder_halten_an_der_bahnstrecke_fr_documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=_-2WlJoEBkE",
+    "processed_at": "2026-06-15T20:00:59.671033"
+  },
+  {
     "id": "j6YlF46BZ5E",
     "title": "84. Sitzung vom 12.06.2026. TOP ZP 22: Aktuelle Stunde zu Kürzungen bei der Pflege von Angehörigen",
     "session": 84,
@@ -21,7 +33,8 @@
     "summary_path": "protocols/session_84/zp_22_aktuelle_stunde_zu_kuerzungen_bei_der_pflege_von_a.md",
     "documents_path": "protocols/session_84/zp_22_aktuelle_stunde_zu_kuerzungen_bei_der_pflege_von_a_documents.json",
     "youtube_url": "https://www.youtube.com/watch?v=j6YlF46BZ5E",
-    "processed_at": "2026-06-15T13:13:10.003900"
+    "processed_at": "2026-06-15T13:13:10.003900",
+    "speakers_path": "protocols/session_84/zp_22_aktuelle_stunde_zu_kuerzungen_bei_der_pflege_von_a_speakers.json"
   },
   {
     "id": "r65yEwTKIrU",
@@ -2961,7 +2974,8 @@
     "summary_path": "protocols/session_unknown/top_unknown_unterschiedliche_reaktionen_auf_kraftstoffpreisges.md",
     "youtube_url": "https://www.youtube.com/watch?v=_m1JPkSvHtQ",
     "processed_at": "2026-06-04T08:25:19.192899",
-    "speakers_path": "protocols/session_unknown/top_unknown_unterschiedliche_reaktionen_auf_kraftstoffpreisges_speakers.json"
+    "speakers_path": "protocols/session_unknown/top_unknown_unterschiedliche_reaktionen_auf_kraftstoffpreisges_speakers.json",
+    "documents_path": "protocols/session_unknown/top_unknown_unterschiedliche_reaktionen_auf_kraftstoffpreisges_documents.json"
   },
   {
     "id": "gIHLQhPcBG8",
