@@ -29,6 +29,13 @@ def get_gemini_client():
         print(f"Fehler beim Laden des Google GenAI SDKs: {e}")
         return None
 
+def get_gemini_model():
+    # Fallback to gemini-2.5-flash-lite if using the free/unpaid key prefix
+    api_key = os.getenv("GEMINI_API_KEY", "")
+    if api_key.startswith("AQ.Ab8RN6LyW2"):
+        return os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+    return os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+
 def format_timestamp(seconds):
     """Converts seconds float to HH:MM:SS format."""
     hours = int(seconds // 3600)
@@ -424,7 +431,7 @@ Hier ist das Transkript der Sitzung mit Zeitstempeln:
         try:
             from google.genai import types
             response = client.models.generate_content(
-                model='gemini-2.5-flash',
+                model=get_gemini_model(),
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     system_instruction="Du bist ein neutraler, sachlicher Redaktionsassistent namens PolitAgent für den Deutschen Bundestag."
@@ -600,25 +607,36 @@ def generate_session_documents(client, title, date, session, top, transcript_tex
     {transcript_text[:12000]}
     """
     
-    try:
-        from google.genai import types
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                system_instruction="Du bist ein hochpräziser parlamentarischer Analyst des Deutschen Bundestags, der offizielle Dokumente und Abstimmungen ermittelt und das Ergebnis als JSON ausgibt.",
-                tools=[{"google_search": {}}]
+    max_retries = 3
+    retry_delay = 30
+    for attempt in range(1, max_retries + 1):
+        try:
+            from google.genai import types
+            response = client.models.generate_content(
+                model=get_gemini_model(),
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction="Du bist ein hochpräziser parlamentarischer Analyst des Deutschen Bundestags, der offizielle Dokumente und Abstimmungen ermittelt und das Ergebnis als JSON ausgibt.",
+                    tools=[{"google_search": {}}]
+                )
             )
-        )
-        text = response.text.strip()
-        
-        start_idx = text.find('{')
-        end_idx = text.rfind('}')
-        json_data = robust_json_loads(text)
-        return json_data
-    except Exception as e:
-        print(f"Fehler bei der Dokumenten- und Abstimmungs-Analyse mit Gemini: {e}")
-        return None
+            text = response.text.strip()
+            
+            start_idx = text.find('{')
+            end_idx = text.rfind('}')
+            json_data = robust_json_loads(text)
+            return json_data
+        except Exception as e:
+            err_msg = str(e)
+            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
+            if is_transient:
+                if attempt < max_retries:
+                    print(f"Temporärer Gemini API Fehler ({err_msg}). Versuche es in {retry_delay} Sekunden erneut (Versuch {attempt}/{max_retries})...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+            print(f"Fehler bei der Dokumenten- und Abstimmungs-Analyse mit Gemini: {e}")
+            return None
 
 def verify_and_format_documents(doc_json):
     """
@@ -837,30 +855,41 @@ def generate_speaker_statements(client, title, date, video_url, transcript_text)
     {transcript_text[:12000]}
     """
     
-    try:
-        from google.genai import types
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                system_instruction="Du bist ein hochpräziser politischer Analyst des Deutschen Bundestags, der das Verhalten von Abgeordneten außerhalb des Plenums vergleicht und das Ergebnis als JSON ausgibt.",
-                tools=[{"google_search": {}}]
-            )
-        )
-        text = response.text.strip()
-        
-        # Robustly extract JSON object between first '{' and last '}'
-        start_idx = text.find('{')
-        end_idx = text.rfind('}')
-        json_data = robust_json_loads(text)
-        return json_data
-    except Exception as e:
-        print(f"Fehler bei der Abgeordneten-Stimmen-Analyse mit Gemini: {e}")
+    max_retries = 3
+    retry_delay = 30
+    for attempt in range(1, max_retries + 1):
         try:
-            print(f"API-Antwortvorschau: {response.text[:200]}...")
-        except:
-            pass
-        return None
+            from google.genai import types
+            response = client.models.generate_content(
+                model=get_gemini_model(),
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction="Du bist ein hochpräziser politischer Analyst des Deutschen Bundestags, der das Verhalten von Abgeordneten außerhalb des Plenums vergleicht und das Ergebnis als JSON ausgibt.",
+                    tools=[{"google_search": {}}]
+                )
+            )
+            text = response.text.strip()
+            
+            # Robustly extract JSON object between first '{' and last '}'
+            start_idx = text.find('{')
+            end_idx = text.rfind('}')
+            json_data = robust_json_loads(text)
+            return json_data
+        except Exception as e:
+            err_msg = str(e)
+            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
+            if is_transient:
+                if attempt < max_retries:
+                    print(f"Temporärer Gemini API Fehler ({err_msg}). Versuche es in {retry_delay} Sekunden erneut (Versuch {attempt}/{max_retries})...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+            print(f"Fehler bei der Abgeordneten-Stimmen-Analyse mit Gemini: {e}")
+            try:
+                print(f"API-Antwortvorschau: {response.text[:200]}...")
+            except:
+                pass
+            return None
 
 def verify_speaker_urls(speaker_json):
     """

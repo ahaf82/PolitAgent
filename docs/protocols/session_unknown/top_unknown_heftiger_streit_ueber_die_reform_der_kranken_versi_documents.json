@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "Gesetzentwurf der Bundesregierung: Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung (GKV-Beitragsstabilisierungsgesetz)",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte über den Gesetzentwurf zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung fand als erste Beratung statt. Es wurde noch keine Entscheidung getroffen und die Vorlage wurde zur weiteren Beratung an die Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
