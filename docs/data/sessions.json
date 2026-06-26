@@ -1,5 +1,17 @@
 [
   {
+    "id": "ZlfjwIjQ3LI",
+    "title": "84. Sitzung, TOP 32: KI-Standort Deutschland, Techno­logische Souveränität",
+    "session": 84,
+    "date": "2026-06-15",
+    "top": "32",
+    "topic": "Deutschland als KI-Standort: Technologische Souveränität stärken",
+    "summary_path": "protocols/session_84/32_84_sitzung_top_32_ki_standort_deutschland_techno_l.md",
+    "documents_path": "protocols/session_84/32_84_sitzung_top_32_ki_standort_deutschland_techno_l_documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=ZlfjwIjQ3LI",
+    "processed_at": "2026-06-21T22:25:21.549644"
+  },
+  {
     "id": "b7Df6CuyFeA",
     "title": "Heftiger Streit über die Reform der Kranken­versicherung",
     "session": 0,
@@ -1471,6 +1483,42 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": "protocols/session_62/12_kernenergie_speakers.json",
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "AyScB7Svj6Q",
+    "title": "83rd Session, Agenda Item 9: Amendment to the Building Energy Act",
+    "session": 83,
+    "date": "N/A",
+    "top": "9",
+    "topic": "Änderung des Gebäudeenergiegesetzes",
+    "summary_path": "protocols/session_83/9_83rd_session_agenda_item_9_amendment_to_the_buildi.md",
+    "documents_path": "protocols/session_83/9_83rd_session_agenda_item_9_amendment_to_the_buildi_documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=AyScB7Svj6Q",
+    "processed_at": "2026-06-21T22:24:51.833558"
+  },
+  {
+    "id": "LG3kzbNwgt4",
+    "title": "83rd Session, Agenda Item 8, Additional Item 2, Additional Item 3: Educational Opportunities and ...",
+    "session": 83,
+    "date": "N/A",
+    "top": "8,",
+    "topic": "Bildungschancen und BAföG stärken – Eine Debatte im Bundestag",
+    "summary_path": "protocols/session_83/8_83rd_session_agenda_item_8_additional_item_2_addit.md",
+    "documents_path": "protocols/session_83/8_83rd_session_agenda_item_8_additional_item_2_addit_documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=LG3kzbNwgt4",
+    "processed_at": "2026-06-21T22:24:14.952082"
+  },
+  {
+    "id": "qEhN0GkbPcc",
+    "title": "83. Sitzung, TOP 7: Re­gierungs­erklärung zum Europäischen Rat",
+    "session": 83,
+    "date": "N/A",
+    "top": "7",
+    "topic": "Regierungserklärung zum Europäischen Rat",
+    "summary_path": "protocols/session_83/7_83_sitzung_top_7_re_gierungs_erklaerung_zum_europa.md",
+    "documents_path": "protocols/session_83/7_83_sitzung_top_7_re_gierungs_erklaerung_zum_europa_documents.json",
+    "youtube_url": "https://www.youtube.com/watch?v=qEhN0GkbPcc",
+    "processed_at": "2026-06-21T22:23:40.757671"
   },
   {
     "id": "srWE98Rbbp8",
@@ -3742,7 +3790,7 @@
     "top": "N/A",
     "topic": "Forderung nach mehr Fördermitteln für Bauinnovationen",
     "summary_path": "protocols/session_unknown/top_unknown_mehr_foerdermittel_fuer_innovationen_am_bau_geford.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_mehr_foerdermittel_fuer_innovationen_am_bau_geford_documents.json",
     "youtube_url": "https://www.youtube.com/watch?v=unj_LkLgpqI",
     "processed_at": "2026-06-12T12:30:22.001976"
   },

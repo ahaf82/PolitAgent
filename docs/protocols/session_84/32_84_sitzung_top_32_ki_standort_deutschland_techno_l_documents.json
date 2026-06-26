@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Antrag der Fraktion der AfD: Deutschland in die KI-Zukunft bringen – Für einen nationalen Aufbruch an die digitale Weltspitze",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4464",
+      "title": "Antrag der Fraktion der AfD: Technologische Souveränität durch deutsches Fachwissen sichern – Staatliche Koordination für ein europäisches KI-Kooperationsprojekt nach Vorbild von Airbus starten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4464&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zum Thema 'KI-Standort Deutschland, Technologische Souveränität' (TOP 32a und 32b) basierte auf Anträgen der AfD-Fraktion. Es fand keine namentliche Abstimmung statt, und die Debatte endete ohne spezifischen Beschluss im vorliegenden Protokollauszug. Die Regierung wies auf bereits eingeleitete Maßnahmen und die Bedeutung von Rahmenbedingungen für die heimische Wirtschaft hin, während verschiedene Fraktionen die Ansätze der AfD kritisierten und auf die Notwendigkeit europäischer Zusammenarbeit, den EU AI Act und nachhaltige Energielösungen verwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

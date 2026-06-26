@@ -1,0 +1,106 @@
+# Änderung des Gebäudeenergiegesetzes
+
+## Sitzungs-Metadaten
+- **Sitzung:** 83. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** 9
+- **Originaltitel:** 83rd Session, Agenda Item 9: Amendment to the Building Energy Act
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=AyScB7Svj6Q)
+
+## Kurzzusammenfassung
+Die Sitzung des Deutschen Bundestages befasste sich in der ersten Beratung mit dem Entwurf eines Gesetzes zur Änderung des Gebäudeenergiegesetzes. Ziel ist es, die bisherigen Regelungen zu korrigieren, indem Technologieoffenheit und Eigenverantwortung gestärkt werden, um Unsicherheit und Investitionszurückhaltung bei Eigentümern zu vermeiden. Die Debatte drehte sich um die Ausgestaltung von Übergangsfristen, die Rolle von Biokraftstoffen ("Biotreppe"), die Förderung von Wärmepumpen und die finanzielle Belastung für Mieter und Vermieter.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch Katherina Reiche, Bundesministerin für Wirtschaft und Energie):**
+  - Das Gesetz soll Schlussstrich unter eine Politik des Misstrauens ziehen und Heizungszwänge durch Technologieoffenheit und Eigenverantwortung ersetzen.
+  - Ziel ist es, Klarheit, Planungssicherheit und Technologieoffenheit zu schaffen, um Investitionen anzukurbeln und die Wärmewende gemeinsam mit den Eigentümern zu gestalten.
+  - Die "Biotreppe" soll den schrittweisen Anstieg klimafreundlicher Brennstoffe sicherstellen, ohne zu überfordern.
+  - Wärmepumpen werden als Leittechnologie angesehen und ihre Förderung fortgesetzt.
+  - Die soziale Marktwirtschaft mit staatlichen Rahmenbedingungen und individueller Entscheidungsfreiheit wird als Leitprinzip betont.
+- **AfD-Fraktion (vertreten durch Marc Bernhard, Raimond Scheirich, Maximilian Kneller):**
+  - Das Gesetz wird als "Heizungshammer durch die Hintertür" und als faktisches Verbot von Öl- und Gasheizungen kritisiert.
+  - Die "Biotreppe" und die CO2-Steuer-Explosion werden als nicht umsetzbar und als Kostenfalle für Millionen von Menschen bewertet, da die Verfügbarkeit von Biogas und Bioöl fraglich sei.
+  - Es wird mangelnde Verfügbarkeit von Biogas/Bioöl durch Experten und Verbände belegt und die hohen Kosten betont.
+  - Die AfD tritt für vollständige Abschaffung des Heizungsgesetzes, der CO2-Steuer und für die Freiheit der Bürger ein, selbst zu entscheiden, wie sie heizen.
+  - Bürokratie und Eingriffe in die Entscheidungsfreiheit über Eigentum durch Verschärfung von Ladesäulenpflichten werden kritisiert.
+- **SPD-Fraktion (vertreten durch Helmut Kleebank, Hakan Demir):**
+  - Klimaschutz wird als Überlebensfrage und als Frage der sozialen Gerechtigkeit betrachtet, um vulnerable Gruppen zu schützen.
+  - Der bisherige Weg der Wärmewende habe nicht die nötige Akzeptanz gefunden, was zu Fehlern und einer erfolgreichen Kampagne geführt habe.
+  - Das Gesetz soll korrigieren, indem mehr technologische Wahlfreiheit bei gleichzeitiger Ausweitung der Förderkulissen geboten wird.
+  - Es wird betont, dass das Gesetz eine hälftige Kostenaufteilung für Netzentgelte, CO2-Kosten und biogene Brennstoffe vorsieht, was eine Neuerung darstellt.
+  - Es besteht die Notwendigkeit, die Kostenteilung bei Heizkosten genauer zu prüfen und die Berechtigung von Mieterhöhungen bei Austausch fossiler Heizungen zu hinterfragen.
+- **Bündnis 90/Die Grünen (vertreten durch Katharina Dröge, Hanna Steinmüller):**
+  - Das Gesetz wird als gescheitert und realitätsfern kritisiert, insbesondere angesichts globaler Öl- und Gaspreisschocks und der Klimakrise.
+  - Es wird argumentiert, dass das Gesetz den Leuten sage, wieder alte Gasheizungen zu kaufen und damit die deutschen Klimaziele abschaffe.
+  - Die Kritik richtet sich gegen die angebliche Ausblendung der Realität und die Strategie, so zu tun, als gäbe es die aktuellen Energiepreiskrisen nicht.
+  - Das Gesetz wird als Ergebnis einer politischen Kampagne der Union gegen Robert Habeck bezeichnet und als Spirale der Wut, die Vernunft und Klimaziele frisst.
+  - Die Kosten für Mieter, insbesondere kleine Unternehmen, werden als unzureichend adressiert kritisiert.
+  - Die Grünen betonen, dass niemand dieses Gesetz will und es aus ideologischen Gründen geändert wird, wobei die Rechnung von anderen bezahlt werden müsse.
+- **CDU/CSU-Fraktion (vertreten durch Stephan Stracke, Lars Rohwer, Wilhelm Gebhard):**
+  - Die CDU/CSU sagt Ja zum Klimaschutz, aber Nein zu Habecks Heizungsgesetz, das Chaos, Unsicherheit und Bevormundung verursacht habe.
+  - Das neue Gesetz sorge für Klarheit, Technologieoffenheit und Entscheidungsfreiheit bei bezahlbarem Heizen.
+  - Der Deutsche Mieterbund begrüße die Gesetzesinitiative ausdrücklich, insbesondere die hälftige Aufteilung von Kostenbestandteilen.
+  - Das Gesetz wird als Entlastungsgesetz mit jährlichen Entlastungen für Bürger und Wirtschaft bewertet.
+  - Die Kritik an der "Biotreppe" und der Verfügbarkeit von Biogas wird als mangelndes Vertrauen in die heimische Landwirtschaft zurückgewiesen.
+  - Der bisherige Ansatz der Grünen wird als überfordernd und von Misstrauen gegenüber den Bürgern geprägt kritisiert; stattdessen setze man auf Eigenmotivation und pragmatische Lösungen.
+  - Die Umsetzung der EU-Gebäudeeffizienzrichtlinie wird begrüßt, aber gleichzeitig eine Botschaft an Europa gesendet, keine weiteren Verschärfungen zu fordern.
+- **Die Linke (vertreten durch Violetta Bock):**
+  - Das Gesetz wird als Angriff auf Mieter, zukünftige Generationen und das Klima kritisiert und als "Heizungsgesetz durch die Hintertür" bezeichnet.
+  - Die "technologieoffene" Ausgestaltung wird als fraglich bewertet, da zur Klimawirkung, Verfügbarkeit von Biomethan und Preisentwicklung Unklarheiten bestehen.
+  - Das Gesetz wird als verfassungswidrig eingestuft, mit Klagen von Umweltverbänden in Vorbereitung.
+  - Es wird bemängelt, dass Kleinvermieter und Menschen in Eigenheimen mit Kosten allein gelassen werden.
+  - Die Linke fordert die vollständige Nachbesserung des Gesetzes, um das Staatsziel des Klimaschutzes zu wahren.
+
+## Chronologischer Debattenverlauf
+- **[00:00:02](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=2)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und der Tagesordnungspunkt 9 (Erste Beratung des Entwurfs eines Gesetzes zur Änderung des Gebäudeenergiegesetzes etc.) aufgerufen.
+- **[00:00:35](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=35)** - **Bundesministerin Katherina Reiche (Bundesregierung)**: Sie stellt den Gesetzentwurf vor, der auf Technologieoffenheit, Eigenverantwortung und Klarheit setzt, um Verunsicherung und Investitionszurückhaltung zu beenden. Sie betont, dass die Wärmewende nur mit den Eigentümern gelingen kann.
+- **[00:53](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=53)** - **Katherina Reiche (Bundesregierung)**: Die Ministerin erläutert die Kernbotschaft des Gesetzes: Freiheit für Bürger, selbst über klimaneutrale Wärmeversorgung zu entscheiden, während der Staat Leitplanken vorgibt. Sie hebt die Flexibilität verschiedener Technologien hervor und führt die "Biotreppe" zur schrittweisen Erhöhung klimafreundlicher Brennstoffe ein.
+- **[01:38](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=98)** - **Katherina Reiche (Bundesregierung)**: Sie spricht die Notwendigkeit an, Innovationen zu stärken, Investitionen zurückzubringen und die Versorgungssicherheit zu garantieren, um die Abhängigkeit von Importen zu reduzieren. Die Wärmepumpe wird als Leittechnologie genannt, deren Förderung fortgesetzt wird.
+- **[02:14](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=134)** - **Zwischenfrage aus den Reihen der Fraktion Bündnis 90/Die Grünen**: Die Ministerin lehnt eine Zwischenfrage ab.
+- **[03:36](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=216)** - **Katherina Reiche (Bundesregierung)**: Sie betont, dass Technologieoffenheit nicht im Gegensatz zur CO2-Reduktion steht, sondern auf Innovation und marktwirtschaftliche Anreize setzt, was durch die Einführung der "Biotreppe" geschehen soll.
+- **[05:35](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=335)** - **Zwischenfrage aus der AfD-Fraktion**: Die Ministerin lehnt eine weitere Zwischenfrage ab.
+- **[06:56](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=416)** - **Marc Bernhard (AfD-Fraktion)**: Er kritisiert das Gesetz als "Märchen" und "Habecks Heizungshammer durch die Hintertür", da die "Biotreppe" ein faktisches Verbot von Öl- und Gasheizungen darstelle. Er bezweifelt die Verfügbarkeit von Biogas und Bioöl und zitiert Expertenmeinungen, die eine flächendeckende Versorgung als unmöglich einschätzen.
+- **[10:23](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=623)** - **Zwischenfrage von der CDU/CSU-Fraktion**: Bernhard lässt die Zwischenfrage zu.
+- **[10:38](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=638)** - **Kollege Koller (CDU/CSU)**: Er widerspricht Bernhard und fragt, ob er mit Bioenergiefachverbänden gesprochen habe, die die Umsetzbarkeit bejahten.
+- **[10:41](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=641)** - **Marc Bernhard (AfD-Fraktion)**: Er kontert, dass er bereits Experten und Verbände zitiert habe, die das Gegenteil behaupten, und bezeichnet die "Biotreppe" als Kostenfalle.
+- **[13:26](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=796)** - **Helmut Kleebank (SPD-Fraktion)**: Er betont, dass Klimaschutz eine Überlebensfrage ist und soziale Fragen aufwirft. Er kritisiert, dass das bisherige Gebäudeenergiegesetz die Kriterien eines gerechten Ausgleichs nicht erfüllt habe und zieht daraus Konsequenzen mit dem vorliegenden Gesetz.
+- **[15:04](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=904)** - **Zwischenfrage aus der Fraktion Bündnis 90/Die Grünen**: Kleebank lässt die Zwischenfrage zu.
+- **[15:19](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=919)** - **Kollegin (Bündnis 90/Die Grünen)**: Sie fragt die SPD, ob sie eine Vision für die Wärmewende habe und ob Gasheizungen ja oder nein seien, und kritisiert fehlende rote Fäden.
+- **[16:12](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=972)** - **Helmut Kleebank (SPD-Fraktion)**: Er erklärt die Vision der SPD als "sozial gerechten Klimaschutz" und räumt ein, dass der Weg der letzten Wahlperiode zu wenig Akzeptanz gefunden habe und zu viele Bevölkerungsgruppen außen vor gelassen wurden.
+- **[17:36](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1056)** - **Helmut Kleebank (SPD-Fraktion)**: Er betont, dass das Gesetz das Instrumentarium der Wärmewende korrigiere, mehr technologische Wahlfreiheit biete und durch verlässliche Förderkulissen flankiert werde.
+- **[20:03](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1203)** - **Zwischenfrage (unbekannt)**: Der Redner wird nach der Idee des neuen Konzepts und der Kritik von Verbänden gefragt.
+- **[20:35](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1235)** - **Helmut Kleebank (SPD-Fraktion)**: Er erläutert, dass die Idee nicht sei, alle fossilen Heizungen auf Biobrennstoffe umzustellen, und fördere weiterhin die Elektrifizierung, was den Bedarf an Biobrennstoffen reduziere.
+- **[23:46](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1426)** - **Katharina Dröge (Bündnis 90/Die Grünen)**: Sie kritisiert das Gesetz als gescheitert und realitätsfern, insbesondere angesichts der globalen Ölkrise, und wirft der Ministerin vor, den Kopf in den Sand zu stecken. Sie argumentiert, dass das Gesetz die deutschen Klimaziele abschaffe.
+- **[25:29](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1529)** - **Zwischenfrage aus der CDU/CSU-Fraktion**: Dröge lässt die Zwischenfrage zu.
+- **[25:40](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1540)** - **Kollege (CDU/CSU)**: Er nennt Dröges Aussage zur größten Ölkrise "großen Unsinn" und verweist auf frühere Krisen.
+- **[26:06](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1566)** - **Katharina Dröge (Bündnis 90/Die Grünen)**: Sie verteidigt ihre Aussage und betont, dass die aktuelle Krise der größte *fossile* Ölschock weltweit sei.
+- **[28:01](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1681)** - **Katharina Dröge (Bündnis 90/Die Grünen)**: Sie appelliert an Union und SPD, das Gesetz nicht zu beschließen, da es ein gutes, sinnvolles und gerechtes Klimaschutzgesetz ersetze.
+- **[31:11](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=1871)** - **Violetta Bock (Die Linke)**: Sie kritisiert das Gesetz als Angriff auf Mieter, nächste Generationen und das Klima, nennt es ein "Ausrufezeichen: Gas und Öl dürfen wieder eingebaut werden" und kritisiert die vermeintliche Akzeptanzschaffung als Ignoranz. Sie verweist auf kritische Stellungnahmen von Verbänden und warnt vor Verfassungswidrigkeit.
+- **[37:26](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=2246)** - **Stephan Stracke (CDU/CSU-Fraktion)**: Er sagt Ja zum Klimaschutz, aber Nein zu Habecks Heizungsgesetz und begrüßt die nunmehrige Klarheit, Technologieoffenheit und Entscheidungsfreiheit. Er betont, dass das Gesetz ein Entlastungsgesetz sei und die Kosten zwischen Mietern und Vermietern aufgeteilt würden.
+- **[39:28](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=2368)** - **Zwischenfrage aus der CDU/CSU-Fraktion**: Stracke lässt die Zwischenfrage zu.
+- **[39:38](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=2378)** - **Kollegin (CDU/CSU)**: Sie fragt, ob Stracke zustimme, dass die "Mieterschutz"-Regelung eine Mogelpackung sei, da steigende Rohstoffkosten von den Mietern getragen werden müssten.
+- **[40:35](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=2435)** - **Stephan Stracke (CDU/CSU-Fraktion)**: Er entgegnet, dass der Deutsche Mieterbund die Regelungen positiv bewerte und es sich um eine Kostenteilung handele, die mehr sei als das, was die Ampel zuvor vereinbart habe.
+- **[43:31](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=2611)** - **Stephan Stracke (CDU/CSU-Fraktion)**: Er kritisiert die Politik der Grünen als gescheitert und betont, dass Klimaschutz Akzeptanz brauche und nur mit den Bürgern gelingen könne.
+- **[47:42](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=2862)** - **Raimond Scheirich (AfD-Fraktion)**: Er widerspricht Stracke und bezeichnet das Gesetz als Wählertäuschung und Bestätigung des "Habeck'schen Heizungsgesetzes", das als "Merz'sche Mogelpackung" kritisiert wird. Er lehnt die sozialistischen Quoten für Grüngas und Grünöl ab und betont Freiheit statt staatlichem Zwang.
+- **[50:31](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3031)** - **Raimond Scheirich (AfD-Fraktion)**: Er kritisiert die Zwangsbeteiligung der Vermieter an Heizkosten und sieht darin eine Steigerung der Mieten. Die AfD wolle Heizungsverbote, Beimischungsquoten und Fünfjahrespläne beenden.
+- **[52:13](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3133)** - **Verena Hubertz (Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen, Bundesregierung)**: Sie bezeichnet die Wärmewende als historische Aufgabe und betont die Notwendigkeit der Klimaneutralität bis 2045. Sie verteidigt das Gesetz als Neuausrichtung mit klareren, tragfähigen Strukturen und dankt für die Zusammenarbeit.
+- **[53:07](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3187)** - **Zwischenfrage von Bündnis 90/Die Grünen**: Hubertz lehnt die Zwischenfrage ab, um Tempo zu machen.
+- **[54:35](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3275)** - **Verena Hubertz (Bundesregierung)**: Sie betont die Anforderungen des Klimaschutzes durch die "Biotreppe" und eine geplante Evaluation im Jahr 2030. Sie hebt besonders den Mieterschutz und die geteilten Mehrkosten bei Biotreppe, Netzentgelten und CO2-Kosten hervor.
+- **[56:01](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3361)** - **Verena Hubertz (Bundesregierung)**: Sie erwähnt die Umsetzung der Europäischen Gebäuderichtlinie, die Einführung von Nullemissionsgebäuden im Neubau ab 2030 und die CO2-Lebenszyklusbetrachtung.
+- **[56:56](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3396)** - **Hanna Steinmüller (Bündnis 90/Die Grünen)**: Sie wiederholt, dass niemand das Gesetz wolle, und kritisiert, dass es aus ideologischen Gründen geändert werde, während die Rechnung von anderen bezahlt werden müsse. Sie betont die Abhängigkeit von Mietern von Investitionsentscheidungen der Vermieter und die Unklarheit über Kosten und Verfügbarkeit von Biogas.
+- **[59:01](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3541)** - **Hanna Steinmüller (Bündnis 90/Die Grünen)**: Sie bemängelt die Komplexität des Gesetzes, die zu juristischem Aufwand führe, und betont, dass am Ende die Mieter zahlen müssten. Sie fordert ein Ende des Gesetzgebungsverfahrens.
+- **[01:00:20](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3620)** - **Lars Rohwer (CDU/CSU-Fraktion)**: Er fordert einen "kühlen Kopf" bei der Arbeit am Gesetz und betont die Zusammenarbeit mit der SPD. Er hebt hervor, dass das Gesetz die grünen Fehleinschätzungen der letzten Legislaturperiode korrigiere und weg von Zwang hin zu Eigenmotivation gehe.
+- **[01:03:54](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3834)** - **Zwischenfrage von Bündnis 90/Die Grünen**: Rohwer lehnt die Zwischenfrage mit Verweis auf die fortgeschrittene Zeit und die erste Lesung ab.
+- **[01:04:11](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3851)** - **Lars Rohwer (CDU/CSU-Fraktion)**: Er betont die Notwendigkeit, Heizungsarten zu entpolitisieren und die EU-Gebäudeeffizienzrichtlinie eins-zu-eins umzusetzen, warnt aber vor weiteren Verschärfungen aus Brüssel.
+- **[01:05:58](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=3958)** - **Mathias Weiser (AfD-Fraktion)**: Er wiederholt, dass es sich um ein Heizungsgesetz handele, das die Mehrheit der Bürger abgeschafft sehen wolle. Er kritisiert die finanzielle Nötigung der Bürger durch Verteuerung von Brennstoffen und die Erhöhung von CO2-Steuer und Netzentgelten.
+- **[01:08:40](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4120)** - **Mathias Weiser (AfD-Fraktion)**: Er bezeichnet die aktuelle Politik als Armutspolitik für Deutschland und fordert eine Politik für die arbeitenden Menschen.
+- **[01:09:11](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4151)** - **Hakan Demir (SPD-Fraktion)**: Er ruft zu mehr Sachlichkeit auf und betont die Einigung der Koalition auf mehr Wahlfreiheit. Er hebt den Mieterschutz als zentrales Anliegen der SPD hervor und die erstmalige hälftige Kostenaufteilung hervor.
+- **[01:11:11](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4271)** - **Hakan Demir (SPD-Fraktion)**: Er deutet an, dass die Regelungen zur Kostenteilung noch verbessert werden müssten, da sie nicht immer gerecht seien.
+- **[01:12:24](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4344)** - **Hakan Demir (SPD-Fraktion)**: Er nennt zwei Wahrheiten: ab 2030 keine direkten CO2-Emissionen im Neubau und Klimaneutralität bis 2045.
+- **[01:12:54](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4374)** - **Wilhelm Gebhard (CDU/CSU-Fraktion)**: Er schildert seine Motivation für den Wechsel in den Bundestag aufgrund des "Habeck'schen Heizungsgesetzes" und begrüßt die Korrektur mit dem Gebäudemodernisierungsgesetz. Er betont die gestrichenen kleinteiligen Vorschriften und die Wiedereinführung von Technologieoffenheit und Flexibilität.
+- **[01:15:20](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4520)** - **Wilhelm Gebhard (CDU/CSU-Fraktion)**: Er verteidigt die Biogasquote als Chance für die heimische Landwirtschaft und als Vertrauensbeweis. Er kritisiert die Kritik daran als mangelndes Vertrauen in die Leistungsfähigkeit der Landwirtschaft.
+- **[01:17:04](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4624)** - **Maximilian Kneller (AfD-Fraktion)**: Er kritisiert die Verschärfung der Ladesäulenpflicht, die Bau und Sanierung verunmögliche und die Entscheidungsfreiheit über Eigentum einschränke. Er fordert den Ausbau der Kernkraft zur Senkung von Strompreisen.
+- **[01:19:41](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4781)** - **Maximilian Kneller (AfD-Fraktion)**: Er fordert, die Bürger nicht zum Erfüllungsgehilfen falscher Politik zu machen und Freiheit sowie Eigentum zu respektieren.
+- **[01:20:27](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4827)** - **Schluss der Aussprache**: Die Aussprache zum Tagesordnungspunkt 9 wird geschlossen.
+- **[01:20:31](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4831)** - **Überweisungsvorschlag**: Der Gesetzentwurf wird zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.
+- **[01:20:51](https://www.youtube.com/watch?v=AyScB7Svj6Q&t=4851)** - **Leitungsentscheidung**: Aufgrund der fortgeschrittenen Zeit werden keine weiteren Zwischenfragen zugelassen.

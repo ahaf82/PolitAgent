@@ -10,6 +10,9 @@ from dotenv import load_dotenv
 from youtube_transcript_api import YouTubeTranscriptApi
 import yt_dlp
 
+class DailyQuotaExceeded(Exception):
+    pass
+
 # Load local environment variables from .env relative to script directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
 env_path = os.path.join(script_dir, ".env")
@@ -440,6 +443,9 @@ Hier ist das Transkript der Sitzung mit Zeitstempeln:
             return response.text
         except Exception as e:
             err_msg = str(e)
+            if "exceeded your current quota" in err_msg.lower() or "quota exceeded" in err_msg.lower():
+                print("Tägliches API-Quota überschritten. Breche Zusammenfassung ab.")
+                raise DailyQuotaExceeded(err_msg)
             is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
             if is_transient:
                 if attempt < max_retries:
@@ -628,6 +634,9 @@ def generate_session_documents(client, title, date, session, top, transcript_tex
             return json_data
         except Exception as e:
             err_msg = str(e)
+            if "exceeded your current quota" in err_msg.lower() or "quota exceeded" in err_msg.lower():
+                print("Tägliches API-Quota überschritten. Breche Dokumenten-Analyse ab.")
+                raise DailyQuotaExceeded(err_msg)
             is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
             if is_transient:
                 if attempt < max_retries:
@@ -877,6 +886,9 @@ def generate_speaker_statements(client, title, date, video_url, transcript_text)
             return json_data
         except Exception as e:
             err_msg = str(e)
+            if "exceeded your current quota" in err_msg.lower() or "quota exceeded" in err_msg.lower():
+                print("Tägliches API-Quota überschritten. Breche Abgeordneten-Analyse ab.")
+                raise DailyQuotaExceeded(err_msg)
             is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
             if is_transient:
                 if attempt < max_retries:
@@ -1325,11 +1337,12 @@ def main():
         print(f"Limitiere Verarbeitung von {len(videos_to_process)} auf {args.max_process} Videos, um API-Quota-Limits zu wahren.")
         videos_to_process = videos_to_process[:args.max_process]
 
-    success_count = 0
-    if not videos_to_process:
-        print("Keine neuen Videos zu verarbeiten.")
-    else:
-        print(f"Es werden {len(videos_to_process)} Videos verarbeitet.")
+    try:
+        success_count = 0
+        if not videos_to_process:
+            print("Keine neuen Videos zu verarbeiten.")
+        else:
+            print(f"Es werden {len(videos_to_process)} Videos verarbeitet.")
         for i, v in enumerate(videos_to_process, 1):
             print(f"\n[{i}/{len(videos_to_process)}] Verarbeite Video: {v['title']} (ID: {v['id']})")
             
@@ -1422,6 +1435,55 @@ def main():
                 else:
                     relative_docs_path = None
 
+            # 3c. Generate speaker statements
+            relative_speakers_path = None
+            if client:
+                base, ext = os.path.splitext(relative_protocol_path)
+                relative_speakers_path = f"{base}_speakers.json"
+                absolute_speakers_path = os.path.join(docs_dir, relative_speakers_path)
+                
+                speaker_json = generate_speaker_statements(
+                    client,
+                    v['topic'] or v['title'],
+                    v['date'],
+                    v['url'],
+                    summary_markdown
+                )
+                if speaker_json:
+                    verify_speaker_urls(speaker_json)
+                    
+                    # Verify if there is at least one real, direct link
+                    has_real_url = False
+                    if 'sources' in speaker_json:
+                        from urllib.parse import urlparse
+                        for src in speaker_json['sources']:
+                            if not src.get('found'):
+                                continue
+                            url = src.get('url', 'N/A')
+                            if url and url != 'N/A' and url.startswith('http'):
+                                try:
+                                    parsed = urlparse(url)
+                                    if parsed.path not in ('', '/'):
+                                        has_real_url = True
+                                        break
+                                except:
+                                    pass
+                    
+                    if has_real_url:
+                        try:
+                            os.makedirs(os.path.dirname(absolute_speakers_path), exist_ok=True)
+                            with open(absolute_speakers_path, 'w', encoding='utf-8') as f:
+                                json.dump(speaker_json, f, indent=2, ensure_ascii=False)
+                            print(f"Abgeordneten-Stimmen gespeichert unter: {relative_speakers_path}")
+                        except Exception as e:
+                            print(f"Fehler beim Schreiben der Abgeordneten-JSON: {e}")
+                            relative_speakers_path = None
+                    else:
+                        print("Keine validen Direkt-Links für Abgeordneten-Stimmen gefunden, überspringe Speichern.")
+                        relative_speakers_path = None
+                else:
+                    relative_speakers_path = None
+
             # 4. Update index database
             session_entry = {
                 "id": v['id'],
@@ -1432,6 +1494,7 @@ def main():
                 "topic": v['topic'],
                 "summary_path": relative_protocol_path,
                 "documents_path": relative_docs_path,
+                "speakers_path": relative_speakers_path,
                 "youtube_url": v['url'],
                 "processed_at": datetime.now().isoformat()
             }
@@ -1447,11 +1510,13 @@ def main():
             
         print(f"\n=== Video-Verarbeitung abgeschlossen: {success_count} von {len(videos_to_process)} Videos erfolgreich verarbeitet. ===")
 
-    # Run retroactive speaker statements analysis (configurable to protect quota)
-    run_retroactive_speaker_analysis(client, index_path, docs_dir, max_process=args.max_speakers_process)
-    
-    # Run retroactive documents and voting analysis
-    run_retroactive_documents_analysis(client, index_path, docs_dir, max_process=args.max_documents_process)
+        # Run retroactive speaker statements analysis (configurable to protect quota)
+        run_retroactive_speaker_analysis(client, index_path, docs_dir, max_process=args.max_speakers_process)
+        
+        # Run retroactive documents and voting analysis
+        run_retroactive_documents_analysis(client, index_path, docs_dir, max_process=args.max_documents_process)
+    except DailyQuotaExceeded as qe:
+        print(f"\n[!] Ausführung vorzeitig abgebrochen, da das tägliche API-Kontingent ausgeschöpft ist: {qe}")
     
     print("\n=== PolitAgent Crawler & Abgeordneten- und Dokumenten-Analyse beendet. ===")
 
