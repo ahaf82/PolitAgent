@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten auf den Entwurf des Sportfördergesetzes zeigen eine breite Übereinstimmung in der Notwendigkeit einer Reform, jedoch erhebliche Differenzen hinsichtlich deren konkreter Ausgestaltung und Wirksamkeit. Während SPD-Vertreter die überfällige Reform grundsätzlich begrüßen und eine effizientere, transparentere Förderung mit Fokus auf Athleten fordern, kritisieren CDU/CSU und Grüne den Entwurf als unzureichend und mutlos, der alte Machtstrukturen absichert und die Unabhängigkeit der geplanten Spitzensportagentur sowie die Athletenmitbestimmung vermissen lässt. Die Linke und AfD bemängeln zudem die mangelnde finanzielle Verbindlichkeit und befürchten ein bürokratisches System ohne echten Paradigmenwechsel, wobei die AfD auch konkrete Ziele zur Steigerung der Medaillenbilanz vorschlägt. Über alle Fraktionen hinweg wird die Wichtigkeit der Stärkung von Athletenrechten, Trainerbedingungen und Transparenz betont, aber der Weg dorthin kontrovers diskutiert.",
+  "sources": [
+    {
+      "name": "Stephan Mayer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Stephan Mayer kritisiert den Entwurf des Sportfördergesetzes als Enttäuschung, da die geplante unabhängige Spitzensportagentur als 'Mogelpackung' unter Kontrolle des Innenministeriums bleibe und Fragen der Zuständigkeit unklar seien. Er bemängelt den zu geringen Einfluss des Bundes im Entwurf und hebt die 'fatale Bilanz' der deutschen Sportpolitik sowie die 'Entsetzen des organisierten Sports' hervor.",
+      "source_title": "Mayer: Echte Spitzensportreform steht weiterhin aus - Presseportal / CDU/CSU kritisieren Entwurf zum Sportfördergesetz - Sport1 / Aktuelle Stunde offenbart konträren Blick auf die Sportpolitik - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2024/kw17-de-aktuelle-stunde-sportpolitik-999774",
+      "platform": "Presse"
+    },
+    {
+      "name": "Bettina Lugk",
+      "party": "SPD",
+      "found": false,
+      "statement": "Bettina Lugk begrüßt den Kabinettsbeschluss zum Sportfördergesetz als lange überfällig und notwendig für ein effizienteres, transparenteres und unbürokratischeres System, das Athletinnen und Athleten in den Mittelpunkt stellt. Sie betont, dass die geplante Spitzensportagentur unabhängig arbeiten und die Förderung sich konsequent an den Bedürfnissen der Athleten orientieren muss. Lugk sieht die Ursache der Probleme nicht in mangelnder Finanzierung, sondern in Steuerungs- und Strukturdefiziten.",
+      "source_title": "Sportfördergesetz: Reform muss echten Fortschritt für Athletinnen und Athleten bringen - SPD-Bundestagsfraktion / Sachverständige sehen Änderungsbedarf bei Sportfördergesetz - Deutscher Bundestag / Weiter Gerangel um Sportfördergesetz - Sportspitze(n)",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tina Winklmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Tina Winklmann bezeichnet den Kabinettsbeschluss zum Sportfördergesetz als Absicherung alter Machtstrukturen und eine verpasste Chance für eine echte Reform. Sie kritisiert, dass 'Safe Sport', unabhängige Athletenmitbestimmung und transparente Förderentscheidungen unzureichend verankert sind. Winklmann fordert, Schutz, Fairness und nachvollziehbare Regeln ins Zentrum zu stellen, warnt vor Machtkonzentration in der Agentur und fordert mehr Transparenz bei der Mittelvergabe.",
+      "source_title": "Tina Winklmann: Kabinett gibt Entwurf zum Sportfördergesetz frei, Reformchance vertan - Bundestagsfraktion Bündnis 90/Die Grünen / Sachverständige sehen Änderungsbedarf bei Sportfördergesetz - Deutscher Bundestag / Grüne kritisieren Sportfördergesetz-Entwurf – Nachbesserung nötig - Sport1",
+      "url": "https://www.sport1.de/news/mehr-sport/2025/10/grune-sportfordergesetz-mit-deutlichen-verschlechterungen",
+      "platform": "Website"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Christian Görke kritisiert das Sportfördergesetz als Symbolpolitik ohne konkreten Plan, da es keinen Paradigmenwechsel darstelle und die alte Logik der Medaillenzählung und ministeriellen Entscheidungen beibehalte, während Athleten Statisten blieben. Er bemängelt die fehlende langfristige Ausfinanzierung und fordert einen jährlichen Aufwuchs von 10% im Haushalt. Die geplante Spitzensportagentur bezeichnet er als 'Politbüro 2.0', in der der organisierte Sport und Athleten außen vor seien.",
+      "source_title": "Sechs Fakten über das Sportfördergesetz - Fraktion Die Linke im Bundestag / Sachverständige sehen Änderungsbedarf bei Sportfördergesetz - Deutscher Bundestag / Die Jagd auf Gold wird zum Gesetz - Das Parlament",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jörn König",
+      "party": "AfD",
+      "found": true,
+      "statement": "Jörn König sieht im Sportfördergesetz einen wichtigen Anfang, kritisiert jedoch dessen Unverbindlichkeit und fordert eine stärkere Beteiligung von Athleten im Stiftungsrat der Spitzensportagentur. Er beklagt den Niedergang des deutschen Spitzensports und fordert einen 'Goldenen Plan' für Sportstätten in Höhe von 40 Milliarden Euro sowie eine Anhebung des Sportetats, um konkrete Medaillenziele bei Olympischen Spielen zu erreichen.",
+      "source_title": "Sachverständige sehen Änderungsbedarf bei Sportfördergesetz - Deutscher Bundestag / Regierung setzt im Sport falsche Schwerpunkte! - Jörn König - AfD-Fraktion im Bundestag / AfD-Fraktion legt Plan zur Förderung des Spitzensports vor",
+      "url": "https://afdbundestag.de/afd-fraktion-legt-plan-zur-foerderung-des-spitzensports-vor/",
+      "platform": "Website"
+    }
+  ]
+}

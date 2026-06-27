@@ -1,0 +1,32 @@
+{
+  "synthesis": "Bundeskanzler Friedrich Merz (CDU) äußerte sich vor und nach der Debatte umfassend zur geplanten Rentenreform. Er begrüßte die weitreichenden Vorschläge der Rentenkommission als große Chance für Deutschland und betonte die Notwendigkeit einer schnellen und vollständigen Umsetzung bis Jahresende, insbesondere die Einführung einer Kapitalrente und die Kopplung des Renteneintrittsalters an die Lebenserwartung. Er verteidigte zudem die deutsche Chinapolitik, die auf fairen Handel und Risikominimierung abzielt, und sprach sich klar gegen eine Zusammenarbeit mit der Linkspartei aus. Leif-Erik Holm (AfD) kritisierte die Regierung Merz/Klingbeil wiederholt für ihre Wirtschaftspolitik, insbesondere in Bezug auf Energiepreise, Inflation und Bürokratie. Er forderte Steuerentlastungen statt neuer Belastungen und hob hervor, dass die AfD Forderungen zur Rente bereits seit Jahren erhebt, lehnte jedoch die Erhöhung des Renteneintrittsalters auf 70 und neue Zwangsabgaben ab. Sebastian Roloff (SPD) betonte die Wichtigkeit einer aktiven europäischen Industrie- und Handelspolitik, forderte eine „Buy European“-Maxime gegen unfairen Wettbewerb aus China und sprach sich für stärkere Maßnahmen zur Sicherung von Arbeitsplätzen und Lieferketten in Europa aus. Er beteiligte sich auch an Diskussionen zur IT-Sicherheit und Nachhaltigkeitsbildung.",
+  "sources": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU",
+      "found": true,
+      "statement": "Bundeskanzler Friedrich Merz hat die vollständige Umsetzung der von der Rentenkommission vorgelegten 33 Vorschläge zur Rentenreform bis Jahresende angekündigt. Er lobte die 'sehr weitreichende Reform', die ein neues Gesamtversorgungsniveau mit Fokus auf Kapitaldeckung schaffen und das Renteneintrittsalter an die Lebenserwartung koppeln soll. Merz verteidigte auch die deutsche Haltung gegenüber China, die auf fairem Handel und Risikominimierung basiert, und lehnte eine Zusammenarbeit mit der Linkspartei ab.",
+      "source_title": "Kanzler Merz zur Rentenreform und Automobilwirtschaft",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/merz-zu-rente-und-autowirtschaft-2396464",
+      "platform": "Website"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm (AfD) kritisierte die Wirtschaftspolitik der Regierung Merz scharf, insbesondere die hohe Steuer- und Abgabenlast, die ideologische Energiepolitik und Subventionen für E-Autos, die auch chinesischen Herstellern zugutekommen. Er forderte die Abschaffung der CO2-Abgabe und einen verminderten Mehrwertsteuersatz auf Sprit. Bezüglich der Rentenreform begrüßte er AfD-Forderungen im Kommissionsbericht, lehnte jedoch die Anhebung des Rentenalters auf 70 Jahre und neue Zwangsabgaben ab.",
+      "source_title": "Jahreswirtschaftsbericht dokumentiert Niedergang Deutschlands",
+      "url": "https://afdbundestag.de/jahreswirtschaftsbericht-dokumentiert-niedergang-deutschlands/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sebastian Roloff (SPD) forderte eine 'Buy European'-Maxime in der öffentlichen Beschaffung und für kritische Bereiche, um die Resilienz Deutschlands zu stärken und die Verlagerung qualifizierter Arbeitsplätze ins Ausland zu stoppen. Er sprach sich für eine aktive Industrie- und Handelspolitik aus, die Europa vor unfairem Wettbewerb und Preisdumping schützen soll. Roloff betonte die Notwendigkeit eines direkten Dialogs mit China auf Augenhöhe.",
+      "source_title": "SPD fordert „Buy European“-Vorgabe bei öffentlichen Aufträgen",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

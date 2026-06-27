@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten zu den Themen der 30. Sitzung spiegeln weitgehend die Positionen ihrer Fraktionen wider. Jens Zimmermann (SPD) betont die Notwendigkeit einer eigenständigen Digitalpolitik mit Fokus auf digitale Souveränität, Cybersicherheit und den Ausbau digitaler Infrastrukturen. Thomas Heilmann (CDU/CSU) fordert eine grundlegende Modernisierung des Staates und der Verwaltung, um Bürokratie abzubauen und Innovationen zu fördern, und spricht sich für digitale Souveränität aus. Tabea Rößner (Bündnis 90/Die Grünen) kritisiert die langsame Umsetzung digitaler Strategien früherer Regierungen und betont die Bedeutung ressortübergreifender Zusammenarbeit für eine umfassende Digitalisierung. Während für Harald Weyel (AfD) keine spezifischen externen Aussagen zu den genannten Gesetzentwürfen gefunden wurden, vertritt Petra Sitte (Die Linke) die grundsätzliche Ablehnung ihrer Fraktion gegenüber der allgemeinen Erprobungsklausel, primär aus Sorge vor Missbrauch und mangelnder externer Evaluation.",
+  "sources": [
+    {
+      "name": "Jens Zimmermann",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jens Zimmermann hat sich mehrfach für eine Stärkung der digitalen Souveränität Europas eingesetzt, etwa durch Investitionen in die Halbleiterproduktion und konsequente Cybersicherheitsmaßnahmen. Er fordert zudem ein eigenständiges Digitalministerium zur Koordination von digitaler Infrastruktur, Verwaltungsdigitalisierung und Innovation, um die Digitalisierung in Deutschland zu beschleunigen.",
+      "source_title": "Keine Experimente! Warum wir ein eigenständiges Digitalministerium brauchen",
+      "url": "https://vorwaerts.de/meinung/keine-experimente-warum-wir-ein-eigenstaendiges-digitalministerium-brauchen",
+      "platform": "Website"
+    },
+    {
+      "name": "Thomas Heilmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Thomas Heilmann ist Mitinitiator der 'NEUSTAAT'-Bewegung, die über 100 Vorschläge zur grundlegenden Modernisierung des Staates und zur Beschleunigung der Verwaltungsarbeit macht, was eng mit dem Ziel des regulatorischen Lernens und der Innovationsförderung korreliert. Er ist zudem Mitglied des Digitalausschusses und setzt sich für technische Standards, Datensouveränität und digitale Wettbewerbsfähigkeit ein.",
+      "source_title": "Thomas Heilmann | Creative Bureaucracy Festival",
+      "url": "https://creativebureaucracy.org/foundation/people/thomas-heilmann",
+      "platform": "Website"
+    },
+    {
+      "name": "Tabea Rößner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Als Vorsitzende des Ausschusses für Digitales betont Tabea Rößner die Notwendigkeit einer ressortübergreifenden Zusammenarbeit bei der Umsetzung der Digitalstrategie. Sie kritisiert die früheren, als zögerlich empfundenen Digitalisierungsbemühungen der Vorgängerregierungen, insbesondere beim Glasfaserausbau, und fordert mehr Tempo für die digitale Transformation.",
+      "source_title": "Bundestagsrede zur Digitalstrategie vom 16.11.2023",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Harald Weyel",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Petra Sitte",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Als digitalpolitische Sprecherin ihrer Fraktion vertritt Petra Sitte die grundsätzliche Ablehnung einer allgemeinen Erprobungsklausel, wie im Bundeserprobungsgesetz vorgesehen. Die Linke kritisiert, dass ein solches Gesetz der Gewaltenteilung widerspreche, ein Missbrauchsrisiko berge und die Verpflichtung zur wissenschaftlichen Evaluation vermisse. Ihre Fraktion fordert höchste Transparenz bei Genehmigungen und Projekten.",
+      "source_title": "Petra Sitte - Wikipedia (Rolle und Positionen im Ausschuss Digitale Agenda)",
+      "url": "https://de.wikipedia.org/wiki/Petra_Sitte",
+      "platform": "Website"
+    }
+  ]
+}

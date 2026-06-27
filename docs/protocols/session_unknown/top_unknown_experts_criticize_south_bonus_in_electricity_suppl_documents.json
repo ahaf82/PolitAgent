@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6279",
+      "title": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Sicherung der Versorgungssicherheit Strom und zur Bereitstellung neuer Kapazitäten und zur Änderung der Besonderen Gebührenverordnung BNetzA",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6279&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6369",
+      "title": "Antrag der Abgeordneten Katrin Uhlig, Michael Kellner, Dr. Alaa Alhamwi, Dr. Julia Verlinden, Lisa Badum, Dr. Sandra Detzer, Julian Joswig, Sandra Stein und der Fraktion BÜNDNIS 90/DIE GRÜNEN Effiziente Kapazitätsausschreibungen mit Zukunft – Für eine Versorgungssicherheit ohne teuren fossilen Lock-In",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6369&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6360",
+      "title": "Energieversorgung sichern – Bezahlbar, erneuerbar und dezentral",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6360&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Ausschuss für Wirtschaft und Energie hat eine öffentliche Anhörung zu dem Gesetzentwurf der Bundesregierung zur Sicherung der Versorgungssicherheit Strom und zu den Anträgen der Fraktionen Bündnis 90/Die Grünen und Die Linke durchgeführt. Die Vorlagen wurden zur weiteren Beratung an die Ausschüsse überwiesen, wobei der Ausschuss für Wirtschaft und Energie federführend ist.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

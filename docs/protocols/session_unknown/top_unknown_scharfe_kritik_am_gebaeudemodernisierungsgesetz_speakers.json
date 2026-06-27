@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Anhörung zum Gebäudemodernisierungsgesetz hat bei den Sachverständigen eine Mischung aus Zustimmung zu bestimmten Aspekten und scharfer Kritik an anderen ausgelöst. Vertreter von Mieter- und Eigentümerverbänden sowie der Heizungsindustrie und der Kommunen begrüßten zwar grundsätzlich die angestrebte Technologieoffenheit, äußerten jedoch erhebliche Bedenken hinsichtlich der praktischen Umsetzbarkeit, der finanziellen Belastungen für Mieter und Eigentümer sowie der fehlenden Planungssicherheit. Insbesondere die sogenannte 'Bio-Treppe' und die Regelungen zur Kostenaufteilung wurden von verschiedenen Seiten als problematisch und unzureichend kritisiert, was neue Unsicherheiten schaffe und die Erreichung der Klimaziele gefährde. Auch der Deutsche Gewerkschaftsbund sieht den Entwurf als konzeptlos an und warnt vor negativen Auswirkungen auf Arbeitsplätze und Investitionen.",
+  "sources": [
+    {
+      "name": "Florian Becker",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Florian Becker vom Deutschen Mieterbund warnt vor erheblichen finanziellen Risiken für Mieter durch das geplante Gesetz, insbesondere durch die Biogas-Beimischung und die 50/50-Kostenaufteilung, die in sehr ineffizienten Gebäuden zu Mehrbelastungen führen könne. Er fordert die Einführung eines technologieneutralen Heizkostendeckels und eine vollständige Übernahme des CO2-Preises durch Vermieter, da diese die Investitionsentscheidungen träfen. Zudem kritisiert er, dass Mieter ab 2040 durch die Begrenzung der 50/50-Aufteilung auf 30% Biogas allein mit hohen Kostenrisiken gelassen würden.",
+      "source_title": "Scharfe Kritik am Gebäudemodernisierungsgesetz / Neues Heizungsgesetz: Mieterbund warnt vor steigenden Kosten",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-gmg-1184762",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Kai Warnecke",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Dr. Kai Warnecke, Präsident von Haus & Grund Deutschland, begrüßt die Abschaffung des bisherigen Heizungsgesetzes und die Stärkung der Technologieoffenheit. Er kritisiert jedoch die 'Bio-Treppe' wegen neuer Nachweis- und Aufbewahrungspflichten sowie mietrechtlicher Sonderregelungen, die zu Rechtsunsicherheiten führen. Er lehnt die 50/50-Kostenaufteilung des CO2-Preises zwischen Mietern und Vermietern ab, da Vermieter keinen Einfluss auf den Verbrauch hätten, und fordert stattdessen eine konsequente CO2-Bepreisung mit Klimageld.",
+      "source_title": "Gebäudemodernisierungsgesetz: Sachverständige kritisieren GModG / Gebäudemodernisierungsgesetz bleibt hinter den Erwartungen zurück / Stellungnahme Dr. Kai H. Warnecke, Haus & Grund",
+      "url": "https://background.tagesspiegel.de/energie-und-klima/briefing/sachverstaendige-kritisieren-gmodg",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Hilbert",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Michael Hilbert vom ZVSHK berichtet von großer Unsicherheit bei Eigentümern und im Handwerk bezüglich der Heizungsmodernisierung und fordert, den Gesetzentwurf deutlich einfacher und praxistauglicher zu gestalten. Er begrüßt die Technologieoffenheit als wichtigen Schritt zur Akzeptanz und Investitionsbereitschaft. Hilbert plädiert für verlässliche Förderung und steuerliche Anreize statt weiterer Regulierungen und betont die Notwendigkeit, Hybridheizungen sowie Biomasse und grüne Gase als Ergänzung zu Wärmepumpen gleich zu behandeln.",
+      "source_title": "Scharfe Kritik am Gebäudemodernisierungsgesetz / Gebäudemodernisierungsgesetz: Sachverständige kritisieren GModG / Sachverständige verreißen neues Heizungsgesetz",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-gmg-1184762",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Eva Bode",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Dr. Eva Bode vom Deutschen Städte- und Gemeindebund betont die Notwendigkeit von Verlässlichkeit und Planungssicherheit für Kommunen bei der Wärmeplanung. Sie kritisiert, dass der Gesetzentwurf die kommunale Wärmeplanung in ihrer Steuerungswirkung schwächt, indem er Paragraphen des GEG streicht, und dadurch Investitionen in Wärmenetze erschwert. Frau Bode fordert klare Regelungen zur Vermeidung von Doppelstrukturen und realistische Lösungen für den ländlichen Raum, da Kommunen durch Renovierungsanforderungen finanziell und organisatorisch stark belastet seien.",
+      "source_title": "Scharfe Kritik am Gebäudemodernisierungsgesetz / Gebäudemodernisierungsgesetz: Sachverständige kritisieren GModG / Massive Kritik am Gebäudemodernisierungsgesetz",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-gmg-1184762",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frederik Moch",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Frederik Moch vom Deutschen Gewerkschaftsbund (DGB) sieht im Gesetzentwurf neue Unsicherheiten statt vereinfachter Regulierung und bewertet ihn als 'konzeptlos' und als 'Bärendienst' für einen sozialverträglichen Umbau der Wärmeversorgung. Er kritisiert die 'Bio-Treppe' als klimapolitisch fragwürdig, da grüne Moleküle dringender in anderen Sektoren benötigt würden. Moch warnt vor reduzierter Planungssicherheit, negativen Auswirkungen auf die heimische Heizungsindustrie und Arbeitsplätze, und fordert eine verlässlich finanzierte, sozial gestaffelte Förderung.",
+      "source_title": "Scharfe Kritik am Gebäudemodernisierungsgesetz / Anhörung zum Gebäudemodernisierungsgesetz: Sachverständige üben massive Kritik / Gebäudewende: Mehr Verlässlichkeit statt Lobbypolitik!",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-gmg-1184762",
+      "platform": "Presse"
+    }
+  ]
+}

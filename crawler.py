@@ -27,7 +27,12 @@ def get_gemini_client():
         return None
     try:
         from google import genai
-        return genai.Client(api_key=api_key)
+        from google.genai import types
+        # Set a timeout of 120 seconds (120,000 milliseconds) for all API requests
+        return genai.Client(
+            api_key=api_key,
+            http_options=types.HttpOptions(timeout=120_000)
+        )
     except Exception as e:
         print(f"Fehler beim Laden des Google GenAI SDKs: {e}")
         return None

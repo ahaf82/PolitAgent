@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6128",
+      "title": "Entwurf eines Zweiten Gesetzes zur Änderung des Bundesbedarfsplangesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6128&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte war eine öffentliche Anhörung im Ausschuss für Wirtschaft und Energie zum Gesetzentwurf der Bundesregierung für eine zweite Änderung des Bundesbedarfsplangesetzes. Sachverständige diskutierten die Vor- und Nachteile des Vorrangs von Freileitungen gegenüber Erdkabeln beim Stromnetzausbau, unter Berücksichtigung von Kosten, Baugeschwindigkeit, betrieblicher Robustheit, Resilienz und öffentlicher Akzeptanz. Der Gesetzentwurf befindet sich noch in der Ausschussberatung.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}
