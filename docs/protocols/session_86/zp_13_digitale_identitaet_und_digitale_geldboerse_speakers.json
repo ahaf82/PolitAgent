@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Thema 'Digitale Identität und digitale Geldbörse' spiegeln die im Plenum geäußerten Positionen wider. Tobias Ebenberger (AfD) betont in mehreren Pressemitteilungen der AfD-Fraktion die Warnung vor einer potenziellen Zwangsnutzung und Überwachung durch die EUDI-Wallet und fordert ein 'Grundrecht auf analoges Leben' sowie eine nationale Lösung. Dr. Markus Reichel (CDU/CSU) hebt in seinen Beiträgen die Vorteile der Digitalisierung und die Freiwilligkeit der digitalen Identität hervor, auch wenn direkte externe Stellungnahmen zur 'digitalen Geldbörse' spezifisch rar sind, so setzt er sich doch allgemein für digitale Identitäten ein. Rebecca Lenhard (Bündnis 90/Die Grünen) äußerte sich extern nicht primär zur technischen Umsetzung, sondern fokussiert auf die Kritik an der AfD und die Notwendigkeit, der Digitalisierung im Sinne des Gemeinwohls zu begegnen. Paser Marvi (SPD) und Sonja Lempke (Die Linke) haben sich ebenfalls in der Fraktionspresse oder Bundestagsdokumenten zu dem Thema geäußert, wobei Lempke auf die technischen Mängel und die Forderung nach Unabhängigkeit hinweist, und Marvis Beitrag hauptsächlich im Plenum zu Protokoll gegeben wurde, ohne spezifische externe, über das Protokoll hinausgehende Stellungnahmen in den Suchergebnissen gefunden zu haben.",
+  "sources": [
+    {
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "found": false,
+      "statement": "Tobias Ebenberger warnt davor, dass die digitale Identität und Brieftasche analoge Alternativen verdrängen und zur Kontrolle der Bürger eingesetzt werden könnten. Er fordert ein Grundrecht auf analoges Leben und kritisiert die von der SPD geforderten Altersverifikationen mittels EUDI-Wallet als Mittel, um die Nutzung der Wallet aufzunötigen. Er setzt sich für eine schlanke, kostengünstige nationale Lösung anstelle der EU-Wallet ein, die wirklich freiwillig bleibt.",
+      "source_title": "Digitalminister garantiert nicht, dass digitale Identität kein Zwang wird / Social-Media-Verbot soll dem Absatz der digitalen Identität dienen / Wildbergers Digital-Vision darf keine Überwachungs-Dystopie werden",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Markus Reichel",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Markus Reichel sieht die 'Sichere und nutzerfreundliche digitale Identitäten und moderne Register' als Projekt mit Hebelwirkung der Digitalstrategie der Bundesregierung. Er fragt die Bundesregierung nach dem Umsetzungsstand dieses Projekts. Er nahm an einem Zukunftskongress Staat & Verwaltung teil, der sich mit der Modernisierung von Staat und Verwaltung in Deutschland befasst, was sein Engagement für digitale Identitäten untermauert.",
+      "source_title": "Homepage / Deutscher Bundestag: Drucksache 20/1500 (Frage zu Digitalstrategie) / Zukunftskongress Staat & Verwaltung",
+      "url": "https://dserver.bundestag.de/btd/20/111/2011198.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Rebecca Lenhard betont, dass Digitalisierung eine Gegenwartsaufgabe und eine Standortfrage sei. Die Digitalisierung dürfe kein Risiko für soziale Spaltung werden und müsse dem Gemeinwohl dienen. Ihre externe Kommunikation zum Thema 'Digitale Identität und digitale Geldbörse' konzentriert sich auf die allgemeine Ausrichtung der Digitalpolitik und die Kritik an der AfD, weniger auf spezifische technische Details der Wallet.",
+      "source_title": "Digitalminister Wildberger warnt vor zu hohen Erwartungen - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw20-de-digitales-1065006",
+      "platform": "Presse"
+    },
+    {
+      "name": "Paser Marvi",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sonja Lempke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lempke kritisiert in einer Antwort der Bundesregierung zu einer Kleinen Anfrage, dass digitale Identitäten grundsätzlich als geeignetes Instrument zur Altersverifikation bei Online-Diensten gesehen werden, aber technisch praktikabel, datensparsam und breit verfügbar sein müssen. Die EU-Wallet sollte durch unabhängige Entwicklungen und hohe Standards gestärkt werden, um die Einhaltung europäischer Standards zu gewährleisten und Lobbyinteressen zu vermeiden.",
+      "source_title": "Deutscher Bundestag Drucksache 20/5249 / Deutscher Bundestag Drucksache 20/1164",
+      "url": "https://dserver.bundestag.de/btd/21/011/2101164.pdf",
+      "platform": "Website"
+    }
+  ]
+}

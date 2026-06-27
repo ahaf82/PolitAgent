@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zum antragslosen Kindergeld zeigen unterschiedliche Schwerpunkte. Während die SPD die Einführung grundsätzlich als Bürokratieabbau und Familienentlastung begrüßt, konnte keine spezifische externe Stellungnahme eines Abgeordneten namens Wirtz gefunden werden. Kay Gottschalk von der AfD kritisiert das aktuelle Kindergeldsystem vehement und fordert eine konsequente Indexierung der Kindergeldzahlungen für im Ausland lebende Kinder, um soziale Ungerechtigkeit zu vermeiden. Für den CDU/CSU-Abgeordneten Krieger konnten ebenfalls keine spezifischen externen Aussagen zum Thema jenseits der allgemeinen Fraktionsposition identifiziert werden.",
+  "sources": [
+    {
+      "name": "Lukas Krieger",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kay Gottschalk fordert eine konsequente Bindung des Kindergeldes an den tatsächlichen Aufenthaltsort der Kinder, um den Sozialstaat zu stabilisieren und die Interessen der Steuerzahler in den Mittelpunkt zu stellen. Er kritisiert das derzeitige System als 'schreiend ungerecht', da Kindergeld in voller Höhe in Länder mit deutlich niedrigeren Lebenshaltungskosten fließt und argumentiert für eine Indexierung der Zahlungen für Kinder im Ausland.",
+      "source_title": "Kay Gottschalk: Innenminister prüfen härtere Regeln bei Bürgergeld und Kindergeld",
+      "url": "https://www.afd.de/kay-gottschalk-innenminister-pruefen-haertere-regeln-bei-buergergeld-und-kindergeld/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Wirtz",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

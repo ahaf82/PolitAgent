@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6588",
+      "title": "Gesetzentwurf der Bundesregierung zur Modernisierung des Städtebau- und Raumordnungsrechts",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6588&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6643",
+      "title": "Antrag der Fraktion Die Linke: Stadt gemeinsam gestalten und demokratische Beteiligung stärken – Kooperative Stadtentwicklung in das Baugesetzbuch aufnehmen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6643&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Nach der ersten Beratung des Gesetzentwurfs der Bundesregierung zur Modernisierung des Städtebau- und Raumordnungsrechts (Drucksache 21/6588) und des Antrags der Fraktion Die Linke zum Thema 'Stadt gemeinsam gestalten und demokratische Beteiligung stärken – Kooperative Stadtentwicklung in das Baugesetzbuch aufnehmen' (Drucksache 21/6643) wurden beide Vorlagen zur weiteren Beratung an die Ausschüsse, federführend an den Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen, überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

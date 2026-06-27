@@ -1,0 +1,32 @@
+{
+  "synthesis": "Außerhalb der Bundestagsdebatte zeigen die identifizierten Abgeordneten unterschiedliche Schwerpunkte im Diskurs um Einwanderung und Sozialsysteme. Während für die AfD-Vertreterin keine spezifischen externen Stellungnahmen zu diesem Thema über ihren Plenarbeitrag hinaus gefunden wurden, betont der CDU/CSU-Abgeordnete die Notwendigkeit einer Reform der Sozialsystemfinanzierung zur Entlastung von Beitragszahlenden. Der Abgeordnete von Bündnis 90/Die Grünen positioniert sich entschieden gegen Kürzungen des Bürgergeldes und die Einführung einer Bezahlkarte, plädiert für eine solidarische Sozialpolitik und kritisiert einen vermeintlichen \"Sanktionsfetischismus\".",
+  "sources": [
+    {
+      "name": "Gerit Rui",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kai Witter",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Kai Whittaker (CDU-Bundestagsabgeordneter, laut Quelle) äußerte sich zur Finanzierung der Sozialversicherungen. Er betonte, dass der \"Teich vergrößert werden\" müsse, aus dem geschöpft werde, um die Beitragslast für viele zu senken und insbesondere Menschen mit kleinen und mittleren Einkommen zu entlasten.",
+      "source_title": "Finanzierung der Sozialversicherungen: Zwei CDU-Systemsprenger wollen den Sozialstaat umbauen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Timon Genus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Timon Dzienus (MdB, Bündnis 90/Die Grünen, laut Quellen) positioniert sich klar gegen Kürzungen beim Bürgergeld und lehnt eine \"rassistische Bezahlkarte\" ab, die in Hannover nicht umgesetzt werden soll. Er äußerte zudem Kritik am \"Sanktionsfetischismus\" in der Sozialpolitik und fordert eine Politik für echte Umverteilung und bezahlbare Mieten.",
+      "source_title": "Timon Dzienus – dein Direktkandidat für den Wahlkreis 41 (Hannover-Stadt I) / Grünen-Politiker Dzienus: \"Erleben einen regelrechten Sanktionsfetischismus\"",
+      "url": "https://web.de/magazine/politik/inland/gruenen-politiker-dzienus-erleben-regelrechten-sanktionsfetischismus-41465978",
+      "platform": "Website / Presse"
+    }
+  ]
+}

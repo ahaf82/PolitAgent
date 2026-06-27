@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4146",
+      "title": "Entwurf eines Gesetzes zur Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4146&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4961",
+      "title": "Unterrichtung: Entwurf eines Gesetzes zur Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften - Drucksache 21/4146 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4961&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/6692",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Gesetzentwurf der Bundesregierung - Drucksachen 21/4146, 21/4961 - Entwurf eines Gesetzes zur Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6692&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4266",
+      "title": "Entwurf eines Gesetzes zum Entzug des Klagerechts für staatsfinanzierte Nichtregierungsorganisationen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4266&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6696",
+      "title": "Entschließungsantrag der Abgeordneten Dr. Jan-Niclas Gesenhues, Lukas Benner, Lisa Badum, Harald Ebner, Julia Schneider, Dr. Armin Grau, Swantje Henrike Michaelsen, Katrin Uhlig und der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der dritten Beratung des Gesetzentwurfs der Bundesregierung – Drucksachen 21/4146, 21/4961, 21/6692 – Entwurf eines Gesetzes zur Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6696&rows=25",
+      "type": "Entschließungsantrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag hat den Gesetzentwurf der Bundesregierung zur Änderung des Umwelt-Rechtsbehelfsgesetzes in der vom Umweltausschuss geänderten Fassung angenommen. Ein Gesetzentwurf der AfD zum Entzug des Klagerechts für staatsfinanzierte Nichtregierungsorganisationen sowie ein Entschließungsantrag von Bündnis 90/Die Grünen wurden abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5923",
+      "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1799 zur Förderung der Reparatur von Waren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5923&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6693",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) zu dem Gesetzentwurf der Bundesregierung – Drucksache 21/5923 – Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1799 zur Förderung der Reparatur von Waren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6693&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6710",
+      "title": "Änderungsantrag: zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung - Drucksachen 21/5923, 21/6693 - Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1799 zur Förderung der Reparatur von Waren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6710&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6711",
+      "title": "Entschließungsantrag: zu der dritten Beratung des Gesetzentwurfs der Bundesregierung - Drucksachen 21/5923, 21/6693 - Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1799 zur Förderung der Reparatur von Waren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6711&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung zur Umsetzung der EU-Richtlinie zur Förderung der Reparatur von Waren in der Ausschussfassung (Drucksache 21/5923 / Beschlussempfehlung 21/6693) wurde in zweiter und dritter Beratung angenommen. Ebenfalls angenommen wurde die Beschlussempfehlung des Ausschusses zu einer Entschließung (Drucksache 21/6693 B). Die Änderungs- und Entschließungsanträge der Fraktion Bündnis 90/Die Grünen (Drucksachen 21/6710 und 21/6711) wurden abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

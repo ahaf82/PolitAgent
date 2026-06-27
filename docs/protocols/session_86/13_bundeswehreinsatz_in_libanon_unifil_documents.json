@@ -1,0 +1,77 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5778",
+      "title": "Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5778&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6417",
+      "title": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der \"United Nations Interim Force in Lebanon\" (UNIFIL)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6417&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6418",
+      "title": "Bericht des Haushaltsausschusses gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6418&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag hat der letztmaligen Verlängerung des Bundeswehreinsatzes im Rahmen der UNIFIL-Mission im Libanon zugestimmt, um einen geordneten Abzug bis Mitte 2027 zu ermöglichen. Der operative Einsatz endet am 31. Dezember 2026, gefolgt von einer Abwicklungsphase bis zum 30. Juni 2027 mit reduziertem Personal.",
+    "official_voting_url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=960",
+    "overall_result": {
+      "ja": 511,
+      "nein": 67,
+      "enthaltung": 4,
+      "nicht_abgegeben": 48
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 202,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 6
+      },
+      {
+        "faction": "AfD",
+        "ja": 117,
+        "nein": 7,
+        "enthaltung": 3,
+        "nicht_abgegeben": 23
+      },
+      {
+        "faction": "SPD",
+        "ja": 112,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 8
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 78,
+        "nein": 0,
+        "enthaltung": 1,
+        "nicht_abgegeben": 6
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 60,
+        "enthaltung": 0,
+        "nicht_abgegeben": 4
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 2,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

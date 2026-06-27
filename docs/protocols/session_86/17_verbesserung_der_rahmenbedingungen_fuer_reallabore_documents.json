@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/218",
+      "title": "Entwurf eines Gesetzes zur Verbesserung der Rahmenbedingungen für die Erprobung von Innovationen in Reallaboren und zur Förderung des regulatorischen Lernens",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F218&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/517",
+      "title": "Entwurf eines Gesetzes zur Verbesserung der Rahmenbedingungen für die Erprobung von Innovationen in Reallaboren und zur Förderung des regulatorischen Lernens",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F517&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6698",
+      "title": "Bericht des Ausschusses für Digitales und Staatsmodernisierung zur geänderten Fassung des Gesetzentwurfs (Reallabore-Gesetz – ReallaboreG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6698&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6699",
+      "title": "Änderungsantrag der Fraktion der AfD zum Gesetzentwurf zur Verbesserung der Rahmenbedingungen für die Erprobung von Innovationen in Reallaboren und zur Förderung des regulatorischen Lernens",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6699&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6700",
+      "title": "Entschließungsantrag der Fraktion Bündnis 90/Die Grünen zur zweiten und dritten Beratung des Gesetzentwurfs zur Verbesserung der Rahmenbedingungen für die Erprobung von Innovationen in Reallaboren und zur Förderung des regulatorischen Lernens",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6700&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag hat den Gesetzentwurf der Koalitionsfraktionen CDU/CSU und SPD zur Verbesserung der Rahmenbedingungen für Reallabore in der vom Ausschuss geänderten Fassung angenommen. Der gleichlautende Entwurf der Bundesregierung wurde für erledigt erklärt. Ein Änderungsantrag der AfD und ein Entschließungsantrag von Bündnis 90/Die Grünen wurden abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

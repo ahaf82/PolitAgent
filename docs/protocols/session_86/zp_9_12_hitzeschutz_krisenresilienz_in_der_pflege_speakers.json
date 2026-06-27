@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Abgeordneten der Grünen, Johannes Wagner und Julia Schneider, haben sich außerhalb des Bundestags konsistent für einen umfassenden, staatlich finanzierten Hitzeschutz, insbesondere in Pflegeeinrichtungen und Kommunen, eingesetzt und die unzureichenden Maßnahmen der Bundesregierung kritisiert. Cem Ince von Die Linke forderte in einer Pressemitteilung bezahltes 'Hitzefrei' und 'Klima-Kurzarbeitergeld' zum Schutz der Beschäftigten vor den Auswirkungen extremer Hitze am Arbeitsplatz. Für die Abgeordneten der CDU/CSU und AfD konnten keine spezifischen externen Stellungnahmen zum Thema Hitzeschutz und Krisenresilienz in der Pflege gefunden werden, die über ihre Beiträge in der Bundestagsdebatte hinausgehen.",
+  "sources": [
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Johannes Wagner hat gemeinsam mit Julia Schneider ein Positionspapier und Pressemitteilungen veröffentlicht, in denen sie einen besseren Hitzeschutz fordern, mehr Geld für Kommunen und Pflege sowie einen umfassenden, ressortübergreifenden Hitzeschutzplan. Er betont, dass Klimaschutz Gesundheitsschutz ist und kritisiert, dass vulnerable Gruppen im Stich gelassen werden.",
+      "source_title": "Grüne fordern besseren Hitzeschutz: Mehr Geld für Kommunen und Pflege | taz.de",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sascha von Be",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Alexis Schorsch",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jem Insche",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Cem Ince (wahrscheinlich 'Jem Insche' aus dem Protokoll) forderte in einer Pressemitteilung der Linksfraktion bezahltes Hitzefrei für Beschäftigte und die Umsetzung von Hitzeschutzstrategien in allen Betrieben, da Hitzeperioden ein zunehmendes Gesundheitsrisiko darstellen.",
+      "source_title": "Hitzefrei für Beschäftigte - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/presse/pressemitteilungen/detail/hitzefrei-fuer-beschaeftigte/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Thomas Stefan",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Julia Schneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Julia Schneider kritisiert wiederholt die Bundesregierung für das Versäumnis beim Hitzeschutz, insbesondere das Streichen von Förderungen für Klimaanpassungsmaßnahmen in sozialen Einrichtungen. Sie fordert, fünf Milliarden Euro aus dem Sondervermögen für Klimaanpassung in Kommunen zu mobilisieren, um Kitas und Pflegeheime hitzeresilient zu machen.",
+      "source_title": "Bundesregierung lässt Ältere und Kinder in der Hitze schmoren - Julia Schneider MdB",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

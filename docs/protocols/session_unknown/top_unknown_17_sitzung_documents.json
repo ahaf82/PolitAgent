@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4081",
+      "title": "Entwurf eines Gesetzes zur besseren Verhinderung missbräuchlicher Anerkennungen der Vaterschaft",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4081&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Prüfbitte der Fraktion Die Linke zu einem Gesetzentwurf zur besseren Verhinderung missbräuchlicher Anerkennungen der Vaterschaft wurde abgelehnt. Die Linke stimmte für die Prüfbitte, die Koalitionsfraktionen (SPD, FDP) und die AfD stimmten dagegen, und Bündnis 90/Die Grünen enthielt sich.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6343",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6343&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6342",
+      "title": "Antrag der Abgeordneten Julia Schneider, Sylvia Rietenberg, Johannes Wagner, Katrin Uhlig, Lisa Paus, Claudia Müller, Dr. Armin Grau, Leon Eckert, Dr. Julia Verlinden, Lisa Badum, Harald Ebner, Dr. Jan-Niclas Gesenhues, Dr. Ophelia Nick und der Fraktion BÜNDNIS 90/DIE GRÜNEN. Städte klimafit machen – Mit Begrünung und Entsiegelung die Menschen vor Ort vor Hitze und Überschwemmung schützen.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6342&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6344",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6344&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6464",
+      "title": "Antrag der Abgeordneten Cem Ince, Janine Wissler, Marcel Bauer, weiterer Abgeordneter und der Fraktion Die Linke. Hitzefrei für Beschäftigte – Sonnen- und Hitzeschutz am Arbeitsplatz ernst nehmen.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6464&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Vorlagen auf den Drucksachen 21/6343, 21/6342, 21/6344 und 21/6464 werden zur weiteren Bearbeitung an die in der Tagesordnung aufgeführten Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

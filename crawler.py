@@ -451,7 +451,7 @@ Hier ist das Transkript der Sitzung mit Zeitstempeln:
             if "exceeded your current quota" in err_msg.lower() or "quota exceeded" in err_msg.lower():
                 print("Tägliches API-Quota überschritten. Breche Zusammenfassung ab.")
                 raise DailyQuotaExceeded(err_msg)
-            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
+            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg or "504" in err_msg or "DEADLINE_EXCEEDED" in err_msg
             if is_transient:
                 if attempt < max_retries:
                     print(f"Temporärer Gemini API Fehler ({err_msg}). Versuche es in {retry_delay} Sekunden erneut (Versuch {attempt}/{max_retries})...")
@@ -642,7 +642,7 @@ def generate_session_documents(client, title, date, session, top, transcript_tex
             if "exceeded your current quota" in err_msg.lower() or "quota exceeded" in err_msg.lower():
                 print("Tägliches API-Quota überschritten. Breche Dokumenten-Analyse ab.")
                 raise DailyQuotaExceeded(err_msg)
-            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
+            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg or "504" in err_msg or "DEADLINE_EXCEEDED" in err_msg
             if is_transient:
                 if attempt < max_retries:
                     print(f"Temporärer Gemini API Fehler ({err_msg}). Versuche es in {retry_delay} Sekunden erneut (Versuch {attempt}/{max_retries})...")
@@ -894,7 +894,7 @@ def generate_speaker_statements(client, title, date, video_url, transcript_text)
             if "exceeded your current quota" in err_msg.lower() or "quota exceeded" in err_msg.lower():
                 print("Tägliches API-Quota überschritten. Breche Abgeordneten-Analyse ab.")
                 raise DailyQuotaExceeded(err_msg)
-            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg
+            is_transient = "429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "503" in err_msg or "UNAVAILABLE" in err_msg or "experiencing high demand" in err_msg or "504" in err_msg or "DEADLINE_EXCEEDED" in err_msg
             if is_transient:
                 if attempt < max_retries:
                     print(f"Temporärer Gemini API Fehler ({err_msg}). Versuche es in {retry_delay} Sekunden erneut (Versuch {attempt}/{max_retries})...")
