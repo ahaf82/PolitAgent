@@ -5,10 +5,14 @@ import sys
 import argparse
 import requests
 import time
+import socket
 from datetime import datetime
 from dotenv import load_dotenv
 from youtube_transcript_api import YouTubeTranscriptApi
 import yt_dlp
+
+# Set a global socket timeout of 15 seconds to prevent standard API requests from hanging indefinitely
+socket.setdefaulttimeout(15)
 
 class DailyQuotaExceeded(Exception):
     pass
