@@ -1,0 +1,65 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/3448",
+      "title": "Entwurf eines Gesetzes zur finanziellen Stabilisierung der gesetzlichen Krankenversicherung (GKV-Finanzstabilisierungsgesetz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F3448&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 20/3484",
+      "title": "Kassendefizite solidarisch überwinden - Erhöhung der Beitragssätze durch die Krankenkassen verhindern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F3484&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/3485",
+      "title": "Mehrwertsteuer auf Arzneimittel absenken - Anhebung der Zusatzbeiträge für gesetzlich Krankenversicherte verhindern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F3485&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/2375",
+      "title": "Soforthilfeprogramm für Krankenhäuser zur Abfederung unvorhersehbarer inflationsbedingter Kostensteigerungen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F2375&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/2360",
+      "title": "Abschaffung der Budgetierung für Ärzte",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F2360&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/3532",
+      "title": "Bevorzugung von Importarzneimitteln beenden, Arzneimittelsicherheit verbessern",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F3532&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/3533",
+      "title": "Lieferengpässe bei Arzneimitteln wirksam begrenzen, Abhängigkeit der Arzneimittelversorgung vom Nicht-EU-Ausland abbauen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F3533&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/3536",
+      "title": "Abschaffung des DRG-Systems im Krankenhaus und Einführung des Prospektiv-Regionalen-Pauschalensystems",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F3536&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/3537",
+      "title": "AMNOG-Verfahren der Nutzenbewertung und Preisfindung auch auf Medizinalcannabis anwenden und damit gleichzeitig die Anwendungssicherheit verbessern und die Krankenkassen entlasten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F3537&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte war eine öffentliche Anhörung im Gesundheitsausschuss, die sich mit dem Gesetzentwurf zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung (GKV-Beitragsstabilisierungsgesetz) sowie mehreren Oppositionsanträgen befasste. Experten und Vertreter von Verbänden äußerten dabei weitreichende Kritik an den geplanten Maßnahmen der Bundesregierung.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}
