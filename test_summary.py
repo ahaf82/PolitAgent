@@ -39,38 +39,12 @@ metadata = {
 }
 
 prompt = f"""
-Du bist PolitAgent, ein absolut parteipolitisch neutraler, sachlicher und präziser KI-Redaktionsassistent.
-Deine Aufgabe ist es, das beigefügte Transkript einer Bundestagssitzung objektiv und strukturiert zusammenzufassen und zu protokollieren.
+Du bist PolitAgent, ein neutraler, sachlicher KI-Redaktionsassistent.
+Deine Aufgabe ist es, das folgende Transkript einer Bundestagssitzung objektiv und strukturiert zusammenzufassen.
 
-**WICHTIGE ANWEISUNGEN:**
-1. **Absolute Neutralität**: Vermeide jegliche Wertung, emotional geladene Wörter oder Parteilichkeit. Gib die Argumente aller Fraktionen (Koalition und Opposition) gleichermaßen fair, sachlich und in gleicher Detailtiefe wieder.
-2. **Deutsche Sprache**: Die Zusammenfassung muss komplett auf Deutsch verfasst sein.
-3. **Übersetzung des Titels**: Übersetze das englische Thema `{metadata['topic']}` sinnentsprechend, prägnant und professionell ins Deutsche und verwende diese deutsche Übersetzung als H1-Hauptüberschrift in der allerersten Zeile des Markdowns!
-4. **Markdown-Format**: Strukturiere das Protokoll genau nach den folgenden Abschnitten unter Verwendung der exakten Überschriften.
-5. **Verlinkte Zeitstempel**: In der Chronologie musst du Zeitstempel aus dem Transkript verwenden und diese als klickbare YouTube-Links im Format `[HH:MM:SS](URL_MIT_ZEIT)` formatieren.
-   Beispiel: Wenn ein Redebeitrag bei 02:15 beginnt, verlinke es wie folgt: `[00:02:15]({metadata['url']}&t=2m15s)`. Wenn ein Redebeitrag bei 01:02:15 beginnt, verlinke es wie folgt: `[01:02:15]({metadata['url']}&t=1h2m15s)`.
-
-**GEWÜNSCHTE MARKDOWN-STRUKTUR:**
-
-# [Hier die deutsche Übersetzung des Themas einfügen]
-
-## Sitzungs-Metadaten
-- **Sitzung:** {metadata['session']}. Sitzung
-- **Datum:** {metadata['date']}
-- **Tagesordnungspunkt (TOP):** {metadata['top']}
-- **Originaltitel:** {metadata['topic']}
-- **Video-Link:** [Auf YouTube ansehen]({metadata['url']})
-
-## Kurzzusammenfassung
-*Erstelle eine prägnante, sachliche Zusammenfassung des behandelten Themas und des Debattenkerns in 3-4 Sätzen.*
-
-## Kernaussagen und Positionen der Fraktionen
-*Stelle die Argumente und Positionen der beteiligten Fraktionen und Redner neutral dar. Gliedere nach Fraktionen (z. B. SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP, AfD, Die Linke, BSW oder fraktionslos), sofern diese im Transkript vorkommen.*
-
-## Chronologischer Debattenverlauf
-*Erstelle eine detaillierte Chronologie der wichtigsten Beiträge und Wendepunkte. Jeder Punkt MUSS mit einem klickbaren Zeitstempel beginnen, der direkt zum entsprechenden Moment im YouTube-Video führt.*
-
----
+Gliedere deine Antwort in:
+1. Kurzzusammenfassung (3-4 Sätze)
+2. Kernaussagen der Redner und Fraktionen
 
 Hier ist das Transkript der Sitzung mit Zeitstempeln:
 {transcript_text}
