@@ -32,10 +32,10 @@ def get_gemini_client():
     try:
         from google import genai
         from google.genai import types
-        # Set a timeout of 120 seconds (120,000 milliseconds) for all API requests
+        # Set a timeout of 300 seconds (300,000 milliseconds) for all API requests
         return genai.Client(
             api_key=api_key,
-            http_options=types.HttpOptions(timeout=120_000)
+            http_options=types.HttpOptions(timeout=300_000)
         )
     except Exception as e:
         print(f"Fehler beim Laden des Google GenAI SDKs: {e}")
@@ -404,8 +404,8 @@ Deine Aufgabe ist es, das beigefügte Transkript einer Bundestagssitzung objekti
 2. **Deutsche Sprache**: Die Zusammenfassung muss komplett auf Deutsch verfasst sein.
 3. **Übersetzung des Titels**: Übersetze das englische Thema `{metadata['topic']}` sinnentsprechend, prägnant und professionell ins Deutsche und verwende diese deutsche Übersetzung als H1-Hauptüberschrift in der allerersten Zeile des Markdowns!
 4. **Markdown-Format**: Strukturiere das Protokoll genau nach den folgenden Abschnitten unter Verwendung der exakten Überschriften.
-5. **Verlinkte Zeitstempel**: In der Chronologie musst du Zeitstempel aus dem Transkript verwenden und diese als klickbare YouTube-Links im Format `[HH:MM:SS](URL_MIT_SEKUNDEN)` formatieren.
-   Beispiel: Wenn ein Redebeitrag bei 02:15 beginnt, berechne die Sekunden (2*60 + 15 = 135) und verlinke es wie folgt: `[00:02:15]({video_url}&t=135)`.
+5. **Verlinkte Zeitstempel**: In der Chronologie musst du Zeitstempel aus dem Transkript verwenden und diese als klickbare YouTube-Links im Format `[HH:MM:SS](URL_MIT_ZEIT)` formatieren.
+   Beispiel: Wenn ein Redebeitrag bei 02:15 beginnt, verlinke es wie folgt: `[00:02:15]({video_url}&t=2m15s)`. Wenn ein Redebeitrag bei 01:02:15 beginnt, verlinke es wie folgt: `[01:02:15]({video_url}&t=1h2m15s)`.
 
 **GEWÜNSCHTE MARKDOWN-STRUKTUR:**
 
@@ -431,9 +431,9 @@ Deine Aufgabe ist es, das beigefügte Transkript einer Bundestagssitzung objekti
 
 ## Chronologischer Debattenverlauf
 *Erstelle eine detaillierte Chronologie der wichtigsten Beiträge und Wendepunkte. Jeder Punkt MUSS mit einem klickbaren Zeitstempel beginnen, der direkt zum entsprechenden Moment im YouTube-Video führt.*
-- **[00:00:00]({video_url}&t=0)** - **Sitzungsbeginn / Einleitung**: Kurze Beschreibung, wer die Debatte eröffnet.
-- **[Zeitstempel]({video_url}&t=sekunden)** - **[Rednername] ([Partei])**: Zusammenfassung des Redebeitrags (sachlich, in indirekter Rede).
-- **[Zeitstempel]({video_url}&t=sekunden)** - **Zwischenrufe / Störungen / Abstimmungen**: (Falls im Transkript erkennbar, z.B. Reaktionen im Plenum).
+- **[00:00:00]({video_url}&t=0s)** - **Sitzungsbeginn / Einleitung**: Kurze Beschreibung, wer die Debatte eröffnet.
+- **[Zeitstempel]({video_url}&t=zeitstempel_format)** - **[Rednername] ([Partei])**: Zusammenfassung des Redebeitrags (sachlich, in indirekter Rede).
+- **[Zeitstempel]({video_url}&t=zeitstempel_format)** - **Zwischenrufe / Störungen / Abstimmungen**: (Falls im Transkript erkennbar, z.B. Reaktionen im Plenum).
 
 ---
 
