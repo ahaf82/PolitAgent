@@ -93,12 +93,13 @@ def get_transcript_playwright(video_id):
         return transcript_data
 
 if __name__ == "__main__":
-    video_id = 'CPa1rLMiv64'
+    import sys
+    video_id = sys.argv[1] if len(sys.argv) > 1 else 'CPa1rLMiv64'
     data = get_transcript_playwright(video_id)
     if data:
         print(f"\nErfolgreich extrahiert! Insgesamt {len(data)} Zeilen.")
         print("Erste 5 Zeilen:")
-        for line in data[:5]:
-            print(f"[{line['timestamp']}] {line['text']}")
+        for entry in data[:5]:
+            print(f"[{entry['timestamp']}] {entry['text']}")
     else:
-        print("Fehler beim Abrufen des Transkripts.")
+        print("\nFehler: Transkript konnte nicht geladen werden.")
