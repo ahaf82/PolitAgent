@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb der Bundestagsdebatte zur Modernisierung des Städtebau- und Raumordnungsrechts spiegeln die bereits im Plenum geäußerten Positionen wider und vertiefen diese. Bundesbauministerin Verena Hupertz betont weiterhin die Notwendigkeit schnellerer, digitaler und effizienterer Bauplanung sowie die Stärkung des überragenden öffentlichen Interesses für den Wohnungsbau. Die AfD, vertreten durch Marc Bernhard, kritisiert die Regierungspolitik als Ursache der Wohnungsnot aufgrund staatlich verursachter Baukosten und Massenzuwanderung. Dr. Jan Marco Luck von der CDU/CSU unterstreicht die Bedeutung der Verfahrensbeschleunigung und Bürokratieentlastung zur Kostensenkung. Die Fraktion Bündnis 90/Die Grünen fordert primär den Umbau von Bestand statt Neubau, während Katin Genburg von der Linken eine stärkere Mietregulierung und den Schutz von Natur und Bürgerbeteiligung einfordert.",
+  "sources": [
+    {
+      "name": "Verena Hupertz",
+      "party": "SPD",
+      "found": false,
+      "statement": "Bundesbauministerin Verena Hupertz betont, dass das 'Baugesetzbuch-Upgrade' die Bauplanung schneller, digitaler, flexibler und effizienter gestalten soll. Sie hebt hervor, dass der Wohnungsbau ein 'überragendes öffentliches Interesse' erhält und Kommunen neue Instrumente gegen Schrottimmobilien an die Hand bekommen, um die Schaffung von Wohnraum zu beschleunigen.",
+      "source_title": "Rede der Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen, Verena Hubertz, zur Modernisierung des Städtebau- und Raumordnungsrechts vor dem Deutschen Bundestag am 25. Juni 2026",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mark Bernhard",
+      "party": "AfD",
+      "found": false,
+      "statement": "Mark Bernhard kritisiert die Bundesregierung scharf und sieht deren Politik als Ursache der Wohnungsnot. Er führt die explodierenden Baukosten auf 'Dämmwahn', das Heizungsgesetz und CO2-Steuern zurück und fordert ein Ende des 'Klima- und Dämmwahns' sowie die Eindämmung 'unkontrollierter Massenzuwanderung' als Lösungen.",
+      "source_title": "Baunovelle der Bundesregierung zum Scheitern verurteilt",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Jan Marco Luck",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Jan Marco Luczak (CDU/CSU) unterstreicht die Notwendigkeit, Bauprozesse zu beschleunigen und Bauvorschriften strukturell zu entschlacken, da Zeitersparnis Baukosten senkt. Er fordert, dem Bau von neuen Wohnungen 'im überragenden öffentlichen Interesse' Vorrang einzuräumen und nennt digitale Bauleitverfahren sowie gestraffte Umweltprüfungen als wichtige Maßnahmen.",
+      "source_title": "Grundlegende Novelle Baugesetzbuch beschlossen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kassim Teer Sal",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Die Bundestagsfraktion Bündnis 90/Die Grünen, deren Positionen Kassim Teer Sal im Plenum vertrat, fordert den Umbau leerstehender Büroflächen zu Wohnungen als nachhaltigen und günstigen Weg zur Schaffung bezahlbaren Wohnraums. Sie kritisieren das 'Bauen, Bauen, Bauen'-Mantra der Regierung und setzen sich für eine 'Umbaukultur' mit sozialen und mietpreisgebundenen Auflagen ein.",
+      "source_title": "Leere Büros zu Wohnungen – Günstiger Wohnraum statt Büroleerstand",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katin Genburg",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Katin Genburg lehnt die Fokussierung auf 'Bauen, bauen, bauen' ab und plädiert für Mietregulierung, inklusive eines bundesweiten Mietendeckels, sowie die Reduzierung von Leerstand und Umbau bestehender Immobilien. Sie kritisiert die Schwächung des Natur- und Umweltschutzes sowie der Bürgerbeteiligung durch den Gesetzentwurf und fordert die Stärkung des kommunalen Vorkaufsrechts.",
+      "source_title": "Es benötigt endlich eine zukunftsweisende Stadtentwicklung",
+      "url": "https://www.dielinkebt.de/presse/pressemitteilungen/detail/es-benoetigt-endlich-eine-zukunftsweisende-stadtentwicklung/",
+      "platform": "Presse"
+    }
+  ]
+}

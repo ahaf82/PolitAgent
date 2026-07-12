@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zur EU-Richtlinie zur Förderung der Reparatur von Waren zeigen eine klare Differenzierung zwischen der Regierungskoalition und der Opposition. Während Nadine Heselhaus (SPD) als Berichterstatterin aktiv die Vorteile des neuen „Rechts auf Reparatur“ über Pressemitteilungen der SPD-Fraktion kommuniziert und dabei die Stärkung des Verbraucherschutzes sowie Umweltaspekte hervorhebt, sind konkrete, individuelle externe Stellungnahmen der Oppositionspolitiker Stefan Möller (AfD), Sebastian Steineke (CDU/CSU), Dr. Til Steffen (Bündnis 90/Die Grünen) und Christin Willnard (Die Linke) zum direkten Debattenthema weniger auffindbar. Ihre Positionen außerhalb des Plenums spiegeln hauptsächlich die bekannten Fraktionshaltungen wider, ohne spezifische persönliche Beiträge über die parlamentarische Debatte hinaus.",
+  "sources": [
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Nadine Heselhaus betonte in einer Pressemitteilung der SPD-Fraktion am Tag der Abstimmung, dass Hersteller unabhängigen Reparaturbetrieben künftig Reparaturen nicht mehr erschweren dürfen. Sie stellte zudem klar, dass Preise für Reparatur und Ersatzteile sowie die Reparaturdauer angemessen sein müssen, um Verbraucher nicht abzuschrecken. Als weitere Maßnahmen fordern die Koalitionsfraktionen die Prüfung eines Reparaturbonus, eine Informationskampagne und die Förderung von Fachkräften im Reparatursektor.",
+      "source_title": "Koalition baut Verbraucherschutz weiter aus: Neues Recht auf Reparatur schont Geldbeutel und Umwelt",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/koalition-baut-verbraucherschutz-neues-recht-reparatur-schont-geldbeutel",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Möller",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sebastian Steineke",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Til Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christin Willnard",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

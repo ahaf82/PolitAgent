@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen von Abgeordneten zur strafrechtlichen Verfolgung von Menschenhandel und sexueller Ausbeutung zeigt unterschiedliche Schwerpunkte jenseits der Plenardebatte. Während Abgeordnete der CDU/CSU und Bündnis 90/Die Grünen ihre bereits in der Debatte vertretenen Positionen in Pressemitteilungen und auf lokalen Nachrichtenportalen bekräftigten, konnten für Abgeordnete der SPD, AfD und Die Linke keine direkten externen Stellungnahmen zu diesem spezifischen Thema identifiziert werden, die über ihre parlamentarischen Äußerungen hinausgehen. Die gefundenen Beiträge betonen insbesondere den Opferschutz und die Forderung nach einem Sexkaufverbot nach dem Nordischen Modell, wobei auch die Rolle von restriktiver Grenzpolitik im Kontext von Menschenhandel thematisiert wird.",
+  "sources": [
+    {
+      "name": "Anette Kramme",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Susanne Hierl bekräftigt die Forderung nach einem Sexkaufverbot nach dem 'Nordischen Modell', um menschenunwürdige Zustände in der Prostitution zu beenden und Menschenhandel wirksamer zu bekämpfen. Sie argumentiert, dass das bisherige Prostituiertenschutzgesetz gescheitert sei und dass der Staat Frauen nur vor der Prostitution schützen könne.",
+      "source_title": "Susanne Hierl: „Menschenunwürdige Zustände in der Prostitution beenden – Sexkauf bestrafen“ | Neumarkt aktuell",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Denise Loop",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Denise Loop setzt sich vehement für einen stärkeren Opferschutz und die konsequente Umsetzung des Nationalen Aktionsplans gegen Menschenhandel ein. Sie fordert ein sicheres Aufenthaltsrecht für Betroffene, unabhängig von ihrer Kooperation mit den Strafverfolgungsbehörden, sowie spezialisierte Einheiten bei Polizei und Staatsanwaltschaften. Sie betont die Notwendigkeit einer bundesweiten Gesamtstrategie und warnt davor, dass restriktive Grenzpolitik Menschenhandel befördern kann.",
+      "source_title": "Pressemitteilung: Menschenhandel bekämpfen und Betroffene schützen",
+      "url": "https://denise-loop.de/presse/pressemitteilung-menschenhandel-bekampfen-und-betroffene-schutzen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Pascal Meiser",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

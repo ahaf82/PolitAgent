@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die Debatte 'Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen' offenbarte eine tiefe Spaltung der Meinungen. Gerrit Huy (AfD) vertritt die Position, dass Einwanderung eine enorme finanzielle Belastung für die Sozialsysteme darstellt und fordert weitreichende Einschränkungen der Leistungen sowie eine strengere Einwanderungspolitik. Kai Witter (CDU/CSU) hebt die Bemühungen seiner Fraktion hervor, Sozialmissbrauch durch Gesetzesreformen zu bekämpfen, betont jedoch gleichzeitig die Wahrung der Menschenwürde und die Prinzipien des Sozialstaates, während er sich von der AfD-Rhetorik distanziert. Timon Genus (Bündnis 90/Die Grünen) wiederum sieht Migration als Bereicherung und Notwendigkeit für die deutsche Wirtschaft und die Alterssicherung und verurteilt die AfD-Positionen als rassistisch und spaltend. Alle drei Abgeordneten bekräftigen ihre Haltungen außerhalb des Parlaments durch Pressemitteilungen, Parteidokumente und öffentliche Äußerungen, die ihre jeweiligen Fraktionslinien widerspiegeln und vertiefen.",
+  "sources": [
+    {
+      "name": "Gerrit Huy",
+      "party": "AfD",
+      "found": true,
+      "statement": "Gerrit Huy kritisiert vehement den angeblichen Sozialmissbrauch und die hohe finanzielle Belastung der Sozialsysteme durch Zuwanderung, die sie auf bis zu 115 Milliarden Euro beziffert. Sie fordert eine Begrenzung der Zuwanderung ins Bürgergeld, da die Jobcenter überfordert seien und viele Leistungsbezieher die nötigen Qualifikationen nicht mitbrächten. Diese Probleme sieht sie als Ergebnis einer Politik, die eine 'Kultur von Heimat- und Volksverachtung' fördere und zur 'Verlotterung unserer Gesellschaft' beitrage.",
+      "source_title": "Sozialbetrug trägt zur Verlotterung unserer Gesellschaft bei! Gerrit Huy - AfD-Fraktion im Bundestag / Gerrit Huy: Zur Entlastung der Jobcenter muss Zuwanderung ins Bürgergeld begrenzt werden",
+      "url": "https://afdbundestag.de/gerrit-huy-zur-entlastung-der-jobcenter-muss-zuwanderung-ins-buergergeld-begrenzt-werden/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kai Witter",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Kai Witter engagiert sich im Rahmen der CDU/CSU-Fraktion für mutige Reformen des Sozialstaats, um diesen schlanker, bürgernäher und transparenter zu gestalten und Arbeitsanreize zu verbessern, sodass 'Arbeit sich wieder lohnen' muss. Er war maßgeblich an der Verbesserung der Grundsicherung beteiligt, die eine bessere Vermittlung in Arbeit und ein entschlosseneres Vorgehen gegen organisierten Leistungsmissbrauch vorsieht. Gleichzeitig lehnt er eine Kriminalisierung aufgrund der Herkunft ab und betont die Wahrung der Menschenwürde.",
+      "source_title": "Unterstützen, fordern, Perspektiven schaffen! / Finanzierung der Sozialversicherungen: Zwei CDU-Systemsprenger wollen den Sozialstaat umbauen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Timon Genus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Timon Genus betont, dass Deutschland ein Einwanderungsland ist und auf Zuwanderung angewiesen ist, um den Fachkräftemangel zu begegnen und die Rente zu sichern. Er sieht Migration als eine Bereicherung für Gesellschaft und Wirtschaft und fordert den Schutz von Menschen, die vor Krieg und Verfolgung fliehen, sowie eine beschleunigte Anwerbung und Integration von Fachkräften. Er kritisiert dabei die 'rechtsextreme und rassistische' Rhetorik der AfD scharf und plädiert für eine Einwanderungsgesellschaft mit einer starken Willkommenskultur.",
+      "source_title": "Einwanderung gestalten - BÜNDNIS 90/DIE GRÜNEN / Sozialmissbrauch: Fakten helfen der AfD mehr als jede Rede",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

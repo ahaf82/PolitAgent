@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag über Meinungsfreiheit, Wahlrecht und die Änderung von Artikel 19 des Grundgesetzes spiegelt sich in den externen Stellungnahmen der Abgeordneten wider, wobei oft konträre Positionen vertreten werden. Clara Bünger (Die Linke) setzt sich außerhalb des Plenums für ein AfD-Verbot und ein erweitertes Wahlrecht für Nicht-Staatsbürger ein, kritisiert aber gleichzeitig EU-Sanktionen als Einschränkung der Meinungsfreiheit. Alexander Throm (CDU/CSU) fordert eine Überprüfung des Einbürgerungsrechts und warnt vor einer Verwässerung des Wahlrechts durch die Einbeziehung von Nicht-Staatsangehörigen. Dr. Gottfried Curio (AfD) äußert sich wiederholt kritisch über staatliche Maßnahmen, die er als Bedrohung der Meinungsfreiheit wahrnimmt, und betont die Notwendigkeit, vermeintlichen 'Gesinnungsterror' zu bekämpfen. Sebastian Fiedler (SPD) kritisiert scharf die Haltung der Linken zu Russland-Sanktionen und Desinformation, während Helge Limburg (Bündnis 90/Die Grünen) weiterhin das Wahlalter 16 befürwortet und ein AfD-Verbotsverfahren unterstützt, um die Demokratie zu stärken.",
+  "sources": [
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Clara Bünger hat sich mehrfach für ein AfD-Verbotsverfahren ausgesprochen, basierend auf Gutachten zur Verfassungswidrigkeit der Partei und ihrem rassistischen Volksbegriff. Sie fordert zudem ein Wahlrecht für alle nach fünf Jahren Aufenthalt in Deutschland, unabhängig von der Staatsangehörigkeit, um einem 'Demokratiedefizit' entgegenzuwirken. Gleichzeitig kritisiert sie EU-Sanktionen, wie gegen einen Journalisten verhängte, als Verletzung der Presse- und Meinungsfreiheit sowie der Rechtsstaatlichkeit und als potenziell Russland in die Hände spielend.",
+      "source_title": "Unterstützen Sie den Antrag die AfD vom BverfG verbieten zu lassen? | Frage an Clara Bünger (Die Linke) - Abgeordnetenwatch; AfD-Verbotsverfahren auf den Weg bringen - Fraktion Die Linke im Bundestag; Linke schlägt Wahlrecht für alle nach fünf Jahren Aufenthalt vor - regionalHeute.de; Clara Bünger: Sanktionen gegen EU-Bürger verletzen Grundrechte und Rechtsstaatlichkeit: Die Linke Kreisverband Lübeck",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Alexander Throm",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Alexander Throm kritisiert das Einbürgerungsrecht, da es seiner Meinung nach für bestimmte Gruppen zu leicht sei und fordert dessen Überprüfung. Er sieht eine Problematik darin, dass syrische Schutzberechtigte es leichter haben könnten, eingebürgert zu werden, als ukrainische Kriegsflüchtlinge. Diese Haltung unterstreicht seine Skepsis gegenüber einer Liberalisierung des Wahlrechts, wie er sie auch in der Debatte zum Ausländerwahlrecht äußerte.",
+      "source_title": "CDU-Mann will Einbürgerungsrecht „auf den Prüfstand stellen” - FOCUS online",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Gottfried Curio beklagt 'staatliche Repression' gegen Kritiker der Regierungspolitik und behauptet, die Regierung gehe 'mit allen Machtmitteln des Staates' gegen kritische Bürger vor. Er hat sich zudem in der Vergangenheit für Maßnahmen zur Unterbindung von 'gesetzwidrigen Inhalten' im Koran eingesetzt, den er als 'gewaltaffine Ideologie' bezeichnet, die mit dem Grundgesetz unvereinbar sei. Dies untermauert seine grundsätzliche Haltung zur Meinungsfreiheit im Kontext des von ihm wahrgenommenen 'linken Gesinnungsterrors'.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie - Deutscher Bundestag; Bundestags-Gutachten bestätigt staatliche Erkenntnislücken beim politischen Islam - AfD-Fraktion im Deutschen Bundestag; AfD will Verbreitung von Koran-Inhalten unterbinden - Katholisch.de",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-meinungsfreiheit-staerkung-demokratie-1011538;%20https://www.afd-fraktion.de/2026/07/10/bundestags-gutachten-bestaetigt-staatliche-erkenntnisleucken-beim-politischen-islam/;%20https://www.katholisch.de/artikel/20050-afd-will-verbreitung-von-koran-inhalten-unterbinden",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sebastian Fiedler kritisiert vehement die Position der Linkspartei bezüglich russischer Einflussoperationen und der Forderung, EU-Sanktionen gegen Desinformationsakteure zurückzunehmen, was er als 'unerträglich' und als Unterstützung Putins interpretiert. Er zeigte sich zudem 'verstört und verärgert' über SPD-interne Vorstöße, Gespräche mit Russland zu fordern, und kritisierte bereits 2022 Deutschland als 'Paradies für Oligarchen' aufgrund schleppender Sanktionsdurchsetzung.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie - Deutscher Bundestag; Fiedler: 'Verstört und verärgert' über Kreml-Papier von SPD-Promis - YouTube; Sanktionen gegen Russland - Deutschland als Paradies für Oligarchen - MDR",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-meinungsfreiheit-staerkung-demokratie-1011538;%20https://www.youtube.com/watch?v=kYJ8l30h7G4;%20https://www.mdr.de/nachrichten/deutschland/politik/russland-sanktionen-oligarch-fiedler-100.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Helge Limburg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Helge Limburg setzt sich weiterhin für die Absenkung des Wahlalters auf 16 Jahre ein und sieht dies als Stärkung der Demokratie. Er befürwortet zudem ein AfD-Verbotsverfahren, da er die AfD als eine Gefahr für Freiheit, Demokratie und Rechtsstaat betrachtet, was durch externe Gutachten untermauert wird, wie auf seiner Website im Juli 2026 veröffentlicht. Als rechtspolitischer Sprecher seiner Fraktion unterstützt er grundsätzlich die Stärkung des Rechts auf anwaltlichen Beistand.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie - Deutscher Bundestag; Helge Limburg – Mitglied des Bundestages für den Wahlkreis Hameln-Pyrmont/Holzminden (Aktuelles); Bundestag - Helge Limburg",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-meinungsfreiheit-staerkung-demokratie-1011538;%20https://helge-limburg.de/aktuelles/;%20https://www.bundestag.de/abgeordnete/biografien/L/limburg_helge-861110",
+      "platform": "Website"
+    }
+  ]
+}

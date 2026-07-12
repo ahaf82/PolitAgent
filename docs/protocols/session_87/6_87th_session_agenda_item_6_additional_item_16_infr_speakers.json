@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten auf das Infrastruktur-Zukunftsgesetz spiegeln die parteiübergreifenden Debatten im Bundestag wider. Befürworter wie Daniel Kölbl (CDU/CSU) und Armand Zorn (SPD) betonten die Notwendigkeit des Gesetzes zur Beschleunigung von Planungsverfahren, zum Abbau bürokratischer Hürden und zur effizienten Nutzung von Investitionsmitteln für die Modernisierung der Infrastruktur. Sie sehen das Gesetz als wichtigen Schritt für die öffentliche Sicherheit und Landesverteidigung. Kritiker wie Swantje Henrike Michaelsen (Bündnis 90/Die Grünen) und Jorrit Bosch (Die Linke) äußerten hingegen erhebliche Bedenken, dass das Gesetz Natur- und Beteiligungsrechte schwäche und klimaschädliche Projekte begünstige, anstatt den Fokus auf Bahnausbau und Sanierung zu legen. Für den Abgeordneten Ulrich von Zons (AfD) konnten keine expliziten externen Stellungnahmen auf den angefragten Kanälen gefunden werden, die über die Berichterstattung seiner Redebeiträge im Parlament hinausgehen.",
+  "sources": [
+    {
+      "name": "Daniel Kölbl",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Kölbl betonte, dass es im parlamentarischen Verfahren gelungen sei, die Voraussetzungen für einen zügigeren Ausbau der Verkehrsinfrastruktur zu schaffen. Dies ebne den Weg für zusätzliche Investitionsentscheidungen, schnellere Planverfahren und eine umfangreiche Modernisierung. Er hob hervor, dass bürokratische Hürden beseitigt würden, um Projekte schneller umsetzen zu können.",
+      "source_title": "Koalition verabschiedet Infrastruktur-Zukunftsgesetz",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": true,
+      "statement": "Zorn hob hervor, dass das Infrastruktur-Zukunftsgesetz entscheidend dazu beitragen wird, Planungs- und Genehmigungsverfahren zu vereinfachen, zu digitalisieren und zu beschleunigen, um die Mittel aus dem Sondervermögen Infrastruktur schneller für Bauvorhaben nutzen zu können. Er verwies auf einen erzielten Kompromiss bezüglich des Natürliche-Infrastruktur-Gesetzes.",
+      "source_title": "Verkehrsprojekte werden schneller geplant und genehmigt",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/verkehrsprojekte-werden-schneller-geplant-und-genehmigt",
+      "platform": "Presse"
+    },
+    {
+      "name": "Swantje Henrike Michaelsen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Michaelsen bezeichnete das Gesetz als „desaströs“, da es Naturschutz- und Beteiligungsrechte im Namen der Beschleunigung „schreddere“ und klimaschädliche Projekte wie neue Autobahnen fördere. Sie kritisierte die pauschale Ausweitung des „überragenden öffentlichen Interesses“ auf nahezu alle Verkehrsprojekte und forderte eine Priorisierung des Schienenausbaus und des Erhalts bestehender Infrastruktur.",
+      "source_title": "Infrastruktur-Zukunftsgesetz: Klima und Natur verlieren",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jorrit Bosch",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Bosch nannte das Gesetz eine „Pseudo-Beschleunigung statt echter Infrastrukturpolitik“, die Natur- und Bürgerbeteiligungsrechte abbaue. Er kritisierte die Ersatzgeldzahlungen als „modernen Ablasshandel“, der den verfassungsrechtlich verankerten Naturschutz untergrabe, und forderte stattdessen Investitionen in Personal und Digitalisierung der Verwaltungen.",
+      "source_title": "Pseudo-Beschleunigung statt echter Infrastrukturpolitik",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

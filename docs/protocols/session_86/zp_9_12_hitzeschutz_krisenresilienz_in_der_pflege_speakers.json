@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten zum Thema Hitzeschutz und Krisenresilienz in der Pflege spiegeln größtenteils die im Bundestag geäußerten Positionen wider. Johannes Wagner und Julia Schneider (Bündnis 90/Die Grünen) fordern weiterhin umfassende Hitzeschutzpläne, finanzielle Unterstützung für klimaresiliente Pflegeeinrichtungen und betonen die soziale Dimension des Hitzeschutzes. Sascha van Beek (CDU/CSU) hebt die Dringlichkeit für vulnerable Gruppen hervor und verweist auf bestehende Schutzpläne. Cem Ince (Die Linke) konzentriert sich auf den Arbeitsschutz und die Notwendigkeit von bezahltem Hitzefrei. Für Alexis Schorsch (AfD) konnten keine externen Stellungnahmen gefunden werden.",
+  "sources": [
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Wagner betont als Arzt die Lebensgefahr durch Hitze und kritisiert die unzureichende Vorbereitung von Krankenhäusern und Pflegeeinrichtungen. Er fordert entschlossenes Handeln beim Klima- und Hitzeschutz und weist darauf hin, dass eine klimasensible Beratung, auch in Apotheken, Leben retten kann.",
+      "source_title": "Johannes Wagner: »Klimasensible Beratung in der Apotheke kann Leben retten",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sascha van Beek",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Van Beek, selbst gelernter Gesundheits- und Krankenpfleger, bestätigt den Ernst der Lage, da Hitze vor allem die Schwächsten trifft. Er verweist auf bereits eingeleitete Schritte wie den 'Hitzeschutzplan Gesundheit' des Bundesgesundheitsministeriums und fordert praktische Lösungen.",
+      "source_title": "Hitzewelle: Zügiger Schutz von Kliniken und Heimen gefordert",
+      "url": "https://www.aok.de/pp/gg/update/bundestag-zu-hitzeschutz/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Alexis Schorsch",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Cem Ince",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Ince betont, dass neue Temperaturrekorde arbeitende Menschen hart treffen und fordert den Ausbau sowie die Umsetzung von Hitzeschutzstrategien in allen Betrieben. Er verlangt einen Anspruch auf bezahltes Hitzefrei, wenn Arbeitgeber keine Schutzmaßnahmen ergreifen.",
+      "source_title": "Hitzefrei für Beschäftigte - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julia Schneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Schneider fordert in einem Antrag, Städte klimafit zu machen, um Menschen vor Hitze und Überschwemmungen zu schützen, insbesondere durch die Stärkung von Stadtgrün und Entsiegelung. Sie kritisiert die unzureichende Unterstützung für soziale Einrichtungen wie Pflegeheime bei der Klimaanpassung.",
+      "source_title": "Antrag: Städte klimafit machen",
+      "url": "https://www.juliaschneider.info/aktuelles/antrag-stadte-klimafit-machen",
+      "platform": "Website"
+    }
+  ]
+}

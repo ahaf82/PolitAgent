@@ -1,0 +1,34 @@
+# Grötsch: Bundespolizisten an den Grenzen unter erheblicher Belastung
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Grötsch: Federal police officers are under significant strain at the borders
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=v1LsivL2QG0)
+
+## Kurzzusammenfassung
+Uli Grötsch, der Polizeibeauftragte des Bundes, legte seinen Jahresbericht vor und sprach über zentrale Herausforderungen der Bundespolizei. Er hob die erhebliche Belastung der Beamten durch die dauerhaften Grenzkontrollen hervor und kritisierte die unzureichende Infrastruktur an den Kontrollstellen. Weitere Schwerpunkte waren die Bekämpfung von Racial Profiling und Sexismus innerhalb der Behörden sowie der desolate Zustand vieler Dienststellen. Grötsch betonte, dass die Polizeibehörden den wachsenden Aufgaben grundsätzlich gewachsen seien, forderte jedoch eine Fortsetzung des Personalaufwuchses und eine Modernisierung der Arbeitsbedingungen, um die Gewinnung und Bindung von Nachwuchskräften sicherzustellen.
+
+## Kernaussagen und Positionen der Fraktionen
+*(Dies ist ein Interview mit dem Polizeibeauftragten des Bundes. Die folgenden Punkte fassen seine Beobachtungen und Empfehlungen in seiner Funktion zusammen und stellen keine Positionen einzelner Fraktionen dar.)*
+
+- **Uli Grötsch (Polizeibeauftragter des Bundes)**:
+  - **Dauerhafte Grenzkontrollen und Belastung:** Die anhaltenden, stationären Grenzkontrollen an 60 Stellen entlang der deutschen Außengrenzen führen zu einer erheblichen und auf Dauer nicht tragbaren Belastung der Bundespolizisten.
+  - **Mangelhafte Infrastruktur:** Die provisorischen Bedingungen an vielen Kontrollstellen, inklusive der Nutzung von Dixi-Toiletten an 19 Standorten, sind untragbar. Es wird eine feste, sofort nutzbare Infrastruktur mit Wasser, Abwasser und Strom sowie Schutz vor Witterung gefordert, um aus Fehlern vergangener Jahre zu lernen.
+  - **Racial Profiling:** Obwohl es verboten ist und die Anzahl der direkten Beschwerden relativ gering ist (ca. 10% der Eingaben), birgt das Thema ein hohes negatives Potenzial. Die Herausforderung besteht darin, objektive Kontrollkriterien jenseits ethnischer Zugehörigkeit oder Hautfarbe zu finden und gegenseitiges Verständnis zwischen Polizei und Betroffenen zu fördern.
+  - **Sexismus und sexuelle Belästigung:** Die Zahl der Frauen, die sich mit Fällen sexueller Belästigung und Sexismus an den Polizeibeauftragten wenden, hat zugenommen. Eine Nulltoleranzstrategie wird gefordert, und es wird dazu ermutigt, sich bei fehlender interner Unterstützung an sein Amt zu wenden.
+  - **Zustand der Liegenschaften:** Viele Dienststellen sind in einem maroden Zustand mit Schimmel und Mängeln, was keine Einzelfälle darstellt (Beispiel Bahnhof Fulda). Dies beeinträchtigt die Attraktivität der Bundespolizei als Arbeitgeber. Die langen Bau- und Sanierungszeiten im öffentlichen Sektor werden kritisiert.
+  - **Aufgabenzuwachs und Personalausstattung:** Die Bundespolizei und das Bundeskriminalamt sind den zunehmenden und sich wandelnden Aufgaben (z.B. Drohnen-, Cyberabwehr, Schutz kritischer Infrastruktur) grundsätzlich gewachsen. Dies sei dem erheblichen Personalaufwuchs seit 2017 zu verdanken, der fortgesetzt werden müsse.
+  - **Nachwuchsgewinnung und -bindung:** Es gibt genügend Bewerber für die Bundespolizei und das BKA, jedoch eine Abbrecherquote von rund 25% während der Ausbildung. Um die "besten Köpfe" zu gewinnen und zu halten, müssen die Polizeibehörden am Puls der Zeit bleiben und den veränderten Erwartungen der jungen Generation gerecht werden.
+
+## Chronologischer Debattenverlauf
+- **[00:00:08](https://www.youtube.com/watch?v=v1LsivL2QG0&t=8s)** - **Sitzungsbeginn / Einleitung**: Der Interviewer stellt Uli Grötsch, den Polizeibeauftragten des Bundes, und die Aufgaben seines Amtes als Hilfsorgan des Deutschen Bundestages zur Kontrolle der Bundespolizei, der Bundestagspolizei und des Bundeskriminalamtes vor.
+- **[00:00:43](https://www.youtube.com/watch?v=v1LsivL2QG0&t=43s)** - **Uli Grötsch (Polizeibeauftragter des Bundes)**: Erläutert die erhebliche Belastung der Bundespolizisten durch die dauerhaften stationären Grenzkontrollen an allen deutschen Außengrenzen, die seit 2024 bestehen. Er betont, dass diese Leistung auf Dauer nicht erbracht werden kann.
+- **[00:02:35](https://www.youtube.com/watch?v=v1LsivL2QG0&t=2m35s)** - **Uli Grötsch (Polizeibeauftragter des Bundes)**: Kritisiert die provisorischen Zustände an den Kontrollstellen, insbesondere das Vorhandensein von Dixi-Toiletten an 19 von 60 Stellen. Er fordert die Errichtung einer festen Infrastruktur mit Wasser, Abwasser und Strom sowie Geschwindigkeitsrechnern und Eigensicherungseinrichtungen.
+- **[00:04:42](https://www.youtube.com/watch?v=v1LsivL2QG0&t=4m42s)** - **Uli Grötsch (Polizeibeauftragter des Bundes)**: Spricht das Thema Racial Profiling an, das als verboten bezeichnet wird. Er stellt fest, dass, obwohl das Thema stark mit seinem Amt verbunden ist, nur etwa 10% der Eingaben diesen Bereich betreffen. Er betont das hohe negative Potenzial des Themas und die Aufgabe, gegenseitiges Verständnis zwischen Polizei und Bürgern herzustellen.
+- **[00:07:29](https://www.youtube.com/watch?v=v1LsivL2QG0&t=7m29s)** - **Uli Grötsch (Polizeibeauftragter des Bundes)**: Berichtet über eine Zunahme der Beschwerden weiblicher Beschäftigter bezüglich sexueller Belästigung und Sexismus. Er fordert eine Nulltoleranzstrategie und ermutigt Betroffene, sich bei unzureichender interner Unterstützung an sein Amt zu wenden.
+- **[00:09:37](https://www.youtube.com/watch?v=v1LsivL2QG0&t=9m37s)** - **Uli Grötsch (Polizeibeauftragter des Bundes)**: Bestätigt, dass marode Polizeireviere und Schimmel an Wänden keine Einzelfälle sind und teilweise gefährliche Arbeitsbedingungen darstellen (Beispiel Bahnhof Fulda). Er kritisiert die jahrzehntelangen Planungs- und Bauzeiten öffentlicher Baumaßnahmen.
+- **[00:12:45](https://www.youtube.com/watch?v=v1LsivL2QG0&t=12m45s)** - **Uli Grötsch (Polizeibeauftragter des Bundes)**: Bejaht, dass die Polizeibehörden des Bundes den zunehmenden und sich verändernden Aufgaben (Drohnenabwehr, Cyberabwehr etc.) gewachsen sind. Er führt dies auf den erheblichen Stellenaufwuchs seit 2017 zurück und fordert eine Fortsetzung dieses Weges.
+- **[00:14:19](https://www.youtube.com/watch?v=v1LsivL2QG0&t=14m19s)** - **Uli Grötsch (Polizeibeauftragter des Bundes)**: Geht auf die Personalentwicklung ein. Er stellt fest, dass es genügend Bewerber gibt, aber eine hohe Abbrecherquote (ca. 25%) während der Ausbildung. Er betont die Notwendigkeit, am Puls der Zeit zu bleiben, um die Nachwuchskräfte zu halten und als Arbeitgeber attraktiv zu bleiben.
+- **[00:15:55](https://www.youtube.com/watch?v=v1LsivL2QG0&t=15m55s)** - **Abschluss**: Der Interviewer bedankt sich bei Uli Grötsch für das Gespräch.

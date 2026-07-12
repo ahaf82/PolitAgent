@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur Debatte über die Enquete-Kommission zur Meinungsfreiheit in Deutschland spiegeln und verstärken ihre parlamentarischen Positionen wider. Stephan Brandner (AfD) bekräftigt seine Forderung nach der Abschaffung des Paragraphen 188 StGB als Mittel zur Stärkung der echten Meinungsfreiheit und sieht sich selbst in Gerichtsverfahren als Kämpfer für dieses Grundrecht. Dr. Hendrik Hoppenstedt (CDU/CSU) positioniert sich generell für Recht und Ordnung und gegen Extremismus, was seine ablehnende Haltung gegenüber dem AfD-Antrag untermauert. Aaron Valent (Die Linke) engagiert sich extern stark für den Schutz der Presse- und Meinungsfreiheit, insbesondere durch Forderungen nach wirksamen Anti-SLAPP-Gesetzen, und kritisiert die AfD vehement für ihr Rechtsstaatsverständnis. Für Jeanne Dillschneider (Bündnis 90/Die Grünen) und Maja Wallstein (SPD) konnten keine spezifischen externen Stellungnahmen zu diesem Thema außerhalb ihrer Bundestagsreden ermittelt werden.",
+  "sources": [
+    {
+      "name": "Stefan Brandner",
+      "party": "AfD",
+      "found": false,
+      "statement": "Brandner bekräftigt die Forderung nach Abschaffung des § 188 StGB ('Politikerbeleidigung') für echte Meinungsfreiheit und Gleichheit vor dem Gesetz, da die Fallzahlen im Zusammenhang mit diesem Paragraphen drastisch gestiegen seien und Politiker Kritik aushalten können müssten. Er legte auch Einspruch gegen einen Strafbefehl wegen Beleidigung einer Journalistin ein, wobei er die Bezeichnung als Meinungsäußerung verteidigte und sich als Märtyrer der Meinungsfreiheit inszeniere.",
+      "source_title": "Steigende Fallzahlen: Abschaffung von § 188 StGB: Für echte Meinungsfreiheit und Gleichheit vor dem Gesetz / AfD-Abgeordneter Stephan Brandner legt Einspruch gegen Strafbefehl ein",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Hendrik Hoppenstedt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Hoppenstedt betont in seinen politischen Zielen die Notwendigkeit von Recht und Ordnung, die Stärkung von Polizei und Strafverfolgungsbehörden und eine Null-Toleranz gegenüber Extremisten. Dies unterstreicht seine im Plenum geäußerte Haltung, dass Meinungsfreiheit Grenzen hat, wo die Würde von Menschen verletzt wird, und reflektiert eine allgemeine Ablehnung gegenüber extremistischen Äußerungen, die oft mit der Meinungsfreiheit begründet werden.",
+      "source_title": "Politische Ziele - Dr. Hendrik Hoppenstedt",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jeanne Dillschneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Maja Wallstein",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Aaron Valent",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Valent setzt sich auf seiner Webseite aktiv für den Schutz der Zivilgesellschaft und Pressefreiheit durch ein wirksames Anti-SLAPP-Gesetz ein. Er kritisierte die AfD scharf für ihre Haltung zum Rechtsstaat, betonte, dass dieser nicht selektiv angewendet werden dürfe, und forderte, dass Rechtsstaat und Demokratie gegen autoritären Umbau krisenfest gemacht werden müssen.",
+      "source_title": "Pressemitteilungen - Aaron Valent, MdB / Justiz ist für die AfD ein Fremdwort! / Rechtsstaat und Demokratie müssen krisenfest werden gegen den autoritären Umbau",
+      "url": "https://www.dielinkebt.de/themen/reden/aaron-valent/",
+      "platform": "Website"
+    }
+  ]
+}

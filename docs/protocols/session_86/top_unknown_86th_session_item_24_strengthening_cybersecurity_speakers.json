@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten zur Cybersicherheit zeigen eine klare parteipolitische Trennung. Bundesminister Alexander Dobrindt (CSU) plädiert konsequent für eine aktive Cyberabwehr, die darauf abzielt, Angreiferinfrastrukturen zu stören und zu zerstören, und hebt die Notwendigkeit entschlossenen Handelns hervor. Christina Stumpp (CDU/CSU) betont die Stärkung kritischer Infrastrukturen und einen wehrhaften Staat durch einheitliche Sicherheitsstandards und Meldepflichten. Daniel Baldy (SPD) unterstützt erweiterte Befugnisse für Sicherheitsbehörden im digitalen Raum zur Gefahrenabwehr, mahnt aber gleichzeitig klare Zuständigkeiten und Koordinierung an. Marcel Emmerich (Bündnis 90/Die Grünen) konzentriert sich auf umfassende Resilienz, digitale Souveränität und zivilen Schutz, mit Bedenken hinsichtlich eines zu weitreichenden staatlichen Eingriffs. Donata Vogtschmidt (Die Linke) lehnt \"Hackbacks\" strikt ab, warnt vor deren Illegalität und Eskalationspotenzial und kritisiert gleichzeitig Einschränkungen der Informationsfreiheit.",
+  "sources": [
+    {
+      "name": "Alexander Dobrindt",
+      "party": "CSU",
+      "found": true,
+      "statement": "Als Bundesinnenminister tritt Alexander Dobrindt für eine \"aktive Cyberabwehr\" ein, die es Deutschland ermöglichen soll, Angreifer in ihrer Infrastruktur zu stören und zu zerstören. Er betont, dass es sich hierbei nicht um \"Hackbacks\" im Sinne von Rache handelt, sondern um eine proaktive Zerstörung der Angriffsarchitektur. Er unterzeichnete zudem ein Cybersicherheitspakt mit Israel zur Entwicklung eines \"Cyber-Domes\" zur Detektion, Analyse und Reaktion auf Cyberangriffe.",
+      "source_title": "Deutschland auf dem Weg zur aktiven Cyberabwehr: Dobrindt will Angreifer infrastrukturell stören und zerstören / BMI - Alle Meldungen - Zusammenarbeit zur Cybersicherheit mit Israel wird ausgebaut / Cybersicherheit: Pressestatement von Bundesinnenminister Alexander Dobrindt",
+      "url": "https://www.youtube.com/watch?v=V9KzEKXWYxc",
+      "platform": "Presse"
+    },
+    {
+      "name": "Daniel Baldy",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Baldy betont die Notwendigkeit, Deutschland im Cyberraum gut aufzustellen und den Sicherheitsbehörden wie BSI, BKA und Bundespolizei die nötigen Werkzeuge für die digitale Gefahrenabwehr an die Hand zu geben, analog zu ihren Befugnissen im analogen Raum. Gleichzeitig warnt er, dass Befugnisse allein keine Cybersicherheit schaffen und fordert klare Regeln und eine verbesserte Koordination zwischen den Behörden, um Kompetenzwirrwarr zu vermeiden.",
+      "source_title": "Cybersicherheit stärken - SPD-Bundestagsfraktion / Standpunkte - danielbaldy.de",
+      "url": "https://daniel-baldy.de/standpunkte/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christina Stumpp",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Christina Stumpp hebt hervor, dass die CDU/CSU-Fraktion die Resilienz des Landes gegen Cyberangriffe stärken will, da präventive Maßnahmen allein nicht ausreichen. Sie unterstützt das KRITIS-Dachgesetz, das strengere Sicherheitsstandards für kritische Infrastrukturen, systematische Schwachstellenidentifikation und eine Meldepflicht für Störungen vorsieht, um einen \"wehrhaften Staat\" zu gewährleisten.",
+      "source_title": "Bundestag: Kritische Infrastruktur schützen - Christina Stumpp MdB",
+      "url": "https://christina-stumpp.de/aktuelles/2026-01-30-bundestag-kritische-infrastruktur-schuetzen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Marcel Emmerich",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Marcel Emmerich, innenpolitischer Sprecher der Grünen, betont die Notwendigkeit einer umfassenden Resilienz Deutschlands gegenüber hybriden Bedrohungen und Cyberangriffen, sowie die Stärkung der digitalen Souveränität und des Zivilschutzes. Er hat sich bereits früh für eine Priorisierung der Cybersicherheit kritischer Infrastrukturen eingesetzt und fordert eine evidenzbasierte Sicherheitspolitik, die Freiheit nicht einschränkt. Er zeigte sich zudem skeptisch gegenüber Massenüberwachung wie KI-Gesichtserkennung.",
+      "source_title": "„Unsere Gesellschaft muss resilienter werden“ – Grüner Sicherheitsexperte Marcel Emmerich in Rottweil / Drohnen, Desinformation und Sabotage: Marcel Emmerich über innere Sicherheit / Ist uns die deutsche Cybersicherheit im XXI wirklich wichtig? | Frage an Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN) - Abgeordnetenwatch / „Massiver Eingriff“ in Privatsphäre: Grüne fordern Verbot von KI-Gesichtserkennung durch Sicherheitsbehörden - Tagesspiegel / BSI im Dialog zur Cybersicherheit in der Demokratie",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Donata Vogtschmidt lehnt die Einführung von \"Hackbacks\" oder \"offensiver Cyberabwehr\" als gefährlich und illegal ab, da sie Risiken wie unklare Täteridentität, Eskalationsgefahr und völkerrechtliche Bedenken bergen. Sie kritisiert die Umbenennung als Verschleierungstaktik und argumentiert, dass die geplante Einschränkung der Informationsfreiheit der Cybersicherheit durch mangelnde Transparenz schadet.",
+      "source_title": "Angriff auf die Informationsfreiheit schadet der Cybersicherheit - Donata Vogtschmidt / Informationsfreiheitsgesetz: Breite Kritik an geplanter IFG-Einschränkung - Tagesspiegel Background / Digitales und Staatsmodernisierung - Donata Vogtschmidt",
+      "url": "https://www.donatavogtschmidt.de/bundestag/digitales-und-staatsmodernisierung/",
+      "platform": "Website"
+    }
+  ]
+}

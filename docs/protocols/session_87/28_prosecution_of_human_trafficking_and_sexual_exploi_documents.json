@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6584",
+      "title": "Gesetz zur Stärkung der strafrechtlichen Verfolgung des Menschenhandels und der sexuellen Ausbeutung sowie zur Umsetzung der Richtlinie (EU) 2024/1712",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6584&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6347",
+      "title": "Betroffene besser schützen – Menschenhandel und Zwangsprostitution bekämpfen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6347&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung wurde zur weiteren Beratung an die Ausschüsse überwiesen, wobei der Rechtsausschuss federführend ist. Der Antrag der Fraktion Bündnis 90/Die Grünen wurde an den Ausschuss für Bildung, Familie, Frauen, Senioren und Jugend zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

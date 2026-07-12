@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum Länder- und Kommunalentlastungsgesetz spiegeln größtenteils die im Plenum geäußerten Positionen wider. Während die Bundesregierung und die Koalition die Maßnahme als wichtigen Schritt zur Entlastung der Kommunen verteidigen, kritisieren die Oppositionsparteien sie als unzureichend und nicht zielgerichtet. Sebastian Schäfer von Bündnis 90/Die Grünen forderte eine grundlegende Neuverhandlung des Gesetzes und eine stärkere finanzielle Unterstützung der Kommunen, die sich in einer historischen Finanzkrise befänden. Michael Espendeland von der AfD bezeichnete das Gesetz weiterhin als „Etikettenschwindel“, der hauptsächlich den Ländern und nicht den Kommunen zugutekomme. Für andere Redner konnten keine spezifischen externen Stellungnahmen außerhalb der Parlamentsdebatte gefunden werden, die sich direkt auf dieses Gesetz beziehen.",
+  "sources": [
+    {
+      "name": "Elisabeth Kaiser",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als Staatsministerin vertritt Elisabeth Kaiser die Position der Bundesregierung, die das Länder- und Kommunalentlastungsgesetz als wichtige finanzielle Unterstützung der Länder und Kommunen ansieht. Der Bund unterstützt demnach bis 2029 jährlich mit rund einer Milliarde Euro, um Schuldenabbau und Investitionen in Infrastruktur zu ermöglichen, da funktionierende Kommunen entscheidend für die Bürger sind.",
+      "source_title": "Bund entlastet Länder und Kommunen - Bundesregierung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Michael Espendeland",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Michael Espendeland kritisiert das Länder- und Kommunalentlastungsgesetz als 'Etikettenschwindel', da es primär den Ländern und nicht direkt den Kommunen zugutekommt. Er bemängelt, dass der Bund den Kommunen immer neue Aufgaben aufbürde, ohne die Finanzierung sicherzustellen, und fordert die Einhaltung des Grundsatzes 'wer bestellt, der bezahlt'.",
+      "source_title": "Local Municipalities Left Empty-Handed! - Dr. Michael Espendiller - AfD Parliamentary Group in th...",
+      "url": "https://www.youtube.com/watch?v=s3h0r00E0Qo",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Sebastian Schäfer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Sebastian Schäfer bezeichnet die Lage der Kommunen als 'historisch dramatisch' und kritisiert das Länder- und Kommunalentlastungsgesetz als unzureichend. Er fordert eine wirksame Soforthilfe gegen massive Defizite und langfristig eine Neuordnung der Aufgaben- und Finanzverteilung zwischen Bund, Ländern und Kommunen, um die Handlungsfähigkeit der Kommunen zu sichern.",
+      "source_title": "Kommunen stärker entlasten - Dr. Sebastian Schäfer MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sarah Mirotu",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Klaus Majer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

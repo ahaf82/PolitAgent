@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die analysierten Abgeordneten des Bundestages zeigen außerhalb des Plenums konsistente, aber divergierende Positionen zum Ukraine-Krieg. Alexander Gauland (AfD) vertritt durchgängig die Auffassung, dass Deutschland keine Kriegspartei sein sollte, den Konflikt als einen zwischen den USA und Russland sieht und Waffenlieferungen ablehnt, um eine direkte Konfrontation zu vermeiden und deutsche Interessen in den Vordergrund zu stellen. Norbert Röttgen (CDU/CSU) fordert vehement die fortgesetzte Unterstützung der Ukraine, einschließlich der Lieferung von Taurus-Marschflugkörpern und der Nutzung eingefrorener russischer Vermögen, und warnt vor den Folgen eines russischen Erfolgs für die europäische Sicherheitsordnung. Anton Hofreiter (Bündnis 90/Die Grünen) betont die Notwendigkeit massiver europäischer Investitionen in die Verteidigung und eine militärische Stärkung der Ukraine, damit diese auf Augenhöhe verhandeln kann, äußert sich aber kritisch gegenüber Plänen, wehrpflichtige Ukrainer zur Rückkehr zu zwingen. Johannes Schraps (SPD) unterstreicht auf seiner persönlichen Website die Notwendigkeit langfristiger militärischer, humanitärer, finanzieller und politischer Unterstützung der Ukraine im deutschen Eigeninteresse. Für Ulrich Schneider (Die Linke) konnten keine spezifischen externen Stellungnahmen identifiziert werden, die über seine Positionen innerhalb der parlamentarischen Debatte hinausgehen.",
+  "sources": [
+    {
+      "name": "Dr. Alexander Gauland",
+      "party": "AfD",
+      "found": true,
+      "statement": "Gauland betont konsistent, dass der Ukraine-Krieg nicht Deutschlands Krieg sei und man sich nicht hineinziehen lassen dürfe. Er fordert die Beendigung von Waffenlieferungen und stattdessen Friedensverhandlungen, wobei er das westliche Vorgehen kritisiert, Russland als Alleinschuldigen darzustellen und die Ukraine als Verteidigerin deutscher Freiheit zu bezeichnen. Er sieht den Konflikt als geostrategische Auseinandersetzung zwischen den USA und Russland und mahnt eine europäische Friedensordnung unter Einbeziehung Russlands an.",
+      "source_title": "Alexander Gauland: Der Krieg in der Ukraine ist nicht unser Krieg / Alexander Gauland zur Ukraine-Krise: Eine klare Analyse",
+      "url": "https://afdbundestag.de/alexander-gauland-der-krieg-in-der-ukraine-ist-nicht-unser-krieg/,%20https://www.youtube.com/watch?v=1FfN-R3M46s",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Norbert Röttgen",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Röttgen tritt für eine umfassende militärische Unterstützung der Ukraine ein, befürwortet die Lieferung von Taurus-Marschflugkörpern und die Nutzung eingefrorener russischer Vermögen zur Finanzierung der Ukraine. Er warnt, dass ein russischer Erfolg Krieg zum Erfolgsmodell machen und Deutschland näherbringen würde, und kritisiert die unentschlossene Haltung Europas sowie eine als Vermittler auftretende USA.",
+      "source_title": "CDU-Politiker Röttgen: Putin im Ukraine-Krieg zunehmend unter Druck / Waffenlieferungen: „Das, was der Ukraine fehlt, ist Geld“, sagt Röttgen",
+      "url": "https://hasepost.de/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Anton Hofreiter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Hofreiter fordert massive europäische Investitionen in die Verteidigung und eine militärische Stärkung der Ukraine, um Russland militärisch Einhalt zu gebieten und die Ukraine in die Lage zu versetzen, auf Augenhöhe zu verhandeln. Er kritisiert europäische Zögerlichkeit und Naivität gegenüber den USA, Russland und China und lehnt Pläne ab, wehrpflichtige Ukrainer zur Rückkehr zu zwingen, unter Verweis auf das Recht auf Kriegsdienstverweigerung.",
+      "source_title": "Ukraine-Flüchtlinge: „Niemanden zwingen, zur Waffe zu greifen“ – Hofreiter lehnt Entscheidung der EU-Kommission ab",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Schraps",
+      "party": "SPD",
+      "found": false,
+      "statement": "Schraps bekräftigt auf seiner Website die Notwendigkeit einer langfristigen und verlässlichen Unterstützung der Ukraine in militärischer, humanitärer, finanzieller und politischer Hinsicht. Er betont, dass ein gerechter Friede nur entstehe, wenn Russland seine Kriegsziele nicht erreichen kann, und dass die Ukraine dafür Solidarität, Geschlossenheit und einen langen Atem brauche.",
+      "source_title": "Johannes Schraps – Ihr Bundestagsabgeordneter für das Weserbergland. (Themenseite Ukraine)",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulrich Schneider",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

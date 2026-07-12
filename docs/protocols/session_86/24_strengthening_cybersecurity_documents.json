@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6585",
+      "title": "Entwurf eines Gesetzes zur Stärkung der Cybersicherheit",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6585&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6653",
+      "title": "Gegen die Einführung von Hackbacks und offensiver Cyberabwehr",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6653&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der von der Bundesregierung eingebrachte Gesetzentwurf zur Stärkung der Cybersicherheit (Drucksache 21/6585) und der Antrag der Fraktion Die Linke (Drucksache 21/6653) wurden im Anschluss an die erste Lesung an die Ausschüsse, federführend an den Innenausschuss, zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

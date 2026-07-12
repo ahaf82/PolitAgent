@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6101",
+      "title": "Antrag der Fraktion Die Linke: Demokratie stärken – Meinungsfreiheit schützen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6101&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6106",
+      "title": "Antrag der Fraktion Die Linke: Demokratie stärken – Wahlalter ab 16 Jahren einführen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6106&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6104",
+      "title": "Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 19)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6104&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die unter Tagesordnungspunkt 25 debattierten Anträge und der Gesetzentwurf der Fraktion Die Linke wurden zur weiteren Beratung an den Innenausschuss (federführend), den Ausschuss für Recht und Verbraucherschutz, den Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend, den Ausschuss für Kultur und Medien sowie den Ausschuss für Digitales und Staatsmodernisierung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

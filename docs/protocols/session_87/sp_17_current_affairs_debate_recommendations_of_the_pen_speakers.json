@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestages zeigten die Abgeordneten ähnliche, oft vertiefte Positionen zu den Empfehlungen der Rentenkommission wie in der Plenardebatte. Luigi Pantisano (Die Linke) bekräftigte seine Ablehnung von Rentenkürzungen und die Forderung nach einem solidarischen System, während Dr. Stefan Nacke (CDU/CSU) weiterhin für generationengerechte Lösungen und eine Stärkung der gesetzlichen Rente durch neue Kapitalbausteine warb. Ulrike Schielke-Ziesing (AfD) hob die Übereinstimmung der Kommissionsvorschläge mit AfD-Forderungen hervor und forderte eine stabile Nettoersatzquote. Bernd Rützel (SPD) betonte die Notwendigkeit von Übergangsfristen bei Reformen der Frührente und Andreas Audretsch (Bündnis 90/Die Grünen) forderte stabile Rentenniveaus und kritisierte die unzureichende Bekämpfung von Altersarmut.",
+  "sources": [
+    {
+      "name": "Luigi Pantisano",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Luigi Pantisano bezeichnete die Vorschläge der Rentenkommission als 'Rezept für Altersarmut' und kritisierte insbesondere die Abschaffung der Rente nach 45 Beitragsjahren sowie die Kopplung des Renteneintrittsalters an die Lebenserwartung, die vor allem Geringverdiener benachteilige. Er forderte eine solidarische Rentenversicherung, in die alle einzahlen, inklusive Abgeordneter, Beamter und Selbstständiger, und lehnte Rentenkürzungen ab. Seine Partei strebt ein gesetzliches Rentenniveau von 53 Prozent und eine solidarische Mindestrente von 1.400 Euro an, wobei die Aktivrente als unzureichend abgelehnt wird.",
+      "source_title": "Rentenkommission liefert Rezept für Altersarmut / Sind Sie wirklich für ein Renteneintrittsalter das an die Lebenserwartung gekoppelt wird? / Linken-Politiker fordert einheitliche Rentenkasse für alle Berufsgruppen / Aktivrente: Sollen Soloselbständige davon ausgenommen werden?",
+      "url": "N/A",
+      "platform": "Website, Abgeordnetenwatch, Presse"
+    },
+    {
+      "name": "Dr. Stefan Nacke",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Stefan Nacke betonte, dass die Rentenpolitik breite demokratische Mehrheiten benötige und nicht zum Gegenstand parteitaktischer Reflexe werden dürfe. Er sprach sich gegen die 'Rente mit 63' aus, da diese Fehlanreize setze und dem Arbeitsmarkt Fachkräfte entziehe, und forderte eine obligatorische betriebliche Altersvorsorge. Er bekräftigte seine Erwartungen an die Rentenkommission, grundlegende Fragen zur generationengerechten Alterssicherung anzugehen und eine Stärkung aller drei Säulen der Altersvorsorge zu ermöglichen.",
+      "source_title": "Rede zu den Empfehlungen der Rentenkommission / Die Rente braucht breite demokratische Mehrheiten / AFTER-WORK-SPECIAL: Bericht aus Berlin und Diskussion mit MdB Dr. Stefan Nacke zu den Vorschlägen der Rentenkommission / Stefan Nacke mit klaren Erwartungen an Rentenkommission",
+      "url": "N/A",
+      "platform": "Website, Presse"
+    },
+    {
+      "name": "Ulrike Schielke-Ziesing",
+      "party": "AfD",
+      "found": false,
+      "statement": "Ulrike Schielke-Ziesing begrüßte, dass die Rentenkommission eine Kernforderung der AfD-Fraktion übernommen habe, nämlich eine politische Zielgröße einer lebensstandardsichernden Altersversorgung von mindestens 70 Prozent Nettoersatzquote anzustreben. Sie bekräftigte, dass das Rentensystem ein 'Sanierungsfall' sei und forderte, dass 45 Beitragsjahre für eine frühzeitige Rente ausreichen sollten, während die allgemeine Renteneintrittsgrenze bei 67 Jahren liegen müsse. Sie sprach sich zudem gegen einen Zwang zum Aktiensparen aus.",
+      "source_title": "Rentenkommission übernimmt Kernforderung der AfD-Fraktion / Das Rentensystem ist ein Sanierungsfall! Ulrike Schielke-Ziesing - AfD-Fraktion im Bundestag",
+      "url": "N/A",
+      "platform": "Presse, Social Media"
+    },
+    {
+      "name": "Bernd Rützel",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bernd Rützel, Vorsitzender des Ausschusses für Arbeit und Soziales, plädierte für lange Übergangsfristen von bis zu zehn Jahren bei der geplanten Abschaffung der abschlagsfreien Frührente nach 45 Beitragsjahren, um Vertrauensschutz zu gewährleisten. Er betonte, dass '67 ist genug. Keinen Tag länger' für das Renteneintrittsalter gelte und verteidigte die Bundeszuschüsse für die gesetzliche Rentenversicherung. Er sprach sich gegen Rentenkürzungen aus und bezeichnete das Rentensystem als stabil und solide.",
+      "source_title": "Ausschussvorsitzender Rützel: „67 ist genug. Keinen Tag länger“ – Rente ab 70 sorgt für Debatte / „Bei der Rente darf man nicht kürzen“ / Aus für 'Rente mit 63': SPD-Politiker für mehrjährige Übergangsfrist",
+      "url": "https://live.deutsche-boerse.com/nachrichten/Aus-fuer-Rente-mit-63-SPD-Politiker-fuer-mehrjaehrige-Uebergangsfrist-ea20dfef-6b8e-48cf-b003-93dd60e5ace9",
+      "platform": "Presse, Website"
+    },
+    {
+      "name": "Andreas Audretsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Andreas Audretsch forderte stabile Rentenniveaus, die Abschaffung der 'Rente mit 63' ab 2030 und der Minijobs, sowie die Einbeziehung von Beamten und Abgeordneten in die gesetzliche Rente, um Altersarmut zu verhindern. Er betonte, dass das Rentenniveau stabil bei 48 Prozent bleiben müsse und kritisierte, dass die Rentenkommission Altersarmut unzureichend adressiere. Er hob hervor, dass Rente eine Frage der sozialen Gerechtigkeit und nicht nur mathematischer Berechnungen sei.",
+      "source_title": "Andreas Audretsch: „Frauen haben eine Durchschnittsrente von 980 Euro, die kann man nicht einfach in die Armut schicken“ / Andreas Audretsch (Grüne): „Die Konsequenz wäre, dass viele in Altersarmut fallen würden“ / Andreas Audretsch (Grüne im Bundestag) über Unzuverlässigkeit der Rentenreform der Union",
+      "url": "https://www.youtube.com/watch?v=60DT6wQjSHg",
+      "platform": "Social Media"
+    }
+  ]
+}

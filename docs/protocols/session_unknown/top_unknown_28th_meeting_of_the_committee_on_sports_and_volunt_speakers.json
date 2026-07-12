@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zum Sportfördergesetz und der Nachwuchsförderung zeigen ein geteiltes Bild mit Zustimmung, aber auch deutlicher Kritik. Während die Koalitionsfraktionen SPD und CDU/CSU das Gesetz als überfälligen Meilenstein für mehr Transparenz, Athletenbeteiligung und moderne Strukturen im Spitzensport begrüßen, äußert die AfD zwar prinzipiell Zustimmung als ersten Schritt, kritisiert jedoch die späte Umsetzung und die Zusammensetzung des Stiftungsrates. Die Linke lehnt den Entwurf aufgrund mangelnder Finanzierungssicherheit und unzureichender Athletenvertretung scharf ab und sieht keinen echten Paradigmenwechsel. Bündnis 90/Die Grünen sehen viel Positives im Gesetz, trotz des kritisierten schnellen Gesetzgebungsverfahrens.",
+  "sources": [
+    {
+      "name": "Stephan Mayer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Stephan Mayer (CSU) kritisiert, dass die Bundesregierung im Stiftungsrat der neuen Spitzensport-Agentur überrepräsentiert sei und fordert die Reduzierung eines Regierungssitzes zugunsten des DOSB. Er hält den Gesetzentwurf im Übrigen für gelungen, insbesondere die geplante Agentur mit unabhängigen Vorständen.",
+      "source_title": "Die Jagd auf Gold wird zum Gesetz - Das Parlament",
+      "url": "https://www.das-parlament.de/inland/sport/die-jagd-auf-gold-wird-zum-gesetz",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jörn König",
+      "party": "AfD",
+      "found": true,
+      "statement": "Jörn König (AfD) begrüßt das Sportfördergesetz als wichtigen ersten Schritt zur Verbesserung der Strukturen im deutschen Spitzensport, kritisiert es jedoch als verspätet und nicht ausreichend. Er fordert eine stärkere Vertretung von paralympischen und olympischen Athleten im Stiftungsrat und sieht die Anwesenheit von Zuwendungsempfängern wie dem DOSB dort als problematisch an.",
+      "source_title": "AfD-Fraktion begrüßt Sportfördergesetz",
+      "url": "https://afdbundestag.de/afd-fraktion-begruesst-sportfoerdergesetz/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Bettina Lugk",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bettina Lugk (SPD) hebt hervor, dass das Sportfördergesetz die größte Reform der Spitzensportförderung seit Jahren darstellt und klare gesetzliche Grundlagen sowie mehr Transparenz schafft. Sie betont die im parlamentarischen Verfahren durchgesetzten Verbesserungen wie stärkere Athletenbeteiligung, gute Verbandsführung und die Verankerung des Safe Sport Codes als Fördervoraussetzung.",
+      "source_title": "Mehr Transparenz und Mitsprache in der Spitzensportförderung",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/mehr-transparenz-mitsprache-spitzensportfoerderung",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tina Winklmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Tina Winklmann (Bündnis 90/Die Grünen) findet viel Positives in dem Gesetz, obwohl das Gesetzgebungsverfahren ihrer Meinung nach zu schnell erfolgte. Sie sieht die Notwendigkeit des Sportfördergesetzes und der Spitzensport-Agentur und zeigt sich erfreut über die Übernahme vieler Aspekte aus der vorherigen Wahlperiode.",
+      "source_title": "Zustimmung zum Sportfördergesetz der Bundesregierung - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1194358",
+      "platform": "Website"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Christian Görke (Die Linke) lehnt das Sportfördergesetz ab und kritisiert, dass es keinen Paradigmenwechsel darstellt, da die Finanzierung weiterhin 'nach Kassenlage' erfolge und Athleten Statisten blieben. Er fordert eine langfristige Ausfinanzierung mit einem jährlichen Aufwuchs von 10 Prozent und bezeichnet den Stiftungsrat aufgrund mangelnder Athleten- und DBS-Vertretung als 'Politbüro 2.0'.",
+      "source_title": "Sechs Fakten über das Sportfördergesetz",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-christian-goerke-am-21052026/",
+      "platform": "Website"
+    },
+    {
+      "name": "Jens Lehmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Jens Lehmann (CDU/CSU) setzt große Hoffnungen in die Spitzensport-Reform, um den Medaillenrückgang Deutschlands zu stoppen, und plädiert für eine gezielte Mittelkonzentration auf aussichtsreiche Athleten und Sportarten. Er begrüßt Leipzig als Standort der neuen Agentur und betont die Bedeutung einer qualitätsorientierten Personalbesetzung, äußert sich jedoch kritisch zur Vergrößerung des Stiftungsrats.",
+      "source_title": "CDU-Sportpolitiker Lehmann: Spitzensport-Reform soll Medaillenrückgang stoppen",
+      "url": "https://tagesstand.de/artikel/cdu-sportpolitiker-lehmann-spitzensport-reform-soll-medaillenruckgang-stoppen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lars Schieske",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}

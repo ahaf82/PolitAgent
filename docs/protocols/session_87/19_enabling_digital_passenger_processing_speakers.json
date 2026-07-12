@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte über die digitale Fluggastabfertigung zeigte eine klare Polarisierung unter den Abgeordneten. Befürworter wie Dr. Christoph Ploß (CDU/CSU) und seine Fraktion betonten extern die Vorteile für den deutschen Luftfahrtstandort durch Effizienzsteigerung und Kostenersparnisse, was sie in einer Pressemitteilung zur Gesetzesverabschiedung hervorhoben. Otto Strauß (AfD) äußerte zwar im Plenum Bedenken hinsichtlich des Datenschutzes und der Freiwilligkeit, betonte aber extern im Kontext der Luftverkehrsteuer die Notwendigkeit einer umfassenderen Entlastung der Luftfahrtbranche. Jeanne Dillschneider (Bündnis 90/Die Grünen) kritisierte in externen Stellungnahmen zu ähnlichen Digitalisierungsgesetzen stets die Preisgabe sensibler Daten an private Unternehmen und die Aufweichung von Schutzstandards, was ihre ablehnende Haltung im Plenum widerspiegelt. Für Anja Troff-Schaffarzyk (SPD) und Agnes Conrad (Die Linke) konnten keine spezifischen externen Stellungnahmen zur digitalen Fluggastabfertigung gefunden werden, die über ihre Beiträge in der Bundestagsdebatte hinausgehen.",
+  "sources": [
+    {
+      "name": "Dr. Christoph Ploß",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Christoph Ploß betonte extern, dass die Ermöglichung der digitalen Fluggastabfertigung Flüge komfortabler machen, Abfertigungsprozesse an deutschen Flughäfen beschleunigen und zu spürbaren Zeitersparnissen für Passagiere führen wird. Er erwähnte zudem erwartete Kosteneinsparungen von rund 63 Millionen Euro für Fluggesellschaften, was den Standort Deutschland attraktiver mache und den Bürokratieabbau vorantreibe.",
+      "source_title": "Gesetz zur Ermöglichung der digitalen Fluggastabfertigung",
+      "url": "https://www.cducsu.de/presse/gesetz-zur-ermoeglichung-der-digitalen-fluggastabfertigung",
+      "platform": "Presse"
+    },
+    {
+      "name": "Otto Strauß",
+      "party": "AfD",
+      "found": true,
+      "statement": "Otto Strauß und seine Fraktion kritisierten extern die Luftverkehrsteuer als nachteilig für die Luftfahrtbranche und die Wettbewerbsfähigkeit deutscher Flughäfen. Sie forderten die Abschaffung dieser Steuer, da sie eine effektivere Maßnahme zur Stärkung des Standortes Deutschland und zur Entlastung der Bürger darstelle als die Digitalisierung allein.",
+      "source_title": "Regierung übernimmt Forderung AfD-Fraktion zur Luftverkehrsteuer",
+      "url": "https://afdbundestag.de/regierung-uebernimmt-forderung-afd-fraktion-zur-luftverkehrsteuer/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anja Troff-Schaffarzyk",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jeanne Dillschneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Jeanne Dillschneider betonte in externen Erklärungen zur digitalen Gesetzgebung, dass innovative Datennutzung nur im Einklang mit dem Datenschutz gelingen kann. Sie warnte davor, grundlegende Schutzstandards aufzuweichen, insbesondere wenn es um die Weitergabe von Daten an private Akteure geht.",
+      "source_title": "Digital-Omnibus – Kein Freifahrtschein für den Abbau von Schutzstandards",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Agnes Conrad",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
