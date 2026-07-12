@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum geänderten Umwelt-Rechtsbehelfsgesetz spiegeln die divergierenden Positionen der Bundestagsdebatte wider. Befürworter wie Daniel Rinkert (SPD) und die CDU/CSU-Fraktion (stellvertretend für Christian Moser) betonten die Schaffung von Planungssicherheit für Infrastrukturprojekte und eine Stärkung des Umweltschutzes durch pragmatische Lösungen und gestraffte Klagerechte. Daniel Rinkert hob hervor, dass das Gesetz das Klagerecht für Umweltverbände regelt und zugleich Investitionen beschleunigt. Die AfD, vertreten durch Tobias Matthias Peterka, kritisierte den Regierungsentwurf als unzureichend und forderte einen echten Rückbau des Klagerechts für staatsfinanzierte Organisationen, die ihrer Meinung nach staatliche Entscheidungen blockieren. Dr. Jan Niklas Gesenhues (Bündnis 90/Die Grünen) und Violetta Bock (Die Linke) äußerten hingegen scharfe Kritik an der \"Entrechtiung\" der Umweltverbände und der Schwächung des Natur- und Umweltschutzes, wobei Gesenhues das Konzept des Missbrauchs von Verbandsklagen als \"Phantom\" bezeichnete. Bock warf der Koalition vor, denen, die Gesundheit und Umwelt schützen, Steine in den Weg zu legen, was \"fatal und kurzsichtig\" sei.",
+  "sources": [
+    {
+      "name": "Daniel Rinkert",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Rinkert erklärte, dass die Novelle des Umweltrechtsbehelfsgesetzes das Klagerecht für Umweltverbände stärkt und gleichzeitig mehr Planungssicherheit für Investitionen schafft. Er sieht darin einen ausgewogenen und praxisnahen Beitrag zur Modernisierung Deutschlands, der wichtige Zukunftsprojekte schneller voranbringt, ohne den Schutz der natürlichen Lebensgrundlagen zu vernachlässigen.",
+      "source_title": "Für guten Umweltschutz und leistungsfähige Infrastruktur | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/fuer-guten-umweltschutz-und-leistungsfaehige-infrastruktur",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tobias Matthias Peterka",
+      "party": "AfD",
+      "found": true,
+      "statement": "Tobias Matthias Peterka äußerte sich kritisch zum Regierungsentwurf, den er als \"halbgar\" bezeichnete. Er forderte in einem YouTube-Video, das Klagerecht ausschließlich auf Organisationen zu beschränken, die nicht staatsfinanziert sind, da staatlich finanzierte Organisationen seiner Ansicht nach staatliche Entscheidungen blockieren würden.",
+      "source_title": "End State-Funded Obstructionism! - Tobias Peterka - AfD Parliamentary Group in the Bundestag",
+      "url": "https://www.youtube.com/watch?v=0wQ1xM2f7Sg",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Die CDU/CSU-Fraktion, deren Position Christian Moser in der Debatte vertrat, erklärte, dass die Reform des Umwelt-Rechtsbehelfsgesetzes pragmatische Lösungen für Infrastruktur- und Bauvorhaben schafft. Ziel sei es, den Bau von Straßen und Gebäuden zu beschleunigen und gleichzeitig den Rechtsschutz in Umweltangelegenheiten effizienter zu gestalten.",
+      "source_title": "Umwelt-Rechtsbehelfsgesetz (07/2026) | CDU Deutschlands",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Jan Niklas Gesenhues",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Jan Niklas Gesenhues kritisierte die geplante Änderung des Umwelt-Rechtsbehelfsgesetzes scharf, da sie das Verbandsklagerecht in der Summe ineffektiv mache. Er bezeichnete den \"angeblichen Missbrauch\" von Verbandsklagen als ein \"Phantom des Umweltrechts\", da der Bundesregierung keine konkreten Fälle bekannt seien, was er in einem Entschließungsantrag und einer Pressemitteilung darlegte.",
+      "source_title": "Umweltverbände unter Generalverdacht: Bundesregierung kann keine Fälle von Missbrauch des Klagerechts nennen | Jan-Niclas Gesenhues",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Violetta Bock",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Violetta Bock warf der Koalition vor, \"denen, die unsere Gesundheit und Umwelt schützen, Steine in den Weg zu legen\". Sie bezeichnete dies als \"fatal und kurzsichtig\" und kritisierte die Aufhebung der aufschiebenden Wirkung bei Klagen, da dies der Regierung ermögliche, Fakten zu schaffen, bevor Recht entstehen kann.",
+      "source_title": "Presse | Violetta Bock",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

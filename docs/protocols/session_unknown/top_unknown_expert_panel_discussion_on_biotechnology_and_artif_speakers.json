@@ -1,0 +1,41 @@
+{
+  "synthesis": "Außerhalb des Bundestages zeigen sich die Abgeordneten Karl Lauterbach (SPD) und Michael Kaufmann (AfD) aktiv in der Debatte um Biotechnologie und Künstliche Intelligenz. Lauterbach, als ehemaliger Bundesgesundheitsminister und heutiger Vorsitzender des Forschungsausschusses, betont das immense Potenzial von KI in der Medizin zur Verbesserung von Diagnostik und Behandlung, warnt jedoch eindringlich vor den Missbrauchsrisiken für Biowaffen und fordert umfassende Regulierung sowie Datensicherheit. Michael Kaufmann, forschungspolitischer Sprecher der AfD, äußert ebenfalls tiefe Besorgnis über die Dual-Use-Natur der Forschung, insbesondere im Bereich der 'Gain of Function'-Forschung an Viren, und mahnt vor der Gefahr einer Nutzung für Biowaffen. Für die Abgeordnete Sara Nanni (Bündnis 90/Die Grünen), die sicherheitspolitische Sprecherin ihrer Fraktion ist, sowie für Herrn Birg, konnte keine spezifischen externen Stellungnahmen zu diesem direkten Thema identifiziert werden.",
+  "sources": [
+    {
+      "name": "Prof. Dr. Karl Lauterbach",
+      "party": "SPD",
+      "found": true,
+      "statement": "Karl Lauterbach sieht Künstliche Intelligenz als Gamechanger für die medizinische Forschung und Behandlung in Deutschland, der zu einer spürbaren Verbesserung der Versorgung führen kann. Er betont jedoch gleichzeitig die Notwendigkeit strikter Regulierung, um den Missbrauch von KI zur Entwicklung gefährlicher Biowaffen durch staatliche oder terroristische Akteure zu verhindern. Er warnt vor der Möglichkeit, dass KI-Systeme neuartige, potenziell gefährliche Viren generieren könnten, und fordert die Etablierung eines globalen Datenraums für Forschungszwecke, während Patientendaten geschützt werden müssen.",
+      "source_title": "Vielfältige Quellen, u.a. ZEIT für Forschung, DER SPIEGEL, ZDF, Deutsches Ärzteblatt, Bundesministerium für Gesundheit",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sara Nanni",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Prof. Dr. Michael Kaufmann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Michael Kaufmann warnt vor den Risiken der 'Gain of Function'-Forschung, bei der Krankheitserreger gefährlicher gemacht werden, und fordert ein Verbot dieser Art von Forschung. Er betont, dass die Ergebnisse solcher Forschungen immer auch als Biowaffen verwendet werden könnten und dass Unfälle mit gefährlichen Viren nie völlig auszuschließen sind. Kaufmann hinterfragt auch die Notwendigkeit von Schutzmaßnahmen gegen selbstreplizierende KI-Systeme, was seine Bedenken bezüglich der unkontrollierten Entwicklung von Hochrisikotechnologien unterstreicht.",
+      "source_title": "Tickende Zeitbombe in der Virenforschung (AfD-Fraktion Pressemitteilung), Frage auf Abgeordnetenwatch",
+      "url": "https://afdbundestag.de/michael-kaufmann-tickende-zeitbombe-in-der-virenforschung/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Herr Birg",
+      "party": "N/A",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

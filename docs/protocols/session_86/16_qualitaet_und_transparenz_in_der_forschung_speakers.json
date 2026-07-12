@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen der in der Bundestagsdebatte vom 2026-06-25 identifizierten Abgeordneten zum Thema 'Qualität und Transparenz in der Forschung' zeigt, dass Nicole Höchst (AfD) ihre Position zur Notwendigkeit der Abwehr ideologischer Einflüsse auf die Wissenschaft und zur Sicherung der Wissenschaftsfreiheit auf ihrer persönlichen Website und in einer Pressemitteilung ihrer Fraktion bekräftigt hat. Dr. Carolin Wagner (SPD) hat sich auf Abgeordnetenwatch zu systemischen Verbesserungen der Arbeitsbedingungen im deutschen Wissenschaftssystem geäußert, was indirekt zur Förderung der Forschungsqualität beiträgt. Für Frederik Buffier (CDU/CSU), Maja Wallstein (SPD), Eiche Aar (Bündnis 90/Die Grünen), Sonja Linke (Die Linke), Dr. Hans Teis (CDU/CSU) und Dr. Ingo Hahn (AfD) konnten keine spezifischen externen Stellungnahmen oder Beiträge zu diesem genauen Thema außerhalb ihrer parlamentarischen Redebeiträge und ihrer allgemeinen politischen Portfolios gefunden werden. Dies deutet darauf hin, dass die Diskussion über staatliche Eingriffe in die Wissenschaftsfreiheit und die Mechanismen zur Qualitätssicherung primär im parlamentarischen Raum geführt wurde oder externe Kommunikationen breitere Themen abdeckten.",
+  "sources": [
+    {
+      "name": "Frederik Buffier",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Nicole Höchst",
+      "party": "AfD",
+      "found": true,
+      "statement": "Nicole Höchst betont auf ihrer persönlichen Website, dass die Freiheit von Forschung und Lehre durch 'Cancel Culture' und 'Agendawissenschaften' bedroht sei und kritisiert eine ideologische Aufladung interdisziplinärer Forschungsfelder. Ergänzend dazu initiierte sie als forschungspolitische Sprecherin ein interfraktionelles Treffen der AfD-Fraktionen, das die abnehmende politische Neutralität an Universitäten und die Gefährdung der Wissenschaftsfreiheit zum Thema hatte und eine Resolution verabschiedete.",
+      "source_title": "Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung auf nicole-hoechst.de; Interfraktionelles Treffen der forschungs- und wissenschaftspolitischen Sprecher der AfD-Fraktionen",
+      "url": "https://www.nicole-hoechst.de/bildung/",
+      "platform": "Website"
+    },
+    {
+      "name": "Maja Wallstein",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Eiche Aar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sonja Linke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Hans Teis",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Carolin Wagner fordert auf Abgeordnetenwatch Verbesserungen für Beschäftigte im wissenschaftlichen Betrieb, darunter Mindestvertragslaufzeiten, umfassende Regelungen zum Nachteilsausgleich und den weitgehenden Entfall der Tarifsperre. Diese Maßnahmen sollen das deutsche Wissenschaftssystem stärken und zur Sicherung der Qualität in der Forschung beitragen.",
+      "source_title": "Wie lässt sich das deutsche Wissenschaftssystem wieder nach vorne bringen? | Frage an Carolin Wagner (SPD)",
+      "url": "https://www.abgeordnetenwatch.de/profile/carolin-wagner/fragen-antworten/wie-laesst-sich-das-deutsche-wissenschaftssystem-wieder-nach-vorne-bringen",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

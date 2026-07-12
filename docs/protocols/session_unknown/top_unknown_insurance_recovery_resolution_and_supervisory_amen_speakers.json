@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Analyse externer Äußerungen der in der Bundestagsdebatte zum Versicherungssanierungs-, Abwicklungs- und Aufsichtsänderungsgesetz (VSAG) sprechenden Abgeordneten zeigt ein heterogenes Bild. Während für die meisten identifizierten Redner keine spezifischen externen Stellungnahmen direkt zu diesem Gesetzesentwurf gefunden wurden, äußerte sich Hauke Finger (AfD) wiederholt kritisch zur generellen Überregulierung durch die Umsetzung von EU-Richtlinien in Deutschland, insbesondere wenn diese über die eigentlichen Vorgaben hinausgehen ('Goldplating'). Diese Haltung spiegelt die Bedenken wider, die auch von Branchenvertretern in der Anhörung bezüglich des VSAG vorgebracht wurden, und deutet auf eine grundsätzliche Ablehnung einer umfangreicheren nationalen Umsetzung europäischer Vorgaben hin.",
+  "sources": [
+    {
+      "name": "Dr. Botesser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Hauke Finger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Hauke Finger kritisiert in einer Rede im Bundestag die Praxis der Bundesregierung, EU-Richtlinien über das geforderte Maß hinaus umzusetzen, was zu unnötiger Bürokratie und zusätzlichen Kosten führe. Er bemängelt, dass Deutschland oftmals Regelungen aus Brüssel als Befehlsempfänger umsetze, auch wenn diese irrelevant oder schädlich seien, und dabei noch 'Goldplating' betreibe, anstatt Gestaltungsspielräume zu nutzen, um Nachteile für die deutsche Wirtschaft zu vermeiden. Er sieht darin eine Überregulierung, die Deutschland Wettbewerbsnachteile verschafft.",
+      "source_title": "Hauke Finger rechnet mit den EU-Überregulierung-Fantasien ab! AfD-Fraktion im Bund...",
+      "url": "https://www.youtube.com/watch?v=kY61x_J_0J4",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Herr Schraps",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Frau Vandrej",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

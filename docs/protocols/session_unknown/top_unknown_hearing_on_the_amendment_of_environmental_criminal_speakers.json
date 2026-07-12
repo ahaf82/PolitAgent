@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Analyse der Positionen der Abgeordneten zur Änderung des Umweltstrafrechts zeigt eine klare Befürwortung der Reform durch Dr. Johannes Fechner (SPD). Er betont die Notwendigkeit, Umweltkriminalität als wachsendes Betätigungsfeld organisierter Kriminalität konsequenter zu bekämpfen und durch die Umsetzung der EU-Richtlinie 2024/1203 modernere sowie wirksamere Regeln zu schaffen. Für die Abgeordneten Moser (CDU/CSU), Benner (Bündnis 90/Die Grünen) und Demir (Die Linke) konnten aufgrund fehlender eindeutiger vollständiger Namenszuordnungen im Kontext der Debatte keine spezifischen externen Stellungnahmen gefunden werden. Auch für Katrin Helling-Plahr (FDP) ließen sich keine direkten externen Äußerungen zum Umweltstrafrecht identifizieren, obwohl sie als rechtspolitische Sprecherin ihrer Fraktion im Rechtsausschuss aktiv ist.",
+  "sources": [
+    {
+      "name": "Dr. Johannes Fechner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Johannes Fechner befürwortet die Reform des Umweltstrafrechts und betont, dass die Umsetzung der EU-Richtlinie 2024/1203 den strafrechtlichen Schutz von Umwelt und Natur deutlich stärkt. Er sieht Umweltkriminalität als drittgrößtes Kriminalitätsphänomen und ein wachsendes Betätigungsfeld organisierter Kriminalität, das modernere und wirksamere Regeln erfordert, um Umweltschäden aus Profitgier konsequenter zu verfolgen und härter zu bestrafen.",
+      "source_title": "Reform des Umweltstrafrechts stärkt Kampf gegen organisierte Kriminalität",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/reform-umweltstrafrechts-staerkt-kampf-gegen-organisierte-kriminalitaet",
+      "platform": "Presse"
+    },
+    {
+      "name": "Herr Moser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Katrin Helling-Plahr",
+      "party": "FDP",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Herr Benner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    },
+    {
+      "name": "Herr Demir",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": ""
+    }
+  ]
+}
