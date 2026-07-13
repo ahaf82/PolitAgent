@@ -1,5 +1,18 @@
 [
   {
+    "id": "hkbpBqS1blk",
+    "title": "89. Sitzung vom 09.07.2026. TOP ZP 3: Regierungserklärung zur aktuellen politischen Lage",
+    "session": 89,
+    "date": "2026-07-09",
+    "top": "ZP 3",
+    "topic": "Regierungserklärung zur aktuellen politischen Lage",
+    "summary_path": "protocols/session_89/zp_3_regierungserklaerung_zur_aktuellen_politischen_lag.md",
+    "documents_path": "protocols/session_89/zp_3_regierungserklaerung_zur_aktuellen_politischen_lag_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=hkbpBqS1blk",
+    "processed_at": "2026-07-13T20:10:23.877319"
+  },
+  {
     "id": "u945CZ3Xfgg",
     "title": "88. Sitzung vom 08.07.2026. TOP ZP 1: Aktuelle Stunde zu mutmaßlichen Angriffen gegen Journalisten",
     "session": 88,
@@ -1925,6 +1938,45 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "qMNv-v7kn0g",
+    "title": "89th Session of 07/09/2026. Agenda Items 8, Supplementary Item 4: Rail Policy, Speed Limit, Trans...",
+    "session": 89,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Eisenbahnpolitik, Tempolimit und Klimaschutz: Debatte im Bundestag",
+    "summary_path": "protocols/session_89/top_unknown_89th_session_of_07_09_2026_agenda_items_8_suppleme.md",
+    "documents_path": "protocols/session_89/top_unknown_89th_session_of_07_09_2026_agenda_items_8_suppleme_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=qMNv-v7kn0g",
+    "processed_at": "2026-07-13T20:02:16.103841"
+  },
+  {
+    "id": "m9livPN7gBg",
+    "title": "89th Session of July 9, 2026. Agenda Item 9: Automatic Child Benefit",
+    "session": 89,
+    "date": "N/A",
+    "top": "9",
+    "topic": "Einführung eines Antragslosen Kindergeldes",
+    "summary_path": "protocols/session_89/9_89th_session_of_july_9_2026_agenda_item_9_automati.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_89/9_89th_session_of_july_9_2026_agenda_item_9_automati_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=m9livPN7gBg",
+    "processed_at": "2026-07-13T20:05:01.316029"
+  },
+  {
+    "id": "-oWf98BoFyE",
+    "title": "89th Session of July 9, 2026. Agenda Item 23: Commission of Inquiry on the \"Future of Media Regul...",
+    "session": 89,
+    "date": "N/A",
+    "top": "23",
+    "topic": "89. Sitzung vom 9. Juli 2026. Tagesordnungspunkt 23: Einsetzung einer Enquête-Kommission zur Zukunft der Medienordnung",
+    "summary_path": "protocols/session_89/23_89th_session_of_july_9_2026_agenda_item_23_commiss.md",
+    "documents_path": "protocols/session_89/23_89th_session_of_july_9_2026_agenda_item_23_commiss_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=-oWf98BoFyE",
+    "processed_at": "2026-07-13T20:07:30.309900"
   },
   {
     "id": "hATNSC7L1lc",

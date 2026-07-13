@@ -1,0 +1,131 @@
+{
+  "synthesis": "Die Debatte über die Einführung eines antragslosen Kindergeldes im Bundestag offenbarte unterschiedliche Prioritäten und Lösungsansätze der Parteien. Während SPD, CDU/CSU und FDP die Maßnahme als wichtigen Schritt zur Bürokratieentlastung und Modernisierung des Staates begrüßten, übte die AfD scharfe Kritik an potenziellen Missbrauchsmöglichkeiten und Auslandszahlungen. Die Grünen und Die Linke stellten zwar ebenfalls positive Aspekte heraus, bemängelten jedoch, dass die Entlastung nicht alle Familien erreiche und forderten weitergehende sozialpolitische Maßnahmen zur Bekämpfung von Kinderarmut.",
+  "sources": [
+    {
+      "name": "Pars Maav",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kai Gottschalg",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert, dass das antraglose Kindergeld die Kernproblematik der Kindergeldzahlungen ins Ausland nicht löse und hohe Beträge ins Ausland gezahlt würden, was eine Benachteiligung von Kindern in Deutschland darstelle. Er schlug eine Anpassung an lokale Lebenshaltungskosten vor.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=3m44s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Lukas Krieger",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Beschreibt das antraglose Kindergeld als einen kleinen, aber konkreten Schritt zu einer moderneren und familienfreundlicheren Verwaltung, die Eltern entlasten soll. Er wies auch darauf hin, dass der Gesetzentwurf der AfD europarechtswidrig sei.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=9m13s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Moritz Heuberger",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Begrüßte die Reduzierung von Kindergeldanträgen, kritisierte jedoch, dass die Entlastung nicht alle Familien erreiche und Erstgeborene erst später einbezogen würden. Er forderte einen barrierefreien und mehrsprachigen 'Kinderleistungscheck'.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=17m27s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sah das Gesetz als prinzipiell begrüßenswert an, kritisierte jedoch, dass es im Kontext von Kürzungen im Sozialstaat stehe und keine wirkliche Erleichterung darstelle, da die Kinderarmut weiterhin hoch sei. Sie forderte eine Erhöhung des Kindergeldes.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=22m21s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Truls Reich",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Marcel Queckemeier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bezeichnete das antraglose Kindergeld als 'Feigenblatt', da es das Problem der Kindergeldzahlungen ins Ausland nicht löse. Er präsentierte Zahlen zu Auslandszahlungen und forderte deren Anpassung an lokale Lebenshaltungskosten.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=29m30s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Mechthilde Wittmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Begrüßte den Gesetzentwurf und betonte die Wichtigkeit von Kindern und Familien. Sie kritisierte die Positionen von Bündnis 90/Die Grünen und Die Linke und warb für die Zustimmung zum Gesetz.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=34m03s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Katharina Beck",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Mareike Hermeier",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sah im Gesetzentwurf eine schwache Umsetzung der Idee, Familien zu entlasten, und kritisierte die Benachteiligung von Müttern nach Trennung. Sie forderte eine Erhöhung des Elterngeldes und kostenlose Betreuung.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=44m42s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Frauke Heiligenstadt",
+      "party": "SPD",
+      "found": true,
+      "statement": "Wies die Argumentation der AfD zurück, indem sie auf die Beiträge von Menschen mit ausländischem Pass zur deutschen Wirtschaft hinwies. Sie betonte die Wichtigkeit von Vertrauen und Entlastung für Familien und erklärte, dass Informations- und Widerspruchsrechte bei der Auszahlung des Kindergeldes enthalten seien.",
+      "source_title": "Redebeitrag zu TOP 9: Antragsloses Kindergeld",
+      "url": "https://www.youtube.com/watch?v=m9livPN7gBg&t=48m00s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Ren Springer",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Matthias Hiller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Oliver Pöpsel",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
