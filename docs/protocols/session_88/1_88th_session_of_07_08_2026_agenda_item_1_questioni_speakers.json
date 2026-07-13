@@ -1,0 +1,41 @@
+{
+  "synthesis": "Außerhalb des Bundestages haben die identifizierten Abgeordneten ihre Positionen zu den Debattenthemen bekräftigt. Bundesjustizministerin Dr. Stefanie Hubig (SPD) fokussierte sich auf die Stärkung des Rechtsstaates, den Kampf gegen Gewalt und mietrechtliche Reformen. Bundesumweltminister Carsten Schneider (SPD) hob die Bedeutung des Klimaschutzes, den Ausbau erneuerbarer Energien und Anpassungsmaßnahmen hervor. Rainer Galla (AfD) äußerte sich kritisch zur Klimapolitik der Bundesregierung und sprach sich für die Wiederinbetriebnahme von Kernkraftwerken aus. Für Dr. Thomas Gebhart (CDU/CSU) wurden keine spezifischen externen Aussagen zum Emissionshandel gefunden, die seinen Beitrag im Plenum direkt widerspiegeln.",
+  "sources": [
+    {
+      "name": "Dr. Stefanie Hubig",
+      "party": "SPD",
+      "found": true,
+      "statement": "Hubig bekräftigte in einer Regierungsbefragung am 8. Juli 2026, dass der 'Pakt für den Rechtsstaat' mehr Digitalisierung und effizientere Verfahren ermögliche, mit einer halben Milliarde Euro vom Bund. Sie kündigte zudem Maßnahmen gegen digitale und physische Gewalt sowie Regelungen zu Mietrechtspaketen und dem Ticketzweitmarkt an.",
+      "source_title": "Justizministerin Hubig: Auf eine starke Justiz muss jeder bauen können",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-regierungsbefragung-1154632",
+      "platform": "Presse"
+    },
+    {
+      "name": "Carsten Schneider",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bundesumweltminister Schneider betonte am 26. Juni 2026 die Bedeutung des Infrastruktur-Zukunftsgesetzes und eines ergänzenden Naturinfrastruktur-Gesetzes, um Eingriffe in die Natur auszugleichen und Naturschutzprojekte zu beschleunigen. Am 29. Juni 2026 forderte er Länder und Kommunen auf, Sondervermögen für Hitzeschutzmaßnahmen, wie solarbetriebene Klimaanlagen, zu nutzen.",
+      "source_title": "Carsten Schneider zum Infrastruktur-Zukunftsgesetz | Meldung - BMUKN / Debatte über Hitzeschutz - Deutschlandfunk",
+      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-spd-fordert-laender-und-kommunen-auf-sondervermoegen-etwa-fuer-gruenen-vors-106.html",
+      "platform": "Website"
+    },
+    {
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "found": false,
+      "statement": "Am 8. Juli 2026 veröffentlichte die AfD-Fraktion (von Rainer Gallas MdB-Seite verlinkt) eine Pressemitteilung, die kritisiert, dass die Bundesregierung 'unplausible Klimaszenarien' als Entscheidungsgrundlage verwendet hat und kündigte weitere Aufklärung an. Des Weiteren forderten AfD-Abgeordnete, darunter indirekt Galla, am 29. Juni 2026 die Wiederinbetriebnahme deutscher Kernkraftwerke, da diese im Vergleich zu Gaskraftwerken kostengünstiger und sicherer seien.",
+      "source_title": "Bundesregierung räumt unplausible Klimaszenarien ein – Rainer Galla MdB / Kernkraftwerke reaktivieren statt neue Gaskraftwerke subventionieren - Rainer Galla",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Thomas Gebhart",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

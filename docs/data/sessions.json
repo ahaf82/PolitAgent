@@ -1,5 +1,70 @@
 [
   {
+    "id": "u945CZ3Xfgg",
+    "title": "88. Sitzung vom 08.07.2026. TOP ZP 1: Aktuelle Stunde zu mutmaßlichen Angriffen gegen Journalisten",
+    "session": 88,
+    "date": "2026-07-08",
+    "top": "ZP 1",
+    "topic": "Aktuelle Stunde zu mutmaßlichen Angriffen gegen Journalisten",
+    "summary_path": "protocols/session_88/zp_1_aktuelle_stunde_zu_mutmasslichen_angriffen_gegen_j.md",
+    "documents_path": "protocols/session_88/zp_1_aktuelle_stunde_zu_mutmasslichen_angriffen_gegen_j_documents.json",
+    "speakers_path": "protocols/session_88/zp_1_aktuelle_stunde_zu_mutmasslichen_angriffen_gegen_j_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=u945CZ3Xfgg",
+    "processed_at": "2026-07-13T08:23:49.706176"
+  },
+  {
+    "id": "HpdKFfsJILk",
+    "title": "88th Session on 07/08/2026. Agenda Item 6: Dissolution of the BMZ, Transparency in Development Aid",
+    "session": 88,
+    "date": "2026-07-08",
+    "top": "6",
+    "topic": "Auflösung des BMZ und Transparenz in der Entwicklungszusammenarbeit",
+    "summary_path": "protocols/session_88/6_dissolution_of_the_bmz_transparency_in_development.md",
+    "documents_path": "protocols/session_88/6_dissolution_of_the_bmz_transparency_in_development_documents.json",
+    "speakers_path": "protocols/session_88/6_dissolution_of_the_bmz_transparency_in_development_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=HpdKFfsJILk",
+    "processed_at": "2026-07-13T08:22:10.252416"
+  },
+  {
+    "id": "MTz2-oqcgQU",
+    "title": "88th Session on 07/08/2026. Agenda Item 4: Ending the Russian War Against Ukraine",
+    "session": 88,
+    "date": "2026-07-08",
+    "top": "4",
+    "topic": "Den russischen Krieg gegen die Ukraine beenden",
+    "summary_path": "protocols/session_88/4_ending_the_russian_war_against_ukraine.md",
+    "documents_path": "protocols/session_88/4_ending_the_russian_war_against_ukraine_documents.json",
+    "speakers_path": "protocols/session_88/4_ending_the_russian_war_against_ukraine_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=MTz2-oqcgQU",
+    "processed_at": "2026-07-13T08:18:46.885232"
+  },
+  {
+    "id": "PkcQuJa7njU",
+    "title": "88th Session on 07/08/2026. Agenda Item 3: 250 Years of the USA",
+    "session": 88,
+    "date": "2026-07-08",
+    "top": "3",
+    "topic": "250 Jahre USA – Freiheit, Demokratie und Verantwortung",
+    "summary_path": "protocols/session_88/3_250_years_of_the_usa.md",
+    "documents_path": "protocols/session_88/3_250_years_of_the_usa_documents.json",
+    "speakers_path": "protocols/session_88/3_250_years_of_the_usa_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=PkcQuJa7njU",
+    "processed_at": "2026-07-13T08:16:43.727627"
+  },
+  {
+    "id": "mVoSXo_mUd0",
+    "title": "88th Session on 07/08/2026. Agenda Item 2: Question Time",
+    "session": 88,
+    "date": "2026-07-08",
+    "top": "2",
+    "topic": "Fragestunde",
+    "summary_path": "protocols/session_88/2_question_time.md",
+    "documents_path": "protocols/session_88/2_question_time_documents.json",
+    "speakers_path": "protocols/session_88/2_question_time_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=mVoSXo_mUd0",
+    "processed_at": "2026-07-13T08:15:00.552030"
+  },
+  {
     "id": "fwq2_9LZP-0",
     "title": "87th Session on 06/26/2026. Agenda Item SP 17: Current Affairs Debate: Recommendations of the Pen...",
     "session": 87,
@@ -268,7 +333,7 @@
     "topic": "Gewinnmargen der Mineralölindustrie",
     "summary_path": "protocols/session_86/14_zp_8_gewinnmargen_der_mineraloelindustrie.md",
     "documents_path": "protocols/session_86/14_zp_8_gewinnmargen_der_mineraloelindustrie_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_86/14_zp_8_gewinnmargen_der_mineraloelindustrie_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=nEMhJWU8ty4",
     "processed_at": "2026-06-27T09:07:29.159083"
   },
@@ -1860,6 +1925,45 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "hATNSC7L1lc",
+    "title": "88th Session on 07/08/2026. Agenda item: Procedural motion",
+    "session": 88,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Tagesordnungspunkt: Geschäftsordnungsantrag",
+    "summary_path": "protocols/session_88/top_unknown_agenda_item_procedural_motion.md",
+    "documents_path": "protocols/session_88/top_unknown_agenda_item_procedural_motion_documents.json",
+    "speakers_path": "protocols/session_88/top_unknown_agenda_item_procedural_motion_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=hATNSC7L1lc",
+    "processed_at": "2026-07-13T08:06:38.676046"
+  },
+  {
+    "id": "aqQTb52WozE",
+    "title": "88th Session, July 8, 2026. Agenda Item 5, Sub-item 2: Code of Criminal Procedure, Digital Invest...",
+    "session": 88,
+    "date": "N/A",
+    "top": "5,",
+    "topic": "88. Sitzung, 8. Juli 2026: Änderung der Strafprozessordnung – Digitale Ermittlungsmaßnahmen und Stärkung digitaler Ermittlungsbefugnisse",
+    "summary_path": "protocols/session_88/5_88th_session_july_8_2026_agenda_item_5_sub_item_2_.md",
+    "documents_path": "protocols/session_88/5_88th_session_july_8_2026_agenda_item_5_sub_item_2__documents.json",
+    "speakers_path": "protocols/session_88/5_88th_session_july_8_2026_agenda_item_5_sub_item_2__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=aqQTb52WozE",
+    "processed_at": "2026-07-13T08:20:26.138530"
+  },
+  {
+    "id": "t-4cDG1jB20",
+    "title": "88th Session of 07/08/2026. Agenda Item 1: Questioning of the Federal Government (BMJV and BMUKN)",
+    "session": 88,
+    "date": "N/A",
+    "top": "1",
+    "topic": "Befragung der Bundesregierung (BMJV und BMUKN) – 88. Sitzung vom 7. August 2026, Tagesordnungspunkt 1",
+    "summary_path": "protocols/session_88/1_88th_session_of_07_08_2026_agenda_item_1_questioni.md",
+    "documents_path": "protocols/session_88/1_88th_session_of_07_08_2026_agenda_item_1_questioni_documents.json",
+    "speakers_path": "protocols/session_88/1_88th_session_of_07_08_2026_agenda_item_1_questioni_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=t-4cDG1jB20",
+    "processed_at": "2026-07-13T08:12:04.727559"
   },
   {
     "id": "_cnVjqyylTg",
@@ -4625,6 +4729,19 @@
     "speakers_path": "protocols/session_unknown/top_unknown_20th_meeting_of_the_parliamentary_advisory_council_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=JA9y-EmnMSk",
     "processed_at": "2026-07-12T20:18:11.217493"
+  },
+  {
+    "id": "YPl4rx_wtvM",
+    "title": "Wirtschaftliche Folgen und Branchenhilfen",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Wirtschaftliche Folgen und Branchenhilfen",
+    "summary_path": "protocols/session_unknown/top_unknown_wirtschaftliche_folgen_und_branchenhilfen.md",
+    "documents_path": "protocols/session_unknown/top_unknown_wirtschaftliche_folgen_und_branchenhilfen_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=YPl4rx_wtvM",
+    "processed_at": "2026-07-13T08:04:11.123508"
   },
   {
     "id": "vHNXQug-Frc",
