@@ -1,0 +1,124 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4476",
+      "title": "Erkenntnisse der Bundesregierung über sexuellen Missbrauch von Kindern und Jugendlichen und die Aufklärung der Epstein-Dokumente",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4476&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4479",
+      "title": "Versorgung von Kindern und Jugendlichen in der außerklinischen Intensivpflege",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4479&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4488",
+      "title": "Digitale Verfahren und föderale Zusammenarbeit bei der Bekämpfung des Umsatzsteuerbetrugs",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4488&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4478",
+      "title": "Rassismus als gesamtgesellschaftliche Herausforderung – Handlungsbedarf der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4478&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4480",
+      "title": "Gesetz zur Änderung der Gewährung von Leistungen für Personen, die in Anwendung der Richtlinie 2001/55/EG eine Aufenthaltserlaubnis zur Aufenthaltsgewährung zum vorübergehenden Schutz erhalten oder beantragt haben (Leistungsrechtsanpassungsgesetz)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4480&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4491",
+      "title": "Inklusive Ausgestaltung der Kinder- und Jugendhilfe vor dem Hintergrund der Belastung der Beschäftigten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4491&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4482",
+      "title": "Teilhabe bei Pflegebedarf – Umsetzung bei Menschen unter 65",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4482&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4489",
+      "title": "Kostentransparenz und Datenlage zu Gesundheitskosten von Ausländern und nicht versicherungspflichtigen Personen in Deutschland",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4489&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 21/4471",
+      "title": "Gutes Leben für alle – Handlungsfähigkeit der Kommunen wiederherstellen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4471&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4474",
+      "title": "Entschließungsantrag zur dritten Beratung des Gesetzentwurfs der Bundesregierung – Entwurf eines Gesetzes zur Änderung des Bundesjagdgesetzes und zur Änderung des Bundesnaturschutzgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4474&rows=25",
+      "type": "Entschließungsantrag"
+    },
+    {
+      "number": "Drucksache 21/2474",
+      "title": "Entwurf eines Gesetzes zur Änderung des Lieferkettensorgfaltspflichtengesetzes – Entlastung der Unternehmen durch anwendungs- und vollzugsfreundliche Umsetzung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2474&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/3471",
+      "title": "Entwicklungsstand der Ergänzung des Zugangsrechts von Gewerkschaften in Betriebe um einen digitalen Zugang",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3471&rows=25",
+      "type": "Kleine Anfrage"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf zur Einführung eines antragslosen Kindergeldes wurde mit den Stimmen von SPD, Bündnis 90/Die Grünen und CDU/CSU angenommen. Die Linke und AfD enthielten sich der Stimme. Der Entschließungsantrag der Grünen wurde mit den Stimmen von Die Linke und Bündnis 90/Die Grünen angenommen.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?session=0000&suchbegriff=Antragsloses%20Kindergeld",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Die Linke",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "AfD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      }
+    ]
+  }
+}
