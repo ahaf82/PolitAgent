@@ -1,0 +1,59 @@
+{
+  "synthesis": "Außerhalb des Bundestages zeigen die Abgeordneten ein breites Engagement für die nachhaltige Entwicklung und die Agenda 2030. Parlamentarische Staatssekretärinnen Rita Schwarzelühr-Sutter und Dr. Bärbel Kofler betonen die Dringlichkeit der SDG-Umsetzung und die Notwendigkeit internationaler Zusammenarbeit, auch angesichts globaler Krisen. Caroline Bosbach konzentriert sich auf generationengerechte Politik und wirtschaftliche Nachhaltigkeit. Volker Mayer-Lay plädiert für ein umfassendes Nachhaltigkeitsverständnis, das Ökonomie, Ökologie und Soziales vereint, während er bestimmte politische Ansätze kritisch hinterfragt. Johannes Wagner hebt als ehemaliger Jugenddelegierter die globale Gerechtigkeit, die Jugendbeteiligung und den Zusammenhang von Klimaschutz und Gesundheit hervor. Die aktive Mitgliedschaft von Hendrik Bollmann im relevanten Arbeitskreis unterstreicht sein Engagement im Bereich nachhaltiger Entwicklung.",
+  "sources": [
+    {
+      "name": "Rita Schwarzelühr-Sutter",
+      "party": "SPD",
+      "found": false,
+      "statement": "Nachhaltigkeit ist das Leitmotiv ihrer politischen Arbeit, wobei sie sich für einen lebenswerten Planeten für künftige Generationen und eine Wirtschaftspolitik einsetzt, die Klimaschutz und nachhaltige Landwirtschaft integriert. Sie betont zudem die Dringlichkeit der Agenda 2030 und die Notwendigkeit stärkerer internationaler Zusammenarbeit, um globale Krisen zu überwinden und die SDG-Umsetzung zu beschleunigen.",
+      "source_title": "Standpunkte – Rita Schwarzelühr-Sutter; Germany calls for stronger international cooperation to implement the 2030 Agenda",
+      "url": "N/A",
+      "platform": "Website, Presse"
+    },
+    {
+      "name": "Dr. Bärbel Kofler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sie fordert rasche Fortschritte bei der Umsetzung der Agenda 2030 im 'Jahrzehnt des Handelns' und sieht sie als universellen Fahrplan für eine bessere Zukunft. Besonderen Wert legt sie auf menschenwürdige Arbeit (SDG 8), inklusive Stakeholder-Beteiligung und globale Solidarität, während sie hervorhebt, dass globale Krisen die Umsetzung der Nachhaltigkeitsziele beeinträchtigen.",
+      "source_title": "High-level Political Forum on Sustainable Development July 2022; Bärbel Kofler vertrat Deutschland bei UN-Nachhaltigkeitsforum in New York – Einsatz für faire Arbeit und Mitbestimmung junger Menschen; Germany calls for stronger international cooperation to implement the 2030 Agenda",
+      "url": "https://www.bmz.de/EN/issues/sustainable-development-goals/hlpf/hlpf_july_2022_en_p.html;https://www.spd-traunstein.de/meldungen/baerbel-kofler-vertrat-deutschland-bei-un-nachhaltigkeitsforum-in-new-york-einsatz-fuer-faire-arbeit-und-mitbestimmung-junger-menschen/;https://www.bmz.de/EN/press/press-releases/2025/07/2025_07_22_PM_Germany-calls-for-stronger-international-cooperation-to-implement-the-2030-Agenda_p.html",
+      "platform": "Website, Presse"
+    },
+    {
+      "name": "Caroline Bosbach",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Als Bundestagsabgeordnete und Mitglied des Parlamentarischen Beirats für nachhaltige Entwicklung engagiert sie sich für generationengerechte Politik und wirtschaftliche Nachhaltigkeit. Sie ist eine gefragte Rednerin, die sich mit den Herausforderungen junger Menschen und zukunftsfähigen politischen Strategien auseinandersetzt.",
+      "source_title": "Caroline Bosbach | CDU Rheinisch-Bergischer Kreis; Caroline Bosbach als Referentin buchen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Volker Mayer-Lay",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Als MdB und Mitglied des Parlamentarischen Beirats für nachhaltige Entwicklung setzt er sich für ein umfassendes Nachhaltigkeitskonzept ein, das ökonomische, ökologische und soziale Aspekte vereint. Er betont die Notwendigkeit nachhaltigen Wachstums durch Entkopplung von Ressourcenverbrauch und kritisiert zudem bestimmte sozialpolitische Ansätze im Kontext der Agenda 2030.",
+      "source_title": "Startseite - Volker Mayer-Lay; Ökonomie, Ökologie und Soziales sind die Säulen der Nachhaltigkeit",
+      "url": "N/A",
+      "platform": "Website, Presse"
+    },
+    {
+      "name": "Hendrik Bollmann",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als ordentliches Mitglied der Arbeitsgruppe des Parlamentarischen Beirats für nachhaltige Entwicklung und Zukunftsfragen der SPD-Bundestagsfraktion ist er aktiv in die parlamentarische Auseinandersetzung mit Nachhaltigkeitsthemen eingebunden.",
+      "source_title": "Arbeitsgruppe Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Er, der früher selbst Jugenddelegierter für nachhaltige Entwicklung war, engagiert sich leidenschaftlich für globale Gerechtigkeit und betrachtet die 17 SDGs als einen 'Fahrplan für mehr Gerechtigkeit'. Ein besonderer Schwerpunkt seiner Arbeit liegt auf der Verbindung von Klimaschutz und Gesundheit.",
+      "source_title": "Johannes Wagner, MdB für Dich im Bundestag; Johannes Wagner | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

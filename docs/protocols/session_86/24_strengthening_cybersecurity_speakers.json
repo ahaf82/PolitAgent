@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zur Stärkung der Cybersicherheit im Bundestag zeigt eine klare Spaltung zwischen der Bundesregierung und großen Teilen der Opposition. Während Bundesminister Alexander Dobrindt (CSU) und die Koalitionsfraktionen (SPD, CDU/CSU) die Notwendigkeit betonen, Deutschland von der reinen Aufklärung zur aktiven Cyberabwehr zu befähigen und Angreifer-Infrastrukturen entschlossen zu stören oder zu zerstören, sehen Bündnis 90/Die Grünen und Die Linke dies kritisch. Marcel Emmerich (Bündnis 90/Die Grünen) warnt vor rechtlicher Unsicherheit und unklaren Zuständigkeiten, während Donata Vogtschmidt (Die Linke) die „aktive Cyberabwehr“ als euphemistischen Begriff für völker- und verfassungsrechtlich bedenkliche „Hackbacks“ verurteilt. Daniel Baldy (SPD) unterstreicht die Wichtigkeit klarer Zuständigkeiten, und Christina Stumpp (CDU/CSU) betont die grundlegende Rolle des Schutzes kritischer Infrastrukturen, die über präventive Maßnahmen hinausgehen muss.",
+  "sources": [
+    {
+      "name": "Alexander Dobrindt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bundesinnenminister Dobrindt hat den Gesetzentwurf zur Cybersicherheit als Meilenstein der Sicherheitsarchitektur in Deutschland bezeichnet, der eine entschlossene aktive Cyberabwehr ermögliche. Er betonte, dass Deutschland zukünftig die Infrastruktur von Angreifern stören und zerstören werde, grenzte dies aber explizit von „Hackbacks“ als Vergeltungsschlägen ab und sprach stattdessen von Gefahrenabwehr.",
+      "source_title": "Cybersicherheit: Pressestatement von Bundesinnenminister Alexander Dobrindt | phoenix",
+      "url": "https://www.youtube.com/watch?v=V9KzEKXWYxc",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Daniel Baldy",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Baldy betont die Notwendigkeit, dass Deutschland im Cyberraum gut aufgestellt ist und Sicherheitsbehörden aktiv abwehren können. Er hebt hervor, dass das Gesetz BSI, BKA und Bundespolizei die nötigen Werkzeuge an die Hand gibt, um Cyberangriffe angemessen zu stoppen. Gleichzeitig fordert er in den parlamentarischen Beratungen klare Maßstäbe und Regeln für Zuständigkeiten.",
+      "source_title": "Cybersicherheit stärken - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/cybersicherheit-staerken",
+      "platform": "Website"
+    },
+    {
+      "name": "Marcel Emmerich",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Marcel Emmerich äußerte bereits 2022 auf Abgeordnetenwatch die Forderung, den Schutz kritischer Infrastrukturen zu priorisieren und die Cybersicherheit ernst zu nehmen, wobei er die damalige Lage als 'lächerlich' bezeichnete. Er forderte zudem eine genaue Prüfung der Vorwürfe gegen die BSI-Führung.",
+      "source_title": "Ist uns die deutsche Cybersicherheit im XXI wirklich wichtig? | Frage an Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN) - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/marcel-emmerich/fragen-antworten/ist-uns-die-deutsche-cybersicherheit-im-xxi-wirklich-wichtig",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Donata Vogtschmidt kritisiert scharf, dass die Bundesregierung die 'aktive Cyberabwehr' als Hackbacks verschleiere, die verfassungs- und völkerrechtlich höchst problematisch seien. Sie betont, dass diese Maßnahmen das Risiko internationaler Kollateralschäden bergen und eine Eskalationsspirale auslösen können, was auch von Wissenschaft und Zivilgesellschaft geteilt werde.",
+      "source_title": "Bundesregierung verschleiert geplante Einführung von Hackbacks - Donata Vogtschmidt",
+      "url": "https://www.donatavogtschmidt.de/home/detail/news/hackbacks/",
+      "platform": "Website"
+    },
+    {
+      "name": "Christina Stumpp",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Christina Stumpp hob im Januar 2026 die Bedeutung des KRITIS-Dachgesetzes hervor, das strenge Sicherheitsstandards und Meldepflichten für Betreiber kritischer Infrastrukturen einführt. Sie betonte, dass dies ein entschlossenes Reagieren auf die Bedrohungslage durch Cyberangriffe darstellt und die Resilienz des Landes stärke, um die Funktionsfähigkeit des Alltags zu gewährleisten.",
+      "source_title": "Bundestag: Kritische Infrastruktur schützen - Christina Stumpp MdB",
+      "url": "https://christina-stumpp.de/aktuelles/2026-01-30-bundestag-kritische-infrastruktur-schuetzen/",
+      "platform": "Website"
+    }
+  ]
+}

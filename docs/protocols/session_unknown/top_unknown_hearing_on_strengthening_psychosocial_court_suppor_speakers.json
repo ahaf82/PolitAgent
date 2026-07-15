@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der identifizierten Sachverständigen außerhalb des Bundestages spiegeln im Wesentlichen die im Hearing geäußerten Positionen ihrer jeweiligen Organisationen wider. Insgesamt wird der Gesetzentwurf zur Stärkung der psychosozialen Prozessbegleitung mehrheitlich begrüßt, insbesondere die Erweiterung der Rechte von Verletzten schwerer Gewalt- und Sexualstraftaten. Kritische Punkte betreffen jedoch die Beschränkung auf 'gravierende Fälle' bei häuslicher Gewalt, die unzureichende Berücksichtigung bildbasierter sexualisierter Gewalt und Hasskriminalität sowie die Ausgestaltung der Finanzierung und die Notwendigkeit einer besseren personellen Ausstattung der Justiz. Die Sachverständigen betonen die Notwendigkeit einer praxisgerechten Umsetzung und die Vermeidung sekundärer Viktimisierung.",
+  "sources": [
+    {
+      "name": "Dilken Çelebi",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Dilken Çelebi vom Deutschen Juristinnenbund (DJB) begrüßt den Gesetzentwurf zur Stärkung der psychosozialen Prozessbegleitung, kritisiert jedoch die Beschränkung der Beiordnung auf 'gravierende Fälle' häuslicher Gewalt mit Nachweispflicht erheblicher Folgen, da häusliche Gewalt stets gravierend sei und die Nachweispflicht retraumatisierend wirken könne. Sie fordert zudem eine Ausweitung der Nebenklage auf bildbasierte sexualisierte Gewalt.",
+      "source_title": "djb begrüßt geplante Verbesserung von psychosozialer Prozessbegleitung und Nebenklage im Strafverfahren",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sophie Funke",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Sophie Funke vom Deutschen Institut für Menschenrechte (DIMR) befürwortet den Entwurf als Stärkung des Opferschutzes und der Umsetzung internationaler Verpflichtungen. Sie fordert jedoch geringere Zugangshürden zur Prozessbegleitung, insbesondere für alle Kinder und Jugendlichen, sowie eine bessere Berücksichtigung aller betroffenen Gruppen und eine desagregierte Datenerhebung zur Evaluierung.",
+      "source_title": "Regierungsentwurf zur psychosozialen Prozessbegleitung – Schutzlücken bleiben",
+      "url": "https://www.institut-fuer-menschenrechte.de/aktuelles/detail/regierungsentwurf-zur-psychosozialen-prozessbegleitung-schutzluecken-bleiben",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Oliver Piechaczek",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Dr. Oliver Piechaczek vom Deutschen Richterbund (DRB) begrüßt die Stärkung des Opferschutzes, bezweifelt jedoch den Mehrwert der geplanten Ergänzung des Straftatenkatalogs in § 395 Abs. 3 StPO um Volksverhetzung, verhetzende Beleidigung und Bedrohung, da diese Delikte bereits erfasst seien und die Ergänzung symbolischen Charakter habe. Er warnt vor unrealistischen Erwartungen und einer Mehrbelastung der Justiz.",
+      "source_title": "Stellungnahme des Deutschen Richterbundes zum Referentenentwurf des Bundesministeriums der Justiz und für Verbraucherschutz eines Gesetzes zur Stärkung der Rechte von Verletzten insbesondere schwerer Gewalt- und Sexualstraftaten auf psychosoziale Prozessbegleitung",
+      "url": "https://www.drb.de/fileadmin/DRB/pdf/Stellungnahmen/2026/DRB_260115_Stn_Nr_1_RefE_Psychosoziale_Prozessbegleitung.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Alexander Poitz",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Alexander Poitz von der Gewerkschaft der Polizei (GdP) bewertet den Entwurf positiv und betont die Wichtigkeit der psychosozialen Prozessbegleitung als Opferschutzinstrument. Er weist jedoch darauf hin, dass die Stärkung von Opferrechten nur mit einer funktionsfähigen und ausreichend ausgestatteten Strafjustiz wirksam sein kann und warnt vor der Schaffung von Automatismen durch die Katalogerweiterung, die die Justiz überlasten könnten.",
+      "source_title": "Stellungnahme der Gewerkschaft der Polizei (GdP) zum Entwurf eines Gesetzes zur Stärkung der Rechte von Verletzten insbesondere schwerer Gewalt- und Sexualstraftaten auf psychosoziale Prozessbegleitung",
+      "url": "https://www.gdp.de/bund/de",
+      "platform": "Website"
+    },
+    {
+      "name": "Stefanie Walter",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Stefanie Walter vom Bundesverband der psychosozialen Prozessbegleiterinnen begrüßt den Gesetzentwurf in weiten Teilen, kritisiert aber die Beschränkung auf 'gravierende Fälle' häuslicher Gewalt und die unzureichenden aktuellen Pauschalen für Prozessbegleitungen. Sie fordert eine Anhebung der Vergütungssätze und eine obligatorische parallele Zusendung von Informationen der Justiz an Prozessbegleiter.",
+      "source_title": "Stellungnahme des Bundesverbandes Psychosoziale Prozessbegleitung e.V. (BPP e.V.)",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

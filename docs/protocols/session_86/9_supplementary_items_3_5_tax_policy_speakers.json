@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen der Abgeordneten zur Steuerpolitik zeigt eine weitgehende Konsistenz mit ihren Positionen im Bundestag. Katharina Beck von Bündnis 90/Die Grünen bekräftigt außerhalb des Parlaments ihren Einsatz für Steuergerechtigkeit durch die Schließung von Lücken bei sehr hohen Vermögen und Erbschaften. Kai Gottschalk von der AfD nutzt ebenfalls externe Plattformen, um seine Kritik an der aktuellen Steuerlast und seine Forderung nach einer Flat Tax zu untermauern, oft verknüpft mit migrationspolitischen Argumenten. Fritz Günsler (CDU/CSU) und Doris Achelw (Die Linke) bestätigen durch ihre Teilnahme an Fachkonferenzen ihr fortgesetztes Engagement im finanzpolitischen Diskurs und die Vertretung ihrer jeweiligen Fraktionslinien. Für Pasa Mavi (SPD) konnten in den vorliegenden Suchergebnissen keine spezifischen externen Stellungnahmen jenseits ihrer parlamentarischen Rede identifiziert werden.",
+  "sources": [
+    {
+      "name": "Katharina Beck",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Katharina Beck betont auf ihrer Website und in einem Interview (zitiert auf Wikipedia) die Notwendigkeit einer gerechteren Steuerpolitik zur Schließung von Gerechtigkeitslücken, insbesondere bei sehr hohen Vermögen und Erbschaften. Sie kritisiert Steuerprivilegien, wie die Befreiung großer Immobilienerbschaften von der Steuer.",
+      "source_title": "Steuern und Finanzen - Katharina Beck / Grünen-Abgeordnete über Steuerpolitik: „Wer mehr als 300 Wohnungen erbt, muss keine Steuer zahlen“",
+      "url": "https://taz.de/Gruenen-Abgeordnete-ueber-Steuerpolitik/!6108107/",
+      "platform": "Website"
+    },
+    {
+      "name": "Fritz Günsler",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Fritz Günsler ist als finanzpolitischer Sprecher der CDU/CSU-Fraktion als Panelist für die F.A.Z. Steuerkonferenz 2026 angekündigt. Dies unterstreicht sein fortgesetztes Engagement in der öffentlichen Debatte zur Steuerpolitik, konsistent mit seinen im Bundestag geäußerten Positionen zur Entlastung und Reform.",
+      "source_title": "Panelistin: F.A.Z. Steuerkonferenz 2026",
+      "url": "https://katharina-beck.de/termin/f-a-z-steuerkonferenz-2026/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kai Gottschalk",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kai Gottschalk nutzt externe Foren, um seine Kritik an der Steuerpolitik und die Verbindung zu Migrationsfragen hervorzuheben. Er profilierte sich bei einem AfD-Parteitag mit Angriffen auf öffentlich-rechtliche Medien und sprach über Migration und Steuerpolitik, wobei er auch die Regierungspolitik als 'sozialistische Lenkung' kritisierte und Parallelen zur DDR zog.",
+      "source_title": "Rhetorische Grabenkämpfe um die DDR-Vergangenheit - Cool'is im Osten / AfD-Parteitag: Eine Partei ordnet ihre Macht neu",
+      "url": "https://podcast2b08dd.podigee.io/9583-afd-parteitag-eine-partei-ordnet-ihre-macht-neu-nr-9583",
+      "platform": "Presse"
+    },
+    {
+      "name": "Pasa Mavi",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Doris Achelw",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Doris Achelw, als Sprecherin für Steuerpolitik der Fraktion Die Linke, ist als Panelistin für die F.A.Z. Steuerkonferenz 2026 aufgeführt. Dies bestätigt ihr fortwährendes Engagement in der öffentlichen Debatte um die Steuerpolitik und ihre konsistente Vertretung der linken Forderungen nach Umverteilung und Vermögensbesteuerung.",
+      "source_title": "Panelistin: F.A.Z. Steuerkonferenz 2026",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

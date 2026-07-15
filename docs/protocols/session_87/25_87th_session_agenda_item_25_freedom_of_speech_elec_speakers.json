@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestages äußerten sich die Abgeordneten zu den Themen Meinungsfreiheit, Wahlrecht und der vorgeschlagenen Änderung des Artikels 19 des Grundgesetzes auf verschiedenen Kanälen. Clara Bünger (Die Linke) sprach sich für eine Ausweitung des Wahlrechts für Langzeitansässige und den Schutz von Demokratieprojekten aus, während Alexander Throm (CDU/CSU) eine Verschärfung der Einbürgerungsregeln und die Stärkung digitaler Sicherheitsbefugnisse forderte. Dr. Gottfried Curio (AfD) wiederholte seine Kritik an einer vermeintlich bedrohten Meinungsfreiheit durch staatliche Repressionen. Sebastian Fiedler (SPD) betonte die Bedeutung des Informationsfreiheitsgesetzes und verteidigte das EU-Sanktionsregime. Helge Limburg (Bündnis 90/Die Grünen) setzte sich weiterhin für das Wahlrecht ab 16 Jahren und die Stärkung von Bürgerrechten im Kontext von Fanrechten ein.",
+  "sources": [
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Clara Bünger plädierte dafür, Vertrauen in den Staat zu schaffen, indem man sich in Demokratieprojekten engagieren kann, ohne vom Verfassungsschutz überprüft zu werden. Sie forderte zudem ein Wahlrecht unabhängig von der Staatsangehörigkeit nach fünf Jahren Aufenthalt in Deutschland und kritisierte Sanktionen gegen Aktivist:innen als autoritären Einschüchterungsversuch gegen Meinungs- und Freiheitsrechte.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie; Linke schlägt Wahlrecht für alle nach fünf Jahren Aufenthalt vor; Das ist ein autoritärer Einschüchterungsversuch",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-demokratie-freitag-1184354;%20https://www.regionalheute.de/linke-schlaegt-wahlrecht-fuer-alle-nach-fuenf-jahren-aufenthalt-vor-175024795/;%20https://www.die-linke-bundestag.de/presse/pressemitteilungen/detail/autoritaerer-einschuechterungsversuch",
+      "platform": "Presse"
+    },
+    {
+      "name": "Alexander Throm",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Alexander Throm warf der Linken vor, sie wolle nicht die Meinungsfreiheit schützen, sondern ihre „linksextremen Freunde“, und kritisierte die Forderung nach Verzicht auf IP-Adressspeicherung. Er forderte außerdem rechtliche Verschärfungen bei der Einbürgerung, inklusive einer längeren Frist und der Abschaffung der generellen doppelten Staatsbürgerschaft, und betonte die Notwendigkeit der IP-Adressenspeicherung zur Stärkung der Sicherheitsbehörden.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie; Einbürgerung: Unionspolitiker wollen Einbürgerungsregeln verschärfen; Alexander Throm (CDU) zur Reform des Staatsangehörigkeitsrechts; Alexander Throm: Sicherheit & Neustart für Baden-Württemberg",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-demokratie-freitag-1184354;%20https://www.zeit.de/politik/deutschland/2026-05/einbuergerung-cdu-alexander-throm-ampelregierung-schaerfung;%20https://www.youtube.com/watch?v=7y8C-E_8c3Q;%20https://www.youtube.com/watch?v=833B10lC91k",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Gottfried Curio beklagte, dass laut Umfragen ein Großteil der Bürger die Meinungsfreiheit in Deutschland nicht mehr gewährleistet sehe und kritisierte 'staatliche Repression' gegen Regierungskritiker. Er bezeichnete das Demokratiefördergesetz als 'Etikettenschwindel', das links-grüne Organisationen begünstige und sprach von einer Verengung des Meinungskorridors durch Zensur und staatlich finanzierte Denunziationsstellen.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie; Gottfried Curio: Meinungsfreiheit in Gefahr? Rede im Bundestag sorgt für Debatte; Scharfer Disput über Meinungsfreiheit in Deutschland; Regierung zerstört Meinungsfreiheit mit Zensur!",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-demokratie-freitag-1184354;%20https://www.youtube.com/watch?v=R9j-4z9d9G4;%20https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-meinungsfreiheit-989632",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sebastian Fiedler kritisierte Die Linke dafür, das EU-Sanktionsregime gegen Putins hybride Kriegsführung aufheben zu wollen, was er als 'unerträglich' bezeichnete. Er stellte klar, dass die SPD-Fraktion keine faktische Abschaffung des Informationsfreiheitsgesetzes (IFG) anstrebt und eine Reform den Zugang zu Informationen vereinfachen und die Kontrolle des Staates durch Presse und Zivilgesellschaft nicht erschweren dürfe.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie; Herr Fiedler, wie werden Sie sich zur Änderung des Informationsfreiheitsgesetzes positionieren?; Setzen Sie sich dafür ein, dass Hürden beim IFG wie ein „berechtigtes Interesse“, hohe Kosten und der Ausschluss von Vereinen und Organisationen gestrichen werden?; Wie werden Sie es rechtfertigen, dass mit der Reform des IFG dieses praktisch abgeschafft wird und es den Bürgerinnen und Bürgern nicht mehr möglich ist, das staatliche Handeln zu kontrollieren?",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-demokratie-freitag-1184354;%20https://www.abgeordnetenwatch.de/profile/sebastian-fiedler/fragen-antworten/herr-fiedler-wie-werden-sie-sich-zur-aenderung-des-informationsfreiheitsgesetzes-positionieren;%20https://www.abgeordnetenwatch.de/profile/sebastian-fiedler/fragen-antworten/setzen-sie-sich-dafuer-ein-dass-huerden-beim-ifg-wie-ein-berechtigtes-interesse-hohe-kosten-und-der-ausschluss-von;%20https://www.abgeordnetenwatch.de/profile/sebastian-fiedler/fragen-antworten/wie-werden-sie-es-rechtfertigen-dass-mit-der-reform-des-ifg-dieses-praktisch-abgeschafft-wird-und-es-den",
+      "platform": "Presse"
+    },
+    {
+      "name": "Helge Limburg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Helge Limburg warb dafür, 16- und 17-Jährigen das Wahlrecht zuzugestehen, da sie von politischen Entscheidungen betroffen sind und nicht länger vom Mitspracherecht ausgeschlossen werden dürften. Er setzte sich zudem für die Stärkung von Fanrechten als Bürgerrechte ein und brachte einen Antrag zur Stärkung von Fanrechten und Abbau von Repressionen im Bundestag ein.",
+      "source_title": "Anträge zum Schutz der Meinungsfreiheit und Stärkung der Demokratie; Debatte um Fanrechte endlich im Plenum",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-demokratie-freitag-1184354;%20https://www.helge-limburg.de/2026/06/11/debatte-um-fanrechte-endlich-im-plenum/",
+      "platform": "Website"
+    }
+  ]
+}

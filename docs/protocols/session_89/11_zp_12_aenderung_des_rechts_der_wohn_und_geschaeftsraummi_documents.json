@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6807",
+      "title": "Entwurf eines Gesetzes zur Änderung des Rechts der Wohn- und Geschäftsraummiete",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6807&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6915",
+      "title": "Gesetzentwurf zur Änderung des Bürgerlichen Gesetzbuchs zur Rückführung und Weiterentwicklung des Rechts der Eigenbedarfskündigung im privaten Wohnraummietrecht",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6915&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6924",
+      "title": "Antrag: Mietrechtsnovelle nachschärfen – Mieterinnen und Mieter wirklich schützen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6924&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte über die Änderung des Rechts der Wohn- und Geschäftsraummiete wurde nach halbstündiger Aussprache beendet. Die vorgelegten Vorlagen, darunter der Gesetzentwurf der Bundesregierung sowie Anträge der Linken und Bündnis 90/Die Grünen, wurden zur weiteren Beratung an die zuständigen Ausschüsse überwiesen. Federführend ist der Ausschuss für Recht und Verbraucherschutz.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die analysierten Abgeordneten zeigen außerhalb des Bundestags ein differenziertes Bild ihrer Positionen zum Krieg in der Ukraine. Robin Wagener (Bündnis 90/Die Grünen) befürwortet vehement eine verstärkte militärische Unterstützung der Ukraine, einschließlich Taurus-Marschflugkörpern und härteren Maßnahmen gegen die russische Schattenflotte, und lehnt eine Normalisierung der Beziehungen zu Russland ab. Knut Abraham (CDU/CSU) unterstreicht ebenfalls die Notwendigkeit entschlossener Unterstützung für die Ukraine und warnt vor russischen Verzögerungstaktiken bei Verhandlungen. Im Gegensatz dazu fordert Markus Frohnmaier (AfD) einen Dialog mit Putin, kritisiert weitere Waffenlieferungen und betont die Notwendigkeit von Realpolitik, die auch Gebietsabtretungen umfassen könnte. Dr. Ralf Stegner (SPD) argumentiert, dass eine militärische Lösung nicht realistisch sei und drängt auf diplomatische Bemühungen zur Beendigung des Krieges, während er gleichzeitig die Verteidigungsfähigkeit der Ukraine unterstützt. Lea Reisner (Die Linke) lehnt militärische Lösungen kategorisch ab und plädiert ausschließlich für Deeskalation, Abrüstung und humanitäre Hilfe, um den Krieg zu beenden.",
+  "sources": [
+    {
+      "name": "Robin Wagener",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Wagener bekräftigt, dass ein Waffenstillstand keine Rückkehr zu normalen Beziehungen mit Russland bedeute, da Russland einen langfristigen Konflikt mit dem Westen gewählt habe. Er fordert, dass Deutschland seine Möglichkeiten zur Unterstützung der Ukraine, insbesondere bei Taurus-Marschflugkörpern, der Bekämpfung der 'Schattenflotte' und der Nutzung eingefrorener russischer Vermögenswerte, voll ausschöpfen muss, da dies auch deutschen Sicherheitsinteressen diene.",
+      "source_title": "Bundestag lawmaker: Ceasefire will not mean return to normal relations with Russia / Robin Wagener: 28-Punkte-Plan gefährdet Europa / Grünen-Politiker Robin Wagener: \"Ich halte das für fatal\"",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/gruenen-politiker-robin-wagener-halte-fatal-41534166",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Knut Abraham",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Abraham ist der Berichterstatter seiner Fraktion für die Ukraine und den anhaltenden Krieg. Er betont die Notwendigkeit einer starken Unterstützung für die Ukraine und warnt, dass Russland Verhandlungen nur als \"alten Trick\" nutze, um Zeit zu gewinnen. Zudem kritisiert er Deutschlands anfängliche zögerliche Reaktion, die zu einem Verlust an Ansehen führte, und fordert mehr Druck auf Russland sowie eine stärkere Verdeutlichung, dass Deutschland selbst Ziel des Krieges ist.",
+      "source_title": "Prolonging talks to buy time is 'an old Russian trick', says German MP Knut Abraham / Transcript of the interview with Knut Abraham (CDU) / CDU-Außenpolitiker Knut Abraham erwartet mehr Druck auf Russland",
+      "url": "https://www.deutschlandfunk.de/ukraine-kursschwenk-interview-mit-knut-abraham-cdu-mdb-100.html",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "found": false,
+      "statement": "Frohnmaier fordert Kanzler Merz auf, den Dialog mit Wladimir Putin zu suchen und kritisiert die deutsche Ukraine-Politik scharf. Er bezweifelt Russlands militärische Fähigkeit, vor Berlin zu stehen, warnt aber vor einer Konfrontation und betont, dass ein \"realistischer Frieden\" auch schmerzhafte Konzessionen der Ukraine erfordern werde. Er verteidigt seine Russland-Reisen als Teil seiner außenpolitischen Aufgabe, Kontakte zu allen relevanten Akteuren zu halten.",
+      "source_title": "„Ronzheimer“-Podcast: „Glaube nicht, dass Russland die Fähigkeiten entwickelt, vor Berlin zu stehen“, sagt Frohnmaier / Vier Jahre Krieg in der Ukraine – jetzt für den Frieden eintreten / Frohnmaier verlangt: Merz soll Putin anrufen und den Dialog suchen",
+      "url": "N/A",
+      "platform": "Presse / Social Media"
+    },
+    {
+      "name": "Dr. Ralf Stegner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Stegner fordert angesichts der hohen Opferzahlen neue Anstrengungen für Verhandlungen und einen Waffenstillstand, da Kriege stets diplomatisch endeten und Russland militärisch nicht besiegbar sei. Er betont, dass militärische Erfolge mit Marschflugkörpern unrealistisch seien und den Krieg nur verlängerten, befürwortet aber Luftabwehr zur Rettung von Menschenleben. Zudem warnt er davor, ukrainische Männer in Deutschland zur Rückkehr zu drängen.",
+      "source_title": "UKRAINE WAR: Putin cannot win? Ralf Stegner on EU accession and Germany's role / UKRAINE-KRIEG: Stegner verteidigt SPD-Manifest – „Dann werden sich Populisten die Hände reiben\" / Ralf Stegner im Interview: „Kriege enden immer mit Verhandlungen“",
+      "url": "https://www.faz.net/aktuell/politik/inland/ralf-stegner-im-interview-kriege-enden-immer-mit-verhandlungen-accg-200268392.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lea Reisner",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Reisner betont, dass humanitäre Hilfe ein zentraler Bestandteil verantwortungsvoller Friedenspolitik sei und kritisiert die Kürzungen in diesem Bereich. Sie lehnt militärische Lösungen ab und argumentiert, dass Diplomatie der einzig realistische Weg zur Beendigung des Krieges sei, da die Vorstellung eines militärischen Sieges Leid nur verlängere. Sie fordert eine konsequente Positionierung gegen Aufrüstung und eine Stärkung der Abrüstungsbemühungen.",
+      "source_title": "Keine Machtspiele auf dem Rücken der Ukraine - Fraktion Die Linke im Bundestag / Die Linke darf der Kriegslogik nicht nachgeben",
+      "url": "https://jacobin.de/artikel/linkspartei-programmprozess-krieg-frieden-cem-ince-lea-reisner",
+      "platform": "Website / Presse"
+    }
+  ]
+}

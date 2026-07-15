@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestages spiegeln die Reaktionen der Abgeordneten zu den Themen der Fragestunde die im Plenum geäußerten Positionen wider. Silvia Breher (CDU/CSU) betont in ihrer Rolle als Parlamentarische Staatssekretärin und Tierschutzbeauftragte die Regierungsbemühungen zur Unterstützung des Weinbaus und zum Tierschutz, sieht sich aber auch Kritik bezüglich ihrer Unabhängigkeit ausgesetzt. Bernd Schattner (AfD) setzt seine scharfe Kritik an EU-Handelsabkommen wie Mercosur und der GAP-Reform fort, fordert Schutz für deutsche Landwirte und traditionellen Weinbau und prangert die fehlende Agrardiesel-Rückvergütung an. Karl Bär (Bündnis 90/Die Grünen) und seine Fraktion fordern eine Neuausrichtung der Gemeinsamen Agrarpolitik hin zu mehr Klima-, Umwelt- und Tierschutz und kritisieren eine Flächensubventionierung ohne ökologische Gegenleistung. Für Stephan Brandner (AfD) und Marcel Bauer (Die Linke) ließen sich keine direkten externen Stellungnahmen zu den spezifischen Debattenbeiträgen finden.",
+  "sources": [
+    {
+      "name": "Silvia Breher",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Silvia Breher wurde im September 2025 zur Parlamentarischen Staatssekretärin im BMLEH und zur Beauftragten der Bundesregierung für Tierschutz ernannt. Sie betont ihr persönliches Engagement für Tierschutz und beabsichtigt, sich für die verpflichtende Videoüberwachung in Schlachthöfen einzusetzen. Ihre Doppelrolle als Staatssekretärin und Tierschutzbeauftragte wurde jedoch von Tierschutzorganisationen kritisiert, die ihre Unabhängigkeit in Frage stellten.",
+      "source_title": "Silvia Breher ist die neue Beauftragte der Bundesregierung für Tierschutz - BMLEH / Breher neue Beauftragte der Bundesregierung für Tierschutz – Silvia Breher / Neue Tierschutzbeauftragte: Wie unabhängig ist Silvia Breher? - ZDFheute",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Bernd Schattner",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bernd Schattner und die AfD-Fraktion lehnen das Mercosur-Abkommen ab, da es deutsche Landwirte einem unfairen Wettbewerb durch geringere Standards aussetzt und die Existenz bäuerlicher Familienbetriebe gefährdet. Er fordert außerdem die Wiederzulassung von Backpulver als Pflanzenschutzmittel im Weinbau und kritisierte die fehlende rückwirkende Agrardiesel-Rückvergütung für 2024 und 2025 als Betrag, der den Landwirten 'gestohlen' wurde.",
+      "source_title": "Sie lehnen das Mercosurhandelsabkommen ab, weil in Südamerika geringere Bürokratie als in der EU bei Agrarprodukten vorliege. Kann die geringere Bürokratie nicht aber den Wohlstand in der EU anheben? | Frage an Bernd Schattner (AfD) - Abgeordnetenwatch / Bewährte Praxis im Weinbau erhalten – Backpulver wieder als Grundstoff im Pflanzenschutz zulassen - AfD-Fraktion im Deutschen Bundestag / EU-Verrat an unseren Bauern! Bernd Schattner - AfD-Fraktion im Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=3SzZyzsupLQ",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Karl Bär",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Die Bundestagsfraktion von Bündnis 90/Die Grünen, der Karl Bär angehört, fordert eine grundlegende Überarbeitung der Gemeinsamen Agrarpolitik (GAP) nach 2027. Sie setzen sich für eine GAP ein, die Umwelt-, Klima- und Tierschutz als zentrale Ziele verfolgt und öffentliche Gelder an messbare, gemeinwohlorientierte Leistungen koppelt, anstatt pauschale Flächenprämien zu zahlen. Der Kommissionsvorschlag für die GAP wird als Rückschritt kritisiert.",
+      "source_title": "Eine gemeinsame Perspektive für Landwirtschaft und Ernährung - Bündnis 90/Die Grünen Bundestagsfraktion / GAP-Reform // Dr. Terpe: „Ab 2028 müssen Agrarmilliarden dorthin fließen, wo messbare Leistungen für Klima, Natur und Tierwohl erbracht werden“ - BÜNDNIS 90/DIE GRÜNEN",
+      "url": "https://gruene-fraktion-mv.de/2025/10/10/gap-reform-agrarmilliarden-fuer-klima-natur-und-tierwohl/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Marcel Bauer",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

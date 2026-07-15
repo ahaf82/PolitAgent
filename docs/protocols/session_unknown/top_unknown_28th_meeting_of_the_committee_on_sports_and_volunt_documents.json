@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5921",
+      "title": "Entwurf eines Gesetzes zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur (Sportfördergesetz – SpoFöG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5921&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/7006",
+      "title": "Beschlussempfehlung und Bericht des Sportausschusses zu dem Gesetzentwurf der Bundesregierung – Drucksache 21/5921 – Entwurf eines Gesetzes zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur (Sportfördergesetz – SpoFöG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7006&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/5568",
+      "title": "Antrag der Abgeordneten Christian Görke, Nicole Gohlke, Dr. Michael Arndt, Jorrit Bosch, Anne-Mieke Bremer, Maik Brückner, Mandy Eißing, Kathrin Gebel, Ates Gürpinar, Mareike Hermeier, Maren Kaminski, Cansin Köktürk, Ina Latendorf, Sonja Lemke, Stella Merendino, Sören Pellmann, Heidi Reichinnek, Zada Salihović, David Schliesing, Evelyn Schötz, Julia-Christina Stange, Donata Vogtschmidt, Sarah Vollath und der Fraktion Die Linke. Für eine nachhaltige und durchdachte Reform der Sportförderung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5568&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Entwurf eines Sportfördergesetzes wurde vom Ausschuss für Sport und Ehrenamt nach intensiver Beratung und Abwägung unterschiedlicher Positionen angenommen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

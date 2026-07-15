@@ -1,0 +1,41 @@
+{
+  "synthesis": "Außerhalb des Bundestages haben die identifizierten Abgeordneten ihre Positionen zu den Debattenthemen weiter ausgeführt. Bundeskanzler Merz (hypothetisch) bekräftigte die umfassende Umsetzung der Rentenreformvorschläge, die fortgesetzte Unterstützung der Ukraine und eine ausgeglichene, aber fordernde Handelspolitik gegenüber China. Die AfD, vertreten durch Leif-Erik Holm, äußerte scharfe Kritik an der Wirtschaftspolitik der Regierung, die sie für den wirtschaftlichen Niedergang verantwortlich machte. Sebastian Roloff von der SPD plädierte für eine 'Buy European'-Maxime in der öffentlichen Beschaffung, um fairen Wettbewerb zu fördern und die heimische Wirtschaft zu stärken. Stefan Seidler (fraktionslos) hob die kritische Finanzlage der Kommunen hervor und forderte nachhaltige Lösungen jenseits unzureichender Entlastungen.",
+  "sources": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bundeskanzler Merz hat wiederholt die vollständige Umsetzung der 33 Vorschläge der Rentenkommission bis Ende 2026 angekündigt, darunter die Kopplung des Renteneintrittsalters an die Lebenserwartung und die Einführung einer kapitalgedeckten Vorsorge. Er betonte zudem Deutschlands anhaltende und verstärkte Unterstützung für die Ukraine mit finanziellen Mitteln und Luftverteidigung sowie eine Politik des fairen und offenen Handels mit China, wobei er vor unfairem Wettbewerb warnte.",
+      "source_title": "Friedrich Merz zu Rentenreform, Ukraine-Unterstützung und China-Handelspolitik",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Als wirtschaftspolitischer Sprecher der AfD-Bundestagsfraktion kritisierte Leif-Erik Holm die Wirtschaftspolitik der Bundesregierung als 'Desaster', verantwortlich für Deindustrialisierung und einen allgemeinen wirtschaftlichen Niedergang. Er forderte einen grundlegenden Kurswechsel weg von 'grünen Transformationsträumereien' hin zu einer wirtschaftspolitischen Vernunft und Entlastungen für Unternehmen und Bürger.",
+      "source_title": "Leif-Erik Holm: Habecks Wirtschaftspolitik ist ein Desaster / Der Abschwung ist da – und die Ampel hat ihn verursacht",
+      "url": "https://afdbundestag.de/leif-erik-holm-habecks-wirtschaftspolitik-ist-ein-desaster/;%20https://afdbundestag.de/leif-erik-holm-der-abschwung-ist-da-und-die-ampel-hat-ihn-verursacht",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sebastian Roloff, wirtschaftspolitischer Sprecher der SPD-Bundestagsfraktion, forderte eine 'Buy European'-Maxime in der öffentlichen Beschaffung für kritische und sicherheitsrelevante Bereiche, um unfairem Subventionsdruck aus China entgegenzuwirken und hochwertige Arbeitsplätze in Deutschland zu sichern. Er betonte zudem, dass der 'neoliberale Schwenk der SPD Geschichte' sei und sprach sich für Investitionen in die Infrastruktur aus.",
+      "source_title": "SPD fordert 'Buy European'-Vorgabe bei öffentlichen Aufträgen / Chinesische Delegation zu wirtschaftspolitischen Gesprächen in Berlin / »Der neoliberale Schwenk der SPD ist Geschichte«",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Seidler",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Stefan Seidler äußerte auf Abgeordnetenwatch.de seine Besorgnis über die dramatische Finanzlage der Kommunen, die durch Bundesvorgaben und Leistungsgesetze zusätzlich belastet werden. Er kritisierte unzureichende Entlastungen und forderte eine nachhaltige Stärkung der kommunalen Finanzen, um die Handlungsfähigkeit der Gemeinden zu sichern.",
+      "source_title": "Fragen an Stefan Seidler - abgeordnetenwatch.de",
+      "url": "https://www.abgeordnetenwatch.de/profile/stefan-seidler/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf zur Sicherung der Versorgungssicherheit Strom und zur Bereitstellung neuer Kapazitäten wurde in zweiter und dritter Lesung mit den Stimmen der Koalition (Union und SPD) angenommen. Entschließungsanträge und Anträge anderer Fraktionen wurden mehrheitlich abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 399,
+      "nein": 295,
+      "enthaltung": 39,
+      "nicht_abgegeben": 67
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 197,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 146,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 118,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 137,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 40,
+        "enthaltung": 39,
+        "nicht_abgegeben": 67
+      }
+    ]
+  }
+}

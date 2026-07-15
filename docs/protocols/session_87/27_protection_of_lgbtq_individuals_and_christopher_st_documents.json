@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6654",
+      "title": "Vielfalt feiern, Freiheit schützen, Sicherheit gewährleisten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6654&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/580",
+      "title": "Queerfeindliche Hasskriminalität wirksam bekämpfen und die rechtliche Diskriminierung von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen sowie anderen queeren Personen (LSBTIQ-Personen) beenden",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F580&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2575",
+      "title": "Queeres Leben stärken – Christopher-Street-Days schützen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2575&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6416",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) zu dem Antrag der Abgeordneten Nyke Slawik, Ulle Schauws, Helge Limburg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN – Drucksache 21/580 – Queerfeindliche Hasskriminalität wirksam bekämpfen und die rechtliche Diskriminierung von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen sowie anderen queeren Personen (LSBTIQ-Personen) beenden",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6416&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4973",
+      "title": "Beschlussempfehlung und Bericht des Innenausschusses zu dem Antrag der Abgeordneten Maik Brückner, Clara Bünger, Nicole Gohlke, weiterer Abgeordneter und der Fraktion Die Linke - Drucksache 21/2575 - Queeres Leben stärken - Christopher-Street-Days schützen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4973&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die in der Debatte behandelten Anträge von Bündnis 90/Die Grünen (Drucksachen 21/6654 und 21/580) sowie der Fraktion Die Linke (Drucksache 21/2575) wurden im Anschluss an die Debatte mit den Stimmen von CDU/CSU, AfD und SPD abgelehnt, während Die Linke und Bündnis 90/Die Grünen jeweils die Anträge der anderen unterstützten.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

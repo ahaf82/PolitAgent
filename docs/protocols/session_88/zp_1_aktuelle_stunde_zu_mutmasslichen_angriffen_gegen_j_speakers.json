@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Bundestagsdebatte vom 8. Juli 2026 zu mutmaßlichen Angriffen auf Journalisten in Erfurt wurde von allen Fraktionen genutzt, um die Pressefreiheit grundsätzlich zu betonen und Gewalt gegen Medienschaffende zu verurteilen. Während die AfD eine Täter-Opfer-Umkehr und mangelnde Solidarität bei Angriffen auf rechtsorientierte Journalisten beklagte, warfen die anderen Fraktionen der AfD eine scheinheilige Haltung vor, da sie selbst Journalisten als 'Lügenpresse' diffamiere. CDU/CSU- und Grüne-Vertreter warnten vor Doppelmoral und betonten die Unteilbarkeit der Pressefreiheit, auch für unliebsame Meinungen. Die Linke verurteilte Gewalt, kritisierte jedoch auch die 'Gewalt' der AfD-Politik und distanzierte sich von relativierenden Äußerungen der Gegendemonstranten.",
+  "sources": [
+    {
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "found": false,
+      "statement": "Dr. Götz Frömming kritisierte die Formulierung 'mutmaßliche Angriffe' im Debattentitel und betonte, dass die 'Hetzjagd' auf Journalisten in Erfurt belegt sei. Er warf den anderen Parteien eine Täter-Opfer-Umkehr und mangelnde Solidarität mit den angegriffenen Journalisten der 'Jungen Freiheit' und 'Apollo News' vor. Frömming unterstrich, dass Pressefreiheit unteilbar sei und für alle Medien gelte.",
+      "source_title": "Bundestag distanziert sich von Gewalt bei Anti-AfD-Protest - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Caroline Bosbach",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Caroline Bosbach kritisierte die Vorfälle in Erfurt als Beweis dafür, dass bei linker und rechter Gewalt immer noch mit zweierlei Maß gemessen werde. Sie forderte, beides mit der gleichen Schärfe zu verurteilen. Bosbach warnte davor, linksextreme Straftaten als 'Kollateralschaden im Kampf gegen den Faschismus' abzustempeln und betonte die Bedeutung des Schutzes der Pressefreiheit.",
+      "source_title": "Bundestagsdebatte nach Angriffen von Linken auf Journalisten: „Bei linker und rechter Gewalt wird mit zweierlei Maß gemessen“ - Tagesspiegel",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katrin Göring-Eckardt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Katrin Göring-Eckardt verurteilte Gewalt gegen Journalisten unmissverständlich und bezeichnete Pressefreiheit als ein 'unverhandelbares Grundrecht'. Sie drückte ihre Freude über die Genesung der angegriffenen Journalisten aus und wies die Darstellung bürgerkriegsähnlicher Zustände in Erfurt zurück. Gleichzeitig kritisierte sie die AfD scharf als eine Partei, die die Meinungsfreiheit infrage stelle.",
+      "source_title": "Drei Reporter attackiert: Bundestag debattiert Gewalt bei Anti-AfD-Protesten | Aktuelle Nachrichten aus Deutschland und der Welt - upday News",
+      "url": "https://www.upday.com/de/news/drei-reporter-attackiert-bundestag-debattiert-gewalt-bei-anti-afd-protesten/6veexnh",
+      "platform": "Presse"
+    },
+    {
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "found": false,
+      "statement": "Helge Lindh betonte, dass Gewalt gegen Medienvertreter 'ohne jede Einschränkung inakzeptabel, unanständig, unzulässig und verurteilungswürdig' sei, unabhängig vom Medium. Er bezeichnete die Klagen der AfD als 'scheinheilig' angesichts ihres eigenen Umgangs mit kritischen Medienvertretern. Lindh warf der AfD vor, den öffentlich-rechtlichen Rundfunk 'schleifen' zu wollen.",
+      "source_title": "Im Bundestag sind sich alle einig – Täter-Vater packt aus - FOCUS online",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ferat Koçak",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ferat Koçak bezeichnete die von der AfD angesetzte Debatte als 'verlogen', da die AfD selbst Journalisten als 'Lügenpresse' beschimpfe. Er verurteilte Gewalt gegen Journalisten und grenzte sich klar von Äußerungen des Aktionsbündnisses 'Widersetzen' ab, die die Angriffe relativierten. Koçak wies auf die 'Gewalt' hin, die seiner Meinung nach von der AfD-Politik ausgehe.",
+      "source_title": "„Apollo, 'Bild', Nius, 'Welt' und JUNGE FREIHEIT hetzen den rechten Mob auf uns!“",
+      "url": "https://jungefreiheit.de/politik/deutschland/2026/apollo-bild-nius-welt-und-junge-freiheit-hetzen-den-rechten-mob-auf-uns/",
+      "platform": "Presse"
+    }
+  ]
+}

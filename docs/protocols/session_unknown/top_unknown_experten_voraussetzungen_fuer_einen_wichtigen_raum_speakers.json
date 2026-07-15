@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Sachverständigen zur Raumfahrt spiegeln weitgehend ihre Positionen aus dem Fachgespräch wider. Walter Ballheimer und Andreas Gundel betonen die industriepolitische Bedeutung und die Notwendigkeit flexibler Rahmenbedingungen für NewSpace und die Integration kleiner und mittlerer Unternehmen (KMU) in Deutschland, wobei Ballheimer den EU Space Act kritisiert. Professorin Sabine Klinkner fordert durchgängig eine stärkere Förderung der universitären Raumfahrtforschung und die Sicherung des wissenschaftlichen Nachwuchses. Professor Jürgen Scheffran äußert weiterhin Bedenken hinsichtlich der zunehmenden Militarisierung und der Umweltfolgen der Raumfahrt. Dr. Peter Stubbe vom DLR weist auf das im europäischen Vergleich stagnierende nationale Raumfahrtbudget und die Dringlichkeit innovationsfreundlicher Gesetze hin, um Deutschlands Wettbewerbsfähigkeit zu erhalten.",
+  "sources": [
+    {
+      "name": "Walter Ballheimer",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Walter Ballheimer, CEO von Reflex Aerospace, betont die Notwendigkeit einer souveränen Satellitentechnologie und kritisiert, dass Deutschland die Chance nutzen oder vergeben kann, in diesem Bereich aufzuholen. Er sieht den Ankerauftrag als entscheidendes Mittel zur Mobilisierung privaten Kapitals und zur Stärkung der heimischen Industrie.",
+      "source_title": "Reflex Aerospace Series A: „Jetzt beißt es\" – 50 Mio. € für souveräne Satellitentechnologie mit Walter Ballheimer | Startup Insider",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Andreas Gundel",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Andreas Gundel, Geschäftsführer von bavAIRia e.V., engagiert sich für die Stärkung des bayerischen Luft- und Raumfahrtclusters durch die Vernetzung von Unternehmen und Forschungseinrichtungen sowie die Förderung von Innovationen. Er ist auch im Bereich der Fachkräftesicherung und Weiterbildung aktiv und betont die Bedeutung von Dual-Use-Technologien.",
+      "source_title": "bavAIRia – Bayerisches Cluster für Luftfahrt, Raumfahrt und Raumfahrtanwendungen",
+      "url": "https://www.bavairia.net/",
+      "platform": "Website"
+    },
+    {
+      "name": "Prof. Sabine Klinkner",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Prof. Sabine Klinkner von der Universität Stuttgart ist begeistert von der Raumfahrtforschung und betont die Notwendigkeit, immer ans Limit zu gehen und neue Herausforderungen zu meistern. Ihre Forschung konzentriert sich auf Kleinsatelliten und Weltraumrobotik, wobei sie die Entwicklung robuster und komplexer Systeme für extreme Umgebungen vorantreibt.",
+      "source_title": "Begeistert für die Raumfahrtforschung: Professorin Sabine Klinkner | Universität Stuttgart",
+      "url": "https://www.uni-stuttgart.de/forschung/forschung-leben/2-2022/visionaerin/",
+      "platform": "Website"
+    },
+    {
+      "name": "Prof. Jürgen Scheffran",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Prof. Jürgen Scheffran von der Universität Hamburg befasst sich kritisch mit der Militarisierung des Weltraums und den damit verbundenen Risiken eines Wettrüstens. Er betont die Bedeutung zivilgesellschaftlicher Perspektiven und die Notwendigkeit von Rüstungskontrolle und vertrauensbildenden Maßnahmen im Weltraum.",
+      "source_title": "Militarisierung des Weltraums aus zivilgesellschaftlicher Perspektpektive",
+      "url": "https://www.b-b-e.de/aktuelles/detail/militarisierung-des-weltraums-aus-zivilgesellschaftlicher-perspektive/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Peter Stubbe",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Dr. Peter Stubbe von der Deutschen Raumfahrtagentur im DLR hebt die strategische Ausrichtung der deutschen Raumfahrt hervor und spricht sich für die Schaffung richtiger Rahmenbedingungen aus, die Innovation, Wettbewerb und private Investitionen stärken. Er weist zudem auf die Diskrepanz zwischen steigenden globalen und stagnierenden nationalen Raumfahrtbudgets hin.",
+      "source_title": "Erfolgreicher German-Nordic Space Industry Dialogue in Bremen",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

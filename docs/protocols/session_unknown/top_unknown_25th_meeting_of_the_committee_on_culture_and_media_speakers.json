@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Ausschuss für Kultur und Medien zur Anerkennung der 'Asozialen und Berufsverbrecher' als NS-Opfer zeigt innerhalb der Parteien unterschiedliche Nuancen, die sich auch in externen Äußerungen widerspiegeln. Während die SPD die Entscheidung von 2020 als wichtigen Schritt zur Sichtbarmachung sozialrassistischer Verfolgungsgeschichten würdigt und die Union die Erinnerungspolitik als ständigen Prozess betont, fordert Bündnis 90/Die Grünen einen zentralen Erinnerungsort und weitere Forschungsarbeiten. Die AfD äußert sich kritisch zur Differenzierung und einer möglichen Verwässerung des Gedenkens. Die Linke kritisiert die Verzögerung bei der Anerkennung und fordert mehr finanzielle Mittel und Gedenkstätten.",
+  "sources": [
+    {
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Frömming vertritt eine kritische Position zur deutschen Erinnerungskultur. Er betonte, dass der 'aufrichtige Mut und Widerstand' der Zeugen Jehovas 'größten Respekt und Anerkennung' verdiene, forderte jedoch, dass Gedenkstätten auch die Verfolgung in anderen Kontexten (z.B. DDR) mit einbeziehen sollten, um eine 'aufrichtige' Erinnerungskultur ohne 'politische Gegenwartszwecke' zu gewährleisten. Dies deutet auf eine Skepsis gegenüber einer zu breiten oder selektiven Auslegung der Opferdefinition hin.",
+      "source_title": "„Vergessen tötet“: Ein Mahnmal für die Zeugen Jehovas | mitmischen.de",
+      "url": "https://www.mitmischen.de/parlament/erinnern-und-gedenken/vergessen-totet-ein-mahnmal-fur-die-zeugen-jehovas",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Michael Hose bekräftigt die Bedeutung der Erinnerungskultur als unverzichtbaren Bestandteil der Kulturpolitik. In Plenardebatten und Haushaltsberatungen hat er sich für die Sicherstellung ausreichender Mittel für die Erinnerungskultur und den Volksbund Deutsche Kriegsgräberfürsorge eingesetzt, um die Pflege des Gedenkens zu gewährleisten. Seine Fraktion betont, dass keine Opfergruppe verleugnet oder vergessen werden dürfe und Erinnerungspolitik ein ständiger Prozess sei, der neue wissenschaftliche Erkenntnisse und sensiblen Sprachgebrauch erfordert.",
+      "source_title": "Plenarprotokoll 21/43 - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Margit Stumpp (geb. Schönenberger)",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Martin Rabanus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Die SPD-Bundestagsfraktion, der Martin Rabanus angehörte, hat sich nachdrücklich für die Anerkennung der 'Asozialen und Berufsverbrecher' als NS-Opfer eingesetzt. Eine Pressemitteilung der Fraktion vom Februar 2020 betont die Notwendigkeit dieser Anerkennung. Martin Rabanus selbst ist als Akteur im Bereich der 'Erinnerungskultur' identifiziert worden.",
+      "source_title": "NS-Opfer: Anerkennung für sogenannte „Asoziale“ und „Berufsverbrecher“ - SPD Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/ns-opfer-anerkennung-sogenannte-asoziale-berufsverbrecher",
+      "platform": "Presse"
+    },
+    {
+      "name": "Gregor Gysi",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

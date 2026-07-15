@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externe Kommunikation der identifizierten Abgeordneten zur digitalen Identität und Geldbörse spiegelt weitgehend die im Bundestag geäußerten Fraktionspositionen wider. Tobias Ebenberger (AfD) warnt konsistent vor einer Überwachungs-Dystopie durch die EUDI-Wallet und fordert eine nationale, freiwillige Lösung mit analoger Absicherung. Dr. Markus Reichel (CDU/CSU) betont extern wie intern die Vereinfachung des Alltags, erhöhte Sicherheit und den Bürokratieabbau durch die EUDI-Wallet als freiwilliges Angebot. Rebecca Lenhard (Bündnis 90/Die Grünen) bekräftigt ihre Rolle als Sprecherin für Digitales und Staatsmodernisierung und tritt für eine souveräne, gerechte und zugängliche digitale Zukunft ein. Sonja Lempke (Die Linke) äußert sich kritisch zu mangelndem Datenschutz und Abhängigkeiten von Tech-Konzernen im Kontext der Digitalisierung und fordert echte Lösungen statt unrealistischer Starttermine.",
+  "sources": [
+    {
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Tobias Ebenberger warnt kontinuierlich vor der EUDI-Wallet als Instrument zur digitalen Überwachung und Kontrolle der Bürger. Er kritisiert, dass die Bundesregierung die digitale Identität durch 'perfide Mechanismen' wie verpflichtende Alterskontrollen in sozialen Medien aufnötigen wolle und fordert stattdessen eine schlanke, kostengünstige nationale Lösung, die wirklich freiwillig bleibt und analoge Zugänge bewahrt. Er sieht darin einen 'Riesenschritt ins digitale Gefängnis', aus dem man nicht mehr entkommen könne, und kritisiert die 'Altparteien' für die Debatte zur digitalen Brieftasche als Farce.",
+      "source_title": "Social-Media-Verbot soll dem Absatz der digitalen Identität dienen / Altparteien machen Debatte über digitale Brieftasche zur Farce / Tobias Ebenberger warns against the EUDI Wallet digital identity project!",
+      "url": "https://www.youtube.com/watch?v=EtX6JC7OSKc",
+      "platform": "Presse / Social Media"
+    },
+    {
+      "name": "Dr. Markus Reichel",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Markus Reichel hebt als Berichterstatter für Digitale Identitäten der CDU/CSU-Bundestagsfraktion die EUDI-Wallet als 'entscheidenden Schritt hin zu einem modernen, bürgernahen Staat' hervor. Er betont die Freiwilligkeit und die Fähigkeit der Wallet, den Alltag durch sichere, datensparsame Übermittlung von Nachweisen zu vereinfachen, Bürokratie abzubauen und Deutschland digitalpolitisch voranzubringen. Reichel begrüßt zudem ein digitales PIN-Rücksetzungsverfahren als wichtigen Fortschritt zur Alltagsauglichkeit der Online-Ausweisfunktion.",
+      "source_title": "EUDI-Wallet - Die digitale Brieftasche kommt / Digitale Identitäten: Wie viele Wallets braucht das Land? – Panel beim Governikus Summit / Eudi-Wallet: Digitale-Identitäten-Gesetz im Kabinett",
+      "url": "https://background.tagesspiegel.de/digitalisierung-und-ki/monitoring/digitale-identitaeten-gesetz-im-kabinett",
+      "platform": "Website / Presse"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Als Sprecherin für Digitales und Staatsmodernisierung der Grünen Bundestagsfraktion setzt sich Rebecca Lenhard für eine digitale Zukunft ein, die souverän, gerecht und für alle zugänglich ist. Sie betont die Notwendigkeit einer leistungsfähigen digitalen Infrastruktur und die Unabhängigkeit von großen Tech-Konzernen durch eigene offene Lösungen. Lenhard bringt ihr Informatikstudium und ihre IT-Erfahrung ein, um Investitionen in die digitale Wirtschaft voranzutreiben und KI verantwortungsvoll zu gestalten, wobei Transparenz, Sicherheit und Innovation wichtige Aspekte sind.",
+      "source_title": "Rebecca Lenhard MdB | Bündnis 90/Die Grünen / Rebecca Lenhard | Bundestagsfraktion Bündnis 90/Die Grünen / Positionen - Rebecca Lenhard MdB",
+      "url": "https://rebecca-lenhard.de/bundestag/",
+      "platform": "Website"
+    },
+    {
+      "name": "Sonja Lempke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lempke positioniert sich im Bereich Digitales kritisch zu den aktuellen Entwicklungen und fordert eine Digitalpolitik, die nicht im Sinne der Wirtschaft agiert, sondern Menschen in den Mittelpunkt stellt. Sie warnt vor einem 'Angriff auf den Datenschutz', der unser Privatleben an die Industrie verkaufen würde, und kritisiert mangelnde Transparenz sowie die Risiken von KI-Anwendungen in der Bundesverwaltung. Lempke betont die Notwendigkeit, Digitalisierung zu vereinfachen und nicht den Zugang zu erschweren.",
+      "source_title": "Fachgespräch \"Digitale Identitäten\": Die Linke MdB Sonja Lemke / Digitales: Die Linke MdB Sonja Lemke / Digitales - Die Linke MdB Sonja Lemke",
+      "url": "https://www.sonja-lemke.de/themen/digitales/seite/2/",
+      "platform": "Website"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "synthesis": "Außerhalb des Bundestages positionieren sich die Abgeordneten weiterhin deutlich zu ihren im Plenum geäußerten Standpunkten bezüglich der Entwicklungszusammenarbeit. Rocco Kever von der AfD kritisiert durchgehend die aktuelle Entwicklungspolitik als ineffizient, undurchsichtig und von \"links-rot-grüner Ideologie\" geprägt. Er fordert eine drastische Kürzung der Mittel und eine stärkere Ausrichtung an deutschen nationalen Interessen. Claudia Roth von Bündnis 90/Die Grünen betont die Unverzichtbarkeit der Entwicklungszusammenarbeit als Friedens-, Klima- und Sicherheitspolitik und verurteilt Kürzungen sowie nationalistische Abschottungsversuche. Serdar Yüksel von der SPD hebt die historische Verantwortung Deutschlands und die Notwendigkeit internationaler Solidarität hervor, insbesondere um Lücken nicht autoritären Staaten zu überlassen. Für Carl-Philipp Sassenrath von der CDU/CSU liegen keine spezifischen externen Aussagen vor, jedoch spiegelt seine Position im Bundestag die Fraktionslinie wider, die Entwicklungspolitik als Teil der Interessenpolitik Deutschlands sieht und vor einem Rückzug warnt.",
+  "sources": [
+    {
+      "name": "Rocco Kever",
+      "party": "AfD",
+      "found": true,
+      "statement": "Rocco Kever hat als entwicklungspolitischer Sprecher der AfD-Bundestagsfraktion mehrfach die deutsche Entwicklungshilfe kritisiert. Er forderte die sofortige Aufklärung von Vorwürfen der Vetternwirtschaft im BMZ und bezeichnete die Verwendung von Steuergeldern in afrikanischen Dezentralisierungsprojekten als weitgehend wirkungslos. Kever betont, dass Entwicklungspolitik nicht zur weltweiten Gesellschaftspolitik auf Kosten deutscher Steuerzahler werden dürfe und stattdessen konsequent nationale Interessen wahren und fördern müsse.",
+      "source_title": "Ministerin Alabali-Radovan muss Vorwürfe zur Vetternwirtschaft im BMZ sofort aufklären / Schluss mit der naiven Entwicklungshilfe / Entwicklungspolitik darf nicht zur weltweiten Gesellschaftspolitik auf Kosten deutscher Steuerzahler werden",
+      "url": "https://afdbundestag.de/ministerin-alabali-radovan-muss-vorwuerfe-zur-vetternwirtschaft-im-bmz-sofort-aufklaeren/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Carl-Philipp Sassenrath",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Claudia Roth",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Claudia Roth positioniert sich klar gegen Kürzungen in der Entwicklungszusammenarbeit und betont, dass diese kein 'Nice to Have' sei, sondern Friedens-, Klima- und Sicherheitspolitik darstelle. Sie fordert eine konsequente Ausrichtung auf globale Gerechtigkeit, Klimaschutz und Krisenprävention, um internationale Partnerschaften partnerschaftlich zu gestalten und demokratische Zivilgesellschaften zu stärken. Roth warnt davor, autoritären Akteuren Lücken zu überlassen, wenn Deutschland sich aus der Verantwortung zurückzieht.",
+      "source_title": "Claudia Roth: \"Entwicklungszusammenarbeit ist kein Nice to Have“ - fokus afrika",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Serdar Yüksel",
+      "party": "SPD",
+      "found": true,
+      "statement": "Serdar Yüksel, Berichterstatter für globale Gesundheit der SPD, betont die Notwendigkeit, internationale Gesundheitsbeiträge einzuhalten und die globalen Nachhaltigkeitsziele zu verfolgen, auch unter Haushaltsdruck. Er warnt, dass ein Rückzug Deutschlands Lücken schaffen würde, die von anderen Staaten gefüllt werden könnten. Yüksel sieht Deutschland als drittgrößte Volkswirtschaft in der Verantwortung, seine Anstrengungen im Bereich der globalen Gesundheit zu verstetigen und auszubauen.",
+      "source_title": "Globale Gesundheit im Fokus: Ein Interview mit Serdar Yüksel (SPD)",
+      "url": "https://www.globalhealthhub.de/de/news/detail/globale-gesundheit-im-fokus-ein-interview-mit-serdar-yueksel-spd",
+      "platform": "Presse"
+    }
+  ]
+}

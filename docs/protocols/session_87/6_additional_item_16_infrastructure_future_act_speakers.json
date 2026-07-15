@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Diskussionen zum 'Infrastruktur-Zukunftsgesetz' spiegeln die konträren Positionen aus der Bundestagsdebatte wider. Befürworter wie SPD-Fraktionsvize Armand Zorn betonten, dass das Gesetz entscheidend sei, um die bereitgestellten Mittel schnell in umgesetzte Infrastruktur zu überführen und Verfahren zu verkürzen. Daniel Kölbl (CDU/CSU) unterstrich die Notwendigkeit, Bürokratie abzubauen und Investitionen in die Infrastruktur zu beschleunigen, um die Wirtschaft anzukurbeln und langwierige Genehmigungsverfahren zu überwinden. Bundesverkehrsminister Patrick Schnieder (CDU/CSU) bezeichnete das Gesetz als „Gamechanger“, der durch Digitalisierung und klare Priorisierung bis zu 30 Prozent Zeitersparnis bei Planungs- und Genehmigungsverfahren ermöglichen werde, ohne Umweltstandards abzusenken. Kritische Stimmen, wie die von Tarek Al-Wazir (Bündnis 90/Die Grünen), argumentierten hingegen, dass das Gesetz die eigentlichen Probleme der Planungsbeschleunigung nicht löse und stattdessen klare Prioritäten bei der Projektauswahl fehlten.",
+  "sources": [
+    {
+      "name": "Daniel Kölbl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Daniel Kölbl (CDU) ist Berichterstatter seiner Fraktion für Planungsbeschleunigung und betont, dass große Infrastrukturprojekte zu viel Zeit bräuchten und Klageverfahren diese über Gebühr in die Länge zögen. Er fordert weniger Bürokratie und mehr Investitionen zur Belebung der Wirtschaft.",
+      "source_title": "Porträt von Daniel Kölbl - Tagesspiegel Background / Daniel Kölbl - Mitglied des Deutschen Bundestages",
+      "url": "https://www.daniel-koelbl.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als SPD-Fraktionsvize betonte Armand Zorn, dass es für die SPD immer eine Priorität gewesen sei, im Bereich Verkehr schneller zu werden. Das 'Infrastruktur-Zukunftsgesetz' werde entscheidend dazu beitragen, Verkehrsprojekte effizienter und schneller zu planen und zu genehmigen.",
+      "source_title": "Infrastruktur: SPD stimmt Verkehrs-Gesetz zu, obwohl das damit verbundene Natur-Gesetz weiterhin fehlt - Table.Briefings / Verkehrsprojekte werden schneller geplant und genehmigt - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/statements/verkehrsprojekte-schneller-geplant-genehmigt",
+      "platform": "Presse"
+    },
+    {
+      "name": "Swantje Henrike Michaelsen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jorrit Bosch",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Patrick Schnieder",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Bundesverkehrsminister bezeichnete Patrick Schnieder das 'Infrastruktur-Zukunftsgesetz' als einen 'Gamechanger', der die rechtlichen Voraussetzungen für deutlich schnellere Sanierungen und Ausbauten schaffe. Er betonte die Vereinfachung, konsequente Digitalisierung und spürbare Beschleunigung der Verfahren ohne Abstriche bei Sicherheit oder Umweltstandards.",
+      "source_title": "Rede des Bundesministers für Verkehr, Patrick Schnieder, - Bundesregierung / Infrastruktur mit Zukunft - CDU Deutschlands / „Deutschland kann schneller“: Schnieders Plan für Infrastruktur - VerkehrsRundschau / Statement by Federal Minister Patrick Schnieder on the Infrastructure Future Act - YouTube",
+      "url": "https://www.youtube.com/watch?v=8RRX-TbODQY",
+      "platform": "Website"
+    },
+    {
+      "name": "Tarek Al-Wazir",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Tarek Al-Wazir, Vorsitzender des Verkehrsausschusses, kritisierte in einem Streitgespräch zum 'Infrastruktur-Zukunftsgesetz', dass es nicht an besseren Gesetzen fehle, sondern an klaren Prioritäten. Er beanstandete, dass 'Erhalt vor Neubau' oft nur gesagt, aber nicht umgesetzt werde und zu viele Projekte gleichzeitig ohne Fokussierung angegangen würden.",
+      "source_title": "Infrastruktur-Zukunftsgesetz: Wie Politiker Al-Wazir abstimmt - VerkehrsRundschau / Streitgespräch: „Wir brauchen keine besseren Gesetze, sondern klare Prioritäten“ - Tagesspiegel Background",
+      "url": "https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/wir-brauchen-keine-besseren-gesetze-sondern-klare-prioritaeten",
+      "platform": "Presse"
+    }
+  ]
+}

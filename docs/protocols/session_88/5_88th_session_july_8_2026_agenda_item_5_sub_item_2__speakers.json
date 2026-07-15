@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag vom 8. Juli 2026 zur Änderung der Strafprozessordnung und Stärkung digitaler Ermittlungsbefugnisse wurde von breiter Besorgnis über den Schutz von Grundrechten und digitaler Souveränität begleitet. Während die Bundesregierung die Notwendigkeit moderner Werkzeuge zur Verbrechensbekämpfung betonte, äußerten die Opposition und Teile der Koalition erhebliche Bedenken. Abgeordnete wie Fabian Jacobi (AfD) und Clara Bünger (Die Linke) kritisierten die Massenhaftigkeit und mögliche Verfassungswidrigkeit des biometrischen Internetabgleichs und der automatisierten Datenanalyse. Dr. Konstantin von Notz (Bündnis 90/Die Grünen) und Johannes Schätzl (SPD) forderten klare rechtsstaatliche Leitplanken und eine Absage an den Einsatz umstrittener Software wie Palantir. Frederik Bouffier (CDU/CSU) hingegen begrüßte die Entwürfe als notwendigen Schritt zur Stärkung der Sicherheit, wies aber gleichzeitig den Vorwurf des Überwachungsstaates zurück. Die Diskussion unterstreicht einen grundlegenden Konflikt zwischen staatlichem Sicherheitsbedürfnis und bürgerlichen Freiheitsrechten im digitalen Raum, wobei viele Abgeordnete Nachbesserungsbedarf sehen, insbesondere hinsichtlich des Richtervorbehalts und der digitalen Souveränität. Die Entscheidung über das Gesetz wurde an die Ausschüsse verwiesen und eine öffentliche Anhörung für September 2026 geplant.",
+  "sources": [
+    {
+      "name": "Fabian Jacobi",
+      "party": "AfD",
+      "found": true,
+      "statement": "Fabian Jacobi (AfD) äußerte außerhalb des Plenums, dass der geplante biometrische Internetabgleich eine massenhafte Analyse auch unbeteiligter Personen ermögliche. Er forderte hierfür eine richterliche Anordnung, statt lediglich die der Staatsanwaltschaft, da es sich um einen schwerwiegenden Grundrechtseingriff handele.",
+      "source_title": "KI-Ermittlungen: Bundestag vertagt Entscheidung auf September",
+      "url": "https://www.nbtimes.de/post/ki-ermittlungen-bundestag-vertagt-entscheidung-auf-september",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Konstantin von Notz",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Konstantin von Notz (Bündnis 90/Die Grünen) nannte die Gesetzentwürfe 'zu unbestimmt' und 'ohne verhältnismäßige Sicherungsmechanismen' und warnte vor einem Scheitern vor dem Bundesverfassungsgericht. Er kritisierte die weiterhin fehlende Absage an den Einsatz von Palantir und forderte eine moderne, verfassungsrechtliche Polizeiarbeit unter Wahrung digitaler Souveränität.",
+      "source_title": "KI-Ermittlungen: Bundestag vertagt Entscheidung auf September",
+      "url": "https://www.nbtimes.de/post/ki-ermittlungen-bundestag-vertagt-entscheidung-auf-september",
+      "platform": "Presse"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Clara Bünger (Die Linke) befand die Vorhaben als 'eindeutig verfassungs- und europarechtswidrig' und forderte ein 'strikt gesetzliches Verbot biometrischer Massenerkennung für den Staat und für Unternehmen'. Sie betonte, dass der biometrische Datenabgleich mit dem Internet automatisch eine 'Super-Datenbank aller Bilder und Videos im Internet' erfordere und eine 'autoritäre Infrastruktur' schaffe.",
+      "source_title": "KI-Ermittlungen: Bundestag vertagt Entscheidung auf September / Weitreichende Überwachungspläne: Dobrindt und Hubig legen Sicherheitspaket vor",
+      "url": "https://www.nbtimes.de/post/ki-ermittlungen-bundestag-vertagt-entscheidung-auf-september",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "found": false,
+      "statement": "Johannes Schätzl (SPD) kritisierte in einem früheren Statement, dass deutsche Behörden nicht Kunden kommerzieller Anbieter wie Palantir werden dürften und dies mit Blick auf die digitale Souveränität ausgeschlossen werden müsse. Er betonte die Wichtigkeit einer heimischen Chipproduktion für die digitale Souveränität Deutschlands.",
+      "source_title": "Trump-Show in Davos + Debatte um Weltraumgesetz + Umstrittenes Wahlplakat / Werden Sie sich gegen die geplante Einschränkung des Informationsfreiheitsgesetzes einsetzen und den freien Zugang zu staatlichen Informationen verteidigen? | Frage an Johannes Schätzl (SPD) - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Website / Abgeordnetenwatch"
+    },
+    {
+      "name": "Frederik Bouffier",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

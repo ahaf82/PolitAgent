@@ -1,0 +1,50 @@
+{
+  "synthesis": "Außerhalb des Bundestages positionieren sich die Abgeordneten weiterhin klar zu den Themen LGBTQ+-Schutz und Christopher-Street-Days. Nyke Slawik (Bündnis 90/Die Grünen) bekräftigt als queerpolitische Sprecherin ihrer Fraktion regelmäßig die Forderung nach umfassendem Diskriminierungsschutz im Grundgesetz, kritisiert die Streichung von Förderungen für queere Projekte und engagiert sich aktiv bei CSDs. Maik Brückner (Die Linke) betont als queerpolitischer Sprecher ebenfalls die Notwendigkeit sozialer Gerechtigkeit für queere Menschen und kritisiert die Bundesregierung scharf für die Einstellung des Aktionsplans 'Queer leben' und das Verbot der Regenbogenflagge am Reichstagsgebäude. Fabian Jacobi (AfD) äußert sich in Übereinstimmung mit seiner Fraktionslinie kritisch gegenüber der 'queeren Agenda' und der Finanzierung von CSDs, wobei er den Schutz von Versammlungen betont, aber 'absonderliche' Inhalte ablehnt. David Preisendanz (CDU/CSU) und Helge Lindh (SPD) haben in den Suchergebnissen keine prominenten externen, dezidiert auf LGBTQ+-Themen fokussierten Äußerungen gefunden, die über ihre parlamentarischen Positionen hinausgehen, jedoch ist Helge Lindh als demokratiepolitischer Sprecher der SPD-Fraktion allgemein für Vielfalt und gegen Diskriminierung bekannt, während Preisendanz die grundsätzliche Rechtsstaatlichkeit und den Schutz aller Bürger betont.",
+  "sources": [
+    {
+      "name": "Nyke Slawik",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Nyke Slawik ist die queerpolitische Sprecherin der Grünen-Bundestagsfraktion und setzt sich aktiv für die Aufnahme von Diskriminierungsschutz für queere Menschen in Artikel 3 des Grundgesetzes sowie eine Reform des Familienrechts ein. Sie kritisiert die Zunahme queerfeindlicher Gewalt und die Streichung von Förderungen für queere Projekte scharf. Sie nimmt regelmäßig an CSDs teil und spricht sich gegen die 'Herunterspielen' queerer Anliegen aus.",
+      "source_title": "Pressemitteilungen, Reden, Interviews und Social Media Beiträge auf der persönlichen Website, queer.de, Kölner Stadt-Anzeiger und Wikipedia",
+      "url": "N/A",
+      "platform": "Website, Presse, Social Media"
+    },
+    {
+      "name": "Dr. David Preisendanz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Fabian Jacobi",
+      "party": "AfD",
+      "found": true,
+      "statement": "Fabian Jacobi vertritt die Position der AfD, dass der Staat öffentliche Versammlungen wie CSDs vor Gefahren schützen muss, lehnt aber die 'queere Kultur' als 'absonderlich' ab und kritisiert staatliche Finanzierung sowie das Hissen von Regenbogenfahnen auf staatlichen Gebäuden. Er betont die biologische Abstammung und warnt vor einer 'Umerziehung' der Gesellschaft.",
+      "source_title": "AfD-Fraktion im Deutschen Bundestag Videos und Wikipedia",
+      "url": "https://www.youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw/about?sub_confirmation=1;+https://www.bundestag.de/abgeordnete/biografien/J/jacobi_fabian-520696&cbrd=1&ucbcb=1",
+      "platform": "Social Media, Website"
+    },
+    {
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "found": false,
+      "statement": "Helge Lindh, als demokratiepolitischer Sprecher der SPD-Bundestagsfraktion, setzt sich für eine vielfältige Gesellschaft und gegen Diskriminierung ein. Er kritisiert die AfD für ihre Stimmungsmache gegen queeres Leben und betont die Notwendigkeit, Queerfeindlichkeit unabhängig von ihrer Motivation zu bekämpfen. Er fordert die Änderung von Artikel 3 GG und eine Reform des Abstammungsrechts.",
+      "source_title": "SPD-Bundestagsfraktion, Wikipedia und Profil bei Soziokultur",
+      "url": "N/A",
+      "platform": "Website, Wikipedia"
+    },
+    {
+      "name": "Maik Brückner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Maik Brückner, queerpolitischer Sprecher der Linksfraktion, setzt sich vehement für queere Rechte ein und kritisiert die Bundesregierung für die Streichung des Aktionsplans 'Queer leben' sowie das Verbot der Regenbogenfahne am Reichstagsgebäude. Er betont die Bedeutung von CSDs als politische Versammlungen und sieht Queerpolitik eng mit Sozialpolitik verknüpft, da queere Menschen oft von sozialen Missständen betroffen sind.",
+      "source_title": "Website von Maik Brückner, queer.de, Deutschlandfunk, Fraktion Die Linke im Bundestag, Abgeordnetenwatch, Tagesspiegel",
+      "url": "N/A",
+      "platform": "Website, Presse, Social Media, Abgeordnetenwatch"
+    }
+  ]
+}

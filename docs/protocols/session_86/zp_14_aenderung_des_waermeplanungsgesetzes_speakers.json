@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Reaktionen der Abgeordneten außerhalb des Bundestages zum geänderten Wärmeplanungsgesetz spiegeln größtenteils die bereits im Plenum geäußerten Positionen wider. Wilhelm Geppert von der CDU/CSU befürwortet die Novelle als praxisnahe und bürokratieärmere Lösung, die besonders kleine Kommunen entlasten soll. Andreas Meier von der AfD lehnt die Wärmeplanung weiterhin grundsätzlich ab und kritisiert die Modifizierung anstelle einer vollständigen Abschaffung als Wortbruch. Dr. Allah Alhambi (Bündnis 90/Die Grünen) äußert sich besorgt, dass die vereinfachte Planung zur Ausweisung unwirtschaftlicher Wasserstoff- oder Erdgasgebiete führen und somit Verbraucher- und Klimaschutz gefährden könnte. Für Jörg Cezanne (Die Linke) und Helmut Klebank (Fraktionslos) konnten keine expliziten externen Stellungnahmen jenseits der Debattenzusammenfassungen gefunden werden.",
+  "sources": [
+    {
+      "name": "Wilhelm Geppert",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Wilhelm Geppert begrüßt die Novelle des Wärmeplanungsgesetzes als einen wichtigen Schritt zu mehr Praxisnähe und Bürokratieabbau. Er sieht darin eine Verbesserung gegenüber dem ursprünglichen Gesetz, insbesondere durch die Einführung der 'kleinen Wärmeplanung' für Kommunen unter 15.000 Einwohnern. Die Änderungen sollen Kommunen entlasten und die Umsetzung der Wärmewende erleichtern.",
+      "source_title": "86. Sitzung vom 25.06.2026. TOP ZP 14: Änderung des Wärmeplanungsgesetzes",
+      "url": "https://www.youtube.com/watch?v=RQB1Oh74N_g",
+      "platform": "Website"
+    },
+    {
+      "name": "Andreas Meier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Andreas Meier kritisiert die geplante Novelle als unzureichend und wirft der Union Wortbruch vor, da die Wärmeplanung nicht gänzlich abgeschafft, sondern lediglich modifiziert werde. Er lehnt die staatliche Wärmeplanung und Klimapolitik grundsätzlich als wirtschaftsschädlich ab und fordert stattdessen eine freie Marktwirtschaft und die Abschaffung aller Klimagesetze.",
+      "source_title": "86. Sitzung vom 25.06.2026. TOP ZP 14: Änderung des Wärmeplanungsgesetzes",
+      "url": "https://www.youtube.com/watch?v=RQB1Oh74N_g",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Allah Alhambi",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Allah Alhambi äußert Bedenken hinsichtlich der Novelle und bezeichnet die Änderungen als potenziell schädlich für Wirtschaft und Kommunen. Er warnt, dass die vereinfachte Wärmeplanung für kleinere Kommunen die Ausweisung von Wasserstoff- oder Erdgasgebieten erleichtern könnte, was zu einer 'Heizkostenfalle' für Haushalte führen und Verbraucher- sowie Klimaschutz gefährden würde, da Wasserstoff für Haushaltsheizungen unwirtschaftlich sei.",
+      "source_title": "Kleine Kommunen erhalten mehr Freiraum - Das Parlament",
+      "url": "https://www.das-parlament.de/wirtschaft/energie/kleine-kommunen-erhalten-mehr-freiraum",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jörg Sesann",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Jörg Cezanne (vom Protokoll als Jörg Sesann genannt) unterstützt das Ziel der Klimaneutralität des Wärmeplanungsgesetzes, befürchtet aber, dass die 'kleine Wärmeplanung' eine belastbare und wirkungsvolle Planung unmöglich macht. Er sieht zudem, dass die fehlende Bürgerbeteiligung die Effektivität der Wärmeplanung untergräbt.",
+      "source_title": "Kleine Kommunen erhalten mehr Freiraum - Das Parlament",
+      "url": "https://www.das-parlament.de/wirtschaft/energie/kleine-kommunen-erhalten-mehr-freiraum",
+      "platform": "Presse"
+    },
+    {
+      "name": "Helmut Klebank",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

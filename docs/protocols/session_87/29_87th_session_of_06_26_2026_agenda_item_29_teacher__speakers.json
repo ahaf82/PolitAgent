@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externe Betrachtung der Abgeordneten zum Thema Lehrerbildung und Staatsexamen zeigt eine Fortführung der im Bundestag geäußerten Positionen. Christian Zaum (AfD) bekräftigt außerhalb des Plenums die Notwendigkeit des Staatsexamens und kritisiert die aktuelle Bildungspolitik sowie den Bologna-Prozess scharf, was auch durch seine Ausbildung als Gymnasiallehrer untermauert wird. Michael Hose (CDU/CSU) betont als ehemaliger Lehrer und Schulleiter die Relevanz einer praxisnahen Lehrerbildung und digitale Bildung, ohne das Staatsexamen explizit als Lösung zu fordern, aber auch ohne es zu verdammen, da er selbst ein Staatsexamen abgelegt hat. Ayse Asar (Bündnis 90/Die Grünen) hebt Investitionen in Schulen und Hochschulen sowie eine Qualitätsoffensive in der Lehrerbildung hervor, während sie in anderen Kontexten auch die Notwendigkeit von BAföG-Reformen anspricht. Saskia Esken (SPD) fokussiert sich in ihren öffentlichen Äußerungen stärker auf die digitale Bildung und die Entlastung von Lehrkräften, hat sich aber aufgrund von Hass und Desinformation von Twitter zurückgezogen, was direkte Äußerungen erschwert. Tamara Mazzi (Die Linke) unterstreicht die Bedeutung guter Arbeitsbedingungen und Chancengerechtigkeit im Bildungssystem und kritisiert Sparmaßnahmen im sozialen Bereich, die sich auch auf die Schulen auswirken.",
+  "sources": [
+    {
+      "name": "Christian Zaum",
+      "party": "AfD",
+      "found": true,
+      "statement": "Christian Zaum vertritt weiterhin die Position, dass die Wiedereinführung des Staatsexamens in der Lehrerbildung notwendig ist, um die Qualität und Einheitlichkeit der Ausbildung zu sichern. Er kritisiert die aktuelle 'linke Bildungspolitik' und den Bologna-Prozess als Ursachen für sinkende Bildungsleistungen und Lehrermangel in Deutschland. Seine eigene Ausbildung als Gymnasiallehrer mit zwei Staatsexamina unterstreicht seine fachliche Nähe zu diesem Thema.",
+      "source_title": "Lehrerbildung braucht verbindliches Staatsexamen! Christian Zaum – AfD-Fraktion im Deutschen Bunde",
+      "url": "https://die-handschelle.com/lehrerbildung-braucht-verbindliches-staatsexamen-christian-zaum-afd-fraktion-im-deutschen-bunde/",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Michael Hose, selbst ehemaliger Lehrer und Schulleiter, engagiert sich im Bundestag insbesondere für Bildungs-, Familien- und Jugendpolitik. Er setzt sich für mehr Chancengerechtigkeit im Bildungssystem, die Stärkung digitaler Bildung und bessere Zukunftsperspektiven ein. Seine Erfahrungen aus der Lehrerausbildung und als Schulleiter fließen in seine Forderung nach einer Qualitätsoffensive in der Lehrerbildung und unbürokratischeren Programmen ein.",
+      "source_title": "Michael Hose, MdB | republica",
+      "url": "https://re-publica.com/de/user/26636",
+      "platform": "Website"
+    },
+    {
+      "name": "Ayse Asar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Ayse Asar betont die Bedeutung von Bildungsgerechtigkeit und fordert Investitionen in Schulen und Hochschulen, mehr Lehrkräfte und eine Qualitätsoffensive in der Lehrerbildung. Sie tritt für Fortbildungen ein, die Lehrkräfte fit für die Zukunft machen, und kritisiert, dass der Bildungserfolg in Deutschland zu stark vom sozialen Hintergrund abhängt. Zudem setzt sie sich für eine bessere Grundfinanzierung von Hochschulen und die Förderung von Zukunftstechnologien ein.",
+      "source_title": "Ayşe Asar: Unsere Kandidatin für den Bundestag 2025 - Grünen Rheingau-Taunus",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Saskia Esken",
+      "party": "SPD",
+      "found": true,
+      "statement": "Saskia Esken engagiert sich als Vorsitzende des Ausschusses für Bildung, Familie, Senioren, Frauen und Jugend für digitale Bildung und eine Bildung für nachhaltige Entwicklung. Sie betont die Notwendigkeit, alle Menschen an der digitalen Entwicklung teilhaben zu lassen. In der Vergangenheit hat sie sich von Twitter zurückgezogen, da sie dort 'Clickbait-getriebene Empörung, misogynen Hass und Fake News' erlebt hat, was ihre direkte Präsenz auf Social Media zu bildungspolitischen Themen einschränken könnte.",
+      "source_title": "Im Blick: Die digitale Zukunft der Bildung im Schwarzwald - Saskia Esken",
+      "url": "https://www.saskiaesken.de/aktuelle-artikel/im-blick-die-digitale-zukunft-der-bildung-im-schwarzwald",
+      "platform": "Website"
+    },
+    {
+      "name": "Tamara Mazzi",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Tamara Mazzi setzt sich als Lehrerin und Bundestagsabgeordnete für soziale Gerechtigkeit und Bildung für alle ein. Sie fordert eine echte Kindergrundsicherung, kostenlose Schulmahlzeiten, Nachhilfe und gleiche Chancen für jedes Kind. Sie kritisiert, dass zu wenig Geld in Bildung investiert wird und Schulen verfallen, während stattdessen in Aufrüstung investiert wird.",
+      "source_title": "Tamara Mazzi, MdB | Abgeordnete aus Kiel – Die Website der Bundestagsabgeordneten Tamara Mazzi.",
+      "url": "https://tamara-mazzi.de/",
+      "platform": "Website"
+    }
+  ]
+}

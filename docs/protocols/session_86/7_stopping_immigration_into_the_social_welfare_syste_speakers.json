@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag über 'Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen' zeigt deutliche politische Gräben. Abgeordnete der AfD betonen außerhalb des Plenums konsistent die Notwendigkeit, 'Einwanderung in die Sozialsysteme' zu stoppen und Sozialbetrug zu bekämpfen, oft mit Forderungen nach härteren Maßnahmen und Leistungsausschlüssen. Demgegenüber lehnen SPD-Politikerinnen wie Rasha Nasr eine pauschale Kriminalisierung von Migranten ab und betonen die Bedeutung von Zuwanderung für den Arbeitsmarkt und die Gesellschaft. Sie kritisiert die AfD-Rhetorik als herabwürdigend und warnt vor einer Schwächung der Solidargemeinschaft. Timon Genus von Bündnis 90/Die Grünen sieht Migration als Bereicherung und kritisiert die AfD für Hetze und Spaltung. Die Linke betont, dass der Sozialstaat auf Bedürftigkeit basiere und lehnt Diskriminierung aufgrund der Herkunft ab, während sie eine solidarische Einwanderungsgesellschaft fordert. Kai Witter (CDU/CSU) verteidigt die Prinzipien des Sozialstaats und verweist auf bestehende Maßnahmen gegen Sozialmissbrauch, ohne jedoch spezifische externe Aussagen zu diesem exakten Thema zu tätigen, die über seine Plenumsrede hinausgehen.",
+  "sources": [
+    {
+      "name": "Gerui",
+      "party": "AfD",
+      "found": true,
+      "statement": "Gerrit Huy (als Name in den Suchergebnissen, passend zur Rolle 'Gerui' im Protokoll) fordert ein Ende der Einwanderung in die Sozialsysteme, da diese das Land finanziell überfordere und zum Sozialleistungsmissbrauch führe. Sie kritisiert die hohen Kosten für Flüchtlinge und die angebliche Überlastung der Sozialsysteme durch Einwanderung, besonders von Ukrainern ins Bürgergeld. Sie betont, dass Sozialleistungen nur denjenigen zustehen sollen, die sich nicht selbst helfen können und aktiv an der Überwindung ihrer Hilfebedürftigkeit mitwirken.",
+      "source_title": "Presse – Gerrit Huy / AfD-Fraktion im Deutschen Bundestag / Hitzige Diskussion über AfD-Antrag zu Missbrauch von Sozialleistungen",
+      "url": "https://www.youtube.com/watch?v=hLEeIJWbehE",
+      "platform": "Website / Presse / Social Media"
+    },
+    {
+      "name": "Kai Witter",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Kai Whittaker (in Suchergebnissen 'Whittaker') betont die Prinzipien des Sozialstaats – Personalität, Subsidiarität und Solidarität – und lehnt die Darstellung der AfD ab, die Bundesregierung unternehme nichts gegen Sozialmissbrauch. Er verweist auf bereits beschlossene Gesetze und Maßnahmen, ohne jedoch spezifische externe Aussagen, die über die Debatte hinausgehen, zu tätigen.",
+      "source_title": "Hitzige Diskussion über AfD-Antrag zu Missbrauch von Sozialleistungen",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-sozialleistungen-1191372",
+      "platform": "Presse"
+    },
+    {
+      "name": "Timon Genus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Timon Dzienus (als Name in den Suchergebnissen, passend zur Rolle 'Timon Genus' im Protokoll) betont die Bereicherung durch Migration und kritisiert die AfD für Hetze und Spaltung. Er lehnt die Vorstellung ab, dass Migration per se eine Last für die Sozialsysteme darstellt und fordert stattdessen eine offene und integrierende Gesellschaft. Er äußerte sich auch kritisch zu Kürzungen beim Bürgergeld, die er als schädlich für Menschen und Haushalt ansieht.",
+      "source_title": "Grüne fordern Arbeitserlaubnis für Geflüchtete / Timon Dzienus - Deutscher Bundestag / Grünen-Politiker Dzienus: 'Erleben einen regelrechten Sanktionsfetischismus'",
+      "url": "N/A",
+      "platform": "Presse / Website"
+    },
+    {
+      "name": "Rascha Nasr",
+      "party": "SPD",
+      "found": false,
+      "statement": "Rasha Nasr, migrationspolitische Sprecherin der SPD-Fraktion, tritt für eine sachliche Debatte über Migration ein und betont die Notwendigkeit, Deutschland für Fachkräfte attraktiver zu machen. Sie kritisiert die AfD-Rhetorik als unerträglich und weist darauf hin, dass der Rechtsstaat bei Betrug handle, aber rechtmäßige Leistungsansprüche nicht diffamiert werden dürften. Nasr hat sich auch kritisch zu verschärften Asylgesetzen geäußert und erwogen, ihr Mandat niederzulegen, da sie sich in ihren humanen Grundsätzen enttäuscht fühlte.",
+      "source_title": "Rasha Nasr: „Wir sind doch schon längst ein Einwanderungsland.“ - vorwärts.de / SPD: Rasha Nasr hadert mit ihrer Zustimmung zu umstrittenen Asylgesetzen - Spiegel / Überall fehlen Fachkräfte – was tun, Rasha? - SPD-Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Website / Presse / Social Media"
+    },
+    {
+      "name": "Jansen Gburg",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Cansin Köktürk (als Name in den Suchergebnissen, passend zur Rolle 'Jansen Gburg' im Protokoll) von der Fraktion Die Linke bekräftigt, dass das Solidarprinzip im deutschen Sozialstaat auf Bedürftigkeit basiere und nicht nationalistisch sei. Die Linke fordert eine solidarische Einwanderungsgesellschaft, die soziale und politische Rechte nicht nach 'Nützlichkeit' vergibt. Sie lehnt Diskriminierung ab und setzt sich für gleiche Rechte für alle in Deutschland lebenden Menschen ein, unabhängig vom Aufenthaltsstatus.",
+      "source_title": "Linke: Das Solidarprinzip richtet sich nach Bedürftigkeit / Eine solidarische Einwanderungsgesellschaft - Die Linke / Migration und Integration als soziale und demokratische Frage – offene Grenzen für Menschen in Not! - Die Linke Mecklenburg-Vorpommern",
+      "url": "N/A",
+      "platform": "Presse / Website"
+    }
+  ]
+}

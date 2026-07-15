@@ -1,0 +1,53 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4099",
+      "title": "Entwurf eines Infrastruktur-Zukunftsgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4099&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4301",
+      "title": "Unterrichtung: Entwurf eines Infrastruktur-Zukunftsgesetzes - Drucksache 21/4099 - Gegenäußerung der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4301&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/6701",
+      "title": "Beschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss) a) zu dem Gesetzentwurf der Bundesregierung – Drucksachen 21/4099, 21/4301 – Entwurf eines Infrastruktur-Zukunftsgesetzes b) zu dem Antrag der Abgeordneten Matthias Gastel, Tarek Al-Wazir, Victoria Broßart, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN – Drucksache 21/4458 – Infrastrukturvorhaben im Schienennetz effektiv beschleunigen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6701&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/4458",
+      "title": "Antrag der Abgeordneten Matthias Gastel, Tarek Al-Wazir, Victoria Broßart, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Infrastrukturvorhaben im Schienennetz effektiv beschleunigen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4458&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6702",
+      "title": "Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung zu dem Gesetzentwurf der Bundesregierung – Drucksachen 21/4099, 21/4301, 21/6701 – Entwurf eines Infrastruktur-Zukunftsgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6702&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/6703",
+      "title": "Änderungsantrag der Abgeordneten Ulrich von Zons, Wolfgang Wiehle, René Bochmann, weiterer Abgeordneter und der Fraktion der AfD zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung – Drucksachen 21/4099, 21/4301, 21/6701 – Entwurf eines Infrastruktur-Zukunftsgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6703&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6704",
+      "title": "Entschließungsantrag der Abgeordneten Swantje Henrike Michaelsen, Harald Ebner, Lukas Benner, Tarek Al-Wazir, Victoria Broßart, Matthias Gastel, Lisa Badum, Julia Schneider und der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der dritten Beratung des Gesetzentwurfs der Bundesregierung – Drucksachen 21/4099, 21/4301, 21/6701 – Entwurf eines Infrastruktur-Zukunftsgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6704&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Bundestag hat das \"Infrastruktur-Zukunftsgesetz\" in der zweiten und dritten Beratung am 26. Juni 2026 beschlossen. Der Gesetzentwurf wurde mit den Stimmen der Fraktionen CDU/CSU und SPD angenommen. Die Fraktionen AfD, Bündnis 90/Die Grünen und Die Linke stimmten gegen das Gesetz. Der Antrag der Fraktion Bündnis 90/Die Grünen (Drucksache 21/4458) wurde mit den Stimmen von CDU/CSU, AfD und SPD abgelehnt, während Die Linke sich enthielt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

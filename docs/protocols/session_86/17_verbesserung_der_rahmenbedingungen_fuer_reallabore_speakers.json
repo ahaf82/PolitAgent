@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten zum 'Reallabore-Gesetz' spiegeln weitgehend die im Bundestag geäußerten Positionen wider. Caroline Wagner (SPD) bekräftigte die Bedeutung des Gesetzes für die Stärkung des Innovationsstandorts Deutschland und die Schaffung klarer Rahmenbedingungen für neue Technologien. Sonja Lemke (Die Linke) wiederholte ihre Kritik an der Gefahr der Deregulierung und forderte eine stärkere Einbindung von Wissenschaft und Zivilgesellschaft. Parlamentarischer Staatssekretär Philip Amtor (Bundesregierung) unterstrich das Engagement der Regierung für Bürokratieabbau und Staatsmodernisierung als Kernziele des Gesetzes. Für einige Abgeordnete ließen sich jedoch keine spezifischen externen Stellungnahmen direkt zum verabschiedeten Gesetzestext finden.",
+  "sources": [
+    {
+      "name": "Dr. Martin Plum",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Michael Kaufmann",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Caroline Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Carolin Wagner betonte in einer Pressemitteilung der SPD-Bundestagsfraktion, dass das Bundeserprobungsgesetz klare Rahmenbedingungen für die Erprobung neuer Verfahren und Technologien schafft, um Deutschland als Innovations- und Forschungsstandort zu stärken. Sie hob hervor, dass Ideen so schneller Realität werden, Verwaltungen effizienter werden und der Wissenstransfer aus Experimenten gesichert wird.",
+      "source_title": "Reallabore: Innovationen in der Praxis testen | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/reallabore-innovationen-praxis-testen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Moritz Heuberger",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sonja Lemke forderte bereits im Mai 2025, dass Reallabore nicht nur auf den Abbau von Regulierung abzielen dürfen, sondern zwingend die Beteiligung von Wissenschaft und Zivilgesellschaft erfordern. Eine jüngere Social-Media-Äußerung von ihr vom Juli 2026 kritisierte zudem den als 'Bürokratierückbau' bezeichneten Plan der Regierungskoalition, die Informationsfreiheit einzuschränken, was ihre generelle Skepsis gegenüber Deregulierung ohne ausreichende Kontrolle unterstreicht.",
+      "source_title": "Rede zum Reallabore-Gesetz: Die Linke MdB Sonja Lemke / Sonja Lemke, MdB (@sonjalemke@ruhr.social)",
+      "url": "https://ruhr.social/@sonjalemke",
+      "platform": "Website / Social Media"
+    },
+    {
+      "name": "Philip Amtor",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Parlamentarischer Staatssekretär beim Bundesminister für Digitales und Staatsmodernisierung wurde Philip Amtor auf dem Creative Bureaucracy Festival im Mai 2026 als Leiter der Arbeitsgruppe für Bürokratieabbau und Staatsmodernisierung während der Koalitionsverhandlungen vorgestellt. In einer Rede im Juni 2026 sprach er von der Notwendigkeit, einen 'Betonberg an Reformbedarfen' abzubauen und lobte das neue Digital- und Staatsmodernisierungsministerium als 'Haus, das liefert', was die Zielsetzung des Reallabore-Gesetzes zur Modernisierung des Staates untermauert.",
+      "source_title": "Philipp Amthor | Creative Bureaucracy Festival / CDU's Philipp Amthor Delivers Powerful Speech on Germany's Future and Reform | AC14",
+      "url": "https://www.youtube.com/watch?v=zhW4A_4U_eM",
+      "platform": "Website / Social Media"
+    }
+  ]
+}

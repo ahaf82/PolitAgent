@@ -1,0 +1,131 @@
+{
+  "synthesis": "Außerhalb des Bundestags zeigten sich die Abgeordneten in der Debatte zur Zukunft der deutschen Automobilindustrie gespalten in ihren Lösungsansätzen. Während SPD-Politiker wie Sebastian Roloff und Johann Saathoff die Notwendigkeit der Sozialpartnerschaft und den Erhalt von Arbeitsplätzen betonten und die Transformation hin zur Elektromobilität befürworteten, übten AfD-Abgeordnete wie Raimond Scheirich und Mathias Weiser scharfe Kritik an der aktuellen Regierungspolitik und forderten ein Ende von Verbrennerverboten und Subventionen für E-Autos. CDU/CSU-Abgeordnete wie Tilmann Kuban und Hans Koller setzten auf Technologieoffenheit, Bürokratieabbau und günstigere Rahmenbedingungen, um die Wettbewerbsfähigkeit zu sichern. Die Grünen-Vertreterinnen Dr. Sandra Detzer und Swantje Michaelsen betonten die Notwendigkeit der Elektromobilität und kritisierten die aktuelle Förderpolitik. Die Linke, vertreten durch Cham Inche, fokussierte sich auf den Schutz der Beschäftigten und die Stärkung der Mitbestimmungsrechte.",
+  "sources": [
+    {
+      "name": "Gitta Kronnemann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Raimond Schirich",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert die Bundesregierung für ihre Politik und die daraus resultierenden Probleme für die Automobilindustrie, bemängelt hohe Kosten, Bürokratie und fehlende Technologieoffenheit und sieht die 'Mobilitätswende' als Vorteil für China.",
+      "source_title": "Schwierige Lage der Automobilindustrie erörtert - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont die ernste Lage der Autoindustrie, die globalen Probleme und die bereits ergriffenen politischen Maßnahmen, und fordert weitere Maßnahmen wie den Ausbau der Ladeinfrastruktur und einen 'Industrial Accelerator Act'.",
+      "source_title": "Wir stehen klar an der Seite der Beschäftigten - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/wir-stehen-klar-seite-beschaeftigten",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Sandra Detzer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Beschreibt den tiefgreifenden Wandel der Branche, fordert politische Klarheit und betont die Notwendigkeit, auf Elektromobilität zu setzen, während sie die aktuelle Förderpolitik kritisiert, die auch chinesische Hersteller begünstige.",
+      "source_title": "Dr. Sandra Detzer | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/dr-sandra-detzer",
+      "platform": "Website"
+    },
+    {
+      "name": "Cham Inche",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Berichtet über die Situation der Beschäftigten und die Kündigung von Tarifverträgen, kritisiert die einseitige Kündigung von Tarifverträgen durch das Management und fordert eine zukunftsfähige Industriepolitik mit Standortsicherung und Tarifbindung.",
+      "source_title": "Peinlicher CDU-Mann Kuban BLAMIERT SICH im Bundestag vor Linkem VW-Angestellten!",
+      "url": "https://www.youtube.com/watch?v=73qJ4Kk-P-Q",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Tilmann Kuban",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont die Tradition der deutschen Automobilindustrie und fordert Reformen wie neue Absatzmärkte, niedrigere Energiekosten, Bürokratieabbau und einen Technologie-Mix, um wettbewerbsfähig zu bleiben.",
+      "source_title": "Tilman Kuban: „Fürs Klima nichts erreicht, aber Industriearbeiter in Deutschland werden auf die Straße gesetzt“ - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Matthias Weiser",
+      "party": "AfD",
+      "found": true,
+      "statement": "Verurteilt die Politik der Regierung als Ursache für Stellenabgänge und Werksschließungen, sieht die Ursache in der 'wirtschaftsfeindlichen Politik' und der Fixierung auf Elektromobilität und fordert eine Abkehr davon.",
+      "source_title": "Die Welt gibt Gas & Deutschland bremst! - Mathias Weiser - AfD-Fraktion im Bundestag",
+      "url": "https://www.youtube.com/watch?v=QfJ6dK3i-v0",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Elisabeth Kaiser",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont die Bedeutung der Automobilindustrie für Ostdeutschland und die dortigen Arbeitsplätze, hebt die Verantwortung des Managements hervor und die Wichtigkeit von Tarifbindung und Sozialpartnerschaft.",
+      "source_title": "Ostbeauftragte warnt VW vor Kahlschlag in Ostdeutschland - BörsenNEWS.de",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Swan Henrike Michaelsen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Kritisiert, dass der Titel der Debatte nicht der Realität entspreche, sieht die Ursachen des Problems in Managementfehlern und strategischen Fehleinschätzungen, insbesondere der Fokussierung auf den chinesischen Markt und dem Zögern bei der Elektromobilität.",
+      "source_title": "EU-Automobilpaket: Mutloser Rückschritt statt Aufbruch in die E-Mobilität - von Swantje Michaelsen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Hans Koller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont, dass Deutschland weiterhin Automobilbau betreiben kann, wenn die richtigen Rahmenbedingungen wie wettbewerbsfähige Energie- und Arbeitskosten, Bürokratieabbau und Flexibilität geschaffen werden.",
+      "source_title": "Mut zu echten Reformen! - CSU-Landesgruppe",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Adam Balton",
+      "party": "AfD",
+      "found": true,
+      "statement": "Stellt die Politik der Regierung als Ursache für den Niedergang der deutschen Automobilindustrie dar und kritisiert die Fixierung auf CO2-Reduktion und Elektromobilität, fordert eine Abkehr von Verbrennerverboten und Subventionen.",
+      "source_title": "Politik zerstört Automobilindustrie mit Verboten! Adam Balten - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=F6Xm7Qk5z7U",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Carsten Körber",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Johann Saathoff",
+      "party": "SPD",
+      "found": false,
+      "statement": "Äußert Solidarität mit den Beschäftigten, kritisiert die Haltung des Managements bezüglich Werksschließungen und Stellenabbau und betont die Wichtigkeit der Sozialpartnerschaft und des VW-Gesetzes.",
+      "source_title": "Krise bei Volkswagen: Saathoff setzt weiter auf Elektroautos - Ostfriesische Nachrichten",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lars Rover",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
