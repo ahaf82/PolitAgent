@@ -13,6 +13,32 @@
     "processed_at": "2026-07-13T20:10:23.877319"
   },
   {
+    "id": "V6lNsTIjJsk",
+    "title": "89th Session on 07/09/2026. Agenda Item 12: Working conditions in science",
+    "session": 89,
+    "date": "2026-07-09",
+    "top": "12",
+    "topic": "Arbeitsbedingungen in der Wissenschaft",
+    "summary_path": "protocols/session_89/12_working_conditions_in_science.md",
+    "documents_path": "protocols/session_89/12_working_conditions_in_science_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=V6lNsTIjJsk",
+    "processed_at": "2026-07-15T08:02:18.541569"
+  },
+  {
+    "id": "48JN0m8b9fA",
+    "title": "89. Sitzung vom 09.07.2026. TOP 11, ZP 12: Änderung des Rechts der Wohn- und Geschäftsraummiete",
+    "session": 89,
+    "date": "2026-07-09",
+    "top": "11, ZP 12",
+    "topic": "Änderung des Rechts der Wohn- und Geschäftsraummiete",
+    "summary_path": "protocols/session_89/11_zp_12_aenderung_des_rechts_der_wohn_und_geschaeftsraummi.md",
+    "documents_path": "protocols/session_89/11_zp_12_aenderung_des_rechts_der_wohn_und_geschaeftsraummi_documents.json",
+    "speakers_path": "protocols/session_89/11_zp_12_aenderung_des_rechts_der_wohn_und_geschaeftsraummi_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=48JN0m8b9fA",
+    "processed_at": "2026-07-15T08:03:34.293110"
+  },
+  {
     "id": "u945CZ3Xfgg",
     "title": "88. Sitzung vom 08.07.2026. TOP ZP 1: Aktuelle Stunde zu mutmaßlichen Angriffen gegen Journalisten",
     "session": 88,
@@ -2042,6 +2068,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=dwgPxESKxtQ",
     "processed_at": "2026-07-14T08:06:32.529561"
+  },
+  {
+    "id": "5IBXk7JUtwk",
+    "title": "89th Session of July 9, 2026. Agenda Item 15: Forced Marriages and Child Marriages in Germany",
+    "session": 89,
+    "date": "N/A",
+    "top": "15",
+    "topic": "Verhinderung von Zwangs- und Kinderehen in Deutschland",
+    "summary_path": "protocols/session_89/15_89th_session_of_july_9_2026_agenda_item_15_forced_.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=5IBXk7JUtwk",
+    "processed_at": "2026-07-15T08:06:34.907164"
+  },
+  {
+    "id": "P0rf4e4tS4A",
+    "title": "89th Session of 07/09/2026. Agenda Item 13: Implementation of the EU Industrial Emissions Directive",
+    "session": 89,
+    "date": "N/A",
+    "top": "13",
+    "topic": "Umsetzung der EU-Industrieemissionsrichtlinie",
+    "summary_path": "protocols/session_89/13_89th_session_of_07_09_2026_agenda_item_13_implemen.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=P0rf4e4tS4A",
+    "processed_at": "2026-07-15T08:05:39.930040"
+  },
+  {
+    "id": "-PJI-EviM_s",
+    "title": "89th Session of 07/09/2026. Agenda Item 13: \"Live Democracy!\" Program",
+    "session": 89,
+    "date": "N/A",
+    "top": "13",
+    "topic": "Sofortige Einstellung des Bundesprogramms „Demokratie leben!“ – Wahrung der parteipolitischen Neutralität",
+    "summary_path": "protocols/session_89/13_89th_session_of_07_09_2026_agenda_item_13_live_dem.md",
+    "documents_path": "protocols/session_89/13_89th_session_of_07_09_2026_agenda_item_13_live_dem_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=-PJI-EviM_s",
+    "processed_at": "2026-07-15T08:06:06.049260"
   },
   {
     "id": "hATNSC7L1lc",

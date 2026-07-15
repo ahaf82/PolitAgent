@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zur Änderung des Mietrechts zeigte deutliche politische Gräben. Während die Koalitionsfraktionen SPD und CDU/CSU die vorgeschlagenen Maßnahmen als ausgewogenen Schritt zur Stärkung des Mieterschutzes bei gleichzeitiger Berücksichtigung von Vermieterinteressen darstellten, kritisierten die Oppositionsparteien AfD, Die Linke und Bündnis 90/Die Grünen die Regelungen als unzureichend, einseitig oder als Belastung für Vermieter.  Externe Aussagen spiegeln diese Positionen wider: SPD-Politikerinnen wie Stefanie Hubig und Hakan Demir betonten die positiven Effekte des Gesetzespakets für Mieter. Die AfD, vertreten durch Thomas Fetsch und Rainer Galla, äußerte sich ablehnend und warnte vor Verschärfungen der Wohnungsnot. Caren Lay von Die Linke und Till Steffen von Bündnis 90/Die Grünen forderten weitergehende Maßnahmen und kritisierten die bestehenden Regelungen als halbherzig. Susanne Hierl und Jan-Marco Luczak von der CDU/CSU betonten die Notwendigkeit von Investitionsanreizen und einer sorgfältigen Ausgestaltung der Mieterschutzmaßnahmen.",
+  "sources": [
+    {
+      "name": "Stefanie Hubig",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Bundesministerin der Justiz und für Verbraucherschutz erläuterte sie das Mietrechtspaket, das unter anderem die Begrenzung von Kurzzeit- und möblierten Vermietungen, die Deckelung von Indexmieten und die Ausweitung von Schonfristen vorsieht. Sie betonte die Notwendigkeit von Mieterschutz und verwies auf Neubauinitiativen.",
+      "source_title": "Bundesministerin Dr. Stefanie Hubig (SPD)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    },
+    {
+      "name": "Thomas Fetsch",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisierte den Gesetzentwurf als einseitig und ideologisch, der die Wohnungsnot verschärfen und die Vermietung erschweren würde. Er bemängelte insbesondere die Belastung von Kleinvermietern durch Indexmieten und Schonfristen.",
+      "source_title": "Thomas Fetsch (AfD)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie betonte die Notwendigkeit eines ausgewogenen Mietrechts, das Mieterschutz und Investitionsanreize vereint. Sie forderte eine sorgfältige Ausgestaltung von Schonfristen und mehr Flexibilität bei Kurzzeitvermietungen.",
+      "source_title": "Susanne Hierl (CDU/CSU)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Till Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Er argumentierte, dass Neubau allein nicht ausreiche und forderte klarere Regelungen, insbesondere bei möblierten Wohnungen. Er schlug auch eine Sperrfrist für Eigenbedarfskündigungen nach Verstößen gegen die Mietpreisbremse vor.",
+      "source_title": "Dr. Till Steffen (Bündnis 90/Die Grünen)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    },
+    {
+      "name": "Caren Lay",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sie kritisierte den Gesetzentwurf als unzureichend zur Bekämpfung der Mietenexplosion und bemängelte die halbherzige Regulierung von möblierten und befristeten Vermietungen. Sie vermisste wirksame Maßnahmen gegen Eigenbedarfskündigungen.",
+      "source_title": "Caren Lay (Die Linke)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er beschrieb das Mietpaket als das größte seit 20 Jahren mit wichtigen Regelungen zur Beschränkung von Indexmieten und zur Ausweitung der Schonfristzahlung. Er forderte eine Schärfung des Mietwucherparagrafen.",
+      "source_title": "Hakan Demir (SPD)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    },
+    {
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisierte die linke und grüne Opposition für ihre Anträge zur Einschränkung von Eigenbedarfskündigungen, die er als einseitige Verschiebung zugunsten ihrer Klientel und im Stil der DDR-Wohnraumbewirtschaftung betrachtete.",
+      "source_title": "Rainer Galla (AfD)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Jan-Marco Luczak",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Er betonte, dass die Bundesgesetzgebung die Verstaatlichung privater Wohnungsbestände verhindern werde, um Investitionen anzuregen. Er forderte eine Diskussion über die Ausgestaltung von Indexmieten und Schonfristen.",
+      "source_title": "Dr. Jan-Marco Luczak (CDU/CSU)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1034894",
+      "platform": "Website"
+    }
+  ]
+}
