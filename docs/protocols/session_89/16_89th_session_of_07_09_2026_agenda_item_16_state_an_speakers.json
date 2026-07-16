@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Abgeordneten zum Gesetz zur Entlastung von Ländern und Kommunen spiegeln die Debatten im Plenum wider. Die SPD betont die Solidarität und die Erfüllung eines Koalitionsversprechens, während die AfD das Gesetz als unzureichend kritisiert und auf das Konnexitätsprinzip verweist. Bündnis 90/Die Grünen äußern scharfe Kritik und bezeichnen das Gesetz als Verhöhnung der Kommunen. Die Linke fordert eine deutlich höhere finanzielle Beteiligung des Bundes und kritisiert die Höhe der vorgesehenen Hilfen scharf. Die CDU/CSU-Abgeordneten haben sich laut den gefundenen Quellen primär auf die Website ihrer Fraktion und die des Bundestages beschränkt, wobei ihre Haltung im Plenum (Zustimmung zum Gesetz) impliziert, dass sie die Notwendigkeit von Entlastungen anerkennen, jedoch die genaue Ausgestaltung und die Rolle der Länder betonen.",
+  "sources": [
+    {
+      "name": "Dr. Thorsten Rudolph",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er hob hervor, dass die beschlossene Entlastung ein starkes Zeichen der Solidarität des Bundes sei und die Haushaltslage der Kommunen verbessern werde. Er verwies auch auf die schwierige Haushaltslage des Bundes und die Notwendigkeit, strukturelle Probleme anzugehen.",
+      "source_title": "Mehr Solidarität mit Ländern und Kommunen - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/mehr-solidaritaet-laendern-kommunen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Thomas Ladzinski",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Uwe Feiler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Karoline Otte",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sie bezeichnete das Gesetz als Verhöhnung der Kommunen, da unklar sei, ob die Mittel tatsächlich bei den Kommunen ankommen, und kritisierte, dass die Bundesregierung nicht handle.",
+      "source_title": "Schluss mit den Märchen! Rede im Bundestag vom 09. Juli 2026 - Karoline Otte",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sascha Wagner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Er kritisierte die geringen finanziellen Hilfen als \"Witz\" und forderte eine hälftige Übernahme der kommunalen Altschulden durch den Bund. Er betonte auch die Notwendigkeit der vollständigen Übernahme der DDR-Zusatzversorgungskosten durch den Bund.",
+      "source_title": "Geplante Entlastung von Ländern und Kommunen reicht nicht - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Florian Oßner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
