@@ -1,0 +1,70 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5871",
+      "title": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Haftung bei Unfällen mit Elektrokleinstfahrzeugen im Straßenverkehr",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5871&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/6984",
+      "title": "Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6984&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6994",
+      "title": "Änderungsantrag der AfD-Fraktion",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6994&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung \"zur Haftung bei Unfällen mit Elektrokleinstfahrzeugen im Straßenverkehr\" wurde in unveränderter Fassung angenommen. Ein Änderungsantrag der AfD-Fraktion wurde zuvor abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?reference=21%2F5871",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "SPD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "AfD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Die Linke",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      }
+    ]
+  }
+}

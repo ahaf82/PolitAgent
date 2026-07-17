@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Abgeordneten Daniela Ludwig (Bundesregierung), Ulrich von Zons (AfD), Dr. Irene Mihalic (Bündnis 90/Die Grünen), Heiko Hain und Caroline Bosbach (beide CDU/CSU) waren die Hauptredner in der Debatte über die Änderung des Vereinsgesetzes zur Weiterentwicklung des Ausländervereinsregisters. Außerhalb des Plenums äußerten sich die Abgeordneten vor allem im Rahmen des Gesetzgebungsverfahrens. Dr. Irene Mihalic betonte die Notwendigkeit von Transparenz bei Finanzströmen, warnte aber auch vor einem Generalverdacht gegen Vereine und schlug vor, deutsche und ausländische Vereine gleich zu behandeln, wo keine Sicherheitsrisiken bestehen. Heiko Hain und Caroline Bosbach betonten den Schutz der Demokratie durch Transparenz und die Umsetzung des Koalitionsvertrags, wobei Bosbach auf die Beschränkung der Regelungen auf Vereine mit konkreten sicherheitsrelevanten Erfahrungen hinwies. Ulrich von Zons kritisierte das Gesetz als unzureichend und forderte stärkere Ermittlungsbefugnisse sowie ein Verbot der Muslimbruderschaft. Daniela Ludwig äußerte sich als Vertreterin der Bundesregierung zur Fortentwicklung des Registers und zur Bedeutung von Transparenz bei Zuwendungen über 10.000 Euro. Johannes Schätzl (SPD) und Ferat Kocak (Die Linke) gaben ihre Redebeiträge zu Protokoll; von Kocak gibt es Hinweise auf Aktivitäten in sozialen Medien und eine kritische Haltung gegenüber der Polizei. Für die Abgeordneten Schätzl und Kocak wurden keine spezifischen externen Äußerungen zu diesem Gesetz gefunden.",
+  "sources": [
+    {
+      "name": "Daniela Ludwig",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Vertreterin der Bundesregierung erläuterte sie die Notwendigkeit der Fortentwicklung des Ausländervereinsregisters und die Einführung von Offenlegungspflichten für Zuwendungen über 10.000 Euro aus Drittstaaten zur besseren Nachvollziehbarkeit staatlicher Finanzströme.",
+      "source_title": "Reden zu diesem Tagesordnungspunkt",
+      "url": "https://www.bundestag.de/resource/blob/1005136/863181a372a4f41c2a193c59c690a095/21-6805-Entwurf-data.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisierte das Gesetz als unzureichend und bemängelte fehlende echte Ermittlungsbefugnisse, forderte stattdessen stärkere Befugnisse und ein Verbot der Muslimbruderschaft.",
+      "source_title": "Reden zu diesem Tagesordnungspunkt",
+      "url": "https://www.bundestag.de/resource/blob/1005136/863181a372a4f41c2a193c59c690a095/21-6805-Entwurf-data.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sie unterstützte die Schaffung von Transparenz bei sicherheitsrelevanten Finanzströmen, warnte jedoch davor, unbescholtene Vereine unter Generalverdacht zu stellen, und schlug vor, vergleichbare Maßstäbe für alle Vereine anzusetzen, wo tatsächliche Sicherheitsrisiken bestehen.",
+      "source_title": "Rede zum Vereinsrecht",
+      "url": "https://www.youtube.com/watch?v=LE24fJekpHg&t=10m53s",
+      "platform": "Presse"
+    },
+    {
+      "name": "Heiko Hain",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Er betonte, dass der Gesetzentwurf dem Schutz der Demokratie diene, indem er Einflussnahmeversuche und deren Finanzierung transparenter mache und die Umsetzung des Koalitionsvertrags darstelle.",
+      "source_title": "Reden zu diesem Tagesordnungspunkt",
+      "url": "https://www.bundestag.de/resource/blob/1005136/863181a372a4f41c2a193c59c690a095/21-6805-Entwurf-data.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Caroline Bosbach",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie hob hervor, dass die besondere Regelung auf Vereine beschränkt werde, bei denen konkrete sicherheitsrelevante Erfahrungen vorliegen, und dass das Gesetz die Arbeit der Sicherheitsbehörden erleichtern und Feinden der Demokratie die Arbeit erschweren werde.",
+      "source_title": "Reden zu diesem Tagesordnungspunkt",
+      "url": "https://www.bundestag.de/resource/blob/1005136/863181a372a4f41c2a193c59c690a095/21-6805-Entwurf-data.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ferat Kocak",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

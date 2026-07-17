@@ -1,51 +1,64 @@
-# Änderung des Patientenrechtegesetzes
+# Änderung des Vereinsgesetzes
 
 ## Sitzungs-Metadaten
 - **Sitzung:** 89. Sitzung
 - **Datum:** N/A
 - **Tagesordnungspunkt (TOP):** 14
-- **Originaltitel:** 89th Session of 07/09/2026. Agenda Item 14: Amendment of the Patients' Rights Act
-- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=xbyKk8znmZ8)
+- **Originaltitel:** 89th Session of 07/09/2026. Agenda Item 14: Amendment to the Law on Associations
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=LE24fJekpHg)
 
 ## Kurzzusammenfassung
-In der 89. Sitzung des Bundestages wurde ein Gesetzentwurf zur Änderung des Patientenrechtegesetzes beraten. Die Debatte konzentrierte sich auf die Stärkung der Patientenrechte, insbesondere im Hinblick auf Behandlungsfehler, Aufklärungspflichten und die Beweislast. Während die Fraktion Bündnis 90/Die Grünen und Die Linke grundlegende Änderungen zur Erleichterung der Rechtsdurchsetzung forderten, äußerte sich die CDU/CSU kritisch zu den vorgeschlagenen Haftungsverschärfungen und betonte die Notwendigkeit eines ausgewogenen Rechtssystems. Die AfD lehnte den Entwurf ebenfalls ab und kritisierte dessen Ausgestaltung. Die SPD unterstützte die Notwendigkeit einer Stärkung der Patientenrechte und verwies auf laufende Gespräche zur Umsetzung.
+Die Sitzung befasste sich mit der ersten Beratung eines Gesetzentwurfs zur Änderung des Vereinsgesetzes. Ziel ist die Weiterentwicklung des Ausländervereinsregisters, um Einflussnahmen aus dem Ausland auf die freiheitlich-demokratische Grundordnung besser zu erkennen und abwehren zu können. Debattiert wurden insbesondere die Schaffung von Transparenz bei Finanzierungsströmen aus Drittstaaten und die datenschutzrechtliche Ausgestaltung des Registers.
 
 ## Kernaussagen und Positionen der Fraktionen
-- **Bündnis 90/Die Grünen**:
-  - Fordert eine Stärkung der Patientenrechte angesichts steigenden Kostendrucks im Gesundheitswesen und dem Risiko von Behandlungsfehlern.
-  - Schlägt eine Novellierung des Patientenrechtegesetzes vor, um die Organisationsverantwortung zu stärken, die Dokumentation zu verbessern und die Informationspflichten gegenüber Patienten zu erweitern.
-  - Kritisiert, dass Patienten bei der Durchsetzung ihrer Rechte oft jahrelang kämpfen müssen und eine zu starke Beweislast tragen.
-- **CDU/CSU**:
-  - Hält den aktuellen Rechtsrahmen für ausgewogen und funktionsfähig.
-  - Lehnt eine Änderung der Beweisführung bei Behandlungsfehlern ab, die auf Wahrscheinlichkeiten statt auf Zurechnung basiert, da dies einen Systembruch darstellen würde.
-  - Warnt vor den Nebenwirkungen einer Haftungsverschärfung wie Defensivmedizin, steigenden Versicherungprämien und Gefährdung der Versorgung.
-  - Sieht in zusätzlichen Formalpflichten zur Dokumentation keinen Mehrwert und betont, dass medizinische Einrichtungen bereits heute für Pflichtverletzungen ihres Personals haften.
-- **AfD**:
-  - Lehnt den Gesetzentwurf der Grünen ab und kritisiert insbesondere die vorgeschlagene Umstellung im Haftungsrecht, die auf einer überwiegenden Wahrscheinlichkeit statt dem Strengbeweis basieren soll.
-  - Bezweifelt die angeführten Mängel bei der Neutralität von Gutachtern und kritisiert die Idee, die Bundesärztekammer mit der Auswahl von Gutachtern zu beauftragen, da diese kein rechtsfähiger Verein sei.
-  - Stellt fest, dass das eigentliche Problem der Mangel an Gutachtern und nicht die Verfahrensordnungen sei.
-  - Schlägt als Lösung qualifiziertes Personal, Entbürokratisierung und bessere Arbeitsbedingungen vor.
-- **SPD**:
-  - Betont die Notwendigkeit, die Patientenrechte zu stärken, und sieht das Patientenrechtegesetz von 2013 als überholt an.
-  - Befürwortet eine unabhängige Ombudsstelle auf Bundesebene und erleichterten Zugang zu Gutachtern.
-  - Unterstützt eine generelle Beweismaßreduzierung bei Behandlungsfehlern als Frage der Gerechtigkeit und fordert eine stärkere Verankerung der Organisationshaftung.
-  - Unterstreicht die Bedeutung von barrierefreier Aufklärung und Shared Decision Making.
-  - Hält das Recht auf Einsicht in die Patientenakte für zentral und fordert, dass Verjährungsfristen erst nach vollständiger Akteneinsicht beginnen.
-- **Die Linke**:
-  - Befürwortet den Gesetzentwurf der Grünen in wichtigen Punkten, insbesondere die Erleichterung des Nachweises von Behandlungsfehlern durch die überwiegende Wahrscheinlichkeit und die ausdrückliche Regelung der Verantwortung von Klinikleitungen.
-  - Fordert zusätzlich die Einrichtung eines Härtefallfonds, der sofortige Unterstützung bei schweren, aber rechtlich nicht eindeutig nachweisbaren Schäden leistet.
-  - Sieht diesen Fonds als Schritt zu einem modernen Entschädigungssystem und einer echten Fehlerkultur.
+- **Bundesregierung (vertreten durch Daniela Ludwig, Parlamentarische Staatssekretärin):**
+  - Das Ausländervereinsregister ist wichtig, um Einflussnahmen aus dem Ausland zu erkennen und die freiheitlich-demokratische Grundordnung zu schützen.
+  - Der Gesetzentwurf dient der Fortentwicklung des Registers, unter soliden datenschutzrechtlichen Grundlagen.
+  - Künftig müssen Zuwendungen über 10.000 Euro jährlich aus Drittstaaten offengelegt werden, um staatliche Finanzströme nachvollziehen zu können.
+  - Es geht nicht um pauschales Misstrauen, sondern um frühzeitiges Erkennen von Finanzströmen und die Möglichkeit, Vorsichtsmaßnahmen zu treffen.
+- **AfD-Fraktion (vertreten durch Ulrich von Zons):**
+  - Das Gesetz sei nicht ausreichend, da es auf einem Formular von 1966 basiere und keine echten Ermittlungsbefugnisse schaffe.
+  - Die Bedrohung durch ausländische Staaten sei real, aber das Gesetz reagiere nur mit einem "Karteikasten".
+  - Die Offenlegungspflichten würden von gefährlichen Personen nicht beachtet.
+  - Gefordert werden echte Ermittlungsbefugnisse, Erfassung nach tatsächlichem Einfluss und ein Verbot gegen die Muslimbruderschaft.
+- **Bündnis 90/Die Grünen (vertreten durch Dr. Irene Mihalic):**
+  - Die Gefahr durch autoritäre Staaten und ausländische Einflussnahme sei real und müsse ernst genommen werden.
+  - Maximale Transparenz bei sicherheitsrelevanten Finanzströmen zur Aufdeckung und Verhinderung von Spionage, Extremismus und Terrorfinanzierung wird unterstützt.
+  - Es besteht das Risiko, dass unbescholtene Vereine wegen ihrer Herkunft unter Generalverdacht geraten.
+  - Es wird eine Überprüfung der Regelungen zur Registrierung und Datenverarbeitung sowie klare Regelungen zu Informationspflichten und Rechtsschutz gefordert.
+  - Es wird angeregt, Ausländervereine nicht grundsätzlich anders zu behandeln als deutsche Vereine und vergleichbare Maßstäbe für alle Vereine anzusetzen, die dort ansetzen, wo tatsächliche Sicherheitsrisiken bestehen.
+- **Unionsfraktion (CDU/CSU) (vertreten durch Heiko Hain und Caroline Bosbach):**
+  - Der Gesetzentwurf dient dem Schutz der Demokratie, indem er Einflussnahmeversuche aus dem Ausland und deren Finanzierung transparenter macht.
+  - Die Offenlegungspflicht für Zuwendungen ab 10.000 Euro aus Drittstaaten sei eine Umsetzung des Koalitionsvertrags.
+  - Das Ausländervereinsregister sei ein bewährtes Instrument der präventiven Gefahrenabwehr, dessen Lücke durch datenschutzrechtliche Bedenken geschlossen werden müsse.
+  - Das Gesetz schaffe eine rechtssichere und datenschutzkonforme Grundlage für das Register, schließe Vollzugslücken und stärke den Rechtsstaat.
+  - Es gehe um den Schutz vor Kapitalverbrechen und schweren Straftaten, die den Staat erschüttern könnten, und nicht um Alltagskriminalität.
+  - Die besondere Regelung werde auf die Kategorie von Vereinen beschränkt, bei denen konkrete sicherheitsrelevante Erfahrungen vorliegen, insbesondere im Bereich auslandsbezogener und islamistischer Extremismus.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Debatte zur ersten Beratung des Gesetzentwurfs zur Änderung des Patientenrechtegesetzes wird durch die Präsidentin eröffnet. Die vorgesehene Dauer der Aussprache beträgt 30 Minuten.
-- **[00:00:11](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=11s)** - **Erste Rednerin Linda Heitmann (Bündnis 90/Die Grünen)**: Sie begründet den Gesetzentwurf mit dem steigenden Kostendruck im Gesundheitswesen und der Zunahme von Behandlungsfehlern. Sie fordert eine Stärkung der Patientenrechte und schlägt konkrete Maßnahmen wie verbesserte Regeln für Dokumentation, Transparenz, Gutachterwesen und Informationspflichten vor.
-- **[04:38](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=4m38s)** - **Dr. Maria-Lena Weiss (CDU/CSU)**: Sie kritisiert den Gesetzentwurf der Grünen als bürokratisch und lehnt eine Änderung der Beweisführung bei Behandlungsfehlern ab, die auf Wahrscheinlichkeiten basiere, da dies einen Systembruch darstelle. Sie betont, dass Haftung eine Pflichtverletzung voraussetze und kein garantierter Erfolg sei.
-- **[08:09](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=8m9s)** - **Dr. Maria-Lena Weiss (CDU/CSU) (Fortsetzung)**: Sie warnt vor Nebenwirkungen wie Defensivmedizin und steigenden Versicherungprämien. Sie verneint die Notwendigkeit zusätzlicher Formalpflichten zur Dokumentation und sieht in der Organisationsverantwortung bereits bestehende Regelungen.
-- **[10:19](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=10m19s)** - **Dr. Maria-Lena Weiss (CDU/CSU) (Schluss)**: Sie schließt mit der Feststellung, dass der Gesetzentwurf die Patientenrechte nicht stärkt, und erklärt die Ablehnung durch ihre Fraktion.
-- **[10:47](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=10m47s)** - **Joachim Bloch (AfD)**: Er lehnt den Entwurf der Grünen ab und kritisiert die geplante Umstellung im Haftungsrecht auf eine überwiegende Wahrscheinlichkeit. Er sieht darin eine unbegründete Schaffung eines Sonderrechts für Ärzte und hinterfragt die Ausgestaltung der Gutachterregelung sowie die Beauftragung der Bundesärztekammer.
-- **[16:51](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=16m51s)** - **Joachim Bloch (AfD) (Schluss)**: Er fasst den Gesetzentwurf als Misstrauensgesetz zusammen und schlägt als Lösungsansätze ausreichend Personal, Entbürokratisierung und bessere Arbeitsbedingungen vor.
-- **[17:30](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=17m30s)** - **Stefan Schwartze (SPD)**: Er betont die Wichtigkeit der Patientenrechte für die Gerechtigkeit. Er hebt hervor, dass die Realität das Patientenrechtegesetz von 2013 überholt habe und fordert eine unabhängige Ombudsstelle, erleichterten Zugang zu Gutachtern und eine generelle Beweismaßreduzierung.
-- **[20:17](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=20m17s)** - **Stefan Schwartze (SPD) (Fortsetzung)**: Er thematisiert systematische Probleme wie Personalmangel und die Notwendigkeit einer stärkeren Organisationshaftung. Zudem spricht er Barrierefreiheit bei der Aufklärung, Shared Decision Making und die Problematik der Terminvergabe über private Portale an.
-- **[24:01](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=24m1s)** - **Evelyn Schötz (Die Linke)**: Sie unterstützt den Gesetzentwurf der Grünen in wichtigen Punkten, insbesondere die Beweiserleichterung und die Regelung der Organisationsverantwortung. Sie fordert darüber hinaus die Einrichtung eines Härtefallfonds zur sofortigen Unterstützung von Geschädigten.
-- **[27:31](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=27m31s)** - **Dr. Stephan Pilsinger (CDU/CSU)**: Seine Rede wird zu Protokoll gegeben.
-- **[27:44](https://www.youtube.com/watch?v=xbyKk8znmZ8&t=27m44s)** - **Schluss der Aussprache und Überweisungsempfehlung**: Die Aussprache wird geschlossen. Es wird interfraktionell die Überweisung des Gesetzentwurfs an die zuständigen Ausschüsse vorgeschlagen.
+- **[00:00:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Aussprache zur ersten Beratung des Gesetzentwurfs zur Änderung des Vereinsgesetzes wird eröffnet.
+- **[00:12:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=12s)** - **Daniela Ludwig (Bundesregierung)**: Erläutert, dass das Ausländervereinsregister fortentwickelt und auf solide datenschutzrechtliche Grundlagen gestellt wird. Zukünftig sollen Zuwendungen über 10.000 Euro aus Drittstaaten offengelegt werden müssen, um staatliche Finanzströme besser nachvollziehen zu können. Es gehe nicht um pauschales Misstrauen, sondern um frühzeitiges Erkennen von Finanzströmen und die Möglichkeit, Vorsichtsmaßnahmen zu treffen.
+- **[03:47:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=3m47s)** - **Ulrich von Zons (AfD-Fraktion)**: Kritisiert das Gesetz als unzureichend, da es auf einem Formular basiere und keine echten Ermittlungsbefugnisse schaffe. Er hebt die reale Gefahr von Einflussnahmen ausländischer Staaten hervor und fordert stärkere Ermittlungsbefugnisse, Erfassung nach tatsächlichem Einfluss und ein Verbot gegen die Muslimbruderschaft.
+- **[04:03:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=4m3s)** - **Ulrich von Zons (AfD-Fraktion)**: Stellt die Frage, ob das Gesetz Deutschland sicherer macht und verneint dies. Er beschreibt, wie unter dem Deckmantel des Vereinslebens Strukturen entstehen, die die Gesellschaft beeinflussen sollen, und dass religiöse Extremisten diese für ihre Zwecke nutzen. Er bemängelt, dass das Register aus dem Jahr 1966 zuletzt brach lag.
+- **[04:45:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=4m45s)** - **Ulrich von Zons (AfD-Fraktion)**: Kritisiert die Offenlegungspflicht für Zuwendungen über 10.000 Euro als freiwillig und fordert echte Ermittlungsbefugnisse für die Vereinsbehörden.
+- **[05:25:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=5m25s)** - **Ulrich von Zons (AfD-Fraktion)**: Bemängelt, dass die Anlasslosigkeit der Datenerhebung die Rechtsunsicherheit und die Möglichkeiten der Behörden einschränke.
+- **[06:07:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=6m7s)** - **Ulrich von Zons (AfD-Fraktion)**: Verweist auf die eigene Begründung des Gesetzes, dass 2023 nichts mehr verarbeitet wurde.
+- **[07:03:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=7m3s)** - **Ulrich von Zons (AfD-Fraktion)**: Zitiert die eigene Prognose von rund 25 festgesetzten Bußgeldern im Jahr als Beleg für die geringe Härte des Gesetzes.
+- **[07:20:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=7m20s)** - **Ulrich von Zons (AfD-Fraktion)**: Zitiert den Bundesrat, der den Entwurf als "nur bedingt geeignet" bezeichnet, da die Erfassung von der Mitwirkung der Vereine abhänge.
+- **[07:41:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=7m41s)** - **Ulrich von Zons (AfD-Fraktion)**: Kritisiert, dass das Hauptproblem, nämlich die tatsächliche Einflussnahme im Gegensatz zum Vereinsregistereintrag, nicht angegangen werde. Als Beispiel nennt er DITIB.
+- **[08:41:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=8m41s)** - **Ulrich von Zons (AfD-Fraktion)**: Fasst seine Forderungen zusammen: echte Ermittlungsbefugnisse, Erfassung nach tatsächlichem Einfluss, Schluss mit staatlicher DITIB-Kooperation und ein Verbotsverfahren gegen die Muslimbruderschaft.
+- **[10:53:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=10m53s)** - **Dr. Irene Mihalic (Bündnis 90/Die Grünen)**: Bestätigt die reale Gefahr von Einflussnahmen autoritärer Staaten und unterstützt die Schaffung von Transparenz bei sicherheitsrelevanten Finanzströmen.
+- **[11:54:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=11m54s)** - **Dr. Irene Mihalic (Bündnis 90/Die Grünen)**: Warnt davor, dass unbescholtene Vereine wegen ihrer Herkunft unter Generalverdacht geraten könnten und fordert, dass die Regelungen zur Registrierung und Datenverarbeitung sorgfältig ausgestaltet werden.
+- **[13:38:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=13m38s)** - **Dr. Irene Mihalic (Bündnis 90/Die Grünen)**: Schlägt vor, Ausländervereine nicht grundsätzlich anders zu behandeln als deutsche Vereine und vergleichbare Maßstäbe anzusetzen, die dort ansetzen, wo tatsächliche Sicherheitsrisiken bestehen. Eine Sachverständigenanhörung wird als zielführend erachtet.
+- **[14:35:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=14m35s)** - **Heiko Hain (Unionsfraktion)**: Erklärt, dass der Gesetzentwurf dem Schutz der Demokratie dient, indem er Einflussnahmeversuche und deren Finanzierung transparenter macht. Die Offenlegungspflicht für Zuwendungen ab 10.000 Euro sei eine Umsetzung des Koalitionsvertrags.
+- **[15:32:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=15m32s)** - **Heiko Hain (Unionsfraktion)**: Betont die Notwendigkeit aktueller Informationen und einer verlässlichen Rechtsgrundlage für die Sicherheitsbehörden angesichts zunehmender hybrider Bedrohungen.
+- **[16:07:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=16m7s)** - **Heiko Hain (Unionsfraktion)**: Stellt klar, dass das Ausländervereinsregister kein neues Instrument sei, sondern ein bewährtes Mittel der präventiven Gefahrenabwehr.
+- **[16:30:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=16m30s)** - **Heiko Hain (Unionsfraktion)**: Erläutert, dass aufgrund datenschutzrechtlicher Bedenken seit 2023 keine neuen Meldungen mehr aufgenommen wurden, was zu einem fehlenden aktuellen Überblick für die Sicherheitsbehörden führe. Die Gesetzesänderung schließe diese Lücke.
+- **[17:05:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=17m5s)** - **Heiko Hain (Unionsfraktion)**: Reagiert auf die Ausführungen von Ulrich von Zons und betont, dass es nicht um ein Formular gehe, sondern darum, dass Meldepflichten konsequent durchgesetzt und Verstöße sanktioniert werden.
+- **[17:47:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=17m47s)** - **Caroline Bosbach (Unionsfraktion)**: Ergänzt die Debatte mit Bezug auf die Stichworte "Herkunft", "anlasslose Datenerhebung" und "Generalverdacht". Sie betont die Notwendigkeit, Schutzlücken zu schließen, um die Sicherheit zu gewährleisten.
+- **[18:39:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=18m39s)** - **Caroline Bosbach (Unionsfraktion)**: Erklärt, dass die besondere Regelung auf Vereine beschränkt werde, bei denen konkrete sicherheitsrelevante Erfahrungen vorliegen, insbesondere im Bereich auslandsbezogener und islamistischer Extremismus.
+- **[19:15:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=19m15s)** - **Caroline Bosbach (Unionsfraktion)**: Betont, dass das Gesetz eine Reaktion auf konkrete sicherheitsrelevante Erfahrungen sei und die Rechtslage an die Bedrohungslage angepasst werde.
+- **[19:41:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=19m41s)** - **Caroline Bosbach (Unionsfraktion)**: Versichert, dass das Verhältnismäßigkeitsprinzip gelte und jede Maßnahme notwendig, geeignet und verfassungskonform sei. Das Gesetz werde die Arbeit der Sicherheitsbehörden erleichtern und den Feinden der Demokratie die Arbeit erschweren.
+- **[20:11:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=20m11s)** - **Sitzungsleitung**: Die Aussprache wird geschlossen.
+- **[20:13:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=20m13s)** - **Sitzungsleitung**: Ein interfraktioneller Vorschlag zur Überweisung des Gesetzentwurfs an die zuständigen Ausschüsse wird angenommen.
+- **[20:35:00](https://www.youtube.com/watch?v=LE24fJekpHg&t=20m35s)** - **Sitzungsleitung**: Es wird darauf hingewiesen, dass Redebeiträge von Johannes Schätzl (SPD) und Ferat Kocak (Die Linke) zu Protokoll gegeben wurden.

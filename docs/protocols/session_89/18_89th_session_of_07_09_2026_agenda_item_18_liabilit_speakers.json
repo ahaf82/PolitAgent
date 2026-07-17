@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag über die Haftung bei Unfällen mit Elektrokleinstfahrzeugen zeigte unterschiedliche Positionen, die sich jedoch in den externen Verlautbarungen der betroffenen Abgeordneten widerspiegelten. Während SPD und CDU/CSU die Gesetzesänderung zur Stärkung des Opferschutzes und zur Vereinfachung von Schadensersatzansprüchen begrüßten, wurde die Kritik der AfD an einer pauschalen Haftung für Privatnutzer sowie die Enthaltung der Grünen aufgrund fehlender Verkehrssicherheitsaspekte deutlich. Externe Stellungnahmen bestätigten die grundsätzliche Unterstützung für eine verschärfte Haftung, insbesondere für Sharing-Anbieter, wobei die SPD die Verbesserung der Mobilität und Sicherheit hervorhob, während die CDU/CSU die Schließung einer Haftungslücke betonte.",
+  "sources": [
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Nadine Heselhaus hebt hervor, dass E-Scooter die Mobilität verbessern und zur Verkehrswende beitragen, aber auch Begleiterscheinungen haben. Sie betont, dass das neue Gesetz Unfallopfer einfacher zu ihrem Recht kommen lässt und die Verkehrssicherheit verbessert, indem es eine verschuldensunabhängige Haftung für Halter und eine Haftung für vermutetes Verschulden für Fahrer einführt.",
+      "source_title": "Neue Haftungsregeln für E-Scooter: Geschädigte sollen einfacher zu ihrem Recht kommen",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/neue-haftungsregeln-e-scooter-geschaedigte-sollen-einfacher-ihrem-recht-kommen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ulrich von Zons kritisiert in einem Änderungsantrag, dass der Gesetzentwurf private E-Scooter-Halter unverhältnismäßig hart treffe, da Anbieter von Leihrollern bereits über Versicherungen verfügen. Er argumentiert, dass eine Unterscheidung zwischen privaten Nutzern und gewerblichen Vermietern erfolgen sollte, da private Nutzer sicherer seien und weniger Schäden verursachten.",
+      "source_title": "Ulrich von Zons - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/mediathek/570858-570858",
+      "platform": "Website"
+    },
+    {
+      "name": "Victoria Broßart",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Victoria Broßart unterstützt das Ziel, die Schadensersatzansprüche von Geschädigten zu erleichtern und die Haftung auf diejenigen auszuweiten, die mit der Vermietung Geld verdienen. Sie kritisiert jedoch, dass das Gesetz nicht zur tatsächlichen Verhinderung von Unfällen beitrage, da die tieferliegenden Verkehrssicherheitsprobleme ignoriert würden.",
+      "source_title": "Victoria Broßart - Die Inklusive Gesellschaft",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Steineke",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sebastian Steineke betont, dass der Gesetzentwurf eine Schutzlücke im Haftungsrecht schließt, indem er E-Scooter haftungsrechtlich anderen Kraftfahrzeugen gleichstellt. Er hebt hervor, dass dies den Opferschutz und die Rechtssicherheit verbessert und einen fairen Ausgleich zwischen den Interessen Geschädigter und Halter schafft, nachdem offene Fragen zum Versicherungsschutz geklärt wurden.",
+      "source_title": "Opfer von E-Scooter-Unfällen gestärkt",
+      "url": "https://www.cducsu.de/presse/opfer-von-e-scooter-unfaellen-gestaerkt",
+      "platform": "Presse"
+    }
+  ]
+}
