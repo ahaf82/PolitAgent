@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der identifizierten Abgeordneten zum Gebäudeenergiegesetz (GEG) spiegeln die kontroverse Debatte im Bundestag wider. Die Oppositionsparteien AfD und Die Linke lehnen das GEG vehement ab und kritisieren es als unausgereift, zu teuer und als Einschränkung der Bürgerrechte. Die SPD verteidigt das GEG als notwendigen Schritt für die Wärmewende und betont den Schutz von Mietern. Die Grünen äußern verfassungsrechtliche Bedenken und kritisieren die Art der Gesetzgebung.",
+  "sources": [
+    {
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": true,
+      "statement": "Marc Bernhard kritisiert, dass das Gebäudeenergiegesetz (GEG) keine technischen Machbarkeits- und Bezahlbarkeitsprüfungen vorsehe und als handwerklich schwach und praxisfern bezeichnet wird. Er fordert eine Verschiebung und Überarbeitung des Gesetzes.",
+      "source_title": "Gebäudeenergiegesetz zementiert teure und überzogene Anforderungen an den Wohnungsbau",
+      "url": "https://afdbundestag.de/hemmelgarn-gebaeudeenergiegesetz-zementiert-teure-und-ueberzogene-anforderungen-an-den-wohnungsbau/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dirk Wiese erläutert die Entscheidung der Koalitionsfraktionen, die Aufsetzung des GEG abzuwarten und betont, dass ausreichend Beratungszeit gegeben war. Er äußert die Hoffnung auf eine Verabschiedung des GEG.",
+      "source_title": "Gebäudeenergiegesetz: Holzheizungen weiter ermöglichen",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/gebaeudeenergiegesetz-holzheizungen-ermoeglichen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Irene Mihalic kritisiert die Koalition für die Expressaufsetzung von Gesetzen, die sie als Vermeidungsstrategie bezeichnet und das GEG als 'Fast Food'-Gesetzgebung. Sie weist auf verfassungsrechtliche Zweifel hin, insbesondere wegen der widersprüchlichen Erlaubnis von Öl- und Gasheizungen zum Klimaziel, und lehnt die Aufsetzung ab.",
+      "source_title": "Dr. Irene Mihalic - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ina Latendorf widerspricht der Aufsetzung des GEG und kritisiert, dass die Regierung ihre Informationspflichten nicht erfüllt habe. Das Gesetz mache Fortschritte beim Ausstieg aus Öl und Gas rückgängig, ohne dass negative Klimaauswirkungen beziffert seien. Sie kündigt eine weitere Organklage an, falls dem Gesetz zugestimmt wird.",
+      "source_title": "Gebäudeenergiegesetz retten: Für eine bezahlbare und klimaverträgliche Wärmewende",
+      "url": "https://www.dielinkebt.de/presse/pressemitteilungen/detail/gebaeudeenergiegesetz-retten-fuer-eine-bezahlbare-und-klimavertraegliche-waermewende/",
+      "platform": "Presse"
+    }
+  ]
+}

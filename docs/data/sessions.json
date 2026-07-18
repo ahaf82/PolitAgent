@@ -1,5 +1,57 @@
 [
   {
+    "id": "e5Kv44nP6OM",
+    "title": "90. Sitzung, TOP zur GO-Debatte",
+    "session": 90,
+    "date": "2026-07-13",
+    "top": "zur",
+    "topic": "90. Sitzung: Tagesordnungspunkt zur Geschäftsordnungsdebatte",
+    "summary_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte.md",
+    "documents_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte_documents.json",
+    "speakers_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=e5Kv44nP6OM",
+    "processed_at": "2026-07-18T08:07:28.465738"
+  },
+  {
+    "id": "ZjXF5e2ke6Q",
+    "title": "90. Sitzung, TOP 22: GKV-Beitrags­satz­stabilisierungs­gesetz",
+    "session": 90,
+    "date": "2026-07-13",
+    "top": "22",
+    "topic": "Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung",
+    "summary_path": "protocols/session_90/22_90_sitzung_top_22_gkv_beitrags_satz_stabilisierung.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=ZjXF5e2ke6Q",
+    "processed_at": "2026-07-18T08:08:01.761081"
+  },
+  {
+    "id": "tjA7i8fwxSk",
+    "title": "90. Sitzung des Bundestages – LIVE",
+    "session": 90,
+    "date": "2026-07-10",
+    "top": "N/A",
+    "topic": "90. Sitzung des Deutschen Bundestages",
+    "summary_path": "protocols/session_90/top_unknown_90_sitzung_des_bundestages_live.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=tjA7i8fwxSk",
+    "processed_at": "2026-07-18T08:02:51.955226"
+  },
+  {
+    "id": "RoKL3RnEiV4",
+    "title": "90. Sitzung vom 10.07.2026. TOP : Zur Geschäftsordnung",
+    "session": 90,
+    "date": "2026-07-10",
+    "top": "N/A",
+    "topic": "Zur Geschäftsordnung",
+    "summary_path": "protocols/session_90/top_unknown_top_zur_geschaeftsordnung.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=RoKL3RnEiV4",
+    "processed_at": "2026-07-18T08:04:58.669797"
+  },
+  {
     "id": "hkbpBqS1blk",
     "title": "89. Sitzung vom 09.07.2026. TOP ZP 3: Regierungserklärung zur aktuellen politischen Lage",
     "session": 89,
@@ -11,6 +63,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=hkbpBqS1blk",
     "processed_at": "2026-07-13T20:10:23.877319"
+  },
+  {
+    "id": "GciNS6xFmLc",
+    "title": "89. Sitzung vom 09.07.2026. TOP 21: Änderung des Tierschutzgesetzes",
+    "session": 89,
+    "date": "2026-07-09",
+    "top": "21",
+    "topic": "Änderung des Tierschutzgesetzes",
+    "summary_path": "protocols/session_89/21_aenderung_des_tierschutzgesetzes.md",
+    "documents_path": "protocols/session_89/21_aenderung_des_tierschutzgesetzes_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=GciNS6xFmLc",
+    "processed_at": "2026-07-18T08:00:42.343783"
   },
   {
     "id": "V6lNsTIjJsk",

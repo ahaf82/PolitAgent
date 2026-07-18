@@ -8,56 +8,53 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=GciNS6xFmLc)
 
 ## Kurzzusammenfassung
-Im Mittelpunkt der Debatte stand der Gesetzentwurf zur Änderung des Tierschutzgesetzes, insbesondere die Einführung einer verpflichtenden Videoüberwachung in großen Schlachthöfen. Befürworter sehen darin ein wichtiges Instrument zur Erhöhung von Transparenz, Tierschutz und zur Stärkung des Vertrauens in die Branche. Kritiker bemängeln, dass die Regelung bestehende Betriebe zusätzlich belaste, regionale Strukturen gefährde und das eigentliche Problem nicht löse, während gleichzeitig andere Tierschutzaspekte vernachlässigt würden.
+Die 89. Sitzung des Deutschen Bundestages befasste sich mit der ersten Beratung des Gesetzentwurfs zur Änderung des Tierschutzgesetzes, insbesondere der Einführung einer verpflichtenden Videoüberwachung in großen Schlachthöfen. Debattiert wurden die Notwendigkeit dieser Maßnahme zur Verbesserung des Tierschutzes, potenzielle Auswirkungen auf Betriebe und Landwirtschaft, sowie die Abwägung zwischen Kontrollmechanismen und wirtschaftlichen Belastungen. Die Fraktionen zeigten unterschiedliche Schwerpunkte bezüglich der Umsetzung, möglicher Ausnahmen und weiterer Tierschutzthemen.
 
 ## Kernaussagen und Positionen der Fraktionen
-- **Bundesregierung (Vertreten durch Alois Rainer, Bundesminister für Landwirtschaft, Ernährung und Heimat):**
-  - Die Novellierung schafft Transparenz und stärkt den Tierschutz im Schlachthof.
-  - Videoüberwachung wird Standard für alle großen Schlachthöfe (über 90% der Tiere), umfassend von Entladen bis Schlachtung.
-  - Ziel ist mehr Kontrolle, Verantwortung und Schutz für Tiere, auch zum Schutz verantwortungsbewusster Betriebe.
-  - Kleine Betriebe werden nicht überfordert, aber bei Verdacht wird kontrolliert.
-  - Videoüberwachung ist ein wirksames Werkzeug zur Förderung des Vertrauens in die Branche und die Landwirtschaft.
-- **AfD-Fraktion (Dario Seifert):**
-  - Deutsche Schlachthöfe sind bereits streng kontrolliert; es bedarf lückenloser Aufklärung und Ahndung von Verstößen.
-  - Fokus sollte auf Vermeidung von Fehlern durch Schulungen und Sensibilisierung liegen, nicht auf nachträglicher Aufklärung durch Videoüberwachung.
-  - Neue Auflagen und Kosten belasten regionale Schlachthöfe, die für die landwirtschaftliche Wertschöpfung unverzichtbar sind.
-  - Zusätzliche Kosten verschärfen die desaströse wirtschaftliche Lage der Betriebe und führen zu längeren Transportwegen und Konzentration auf Großbetriebe.
-  - Statt zusätzlicher Kameras bräuchten Landwirtschaft und Schlachthöfe verlässliche wirtschaftliche Perspektiven.
-- **SPD-Fraktion (Jens Behrens):**
-  - Grundsätzlich positive Bewertung des Entwurfs als Schritt zur Verbesserung des Tierschutzrechts und Umsetzung eines Koalitionsauftrags.
-  - Videoüberwachung dient primär dem Schutz der Tiere und unterstützt Betriebe, die sich an Vorschriften halten.
-  - Technische Möglichkeiten sind ausgereift; positive Effekte werden auch freiwillig genutzt.
-  - Datenschutz- und arbeitsrechtliche Bedenken können berücksichtigt werden; KI-Auswertung zur Entlastung der Behörden ist denkbar.
-  - Hinweis auf weitere geplante Tierschutzmaßnahmen (Kennzeichnung toter Tiere, Verbot Tierhandel im öffentlichen Raum/anonymer Onlinehandel, Tierhalteverbotsregister, Verbot von Gewaltverherrlichung, Konkretisierung Qualzucht, Positivliste exotische Wildtiere, Hunde-/Katzenregistrierung).
-- **Bündnis 90/Die Grünen (Dr. Zoe Mayer):**
-  - Kritik an der späten Sendezeit und der Befürchtung, dass verantwortungsbewusste Betriebe keine Angst vor der Öffentlichkeit haben müssten.
-  - Die Regelung sei unzureichend, da 95% der Betriebe ausgenommen seien und die Frage der Auswertung des Materials bei überlasteten Behörden offenbleibe.
-  - Bemängelt die fehlende Transparenz für die Öffentlichkeit bei den Aufnahmen.
-  - Appelliert an den Minister, Verantwortung zu übernehmen und nicht wegzuschauen.
-  - Greift das Thema Hitzeschutz für Tiere auf und kritisiert mangelnden Handlungsbedarf der Bundesregierung bei Tiertransporten und Stalltemperaturen.
-- **Die Linke (Ina Latendorf):**
-  - Verpflichtende Videoüberwachung ist ein Schritt in die richtige Richtung, da Wegschauen Beihilfe zu unerträglichen Zuständen sei.
-  - Kritik an Ausnahmen für kleine Betriebe und Kaltblüter.
-  - Das Argument der Erhaltung lokaler Schlachthöfe sei angesichts des Kapitalismus heuchlerisch; Monopolstrukturen und wegbrechende Lieferketten werden ignoriert.
-  - Forderung nach Schärfung des Kartellrechts, Förderung mobiler Schlachtungen und Stärkung von Veterinärämtern und Vollzug.
-  - Kritisiert die kurze Speicherfrist und schwammige Sichtungspflichten.
-  - Forderung nach Verbesserung der Arbeitsbedingungen in Schlachtbetrieben und Verbot von Akkordlöhnen.
-- **CDU/CSU-Fraktion (Anna Aeikens):**
-  - Anerkennt, dass Fleischkonsum Schlachtung erfordert und Tierschutz auch in der letzten Lebensphase wichtig ist.
-  - Videoüberwachung soll gegen Verstöße wie Fehler bei Betäubung oder Missbrauch von Elektrotreibern helfen, betont aber, dass dies Ausnahmen seien.
-  - Viele Landwirte und Schlachthäuser arbeiten gewissenhaft.
-  - Gesetzliche Regelung schafft bundesweit einheitliche Vorgaben und Rechtssicherheit.
-  - Ausnahmen für kleine Betriebe zum Erhalt regionaler Strukturen sind beabsichtigt; die Regelung betrifft Betriebe, die ca. 90% der Tiere schlachten.
-  - Stärkung des lokalen Handwerks durch die Regelung und frühere Entlastung aus der Schwarzarbeitsbekämpfung.
-  - Schrittweise Umsetzung von Tierschutzmaßnahmen ist wichtig; die Debatte über weitere Aspekte wird positiv aufgenommen.
+- **Bundesregierung (vertreten durch den Bundesminister für Landwirtschaft, Ernährung und Heimat, Alois Rainer)**:
+  - Die Einführung der Videoüberwachung in allen großen Schlachthöfen (über 90% der Schlachtungen) ist ein notwendiger Schritt zur Erhöhung von Transparenz, Verantwortung und Schutz für Tiere.
+  - Die Maßnahme dient der Kontrolle aller Bereiche von der Ankunft bis zur Schlachtung und soll bei Verstößen greifen, um die Tiere und die verantwortungsvoll arbeitenden Betriebe zu schützen.
+  - Kleine Betriebe sollen durch die Videoüberwachung nicht überfordert werden.
+  - Ziel ist es, Vertrauen in die Branche und die Lebensmittelwirtschaft zu stärken.
+
+- **AfD-Fraktion (vertreten durch Dario Seifert)**:
+  - Deutschland hat bereits strenge Kontrollen in Schlachthöfen; jeder Verstoß muss konsequent geahndet werden.
+  - Videoüberwachung verhindert Tierleid nicht direkt, sondern dient eher der Aufklärung und führt zu neuen Auflagen und Kosten.
+  - Das eigentliche Problem sei die Gefährdung regionaler Schlachtkapazitäten durch steigende Auflagen, was zu längeren Transportwegen und wirtschaftlicher Unsicherheit für Landwirte führe, insbesondere in Ostdeutschland.
+  - Statt zusätzlicher Kameras brauche die Landwirtschaft verlässliche wirtschaftliche Perspektiven und Entlastungen, nicht weitere Belastungen.
+
+- **SPD-Fraktion (vertreten durch Jens Behrens)**:
+  - Die Fraktion begrüßt grundsätzlich jede Verbesserung im Tierschutzrecht und sieht den Gesetzentwurf positiv, da er einen Prüfauftrag aus dem Koalitionsvertrag umsetzt.
+  - Die Videoüberwachung dient primär dem Schutz der Tiere und soll die Einhaltung von Tierschutzvorschriften unterstützen, ohne die Branche unter Generalverdacht zu stellen.
+  - Technische Möglichkeiten seien ausgereift, und die Überwachung fördere auch die Entlastung von Veterinärbehörden durch den Einsatz von KI.
+  - Datensschutz- und arbeitsrechtliche Bedenken sollen berücksichtigt werden; es gibt zudem die Zusage für ein weiteres Änderungsgesetz, das weitere Tierschutzthemen aus dem Koalitionsvertrag adressieren soll (z.B. Tierhalteverbotsregister, anonymen Onlinehandel, Qualzucht).
+
+- **Bündnis 90/Die Grünen (vertreten durch Dr. Zoe Mayer)**:
+  - Die Debatte finde zu einer späten Stunde statt, was fragwürdig sei.
+  - Der Sinn einer Videoüberwachung sei es, die Arbeit in der Schlachtindustrie transparenter zu machen, da dort Verhaltensweisen aufgedeckt würden, die öffentlich nicht gezeigt werden sollen.
+  - Kritisiert werden die vorgesehenen Ausnahmen für 95% der Betriebe und die Frage, wer die Daten auswerten soll, da Behörden bereits überlastet seien.
+  - Die Fraktion kritisiert auch das mangelnde Handeln der Bundesregierung bei Hitzeschäden an Tieren in Ställen und bei Tiertransporten, insbesondere mit Blick auf die Klimaerwärmung.
+
+- **Die Linke (vertreten durch Ina Latendorf)**:
+  - Die Videoüberwachung ist ein notwendiger Schritt, da Wegschauen bei Missständen Beihilfe sei.
+  - Kritisiert werden die Ausnahmen für kleine Betriebe und bei Kaltblütern.
+  - Das Argument der Erhaltung lokaler Schlachthöfe sei angesichts des Kapitalismus heuchlerisch; stattdessen brauche es eine Schärfung des Kartellrechts und Förderungen für mobile Schlachtungen.
+  - Die Speicherfrist von 30 Tagen und unklare Sichtungspflichten seien unzureichend.
+  - Verbessert werden müssten zudem die Arbeitsbedingungen in Schlachtbetrieben, um Verrohung und Fehlbetäubungen zu vermeiden; Akkordlöhne sollten verboten und die Tarifbindung gestärkt werden.
+
+- **CDU/CSU-Fraktion (vertreten durch Anna Aeikens)**:
+  - Angesichts des hohen Fleischkonsums ist Tierschutz auch in der letzten Lebensphase, bei der Schlachtung, von Bedeutung.
+  - Die Einführung der verpflichtenden Videoüberwachung in großen Schlachthöfen (die rund 90% der Tiere schlachten) dient der Schaffung einheitlicher Vorgaben und Rechtssicherheit, da es immer wieder zu Verstößen bei Betäubung oder dem Einsatz von Elektrotreibern kommt.
+  - Solche Verstöße werden als Ausnahmen und nicht als Regelfälle betrachtet; viele Betriebe arbeiten gewissenhaft.
+  - Kleine Betriebe sollen unter Berücksichtigung regionaler Strukturen ausgenommen werden.
+  - Die Maßnahme sei ein wichtiger Schritt, der auf vorherigen Maßnahmen aufbaut und die fortlaufende Aufgabe des Tierschutzes berücksichtigt.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=GciNS6xFmLc&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und mit der ersten Beratung des Gesetzentwurfs zur Änderung des Tierschutzgesetzes fortgesetzt.
-- **[00:00:09](https://www.youtube.com/watch?v=GciNS6xFmLc&t=9s)** - **Eröffnung der Aussprache**: Die Aussprache zur Änderung des Tierschutzgesetzes wird eröffnet.
-- **[00:00:17](https://www.youtube.com/watch?v=GciNS6xFmLc&t=17s)** - **Alois Rainer (Bundesminister für Landwirtschaft, Ernährung und Heimat)**: Erläutert, dass die Novellierung Transparenz im Schlachthof schafft und die Videoüberwachung für alle großen Schlachthöfe Standard wird. Er betont, dass dies mehr Kontrolle, Verantwortung und Schutz für Tiere bedeutet und auch verantwortungsbewusste Betriebe schützt.
-- **[00:03:26](https://www.youtube.com/watch?v=GciNS6xFmLc&t=206s)** - **Dario Seifert (AfD-Fraktion)**: Argumentiert, dass deutsche Schlachthöfe bereits streng kontrolliert seien und die Videoüberwachung kein Tierleid verhindere, sondern nur zur Aufklärung diene. Er kritisiert die zusätzlichen Kosten und Auflagen, die regionale Schlachthöfe gefährdeten und zu längeren Transportwegen führten.
-- **[00:08:40](https://www.youtube.com/watch?v=GciNS6xFmLc&t=520s)** - **Jens Behrens (SPD-Fraktion)**: Begrüßt den Gesetzentwurf als Schritt zur Verbesserung des Tierschutzes und zur Umsetzung des Koalitionsvertrags. Er befürwortet die Videoüberwachung als Schutz für Tiere und Betriebe, die sich an Regeln halten, und weist auf weitere geplante Tierschutzmaßnahmen hin.
-- **[00:13:04](https://www.youtube.com/watch?v=GciNS6xFmLc&t=784s)** - **Dr. Zoe Mayer (Bündnis 90/Die Grünen)**: Kritisiert die Ausnahmen für 95% der Betriebe und die unklare Frage der Auswertung des Videomaterials bei überlasteten Behörden. Sie thematisiert auch das Problem von Hitzeschäden bei Tieren und kritisiert den Mangel an Handlungsbedarf seitens der Bundesregierung.
-- **[00:16:38](https://www.youtube.com/watch?v=GciNS6xFmLc&t=1000s)** - **Ina Latendorf (Die Linke)**: Befürwortet die verpflichtende Videoüberwachung als Schritt gegen unerträgliche Zustände, kritisiert aber die Ausnahmen. Sie fordert eine Stärkung der Veterinärämter, eine Verbesserung der Arbeitsbedingungen und das Verbot von Akkordlöhnen in der Schlachtindustrie.
-- **[00:18:39](https://www.youtube.com/watch?v=GciNS6xFmLc&t=1127s)** - **Anna Aeikens (CDU/CSU-Fraktion)**: Erklärt, dass die Videoüberwachung gegen Verstöße wie Fehler bei der Betäubung helfen soll, betont aber, dass dies Ausnahmen seien. Sie hebt die Schaffung bundesweit einheitlicher Vorgaben und die Entlastung kleinerer Betriebe zur Erhaltung regionaler Strukturen hervor.
-- **[00:22:01](https://www.youtube.com/watch?v=GciNS6xFmLc&t=1321s)** - **Schluss der Aussprache und Überweisung**: Die Aussprache wird geschlossen und der Gesetzentwurf zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.
+- **[00:00:00](https://www.youtube.com/watch?v=GciNS6xFmLc&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet, und der Bundesminister für Landwirtschaft, Ernährung und Heimat, Alois Rainer, spricht zur Einführung des Gesetzentwurfs zur Änderung des Tierschutzgesetzes. Die Aussprachesdauer wurde auf 20 Minuten begrenzt.
+- **[00:00:28](https://www.youtube.com/watch?v=GciNS6xFmLc&t=28s)** - **Bundesminister Alois Rainer (Bundesregierung)**: Erklärt, dass die Novellierung des Tierschutzgesetzes Transparenz in Schlachthöfen schafft. Die Videoüberwachung wird Standard für alle großen Schlachthöfe, die über 90 Prozent der Tiere schlachten, und gilt für alle Bereiche von der Ankunft bis zur Schlachtung. Dies soll Vertrauen stärken, Verantwortung erhöhen und Tiere schützen. Kleine Betriebe sollen nicht überfordert werden.
+- **[00:03:26](https://www.youtube.com/watch?v=GciNS6xFmLc&t=206s)** - **Dario Seifert (AfD)**: Argumentiert, dass deutsche Schlachthöfe bereits streng kontrolliert werden. Er bezweifelt, dass Videoüberwachung Tierleid verhindert, sondern sieht darin primär zusätzliche Kosten und Auflagen. Er kritisiert, dass dies regionale Schlachtkapazitäten gefährdet, was zu längeren Transportwegen und Nachteilen für Landwirte führt. Stattdessen fordert er wirtschaftliche Perspektiven und Entlastungen.
+- **[00:08:40](https://www.youtube.com/watch?v=GciNS6xFmLc&t=520s)** - **Jens Behrens (SPD)**: Begrüßt die Videoüberwachung als positive Verbesserung im Tierschutzrecht und als Erfüllung eines Koalitionsauftrags. Er betont, dass dies dem Schutz der Tiere diene und auch die Veterinärbehörden entlasten könne, unter Einbeziehung von KI. Er erwähnt auch geplante weitere Tierschutzmaßnahmen in einem zukünftigen Gesetz.
+- **[00:13:04](https://www.youtube.com/watch?v=GciNS6xFmLc&t=784s)** - **Dr. Zoe Mayer (Bündnis 90/Die Grünen)**: Kritisiert die späte Stunde der Debatte und die Ausnahmen bei der Videoüberwachung. Sie hinterfragt, wer das Material sichten soll, und beklagt das mangelnde Handeln der Regierung bei Hitzeschäden an Tieren und Tiertransporten. Sie fordert von Minister Rainer, Verantwortung zu übernehmen und nicht wegzuschauen.
+- **[00:16:38](https://www.youtube.com/watch?v=GciNS6xFmLc&t=1008s)** - **Ina Latendorf (Die Linke)**: Bezeichnet die verpflichtende Videoüberwachung als Schritt in die richtige Richtung, kritisiert aber die Ausnahmen für kleine Betriebe und Kaltblüter. Sie fordert eine Stärkung des Kartellrechts und der Veterinärämter sowie die Verbesserung der Arbeitsbedingungen in Schlachtbetrieben, um Fehlbetäubungen und Verrohung zu vermeiden.
+- **[00:18:39](https://www.youtube.com/watch?v=GciNS6xFmLc&t=1129s)** - **Anna Aeikens (CDU/CSU)**: Erklärt, dass die Videoüberwachung in Schlachthöfen zur Schaffung bundesweit einheitlicher Vorgaben und Rechtssicherheit diene, um Verstöße zu verhindern. Sie betont, dass die Ausnahmen für kleine Betriebe regionale Strukturen stärken sollen und dass die nun umgesetzten Maßnahmen ein Schritt zur Daueraufgabe Tierschutz sind.
+- **[00:22:01](https://www.youtube.com/watch?v=GciNS6xFmLc&t=1321s)** - **Schluss der Debatte und Abstimmung über Überweisung**: Die Aussprache wird geschlossen. Es wird vorgeschlagen, den Gesetzentwurf an die in der Tagesordnung aufgeführten Ausschüsse zu überweisen, was im Plenum angenommen wird.
