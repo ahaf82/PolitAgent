@@ -1,0 +1,58 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Eine namentliche Abstimmung über den Entwurf eines Gesetzes zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung fand während dieser Sitzung statt und wurde angenommen. Für die Debatte zum Wirtschaftsstandort Deutschland wurde kein Beschluss gefasst, da es sich um eine Debatte auf Basis eines Antrags handelte, der von den Fraktionen mit unterschiedlichen Positionen kommentiert wurde.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=799048",
+    "overall_result": {
+      "ja": 365,
+      "nein": 263,
+      "enthaltung": 20,
+      "nicht_abgegeben": 17
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 157,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 101,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 56,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 127,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 31,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "FDP",
+        "ja": 49,
+        "nein": 0,
+        "enthaltung": 20,
+        "nicht_abgegeben": 17
+      }
+    ]
+  }
+}

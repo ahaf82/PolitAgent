@@ -1,0 +1,64 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "N/A",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf zur Regelung der Förderung des Spitzensports wurde in zweiter Beratung angenommen. Anträge der Fraktionen Bündnis 90/Die Grünen und Die Linke zur Sportförderung wurden abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "SPD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "AfD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Die Linke",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      }
+    ]
+  }
+}
