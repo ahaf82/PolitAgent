@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte zur Modernisierung des Bundespolizeigesetzes am 10. Juli 2026 offenbarte deutliche Gräben zwischen den Regierungsparteien und der Opposition. Während CDU/CSU und SPD die Notwendigkeit der Anpassung an neue Bedrohungen und Technologien betonten, kritisierten AfD, Grüne und Die Linke den Gesetzentwurf scharf. Externe Äußerungen zeigen, dass die SPD die Modernisierung als \"Jahrzehntewerk für die Sicherheit\" und als \"Sicherheitskoalition\" bezeichnet, die Sicherheit und Freiheit in Einklang bringe. Die Grünen bemängeln verpasste Chancen und verfassungsrechtliche Bedenken, während Die Linke von einem \"autoritären Staatsumbau\" und dem Aushöhlen von Grundrechten spricht. Die AfD sieht zwar die Notwendigkeit der Anpassung, kritisiert jedoch Elemente wie \"Vertrauenswürdigkeitsprüfungen\" und vermeidet eine generelle Unterstützung für die Reform.",
+  "sources": [
+    {
+      "name": "Alexander Throm",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Notwendigkeit der Modernisierung des Bundespolizeigesetzes nach über 30 Jahren, um die Bundespolizei mit zeitgemäßen Befugnissen und moderner Technik, einschließlich KI-gestützter Videotechnik, auszustatten und ihre Handlungsfähigkeit zu stärken.",
+      "source_title": "Modernisierung des Bundespolizeigesetzes - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "https://www.cducsu.de/presse/modernisierung-des-bundespolizeigesetzes",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christopher Drößler",
+      "party": "AfD",
+      "found": true,
+      "statement": "Erachtet die Modernisierung als notwendig, kritisiert jedoch \"Vertrauenswürdigkeitsprüfungen\" als Mittel zur Gesinnungskontrolle und warnt vor einer Schwächung der polizeilichen Handlungsfähigkeit durch übermäßige Kontrollen.",
+      "source_title": "Christopher Drößler - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/christopher-droessler",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bezeichnet die Koalition als \"Sicherheitskoalition\", die für die Modernisierung des Bundespolizeigesetzes als \"Jahrzehntewerk\" stehe und die Sicherheit an Bahnhöfen sowie den Einsatz moderner Technik, einschließlich KI, vorantreibe.",
+      "source_title": "Innenpolitik | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/innenpolitik",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisiert, dass die Koalition die Chance zur Schaffung einer modernen Rechtsgrundlage verpasst hat und äußert Zweifel an der Verfassungsmäßigkeit der biometrischen Echtzeitüberwachung aufgrund von Grundrechtseingriffen ohne erkennbaren Sicherheitsgewinn.",
+      "source_title": "Experten-Echo zur Modernisierung des Bundespolizeigesetzes - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-pa-inneres-bundespolizeigesetz-1137340",
+      "platform": "Presse"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Beschreibt das Gesetz als \"autoritären Staatsumbau\", der staatliche Macht ausbaue und Grundrechte aushöhle, insbesondere durch die Einführung von Überwachungstechnologien und anlasslosen Kontrollen, was zu mehr Racial Profiling führe.",
+      "source_title": "Experten-Echo zur Modernisierung des Bundespolizeigesetzes - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-pa-inneres-bundespolizeigesetz-1137340",
+      "platform": "Presse"
+    }
+  ]
+}

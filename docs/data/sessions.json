@@ -21,7 +21,7 @@
     "topic": "90. Sitzung: Der Wirtschaftsstandort Deutschland im Fokus",
     "summary_path": "protocols/session_90/top_unknown_90_sitzung_zp_18_wirtschafts_standort_deutschland.md",
     "documents_path": "protocols/session_90/top_unknown_90_sitzung_zp_18_wirtschafts_standort_deutschland_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/top_unknown_90_sitzung_zp_18_wirtschafts_standort_deutschland_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=nDVfL5-g1z0",
     "processed_at": "2026-07-19T08:01:26.865222"
   },
@@ -63,6 +63,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=k965ZSysBe8",
     "processed_at": "2026-07-20T08:09:45.107437"
+  },
+  {
+    "id": "U4Q-f1_aUss",
+    "title": "90. Sitzung vom 10.07.2026. TOP ZP 22: Aktuelle Stunde: Verschärfungen bei Krankschreibungen",
+    "session": 90,
+    "date": "2026-07-10",
+    "top": "ZP 22",
+    "topic": "Verschärfungen bei Krankschreibungen: Mehr Gesundheitsschutz, kein Misstrauen",
+    "summary_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun.md",
+    "documents_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun_documents.json",
+    "speakers_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=U4Q-f1_aUss",
+    "processed_at": "2026-07-21T08:05:44.345956"
+  },
+  {
+    "id": "TmibMzyPqa4",
+    "title": "90. Sitzung vom 10.07.2026. TOP ZP 21: Modernisierung des Bundespolizeigesetzes",
+    "session": 90,
+    "date": "2026-07-10",
+    "top": "ZP 21",
+    "topic": "Modernisierung des Bundespolizeigesetzes",
+    "summary_path": "protocols/session_90/zp_21_modernisierung_des_bundespolizeigesetzes.md",
+    "documents_path": "protocols/session_90/zp_21_modernisierung_des_bundespolizeigesetzes_documents.json",
+    "speakers_path": "protocols/session_90/zp_21_modernisierung_des_bundespolizeigesetzes_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=TmibMzyPqa4",
+    "processed_at": "2026-07-21T08:04:48.322318"
   },
   {
     "id": "4WZaZKSraV4",
@@ -115,6 +141,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=U2g9yV0UOz8",
     "processed_at": "2026-07-19T08:07:29.393119"
+  },
+  {
+    "id": "n4jM8pcGqgo",
+    "title": "90. Sitzung vom 10.07.2026. TOP 24, ZP 19: Aussetzung der Anpassung der Abgeordnetenentschädigung",
+    "session": 90,
+    "date": "2026-07-10",
+    "top": "24, ZP 19",
+    "topic": "Aussetzung der Anpassung der Abgeordnetenentschädigung",
+    "summary_path": "protocols/session_90/24_zp_19_aussetzung_der_anpassung_der_abgeordnetenentschaed.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_90/24_zp_19_aussetzung_der_anpassung_der_abgeordnetenentschaed_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=n4jM8pcGqgo",
+    "processed_at": "2026-07-21T08:01:52.658509"
+  },
+  {
+    "id": "VOxsQ509V70",
+    "title": "90. Sitzung vom 10.07.2026. TOP 22: GKV-Beitragssatzstabilisierungsgesetz",
+    "session": 90,
+    "date": "2026-07-10",
+    "top": "22",
+    "topic": "Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung",
+    "summary_path": "protocols/session_90/22_gkv_beitragssatzstabilisierungsgesetz.md",
+    "documents_path": "protocols/session_90/22_gkv_beitragssatzstabilisierungsgesetz_documents.json",
+    "speakers_path": "protocols/session_90/22_gkv_beitragssatzstabilisierungsgesetz_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=VOxsQ509V70",
+    "processed_at": "2026-07-21T08:01:08.363881"
+  },
+  {
+    "id": "zlUePdMRHFc",
+    "title": "90. Sitzung vom 10.07.2026. TOP 17: Bekämpfung von Desinformationskampagnen",
+    "session": 90,
+    "date": "2026-07-10",
+    "top": "17",
+    "topic": "Bekämpfung von Desinformationskampagnen",
+    "summary_path": "protocols/session_90/17_bekaempfung_von_desinformationskampagnen.md",
+    "documents_path": "protocols/session_90/17_bekaempfung_von_desinformationskampagnen_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=zlUePdMRHFc",
+    "processed_at": "2026-07-21T08:03:53.902763"
   },
   {
     "id": "hkbpBqS1blk",
