@@ -1,0 +1,64 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung zur Einführung eines antragslosen Kindergeldes wurde mit den Stimmen der Koalitionsmehrheit (SPD, Bündnis 90/Die Grünen) sowie der CDU/CSU angenommen. Die Linke und die AfD enthielten sich. Der Entschließungsantrag der Grünen wurde abgelehnt. Der Gesetzentwurf der AfD wurde in zweiter Beratung abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "AfD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Die Linke",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      }
+    ]
+  }
+}

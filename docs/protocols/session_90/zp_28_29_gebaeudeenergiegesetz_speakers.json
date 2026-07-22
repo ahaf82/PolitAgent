@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte um das Gebäudeenergiegesetz (GEG) zeigt eine klare Spaltung zwischen den Regierungsparteien und der Opposition. Während CDU/CSU und SPD das reformierte Gebäudemodernisierungsgesetz als Freiheit für die Bürger und Behebung von Fehlern des Vorgängergesetzes darstellen, kritisieren Bündnis 90/Die Grünen, AfD und Die Linke das Gesetz scharf. Externe Aussagen der Abgeordneten spiegeln diese Positionen wider: Befürworter betonen Technologieoffenheit und Wahlfreiheit, während Kritiker auf Kostenfallen, mangelnde Umsetzbarkeit und unzureichende Klimaschutzziele hinweisen. Insbesondere die Verfügbarkeit und Kosten von Biogas werden kontrovers diskutiert.",
+  "sources": [
+    {
+      "name": "Sepp Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Er betont die Freiheit für Eigentümer bei der Heizungsentscheidung durch das neue Gesetz, das Technologieoffenheit, Investitionssicherheit und Klimaschutz verbinde. Müller ist zuversichtlich, dass Klimaschutzziele übererfüllt werden.",
+      "source_title": "Freiheit statt Bevormundung - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "https://www.cducsu.de/presse/freiheit-statt-bevormundung",
+      "platform": "Website"
+    },
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Beutin kritisiert die aktuelle Regierungspolitik, insbesondere im Energiebereich, als klimapolitisches Rollback und Festhalten an fossilen Systemen, anstatt auf erneuerbare Energien zu setzen.",
+      "source_title": "Diese Koalition braucht Druck von Links! - Lorenz Gösta Beutin",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bernhard bezeichnet das neue Gesetz als \"Habecks Heizungshammer durch die Hintertür\" und kritisiert die angebliche Wahlfreiheit als Falle, da Öl- und Gasheizungen durch Beimischungsquoten praktisch unbezahlbar würden.",
+      "source_title": "Oppositionsanträge zu Gebäudemodernisierung und Heizungen debattiert",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-gebaeuderichtlinie-1174730",
+      "platform": "Presse"
+    },
+    {
+      "name": "Helmut Kleebank",
+      "party": "SPD",
+      "found": false,
+      "statement": "Kleebank betont, dass Klimaschutz soziale Fragen berührt und die Politik die Pflicht habe, einkommensschwache Gruppen zu schützen. Er verteidigt die SPD-Position, dass die 65-Prozent-Regel ein funktionierendes Instrument sei, aber die Koalition Kompromisse eingehen müsse.",
+      "source_title": "SPD-Berichterstatter zu Heizungsgesetz: \"Wie die Geschichte ausgeht, ist noch offen\"",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Julia Verlinden",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Verlinden kritisiert das Gesetz als \"Teuer-Heizen-Gesetz\", das Unsicherheit schaffe, die Heizkosten erhöhe und die Menschen in eine \"fossile Heizkostenfalle\" treibe, was Klimaschutz und günstiges Heizen bremse.",
+      "source_title": "Gebäudemodernisierungsgesetz - Clage und Grüne MdB fordern Technologieoffenheit",
+      "url": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-clage-und-gruene-mdb-fordern-technologieoffenheit",
+      "platform": "Website"
+    },
+    {
+      "name": "Jörg Cezanne",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Cezanne bezeichnet das Gesetz als \"verheerendes Signal für bezahlbares Heizen und Klimaschutz\" und warnt, dass insbesondere Mieter von steigenden Kosten betroffen sein werden, da sie keine Kontrolle über die Heizungswahl haben.",
+      "source_title": "Reden - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/joerg-cezanne/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Andreas Lenz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Lenz kritisiert das \"vermurkste\" Heizungsgesetz der Ampel, das zu großer Verunsicherung und Angst bei den Bürgern führe. Er fordert Technologieoffenheit und Planungssicherheit.",
+      "source_title": "Andreas Lenz: Das vermurkste Heizungsgesetz schafft Angst! | CSU-Landesgruppe",
+      "url": "https://www.csu-landesgruppe.de/themen/wirtschaft-und-energie-verkehr-bildung-und-forschung/andreas-lenz-das-vermurkste-heizungsgesetz-schafft-angst",
+      "platform": "Website"
+    }
+  ]
+}

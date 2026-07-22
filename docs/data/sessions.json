@@ -47,7 +47,7 @@
     "topic": "Gebäudeenergiegesetz",
     "summary_path": "protocols/session_90/zp_28_29_gebaeudeenergiegesetz.md",
     "documents_path": "protocols/session_90/zp_28_29_gebaeudeenergiegesetz_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/zp_28_29_gebaeudeenergiegesetz_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=CB19UGLHU18",
     "processed_at": "2026-07-19T08:06:23.231429"
   },
@@ -99,7 +99,7 @@
     "topic": "Wirtschaftsstandort Deutschland",
     "summary_path": "protocols/session_90/zp_18_wirtschaftsstandort_deutschland.md",
     "documents_path": "protocols/session_90/zp_18_wirtschaftsstandort_deutschland_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/zp_18_wirtschaftsstandort_deutschland_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=4WZaZKSraV4",
     "processed_at": "2026-07-20T08:03:50.771594"
   },
@@ -2220,7 +2220,7 @@
     "top": "9",
     "topic": "Einführung eines Antragslosen Kindergeldes",
     "summary_path": "protocols/session_89/9_89th_session_of_july_9_2026_agenda_item_9_automati.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_89/9_89th_session_of_july_9_2026_agenda_item_9_automati_documents.json",
     "speakers_path": "protocols/session_89/9_89th_session_of_july_9_2026_agenda_item_9_automati_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=m9livPN7gBg",
     "processed_at": "2026-07-13T20:05:01.316029"

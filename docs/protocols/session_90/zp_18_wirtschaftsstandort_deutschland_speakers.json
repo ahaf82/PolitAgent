@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die Abgeordneten der verschiedenen Fraktionen nutzten die Debatte zum Wirtschaftsstandort Deutschland, um ihre politischen Positionen zu schärfen und die Strategien der Bundesregierung zu bewerten. Während die AfD die aktuelle Wirtschaftspolitik als katastrophal darstellte und drastische Entlastungen, Steuersenkungen sowie einen Abbau von Bürokratie forderte, wiesen die Koalitionsfraktionen und die Opposition diese Darstellung als überzogen zurück. Sie betonten positive Entwicklungen, nannten die Notwendigkeit von Strukturreformen und kritisierten die Vorschläge der AfD als unrealistisch und als Risiko für die Wirtschaft. Externe Aussagen der Abgeordneten spiegeln diese Debatten wider, mit Fokus auf die Notwendigkeit von Reformen, die Stärkung des Standorts und die Bewältigung von Herausforderungen wie Energiepreisen und Bürokratie.",
+  "sources": [
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bernhard kritisiert die Politik der Bundesregierung scharf und spricht von einer tiefen Wirtschaftskrise mit hohen Unternehmensschließungen und Arbeitsplatzverlusten, die auf hohe Steuern, Energiepreise und Bürokratie zurückzuführen seien. Er fordert massive Entlastungen und Steuersenkungen.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Klaus Wiener",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Wiener weist die Darstellung der AfD als Untergangsszenario zurück und bezeichnet sie als Angstmacherei. Er betont, dass Deutschland sich in einer Stagnation, aber nicht in einer Rezession befinde und verweist auf positive Entwicklungen und notwendige Reformen.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Kellner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kellner bezeichnet den AfD-Antrag als 'textgewordene Arbeitsunfähigkeitsbescheinigung' und kritisiert die Energiepolitik der AfD, während er die Notwendigkeit des Ausbaus erneuerbarer Energien betont. Er wirft der AfD vor, wenig für Ostdeutschland zu bieten.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": true,
+      "statement": "Roloff kritisiert den AfD-Antrag als unseriös und basierend auf fragwürdigen Quellen. Er betont die Anstrengungen der Regierung zur Entlastung und Infrastrukturinvestitionen und sieht eine leichte Aufwärtsbewegung der Wirtschaft.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mirze Edis",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Edis betont die Rolle der arbeitenden Menschen und kritisiert die AfD, die diese im Stich lasse. Er lehnt die AfD-Vorschläge als 'Museumsführer' ab und fordert stattdessen Investitionen in Industrie und erneuerbare Energien.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lars Rohwer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Rohwer kritisiert die AfD für ihre unernsten Anträge und das systematische Schlechtreden Deutschlands. Er betont den Bedarf an Erleichterungen und verweist auf die fehlenden Finanzierungskonzepte der AfD.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Enrico Komning",
+      "party": "AfD",
+      "found": true,
+      "statement": "Komning kritisiert die Regierungsposition und wirft ihr ideologiegetriebene Wirtschaftspolitik vor, insbesondere in der Energiepolitik. Er bemängelt die hohe Steuer- und Abgabenlast sowie die Kreditvergabeschwierigkeiten für KMUs.",
+      "source_title": "AfD fordert Maßnahmenpaket für die Wirtschaft - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1194480",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": false,
+      "statement": "Kreiser kritisiert die AfD, die Innovationen stoppen wolle und als Standortrisiko gelte. Sie verweist auf positive Beispiele wie den Börsengang eines Unternehmens und die Ankunft von Sondervermögen in Kommunen.",
+      "source_title": "SPD fordert „Buy European“-Vorgabe bei öffentlichen Aufträgen - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sandra Stein",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Stein räumt die schwierige wirtschaftliche Lage ein, bezeichnet die AfD-Vorschläge jedoch als aus der 'wirtschaftspolitischen Mottenkiste' stammend. Sie lehnt Kernkraft und Kohle ab und hebt erneuerbare Energien als günstigste Quelle hervor.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Agnes Conrad",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Conrad kritisiert, dass der AfD-Antrag die Arbeitnehmer vernachlässige und auf Steuererleichterungen für Großunternehmen setze. Sie betont, dass die Krise in der Automobilindustrie auf Missmanagement zurückzuführen sei und fordert Investitionen in Transformation.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Hans Koller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Koller kritisiert die AfD-Anträge als wiederholend und auf Wahlkampf abzielend. Er weist darauf hin, dass die Wiedereinführung der Kernenergie nicht mehrheitsfähig sei und die AfD keine Finanzierungskonzepte vorlege.",
+      "source_title": "Scharfe Kritik der anderen Fraktionen am AfD-Wirtschaftsantrag - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/841592/to_90-Sitzung-18-05-2021.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Adam Balten",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
