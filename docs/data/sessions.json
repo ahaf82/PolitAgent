@@ -33,7 +33,7 @@
     "top": "22",
     "topic": "Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung",
     "summary_path": "protocols/session_90/22_90_sitzung_top_22_gkv_beitrags_satz_stabilisierung.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_90/22_90_sitzung_top_22_gkv_beitrags_satz_stabilisierung_documents.json",
     "speakers_path": "protocols/session_90/22_90_sitzung_top_22_gkv_beitrags_satz_stabilisierung_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=ZjXF5e2ke6Q",
     "processed_at": "2026-07-18T08:08:01.761081"
@@ -111,7 +111,7 @@
     "top": "N/A",
     "topic": "90. Sitzung des Deutschen Bundestages",
     "summary_path": "protocols/session_90/top_unknown_90_sitzung_des_bundestages_live.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_90/top_unknown_90_sitzung_des_bundestages_live_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=tjA7i8fwxSk",
     "processed_at": "2026-07-18T08:02:51.955226"
@@ -124,7 +124,7 @@
     "top": "N/A",
     "topic": "Zur Geschäftsordnung",
     "summary_path": "protocols/session_90/top_unknown_top_zur_geschaeftsordnung.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_90/top_unknown_top_zur_geschaeftsordnung_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=RoKL3RnEiV4",
     "processed_at": "2026-07-18T08:04:58.669797"
