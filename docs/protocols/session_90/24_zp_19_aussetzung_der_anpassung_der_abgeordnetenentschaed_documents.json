@@ -1,0 +1,51 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf der CDU/CSU und SPD zur Aussetzung der Anpassung der Abgeordnetenentschädigung wurde angenommen. Der Gesetzentwurf der AfD zur Streichung der automatischen Anpassung, der Gesetzentwurf der Linken zur Aussetzung der Anpassung (Beschlussempfehlung für erledigt erklärt) und der Gesetzentwurf der AfD zur Ermöglichung des Verzichts auf Amtsbezüge wurden abgelehnt. Der Antrag zur Änderung der Geschäftsordnung bezüglich der Anwesenheitserfassung wurde angenommen.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?Abstimmungsart=namentlich&Sitzungsnr=90&Datum=2026-07-10",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "SPD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "AfD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Die Linke",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      }
+    ]
+  }
+}

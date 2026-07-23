@@ -1,0 +1,82 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6099",
+      "title": "Kultur und Sport als Staatsziel im Grundgesetz verankern – Öffentliche Daseinsvorsorge sichern und Demokratie stärken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6099&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/6466",
+      "title": "Bundesprogramm „Kultur macht stark. Bündnisse für Bildung“ bedarfsgerecht ausbauen und die vierte Förderphase für die Jahre 2028 bis 2032 nachhaltig verstetigen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6466&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5517",
+      "title": "Das Freiwilligenprogramm „kulturweit“ erhalten – Internationalen Freiwilligendienst sichern und stärken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5517&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/7006",
+      "title": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur (Sportfördergesetz - SpoFöG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7006&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/5921",
+      "title": "Entwurf eines Gesetzes zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur (Sportfördergesetz - SpoFöG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5921&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Antrag der Linken zur Verankerung von Kultur und Sport als Staatsziele im Grundgesetz wurde an den Sportausschuss überwiesen. Der Antrag zur Fortführung des Programms \"Kultur macht stark\" wurde an den Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend überwiesen. Der Antrag der Grünen zur Erhaltung des Programms \"kulturweit\" wurde abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 519,
+      "nein": 43,
+      "enthaltung": 0,
+      "nicht_abgegeben": 68
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 202,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 6
+      },
+      {
+        "faction": "SPD",
+        "ja": 115,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 5
+      },
+      {
+        "faction": "AfD",
+        "ja": 124,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 26
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 76,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 43,
+        "enthaltung": 0,
+        "nicht_abgegeben": 21
+      }
+    ]
+  }
+}

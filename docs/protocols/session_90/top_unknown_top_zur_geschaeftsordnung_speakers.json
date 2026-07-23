@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag über das Gebäudemodernisierungsgesetz am 10. Juli 2026 drehte sich um die geplante zweite und dritte Lesung des Gesetzes. Koalitionsfraktionen wollten das Gesetz schnell verabschieden, um Kosten zu senken und EU-Vorgaben zu erfüllen, während die Opposition Bedenken hinsichtlich mangelnder Beratungszeit und verfassungsrechtlicher Zweifel äußerte. Außerhalb des Parlaments zeigten sich die Abgeordneten dieser Debatte kritisch oder verteidigend gegenüber dem Gesetz. Die CDU/CSU-Fraktion, vertreten durch Steffen Bilger, betonte die Technologieoffenheit und Bezahlbarkeit des Gesetzes und kritisierte das Vorgehen der Vorgängerregierung. Die AfD, repräsentiert durch Marc Bernhard, lehnte das Gesetz als technisch und finanziell nicht machbar ab und bemängelte die kurzen Beratungsfristen. Die SPD, vertreten durch Dirk Wiese, verteidigte das Vorgehen der Koalition und wies auf die Gerichtsentscheidung des Bundesverfassungsgerichts hin. Die Grünen, mit Dr. Irene Mihalic, kritisierten das Gesetz als respektlos gegenüber parlamentarischen Prozessen und als Rückschritt für den Klimaschutz. Die Linke, vertreten durch Ina Latendorf, erhob Bedenken hinsichtlich der Offenlegung von Informationen und verfassungsrechtlicher Zweifel.",
+  "sources": [
+    {
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Steffen Bilger ist Abgeordneter für die CDU/CSU. Die Fraktion betont, dass mit dem Gebäudemodernisierungsgesetz Technologieoffenheit, Investitionssicherheit und Klimaschutz verbunden werden und Eigentümer mehr Wahlfreiheit bei der Heizungsentscheidung erhalten. Sie kritisieren das Vorgehen der Vorgängerregierung als „Habeck'scher Heizungs-Humbug“ und setzen auf eine Politik der Technologieoffenheit, die zu mehr Akzeptanz und Klimaschutz führe.",
+      "source_title": "Freiheit statt Bevormundung - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": false,
+      "statement": "Marc Bernhard von der AfD kritisiert das Gebäudemodernisierungsgesetz als technisch nicht machbar und unbezahlbar. Er bemängelt die kurze Beratungszeit für Verbände und Länder und bezeichnet das Gesetz als handwerklich schwach und praxisfern.",
+      "source_title": "Marc Bernhard - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dirk Wiese von der SPD erklärt, dass die Koalition die Entscheidung zur Aufsetzung des Gesetzes auf die Tagesordnung vom Urteil des Bundesverfassungsgerichts abhängig gemacht hat und dass grünes Licht für die Aufsetzung gegeben wurde, nachdem die Klage abgewiesen wurde. Er kritisiert die Handhabung des Heizungsgesetzes in der Vergangenheit.",
+      "source_title": "SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/energie-klimaschutz/gebaeudemodernisierung-planbarkeit-schaffen-klimaschutz-sichern-mieter-schuetzen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Irene Mihalic von Bündnis 90/Die Grünen kritisiert das Vorgehen der Koalition als mangelnde Lernunwilligkeit und mangelnden Respekt vor parlamentarischen Prozessen. Sie bezeichnet das Gesetz als „Fast Food“ und verweist auf verfassungsrechtliche Zweifel und Widersprüche zum Klimaschutz.",
+      "source_title": "Koalition würgt Wärmewende ab | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Ina Latendorf von Die Linke widerspricht der Aufsetzung des Gesetzes, da die Regierung nicht alle notwendigen Informationen offengelegt habe und somit gegen eine Begründungspflicht verstoße. Sie bemängelt, dass das Gesetz Fortschritte beim Ausstieg aus fossilen Energien rückgängig mache.",
+      "source_title": "Gebäudemodernisierungsgesetz: Linke strebt Organklage im Eilverfahren an - Tagesspiegel Background",
+      "url": "https://background.tagesspiegel.de/digital/gebaeudemodernisierungsgesetz-linke-strebt-organklage-im-eilverfahren-an",
+      "platform": "Presse"
+    }
+  ]
+}

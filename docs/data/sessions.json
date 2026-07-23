@@ -125,7 +125,7 @@
     "topic": "Zur Geschäftsordnung",
     "summary_path": "protocols/session_90/top_unknown_top_zur_geschaeftsordnung.md",
     "documents_path": "protocols/session_90/top_unknown_top_zur_geschaeftsordnung_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/top_unknown_top_zur_geschaeftsordnung_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=RoKL3RnEiV4",
     "processed_at": "2026-07-18T08:04:58.669797"
   },
@@ -137,7 +137,7 @@
     "top": "25, ZP 20",
     "topic": "Förderung kultureller Bildung und des Sports",
     "summary_path": "protocols/session_90/25_zp_20_foerderung_kultureller_bildung_und_des_sports.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_90/25_zp_20_foerderung_kultureller_bildung_und_des_sports_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=U2g9yV0UOz8",
     "processed_at": "2026-07-19T08:07:29.393119"
@@ -150,7 +150,7 @@
     "top": "24, ZP 19",
     "topic": "Aussetzung der Anpassung der Abgeordnetenentschädigung",
     "summary_path": "protocols/session_90/24_zp_19_aussetzung_der_anpassung_der_abgeordnetenentschaed.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_90/24_zp_19_aussetzung_der_anpassung_der_abgeordnetenentschaed_documents.json",
     "speakers_path": "protocols/session_90/24_zp_19_aussetzung_der_anpassung_der_abgeordnetenentschaed_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=n4jM8pcGqgo",
     "processed_at": "2026-07-21T08:01:52.658509"
