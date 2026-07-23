@@ -60,7 +60,7 @@
     "topic": "Sportfördergesetz",
     "summary_path": "protocols/session_90/zp_24_27_sportfoerdergesetz.md",
     "documents_path": "protocols/session_90/zp_24_27_sportfoerdergesetz_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/zp_24_27_sportfoerdergesetz_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=k965ZSysBe8",
     "processed_at": "2026-07-20T08:09:45.107437"
   },
@@ -138,7 +138,7 @@
     "topic": "Förderung kultureller Bildung und des Sports",
     "summary_path": "protocols/session_90/25_zp_20_foerderung_kultureller_bildung_und_des_sports.md",
     "documents_path": "protocols/session_90/25_zp_20_foerderung_kultureller_bildung_und_des_sports_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/25_zp_20_foerderung_kultureller_bildung_und_des_sports_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=U2g9yV0UOz8",
     "processed_at": "2026-07-19T08:07:29.393119"
   },
@@ -2363,7 +2363,7 @@
     "top": "15",
     "topic": "Verhinderung von Zwangs- und Kinderehen in Deutschland",
     "summary_path": "protocols/session_89/15_89th_session_of_july_9_2026_agenda_item_15_forced_.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_89/15_89th_session_of_july_9_2026_agenda_item_15_forced__documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=5IBXk7JUtwk",
     "processed_at": "2026-07-15T08:06:34.907164"
@@ -2389,7 +2389,7 @@
     "top": "14",
     "topic": "Änderung des Patientenrechtegesetzes",
     "summary_path": "protocols/session_89/14_89th_session_of_07_09_2026_agenda_item_14_amendmen.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_89/14_89th_session_of_07_09_2026_agenda_item_14_amendmen_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=xbyKk8znmZ8",
     "processed_at": "2026-07-16T08:06:03.482345"
