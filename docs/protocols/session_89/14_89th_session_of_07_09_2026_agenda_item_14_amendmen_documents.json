@@ -1,8 +1,15 @@
 {
-  "documents": [],
+  "documents": [
+    {
+      "number": "Drucksache 21/6805",
+      "title": "Entwurf eines Dritten Gesetzes zur Änderung des Vereinsgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6805&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
   "voting": {
     "has_namentliche_abstimmung": false,
-    "decision_text": "Die erste Beratung des Gesetzentwurfs zur Änderung des Vereinsgesetzes wurde am N/A im Bundestag durchgeführt. Nach der Aussprache wurde der Gesetzentwurf interfraktionell zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.",
+    "decision_text": "Der Gesetzentwurf zur Änderung des Vereinsgesetzes wurde in erster Beratung debattiert und anschließend zur weiteren Beratung an die zuständigen Ausschüsse, insbesondere den Innenausschuss, überwiesen. Redebeiträge von Johannes Schätzl (SPD) und Ferat Kocak (Die Linke) wurden zu Protokoll gegeben.",
     "official_voting_url": "N/A",
     "overall_result": null,
     "faction_results": []

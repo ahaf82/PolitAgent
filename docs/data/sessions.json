@@ -112,7 +112,7 @@
     "topic": "90. Sitzung des Deutschen Bundestages",
     "summary_path": "protocols/session_90/top_unknown_90_sitzung_des_bundestages_live.md",
     "documents_path": "protocols/session_90/top_unknown_90_sitzung_des_bundestages_live_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/top_unknown_90_sitzung_des_bundestages_live_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=tjA7i8fwxSk",
     "processed_at": "2026-07-18T08:02:51.955226"
   },
@@ -2402,7 +2402,7 @@
     "top": "14",
     "topic": "Änderung des Vereinsgesetzes",
     "summary_path": "protocols/session_89/14_89th_session_of_07_09_2026_agenda_item_14_amendmen.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_89/14_89th_session_of_07_09_2026_agenda_item_14_amendmen_documents.json",
     "speakers_path": "protocols/session_89/14_89th_session_of_07_09_2026_agenda_item_14_amendmen_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=LE24fJekpHg",
     "processed_at": "2026-07-17T08:00:57.542160"
@@ -2415,7 +2415,7 @@
     "top": "13",
     "topic": "Umsetzung der EU-Industrieemissionsrichtlinie",
     "summary_path": "protocols/session_89/13_89th_session_of_07_09_2026_agenda_item_13_implemen.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_89/13_89th_session_of_07_09_2026_agenda_item_13_implemen_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=P0rf4e4tS4A",
     "processed_at": "2026-07-15T08:05:39.930040"

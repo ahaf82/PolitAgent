@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Abgeordneten zum Gebäudeenergiegesetz (GEG) zeigen eine deutliche Polarisierung. Während Abgeordnete der CDU/CSU und AfD die Abschaffung oder grundlegende Änderung des Gesetzes fordern und es als praxisfern, teuer und nicht sozial ausgewogen kritisieren, verteidigen die SPD und die Grünen die Notwendigkeit des Gesetzes und die Art und Weise seiner Beratung. Die Linke bemängelt insbesondere fehlende Informationen und verfassungsrechtliche Bedenken. Beim Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung unterstützte die CDU/CSU die Maßnahme als notwendig zur Sicherung des Systems, während andere Fraktionen teils kritische Einsparungsaspekte hervorhoben.",
+  "sources": [
+    {
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Steffen Bilger hat sich wiederholt gegen das Gebäudeenergiegesetz (GEG) ausgesprochen und dessen Abschaffung oder eine stärkere Technologieoffenheit gefordert. Er kritisiert das Gesetz als nicht sozial ausgewogen und als Belastung für die Bürger.",
+      "source_title": "Heizungs-Pläne der Ampel jetzt stoppen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Mark Bernhard",
+      "party": "AfD",
+      "found": false,
+      "statement": "Mark Bernhard bezeichnete das Gebäudeenergiegesetz als 'handwerklich schwach' und 'praxisfern'. Er fordert die vollständige Abschaffung des Gesetzes und sieht in Änderungen nur 'Augenwischerei'.",
+      "source_title": "Marc Bernhard: Ampel täuscht die Menschen beim Heizungsgesetz",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dirk Wiese verteidigte die Aufnahme des Gebäudeenergiegesetzes auf die Tagesordnung und betonte die Notwendigkeit von Klarheit und Planungssicherheit. Er nannte die Diskussionen übertrieben und die Panikmache überflüssig.",
+      "source_title": "Dirk Wiese begrüßt Klarheit beim Heizungsgesetz",
+      "url": "https://www.dirkwiese.de/2023/09/09/dirk-wiese-begruesst-klarheit-beim-heizungsgesetz/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Irene Mihallitsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Irene Mihallitsch kritisierte das Vorgehen der Koalition als 'chaotisch' und 'lernunwillig' und äußerte verfassungsrechtliche Zweifel am Gebäudeenergiegesetz sowie dessen Vereinbarkeit mit Klimazielen.",
+      "source_title": "Gebäudemodernisierungsgesetz: Grüne melden verfassungsrechtliche Bedenken an",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Ina Latendorf widersprach der Aufsetzung des Tagesordnungspunkts zum Gebäudeenergiegesetz und bemängelte fehlende Informationen zur Klimawirkung. Sie argumentierte, dass die Regierung ihrer Begründungspflicht nicht nachgekommen sei.",
+      "source_title": "Rede von Ina Latendorf am 10.07.2026 - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Albert Stegemann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Albert Stegemann hat die Notwendigkeit des Gesetzes zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung betont und es als Maßnahme zur Sicherung des Systems bezeichnet.",
+      "source_title": "Wir halten die Beitragssätze zur Gesetzlichen Krankenversicherung stabil",
+      "url": "https://www.cducsu.de/presse/wir-halten-die-beitragssaetze-zur-gesetzlichen-krankenversicherung-stabil",
+      "platform": "Website"
+    }
+  ]
+}
