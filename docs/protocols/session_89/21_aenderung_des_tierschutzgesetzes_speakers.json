@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externe Meinungsbildung zu den Änderungen des Tierschutzgesetzes, insbesondere zur verpflichtenden Videoüberwachung in Schlachthöfen, zeigt unterschiedliche Schwerpunkte. Bundesminister Alois Rainer betont die Notwendigkeit zur Transparenz und zum Tierwohl, während die AfD um Dario Seifert vor zusätzlichen Belastungen und bürokratischen Hürden warnt und stattdessen wirtschaftliche Perspektiven fordert. Die SPD, vertreten durch Jens Behrens, unterstützt die Maßnahme grundsätzlich, sieht aber noch Raum für Verbesserungen bei der Ausgestaltung. Dr. Zoe Mayer von den Grünen kritisiert die Ausnahmen für kleinere Betriebe und fordert eine stärkere Einbeziehung von KI, während Ina Latendorf von den Linken die Ausnahmen ebenfalls bemängelt und zusätzlich auf die Verbesserung der Arbeitsbedingungen in Schlachtbetrieben pocht. Anna Aeikens von der CDU/CSU hebt die Schaffung einheitlicher Vorgaben und Rechtssicherheit hervor und verteidigt die Ausnahmen für Kleinbetriebe im Sinne regionaler Strukturen.",
+  "sources": [
+    {
+      "name": "Alois Rainer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bundesminister Alois Rainer betont, dass die Videoüberwachung in allen großen Schlachthöfen ein notwendiger Schritt zur Stärkung des Tierschutzes ist und ein \"Tierschutz-Assistent\" sei. Er hebt hervor, dass kleinere Betriebe ausgenommen werden, um sie nicht übermäßig zu belasten, aber die Länder im Verdachtsfall Überwachung anordnen können.",
+      "source_title": "Kabinett beschließt verpflichtende Videoüberwachung in Schlachthöfen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dario Seifert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dario Seifert kritisiert, dass Videoüberwachung Tierleid nicht direkt verhindere, sondern zu neuen Auflagen und Kosten führe. Er bemängelt, dass dies regionale Schlachtkapazitäten gefährde und fordert stattdessen wirtschaftliche Perspektiven und Entlastungen für die Landwirtschaft.",
+      "source_title": "Dario Seifert (AfD) am 09.07.2026",
+      "url": "https://www.youtube.com/watch?v=GciNS6xFmLc&t=206s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Jens Behrens",
+      "party": "SPD",
+      "found": false,
+      "statement": "Jens Behrens begrüßt die Videoüberwachung als positive Verbesserung im Tierschutzrecht und als Erfüllung eines Koalitionsauftrags. Er sieht auch Potenzial zur Entlastung von Veterinärbehörden durch den Einsatz von KI und erwähnt weitere geplante Tierschutzmaßnahmen.",
+      "source_title": "Update: Bundestag befasst sich mit Videoüberwachung in Schlachthöfen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Zoe Mayer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Zoe Mayer kritisiert die geplanten Ausnahmen für kleinere Betriebe und die alleinige Belastung der Behörden für die Auswertung. Sie hinterfragt, wer die Aufnahmen sichten soll, und bemängelt das mangelnde Handeln der Regierung bei Hitzeschäden an Tieren und Tiertransporten.",
+      "source_title": "Videoüberwachung in Schlachthöfen: Grünen-Abgeordnete Mayer kritisiert Koalitionsentwurf",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Ina Latendorf bezeichnet die Videoüberwachung als notwendigen Schritt, kritisiert aber die Ausnahmen für kleine Betriebe und Kaltblüter. Sie fordert eine Stärkung des Kartellrechts, der Veterinärämter und die Verbesserung der Arbeitsbedingungen in Schlachtbetrieben, um Fehlbetäubungen und Verrohung zu vermeiden.",
+      "source_title": "Tierschutzgesetz verdient seinen Namen nicht",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anna Aeikens",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Anna Aeikens betont, dass die Videoüberwachung in Schlachthöfen bundesweit einheitliche Vorgaben und Rechtssicherheit schafft. Sie verteidigt die Ausnahmen für kleine Betriebe unter Berücksichtigung regionaler Strukturen und sieht die Maßnahmen als wichtigen Schritt zur Stärkung des Tierschutzes.",
+      "source_title": "CDU-Politikerin Anna Aeikens: „Viele Verbraucher sind mit der Labelflut überfordert“",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

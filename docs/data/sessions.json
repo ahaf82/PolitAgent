@@ -203,7 +203,7 @@
     "topic": "Änderung des Tierschutzgesetzes",
     "summary_path": "protocols/session_89/21_aenderung_des_tierschutzgesetzes.md",
     "documents_path": "protocols/session_89/21_aenderung_des_tierschutzgesetzes_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_89/21_aenderung_des_tierschutzgesetzes_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=GciNS6xFmLc",
     "processed_at": "2026-07-18T08:00:42.343783"
   },
@@ -216,7 +216,7 @@
     "topic": "Arbeitsbedingungen in der Wissenschaft",
     "summary_path": "protocols/session_89/12_working_conditions_in_science.md",
     "documents_path": "protocols/session_89/12_working_conditions_in_science_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_89/12_working_conditions_in_science_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=V6lNsTIjJsk",
     "processed_at": "2026-07-15T08:02:18.541569"
   },

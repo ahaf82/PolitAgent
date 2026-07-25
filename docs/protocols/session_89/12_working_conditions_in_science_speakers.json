@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Bundestagsabgeordneten zum Thema Arbeitsbedingungen in der Wissenschaft spiegeln die im Plenum geführte Debatte wider. Die Grünen fordern über ihre sozialen Medien und Pressemitteilungen einen grundlegenden Systemwechsel und kritisieren den Referentenentwurf als zu zögerlich. Die Linke äußert sich ebenfalls kritisch zu bestehenden Gesetzen und fordert grundlegende Reformen zur Befristungspraxis, hauptsächlich über ihre Fraktions-Website. Die Union betont auf ihrer Webseite die Notwendigkeit von Freiheit und Wettbewerb in der Wissenschaft und lehnt überzogene staatliche Eingriffe ab, während die SPD die Bedeutung guter Arbeitsbedingungen hervorhebt und über ihre Kanäle auf die Notwendigkeit von Reformen hinweist. Die AfD kritisiert auf ihrer Webseite die Forderungen der Opposition als unrealistisch und finanziell untragbar.",
+  "sources": [
+    {
+      "name": "Nicole Gohlke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Nicole Gohlke kritisiert das Wissenschaftszeitvertragsgesetz als gescheitert und fordert eine grundlegende Reform, die Kettenbefristungen beendet und verlässliche Mindestvertragslaufzeiten nach der Promotion einführt, um die prekären Arbeitsbedingungen in der Wissenschaft zu verbessern.",
+      "source_title": "Arbeitsbedingungen in der Wissenschaft: 90% befristet!",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frederik Bouffier",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Frederik Bouffier betont auf der Webseite der CDU/CSU-Fraktion, dass wissenschaftliche Exzellenz Freiheit und Wettbewerb benötigt und kritisiert Anträge, die zu übermäßiger staatlicher Steuerung führen würden, während der Referentenentwurf Flexibilität und Planbarkeit sichern soll.",
+      "source_title": "Arbeitsbedingungen in der Wissenschaft: Mehr Freiheit und Wettbewerb statt staatlicher Gängelung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "found": false,
+      "statement": "Dr. Ingo Hahn bezeichnet die Forderungen der Opposition zur Arbeitsmarktreform in der Wissenschaft auf der AfD-Fraktionsseite als „Wünsch dir was“-Luftschloss und fordert stattdessen finanzielle Vernunft, Exzellenz und Freiheit statt staatlicher Gängelei.",
+      "source_title": "Arbeitsmarkt in der Wissenschaft: „Wünsch dir was“-Luftschloss der Opposition belastet Steuerzahler",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Carolin Wagner hebt auf der SPD-Fraktionsseite hervor, dass gute Arbeitsbedingungen für Wissenschaftler essentiell sind, um Talente zu fördern und den technologischen Fortschritt zu sichern. Sie kritisiert die Anträge der Opposition und verweist auf die Notwendigkeit einer ausgewogenen Reform des WissZeitVG.",
+      "source_title": "Gute Arbeit für gute Wissenschaft – Deutschlands Zukunft sichern",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/gute-arbeit-fuer-gute-wissenschaft-deutschlands-zukunft-sichern",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ayse Asar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Ayse Asar kritisiert auf dem X-Account der Bundestagsfraktion Bündnis 90/Die Grünen den Referentenentwurf zur Arbeitsbedingungen in der Wissenschaft als mutlosen Minimalkompromiss und fordert einen Systemwechsel mit Planbarkeit und Regelentfristungen.",
+      "source_title": "Arbeitsbedingungen in der Wissenschaft: Mutloser Minimalkompromiss statt Systemwechsel!",
+      "url": "N/A",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Adrian Grasse",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Christoph Birghan",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Lina Seitzl",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Lina Seitzl betont auf der SPD-Fraktionsseite, dass gute Arbeitsbedingungen und eine Reform des WissZeitVG mit Mindestvertragslaufzeiten und besseren Schutzklauseln für die Wettbewerbsfähigkeit der deutschen Wissenschaft unerlässlich sind. Sie hebt auch die Notwendigkeit moderner Personalstrukturen und mehr Dauerstellen hervor.",
+      "source_title": "Gute Arbeit für gute Wissenschaft – Deutschlands Zukunft sichern",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/gute-arbeit-fuer-gute-wissenschaft-deutschlands-zukunft-sichern",
+      "platform": "Presse"
+    }
+  ]
+}
