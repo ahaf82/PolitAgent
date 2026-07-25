@@ -177,7 +177,7 @@
     "topic": "Bekämpfung von Desinformationskampagnen",
     "summary_path": "protocols/session_90/17_bekaempfung_von_desinformationskampagnen.md",
     "documents_path": "protocols/session_90/17_bekaempfung_von_desinformationskampagnen_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/17_bekaempfung_von_desinformationskampagnen_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=zlUePdMRHFc",
     "processed_at": "2026-07-21T08:03:53.902763"
   },
@@ -190,7 +190,7 @@
     "topic": "Regierungserklärung zur aktuellen politischen Lage",
     "summary_path": "protocols/session_89/zp_3_regierungserklaerung_zur_aktuellen_politischen_lag.md",
     "documents_path": "protocols/session_89/zp_3_regierungserklaerung_zur_aktuellen_politischen_lag_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_89/zp_3_regierungserklaerung_zur_aktuellen_politischen_lag_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=hkbpBqS1blk",
     "processed_at": "2026-07-13T20:10:23.877319"
   },

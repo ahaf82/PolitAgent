@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zum Thema Desinformationskampagnen offenbarte unterschiedliche Strategien zur Bekämpfung. Während die Grünen eine staatsferne Agentur und einen Medienkompetenzfonds forderten, betonten CDU/CSU und SPD die Notwendigkeit, bestehende Maßnahmen auszubauen und die europäische Gesetzgebung umzusetzen. Die AfD kritisierte die Vorschläge der Grünen scharf als Einschränkung der Meinungsfreiheit und staatliche Überwachung. Externe Aussagen spiegeln diese Positionen wider: Die Grünen warnten vor der Unterschätzung hybrider Bedrohungen und forderten ein \"Demokratieschild\". Die SPD-Abgeordnete Carolin Wagner thematisierte die Doppelgänger-Kampagne und die Bedrohung durch Fakenews, während Maja Wallstein die Wichtigkeit von Medienkompetenz und die Bekämpfung von Extremismus unterstrich. Die AfD-Abgeordneten Ronald Gläser und Ruben Rupp lehnten staatliche Kontrollmechanismen ab und betonten die Meinungsfreiheit, wobei Gläser staatliche Desinformation kritisierte.",
+  "sources": [
+    {
+      "name": "Dr. Anna Lührmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Lührmann hebt die Notwendigkeit hervor, die Demokratie vor Desinformationskampagnen besser zu schützen, da die Bundesregierung die Gefahr hybrider Angriffe unterschätze. Sie fordert die Einrichtung einer unabhängigen Agentur für Digitale Medien und die Förderung europäischer sozialer Netzwerke.",
+      "source_title": "Grüne wollen \"nationales Demokratieschild gegen Desinformation\"",
+      "url": "https://www.oldenburger-onlinezeitung.de/nachrichten/gruene-wollen-nationales-demokratieschild-gegen-desinformation-211186.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ronald Gläser",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ronald Gläser lehnt staatliche Kontrollmechanismen und Verbote zur Bekämpfung von Desinformation ab und betont, dass Meinungsfreiheit das einzige Mittel sei. Er kritisiert die Fokussierung auf ausländische Desinformation und sieht Probleme bei öffentlich-rechtlichen Sendern.",
+      "source_title": "Ronald Gläser - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/ronald-glaeser",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Wagner thematisierte die prorussische Desinformationskampagne „Doppelgänger“ und die Bedrohung, die Fakenews für die Demokratie darstellen. Sie betonte die Notwendigkeit der frühzeitigen Erkennung und Analyse solcher Phänomene, um demokratische Stabilität zu wahren.",
+      "source_title": "„Wie Fakenews unsere Demokratie bedrohen“ - Dr. Carolin Wagner",
+      "url": "https://carolinwagner.bayern/termine/?id=1115684",
+      "platform": "Website"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Donata Vogtschmidt sieht Desinformation als politische Waffe, die durch KI verstärkt wird. Sie begrüßt die Forderung nach einem umfassenden Lagebild und der Überführung der Plattformsicherheit in eine neue Agentur, lehnt aber den Ausbau operativer Befugnisse der Sicherheitsbehörden ab.",
+      "source_title": "Donata Vogtschmidt - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/donata-vogtschmidt/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Catarina dos Santos-Wintz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "found": false,
+      "statement": "Ruben Rupp lehnt staatliche Zensurmechanismen ab und schlägt stattdessen vor, dass etablierte Medien neutraler berichten. Er kritisiert die Forderung nach staatlichen Fördermitteln für Medien als politische Abhängigkeit und lehnt das \"staatliche Gewaltmonopol auf die Wahrheit\" ab.",
+      "source_title": "Ruben Rupp - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Maja Wallstein",
+      "party": "SPD",
+      "found": true,
+      "statement": "Maja Wallstein betont die Notwendigkeit, die Demokratie zu schützen, was auch die Überprüfung der Verfassungsmäßigkeit der AfD einschließt. Sie hebt die Bedeutung der Medienkompetenz hervor und die konsequente Umsetzung europäischer Digitalgesetze.",
+      "source_title": "Maja Wallstein - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/maja-wallstein",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}
