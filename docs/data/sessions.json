@@ -580,7 +580,7 @@
     "topic": "Bundeswehreinsatz in Libanon (UNIFIL)",
     "summary_path": "protocols/session_86/13_bundeswehreinsatz_in_libanon_unifil.md",
     "documents_path": "protocols/session_86/13_bundeswehreinsatz_in_libanon_unifil_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_86/13_bundeswehreinsatz_in_libanon_unifil_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=fLFMqh_mHGE",
     "processed_at": "2026-06-27T09:05:10.653812"
   },
@@ -606,7 +606,7 @@
     "topic": "Debatte zur Organspende im Deutschen Bundestag",
     "summary_path": "protocols/session_86/11_organspende.md",
     "documents_path": "protocols/session_86/11_organspende_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_86/11_organspende_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=yC4eTDR3NvU",
     "processed_at": "2026-06-27T09:01:56.159155"
   },
@@ -2351,7 +2351,7 @@
     "topic": "89. Sitzung des Deutschen Bundestages vom 07.09.2026: Gesetz zur Entlastung von Ländern und Kommunen",
     "summary_path": "protocols/session_89/16_89th_session_of_07_09_2026_agenda_item_16_state_an.md",
     "documents_path": "protocols/session_89/16_89th_session_of_07_09_2026_agenda_item_16_state_an_documents.json",
-    "speakers_path": "protocols/session_89/16_89th_session_of_07_09_2026_agenda_item_16_state_an_speakers.json",
+    "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=noAqLyOFgy8",
     "processed_at": "2026-07-16T08:06:43.366409"
   },

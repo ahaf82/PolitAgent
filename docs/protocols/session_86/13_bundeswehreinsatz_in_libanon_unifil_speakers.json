@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag über den Bundeswehreinsatz im Libanon (UNIFIL) spiegelt unterschiedliche Ansichten der Fraktionen wider, wobei sich die meisten auf eine letztmalige Mandatsverlängerung zur Ermöglichung eines geordneten Abzugs einigen. Außerhalb des Parlaments äußerten sich die Abgeordneten kritisch bis zustimmend. Luise Amtsberg (Grüne) betonte die Bedeutung der Mission als Stabilisierungsanker und dankte den Soldaten, kritisierte jedoch mangelnden politischen Druck für ihren Erhalt. Derya Türk-Nachbaur (SPD) hob die Sinnhaftigkeit des Einsatzes für die libanesische Marine hervor und plädierte für fortgesetzte Unterstützung. Gerold Otten (AfD) bezeichnete die Mission als gescheitert und forderte eine Konzentration auf Landesverteidigung, während Andreas Paul (AfD) die Beendigung als Eingeständnis einer fehlgeleiteten Politik sah. Jürgen Hardt (CDU/CSU) befürwortete die Verlängerung zur geordneten Abwicklung und zeigte sich offen für zukünftige Unterstützung unter neuen Vereinbarungen.",
+  "sources": [
+    {
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Jürgen Hardt von der CDU/CSU befürwortete die letztmalige Verlängerung des Mandats, um einen geordneten Abzug zu ermöglichen. Er würdigte den Beitrag der Bundeswehr zur Ertüchtigung der libanesischen Seestreitkräfte und äußerte sich offen für zukünftige deutsche Unterstützung, falls eine neue Vereinbarung zwischen Israel und dem Libanon getroffen wird.",
+      "source_title": "Bundeswehreinsatz vor der libanesischen Küste soll verlängert werden",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Gerold Otten",
+      "party": "AfD",
+      "found": false,
+      "statement": "Gerold Otten (AfD) kritisierte die UNIFIL-Mission als wirkungslos und gescheitert, da sie ihre Ziele nicht erreicht habe. Er begrüßte das Ende des Mandats, da es die Konzentration der Bundeswehr auf die Landes- und Bündnisverteidigung wieder ermöglichen würde.",
+      "source_title": "AfD-Fraktion unterstützt Mandat zum UNIFIL-Abzug",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Deria Türk-Nachbaur",
+      "party": "SPD",
+      "found": false,
+      "statement": "Deria Türk-Nachbaur (SPD) betonte die Sinnhaftigkeit des bisherigen Einsatzes zur Befähigung der libanesischen Marine und forderte, dass das Ende des Mandats nicht das Ende des deutschen Engagements bedeuten dürfe. Sie warnte in einem anderen Kontext vor einer humanitären Katastrophe im Libanon.",
+      "source_title": "SPD-Außenpolitkerin Türk-Nachbaur warnt vor Reduzierung der humanitären Hilfen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Luise Amtsberg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Luise Amtsberg (Bündnis 90/Die Grünen) bezeichnete UNIFIL als zentralen Stabilitätsbeitrag und dankte den Soldaten. Sie kritisierte jedoch, dass das Mandat nicht wegen erfüllten Auftrags ende, sondern wegen mangelnden politischen Drucks. Sie betonte die Notwendigkeit, das Ende von UNIFIL nicht als Ende der internationalen Verantwortung zu sehen.",
+      "source_title": "Luise Amtsberg: Bundeswehreinsatz im Libanon (UNIFIL)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-956250",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulrich Ten",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Volker Meier",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Andreas Paul",
+      "party": "AfD",
+      "found": true,
+      "statement": "Andreas Paul (AfD) sah das Auslaufen des Mandats als Eingeständnis des Scheiterns einer fehlgeleiteten Politik und kritisierte, dass die Mission ihre Ziele nicht erreicht habe. Er dankte den Soldaten und lehnte eine EU-geführte Nachfolgemission ab.",
+      "source_title": "Reden: 86. Sitzung vom 25.06.2026",
+      "url": "https://www.bundestag.de/services/soziale_medien/instagram_praesidentin/979534-979534",
+      "platform": "Website"
+    },
+    {
+      "name": "Claudia Moll",
+      "party": "SPD",
+      "found": true,
+      "statement": "Claudia Moll (SPD) beschrieb die Verlängerung als Kompromiss und betonte den wesentlichen Beitrag der deutschen Soldaten. Sie stellte klar, dass der Abzug nicht das Scheitern des Einsatzes bedeute und die Verlängerung für einen geordneten Abzug notwendig sei.",
+      "source_title": "Bundeswehreinsatz vor der libanesischen Küste wird fortgesetzt",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Meierer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
