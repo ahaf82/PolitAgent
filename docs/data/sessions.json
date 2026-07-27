@@ -632,7 +632,7 @@
     "topic": "Aktuelle Stunde: Bundesparteitag der Partei Die Linke",
     "summary_path": "protocols/session_85/zp_1_aktuelle_stunde_bundesparteitag_der_partei_die_lin.md",
     "documents_path": "protocols/session_85/zp_1_aktuelle_stunde_bundesparteitag_der_partei_die_lin_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_85/zp_1_aktuelle_stunde_bundesparteitag_der_partei_die_lin_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=cIpA1fwyzac",
     "processed_at": "2026-06-26T15:59:48.234395"
   },
