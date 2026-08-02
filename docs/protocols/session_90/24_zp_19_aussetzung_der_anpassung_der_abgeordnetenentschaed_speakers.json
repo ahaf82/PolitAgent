@@ -1,0 +1,95 @@
+{
+  "synthesis": "Die Debatte zur Aussetzung der Abgeordnetenentschädigung am 10. Juli 2026 im Deutschen Bundestag spiegelte unterschiedliche Positionen wider. Während die Koalitionsfraktionen SPD und CDU/CSU die Aussetzung als notwendiges Signal angesichts der wirtschaftlichen Lage begründeten, forderten die Grünen zusätzliche Reformen im Rentensystem. Die AfD kritisierte den Mechanismus der automatischen Erhöhung als populistisch und forderte eine dauerhafte Abschaffung, stimmte aber dem aktuellen Gesetzentwurf als Kompromiss zu. Die Linke lehnte jegliche Diätenerhöhung ab und verwies auf ihre Spendentradition für soziale Projekte. Außerhalb des Plenums bestätigten die Abgeordneten ihre jeweiligen Positionen, wobei die Debatte über die Angemessenheit der Diäten und die Transparenz der Prozesse im Vordergrund stand.",
+  "sources": [
+    {
+      "name": "Dr. Hendrik Hoppenstedt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er vertritt die Ansicht, dass die Aussetzung der Diätenerhöhung eine Ausnahme bleiben und das bestehende Verfahren, das sich an den Bezügen von Bundesrichtern und Bürgermeistern orientiert, beibehalten werden sollte.",
+      "source_title": "Deutscher Bundestag - Dr. Hendrik Hoppenstedt",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "found": true,
+      "statement": "Brandner kritisierte die automatische Diätenerhöhung als populistisch und forderte deren grundsätzliche und dauerhafte Aussetzung. Er stimmte dem Koalitionsentwurf zu, da er besser als nichts sei.",
+      "source_title": "Fighting for the People: Stephan Brandner Opposes Pay Raises During the World Cup!",
+      "url": "https://www.youtube.com/watch?v=n4jM8pcGqgo&t=1m34s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Johannes Fechner",
+      "party": "SPD",
+      "found": false,
+      "statement": "Fechner hält die Aussetzung der Diätenerhöhung für ein richtiges Signal angesichts der finanziellen Belastungen für Bürger und Unternehmen. Er war auch an der Erstellung eines Gesetzentwurfs zur Aussetzung der Erhöhung beteiligt.",
+      "source_title": "Veröffentlichungspflichtige Einkünfte aus Nebentätigkeiten",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Helge Limburg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Limburg kritisierte die späte Reaktion der Koalition und forderte, dass Abgeordnete in die gesetzliche Rentenversicherung einzahlen und die Altersentschädigung gesenkt werden solle.",
+      "source_title": "Bundestag beschließt Verzicht auf die diesjährige Erhöhung der Diäten",
+      "url": "https://www.bundestag.de/resource/blob/971298/to_061-062.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Latendorf bezeichnete die Debatte als Hohn angesichts der Finanzkrise und betonte, dass die Fraktion Die Linke Diätenerhöhungen ablehne und entsprechende Mittel für soziale Projekte spende.",
+      "source_title": "Bundestag beschließt Verzicht auf die diesjährige Erhöhung der Diäten",
+      "url": "https://www.bundestag.de/resource/blob/971298/to_061-062.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Reinhard Brandl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Brandl argumentierte, dass die Aussetzung der Diätenerhöhung ein Signal sei, dass auch Abgeordnete ihren Gürtel enger schnallen müssten.",
+      "source_title": "Plenarrede im Deutschen Bundestag vom 10. Juli 2026 zur Aussetzung der Diätenerhöhung",
+      "url": "https://www.youtube.com/watch?v=n4jM8pcGqgo&t=16m41s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Peter Bohnhof",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bohnhof kritisierte die bereits erfolgte Auszahlung der Diätenerhöhung und forderte die Streichung des Automatismus sowie transparente Debatten über Gehaltserhöhungen.",
+      "source_title": "Politik erhält heimlich 500 Euro mehr! Peter Bohnhof - AfD-Fraktion im Deutschen Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=fV-0d992j2E&t=1m14s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Tim Klüssendorf",
+      "party": "SPD",
+      "found": false,
+      "statement": "Klüssendorf bezeichnete die Aussetzung als richtige Entscheidung, die breiten Konsens finde, und bekräftigte die Forderung, dass Abgeordnete zukünftig in die gesetzliche Rentenversicherung einzahlen sollen.",
+      "source_title": "Tim Klüssendorf: SPD-Generalsekretär regt Verzicht auf Diätenerhöhung an – 497 Euro monatlich - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jörn König",
+      "party": "AfD",
+      "found": true,
+      "statement": "König begrüßte die Einführung der digitalen Anwesenheitserfassung, warnte jedoch vor Missbrauchsmöglichkeiten und schlug elektronische Unterschriftenterminals vor.",
+      "source_title": "Bundestagsdebatte zur Aussetzung der Anpassung der Abgeordnetenentschädigung | 10.07.26 - YouTube",
+      "url": "https://www.youtube.com/watch?v=n4jM8pcGqgo&t=26m9s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Andrea Lindholz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Lindholz lobte die Schaffung der digitalen Anwesenheitserfassung und sah Potenzial für weitere Digitalisierung. Sie war auch Teil einer Diskussion über Einnahmen von AfD-Abgeordneten aus der Monetarisierung von YouTube-Videos.",
+      "source_title": "AfD: Abgeordnete verdienten durch YouTube-Werbung an Reden im Bundestag - Spiegel",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

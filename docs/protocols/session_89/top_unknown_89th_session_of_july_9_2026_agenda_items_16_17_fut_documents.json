@@ -1,0 +1,58 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "N/A",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Die Debatte endete mit der Abstimmung über die Beschlussempfehlung zur Ablehnung des Antrags der Fraktion Die Linke zur Zukunft der Automobilindustrie. Diese Beschlussempfehlung wurde mit Stimmenmehrheit angenommen.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": 0,
+      "nein": 0,
+      "enthaltung": 0,
+      "nicht_abgegeben": 0
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

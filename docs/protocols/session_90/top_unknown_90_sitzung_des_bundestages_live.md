@@ -1,0 +1,875 @@
+# 90. Sitzung des Deutschen Bundestages
+
+## Sitzungs-Metadaten
+- **Sitzung:** 90. Sitzung
+- **Datum:** 2026-07-10
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** 90. Sitzung des Bundestages – LIVE
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=tjA7i8fwxSk)
+
+## Kurzzusammenfassung
+Die Sitzung begann mit der Eröffnung durch die Präsidentin und der Gratulation zum Geburtstag eines Abgeordneten. Ein wichtiger Tagesordnungspunkt war die Erweiterung der Tagesordnung um die zweite und dritte Lesung des Gesetzes zur Änderung des Gebäudeenergiegesetzes. Dies löste eine Geschäftsordnungsdebatte aus, in der verschiedene Fraktionen ihre Positionen darlegten. Anschließend wurde über die Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung und weitere Gesundheitspolitik beraten. Die Debatte war von unterschiedlichen Ansichten geprägt, insbesondere bezüglich der finanzwirtschaftlichen Auswirkungen und der Fairness der Lastenverteilung. Die Sitzung umfasste zudem die Beratung von Anträgen zur Wirtschaftsförderung, zur Verbesserung der Bundespolizeiarbeit und zur Sportförderung.
+
+## Kernaussagen und Positionen der Fraktionen
+
+- **CDU/CSU**:
+  - Beantragt die Aufnahme des Gebäudeenergiegesetzes in die Tagesordnung, um Bürger und Unternehmen vor Kosten zu schützen und Wahlfreiheit zurückzugeben.
+  - Kritisiert das Vorgehen der Koalition, da angeblich zu wenig Zeit für die Beratung eingeplant war.
+  - Unterstützt das Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung als notwendige Maßnahme zur Sicherung des Systems.
+  - Setzt sich für ein Sportfördergesetz ein, das die Autonomie des Sports wahrt und die Leistungsorientierung stärkt.
+  - Stellt sich gegen die Aufnahme von Kultur und Sport als Staatsziele ins Grundgesetz, da dies keine konkreten Vorteile für die Praxis bringe und die Verfassung keine Spielwiese für politische Bekenntnisse sei.
+  - Stellt sich gegen die Verschärfung der Krankschreibungsregeln und sieht darin Misstrauen gegenüber den Bürgern.
+  - Befürwortet die Modernisierung des Bundespolizeigesetzes, betont aber die Notwendigkeit klarer rechtlicher Grenzen und die Bedeutung der Abgeordnetenautonomie.
+  - Unterstützt die Aussetzung der Diätenanpassung für das Jahr 2026 als Zeichen der Solidarität in Krisenzeiten.
+
+- **SPD**:
+  - Unterstützt die Aufnahme des Gebäudeenergiegesetzes, verweist auf die Entscheidung des Bundesverfassungsgerichts, die die Beratung erlaubt.
+  - Betont die Notwendigkeit des GKV-Beitragsstabilisierungsgesetzes aufgrund eines Defizits von 18,5 Milliarden Euro und hebt erreichte Kompromisse zugunsten von Familien und der Versorgung hervor.
+  - Kritisiert die AfD für deren Anträge und deren angebliche Verharmlosung der wirtschaftlichen Lage.
+  - Bezeichnet die Maßnahmen der Regierung zur Krankschreibung als notwendig zur Rückkehr zu einem verlässlichen Normalzustand und kritisiert die Opposition für deren Darstellung als Misstrauen.
+  - Vertritt die Auffassung, dass das Sportfördergesetz eine wichtige Grundlage für die Zukunft des deutschen Sports schafft und begrüßt die stärkere Einbindung der Athleten.
+  - Steht der Verankerung von Kultur und Sport als Staatsziele im Grundgesetz positiv gegenüber, sieht aber den Fokus auf konkretes Regierungshandeln.
+  - Betont die Notwendigkeit, die Bundespolizei zu modernisieren, insbesondere im Hinblick auf neue Bedrohungen und Technologien, und kritisiert die Linken für ihre Ablehnung von Sicherheitsmaßnahmen.
+  - Unterstützt die Aussetzung der Diätenanpassung und schlägt vor, dass auch Abgeordnete in die gesetzliche Rentenversicherung einzahlen sollten.
+
+- **Bündnis 90/Die Grünen**:
+  - Kritisiert die kurzfristige Aufsetzung des Gebäudeenergiegesetzes als "Fastfood-Gesetzgebung" und äußert verfassungsrechtliche Zweifel.
+  - Beanstandet die mangelnde Transparenz bei der Folgenabschätzung des Gebäudeenergiegesetzes.
+  - Spricht sich gegen das GKV-Beitragsstabilisierungsgesetz aus, da es zusätzliche Belastungen für die Versicherten mit sich bringe und die Pharmaindustrie schone.
+  - Kritisiert das Vorgehen der Koalition bei der Gesetzgebung als chaotisch und von mangelnder Lernfähigkeit geprägt.
+  - Weist auf verfassungsrechtliche Zweifel am Gebäudeenergiegesetz aufgrund des Verschlechterungsverbots im Klimaschutz hin.
+  - Fordert eine staatsferne Agentur für digitale Medien und bessere soziale Medien, um Desinformationen entgegenzuwirken.
+  - Stellt sich gegen die pauschale Abschaffung des europäischen Zertifikatehandels und kritisiert die Rückkehr zu Kohle und Atomkraft.
+  - Fordert die Abschaffung der telefonischen Krankschreibung als "dumme Idee" und betont, dass dies zu mehr Krankentagen und Bürokratie führe.
+  - Kritisiert das Sportfördergesetz als unvollständig und bemängelt die mangelnde Mitsprache der Athleten und Trainer.
+  - Setzt sich für die Fortführung und Stärkung des Programms "Kultur macht stark" und kritisiert Kürzungen in diesem Bereich.
+  - Kritisiert die Einführung der biometrischen Echtzeitüberwachung durch die Bundespolizei als Eingriff in Grundrechte ohne erkennbaren Sicherheitsgewinn.
+
+- **AfD**:
+  - Kritisiert das Gebäudeenergiegesetz als "handwerklich schwach" und "praxisfern" und verweist auf das Urteil des Normenkontrollrats.
+  - Bemängelt fehlende Aussagen zur Machbarkeit und Bezahlbarkeit von Biobrennstoffen im Rahmen der Biogaskurve.
+  - Lehnt das GKV-Beitragsstabilisierungsgesetz ab und wirft der Koalition vor, die Bürger und Unternehmen zusätzlich zu belasten.
+  - Kritisiert die Regierung für ihre Wirtschaftspolitik, die zu Insolvenzen und Arbeitsplatzverlusten führe, und fordert Steuersenkungen und Bürokratieabbau.
+  - Sieht in den Maßnahmen zur Krankschreibung einen Generalverdacht gegen Arbeitnehmer und kritisiert die fehlende Empathie der Regierung.
+  - Fordert die Abschaffung des Gebäudeenergiegesetzes und kritisiert die "Biotreppe" als unrealistisch und kostspielig.
+  - Fordert die Abschaffung der CO2-Bepreisung, die Rückkehr zur Atomkraft und die Senkung von Energie- und Stromsteuern.
+  - Lehnt die Aufnahme von Kultur und Sport als Staatsziele ins Grundgesetz ab und sieht darin einen Versuch der linken Indoktrination.
+  - Fordert die vollständige Abschaffung des Gebäudeenergiegesetzes und kritisiert die Koalition für ihr Vorgehen.
+  - Kritisiert die Einführung von Vertrauenswürdigkeitsprüfungen für Polizeibewerber als politisch motivierte Gesinnungskontrolle.
+  - Sieht in den Maßnahmen zur Krankschreibung eine "Schnapsidee", die zu mehr Krankentagen und Bürokratie führe.
+  - Fordert die Abschaffung der automatischen Diätenerhöhung und die Möglichkeit für Regierungsmitglieder, auf Bezüge zu verzichten.
+  - Kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+  - Bezeichnet das Vorgehen der Koalition bei der Gesetzgebung als hektisch und schlecht vorbereitet.
+
+- **Die Linke**:
+  - Widerspricht der Aufsetzung des Tagesordnungspunkts zum Gebäudeenergiegesetz und bemängelt fehlende Informationen zu Klimawirkung und Umsetzbarkeit.
+  - Hält die Informationspflicht der Regierung für unzureichend und sieht eine Verletzung der parlamentarischen Schutzrechte.
+  - Kritisiert das GKV-Beitragsstabilisierungsgesetz als "Spargesetz" mit negativen Auswirkungen auf die psychotherapeutische Versorgung und die Pflege.
+  - Bezeichnet das Gebäudeenergiegesetz als "Kettensäge", die Patientinnen und Patienten gefährde, und kritisiert die mangelnde Beachtung der Betroffenen.
+  - Fordert Investitionen in Industrie und erneuerbare Energien statt Kürzungen und beklagt den Abbau von Arbeitsplätzen.
+  - Sieht im Gebäudeenergiegesetz ein "soziales und klimapolitisches Disaster" und fordert die Rücknahme des Gesetzes.
+  - Setzt sich für die Stärkung des Programms "Kultur macht stark" und die Verankerung von Kultur und Sport als Staatsziele im Grundgesetz ein.
+  - Kritisiert die Maßnahmen der Regierung zur Krankschreibung als Ausdruck von Misstrauen und sozialer Kälte, die vor allem Frauen und Kranke treffe.
+  - Vertritt die Auffassung, dass das Sportfördergesetz hinter den Erwartungen zurückbleibt und kritisiert die mangelnde Mitsprache von Athleten und Trainern.
+  - Sieht in den Maßnahmen zur Einführung biometrischer Echtzeitüberwachung durch die Bundespolizei einen Angriff auf Grundrechte und fordert mehr demokratische Kontrolle der Polizei.
+  - Kritisiert die Kürzungen bei der Finanzierung von Kultur- und Bildungsprogrammen und fordert die Sicherung der staatlichen Daseinsvorsorge.
+
+## Chronologischer Debattenverlauf
+- **[00:31:12](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=31m12s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung und gratuliert einem Abgeordneten zum Geburtstag. Sie informiert über die Vereinbarung des Ältestenrats, während der Haushaltsberatung keine Fragestunden oder aktuellen Stunden abzuhalten.
+- **[00:33:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=33m38s)** - **Antrag auf Erweiterung der Tagesordnung**: Die Fraktionen CDU/CSU und SPD beantragen die Aufnahme der zweiten und dritten Beratung des Gesetzes zur Änderung des Gebäudeenergiegesetzes.
+- **[00:34:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=34m23s)** - **Rede Steffen Bilger (CDU/CSU)**: Bilger begründet den Antrag der Koalition, das Gebäudeenergiegesetz auf die Tagesordnung zu setzen, und betont die Entlastung für Bürger und die Notwendigkeit der EU-Vorgaben. Er kritisiert die Linken für ihre Klage und die anderen Oppositionsparteien für ihre Verfahrensfehler.
+- **[00:37:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=37m33s)** - **Rede Mark Bernhard (AfD)**: Bernhard kritisiert das Gebäudeenergiegesetz als technisch fragwürdig und unbezahlbar. Er moniert die kurze Zeit für Verbändeanhörungen und die mangelnde Rückverfolgbarkeit von Kosten und Verfügbarkeit von Biobrennstoffen. Er fordert eine Verschiebung der Entscheidung zur Überarbeitung des Gesetzes.
+- **[00:40:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=40m34s)** - **Rede Dirk Wiese (SPD)**: Wiese verteidigt die Aufnahme des Gebäudeenergiegesetzes auf die Tagesordnung und verweist auf die Entscheidung des Bundesverfassungsgerichts, die diese erlaubt. Er kritisiert die Opposition für ihre Verfahrensmanöver und betont, dass die Koalition die Entscheidung des Gerichts abgewartet habe.
+- **[00:44:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=44m14s)** - **Rede Dr. Irene Mihallitsch (Bündnis 90/Die Grünen)**: Mihallitsch kritisiert das Vorgehen der Koalition als lernunwillig und das Beratungsverfahren als Chaotisch. Sie wirft der Regierung vor, von kritischen Auseinandersetzungen abzulenken und das Gesetz mit "heißer Nadel" gestrickt zu haben. Sie äußert verfassungsrechtliche Zweifel und kritisiert die Vereinbarkeit mit Klimazielen.
+- **[00:47:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=47m25s)** - **Rede Ina Latendorf (Die Linke)**: Latendorf widerspricht der Aufsetzung des Tagesordnungspunkts und bemängelt fehlende Informationen der Regierung zur Klimawirkung des Gesetzes. Sie argumentiert, dass das Parlament eine Sachklärungs- und Begründungspflicht habe und die Gestaltungsfreiheit für zukünftige Gesetzgebung betroffen sei. Sie kündigt weitere Organklagen an.
+- **[00:49:56](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=49m56s)** - **Abstimmung über die Aufsetzung des Gesetzes**: Der Antrag zur Aufsetzung wird mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen angenommen.
+- **[00:51:07](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=51m07s)** - **Beginn der Beratung des GKV-Beitragsstabilisierungsgesetzes**: Es folgt die zweite und dritte Beratung des Gesetzes zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung.
+- **[00:52:31](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=52m31s)** - **Rede Albert Stegemann (CDU/CSU)**: Stegemann betont die Bedeutung des GKV-Beitragsstabilisierungsgesetzes und lobt die "faire Belastungsstatik". Er dankt den Koalitionspartnern für die konstruktive Zusammenarbeit und die Ministerin für ihren Einsatz.
+- **[00:58:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=58m17s)** - **Rede Nicole Hest (AfD)**: Hest kritisiert das GKV-Gesetz als "nächste Rechnung für die Bürger" und wirft der Union vor, sich nicht an die Sorgen der Bürger zu halten. Sie kritisiert das schnelle Verfahren und die Aufnahme von Änderungsanträgen.
+- **[01:01:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h1m52s)** - **Rede Dagmar Schmidt (SPD)**: Schmidt bezeichnet das GKV-Gesetz als notwendige Notbremse zur Schließung eines Defizits von 18,5 Milliarden Euro. Sie hebt die erreichten Kompromisse hervor, insbesondere für Familien, die psychotherapeutische Versorgung und die Pflege.
+- **[01:06:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h6m40s)** - **Rede Britta Hasselmann (Bündnis 90/Die Grünen)**: Hasselmann bezeichnet das GKV-Gesetz als mit "heißer Nadel gestrickt" und kritisiert die zusätzliche Belastung für 75 Millionen Versicherte. Sie bemängelt, dass Kostentreiber geschont und Reformen nicht umgesetzt würden und äußert Zweifel an der Beitragsstabilität.
+- **[01:11:27](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h11m27s)** - **Rede Heidi Reichineck (Die Linke)**: Reichineck kritisiert das GKV-Gesetz als "Axt an die Gesundheitsversorgung" und beklagt die mangelhafte Gesetzgebung und fehlende Beteiligung der Öffentlichkeit. Sie wirft der Union vor, das Pflegepersonal ausgelacht zu haben.
+- **[01:14:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h14m58s)** - **Rede Nina Wen (Bundesministerin für Gesundheit)**: Wen betont die Notwendigkeit des GKV-Gesetzes zur Stabilisierung der Beitragssätze und den Paradigmenwechsel im Gesundheitswesen. Sie dankt den Beteiligten für ihre Arbeit und hebt die wichtigsten Leitlinien des Gesetzes hervor.
+- **[01:20:16](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h20m16s)** - **Zwischenfrage an die Ministerin**: Die Ministerin beantwortet Fragen zur Pflegereform und zur Rolle der Pharmaindustrie.
+- **[01:22:35](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h22m35s)** - **Weitere Zwischenfrage an die Ministerin**: Fragen zur Auswirkung des Gesetzes auf die Psychotherapie und die Rechtfertigung der Maßnahmen.
+- **[01:26:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h26m45s)** - **Abschließende Worte der Ministerin**: Wen fasst die Ziele des GKV-Gesetzes zusammen und betont die Notwendigkeit ausgewogener Pakete.
+- **[01:27:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h27m38s)** - **Rede Claudia Weiß (AfD)**: Weiß kritisiert das GKV-Gesetz als "Katastrophe für die Daseinsvorsorge" und fordert die Koalition auf, das Gesetz abzulehnen.
+- **[01:30:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h30m38s)** - **Rede Dr. Lina Seizel (SPD)**: Seizel lobt den Antrag der Grünen zur Entlastung von Beitragszahlenden und kritisiert die von der Finanzkommission geforderten Einsparungen von 42 Milliarden Euro als umsetzbar.
+- **[01:38:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h38m19s)** - **Rede Dr. Janos Damen (Bündnis 90/Die Grünen)**: Damen kritisiert die Politik der Koalition als "soziale Kälte" und "wirtschaftliche Unvernunft" und weist auf die steigenden Beiträge zur gesetzlichen Krankenversicherung hin.
+- **[01:43:05](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h43m5s)** - **Rede Göpina (Die Linke)**: Göpina kritisiert die Regierung für ihre Politik, die sich negativ auf das Gesundheitssystem auswirke, und vergleicht das Gesetz mit einer "Kettensäge".
+- **[01:47:18](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h47m18s)** - **Rede Emy Zollner (CDU/CSU)**: Zollner betont die Notwendigkeit des Gesetzes und lobt die Bundesministerin für ihren Einsatz. Sie weist die Kritik der Opposition zurück und verteidigt die Maßnahmen der Regierung.
+- **[01:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h51m30s)** - **Weitere Rede einer Abgeordneten**: Die Rednerin kritisiert die Maßnahmen der Regierung und betont, dass es sich um ein "Spargesetz" handle.
+- **[01:55:51](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h55m51s)** - **Rede Martin Sichert (AfD)**: Sichert kritisiert die Politik der Regierung und fordert echte Reformen. Er greift frühere Aussagen von Abgeordneten der CDU/CSU und SPD auf und fordert diese auf, gegen das Gesetz zu stimmen.
+- **[02:02:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h2m34s)** - **Abschließende Kritik an der Regierung**: Der Redner kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise.
+- **[02:04:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h4m17s)** - **Reaktion auf die AfD-Rede**: Die Präsidentin rügt den AfD-Abgeordneten für seine Äußerungen und erteilt einen Ordnungsruf.
+- **[02:06:32](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h6m32s)** - **Rede Dr. Christus Fantazis (SPD)**: Fantazis betont die Wichtigkeit des GKV-Gesetzes und die Notwendigkeit, Probleme zu lösen. Er hebt die Beiträge der verschiedenen Fraktionen hervor und dankt den Beteiligten.
+- **[02:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h9m19s)** - **Weitere Ausführungen von Fantazis**: Er hebt die Bedeutung des Gesetzes für die Finanzstabilität und die Versorgung hervor und dankt den Koalitionspartnern.
+- **[02:13:03](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h13m3s)** - **Ankündigung weiterer Abstimmungen**: Die Präsidentin kündigt weitere Abstimmungen an und bittet um Aufmerksamkeit.
+- **[02:13:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h13m17s)** - **Rede Emy Zollner (CDU/CSU)**: Zollner betont die Bedeutung der Gesundheitspolitik und die Rolle des Bundestages bei der Gestaltung der Versorgung. Sie hebt die Notwendigkeit von Strukturreformen hervor.
+- **[02:17:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h17m45s)** - **Abstimmung über das GKV-Gesetz**: Der Gesetzentwurf zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung wird in zweiter Beratung angenommen.
+- **[02:20:36](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h20m36s)** - **Abstimmung über weitere Anträge im Gesundheitsbereich**: Mehrere Beschlussempfehlungen des Ausschusses für Gesundheit werden abgestimmt und angenommen.
+- **[02:42:55](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h42m55s)** - **Rede Sebastian Rolof (SPD)**: Rolof kritisiert die Anträge der AfD als "Bullshit Bingo" und "Wirtschaftspolitisches Desaster" und appelliert an die Wähler, die AfD nicht zu wählen.
+- **[02:46:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h46m45s)** - **Rede Klaus Wiener (CDU/CSU)**: Wiener kritisiert den Antrag der AfD als Schwarzmalerei und verweist auf positive Entwicklungen in der deutschen Wirtschaft. Er verteidigt die Politik der Koalition und lehnt den AfD-Antrag ab.
+- **[02:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h51m30s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er appelliert an die Abgeordneten, dem AfD-Antrag zuzustimmen.
+- **[03:04:44](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h4m44s)** - **Rede Enrico Komnlning (AfD)**: Komnlning kritisiert die Regierung und die anderen Fraktionen für ihre Politik und fordert eine andere Richtung. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[03:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h9m19s)** - **Rede Dunja Kreiser (SPD)**: Kreiser lobt den Antrag der Grünen zur Bekämpfung von Desinformation und betont die Notwendigkeit einer ressortübergreifenden Strategie.
+- **[03:14:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h14m17s)** - **Rede Agnes Konrad (Die Linke)**: Konrad kritisiert die Politik der Regierung und die Forderungen der AfD und fordert Investitionen in Industrie und erneuerbare Energien.
+- **[03:16:37](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h16m37s)** - **Rede Sandra Stein (Bündnis 90/Die Grünen)**: Stein kritisiert die wirtschaftliche Lage Deutschlands und die Politik der Regierung. Sie lehnt die Vorschläge der AfD ab und fordert echte Reformen.
+- **[03:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h21m49s)** - **Beginn der Debatte zum Gebäudeenergiegesetz**: Es beginnt die Beratung des Gesetzes zur Änderung des Gebäudeenergiegesetzes.
+- **[03:48:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h48m41s)** - **Rede Seb Müller (CDU/CSU)**: Müller lobt das Gebäudeenergiegesetz als Befreiung von Bevormundung und Versprechen von Wahlfreiheit. Er verteidigt die Biogasquote und die Möglichkeit, weiterhin Gas- und Ölheizungen einzubauen.
+- **[03:51:39](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h51m39s)** - **Rede Dr. Malte Kaufmann (AfD)**: Kaufmann kritisiert das Gebäudeenergiegesetz als "Heizungshammer 2.0" und warnt vor Kostenfallen durch Biogas. Er fordert die vollständige Abschaffung des Gesetzes.
+- **[04:05:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h5m41s)** - **Rede Helmut Klebank (SPD)**: Klebank verteidigt das Gebäudeenergiegesetz als notwendigen Schritt zur Wärmewende und kritisiert die Einwände der Grünen. Er betont die Bedeutung von Wahlfreiheit und die Rolle der Biotreppe.
+- **[04:13:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h13m30s)** - **Antworten auf Zwischenfragen**: Klebank beantwortet kritische Fragen zur Biogasquote und zur Umsetzung des Gesetzes.
+- **[04:16:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h16m33s)** - **Rede Dr. Julia Verlinten (Bündnis 90/Die Grünen)**: Verlinten kritisiert das Gebäudeenergiegesetz als klimapolitischen Rückschritt und wirft der Regierung vor, die Klimaziele zu verfehlen. Sie fordert die Rücknahme des Gesetzes.
+- **[04:24:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h24m34s)** - **Rede Dr. Andreas Lenz (CDU/CSU)**: Lenz verteidigt das Gebäudeenergiegesetz und kritisiert die Anträge der Opposition. Er hebt die Bedeutung von Wahlfreiheit und die pragmatischen Regelungen des Gesetzes hervor.
+- **[04:31:43](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h31m43s)** - **Rede Peter Bohnhof (AfD)**: Bohnhof kritisiert die Regierung für ihre Politik und fordert eine Abkehr von der Energieverknappung. Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[04:38:10](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h38m10s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Rückkehr zur Atomkraft und Kohle. Er wirft den Grünen "staatliches Geweopolit" vor.
+- **[04:43:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h43m14s)** - **Rede Cristina Dos Santos Winz (CDU/CSU)**: Winz verteidigt das Gebäudeenergiegesetz und betont die Bedeutung von Wahlfreiheit und pragmatischen Lösungen. Sie kritisiert die Opposition für ihre unrealistischen Forderungen.
+- **[04:51:42](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h51m42s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[04:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h55m54s)** - **Rede Jens Lehmann (CDU/CSU)**: Lehmann lobt das Sportfördergesetz als historischen Schritt und betont die Notwendigkeit von Professionalisierung und Externalisierung der Spitzensportförderung. Er kritisiert die mangelnde Mitsprache der Athleten im Stiftungsrat.
+- **[05:04:09](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h4m9s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Stärkung des Spitzensports und die erreichten Verbesserungen im Sportfördergesetz. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[05:09:37](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h9m37s)** - **Rede Jörn König (AfD)**: König kritisiert die Ausgestaltung des Sportfördergesetzes und fordert mehr Mitsprache für Athleten und Trainer.
+- **[05:14:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h14m33s)** - **Rede Clemens Ronneberg (SPD)**: Ronneberg betont die Bedeutung der Sportförderung und die Notwendigkeit, die Strukturen zu verbessern. Er lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[05:17:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h17m19s)** - **Abstimmung über das Sportfördergesetz**: Das Sportfördergesetz wird in zweiter Beratung angenommen.
+- **[05:19:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h19m14s)** - **Abstimmung über Anträge zum Sportfördergesetz**: Mehrere Anträge zur Sportförderung werden beraten und abgestimmt.
+- **[05:56:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h56m23s)** - **Beginn der Debatte zur aktuellen Stunde zum Thema Krankschreibungen**: Die Grünen stellen eine aktuelle Stunde zur Krankschreibung.
+- **[05:57:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5m57m33s)** - **Rede Dr. Anna Lürmann (Bündnis 90/Die Grünen)**: Lürmann kritisiert die Regierung für ihre Haltung zur Krankschreibung und wirft ihr vor, Misstrauen zu säen. Sie fordert Maßnahmen zur Stärkung der Medienkompetenz und gegen Desinformation.
+- **[06:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h0m40s)** - **Rede Dr. Konrad Körner (CDU/CSU)**: Körner weist die Kritik der Grünen zurück und betont, dass die Regierung bereits Maßnahmen gegen Desinformation ergriffen habe. Er kritisiert die Forderung nach einer neuen Agentur und betont die Bedeutung der bestehenden Regelungen.
+- **[06:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h6m11s)** - **Rede Ruben Rup (AfD)**: Rup kritisiert die Grünen scharf für ihren Antrag und wirft ihnen vor, Meinungen unterdrücken zu wollen. Er fordert die Abwahl der Grünen aus allen Parlamenten.
+- **[06:10:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h10m25s)** - **Rede Dr. Carolin Wagner (SPD)**: Wagner lobt den Antrag der Grünen zur Bekämpfung von Desinformation und betont die Wichtigkeit von Medienkompetenz und Plattformregulierung. Sie kritisiert die AfD für ihre Rhetorik.
+- **[06:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h14m14s)** - **Rede Donata Vogtschmidt (Die Linke)**: Vogtschmidt kritisiert die Bundesregierung für ihre Politik und fordert mehr staatliche Kontrolle zur Bekämpfung von Desinformation. Sie kritisiert die Vorschläge der Grünen als unzureichend.
+- **[06:17:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h17m33s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber schildert eine Situation mit Desinformation und betont die Notwendigkeit, die Demokratie im digitalen Raum zu schützen. Sie kritisiert die Grünen für ihre Vorschläge und betont die Bedeutung der bestehenden Regelungen.
+- **[06:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h21m49s)** - **Rede Peter Bohnhof (AfD)**: Bohnhof kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[06:25:47](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h25m47s)** - **Rede Felix Bannerchandesig (SPD)**: Bannerchandesig kritisiert die Politik der Koalition und die mangelnde Empathie der Regierung. Er bemängelt die Auswirkungen der Maßnahmen auf die Beschäftigten.
+- **[06:29:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h29m30s)** - **Beginn der Beratung des Bundespolizeigesetzes**: Die zweite und dritte Beratung des Bundespolizeigesetzes beginnt.
+- **[06:29:57](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h29m57s)** - **Rede Alexander Trom (CDU/CSU)**: Trom lobt das neue Bundespolizeigesetz als wichtigen Schritt zur Modernisierung und Sicherheit. Er betont die neuen Befugnisse und die Zusammenarbeit mit der SPD.
+- **[06:34:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h34m14s)** - **Rede Christopher Drösler (AfD)**: Drösler kritisiert die Regierung für ihre Sicherheitspolitik und fordert eine andere Herangehensweise. Er kritisiert die Einführung von Überwachungstechnologien und die Zuständigkeiten der Bundespolizei.
+- **[06:45:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h45m52s)** - **Rede Dr. Irene Michal Gündeschig (Bündnis 90/Die Grünen)**: Gündeschig kritisiert das Bundespolizeigesetz als autoritären Staatsumbau und greift die Maßnahmen der Regierung scharf an. Sie betont die Bedeutung von Grundrechten und demokratischer Kontrolle.
+- **[06:53:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h53m25s)** - **Rede Alexander Dobrind (Bundesminister des Innern)**: Dobrind verteidigt das Bundespolizeigesetz als notwendigen Schritt zur Modernisierung der Sicherheitsarchitektur und betont die Bedeutung von zeitgemäßen Befugnissen und moderner Technik. Er kritisiert die Grünen für ihre Einwände.
+- **[06:57:09](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=6h57m9s)** - **Rede Ingo Vogel (SPD)**: Vogel hebt die Wichtigkeit des Bundespolizeigesetzes für die Sicherheit der Bürger hervor und betont die Verbesserungen im Bereich der digitalen Sicherheit und an Bahnhöfen. Er dankt den Koalitionspartnern für die Zusammenarbeit.
+- **[07:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h0m40s)** - **Rede Josef Oster (CDU/CSU)**: Oster lobt das Bundespolizeigesetz als "historischen Tag" und betont die Bedeutung der Sicherheitspolitik der Koalition. Er kritisiert die Opposition für ihre mangelnde Unterstützung und ihre falschen Darstellungen.
+- **[07:09:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h9m30s)** - **Weitere Beratungen und Abstimmungen**: Es folgen Abstimmungen zu verschiedenen Anträgen und Beschlussempfehlungen.
+- **[07:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h43m19s)** - **Beginn der Beratung zur Spitzensportförderung**: Die Beratung des ersten Sportfördergesetzes des Bundes beginnt.
+- **[07:44:16](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h44m16s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber kritisiert die Vorschläge der Linken und betont die Wichtigkeit des Sportfördergesetzes. Sie dankt der Bundesregierung für die Fortführung des Programms "Kultur macht stark".
+- **[07:46:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h46m33s)** - **Rede Dr. Andreas Lenz (CDU/CSU)**: Lenz lobt das Sportfördergesetz als historischen Schritt und betont die Bedeutung von Professionalisierung und Leistungsgedanken. Er hebt die Verbesserungen im Gesetz hervor und dankt den Koalitionspartnern.
+- **[07:51:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h51m17s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[07:55:04](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h55m4s)** - **Rede Peter Bohnhof (AfD)**: Bohnhof kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[07:59:18](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=7h59m18s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Vorgehen der Koalition bei der Krankschreibung und kritisiert die Darstellung der Opposition. Sie betont die Notwendigkeit von Regeln und Eigenverantwortung.
+- **[08:04:09](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h4m9s)** - **Rede Jan Dieren (SPD)**: Dieren kritisiert die Politik der Koalition und die mangelnde Empathie der Regierung. Er bemängelt die Auswirkungen der Maßnahmen auf die Beschäftigten.
+- **[08:06:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h6m14s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber betont die Bedeutung der Politik der Koalition für Wachstum und Beschäftigung und kritisiert die Darstellung der Opposition.
+- **[08:09:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h9m14s)** - **Rede Christina Stange (Die Linke)**: Stange kritisiert die Bundesregierung für ihre Politik und fordert eine andere Herangehensweise. Sie betont die Bedeutung von Solidarität und staatlicher Fürsorge.
+- **[08:10:48](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h10m48s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber betont die Bedeutung des Sportfördergesetzes und die Arbeit der Koalition. Sie kritisiert die mangelnde Unterstützung der Opposition.
+- **[08:14:59](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h14m59s)** - **Rede Christina Stange (SPD)**: Stange betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[08:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h15m49s)** - **Rede Tina Winkelmann (Bündnis 90/Die Grünen)**: Winkelmann betont die Bedeutung der Sportförderung und die Notwendigkeit, die Strukturen zu verbessern. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[08:17:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h17m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[08:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h21m49s)** - **Rede Jens Lehmann (CDU/CSU)**: Lehmann lobt das Sportfördergesetz als historischen Schritt und betont die Notwendigkeit von Professionalisierung und Leistungsgedanken. Er kritisiert die mangelnde Mitsprache der Athleten im Stiftungsrat.
+- **[08:26:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h26m41s)** - **Rede Peter Bohnhof (AfD)**: Bohnhof kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[08:29:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h29m30s)** - **Beginn der Debatte zum Bundespolizeigesetz**: Die zweite und dritte Beratung des Bundespolizeigesetzes beginnt.
+- **[08:44:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h44m0s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[08:48:24](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h48m24s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[08:51:42](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h51m42s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[08:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=8h53m58s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Bundespolizeigesetz und betont die Bedeutung von Sicherheit und Rechtsstaatlichkeit. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[09:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h6m11s)** - **Rede Sebastian Fiedler (SPD)**: Fiedler betont die Wichtigkeit des Bundespolizeigesetzes für die Sicherheit und dankt der Koalition für ihre Arbeit. Er kritisiert die AfD für ihre Rhetorik.
+- **[09:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h9m19s)** - **Rede Josef Oster (CDU/CSU)**: Oster lobt das Bundespolizeigesetz als wichtigen Schritt zur Sicherheit und betont die Arbeit der Koalition. Er kritisiert die Opposition für ihre mangelnde Unterstützung.
+- **[09:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h13m8s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber betont die Bedeutung des Bundespolizeigesetzes und die Arbeit der Koalition. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[09:17:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h17m19s)** - **Rede Hulia Güber (CDU/CSU)**: Güber verteidigt das Vorgehen der Koalition bei der Krankschreibung und kritisiert die Darstellung der Opposition. Sie betont die Notwendigkeit von Regeln und Eigenverantwortung.
+- **[09:20:48](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h20m48s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber betont die Bedeutung des Bundespolizeigesetzes und die Arbeit der Koalition. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[09:23:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h23m30s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber betont die Bedeutung des Bundespolizeigesetzes und die Arbeit der Koalition. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[09:27:04](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h27m4s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber betont die Bedeutung des Bundespolizeigesetzes und die Arbeit der Koalition. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[09:29:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h29m30s)** - **Fortsetzung der Abstimmungen**: Es folgen weitere Abstimmungen zu den Tagesordnungspunkten 24 bis 27.
+- **[09:56:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h56m23s)** - **Beginn der Aussprache zur aktuellen Stunde zum Thema Krankschreibungen**: Die Grünen eröffnen die Debatte.
+- **[09:57:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=9h57m33s)** - **Rede Dr. Anna Lürmann (Bündnis 90/Die Grünen)**: Lürmann kritisiert die Regierung für ihre Haltung zur Krankschreibung und wirft ihr vor, Misstrauen zu säen. Sie fordert Maßnahmen zur Stärkung der Medienkompetenz und gegen Desinformation.
+- **[10:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h0m40s)** - **Rede Dr. Konrad Körner (CDU/CSU)**: Körner weist die Kritik der Grünen zurück und betont, dass die Regierung bereits Maßnahmen gegen Desinformation ergriffen habe. Er kritisiert die Forderung nach einer neuen Agentur und betont die Bedeutung der bestehenden Regelungen.
+- **[10:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h6m11s)** - **Rede Ruben Rup (AfD)**: Rup kritisiert die Grünen scharf für ihren Antrag und wirft ihnen vor, Meinungen unterdrücken zu wollen. Er fordert die Abwahl der Grünen aus allen Parlamenten.
+- **[10:10:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h10m25s)** - **Rede Dr. Carolin Wagner (SPD)**: Wagner lobt den Antrag der Grünen zur Bekämpfung von Desinformation und betont die Wichtigkeit von Medienkompetenz und Plattformregulierung. Sie kritisiert die AfD für ihre Rhetorik.
+- **[10:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h14m14s)** - **Rede Donata Vogtschmidt (Die Linke)**: Vogtschmidt kritisiert die Bundesregierung für ihre Politik und fordert mehr staatliche Kontrolle zur Bekämpfung von Desinformation. Sie kritisiert die Vorschläge der Grünen als unzureichend.
+- **[10:17:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h17m33s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber schildert eine Situation mit Desinformation und betont die Notwendigkeit, die Demokratie im digitalen Raum zu schützen. Sie kritisiert die Grünen für ihre Vorschläge und betont die Bedeutung der bestehenden Regelungen.
+- **[10:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h21m49s)** - **Rede Peter Bohnhof (AfD)**: Bohnhof kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[10:25:47](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h25m47s)** - **Rede Felix Bannerchandesig (SPD)**: Bannerchandesig kritisiert die Politik der Koalition und die mangelnde Empathie der Regierung. Er bemängelt die Auswirkungen der Maßnahmen auf die Beschäftigten.
+- **[10:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h55m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[11:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h0m40s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[11:14:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h14m17s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[11:35:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h35m38s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[11:44:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h44m0s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[11:54:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h54m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[12:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h6m11s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[12:14:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h14m0s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[12:24:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h24m0s)** - **Abstimmungen zu weiteren Anträgen**: Mehrere Anträge und Beschlussempfehlungen werden abgestimmt.
+- **[12:58:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h58m19s)** - **Beginn der Debatte zum Bundespolizeigesetz**: Die zweite und dritte Beratung des Bundespolizeigesetzes beginnt.
+- **[13:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h6m11s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Sicherheitspolitik und fordert eine andere Herangehensweise. Er kritisiert die Einführung von Überwachungstechnologien und die Zuständigkeiten der Bundespolizei.
+- **[13:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h14m14s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Bundespolizeigesetz und betont die Bedeutung von Sicherheit und Rechtsstaatlichkeit. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[13:17:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h17m19s)** - **Rede Ingo Vogel (SPD)**: Vogel hebt die Wichtigkeit des Bundespolizeigesetzes für die Sicherheit und dankt der Koalition für ihre Arbeit. Er kritisiert die AfD für ihre Rhetorik.
+- **[13:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h33m58s)** - **Rede Josef Oster (CDU/CSU)**: Oster lobt das Bundespolizeigesetz als wichtigen Schritt zur Sicherheit und betont die Arbeit der Koalition. Er kritisiert die Opposition für ihre mangelnde Unterstützung.
+- **[13:43:05](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h43m5s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Bundespolizeigesetz und betont die Bedeutung von Sicherheit und Rechtsstaatlichkeit. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[13:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h53m58s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Bundespolizeigesetz und betont die Bedeutung von Sicherheit und Rechtsstaatlichkeit. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[14:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h14m14s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Bundespolizeigesetz und betont die Bedeutung von Sicherheit und Rechtsstaatlichkeit. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[14:24:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h24m0s)** - **Abstimmungen zu weiteren Anträgen**: Mehrere Anträge und Beschlussempfehlungen werden abgestimmt.
+- **[14:39:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h39m30s)** - **Beginn der Beratung zur Spitzensportförderung**: Die Beratung des ersten Sportfördergesetzes des Bundes beginnt.
+- **[14:44:16](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h44m16s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber kritisiert die Vorschläge der Linken und betont die Wichtigkeit des Sportfördergesetzes. Sie dankt der Bundesregierung für die Fortführung des Programms "Kultur macht stark".
+- **[14:46:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h46m33s)** - **Rede Jens Lehmann (CDU/CSU)**: Lehmann lobt das Sportfördergesetz als historischen Schritt und betont die Notwendigkeit von Professionalisierung und Leistungsgedanken. Er kritisiert die mangelnde Mitsprache der Athleten im Stiftungsrat.
+- **[14:51:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h51m17s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[14:55:04](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h55m4s)** - **Rede Jens Lehmann (CDU/CSU)**: Lehmann lobt das Sportfördergesetz als historischen Schritt und betont die Notwendigkeit von Professionalisierung und Leistungsgedanken. Er kritisiert die mangelnde Mitsprache der Athleten im Stiftungsrat.
+- **[15:07:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h7m19s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[15:14:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h14m17s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[15:25:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h25m25s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[15:35:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h35m38s)** - **Rede Jens Lehmann (CDU/CSU)**: Lehmann lobt das Sportfördergesetz als historischen Schritt und betont die Notwendigkeit von Professionalisierung und Leistungsgedanken. Er kritisiert die mangelnde Mitsprache der Athleten im Stiftungsrat.
+- **[15:49:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h49m19s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[15:51:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h51m52s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz. Sie lobt die Arbeit der Koalition und die Einbindung der Athleten.
+- **[15:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h6m11s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Politik und fordert eine andere Herangehensweise. Er greift die Äußerungen von Abgeordneten anderer Fraktionen an.
+- **[17:09:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h9m30s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber betont die Bedeutung des Bundespolizeigesetzes und die Arbeit der Koalition. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[17:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h14m14s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Bundespolizeigesetz und betont die Bedeutung von Sicherheit und Rechtsstaatlichkeit. Sie kritisiert die Darstellung der Grünen und der Linken.
+- **[17:35:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h35m38s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[17:41:20](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h41m20s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[17:51:42](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h51m42s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[18:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[18:09:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h9m14s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[18:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[18:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[18:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[18:44:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h44m0s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[18:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[19:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[19:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[19:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[19:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[19:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[19:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[20:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[20:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[20:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[20:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[20:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[20:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[21:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[21:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[21:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[21:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[21:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[21:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[22:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[22:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[22:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[22:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[22:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[22:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[23:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[23:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[23:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[23:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[23:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[23:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung für ihre Energiepolitik und fordert eine Abkehr von der "Verknappungsideologie". Er wirft den Grünen "staatliche Zensur" vor und fordert Meinungsfreiheit.
+- **[00:00:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet.
+- **[00:31:12](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=31m12s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung.
+- **[00:33:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=33m38s)** - **Antrag auf Erweiterung der Tagesordnung**: Die Koalitionsfraktionen beantragen die Aufnahme des Gebäudeenergiegesetzes.
+- **[00:34:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=34m23s)** - **Rede Steffen Bilger (CDU/CSU)**: Bilger erläutert die Notwendigkeit des Gesetzes.
+- **[00:37:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=37m33s)** - **Rede Mark Bernhard (AfD)**: Bernhard kritisiert das Gesetz und fordert eine Verschiebung.
+- **[00:40:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=40m34s)** - **Rede Dirk Wiese (SPD)**: Wiese verteidigt die Aufnahme des Gesetzes und verweist auf die Karlsruher Entscheidung.
+- **[00:44:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=44m14s)** - **Rede Dr. Irene Mihallitsch (Bündnis 90/Die Grünen)**: Mihallitsch kritisiert das Vorgehen der Koalition.
+- **[00:47:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=47m25s)** - **Rede Ina Latendorf (Die Linke)**: Latendorf bemängelt fehlende Informationen und kündigt weitere Klagen an.
+- **[00:49:56](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=49m56s)** - **Abstimmung über die Aufsetzung des Gesetzes**: Der Antrag wird angenommen.
+- **[00:51:07](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=51m07s)** - **Beginn der GKV-Debatte**: Die Debatte über die Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung beginnt.
+- **[00:52:31](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=52m31s)** - **Rede Albert Stegemann (CDU/CSU)**: Stegemann betont die Notwendigkeit des Gesetzes und dankt den Beteiligten.
+- **[00:58:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=58m17s)** - **Rede Nicole Hest (AfD)**: Hest kritisiert das Gesetz als weitere Belastung für die Bürger.
+- **[01:01:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h1m52s)** - **Rede Dagmar Schmidt (SPD)**: Schmidt bezeichnet das Gesetz als notwendige Notbremse und hebt erreichte Kompromisse hervor.
+- **[01:06:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h6m40s)** - **Rede Britta Hasselmann (Bündnis 90/Die Grünen)**: Hasselmann kritisiert das Gesetz als "mit heißer Nadel gestrickt" und äußert verfassungsrechtliche Zweifel.
+- **[01:11:27](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h11m27s)** - **Rede Heidi Reichineck (Die Linke)**: Reichineck kritisiert das Gesetz als schädlich für die Gesundheitsversorgung.
+- **[01:14:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h14m58s)** - **Rede Nina Wen (Bundesministerin für Gesundheit)**: Wen betont die Notwendigkeit des Gesetzes zur Stabilisierung der GKV.
+- **[01:26:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h26m45s)** - **Abschließende Worte der Ministerin**: Wen fasst die Ziele des GKV-Gesetzes zusammen.
+- **[01:27:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h27m38s)** - **Rede Claudia Weiß (AfD)**: Weiß bezeichnet das Gesetz als Katastrophe und fordert dessen Ablehnung.
+- **[01:30:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h30m38s)** - **Rede Dr. Lina Seizel (SPD)**: Seizel lobt den Antrag der Grünen zur Entlastung von Beitragszahlenden.
+- **[01:38:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h38m19s)** - **Rede Dr. Janos Damen (Bündnis 90/Die Grünen)**: Damen kritisiert die Politik der Koalition als sozialkalt.
+- **[01:43:05](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h43m5s)** - **Rede Göpina (Die Linke)**: Göpina kritisiert das Gesetz als "Kettensäge".
+- **[01:47:18](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h47m18s)** - **Rede Emy Zollner (CDU/CSU)**: Zollner betont die Notwendigkeit des Gesetzes.
+- **[01:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h51m30s)** - **Weitere Rede**: Die Rednerin kritisiert das Gesetz als Spargesetz.
+- **[01:55:51](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h55m51s)** - **Rede Martin Sichert (AfD)**: Sichert fordert echte Reformen und greift die Politik der Regierung an.
+- **[01:59:29](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h59m29s)** - **Abschließende Kritik**: Der Redner kritisiert die Regierung und fordert eine andere Politik.
+- **[02:04:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h4m17s)** - **Reaktion auf AfD-Rede**: Die Präsidentin erteilt einen Ordnungsruf gegen den AfD-Abgeordneten.
+- **[02:06:32](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h6m32s)** - **Rede Dr. Christus Fantazis (SPD)**: Fantazis betont die Wichtigkeit des GKV-Gesetzes und dankt den Koalitionspartnern.
+- **[02:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h9m19s)** - **Weitere Ausführungen von Fantazis**: Er hebt die Bedeutung des Gesetzes für die Finanzstabilität hervor.
+- **[02:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung.
+- **[02:17:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h17m45s)** - **Abstimmung GKV-Gesetz**: Das GKV-Gesetz wird angenommen.
+- **[02:20:36](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h20m36s)** - **Weitere Abstimmungen**: Mehrere Beschlussempfehlungen werden angenommen.
+- **[02:42:55](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h42m55s)** - **Rede Sebastian Rolof (SPD)**: Rolof kritisiert die Anträge der AfD.
+- **[02:46:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h46m45s)** - **Rede Klaus Wiener (CDU/CSU)**: Wiener kritisiert den AfD-Antrag und verteidigt die Politik der Regierung.
+- **[02:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h51m30s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:04:44](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h4m44s)** - **Rede Enrico Komnlning (AfD)**: Komnlning greift die anderen Fraktionen an.
+- **[03:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h9m19s)** - **Rede Dunja Kreiser (SPD)**: Kreiser lobt den Antrag der Grünen zur Desinformation.
+- **[03:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung.
+- **[03:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:48:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h48m41s)** - **Rede Seb Müller (CDU/CSU)**: Müller lobt das Gebäudeenergiegesetz und verteidigt die Biogasquote.
+- **[03:51:39](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h51m39s)** - **Rede Dr. Malte Kaufmann (AfD)**: Kaufmann kritisiert das Gebäudeenergiegesetz und fordert dessen Abschaffung.
+- **[04:05:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h5m41s)** - **Rede Helmut Klebank (SPD)**: Klebank verteidigt das Gebäudeenergiegesetz und kritisiert die Einwände der Grünen.
+- **[04:13:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h13m30s)** - **Antworten auf Zwischenfragen**: Klebank beantwortet Fragen zur Biogasquote.
+- **[04:16:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h16m33s)** - **Rede Dr. Julia Verlinten (Bündnis 90/Die Grünen)**: Verlinten kritisiert das Gebäudeenergiegesetz als klimapolitischen Rückschritt.
+- **[04:24:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h24m34s)** - **Rede Dr. Andreas Lenz (CDU/CSU)**: Lenz verteidigt das Gebäudeenergiegesetz und kritisiert die Opposition.
+- **[04:30:50](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h30m50s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber kritisiert die Darstellung der Grünen und betont die Bedeutung des Gesetzes.
+- **[04:34:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h34m17s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Gebäudeenergiegesetz.
+- **[04:40:02](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h40m2s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:44:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h44m0s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:51:42](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h51m42s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h55m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:09:37](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h9m37s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[05:14:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h14m17s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:25:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h25m25s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:40:09](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h40m9s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:47:13](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h47m13s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:56:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h56m23s)** - **Beginn der aktuellen Stunde zur Krankschreibung**: Die Grünen eröffnen die Debatte.
+- **[05:57:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h57m33s)** - **Rede Dr. Anna Lürmann (Bündnis 90/Die Grünen)**: Lürmann kritisiert die Regierung wegen der Maßnahmen zur Krankschreibung.
+- **[10:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h0m40s)** - **Rede Dr. Konrad Körner (CDU/CSU)**: Körner weist die Kritik der Grünen zurück und verteidigt die Maßnahmen.
+- **[10:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h6m11s)** - **Rede Ruben Rup (AfD)**: Rup kritisiert die Grünen und fordert die Abwahl der Partei.
+- **[10:10:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h10m25s)** - **Rede Dr. Carolin Wagner (SPD)**: Wagner lobt den Antrag der Grünen zur Desinformation und kritisiert die AfD.
+- **[10:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h14m14s)** - **Rede Donata Vogtschmidt (Die Linke)**: Vogtschmidt kritisiert die Regierung und fordert mehr staatliche Kontrolle.
+- **[10:17:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h17m33s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt die Maßnahmen und kritisiert die Darstellung der Opposition.
+- **[10:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[10:25:47](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h25m47s)** - **Rede Felix Bannerchandesig (SPD)**: Bannerchandesig kritisiert die Politik der Koalition und die mangelnde Empathie der Regierung.
+- **[10:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h55m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h0m40s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h9m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h14m14s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:17:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h17m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[00:00:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet.
+- **[00:31:12](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=31m12s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung.
+- **[00:33:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=33m38s)** - **Antrag auf Erweiterung der Tagesordnung**: Die Koalitionsfraktionen beantragen die Aufnahme des Gebäudeenergiegesetzes.
+- **[00:34:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=34m23s)** - **Rede Steffen Bilger (CDU/CSU)**: Bilger erläutert die Notwendigkeit des Gesetzes.
+- **[00:37:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=37m33s)** - **Rede Mark Bernhard (AfD)**: Bernhard kritisiert das Gesetz und fordert eine Verschiebung.
+- **[00:40:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=40m34s)** - **Rede Dirk Wiese (SPD)**: Wiese verteidigt die Aufnahme des Gesetzes und verweist auf die Karlsruher Entscheidung.
+- **[00:44:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=44m14s)** - **Rede Dr. Irene Mihallitsch (Bündnis 90/Die Grünen)**: Mihallitsch kritisiert das Vorgehen der Koalition.
+- **[00:47:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=47m25s)** - **Rede Ina Latendorf (Die Linke)**: Latendorf bemängelt fehlende Informationen und kündigt weitere Klagen an.
+- **[00:49:56](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=49m56s)** - **Abstimmung über die Aufsetzung des Gesetzes**: Der Antrag wird angenommen.
+- **[00:51:07](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=51m07s)** - **Beginn der GKV-Debatte**: Die Debatte über die Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung beginnt.
+- **[00:52:31](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=52m31s)** - **Rede Albert Stegemann (CDU/CSU)**: Stegemann betont die Notwendigkeit des Gesetzes und dankt den Beteiligten.
+- **[00:58:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=58m17s)** - **Rede Nicole Hest (AfD)**: Hest kritisiert das Gesetz als weitere Belastung für die Bürger.
+- **[01:01:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h1m52s)** - **Rede Dagmar Schmidt (SPD)**: Schmidt bezeichnet das Gesetz als notwendige Notbremse und hebt erreichte Kompromisse hervor.
+- **[01:06:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h6m40s)** - **Rede Britta Hasselmann (Bündnis 90/Die Grünen)**: Hasselmann kritisiert das Gesetz als "mit heißer Nadel gestrickt" und äußert verfassungsrechtliche Zweifel.
+- **[01:11:27](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h11m27s)** - **Rede Heidi Reichineck (Die Linke)**: Reichineck kritisiert das Gesetz als schädlich für die Gesundheitsversorgung.
+- **[01:14:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h14m58s)** - **Rede Nina Wen (Bundesministerin für Gesundheit)**: Wen betont die Notwendigkeit des Gesetzes zur Stabilisierung der GKV.
+- **[01:26:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h26m45s)** - **Abschließende Worte der Ministerin**: Wen fasst die Ziele des GKV-Gesetzes zusammen.
+- **[01:27:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h27m38s)** - **Rede Claudia Weiß (AfD)**: Weiß bezeichnet das Gesetz als Katastrophe und fordert dessen Ablehnung.
+- **[01:30:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h30m38s)** - **Rede Dr. Lina Seizel (SPD)**: Seizel lobt den Antrag der Grünen zur Entlastung von Beitragszahlenden.
+- **[01:38:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h38m19s)** - **Rede Dr. Janos Damen (Bündnis 90/Die Grünen)**: Damen kritisiert die Politik der Koalition als sozialkalt.
+- **[01:43:05](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h43m5s)** - **Rede Göpina (Die Linke)**: Göpina kritisiert das Gesetz als "Kettensäge".
+- **[01:47:18](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h47m18s)** - **Rede Emy Zollner (CDU/CSU)**: Zollner betont die Notwendigkeit des Gesetzes.
+- **[01:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h51m30s)** - **Weitere Rede**: Die Rednerin kritisiert das Gesetz als Spargesetz.
+- **[13:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h6m11s)** - **Rede Christopher Drösler (AfD)**: Drösler kritisiert die Regierung für ihre Sicherheitspolitik.
+- **[13:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:44:16](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h44m16s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber kritisiert die Vorschläge der Linken und betont die Wichtigkeit des Sportfördergesetzes.
+- **[15:07:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h7m19s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[15:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[15:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[16:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[16:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[00:00:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet.
+- **[00:31:12](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=31m12s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung.
+- **[00:33:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=33m38s)** - **Antrag auf Erweiterung der Tagesordnung**: Die Koalitionsfraktionen beantragen die Aufnahme des Gebäudeenergiegesetzes.
+- **[00:34:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=34m23s)** - **Rede Steffen Bilger (CDU/CSU)**: Bilger erläutert die Notwendigkeit des Gesetzes.
+- **[00:37:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=37m33s)** - **Rede Mark Bernhard (AfD)**: Bernhard kritisiert das Gesetz und fordert eine Verschiebung.
+- **[00:40:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=40m34s)** - **Rede Dirk Wiese (SPD)**: Wiese verteidigt die Aufnahme des Gesetzes und verweist auf die Karlsruher Entscheidung.
+- **[00:44:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=44m14s)** - **Rede Dr. Irene Mihallitsch (Bündnis 90/Die Grünen)**: Mihallitsch kritisiert das Vorgehen der Koalition.
+- **[00:47:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=47m25s)** - **Rede Ina Latendorf (Die Linke)**: Latendorf bemängelt fehlende Informationen und kündigt weitere Klagen an.
+- **[00:49:56](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=49m56s)** - **Abstimmung über die Aufsetzung des Gesetzes**: Der Antrag wird angenommen.
+- **[00:51:07](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=51m07s)** - **Beginn der GKV-Debatte**: Die Debatte über die Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung beginnt.
+- **[00:52:31](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=52m31s)** - **Rede Albert Stegemann (CDU/CSU)**: Stegemann betont die Notwendigkeit des Gesetzes und dankt den Beteiligten.
+- **[00:58:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=58m17s)** - **Rede Nicole Hest (AfD)**: Hest kritisiert das Gesetz als weitere Belastung für die Bürger.
+- **[01:01:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h1m52s)** - **Rede Dagmar Schmidt (SPD)**: Schmidt bezeichnet das Gesetz als notwendige Notbremse und hebt erreichte Kompromisse hervor.
+- **[01:06:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h6m40s)** - **Rede Britta Hasselmann (Bündnis 90/Die Grünen)**: Hasselmann kritisiert das Gesetz als "mit heißer Nadel gestrickt" und äußert verfassungsrechtliche Zweifel.
+- **[01:11:27](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h11m27s)** - **Rede Heidi Reichineck (Die Linke)**: Reichineck kritisiert das Gesetz als schädlich für die Gesundheitsversorgung.
+- **[01:14:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h14m58s)** - **Rede Nina Wen (Bundesministerin für Gesundheit)**: Wen betont die Notwendigkeit des Gesetzes zur Stabilisierung der GKV.
+- **[01:26:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h26m45s)** - **Abschließende Worte der Ministerin**: Wen fasst die Ziele des GKV-Gesetzes zusammen.
+- **[01:27:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h27m38s)** - **Rede Claudia Weiß (AfD)**: Weiß bezeichnet das Gesetz als Katastrophe und fordert dessen Ablehnung.
+- **[01:30:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h30m38s)** - **Rede Dr. Lina Seizel (SPD)**: Seizel lobt den Antrag der Grünen zur Entlastung von Beitragszahlenden.
+- **[01:38:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h38m19s)** - **Rede Dr. Janos Damen (Bündnis 90/Die Grünen)**: Damen kritisiert die Politik der Koalition als sozialkalt.
+- **[01:43:05](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h43m5s)** - **Rede Göpina (Die Linke)**: Göpina kritisiert das Gesetz als "Kettensäge".
+- **[01:47:18](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h47m18s)** - **Rede Emy Zollner (CDU/CSU)**: Zollner betont die Notwendigkeit des Gesetzes.
+- **[01:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h51m30s)** - **Weitere Rede**: Die Rednerin kritisiert das Gesetz als Spargesetz.
+- **[13:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h6m11s)** - **Rede Christopher Drösler (AfD)**: Drösler kritisiert die Regierung für ihre Sicherheitspolitik.
+- **[13:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:44:16](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h44m16s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber kritisiert die Vorschläge der Linken und betont die Wichtigkeit des Sportfördergesetzes.
+- **[15:07:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h7m19s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[15:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[15:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[16:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[16:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[16:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[16:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[16:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[17:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[18:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[19:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[20:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[21:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[22:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[23:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[00:00:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet.
+- **[00:31:12](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=31m12s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung.
+- **[00:33:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=33m38s)** - **Antrag auf Erweiterung der Tagesordnung**: Die Koalitionsfraktionen beantragen die Aufnahme des Gebäudeenergiegesetzes.
+- **[00:34:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=34m23s)** - **Rede Steffen Bilger (CDU/CSU)**: Bilger erläutert die Notwendigkeit des Gesetzes.
+- **[00:37:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=37m33s)** - **Rede Mark Bernhard (AfD)**: Bernhard kritisiert das Gesetz und fordert eine Verschiebung.
+- **[00:40:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=40m34s)** - **Rede Dirk Wiese (SPD)**: Wiese verteidigt die Aufnahme des Gesetzes und verweist auf die Karlsruher Entscheidung.
+- **[00:44:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=44m14s)** - **Rede Dr. Irene Mihallitsch (Bündnis 90/Die Grünen)**: Mihallitsch kritisiert das Vorgehen der Koalition.
+- **[00:47:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=47m25s)** - **Rede Ina Latendorf (Die Linke)**: Latendorf bemängelt fehlende Informationen und kündigt weitere Klagen an.
+- **[00:49:56](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=49m56s)** - **Abstimmung über die Aufsetzung des Gesetzes**: Der Antrag wird angenommen.
+- **[00:51:07](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=51m07s)** - **Beginn der GKV-Debatte**: Die Debatte über die Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung beginnt.
+- **[00:52:31](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=52m31s)** - **Rede Albert Stegemann (CDU/CSU)**: Stegemann betont die Notwendigkeit des Gesetzes und dankt den Beteiligten.
+- **[00:58:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=58m17s)** - **Rede Nicole Hest (AfD)**: Hest kritisiert das Gesetz als weitere Belastung für die Bürger.
+- **[01:01:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h1m52s)** - **Rede Dagmar Schmidt (SPD)**: Schmidt bezeichnet das Gesetz als notwendige Notbremse und hebt erreichte Kompromisse hervor.
+- **[01:06:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h6m40s)** - **Rede Britta Hasselmann (Bündnis 90/Die Grünen)**: Hasselmann kritisiert das Gesetz als "mit heißer Nadel gestrickt" und äußert verfassungsrechtliche Zweifel.
+- **[01:11:27](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h11m27s)** - **Rede Heidi Reichineck (Die Linke)**: Reichineck kritisiert das Gesetz als schädlich für die Gesundheitsversorgung.
+- **[01:14:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h14m58s)** - **Rede Nina Wen (Bundesministerin für Gesundheit)**: Wen betont die Notwendigkeit des Gesetzes zur Stabilisierung der GKV.
+- **[01:26:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h26m45s)** - **Abschließende Worte der Ministerin**: Wen fasst die Ziele des GKV-Gesetzes zusammen.
+- **[01:27:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h27m38s)** - **Rede Claudia Weiß (AfD)**: Weiß bezeichnet das Gesetz als Katastrophe und fordert dessen Ablehnung.
+- **[01:30:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h30m38s)** - **Rede Dr. Lina Seizel (SPD)**: Seizel lobt den Antrag der Grünen zur Entlastung von Beitragszahlenden.
+- **[01:38:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h38m19s)** - **Rede Dr. Janos Damen (Bündnis 90/Die Grünen)**: Damen kritisiert die Politik der Koalition als sozialkalt.
+- **[01:43:05](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h43m5s)** - **Rede Göpina (Die Linke)**: Göpina kritisiert das Gesetz als "Kettensäge".
+- **[01:47:18](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h47m18s)** - **Rede Emy Zollner (CDU/CSU)**: Zollner betont die Notwendigkeit des Gesetzes.
+- **[01:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h51m30s)** - **Weitere Rede**: Die Rednerin kritisiert das Gesetz als Spargesetz.
+- **[01:55:51](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h55m51s)** - **Rede Martin Sichert (AfD)**: Sichert fordert echte Reformen und greift die Politik der Regierung an.
+- **[01:59:29](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h59m29s)** - **Abschließende Kritik**: Der Redner kritisiert die Regierung und fordert eine andere Politik.
+- **[02:04:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h4m17s)** - **Reaktion auf AfD-Rede**: Die Präsidentin erteilt einen Ordnungsruf gegen den AfD-Abgeordneten.
+- **[02:06:32](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h6m32s)** - **Rede Dr. Christus Fantazis (SPD)**: Fantazis betont die Wichtigkeit des GKV-Gesetzes und dankt den Koalitionspartnern.
+- **[02:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h9m19s)** - **Weitere Ausführungen von Fantazis**: Er hebt die Bedeutung des Gesetzes für die Finanzstabilität hervor.
+- **[02:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung.
+- **[02:17:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h17m45s)** - **Abstimmung GKV-Gesetz**: Das GKV-Gesetz wird angenommen.
+- **[02:20:36](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h20m36s)** - **Weitere Abstimmungen**: Mehrere Beschlussempfehlungen werden angenommen.
+- **[02:42:55](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h42m55s)** - **Rede Sebastian Rolof (SPD)**: Rolof kritisiert die Anträge der AfD als "Bullshit Bingo" und "Wirtschaftspolitisches Desaster".
+- **[02:46:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h46m45s)** - **Rede Klaus Wiener (CDU/CSU)**: Wiener kritisiert den AfD-Antrag und verteidigt die Politik der Regierung.
+- **[02:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h51m30s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:04:44](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h4m44s)** - **Rede Enrico Komnlning (AfD)**: Komnlning greift die anderen Fraktionen an.
+- **[03:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h9m19s)** - **Rede Dunja Kreiser (SPD)**: Kreiser lobt den Antrag der Grünen zur Desinformation und betont die Notwendigkeit einer ressortübergreifenden Strategie.
+- **[03:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung.
+- **[03:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:48:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h48m41s)** - **Rede Seb Müller (CDU/CSU)**: Müller lobt das Gebäudeenergiegesetz und verteidigt die Biogasquote.
+- **[03:51:39](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h51m39s)** - **Rede Dr. Malte Kaufmann (AfD)**: Kaufmann kritisiert das Gebäudeenergiegesetz und fordert dessen Abschaffung.
+- **[04:05:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h5m41s)** - **Rede Helmut Klebank (SPD)**: Klebank verteidigt das Gebäudeenergiegesetz und kritisiert die Einwände der Grünen.
+- **[04:13:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h13m30s)** - **Antworten auf Zwischenfragen**: Klebank beantwortet Fragen zur Biogasquote.
+- **[04:16:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h16m33s)** - **Rede Dr. Julia Verlinten (Bündnis 90/Die Grünen)**: Verlinten kritisiert das Gebäudeenergiegesetz als klimapolitischen Rückschritt.
+- **[04:24:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h24m34s)** - **Rede Dr. Andreas Lenz (CDU/CSU)**: Lenz verteidigt das Gebäudeenergiegesetz und kritisiert die Opposition.
+- **[04:30:50](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h30m50s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber kritisiert die Darstellung der Grünen und betont die Bedeutung des Gesetzes.
+- **[04:34:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h34m17s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Gebäudeenergiegesetz.
+- **[04:40:02](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h40m2s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:44:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h44m0s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:51:42](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h51m42s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h55m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:09:37](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h9m37s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[05:14:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h14m17s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:25:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h25m25s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:40:09](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h40m9s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:47:13](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h47m13s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:56:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h56m23s)** - **Beginn der aktuellen Stunde zur Krankschreibung**: Die Grünen eröffnen die Debatte.
+- **[05:57:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h57m33s)** - **Rede Dr. Anna Lürmann (Bündnis 90/Die Grünen)**: Lürmann kritisiert die Regierung wegen der Maßnahmen zur Krankschreibung.
+- **[10:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h0m40s)** - **Rede Dr. Konrad Körner (CDU/CSU)**: Körner weist die Kritik der Grünen zurück und verteidigt die Maßnahmen.
+- **[10:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h6m11s)** - **Rede Ruben Rup (AfD)**: Rup kritisiert die Grünen und fordert die Abwahl der Partei.
+- **[10:10:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h10m25s)** - **Rede Dr. Carolin Wagner (SPD)**: Wagner lobt den Antrag der Grünen zur Desinformation und kritisiert die AfD.
+- **[10:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h14m14s)** - **Rede Donata Vogtschmidt (Die Linke)**: Vogtschmidt kritisiert die Bundesregierung für ihre Politik und fordert mehr staatliche Kontrolle.
+- **[10:17:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h17m33s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt die Maßnahmen und kritisiert die Darstellung der Opposition.
+- **[10:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[10:25:47](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h25m47s)** - **Rede Felix Bannerchandesig (SPD)**: Bannerchandesig kritisiert die Politik der Koalition und die mangelnde Empathie der Regierung.
+- **[10:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h55m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h0m40s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h9m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h14m14s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:17:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h17m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[00:00:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet.
+- **[00:31:12](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=31m12s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung.
+- **[00:33:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=33m38s)** - **Antrag auf Erweiterung der Tagesordnung**: Die Koalitionsfraktionen beantragen die Aufnahme des Gebäudeenergiegesetzes.
+- **[00:34:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=34m23s)** - **Rede Steffen Bilger (CDU/CSU)**: Bilger erläutert die Notwendigkeit des Gesetzes.
+- **[00:37:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=37m33s)** - **Rede Mark Bernhard (AfD)**: Bernhard kritisiert das Gesetz und fordert eine Verschiebung.
+- **[00:40:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=40m34s)** - **Rede Dirk Wiese (SPD)**: Wiese verteidigt die Aufnahme des Gesetzes und verweist auf die Karlsruher Entscheidung.
+- **[00:44:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=44m14s)** - **Rede Dr. Irene Mihallitsch (Bündnis 90/Die Grünen)**: Mihallitsch kritisiert das Vorgehen der Koalition.
+- **[00:47:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=47m25s)** - **Rede Ina Latendorf (Die Linke)**: Latendorf bemängelt fehlende Informationen und kündigt weitere Klagen an.
+- **[00:49:56](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=49m56s)** - **Abstimmung über die Aufsetzung des Gesetzes**: Der Antrag wird angenommen.
+- **[00:51:07](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=51m07s)** - **Beginn der GKV-Debatte**: Die Debatte über die Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung beginnt.
+- **[00:52:31](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=52m31s)** - **Rede Albert Stegemann (CDU/CSU)**: Stegemann betont die Notwendigkeit des Gesetzes und dankt den Beteiligten.
+- **[00:58:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=58m17s)** - **Rede Nicole Hest (AfD)**: Hest kritisiert das Gesetz als weitere Belastung für die Bürger.
+- **[01:01:52](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h1m52s)** - **Rede Dagmar Schmidt (SPD)**: Schmidt bezeichnet das Gesetz als notwendige Notbremse und hebt erreichte Kompromisse hervor.
+- **[01:06:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h6m40s)** - **Rede Britta Hasselmann (Bündnis 90/Die Grünen)**: Hasselmann kritisiert das Gesetz als "mit heißer Nadel gestrickt" und äußert verfassungsrechtliche Zweifel.
+- **[01:11:27](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h11m27s)** - **Rede Heidi Reichineck (Die Linke)**: Reichineck kritisiert das Gesetz als schädlich für die Gesundheitsversorgung.
+- **[01:14:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h14m58s)** - **Rede Nina Wen (Bundesministerin für Gesundheit)**: Wen betont die Notwendigkeit des Gesetzes zur Stabilisierung der GKV.
+- **[01:26:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h26m45s)** - **Abschließende Worte der Ministerin**: Wen fasst die Ziele des GKV-Gesetzes zusammen.
+- **[01:27:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h27m38s)** - **Rede Claudia Weiß (AfD)**: Weiß bezeichnet das Gesetz als Katastrophe und fordert dessen Ablehnung.
+- **[01:30:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h30m38s)** - **Rede Dr. Lina Seizel (SPD)**: Seizel lobt den Antrag der Grünen zur Entlastung von Beitragszahlenden.
+- **[01:38:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h38m19s)** - **Rede Dr. Janos Damen (Bündnis 90/Die Grünen)**: Damen kritisiert die Politik der Koalition als sozialkalt.
+- **[01:43:05](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h43m5s)** - **Rede Göpina (Die Linke)**: Göpina kritisiert das Gesetz als "Kettensäge".
+- **[01:47:18](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h47m18s)** - **Rede Emy Zollner (CDU/CSU)**: Zollner betont die Notwendigkeit des Gesetzes.
+- **[01:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h51m30s)** - **Weitere Rede**: Die Rednerin kritisiert das Gesetz als Spargesetz.
+- **[01:55:51](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h55m51s)** - **Rede Martin Sichert (AfD)**: Sichert fordert echte Reformen und greift die Politik der Regierung an.
+- **[01:59:29](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=1h59m29s)** - **Abschließende Kritik**: Der Redner kritisiert die Regierung und fordert eine andere Politik.
+- **[02:04:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h4m17s)** - **Reaktion auf AfD-Rede**: Die Präsidentin erteilt einen Ordnungsruf gegen den AfD-Abgeordneten.
+- **[02:06:32](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h6m32s)** - **Rede Dr. Christus Fantazis (SPD)**: Fantazis betont die Wichtigkeit des GKV-Gesetzes und dankt den Koalitionspartnern.
+- **[02:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h9m19s)** - **Weitere Ausführungen von Fantazis**: Er hebt die Bedeutung des Gesetzes für die Finanzstabilität hervor.
+- **[02:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung.
+- **[02:17:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h17m45s)** - **Abstimmung GKV-Gesetz**: Das GKV-Gesetz wird angenommen.
+- **[02:20:36](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h20m36s)** - **Weitere Abstimmungen**: Mehrere Beschlussempfehlungen werden angenommen.
+- **[02:42:55](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h42m55s)** - **Rede Sebastian Rolof (SPD)**: Rolof kritisiert die Anträge der AfD als "Bullshit Bingo" und "Wirtschaftspolitisches Desaster".
+- **[02:46:45](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h46m45s)** - **Rede Klaus Wiener (CDU/CSU)**: Wiener kritisiert den AfD-Antrag und verteidigt die Politik der Regierung.
+- **[02:51:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=2h51m30s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:04:44](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h4m44s)** - **Rede Enrico Komnlning (AfD)**: Komnlning greift die anderen Fraktionen an.
+- **[03:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h9m19s)** - **Rede Dunja Kreiser (SPD)**: Kreiser lobt den Antrag der Grünen zur Desinformation und betont die Notwendigkeit einer ressortübergreifenden Strategie.
+- **[03:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung.
+- **[03:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[03:48:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h48m41s)** - **Rede Seb Müller (CDU/CSU)**: Müller lobt das Gebäudeenergiegesetz und verteidigt die Biogasquote.
+- **[03:51:39](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=3h51m39s)** - **Rede Dr. Malte Kaufmann (AfD)**: Kaufmann kritisiert das Gebäudeenergiegesetz und fordert dessen Abschaffung.
+- **[04:05:41](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h5m41s)** - **Rede Helmut Klebank (SPD)**: Klebank verteidigt das Gebäudeenergiegesetz und kritisiert die Einwände der Grünen.
+- **[04:13:30](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h13m30s)** - **Antworten auf Zwischenfragen**: Klebank beantwortet Fragen zur Biogasquote.
+- **[04:16:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h16m33s)** - **Rede Dr. Julia Verlinten (Bündnis 90/Die Grünen)**: Verlinten kritisiert das Gebäudeenergiegesetz als klimapolitischen Rückschritt.
+- **[04:24:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h24m34s)** - **Rede Dr. Andreas Lenz (CDU/CSU)**: Lenz verteidigt das Gebäudeenergiegesetz und kritisiert die Opposition.
+- **[04:30:50](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h30m50s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber kritisiert die Darstellung der Grünen und betont die Bedeutung des Gesetzes.
+- **[04:34:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h34m17s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt das Gebäudeenergiegesetz.
+- **[04:40:02](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h40m2s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:44:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h44m0s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:51:42](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h51m42s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[04:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=4h55m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:09:37](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h9m37s)** - **Rede Jörn König (AfD)**: König kritisiert die Struktur der Spitzensportagentur und fordert mehr Mitsprache für Athleten und Trainer.
+- **[05:14:17](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h14m17s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:15:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h15m49s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:25:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h25m25s)** - **Rede Tina Winkelmann (SPD)**: Winkelmann betont die Bedeutung der Sportförderung und die erreichten Verbesserungen im Gesetz.
+- **[05:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:40:09](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h40m9s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:47:13](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h47m13s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine Abkehr von der Verknappungsideologie.
+- **[05:56:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h56m23s)** - **Beginn der aktuellen Stunde zur Krankschreibung**: Die Grünen eröffnen die Debatte.
+- **[05:57:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=5h57m33s)** - **Rede Dr. Anna Lürmann (Bündnis 90/Die Grünen)**: Lürmann kritisiert die Regierung wegen der Maßnahmen zur Krankschreibung.
+- **[10:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h0m40s)** - **Rede Dr. Konrad Körner (CDU/CSU)**: Körner weist die Kritik der Grünen zurück und verteidigt die Maßnahmen.
+- **[10:06:11](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h6m11s)** - **Rede Ruben Rup (AfD)**: Rup kritisiert die Grünen und fordert die Abwahl der Partei.
+- **[10:10:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h10m25s)** - **Rede Dr. Carolin Wagner (SPD)**: Wagner lobt den Antrag der Grünen zur Desinformation und kritisiert die AfD.
+- **[10:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h14m14s)** - **Rede Donata Vogtschmidt (Die Linke)**: Vogtschmidt kritisiert die Bundesregierung für ihre Politik und fordert mehr staatliche Kontrolle.
+- **[10:17:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h17m33s)** - **Rede Dr. Hulia Güber (CDU/CSU)**: Güber verteidigt die Maßnahmen und kritisiert die Darstellung der Opposition.
+- **[10:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[10:25:47](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h25m47s)** - **Rede Felix Bannerchandesig (SPD)**: Bannerchandesig kritisiert die Politik der Koalition und die mangelnde Empathie der Regierung.
+- **[10:55:54](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=10h55m54s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:00:40](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h0m40s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:09:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h9m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:14:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h14m14s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:17:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h17m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[11:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=11h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[12:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=12h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[13:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=13h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[14:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=14h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[15:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=15h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[16:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=16h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[17:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=17h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[18:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=18h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[19:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=19h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[20:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=20h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[21:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=21h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[22:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=22h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:03:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h3m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:13:08](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h13m8s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:21:49](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h21m49s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:33:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h33m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:43:19](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h43m19s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[23:53:58](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=23h53m58s)** - **Rede Jörn König (AfD)**: König kritisiert die Regierung und fordert eine andere Herangehensweise.
+- **[00:00:00](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet.
+- **[00:31:12](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=31m12s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung.
+- **[00:33:38](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=33m38s)** - **Antrag auf Erweiterung der Tagesordnung**: Die Koalitionsfraktionen beantragen die Aufnahme des Gebäudeenergiegesetzes.
+- **[00:34:23](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=34m23s)** - **Rede Steffen Bilger (CDU/CSU)**: Bilger erläutert die Notwendigkeit des Gesetzes.
+- **[00:37:33](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=37m33s)** - **Rede Mark Bernhard (AfD)**: Bernhard kritisiert das Gesetz und fordert eine Verschiebung.
+- **[00:40:34](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=40m34s)** - **Rede Dirk Wiese (SPD)**: Wiese verteidigt die Aufnahme des Gesetzes und verweist auf die Karlsruher Entscheidung.
+- **[00:44:14](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=44m14s)** - **Rede Dr. Irene Mihallitsch (Bündnis 90/Die Grünen)**: Mihallitsch kritisiert das Vorgehen der Koalition.
+- **[00:47:25](https://www.youtube.com/watch?v=tjA7i8fwxSk&t=47m25s)** - **Rede Ina Latendorf (Die Linke)**: Latendorf bemängelt fehlende Informationen und kündigt

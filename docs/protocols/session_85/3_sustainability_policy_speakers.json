@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur Nachhaltigkeitspolitik spiegeln die Debatte im Bundestag wider. Die SPD betont die Notwendigkeit eines verbindlichen Aktionsplans und parlamentarischer Kontrolle. Die CDU/CSU hebt die Bedeutung einer starken Wirtschaft und nachhaltiger Staatsfinanzen hervor und ist in Gremien wie dem Parlamentarischen Beirat für nachhaltige Entwicklung aktiv. Bündnis 90/Die Grünen kritisieren Klimaschutzbremsen und verbinden Nachhaltigkeit mit sozialer Gerechtigkeit. Die Linke bemängelt die Inhaltsleere von Regierungsberichten und fordert eine konsequente Ausrichtung der Klimapolitik an planetaren Grenzen. Für die AfD-Abgeordneten konnten keine spezifischen externen Stellungnahmen zu diesem Thema gefunden werden, obwohl sie im Parlamentarischen Beirat für nachhaltige Entwicklung vertreten sind.",
+  "sources": [
+    {
+      "name": "Kathrin Michel",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betonte in der Debatte die Notwendigkeit eines verbindlichen Aktionsplans zur Nachhaltigkeit, der vom Kanzleramt gesteuert werden soll und messbare Ziele sowie klare Verantwortlichkeiten beinhalten müsse. Sie äußerte Bedauern über das Fehlen eines solchen Entwurfs und forderte eine stärkere parlamentarische Kontrolle.",
+      "source_title": "SPD-Bundestagsfraktion: Beauftragte eingesetzt",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rainer Groß",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Volker Mayer-Lay",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betonte, dass Nachhaltigkeit eine starke Wirtschaft und soziale Stabilität einschließe, und begrüßte die Neuausrichtung der Nachhaltigkeitsstrategie mit messbaren Zielen. Er ist Mitglied des Parlamentarischen Beirats für nachhaltige Entwicklung, was seine Auseinandersetzung mit dem Thema unterstreicht.",
+      "source_title": "Deutscher Bundestag - Volker Mayer-Lay",
+      "url": "https://www.bundestag.de/webarchiv/abgeordnete/biografien19/547638-547638",
+      "platform": "Website"
+    },
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisierte die kurze Debattenzeit und die Haltung der Union zu Klimaschutzmaßnahmen. Er hob die Verbindung zwischen Klimaschutz und wirtschaftlicher Entwicklung hervor und forderte mehr soziale Gerechtigkeit. Seine Website erwähnt die 17 Ziele für nachhaltige Entwicklung als Fahrplan für mehr Gerechtigkeit, Gesundheit und Nachhaltigkeit.",
+      "source_title": "Johannes Wagner, MdB für Dich im Bundestag",
+      "url": "https://www.johannes-wagner.org/",
+      "platform": "Website"
+    },
+    {
+      "name": "Elisabeth Winkelmeier-Becker",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Begrüßte die Priorität der Nachhaltigkeitspolitik und die geschaffenen Strukturen wie den Staatssekretärsausschuss. Sie leitet den Parlamentarischen Beirat für nachhaltige Entwicklung und Zukunftsfragen und betont die Bedeutung der UN-Agenda 2030.",
+      "source_title": "Winkelmeier-Becker (CDU) leitet Nachhaltigkeitsbeirat",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Rainer Kraft",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Caroline Bosbach",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Plädierte für ein positives Image der Nachhaltigkeit, weg von reinen Berichtspflichten und Regulierung, und betonte die Bedeutung nachhaltiger Staatsfinanzen für die Generationengerechtigkeit. Sie ist Mitglied des Parlamentarischen Beirats für nachhaltige Entwicklung.",
+      "source_title": "Caroline Bosbach",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisierte den Bericht der Bundesregierung als inhaltsleer und bemängelte das Fehlen zentraler Elemente der UN-Agenda 2030. Er warnt vor einem \"Rollback im Interesse der fossilen Konzerne\" und fordert eine konsequente Ausrichtung der Klimapolitik an planetaren Grenzen. Seine Fraktion hat sich zudem in der Vergangenheit intensiv mit Themen wie Klimagerechtigkeit und einem sozial-ökologischen Umbau beschäftigt.",
+      "source_title": "Umwelt - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

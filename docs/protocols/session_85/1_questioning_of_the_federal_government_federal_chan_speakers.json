@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Bundestagsabgeordneten spiegeln die im Plenum geführten Debatten wider, insbesondere zu den Themen Rentenreform, Wirtschaftspolitik und internationaler Handel. Bundeskanzler Friedrich Merz positionierte sich klar für eine umfassende Rentenreform mit stärkerer Betonung der kapitalgedeckten privaten und betrieblichen Vorsorge, während er gleichzeitig Kürzungen im EU-Haushalt fordert und die Wettbewerbsfähigkeit Deutschlands stärken will. Leif-Erik Holm von der AfD kritisierte die Regierung scharf für ihre Wirtschaftspolitik und fragte nach den Finanzierungsgrundlagen der Rentenreform. Sebastian Roloff von der SPD setzte sich für eine europäische Beschaffungsmaxime ein, um die heimische Industrie zu stärken. Ricarda Lang von Bündnis 90/Die Grünen thematisierte soziale Aspekte, insbesondere bei der Rente und der Unterstützung Bedürftiger. Stefan Seidler, fraktionslos, lehnte eine automatische Kopplung des Rentenalters an die Lebenserwartung ab.",
+  "sources": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bundeskanzler Merz betonte die Notwendigkeit einer umfassenden Rentenreform, die auf eine stärkere Kapitaldeckung durch private und betriebliche Vorsorge setzt, und kündigte an, die Rente noch 2026 auf den Weg zu bringen. Er forderte zudem massive Kürzungen im EU-Haushalt und eine Stärkung der Wettbewerbsfähigkeit Deutschlands.",
+      "source_title": "Merz kündigt Einleitung einer umfassenden Rentenreform noch dieses Jahr an / Merz fordert massive Kürzungen im EU-Haushalt und Bürokratieabbau",
+      "url": "https://hasepost.de/merz-fordert-massive-kuerzungen-im-eu-haushalt-und-buerokratieabbau-736268/",
+      "platform": "Website"
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Holm kritisierte die Bilanz der Regierung nach einem Jahr scharf und bezeichnete diese als gescheitert. Er hinterfragte die Rentenreformpläne hinsichtlich der Finanzierung und sparte nicht mit Kritik an der Wirtschaftspolitik und den Umfragewerten der Regierung.",
+      "source_title": "Leif-Erik Holm - Profil bei abgeordnetenwatch / AGI Profiles: Leif-Erik Holm",
+      "url": "https://americangerman.institute/2026/03/agi-profiles-leif-erik-holm/",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": true,
+      "statement": "Roloff thematisierte den Verlust von Arbeitsplätzen durch Konkurrenz aus China und forderte eine \"Buy European\"-Maxime in der öffentlichen Beschaffung. Er hinterfragte auch die Transparenz des Informationsfreiheitsgesetzes.",
+      "source_title": "Sebastian Roloff - Profil bei abgeordnetenwatch / Sebastian Roloff, MdB - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/abgeordnete/roloff",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Lang kritisierte eine \"harte Sparpolitik\" zu Lasten Bedürftiger und forderte eine Korrektur, unter anderem durch eine Erbschaftsteuerreform. Sie unterstützte Waffenlieferungen an die Ukraine.",
+      "source_title": "Ricarda Lang - Profil bei abgeordnetenwatch / Ricarda Lang - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Ricarda_Lang",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Stefan Seidler",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Seidler lehnte eine automatische Kopplung des Rentenalters an die Lebenserwartung ab und betonte die Wichtigkeit von Transparenz und Nachvollziehbarkeit in der Politik, weshalb er eine Abschwächung des Informationsfreiheitsgesetzes ablehne.",
+      "source_title": "Stefan Seidler - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/stefan-seidler",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

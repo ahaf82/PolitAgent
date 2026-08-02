@@ -1,0 +1,95 @@
+{
+  "synthesis": "Die externen Aussagen der identifizierten Bundestagsabgeordneten zum Thema \"Verschärfungen bei Krankschreibungen\" spiegeln die im Plenum geäußerten Positionen wider. Die Grünen-Politikerin Ricarda Lang und der AfD-Abgeordnete Martin Sichert äußern sich kritisch und warnen vor einer Überlastung der Ärzte sowie einem Misstrauen gegenüber Bürgern. Die CDU/CSU-Politikerin Simone Borchardt und Marc Biadacz betonen die Notwendigkeit einer Rückkehr zu verlässlichen Regeln und verweisen auf internationale Vergleiche. Jan Dieren von der SPD äußert Bedenken bezüglich der Attestpflicht ab dem ersten Tag, während Julia-Christina Stange von Die Linke die Maßnahmen als Ausdruck von Misstrauen und Verschärfung sozialer Ungleichheiten kritisiert.",
+  "sources": [
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Felix Banaszak",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Simone Borchardt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Simone Borchardt betont, dass die geplanten Verschärfungen bei Krankschreibungen keine Vertrauensfrage seien, sondern eine Rückkehr zu einem verlässlichen Normalzustand nach der Pandemie darstellen. Sie verweist auf strengere Regelungen in anderen europäischen Ländern wie Italien, Schweden und Frankreich, wo eine Arbeitsunfähigkeitsbescheinigung seriös festgestellt werden müsse.",
+      "source_title": "Simone Borchardt MdB – Gesundheitspolitische Sprecherin CDU/CSU",
+      "url": "https://www.simone-borchardt.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Marc Biadacz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Marc Biadacz betont, dass das Vertrauen im Arbeitsverhältnis keine Einbahnstraße sei und Arbeitgeber darauf vertrauen müssten, dass Arbeitsunfähigkeit ordentlich festgestellt wird. Er positioniert sich für eine Rückkehr zu einem verlässlichen Normalzustand und verweist auf das Programm für Aufschwung und Beschäftigung.",
+      "source_title": "Marc Biadacz | Ihr direkt gewählter CDU-Bundestagsabgeordneter",
+      "url": "https://marc-biadacz.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Hülya Düber",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Sichert kritisiert die Pläne zur verpflichtenden Krankschreibung ab dem ersten Tag als \"völligen Wahnsinn\", der Hausärzte massiv überlasten und zu einer Misstrauenskultur führen würde. Er betont, dass die bestehende Regelung im Entgeltfortzahlungsgesetz ausreichend sei und die neuen Maßnahmen unnötig seien.",
+      "source_title": "Pläne der Bundesregierung zu Krankschreibung ab 1. Tag sind völliger Wahnsinn - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/plaene-der-bundesregierung-zu-krankschreibung-ab-1-tag-sind-voelliger-wahnsinn-2/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Peter Bohnhof",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Hans-Jürgen Goßner",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jan Dieren",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jan Dieren äußert Bedenken bezüglich der Attestpflicht ab dem ersten Tag, die zu Kopfschütteln führe und die Gefahr berge, dass die Zahl der Krankentage steigt. Er kritisiert, dass dies zu einem Generalverdacht gegen alle Beschäftigten führen könne und kämpft dafür, dass die Einführung von Karenztagen, wie sie in der Vergangenheit stattfanden, verhindert wird.",
+      "source_title": "Jan Dieren: Startseite",
+      "url": "https://www.jan-dieren.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Julia-Christina Stange",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Julia-Christina Stange kritisiert die Maßnahmen als Ausdruck von Misstrauen gegenüber Arbeitnehmern und als Verschärfung sozialer Ungleichheiten, insbesondere für Frauen und Menschen mit geringem Einkommen. Sie betont, dass Gesundheit von sicheren Arbeitsplätzen und fairem Lohn abhänge und die Regierung die wahren Probleme angehen müsse, anstatt \"Phantomdebatten\" zu führen.",
+      "source_title": "Teilkrankschreibung: Einfallstor für rücksichtslose Arbeitgeber - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

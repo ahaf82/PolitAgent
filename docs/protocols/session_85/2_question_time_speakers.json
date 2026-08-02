@@ -1,0 +1,104 @@
+{
+  "synthesis": "Die Debatte zur Fragestunde im Deutschen Bundestag am 24. Juni 2026 drehte sich primär um Präventionspolitik im Gesundheitsbereich und Hitzeschutzmaßnahmen. Abgeordnete verschiedener Fraktionen äußerten sich zu den Finanzierung von Präventionsmaßnahmen, Strukturreformen in der GKV, Regulierungen für ungesunde Produkte sowie spezifische Hitzeschutzpläne. Außerhalb des Plenums äußerten sich die Abgeordneten ähnlich, wobei die Grünen-Abgeordneten wie Johannes Wagner und Dr. Zoe Mayer stärker auf die Notwendigkeit von präventiven Maßnahmen und gesunder Ernährung pochten, während die AfD-Abgeordneten wie Dr. Ingo Hahn die Effektivität der Ausgaben hinterfragten. Tino Sorge von der Regierung verteidigte die geplanten Maßnahmen und finanzielle Notwendigkeiten.",
+  "sources": [
+    {
+      "name": "Tino Sorge",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Tino Sorge, als Parlamentarischer Staatssekretär, verteidigte die finanzielle Stabilität der Gesetzlichen Krankenversicherung (GKV) und die Notwendigkeit von Präventionsmaßnahmen. Er betonte die geplanten Ausgaben und die rechtfertigte GKV-Stabilisierungsgesetzgebung.",
+      "source_title": "Tino Sorge – Parliamentary State Secretary | BMG - Bundesministerium für Gesundheit",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Johannes Wagner hob die Bedeutung von Prävention hervor und kritisierte Sparprogramme, die diese schwächen könnten. Er betonte die Notwendigkeit, die Verantwortung der Industrie für Suchtmittel stärker einzubinden und forderte konkrete Maßnahmen für den Hitzeschutz.",
+      "source_title": "Johannes Wagner | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/details/dr-janosch-dahmen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Zoe Mayer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Zoe Mayer kritisierte, dass ungesunde Lebensmittel oft die einfachste und günstigste Wahl sind und forderte konkrete Maßnahmen für gesündere Ernährung im Alltag, wie eine Mehrwertsteuerreform und verbindliche DGE-Standards, um Jugendliche besser vor der Tabakindustrie zu schützen.",
+      "source_title": "Dr. Zoe Mayer, MdB, BÜNDNIS 90/DIE GRÜNEN - DIP - Deutscher Bundestag",
+      "url": "https://dip.bundestag.de/aktivit%C3%A4t/dr-zoe-mayer-mdb-b%C3%BCndnis-90-die-gr%C3%BCnen/1787156?term=Konsumcannabisgesetz&rows=25&pos=12&ctx=d",
+      "platform": "Website"
+    },
+    {
+      "name": "Linda Heitmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Linda Heitmann thematisierte den hohen Alkoholkonsum in Deutschland und erkundigte sich nach konkreten Maßnahmen zur Alkoholprävention und einem möglichen Alkoholpräventionsgesetz.",
+      "source_title": "Linda Heitmann MdB Bündnis90/Die Grünen",
+      "url": "https://linda-heitmann.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Janosch Dahmen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Janosch Dahmen betonte die Dringlichkeit des Hitzeschutzes und forderte klare Ratschläge für die Bevölkerung. Er sprach sich zudem für verbesserte sekundäre und tertiäre Präventionsmaßnahmen zur Senkung der Krankheitslasten aus und reichte einen Eilantrag gegen das GKV-Beitragssatzstabilisierungsgesetz ein.",
+      "source_title": "Bundestag: Grünen-Abgeordneter Janosch Dahmen reicht Eilantrag gegen GKV-Gesetz ein",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Ingo Hahn stellte die hohen Ausgaben für Präventionsmaßnahmen in Frage und forderte eine Überprüfung ihrer Wirksamkeit, um Bürokratie zu vermeiden und Beitragszahler zu entlasten. Er bezweifelte den Erfolg der Cannabis-Teillegalisierung und forderte deren Rücknahme.",
+      "source_title": "1ST DEMOCRACY CONGRESS - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/wp-content/uploads/2026/06/va-1-demokratiekongress-260626_einladung_din-a5-EN_v8.0.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stella Merendino",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Stella Merendino kritisierte Kürzungen im Gesundheitswesen, die zulasten von Pflegekräften und Patienten gingen, sowie die Abschaffung von Personalschlüsseln. Sie warf dem Ministerium einen abfälligen Umgang mit Menschen vor.",
+      "source_title": "Reden - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/stella-merendino/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Hendrik Streeck",
+      "party": "FDP",
+      "found": true,
+      "statement": "Dr. Hendrik Streeck betonte, dass bei Suchterkrankungen polizeiliche Repressionen allein nicht ausreichen und Substitution sowie Suchthilfe ausgebaut werden müssten. Er korrigierte eine falsche Darstellung seiner Position zum Zürcher Modell.",
+      "source_title": "Statement by Mr. Hendrik Streeck, Federal Government's Commissioner for Drug and Addiction Policy at the general debate of the 69th session of the United Nations Commission on Narcotic Drugs, 9-13 March 2026, Vienna",
+      "url": "https://estatements.un.org/estatements/31.0365/20260309100000000/C-VopVlrp/-HAXxJvfsvmq_vna_en.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julia Schneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Julia Schneider äußerte sich kritisch zu Hitzeschutzmaßnahmen und warf einem Umweltminister vor, diese zu bagatellisieren. Sie betonte die Notwendigkeit, Politik nicht nur die nächste Wahl, sondern die Lebensgrundlage zukünftiger Generationen im Blick zu haben.",
+      "source_title": "Aktuelles - Julia Schneider MdB",
+      "url": "https://www.juliaschneider.info/aktuelles",
+      "platform": "Website"
+    }
+  ]
+}

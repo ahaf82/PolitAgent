@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Bundestagsabgeordneten zum Thema KI-Standort Deutschland und technologischer Souveränität spiegeln die im Plenum geführten Debatten wider. Die AfD-Vertreter betonten die Notwendigkeit eines nationalen Aufbruchs und kritisierten die EU-Bürokratie, während sie gleichzeitig Forderungen nach Kernkraft und einer Abkehr von Sanktionen äußerten. Die Regierungsparteien und die Oppositionsparteien warnten vor den Gefahren von KI für die Demokratie, betonten die Wichtigkeit europäischer Zusammenarbeit und erneuerbarer Energien. Es gab auch Kritik an der AfD-Politik, insbesondere im Hinblick auf Russland und die Verharmlosung von Desinformationskampagnen. Die Abgeordneten betonten in ihren Stellungnahmen die Bedeutung von Forschung, Entwicklung und der Schaffung geeigneter Rahmenbedingungen, um Deutschland als KI-Standort zu stärken.",
+  "sources": [
+    {
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ruben Rupp äußerte sich kritisch zur aktuellen KI-Strategie der Regierung und forderte einen nationalen Aufbruch mit günstiger Energie, inklusive Atomkraft, und eine Entbürokratisierung der EU. Er betonte die Notwendigkeit eigener KI-Modelle, um nicht von den USA und China abhängig zu sein. Auf Abgeordnetenwatch gab er an, dass eine automatische Kopplung des Renteneintrittsalters an die Lebenserwartung abzulehnen sei.",
+      "source_title": "Abgeordnetenwatch: Fragen und Antworten",
+      "url": "https://www.abgeordnetenwatch.de/profile/ruben-rupp/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Ralph Brinkhaus",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Ralph Brinkhaus sieht KI als eine fundamentale Disruption, die über die industrielle Revolution hinausgeht und tiefgreifende gesellschaftliche und soziale Herausforderungen mit sich bringt, insbesondere im Hinblick auf Arbeit und soziale Sicherungssysteme. Er betont die Notwendigkeit, Eigentumsfragen im KI-Bereich zu klären und bezeichnet den AfD-Antrag als falsche Darstellung Deutschlands und Europas.",
+      "source_title": "CDU/CSU Landesgruppe NRW",
+      "url": "https://cdu-landesgruppe-nrw.de/mitglied/ralph-brinkhaus",
+      "platform": "Website"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Rebecca Lenhard kritisiert die nationalen Alleingänge der AfD und betont, dass nur ein starkes Europa im globalen Wettbewerb bestehen könne. Sie lehnt die Forderung der AfD nach einer Aufhebung von Sanktionen gegen Russland ab und kritisiert deren Energiepolitik (Atomkraft), während sie erneuerbare Energien befürwortet. Auf Abgeordnetenwatch hat sie bisher keine Fragen zur KI beantwortet.",
+      "source_title": "Abgeordnetenwatch: Fragen und Antworten",
+      "url": "https://www.abgeordnetenwatch.de/profile/rebecca-lenhard/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Carolin Wagner kritisiert die AfD für ihre Energiepolitik (Atomkraft) und mangelnde Berücksichtigung von KI-Risiken für die Demokratie. Sie betont die Notwendigkeit erneuerbarer Energien für Rechenzentren und kritisiert die AfD für wirtschaftliche Abhängigkeiten von Russland. Auf Abgeordnetenwatch zeigt sie eine Zustimmung zur Unterstützung der Ukraine und lehnt eine generelle Geschwindigkeitsbegrenzung ab.",
+      "source_title": "Abgeordnetenwatch: Abstimmungen",
+      "url": "https://www.abgeordnetenwatch.de/profile/carolin-wagner/abstimmungen",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Donata Vogtschmidt kritisiert die AfD für ihr mangelndes Verständnis von globaler Zusammenarbeit und Softwareentwicklung, betont die Bedeutung von Open Source und lehnt Sanktionslockerungen gegenüber Russland ab. Sie warnt vor den Gefahren von KI für die Demokratie und fordert stärkere Regulierung. Auf ihrer Webseite setzt sie sich für Diplomatie und internationale Zusammenarbeit ein und warnt vor massenhaften Scans privater Kommunikation durch eine 'Chatkontrolle'.",
+      "source_title": "Donata Vogtschmidt: Home",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Thomas Jarzombek",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Thomas Jarzombek betont, dass der Staat Unternehmen im Bereich KI nicht behindern dürfe und verweist auf staatliche Maßnahmen zur Bürokratieentlastung und zur Schaffung von Rahmenbedingungen. Er hebt die Bedeutung von KI-Inhalten, Kennzeichnungspflichten und den Ausbau von Rechenzentren hervor. Auf seiner Webseite äußert er sich zu den Projekten des neuen Digitalministeriums und betont die Wichtigkeit von Digitalisierung und Technologie.",
+      "source_title": "Thomas Jarzombek | CDU Nordrhein-Westfalen",
+      "url": "https://www.cdu-nrw.de/thomas-jarzombek-0",
+      "platform": "Website"
+    },
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Robin Jünger kritisiert die EU-Bürokratie und das KI-MIG, fordert Kernkraft zur Energieversorgung für Rechenzentren und plädiert für Bürokratieabbau und die Förderung von Wachstumskapital. Er wirft der Regierung vor, Innovation zu regulieren und Deutschland zur 'digitalen Kolonie' zu machen. Auf seiner Webseite betont er die Bedeutung von KI-Kompetenzvermittlung und digitaler Souveränität.",
+      "source_title": "Robin Jünger, MdB – Bundestagsabgeordneter für Gießen",
+      "url": "https://robin-juenger.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Matthias David Mieves",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Andrea Lübcke",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

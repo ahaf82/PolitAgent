@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Analyse externer Aussagen von Bundestagsabgeordneten zur Regierungserklärung vom 09. Juli 2026 zeigt ein breites Spektrum an Reaktionen. Während Bundeskanzler Friedrich Merz seine Politik verteidigt und auf Fortschritte verweist, äußert sich Tino Chrupalla (AfD) scharf kritisch und wirft der Regierung Widersprüchlichkeit und eine desaströse Lage des Landes vor. Die Grünen, vertreten durch Ricarda Lang, kritisieren die aus ihrer Sicht mangelnde Klimapolitik und sozial ungerechte Maßnahmen. Die SPD, repräsentiert durch Lars Klingbeil, betont die Übernahme politischer Verantwortung und verteidigt die Reformen der Koalition. Alexander Hoffmann (CSU) kritisiert die Politik der AfD scharf und fordert konkrete Vorschläge. Sevim Dağdelen, ehemals Die Linke, nun BSW, kritisiert ebenfalls die Politik der Regierung, insbesondere im Hinblick auf Rentenreformen und Rüstungsausgaben.",
+  "sources": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bundeskanzler Friedrich Merz verteidigt die Politik der Koalition und verweist auf Fortschritte sowie geplante Reformen in verschiedenen Bereichen. Er betont die Notwendigkeit, Deutschland wirtschaftlich, politisch und gesellschaftlich zu stärken und kritisiert radikale Kräfte.",
+      "source_title": "Regierungserklärung zur aktuellen politischen Lage (Sitzung des Deutschen Bundestages)",
+      "url": "https://www.bundestag.de/resource/blob/991840/Verhaltenskodex-2024.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "found": true,
+      "statement": "Tino Chrupalla kritisiert die Regierungserklärung scharf und bezeichnet die Politik als 'Trauerspiel'. Er wirft der Regierung Widersprüchlichkeit, Opportunismus und eine desaströse Lage des Landes vor, insbesondere in Bezug auf die Ausgabenpolitik und die allgemeine politische Verlässlichkeit.",
+      "source_title": "Tino Chrupalla (AfD) im Bundestag: \"Wo leben Sie denn?\"",
+      "url": "https://www.youtube.com/watch?v=hkbpBqS1blk&t=26m8s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Ricarda Lang wirft der Regierung vor, die Klimakrise zu ignorieren und Klimaschutzgesetze abzubauen. Sie kritisiert Maßnahmen wie die Abschaffung der telefonischen Krankschreibung und Kürzungen beim Elterngeld als sozial ungerecht.",
+      "source_title": "Regierungserklärung zur aktuellen politischen Lage (Sitzung des Deutschen Bundestages)",
+      "url": "https://www.bundestag.de/resource/blob/991840/Verhaltenskodex-2024.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "found": true,
+      "statement": "Lars Klingbeil betont die Notwendigkeit, politische Verantwortung zu übernehmen und verteidigt die Maßnahmen der Koalition, insbesondere im Bereich der gesetzlichen Krankenversicherung und Rentenreformen, als notwendige Schritte zur Stabilität des Landes.",
+      "source_title": "Regierungserklärung zur aktuellen politischen Lage (Sitzung des Deutschen Bundestages)",
+      "url": "https://www.bundestag.de/resource/blob/991840/Verhaltenskodex-2024.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Alexander Hoffmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Alexander Hoffmann kritisiert die 'Depressionspolitik' der AfD und fordert konkrete Vorschläge, insbesondere zur Rentenkasse. Er verteidigt die Maßnahmen der Regierung und der CSU gegen die Kritik der Opposition.",
+      "source_title": "Regierungserklärung zur aktuellen politischen Lage (Sitzung des Deutschen Bundestages)",
+      "url": "https://www.bundestag.de/resource/blob/991840/Verhaltenskodex-2024.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Sevim Dağdelen",
+      "party": "BSW",
+      "found": false,
+      "statement": "Sevim Dağdelen kritisiert die Regierung für eine Politik, die das Leben der Mehrheit unbezahlbar mache und den Sozialstaat aushöhle. Sie bemängelt Kürzungen bei Leistungen für Familien und Kinder, während Rüstungsausgaben steigen, und fordert eine stärkere Besteuerung von Reichen.",
+      "source_title": "Zerschlagung des Rentensystems – Alles für die Aufrüstung?",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+[0:00] Hallo zusammen, ich habe hier jetzt meinen neuen Mini PC bekommen. Warum ich den bestellt habe, erzähle ich euch gleich und dann erkläre euch, was ich
+[0:08] damit alles vor habe. Den machen wir jetzt mal auf und schauen uns genau an, was da drin ist.
+[0:24] So, hier haben wir mal das die Häuser.
+[0:38] Ihr seht hier das jetzt ein gebrauchter Think Center von Lenovo.
+[0:45] Den habe ich mir jetzt geholt, weil ähm der relativ günstig hergegangen ist. Im Gegensatz jetzt beispielsweise zu einem
+[0:52] Mac Mini oder einzelne Grafikkarte, die man s dass ich auch nur reinbauen könnte, ist es das einfach die kostengünstigste Variante. Ich will ja
+[1:01] einfach meine Politagenten auflaufen lassen, private Daten vielleicht da wegspeichern. Ich musste jetzt kein Large Language Model drauf laufen
+[1:10] lassen. Ich könnte mir dann ein kleines später rausspielen. Dazu müsst ihr aber den RAM noch erweitern. Hier sind jetzt gerade mal 8 GB RAM drinnen. Äh, aber es
+[1:18] ist dafür ein i7 Prozessor der achten Generation drin. Das war mir wichtig, weil ich dann viele Sachen gleichzeitig laufen lassen kann. Ihr seht hier, also
+[1:27] wie gesagt, ist so ein kleiner Miniaauer.
+[1:31] Ähm, ist ein vollfunktionsfähiger Rechner.
+[1:36] Sieht hier haben wir auch mehr Anschlüsse hätten auch mehr Platz noch zusätzliche Festplatten reinzubauen.
+[1:44] Ich will den dann einem Netzwerk bei mir zu Hause anschließen und den als fern gesteuerten Rechner als
+[1:52] Homeserver benutzen und werde euch in den nächsten Videos vorstellen, wie mir das vorstellen und wie es funktionieren soll. Ich mach den hier jetzt auf bei den Schrauben.
+[2:04] Seh jetzt mein Tool. Könnt es zwar auch teilweise von Hand öffnen, aber mit einem Tool ist einfacher.
+[2:11] Passt mal auf.
+[2:35] Schauen da rein.
+[2:39] Ah ja, zu mir ziehen. Okay, auf zur Seite.
+[2:46] Okay. Da drin Lüfter. Hier kann man drücken.
+[2:54] Aha, okay. Die geht die Vorderseite ab. Ziemlich einfach.
+[3:00] Okay, damit ist das schon mal ab.
+[3:06] So. Und ich kann hier jetzt einfach mal öffnen.
+[3:14] Damit sehen wir da ins Innenleben. Sehen den Ramriegel, der da drinnen ist. Hier ist da. Den nehmen wir mal raus.
+[3:20] Ich will ja sehen. Bin immer neugierig.
+[3:24] Sehe hier aber mehrere Steckblitze auch natürlich mindestens zwei.
+[3:30] Was der Dritte hier macht, muss ich rausfinden. Oder sind sogar vier Steckplätze?
+[3:35] Ach krass. Vier. Okay. Okay. Was haben wir denn hier? Hier der RAMriegel von Samsung. 8 GB
+[3:43] 2666 Hz. Da werde ich schauen, dass ich noch einen zweiten krieg. Muss mir mal informieren, ob ich da vielleicht sogar vier einbauen kann, weil wie man sieht,
+[3:53] sind hier vier Steckplätze. 1 2 3 4 Geil, das war der Hammer.
+[3:59] Okay, da Lüftung hier, die Festplatte, das wusste vorher schon. Das sind ja
+[4:09] dann weß eine SA Festplatte 256 GB RAM. Ja, schauen wir uns an, was wir dazu bauen. Auf jeden Fall habe ich
+[4:17] jetzt hier die Möglichkeit in dem Minitower noch äh kräftig dazu zu bauen.
+[4:22] Als erstes will ich mal aber anschauen, wie das, was bisher da ist, schon funktioniert und dann schauen mal, ob ihr dann direkt vielleicht hier eine zweite zweiten Rammriegel kriegt, dass
+[4:30] sie dann später auch mal sowas wie Antigravity drauf laufen lassen kann. kennt er ja schon von Politagenten.
+[4:37] Damit kann ich dann ähm Agenten halt drauf schön GUI gesteuert, also von der Oberfläche gesteuert von
+[4:45] Antigravity laufen lassen. So, der kommt wieder rein.
+[4:54] Geil.
+[4:58] So, schauen wir mal, dass wir es richtig rummachen.
+[5:03] Ich werde jetzt gerne mal ein Foto machen und mir dann von der KI sagen lassen, was denn die Maximalbestückung für den Rechner sein könnte für das
+[5:10] Türmchen. Dann machen wir den zu und schauen mal, ob Windows 11 halbwegs läuft und vielleicht dann auch schon die ersten Tests, was man dann zusätzlich
+[5:19] installieren kann und schauen dann, ob man dann vielleicht schon ans Netzwerk kriegt und unten laufen lassen kann.
+[5:25] Vielleicht komme ich da schon entfernt drauf. Wäre ja geil. So, das machen wir jetzt ganz genau. Schauen noch mal.
+[5:32] Machen ein kleines Video.
+[5:38] Schauen, dass man die Steckplätze da sieht, was schon drin ist. Okay.
+[5:46] Und dann kann wir die KI bestimmt gleich sagen, was hier noch dazu passt. Hier die Festplatte 256 GB RAM.
+[5:56] Genau. Ich habe jetzt hier noch ein Stromkabel.
+[6:07] Schließ gleich den Rechner an. Natürlich auch noch mit Monitor und Tastatur und schauen mal, wie das vorinstallierte
+[6:14] Windows 11 drauf läuft und wie man da direkt ein paar Upgrades dann vielleicht machen kann und das ins Netzwerk hängen kann. wohl dem der noch alte VGA Kabel
+[6:24] im Keller hat und schon sind wir start klar.
+[6:34] Das sieht doch gut aus. Nice.
+[6:40] Hier drauf packen wir jetzt schön mal die Ubun Servervsion, die kommt dann auf die Mini PC. Ubunto ist jetzt auf dem Stick, heißt wir ziehen den raus.
+[6:53] Geh nach hinten, stecken das da mal ins Mainboard
+[7:02] direkt da rein und dann fahren wir das Teil mal hoch.
+[7:08] Aus an.
+[7:14] Schön F12 drücken 1000 mal.
+[7:22] dass er auch weiß, dass er booten soll.
+[7:25] Oh ja, Boot Manager Network 1, nazo.
+[7:33] Da haben wir so try.
+[7:43] So, wenn der Server installiert ist, dann werde ich tatsächlich als nächstes schauen,
+[7:51] wie ich da mit dem Thermel hier klar kommme und vielleicht dann auch bald Englisch ist völlig okay.
+[8:03] Ja, ich nehme das so habe ich noch nicht gemacht.
+[8:13] PV6 Automatic soll er sich da reinhängen
+[8:21] jetzt schon funktionieren. Not connected. Wer nachher an den Router hängt sollte ich ja rauskriegen, wie es geht unten im Keller.
+[8:31] So, okay, wie ihr gesehen habt, ist die Netzwerk ist sollte direkt dann den
+[8:40] Router anschließen. Gott sei Dank habe jetzt, ihr könnt jetzt auch hier unten in Keller bringen. Ihr kennt das schon hier vom anderen Video, ne? Mein Gasthamme.
+[8:50] Da kommt gleich Info aus dem nächsten Video oder fürs nächste Video und den W kennt auch schon. Okay, es ist ein bisschen nörerdig und ein bisschen schräg, aber es ist außer mir gerade
+[8:59] keiner zu Hause. Mir dacht, nehmen wir doch einfach mal so ein 10 m Kabel schwup die wup und zack, die angeschlossen.
+[9:10] Jetzt bin im Menü noch mal ein bisschen zurückgesprungen und tada, wie ihr seht, haben wir jetzt schon eine
+[9:18] Netzwerkadresse. So, das sollt ihr überspringen. Ah, Mirror Location being tested.
+[9:26] Scha an. Aha. Reading package list.
+[9:33] Ah, hier wird weiterinstalliert. Cool. Jo.
+[9:38] Ach so, wahrscheinlich ist es schon dann blöd. Was ist denn jetzt? Reading package Lists.
+[9:46] Bam. Hier ist ein Entiisk.
+[9:52] So, wir haben festgestellt, wir sollen die ganze Disk nehmen. Machen wir jetzt auch. Mal schauen. Local Disc 238,474 GB. Mal schauen, ob man es merken kann.
+[10:03] Enter Disk. Dann unten gibt's ja dieses Dun springen weiter.
+[10:09] Dann hat er gesagt, ah, ich soll da aufpassen. Das heißt da oben Edit
+[10:19] 200 g hat er gesagt. So, dann safe.
+[10:25] Format hat er da war nichts. Okay, safe.
+[10:32] So, haben wir hier die vollen zugewiesen.
+[10:36] Das sage ich jetzt einfach dann Installation process. Okay, so möchte ich das.
+[10:52] Okay, das nenne ich Ahah 82. So nenne ich mich an viel Stellen.
+[11:03] Ähm Ahaf 82 Server.
+[11:13] So, dann nehmen wir vielleicht mein richtigen Namen. H so
+[11:20] Username soll nicht missing sein.
+[11:31] Da habe ich mein Spezialpasswort. Schauen mal dann.
+[11:40] Leertaste.
+[11:42] Got es ist Hi da auf.
+[11:53] Wobei das ist ja eigentlich mein Gitubername. Checkt er das?
+[12:02] Okay. Fetscht.
+[12:05] So, davon will ich jetzt gar nichts aus hat's geheißen. Gehen wir unten auf dann.
+[12:13] Okay, Final System Configuration. Ich denke, wir sind jetzt bald soweit.
+[12:23] Wenn der durch ist, dann kommt da runter im Keller. Muss ich einmal noch aufpassen.
+[12:30] Wahrscheinlich sollte ich dafür noch meinen Switch kaufen günstigen, dass ich da unten verteilen kann, weil ich sonst auch im restlichen Haus alles
+[12:38] verteile an Netzwerk, dass es wirklich genug Anschlüsse noch
+[12:45] sind am Router und dann müsste ich eigentlich
+[12:52] den ja hier vom Laptop übers WLAN aus erreichen können. Dann muss ich nur schauen, dass er vielleicht aus dem Web erreichbar ist. Das kann ich auch gleich
+[13:01] schauen. Und dann gab es noch die Idee, dass ich mir meinen Workspace immer klone. Wobei da kann es sein, dass mir die Festplatte im Moment, du hast ja
+[13:09] gesehen, sind 200 GB Speicher im Moment drauf, noch zu klein ist.
+[13:24] Jetzt hast du schon zu viel gesehen. Ach. Aber ich kann es ja ausblenden.
+[13:32] Habe ich jetzt nicht bedacht.
+[13:38] Und da sind wir. Cool. Jo, das heißt, ich werde jetzt direkt
+[13:45] versuchen, das unten hinzubauen und dann versuchen wir da über ein Laptop reinzukommen. So, einmal stoppen. So, ich bin drin.
+[13:54] Und jetzt sudo Power Off.
+[14:00] Okay, Sudo ist ja Admin Kommando.
+[14:07] So, das sieht doch gut aus. Oh, schön ausgelockt und runtergeschalen.
+[14:13] Uiui, das werden immer weniger freinetzwerk Kabel zu Hause.
+[14:18] So, und jetzt s mein Netzwerk hier hinten dran. Zack, gerade hingestellt. Ja, okay.
+[14:27] Leuchtet. Schauen wir mal. Mach mal den Kollegen an.
+[14:34] So, zack.
+[14:38] Fährt hoch. Jetzt kann man gleich oben schauen, ob da Verbindung da ist. So ein alten Router noch gefunden, den jetzt das Switch missbrauche. Hoffe, das
+[14:46] funktioniert nicht technisch. So, da ist es wieder. Da ist jetzt praktisch der Home Server, der läuft verbunden über
+[14:54] ein Switch, also Router, alten Router mit dem neuen Router, Netzwerk, Strom, alles da. Dann schauen wir mal, wie man jetzt erreichen.
+[15:06] Ah, das vergessen man gerade mal. Ich gebe das ja
+[15:19] 195. Ja, ich möchte rennen.
+[15:27] Äh noch mal. Yes. Wow, ich bin drin.
+[15:36] Cool.
+[15:37] Das ist das Server. Jetzt sind wir wieder im Keller. Paar Tage sind vergangen. Ihr wisst Rechner, der hat gerade 8 GB RAM. Das zeige ich euch
+[15:45] jetzt mal kurz am Rechner und habe aber heute ein neues Paket bekommen. Hab es
+[15:51] erzählt 216 GB RAMriegel für 105 € oder was ich damit Versand bezahlt habe. Also jetzt nicht die Menge, die packen wir
+[15:59] gleich aus und dann schauen wir, ob die passen und wie schön der Speicher dann. Hoffentlich steigt der Arbeitsspeicher.
+[16:06] Ich habe jetzt hier den Computer. Mache jetzt hier einmal den Terminal auf und dann verbinden wir uns wieder hier mit der Maschine. Man sieht einmal da
+[16:14] oben, dass sie an ist.
+[16:19] Jetzt checken wir einmal kurz den Arbeitsspeicher, wie viel da drauf ist.
+[16:22] Also erst verbinden wir uns natürlich so über SSH.
+[16:29] Und jetzt schauen wir hier free USH in menschlich gut lesbarer Form.
+[16:36] Also wir haben hier links 7,1 GB Arbeitsspeicher, der frei ist. Also der
+[16:44] der den man benutzen kann m ist immer ein bisschen weniger als dann wirklich die Nennleistung. So und da schauen wir jetzt, wie wir das eingebaut kriegen.
+[16:54] Auf jeden Fall müssen wir erst da diesen Rechner wieder ausmachen.
+[16:58] Kennt den Befehl schon. Pudo Power Off.
+[17:05] So, muss einmal kurz hier mein Passwort eingeben.
+[17:14] So, Connection closed. Und ihr seht offenlich da oben. So, jetzt ist ausgegangen. Okay, jetzt kann ich da gleich mal aufmachen. Leg einmal den Rechner beiseite.
+[17:26] Jetzt machen wir da mal auf. Letztes Mal, ich hatte jetzt schon mal äh so ein Pärchen aus Rammregeln
+[17:33] bestellt, die waren leider falsch. Das war ähm registrierter Rammspeicher. Der funktioniert ein bisschen anders. Da ist
+[17:41] hauptsächlich für große Server farmen. M da ist durch die Lastverteilung, die da herrschen muss, ist dann Zusatzchip
+[17:49] drauf, der aber beim normalen Desktop Rechner, wie ich ih habe verhindert, dass er angesprochen werden kann daranel.
+[17:57] So, ein auf.
+[18:02] Oh, extra Paket drinne. Sehr ordentlich verpackt. Vielen Dank auf jeden Fall an den Lieferanten. Ich habe das jetzt privat gekauft. Bin da mutig. Wobei so
+[18:11] schlimm ist es nicht, weil Rammriegel sind relativ äh widerstandsfähig und ich werde jetzt heute über Nacht auf jeden Fall auch ein Lastest darüber laufen
+[18:19] lassen, den wir von der KI vorgeschlagen hab lassen. So, hier die Ramriegel.
+[18:26] So, die mache jetzt gleich auf.
+[18:30] Wenn es die richtigen Rel sind, dann piept der Computer nachher nicht. Beim letzten Mal hat es Problem, dann fing es beim wieder einschalten richtig laut an
+[18:37] zu piepen und ich wusste erst nicht warum und habe mir dann aufklären lassen, dass das einfach die ähm
+[18:45] falschen Ramriegel sind. So, ich mache einmal das Netzkabel ab da hinten.
+[18:53] So, weil wir wollen auf jeden Fall nicht unter Strom arbeiten, das wä mir zu gefährlich.
+[18:59] So, mal raus das zur Seite. Das Netzkabel ist jetzt mal drin.
+[19:06] Könntes Spielchen wahrscheinlich mal sagt mal so die Fingererden, bevor man da so eine Platine anfasst, dass da keine Überspannung entsteht. die weiß nicht, wie weit das wirklich stimmt,
+[19:14] aber ich mach's mal trotzdem, bevor was schief geht. So, dann jetzt schon ein paar mal die Gelegenheit
+[19:22] ergriffen, den zu öffnen. Jetzt weiß ich auch, wie es geht. Relativ einfach. So, ma hier auf. Das letzte Mal jetzt auch
+[19:29] immer nur mal mit der Hand zugedreht, weil ich ja nicht weiß, wie oft der nur dran geheh. Und das ist ja auch ein Bastelwerkzeug so oder ein Bastel
+[19:39] äh Spielzeug. So, auf die lege mal schön daher, dass ich sie gleich wiederfinde.
+[19:48] So, ab ziehen.
+[19:51] So, dann hier raus zur Seite
+[19:59] noch mal drehen nach vorne, dass wir die Vorderseite abkriegen. Das geht aber auch relativ einfach da die drei Schnapper auf.
+[20:07] Dann kriege ich das ganze Ding hier ab.
+[20:14] Hätte es jetzt Krappel doch abmachen sollen. Egal, nichts passiert. Ähm hier auf ein bisschen nach oben drehen, dass was seht. So, zack auf.
+[20:28] Der alte 8 GB Riegel, der kommt raus.
+[20:34] Und ich habe mir von der von Gemini sagen lassen, ich muss jetzt diese beiden Rammriegel, die ich jetzt habe,
+[20:40] in ähm gleichfarbige Slots hier stecken, dass es wirklich in Dual Channel Mode läuft, womit es dann
+[20:49] schneller vom Mainboard angesteuert werden, als wenn ich einmal das äh mixen
+[20:55] würde und das war Sinote und dann wärst du auch natürlich schneller, weil Me Arbeitsspeicher ist, aber äh die
+[21:04] Wirkung ist so besser, wenn es die beiden gleich farbigen Slots sind. So, das pack ich zur Seite einmal.
+[21:13] So, ich glaube, das ist so einmal auch ganz fest reinstecken. Das habe ich auch das
+[21:21] letzte Mal gemerkt, als die falschen Speicher hatte. Einfach so fest, dass es von selber einschnappt. So, und jetzt der zweite.
+[21:33] So, ab. Es kommt auch hier an die Seite.
+[21:42] Ganz fest reinstecken. Da da soll man nicht zu zögerlich sein.
+[21:49] Keine falsche Angst haben, da geht nichts kaputt. So, mach mal zu.
+[21:56] Dann Vorderklappe drauf wieder.
+[22:00] Ich rede übrigens Blödsinn. Ist nicht zwei Kabel hinten. Keine Ahnung, warum das gerade gespannen hat. So.
+[22:07] So, hier rein.
+[22:10] Es ist auch echt cool gebaut. Also, es passt alles.
+[22:15] Moment, wie es soll. So.
+[22:26] meinen alten Arbeitsspeicher packt in einen von den schönen Verpackungen, die gekriegt habe da drauf.
+[22:36] Ja, bisschen drehen, dass ihr da mehr Überblick habt. So.
+[22:48] Na, irgendwo hakt da gerade noch so jetzt aber drauf.
+[22:56] Wieder ordentlich zugeschraubt weiters.
+[23:02] Ich liebe diese Handschrauben. Das ist einfach geil, weil kein zusätzliches Werkzeug benötigen ist immer das Beste. Zack.
+[23:12] Muss man nichts suchen, muss man nachher nichts aufräumen. Genau mein Ding.
+[23:21] Zu. So, jetzt bin ich gleich gespannt. Wie gesagt, das letzte Mal hat's dann ziemlich laut gepiept, weil es der
+[23:28] falsche RAM war. Das ist jetzt jetzt unregistrierter RAM.
+[23:35] Judim RAM. So.
+[23:40] Net zwe Krabbel. Schauen wir mal.
+[23:47] Einmal stellen wir wieder schön her. Mal auf.
+[23:54] Uh uh uh. Jetzt bin ich gespannt. Das ist schon mal besser.
+[24:02] So, jetzt passt auf, der fährt hoch. Das geht aber schnell. Linux System. Ich habe hier wieder meinen Rechner.
+[24:11] So, wieder verbinden. Schauen, ob schon da ist. Da arbeitet er.
+[24:20] Mal gucken.
+[24:21] Hoffentlich ist das kein schlechtes Zeichen.
+[24:30] Okay, ist das Netzwerk gerade richtig drin.
+[24:33] Ja, wir raus. Komm, trau dich.
+[24:42] Boah, er ist drin. So, jetzt passt auf. Gleicher Befehl. Zweimal rauf.
+[24:48] 30 GB. Es hat geklappt. So, und jetzt mache ich da den Lasttest. Da muss ich gleich noch mal die Befehle nachschauen und dann lassen wir das über Nacht
+[24:57] laufen und schauen, ob morgen früh ob das Fehlerfrei gelaufen ist, weil dann wissen wir, dass die Rammriegel einwandfrei. Okay, sind. So, jetzt gehen wir einmal in Anti Gravity rein.
+[25:11] Dann äh habe ich da ja mein YouTube Projekt, wobei sich es im Moment echt nur um Mini PCs handelt, weil ich da ein
+[25:19] bisschen forsch mit euch, was ich machen will.
+[25:25] Ah, Smartgarden hier. Da könnt schon verraten. So, ich suche hier
+[25:36] genau RAM. Da hat ihr wirklich vergleichen lassen, welche Ramme ich nehmen soll.
+[25:44] So, und jetzt schauen wir mal.
+[25:46] Da oben war nämlich der Befehl Memtester. Genau so. Das werde ich
+[25:55] machen. Also erstmal diesen Memtester installieren
+[26:03] und aha, okay, 28 GB mit zwei Durchläufen und danach könnte ich mir noch den butfähigen USB-Stick machen.
+[26:15] Schauen wir mal. Weiß nicht. Jetzt ma aber erstmal diesen Schnelltest schauen, was der sagt. So.
+[26:21] wieder in den Terminal rein reinkopieren.
+[26:36] Installiert ist sieht gut aus. Pudo Mtester 28 G2.
+[26:47] Jetzt bin ich gespannt. Wieder rein.
+[26:56] Okay, also 28672 MB und er hat mehr gekriegt, so wie es ausschaut.
+[27:04] So, ich lass jetzt durchlaufen und wir schauen uns gleich das Ergebnis an.
+[27:08] So, ich habe den Lauf jetzt noch mal gestartet. Jetzt gehen noch mal rein und weil ich da Abbrüche hatte in der
+[27:16] Verbindung, habe ich es anders probiert und zwar mit TMux. Das ist auch so ein Linux Befehl, der ein eigen Session aufmacht, ein eigenes Terminal und jetzt
+[27:25] kann ich damit Tux attach reingehen und überprüfen, ob das so funktioniert hat. Jetzt schauen wir mal.
+[27:33] E, das sieht gut aus da. Das ganz die ganzen Tests sind anscheinend durchgelaufen. Jetzt schauen wir mal.
+[27:40] Kann ich da rauf und runter scrollen bisschen?
+[27:44] Auf jeden Fall Loop 2 von Z. Okay, okay, okay, okay. Dann sieht super aus.
+[27:50] Arbeitsspeicher ist einand frei in Ordnung. Sehr geil. Das ist top. Das heißt, die kann jetzt damit beginnen, den Politagenten drauf laufwähig zu
+[27:57] machen, dass er stand alone läuft, ohne dass ich noch was dazu geben muss, ohne was dazu tun muss, außer ab und zu mal die AP mit Geld füttern und andere
+[28:06] Experimente, die dann ausführen will, aber dazu mehr dann in den nächsten Videos. Ich freue mich, wenn es wieder dabei seid. Bis dann. M.

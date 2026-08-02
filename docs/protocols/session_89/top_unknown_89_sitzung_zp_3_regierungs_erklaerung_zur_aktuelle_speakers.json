@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Abgeordneten Tino Chrupalla (AfD), Dr. Matthias Miersch (SPD), Katharina Dröge (Bündnis 90/Die Grünen) und Jens Spahn (CDU/CSU) waren die Hauptredner in der Debatte zur Regierungs­erklärung. Außerhalb des Parlaments vertraten sie ihre Positionen weiter: Chrupalla kritisierte die Rentenpolitik und steigende Kosten, während Miersch Reformen und soziale Gerechtigkeit verteidigte. Dröge äußerte Bedenken bezüglich der Klimapolitik und Familienleistungen, während Spahn die Bedeutung von nationaler Sicherheit und Wirtschaftskraft betonte. Die Debatte und die anschließenden Stellungnahmen zeigten deutliche politische Gräben und unterschiedliche Prioritätensetzungen der Fraktionen.",
+  "sources": [
+    {
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisierte auf Abgeordnetenwatch die Rentenpolitik und steigende Kosten, betonte aber auch die Notwendigkeit von Gerechtigkeit im Rentensystem. Er äußerte sich auch kritisch zu den Ausgaben der Regierung und der Migrationspolitik.",
+      "source_title": "Profil bei abgeordnetenwatch.de und Medienberichte",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Matthias Miersch",
+      "party": "SPD",
+      "found": true,
+      "statement": "Verteidigte auf Social Media die Reformen der Regierung, insbesondere die Erhöhung der Reichensteuer, und hob die Bedeutung der Gerechtigkeit in der Gesundheitsversorgung hervor. Er betonte auch die Notwendigkeit, Verantwortung in Krisenzeiten zu übernehmen.",
+      "source_title": "Social Media Posts und SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/innenpolitik/dr-matthias-miersch-mdb",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Katharina Dröge",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Äußerte auf ihrer Website und in Pressemitteilungen Kritik an der Klimapolitik der Regierung und den Kürzungen beim Elterngeld. Sie forderte Sofortprogramme zum Hitzeschutz und kritisierte die Prioritätensetzung der Regierung.",
+      "source_title": "Website der Grünen Bundestagsfraktion und persönliche Website",
+      "url": "https://katharina-droege.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Jens Spahn",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betonte auf seiner Website und in sozialen Medien die Bedeutung der NATO und der wirtschaftlichen Stärke Deutschlands, wobei er den Erfolg des NATO-Gipfels hervorhob. Er äußerte sich auch zu aktuellen politischen Themen und verteidigte die Arbeit der Regierung.",
+      "source_title": "Website von Jens Spahn und CDU Nordrhein-Westfalen",
+      "url": "https://www.jens-spahn.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Positionierte sich auf seiner offiziellen Website und in Medienberichten für ein Social-Media-Verbot für Minderjährige und betonte die Notwendigkeit von Kinderschutz. Er warnte auch vor einseitiger Informationsbeschaffung durch soziale Medien.",
+      "source_title": "Pressemeldungen und FOCUS online",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

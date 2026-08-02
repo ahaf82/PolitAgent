@@ -1,0 +1,131 @@
+{
+  "synthesis": "Die Debatte zur Organspende im Bundestag vom 25. Juni 2026 zeigte eine deutliche Spaltung bei der Frage nach der Einführung einer Widerspruchslösung. Während Befürworter wie Sabine Dittmar und Armin Grau auf die dramatische Unterversorgung und die positiven Erfahrungen im Ausland verwiesen, betonten Gegner wie Michael Brand und Dr. Christina Baum die Wichtigkeit der Selbstbestimmung und warnten vor einem staatlichen Eingriff in Grundrechte. Viele Abgeordnete, darunter Kerstin Griese und Ricarda Lang, thematisierten die emotionale Belastung für Angehörige und plädierten für eine Regelung, die mehr Leben rettet, ohne Zwang auszuüben. Kritiker wie Ates Gürpinar und Helge Lindh stellten zudem die Notwendigkeit weiterer struktureller Verbesserungen im Gesundheitssystem in den Vordergrund.",
+  "sources": [
+    {
+      "name": "Gitta Connemann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Gitta Connemann kritisiert die Kirchen für ihre ablehnende Haltung zur Widerspruchsregelung bei der Organspende und plädiert für eine Regelung, bei der jeder 18-Jährige ein Schreiben erhalten soll, dass sein Schweigen als Zustimmung gewertet wird, wenn er nicht widerspricht. Sie betont, dass die bisherigen Maßnahmen nicht zu mehr Spenden geführt haben.",
+      "source_title": "Nach Kritik der Kirchen: Connemann fordert Widerspruchsregel bei Organspende - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Christina Baum",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sabine Dittmar",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sabine Dittmar hebt die alarmierenden Zahlen der Wartelistenpatienten hervor und fordert die Widerspruchsregelung als überfälligen Schritt, der die Selbstbestimmung wahre und die Spenderzahlen erhöhen werde, wie in vielen europäischen Ländern bewiesen. Sie hinterfragt die ethische Konsistenz, Organe von Ländern mit Widerspruchsregelung zu nutzen, aber selbst kein vergleichbares System zu haben.",
+      "source_title": "Debatte um Organspende: „In allen Ländern, die die Widerspruchsregelung haben, haben wir deutlich bessere Spendequoten“ - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Armin Grau",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Armin Grau erklärt, dass die niedrigen Spenderzahlen mit dem unbekannten Willen der Verstorbenen und der Überforderung der Angehörigen bei der Entscheidung zusammenhängen und die Widerspruchsregelung die Last von den Angehörigen nehmen und zu einer Zunahme der Spenderaten führen würde.",
+      "source_title": "Organspende: Was für die Widerspruchsregelung spricht - Deutschlandfunk Kultur",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julia Christina Stange",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Julia Christina Stange betont die Rolle der Widerspruchsregelung, Menschen zur bewussteren Auseinandersetzung mit Krankheit und Sterben anzuregen, und fordert neben einer gesetzlichen Grundlage auch Investitionen in gut ausgestattete Kliniken und bedarfsgerechte Personalschlüssel.",
+      "source_title": "Organspende: Braucht es jetzt die Widerspruchsregelung? - Die Linke im Bundestag",
+      "url": "https://www.youtube.com/watch?v=iF_u9p9f4M4&pp=ygUoSnVsaWEgQ2hyaXN0aW5hIFN0YW5nZSBJbnRlcnZpZXcgT3JnYW5zc2BlbmRl",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Michael Brand",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Michael Brand kritisiert einen massiven Eingriff in die Selbstbestimmung und argumentiert, dass der Mangel an Organen durch moderne digitale Kampagnen und Vereinfachung der Registrierung behoben werden könnte, statt durch Zwang, und betont, dass Schweigen keine Zustimmung bedeuten könne.",
+      "source_title": "Michael Brand fordert „Blockaden und Bürokratie bei Organspenden beseitigen“ | Michael Brand MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Joachim Bloch",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "found": false,
+      "statement": "Helge Lindh hebt die Spannung zwischen Lebensrettung und Privatautonomie hervor und argumentiert, dass eine Widerspruchslösung nicht zwingend sei, da Alternativen zur Verbesserung der Lage ungenutzt blieben, und warnt vor dem Verlust von Vertrauen.",
+      "source_title": "Organspende: Helge Lindh für „bewusste Entscheidung“ - Wuppertaler Rundschau",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Kirsten Kappert Gonter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Kirsten Kappert-Gonther äußert sich persönlich für Freiwilligkeit und bezweifelt die Wirksamkeit der Widerspruchsregelung, da es keine belastbare Evidenz für eine Erhöhung der Organspenden gebe. Sie plädiert stattdessen für bessere Erkennung potenzieller Spender in Kliniken und die Ausweitung des Kriteriums vom Hirntod auf den Herztod.",
+      "source_title": "Freiwilligkeit bei der Organspende sichern | Dr. Kirsten Kappert-Gonther",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Gürpinar",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Gürpinar sieht die Widerspruchsregelung als Ablenkung von strukturellen Problemen und mangelnder Aufklärung und kritisiert, dass sie nur dann zu mehr Organen führe, wenn Menschen unzureichend informiert seien. Er fordert stattdessen Maßnahmen, damit sich alle Menschen aktiv entscheiden können.",
+      "source_title": "Reden - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Thomas Geppert",
+      "party": "FDP",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Reiner Rotfuß",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kerstin Griese",
+      "party": "SPD",
+      "found": false,
+      "statement": "Kerstin Griese erklärt ihren Sinneswandel und ihre Entscheidung, die Widerspruchslösung zu unterstützen, angesichts der Diskrepanz zwischen hoher Spendenbereitschaft und niedrigen Spendenzahlen, betont aber, dass die Entscheidung frei, informiert und jederzeit widerrufbar sein muss.",
+      "source_title": "Gewissensfrage Organspende: Diskussion im Bundestag | Kerstin Griese MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Ricarda Lang argumentiert, dass die Freiheit zur Nichtentscheidung nicht schwerer wiegen dürfe als der Schutz des Lebens und die fehlende Entscheidung den Angehörigen den Entscheidungszwang aufbürde, und plädiert für die Widerspruchslösung, um mehr Leben zu retten.",
+      "source_title": "Lang und Lauterbach fordern Widerspruchslösung bei Organspende - regionalHeute.de",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

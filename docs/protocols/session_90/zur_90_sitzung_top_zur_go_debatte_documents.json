@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/6875",
+      "title": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Bürgerlichen Gesetzbuches, zur Änderung der Verordnung über Heizkostenabrechnung und zur Änderung der Betriebskostenverordnung und zur Änderung der Kehr- und Überprüfungsordnung [Heizungsgesetz]",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F6875&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 20/7619",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Klimaschutz und Energie zu dem Gesetzentwurf der Bundesregierung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F7619&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/6278",
+      "title": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschriften im Wärmebereich",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6278&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 20/14717",
+      "title": "Antrag der Abgeordneten Nicole Höchst, Martin Reichardt, Thomas Ehrhorn, Gereon Bollman und der Fraktion der AfD",
+      "url": "https://dserver.bundestag.de/btd/20/147/2014717.pdf",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/1547",
+      "title": "Antrag der Abgeordneten Martin Reichardt, Alexander Arpaschi, Carolin Bachmann, weiterer Abgeordneter und der Fraktion der AfD: Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag aufheben – Rechtsklarheit und Schutz vulnerabler Gruppen wie Frauen und Jugendlicher wiederherstellen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1547&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Antrag der Koalitionsfraktionen, die zweite und dritte Beratung des Gesetzes zur Änderung des Gebäudeenergiegesetzes (GEG) auf die heutige Tagesordnung zu setzen, wurde nach der Geschäftsordnungsdebatte mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen angenommen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

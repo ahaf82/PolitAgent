@@ -1,0 +1,122 @@
+{
+  "synthesis": "Die externe Kommunikation der Bundestagsabgeordneten zum Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung spiegelt die kontroverse Debatte im Plenum wider. Während Vertreter der Koalition das Gesetz als notwendigen Schritt zur Sicherung der GKV-Finanzen und zur Vermeidung steigender Beiträge darstellen, kritisiert die Opposition es scharf als Sparpaket, das die Versorgung gefährde und die Bürger übermäßig belaste. Insbesondere die Auswirkungen auf Leistungserbringer, Familien und chronisch Kranke sowie die Solidarität im System werden von verschiedenen Seiten unterschiedlich bewertet. Die Debatte zeigt eine klare Polarisierung zwischen denjenigen, die das Gesetz als unumgängliche Maßnahme zur finanziellen Stabilität betrachten, und jenen, die darin eine Gefährdung der Gesundheitsversorgung sehen.",
+  "sources": [
+    {
+      "name": "Albert Stegemann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Stegemann hob die Notwendigkeit des Gesetzes zur Bewältigung der prognostizierten GKV-Defizite hervor und betonte, dass es auf den Empfehlungen der FinanzKommission Gesundheit basiere. Er sprach von einer fairen Belastungsverteilung, bei der alle Akteure ihren Beitrag leisten, und bezeichnete das Gesetz als erfolgreichen Abschluss einer wichtigen Reform. Extern gab es auch eine Mitteilung der CDU/CSU-Fraktion, die das Gesetz als \"wichtige Reform\" bezeichnete, die auf den Ergebnissen der Finanzkommission Gesundheit basiere und die Beitragssätze stabilisiere. Sie betonten die Einbeziehung aller Beteiligten und die Berücksichtigung von Versicherten mit geringem Einkommen, Familien und chronisch Kranken.",
+      "source_title": "Abschluss der Beratungen zum GKV-Beitragssatzstabilisierungsgesetz",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nicole Hess",
+      "party": "AfD",
+      "found": true,
+      "statement": "Hess kritisierte das Gesetz scharf als reinen Sparplan, der die Bürger weiter belaste und die Sorgen der Menschen ignoriere. Sie warf der Union vor, das Gesetz überhastet zu verabschieden und betonte, dass die aktuellen Maßnahmen an der falschen Stelle sparten. In einer Rede verteidigte sie die Position der AfD gegen das Gesetz, indem sie die Beitragssatzsteigerung als katastrophal bezeichnete und die Koalition der Vernachlässigung der Demokratie bezichtigte.",
+      "source_title": "Nicole Hess (AfD): \"Dieses Gesetz ist eine echte Katastrophe\"",
+      "url": "N/A",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dagmar Schmidt",
+      "party": "SPD",
+      "found": true,
+      "statement": "Schmidt betonte, dass das Gesetz notwendig sei, um ein Defizit von 18,5 Milliarden Euro zu lösen und Beitragssatzsteigerungen zu vermeiden. Sie hob die im parlamentarischen Verfahren erzielten Verbesserungen hervor, insbesondere zur Entlastung von Familien und zur Sicherung der Versorgung. Sie räumte ein, dass die Verabschiedung der Reform kein Grund zum Feiern sei, aber ohne das Gesetz die Beiträge steigen würden.",
+      "source_title": "Dagmar Schmidt (SPD) zur Finanzreform der Gesetzlichen Krankenversicherung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Britta Haßelmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Haßelmann kritisierte das Gesetz scharf als „mit heißer Nadel gestrickt“, das zusätzliche Belastungen für Versicherte schaffe und gegen das Prinzip der solidarischen Lastenverteilung verstoße. Sie bemängelte, dass Kostentreiber geschont und keine tiefgreifenden Reformen umgesetzt würden, und prognostizierte negative Folgen für Krankenhäuser und Praxen. Sie bezeichnete den Gesetzentwurf als „klaren Bruch der solidarischen Lastenverteilung“ und warf der Regierung vor, die Empfehlungen ihrer eigenen Expertenkommission nicht umzusetzen.",
+      "source_title": "Britta Haßelmann (Bündnis 90/Die Grünen) zum GKV-Gesetz",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Heidi Reichinnek",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Reichinnek beschuldigte die Koalition, mit dem Gesetz die Gesundheitsversorgung zu gefährden und bezeichnete den Gesetzgebungsprozess als katastrophal. Sie kritisierte, dass das Gesetz auf Kosten der Gesellschaft verabschiedet werde und die Pharmakonzerne und Reiche schone. Sie erklärte, dass die Linke das GKV-Beitragssatzstabilisierungsgesetz ablehnen werde, da es Versicherte und Patient*innen belaste, keine Strukturreformen enthalte und das Gesundheitssystem schlechter und teurer mache.",
+      "source_title": "Heidi Reichinnek (Die Linke) zur GKV-Finanzreform",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Nina Warken",
+      "party": "Bundesregierung",
+      "found": false,
+      "statement": "Bundesministerin Warken erklärte, das Gesetz sei notwendig, um die finanziellen Defizite der GKV zu beheben und Beitragssatzsteigerungen zu verhindern. Sie betonte die Notwendigkeit eines Paradigmenwechsels und dankte den Beteiligten. Sie erläuterte die Leitlinien des Gesetzes (Effizienz und Evidenz) und nannte Beispiele für Anpassungen. Warken verteidigte das Gesetz als ausgewogenes Paket, das eine nachhaltige Stabilisierung des Gesundheitssystems auf einem soliden Fundament ermögliche, und warb um Unterstützung.",
+      "source_title": "Bundesgesundheitsministerin Nina Warken zu GKV-Beitragssätzen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "found": false,
+      "statement": "Sichert bezeichnete das Gesetz als „echte Katastrophe“ und warnte vor den Folgen für Krankenhäuser und Kommunen, die massiv belastet würden. Er warf der Koalition vor, Probleme zu schaffen statt zu lösen und kritisierte das Gesetz als größten Kahlschlag im Gesundheitssystem. Die AfD-Bundestagsfraktion forderte die Bundesregierung auf, das Gesetz auf Eis zu legen und grundlegend zu überarbeiten.",
+      "source_title": "GKV-Gesetz ist der größte Kahlschlag im Gesundheitssystem in der Geschichte der Bundesrepublik",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Lina Seitzl",
+      "party": "SPD",
+      "found": true,
+      "statement": "Seitzl betonte die Ernsthaftigkeit und Verantwortung hinter der Beratung des Gesetzes und erinnerte die Grünen an ihren eigenen Antrag zur Beitragssenkung. Sie erklärte, dass das aktuelle Gesetz eine notwendige Notbremse darstelle und hob die im parlamentarischen Verfahren erreichten Verbesserungen hervor, insbesondere zur gerechten Lastenverteilung.",
+      "source_title": "Bundestag beschließt Beitragssatzstabilisierungsgesetz und stabilisiert die GKV-Zusatzbeiträge",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/bundestag-beschliesst-beitragssatzstabilisierungsgesetz-und-stabilisiert-die-gkv-zusatzbeitraege",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Janosch Dahmen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dahmen kritisierte das Gesetz als „Politik der sozialen Kälte und wirtschaftlichen Unvernunft“, die zu steigenden Lohnnebenkosten führe und die Beiträge nicht stabilisiere. Er warf der Koalition vor, ihre eigenen Experten nicht zu hören und das Gesetz auf Kosten von Arbeitgebern und Arbeitnehmern zu beschließen.",
+      "source_title": "Dr. Janosch Dahmen (Bündnis 90/Die Grünen) zum GKV-Gesetz",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Gürpinar unterstellte der Koalition, nicht zu wissen, was sie tue, und verglich das Gesetz mit einer „Kettensäge“, die die Patient*innen treffe. Er kritisierte, dass die Pharmakonzerne Erleichterungen erschlichen hätten, während die Mehrheit der Gesellschaft angegriffen werde.",
+      "source_title": "Ates Gürpinar (Die Linke) zur GKV-Reform",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Simone Borchardt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Borchardt betonte die Notwendigkeit des Gesetzes aufgrund der finanziellen Lage der GKV und verteidigte es als notwendig, da ein „Weiter-so“ nicht möglich sei. Sie wies die Kritik an der Beratungszeit zurück und betonte, dass das Gesetz ein ausgewogenes Abwägen sei, das alle betreffe. Sie kündigte auch Änderungen im Gesetzgebungsverfahren an und räumte ein, dass die GKV-Problematik nicht erst in dieser Legislaturperiode aufgeschlagen sei.",
+      "source_title": "Simone Borchardt: „Das ist genau der richtige Weg“ – Bundestag beschließt Reform der gesetzlichen Krankenkassen",
+      "url": "N/A",
+      "platform": "Video"
+    },
+    {
+      "name": "Dr. Christos Pantazis",
+      "party": "SPD",
+      "found": true,
+      "statement": "Pantazis erklärte, dass Vertrauen im Gesundheitssystem Verlässlichkeit und solide Finanzen brauche und das Gesetz die Finanzen stabilisiere, ohne die Versorgung zu destabilisieren. Er hob die Anstrengungen der SPD hervor, die Lasten fairer zu verteilen und Korrekturen im Gesetz zu erreichen. Er betonte, dass das Gesetz keine Gesundheitsreform sei, sondern ein Kostendämpfungsgesetz, und dass finanzielle Stabilität nicht zulasten der Versicherten gehen dürfe.",
+      "source_title": "Bundestag beschließt Beitragssatzstabilisierungsgesetz und stabilisiert die GKV-Zusatzbeiträge",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/bundestag-beschliesst-beitragssatzstabilisierungsgesetz-und-stabilisiert-die-gkv-zusatzbeitraege",
+      "platform": "Website"
+    },
+    {
+      "name": "Emmi Zeulner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Zeulner erklärte, dass das parlamentarische Verfahren das Gesetz spürbar verbessert habe und die Beiträge stabilisiert würden, ohne die Versorgung aus dem Blick zu verlieren. Sie hob den Einstieg des Bundes in die Finanzierung der Gesundheitskosten für Bürgergeldempfänger als Erfolg hervor und betonte die Notwendigkeit, die Ausgabendynamik zu stoppen. Sie begrüßte das Gesetz und hob die Verbesserungen im parlamentarischen Verfahren hervor, insbesondere bei der Finanzierung von Bürgergeldempfängern und bei Regelungen für Krankenhäuser und psychotherapeutische Versorgung.",
+      "source_title": "MdB Emmi Zeulner: „Das parlamentarische Verfahren hat dieses Gesetz spürbar verbessert!“",
+      "url": "https://emmi-zeulner.de/mdb-emmi-zeulner-das-parlamentarische-verfahren-hat-dieses-gesetz-spuerbar-verbessert/",
+      "platform": "Website"
+    }
+  ]
+}

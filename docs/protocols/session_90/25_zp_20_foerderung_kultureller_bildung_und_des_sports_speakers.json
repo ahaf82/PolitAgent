@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte im Bundestag über die Förderung kultureller Bildung und des Sports zeigte unterschiedliche Schwerpunkte der Parteien. Während Die Linke und die SPD die Weiterführung und den Ausbau von Programmen wie \"Kultur macht stark\" sowie die Verankerung von Kultur und Sport als Staatsziele im Grundgesetz befürworten, äußert die Union Skepsis bezüglich der Grundgesetzänderung und betont stattdessen konkretes Regierungshandeln. Die AfD kritisiert die staatliche Einflussnahme und die delegierende Vergabe von Aufgaben an private Organisationen. Die Grünen bemängeln Kulturabbau und das geplante Ende des Programms \"kulturweit\". Externe Recherchen zeigen, dass Abgeordnete dieser Fraktionen ihre Positionen auf Plattformen wie Abgeordnetenwatch mit Bürgerfragen und Antworten sowie über ihre Webseiten und durch Fraktionsmitteilungen verbreiten.",
+  "sources": [
+    {
+      "name": "David Schliesing",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Kritisierte angekündigte Kürzungen durch die Koalition und plädierte für den Ausbau des Programms \"Kultur macht stark\" sowie die Verankerung von Kultur und Sport als Staatsziele im Grundgesetz.",
+      "source_title": "David Schliesing - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/david-schliesing",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Äußerte Skepsis gegenüber der Verankerung von Kultur und Sport als Staatsziele im Grundgesetz und bezeichnete den Antrag der Linken als symbolische oppositionelle Politik. Er betonte die Zuständigkeit der Länder für Kultur und verwies auf erfolgreiche Programme wie \"Kultur macht stark\", deren Fortführung die Union unterstütze.",
+      "source_title": "Michael Hose - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Gereon Bollmann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisierte, dass das Programm \"Kultur macht stark\" originäre Aufgaben des Staates an Privatorganisationen delegiere und damit die Neutralitätspflicht untergrabe. Er warnte vor einseitiger Indoktrination und plädierte dafür, das Grundgesetz nicht leichtfertig zu ändern.",
+      "source_title": "Gereon Bollmann - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/gereon-bollmann",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Martin Rabanus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bekräftigte die grundsätzliche Unterstützung der SPD für die Aufnahme von Kultur als Staatsziel in die Verfassung. Er lobte das Programm \"Kultur macht stark\" als Erfolgsgeschichte und versicherte, dass es fortgeführt werde. Den Antrag der Linken hielt er für überflüssig.",
+      "source_title": "Martin Rabanus - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/martin-rabanus",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Sven Lehmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisierte die Bundesregierung für Kulturabbau und das Einstampfen des KulturPasses und des Programms \"Lesestart 1-2-3\", das die frühe Sprach- und Leseförderung unterstütze. Er appellierte an die Koalition, \"Lesestart\" fortzuführen.",
+      "source_title": "Sven Lehmann - Abstimmungen - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/sven-lehmann/abstimmungen",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Stephan Mayer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Lehnte den Antrag der Linken ab und hob die Rekordförderung für den Sport durch die Bundesregierung hervor, darunter ein Rekordsportbudget und das erste Sportfördergesetz. Er betonte, dass konkretes Handeln und die Unterstützung der Vereine wichtiger seien als Verfassungsänderungen.",
+      "source_title": "Stephan Mayer - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/abgeordnete/biografien/M/mayer_stephan-1048932",
+      "platform": "Website"
+    },
+    {
+      "name": "Sven Wendorf",
+      "party": "AfD",
+      "found": true,
+      "statement": "Interpretierte den Antrag der Linken als Versuch, linke Hegemonie durch mehr staatlichen Einfluss zu sichern. Er kritisierte die Instrumentalisierung von Kultur und Sport für politische Zwecke und warnte vor einer Schwächung des Grundgesetzes durch ständige Änderungen.",
+      "source_title": "Sven Wendorf - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/sven-wendorf",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Aydan Özoğuz",
+      "party": "SPD",
+      "found": true,
+      "statement": "Lobte die Fortschritte der Koalition im Sport, nannte die Gründung des Zentrums für Safe Sport und die steuerliche Befreiung von Medaillenprämien. Sie zeigte Sympathie für die Aufnahme von Sport und Kultur als Staatsziel, wies aber darauf hin, dass erfolgreiche Sportförderung auch ohne diese Verankerung möglich sei.",
+      "source_title": "Aydan Özoğuz - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/aydan-oezoguz",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Claudia Roth",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisierte die Streichung des Freiwilligenprogramms \"kulturweit\" und betonte dessen Bedeutung für internationale Verständigung und den Aufbau von Brücken zwischen Gesellschaften. Sie bezeichnete die Entscheidung als politisch schädlich und forderte deren Rücknahme.",
+      "source_title": "Claudia Roth - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/claudia-roth",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

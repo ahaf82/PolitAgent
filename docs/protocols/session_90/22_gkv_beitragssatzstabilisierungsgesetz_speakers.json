@@ -1,0 +1,104 @@
+{
+  "synthesis": "Die externen Reaktionen auf das GKV-Beitragssatzstabilisierungsgesetz spiegeln die kontroverse Debatte im Bundestag wider. Während Abgeordnete der CDU/CSU und SPD die Notwendigkeit des Gesetzes zur Schließung eines Defizits und zur Stabilisierung der Beitragssätze betonen und auf erzielte Verbesserungen verweisen, üben die Oppositionsparteien AfD, Bündnis 90/Die Grünen und Die Linke scharfe Kritik. Sie bezeichnen das Gesetz als unausgewogen, bürdenbelastend und als gefährlich für die Gesundheitsversorgung. Besondere Kritikpunkte sind der als chaotisch empfundene Gesetzgebungsprozess mit kurzfristigen Änderungen und die Sorge vor einer zusätzlichen Belastung von Bürgern und Leistungserbringern.",
+  "sources": [
+    {
+      "name": "Albert Stegemann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betonte die Notwendigkeit des Gesetzes aufgrund des prognostizierten GKV-Defizits und hob die faire Belastungsstatik hervor, bei der alle Beteiligten ihren Beitrag leisten.",
+      "source_title": "CDU/CSU-Fraktion: Wir halten die Beitragssätze zur Gesetzlichen Krankenversicherung stabil",
+      "url": "https://www.cducsu.de/presse/wir-halten-die-beitragssaetze-zur-gesetzlichen-krankenversicherung-stabil",
+      "platform": "Website"
+    },
+    {
+      "name": "Nicole Hess",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisierte das Gesetz als \"nächste Rechnung für die Bürger\" und als Stabilisierung einer \"Illusion\", die bestehende Probleme durch weitere Belastung verschärfe.",
+      "source_title": "Heftiger Streit über die Reform der Krankenversicherung - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-996692",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dagmar Schmidt",
+      "party": "SPD",
+      "found": true,
+      "statement": "Stellte klar, dass es sich nicht um eine Gesundheitsreform, sondern um die Schließung eines Defizits handele und betonte die Notwendigkeit stabiler Beiträge sowie die Bedeutung von Strukturreformen.",
+      "source_title": "Bundestag stimmt nach hitziger Debatte GKV-Sparpaket zu – News - Deutsches Ärzteblatt",
+      "url": "https://www.aerzteblatt.de/news/baden-wuerttemberg-sieht-grosses-potenzial-bei-telemedizin-hinter-gittern-4e76b864-f439-477d-87a5-b394b953a754",
+      "platform": "Presse"
+    },
+    {
+      "name": "Britta Haßelmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Kritisierte das Gesetz als \"mit heißer Nadel gestrickt\", das die Versicherten zusätzlich belaste, das Prinzip der solidarischen Lastenverteilung breche und Kostentreiber schone.",
+      "source_title": "Plenarprotokoll 21/90 - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Heidi Reichinnek",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Warnte, dass das Gesetz die Gesundheitsversorgung gefährde und kritisierte den Gesetzgebungsprozess als \"absolute Katastrophe\" und die Beratungen als unseriös.",
+      "source_title": "Linke klagt gegen Krankenkassenreform: Vorwurf Demokratiebruch im Bundestag",
+      "url": "https://hasepost.de/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nina Warken",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Erklärte, das Gesetz stabilisiere die Beitragssätze und leitet einen Paradigmenwechsel ein, während sie die Notwendigkeit der Maßnahme aufgrund der dramatischen Finanzlage der GKV betonte.",
+      "source_title": "Bundestag stimmt nach hitziger Debatte GKV-Sparpaket zu – News - Deutsches Ärzteblatt",
+      "url": "https://www.aerzteblatt.de/news/baden-wuerttemberg-sieht-grosses-potenzial-bei-telemedizin-hinter-gittern-4e76b864-f439-477d-87a5-b394b953a754",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Unterstellte der Koalition Unwissenheit und bezeichnete das Gesetz als \"Kettensäge\", die die Mehrheit der Gesellschaft treffe, während Vermögende und Privatversicherte verschont blieben.",
+      "source_title": "Pressemitteilungen - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Claudia Weiss",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert das Gesetz als schlecht vorbereitet und undurchdacht, mit zahlreichen Änderungsanträgen kurz vor der Abstimmung und mangelnder Kenntnis der praktischen Auswirkungen.",
+      "source_title": "Bundestag stimmt nach hitziger Debatte GKV-Sparpaket zu – News - Deutsches Ärzteblatt",
+      "url": "https://www.aerzteblatt.de/news/baden-wuerttemberg-sieht-grosses-potenzial-bei-telemedizin-hinter-gittern-4e76b864-f439-477d-87a5-b394b953a754",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Lina Seitzl",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betonte die Ernsthaftigkeit und Verantwortung der SPD und hob die im parlamentarischen Verfahren erzielten Verbesserungen für Versorgung, Arbeitsbedingungen in der Pflege und gerechte Lastenverteilung hervor.",
+      "source_title": "Bundestag stimmt nach hitziger Debatte GKV-Sparpaket zu – News - Deutsches Ärzteblatt",
+      "url": "https://www.aerzteblatt.de/news/baden-wuerttemberg-sieht-grosses-potenzial-bei-telemedizin-hinter-gittern-4e76b864-f439-477d-87a5-b394b953a754",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Janosch Dahmen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Kritisierte das Gesetz als politisch kalt und wirtschaftlich unvernünftig, reichte eine Klage beim Bundesverfassungsgericht ein und warnte vor höheren Beiträgen und schlechterer Versorgung.",
+      "source_title": "Deutscher Bundestag - Wochenzeitung „Das Parlament“: Grünen-Gesundheitspolitiker Dahmen warnt vor höheren Krankenkassenbeiträgen 2027",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Simone Borchardt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Verteidigte das Gesetz als notwendig angesichts der finanziellen Lage der GKV und hob hervor, dass es auf den Ergebnissen der FinanzKommission basiere.",
+      "source_title": "Bundestag stimmt nach hitziger Debatte GKV-Sparpaket zu – News - Deutsches Ärzteblatt",
+      "url": "https://www.aerzteblatt.de/news/baden-wuerttemberg-sieht-grosses-potenzial-bei-telemedizin-hinter-gittern-4e76b864-f439-477d-87a5-b394b953a754",
+      "platform": "Presse"
+    }
+  ]
+}

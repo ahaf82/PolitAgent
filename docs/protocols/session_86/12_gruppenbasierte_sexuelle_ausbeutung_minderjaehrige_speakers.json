@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag über gruppenbasierte sexuelle Ausbeutung Minderjähriger offenbarte deutliche politische Gräben. Während alle Fraktionen die Taten scharf verurteilten, wurde die AfD von den anderen Parteien scharf für die angeblich instrumentalisierende und hetzerische Darstellung des Themas kritisiert, insbesondere durch die Betonung des Migrationshintergrunds der Täter. Externe Äußerungen der identifizierten Abgeordneten zeigten eine Fortsetzung dieser Debattenmuster. Die AfD-Vertreter verteidigten ihre Positionen und betonten die Notwendigkeit, Einwanderungspolitik und Kriminalität miteinander in Verbindung zu bringen, während Abgeordnete der anderen Parteien verstärkt auf Prävention, Opferschutz und die Bekämpfung von Frauenhass und Rechtsextremismus als Ursachen für sexualisierte Gewalt hinwiesen. Kritisiert wurde auch, dass die AfD Maßnahmen wie die IP-Adressspeicherung ablehne, die zur Strafverfolgung beitragen könnten.",
+  "sources": [
+    {
+      "name": "Dr. Bernt Baumann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Baumann verteidigte seine Rede als Vortrag von Fakten und Daten, die von anderen Parteien seit Jahren negiert würden und auf eine Verbindung zwischen unkontrollierter Einwanderung und Kriminalität hinwiesen. Er bezeichnete Kritiker als Teil einer \"linksgrünen Ideologie\".",
+      "source_title": "Antwort auf Zwischenfrage von Herrn Stegner (SPD)",
+      "url": "https://www.youtube.com/watch?v=gaY2CCHQdu8&t=401",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Frederik Buffier",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Buffier verurteilte die Rede von Dr. Baumann scharf als \"blanken Hass\" und \"Hetze gegen Minderheiten\", die unter dem Deckmantel der Statistik erfolge. Er betonte die Notwendigkeit einer faktenbasierten Politik und die Bedeutung von IP-Adressspeicherung, welche die AfD ablehne.",
+      "source_title": "Redebeitrag im Plenum",
+      "url": "https://www.youtube.com/watch?v=gaY2CCHQdu8&t=568",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Marcel Emmerich",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Emmerich kritisierte die AfD für die Instrumentalisierung des Themas und die gezielte Herausstellung ausländischer Täter, um Migration als Ursache für sexuelle Gewalt darzustellen. Er betonte, dass Gewalt keine Nationalität habe und hänse auf die Zunahme rechtsextremer und frauenfeindlicher Ideologien hin.",
+      "source_title": "Redebeitrag im Plenum",
+      "url": "https://www.youtube.com/watch?v=gaY2CCHQdu8&t=883",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Cem Kandemier",
+      "party": "SPD",
+      "found": true,
+      "statement": "Kandemier warf der AfD vor, nur dann auf die Herkunft von Tätern zu schauen, wenn es politisch nützt, und sexualisierte Gewalt im Netz zu verharmlosen. Er betonte die Notwendigkeit von Prävention, Jungenarbeit und Opferschutz und wies auf die hohe Rate sexualisierter Gewalt im privaten Umfeld hin.",
+      "source_title": "Redebeitrag im Plenum",
+      "url": "https://www.youtube.com/watch?v=gaY2CCHQdu8&t=1118",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Mareike Herr Meierer",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Meierer kritisierte die AfD scharf für die Behauptung von \"organisierten Banden\" und die gezielte Bezugnahme auf Migrationshintergründe zur Hetze, was sie auf Basis von Informationen der Kripo Nürnberg als falsch darstellte. Sie bezeichnete den AfD-Antrag als \"Schmutzantrag\".",
+      "source_title": "Redebeitrag im Plenum",
+      "url": "https://www.youtube.com/watch?v=gaY2CCHQdu8&t=1487",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Siegfried Walch",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Walch betonte die Notwendigkeit, Täterstrukturen zu erkennen und zu bekämpfen, um Kinder zu schützen. Er forderte die Erfassung aller relevanten Informationen und die Bestrafung der Täter mit größtmöglicher Härte.",
+      "source_title": "Redebeitrag im Plenum",
+      "url": "https://www.youtube.com/watch?v=gaY2CCHQdu8&t=1716",
+      "platform": "Plenum"
+    }
+  ]
+}

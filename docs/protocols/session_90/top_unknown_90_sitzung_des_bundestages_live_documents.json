@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "Gesetz zur Änderung des Gebäudeenergiegesetzes",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die zweite und dritte Beratung des Gesetzes zur Änderung des Gebäudeenergiegesetzes wurde mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen auf die Tagesordnung gesetzt. Die Beratung des Gesetzes zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung wurde begonnen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

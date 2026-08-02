@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag über den Bundesparteitag der Partei Die Linke zeigte starke Kontroversen bezüglich der Rhetorik und möglicher antisemitischer Tendenzen. Abgeordnete der CDU/CSU und AfD kritisierten die Linke scharf für die Bezeichnung der CDU als \"faschistisch\" und forderten eine klare Distanzierung von extremistischen Strömungen. Die SPD hob die Gefährlichkeit solcher Aussagen für die politische Kultur hervor und mahnte ebenfalls zur Bekämpfung von Antisemitismus. Die Grünen stuften den Faschismusvorwurf als inakzeptabel ein und kritisierten selektive Empörung bei der Linken. Die Linken-Abgeordnete Ines Schwerdtner verteidigte die Entschuldigung ihres Parteikollegen als aufrichtig und sah die Debatte als Ablenkungsmanöver, während sie gleichzeitig Kritik an der Regierung und anderen Parteien übte.",
+  "sources": [
+    {
+      "name": "Dr. Carsten Linnemann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Verurteilte die Aussage von Luigi Pantisano, die CDU sei faschistisch, als infam, geschichtsvergessen und niederträchtig. Er bezeichnete Pantisanos Entschuldigung als halbherzig und forderte die Linke auf, gegen Antisemitismus und die Verherrlichung von Stalin vorzugehen. Er schloss eine Zusammenarbeit mit Extremisten kategorisch aus.",
+      "source_title": "Aktuelle Stunde zum Parteitag der Partei Die Linke",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-977448",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisierte die CDU/CSU dafür, die Aktuelle Stunde als \"Nebelkerze\" zu nutzen, während sie mit Die Linke koaliere. Er bezeichnete Die Linke als ideologische Fortsetzung der SED und listete problematische Positionen der Partei auf. Er verteidigte sich gegen Faschismusvorwürfe.",
+      "source_title": "Redebeitrag von Dr. Götz Frömming (AfD) am 08.07.2026",
+      "url": "https://www.youtube.com/watch?v=wLzG_6c4V9g",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betonte die Dramatik der Gleichsetzung der CDU mit Faschisten und kritisierte die \"Grenzverschiebung\" der Linken. Er mahnte die Partei zur Abgrenzung von linksradikalen Gewalttätern und Antisemitismus und wies auf ähnliche Taktiken der AfD hin.",
+      "source_title": "Sebastian Fiedler (SPD) zur möglichen Gefahr eines Anschlags in Deutschland | 25.03.24",
+      "url": "https://www.youtube.com/watch?v=1N5X6pbJMqk",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Hielt den Faschismusvorwurf gegen eine grundgesetzprägende Partei für inakzeptabel und kritisierte die \"halbherzige Entschuldigung\" Pantisanos sowie die antisemitischen Probleme der Linken. Sie bemängelte die selektive Empörung der Linken im Nahostkonflikt und die Diffamierung öffentlich-rechtlicher Medien.",
+      "source_title": "Rede in Aktueller Stunde zum Parteitag der Partei Die Linke - Irene Mihalic",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ines Schwerdtner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Bezeichnete die Debatte als Ablenkungsmanöver von sozialen Problemen und verteidigte die Entschuldigung Pantisanos als aufrichtig. Sie konterte mit Vorwürfen gegen andere Parteien und betonte Parteitagsbeschlüsse gegen Antisemitismus und für das Selbstbestimmungsrecht jüdischer Menschen.",
+      "source_title": "Linken-Bundesparteitag: \"Wir werden den Osten nicht den Nazis überlassen\"",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Ottilie Klein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Kritisierte Ines Schwerdtners relativierende Äußerungen und sah die Linke am extremen Rand positioniert, mit Parallelen zur AfD. Sie forderte die Linke auf, gegen radikale Gruppen und Antisemiten vorzugehen und warnte vor \"geschichtsvergessener Selbstherrlichkeit\".",
+      "source_title": "Dr. Ottilie Paola Klein - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "https://www.cducsu.de/abgeordnete/dr-ottilie-paola-klein",
+      "platform": "Website"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Reaktionen der im Plenum des Deutschen Bundestages zum Sportfördergesetz vom 10.07.2026 aufgetretenen Abgeordneten spiegeln überwiegend die im Parlament geäußerten Positionen wider. Viele Abgeordnete sehen das Gesetz als wichtigen, wenn auch nicht perfekten, Schritt zur Modernisierung der Spitzensportförderung. Kritische Stimmen bemängeln jedoch weiterhin fehlende Details bei Trainervergütung und sozialer Absicherung, sowie eine unzureichende Einbindung von Athleten- und Trainervertretern in Entscheidungsgremien. Es besteht weitgehend Einigkeit, dass eine stärkere Fokussierung auf Leistung und Transparenz notwendig ist, während gleichzeitig die Autonomie des Sports gewahrt bleiben soll. Der „Safe Sport Code“ wird als positiver Fortschritt zur Athletenabsicherung anerkannt.",
+  "sources": [
+    {
+      "name": "Stephan Mayer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Mayer bezeichnete den Entwurf als sehr gut und noch besser gemacht in der parlamentarischen Beratung. Er hebt hervor, dass das Gesetz die Rahmenbedingungen für künftige Weltspitzenergebnisse im Sport schafft und bezeichnete es als Meilenstein, der Deutschland im Spitzensport wieder konkurrenzfähig machen soll.",
+      "source_title": "Spitzensportförderung wird zukunftstauglich - CSU-Landesgruppe",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Lars Schieske",
+      "party": "AfD",
+      "found": false,
+      "statement": "Schieske kritisiert die \"chaotische\" und \"hektische\" Verabschiedung des Gesetzes, sieht darin aber einen notwendigen ersten Schritt. Er bemängelt die mangelnde Einbindung von Trainern und Athleten in Entscheidungsgremien und bezeichnet das Gesetz als \"Anfang, mehr nicht\".",
+      "source_title": "Sportfördergesetz: Ein Anfang, aber kein großer Wurf - Lars Schieske",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Bettina Lugk",
+      "party": "SPD",
+      "found": false,
+      "statement": "Lugk sieht das Gesetz als lange überfällige Reform, die durch das parlamentarische Verfahren verbessert wurde, insbesondere durch die stärkere Beteiligung von Athleten und die Verankerung des Safe-Sport-Codes. Sie betont, dass das Gesetz eine Grundlage für mehr Transparenz und Mitbestimmung schaffe.",
+      "source_title": "Mehr Transparenz und Mitsprache in der Spitzensportförderung | SPD-Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Tina Winklmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Winklmann kritisiert, dass der Kabinettsbeschluss kein Aufbruch, sondern eine Absicherung alter Machtstrukturen darstelle und eine verpasste Chance auf echte Reform sei. Sie bemängelt, dass der Safe Sport Code nicht den nötigen Stellenwert erhalte und die Athletenmitbestimmung unzureichend sei.",
+      "source_title": "Tina Winklmann: Kabinett gibt Entwurf zum Sportfördergesetz frei, Reformchance vertan",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jorrit Bosch",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Bosch kritisiert, dass das Gesetz hinter den Möglichkeiten zurückbleibe und entscheidende Fragen unklar seien. Er bemängelt die schwache Athletenvertretung, die unklare Trainervergütung und die unzureichende soziale Absicherung, und bezeichnet die Finanzierung als größten Konstruktionsfehler.",
+      "source_title": "Mehr Medaillen für Deutschland? Nur die Linksfraktion lehnt das neue Sportfördergesetz ab - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jens Lehmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Lehmann betont den historischen Moment der Verabschiedung des ersten Sportfördergesetzes und sieht darin eine Chance, Deutschland im internationalen Sport wieder nach vorne zu bringen. Er hebt die neue Agentur in Leipzig als wichtig für Transparenz und Effizienz hervor und betont den Schutz der Sportler durch den Safe Sport Code.",
+      "source_title": "CDU-Sportpolitiker Lehmann setzt auf Spitzensport-Reform für mehr Medaillen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jörn König",
+      "party": "AfD",
+      "found": true,
+      "statement": "König begrüßt das Gesetz als notwendige Grundlage, kritisiert aber die Beteiligung von Zuwendungsempfängern im Stiftungsrat und fordert mehr Sitze für Athleten- und Trainervertreter. Er bezeichnet den Gesetzgebungsprozess als \"Verhöhnung\".",
+      "source_title": "Zustimmung zum Sportfördergesetz der Bundesregierung - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-977290",
+      "platform": "Website"
+    }
+  ]
+}

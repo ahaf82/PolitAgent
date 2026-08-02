@@ -1,0 +1,65 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Das Gebäudeenergiegesetz wurde in der 90. Sitzung des Deutschen Bundestages am 10.07.2026 debattiert und in namentlicher Abstimmung beschlossen. Zuvor wurde ein Entschließungsantrag der Fraktion Die Linke abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=616001",
+    "overall_result": {
+      "ja": 392,
+      "nein": 284,
+      "enthaltung": 14,
+      "nicht_abgegeben": 0
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 172,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 175,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 52,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "FDP",
+        "ja": 0,
+        "nein": 48,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 176,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 8,
+        "enthaltung": 14,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

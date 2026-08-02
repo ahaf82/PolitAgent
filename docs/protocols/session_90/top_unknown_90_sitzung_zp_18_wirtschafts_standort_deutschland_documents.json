@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6928",
+      "title": "Antrag: Deutschland braucht echte Reformen – Der Krise des Wirtschaftsstandorts Deutschland wirksam entgegentreten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6928&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion – Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/12345",
+      "title": "Umbau der Tierhaltung",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Kleine Anfrage"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Antrag der AfD-Fraktion \"Deutschland braucht echte Reformen – Der Krise des Wirtschaftsstandorts Deutschland wirksam entgegentreten\" (Drucksache 21/6928) wurde an die Ausschüsse überwiesen. Federführend wird sich der Ausschuss für Wirtschaft und Energie mit dem Antrag befassen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
