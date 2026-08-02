@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum Thema 'Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen' spiegeln die im Plenum gezeigten Fraktionspositionen wider. Die AfD bekräftigt in einer Pressemitteilung ihre Forderung nach einem sofortigen Stopp der Einwanderung in die Sozialsysteme und nach konsequenten Maßnahmen gegen Missbrauch, was sich direkt mit der Rede ihrer Abgeordneten deckt. Kai Witter von der CDU/CSU unterstreicht in einer Stellungnahme die Notwendigkeit, den Sozialstaat vor Missbrauch zu schützen und die Einhaltung von Regeln durchzusetzen, während er gleichzeitig die Menschenwürde betont. Für Bündnis 90/Die Grünen zeigt sich in einem Antrag der Bundestagsfraktion die Haltung, dass gesteuerte Arbeits- und Fachkräfteeinwanderung essenziell für die deutsche Wirtschaft und die Sicherung der Sozialsysteme ist, im Gegensatz zur AfD-Rhetorik.",
+  "sources": [
+    {
+      "name": "Gerit Rui",
+      "party": "AfD",
+      "found": false,
+      "statement": "Die AfD-Fraktion hat einen umfassenden Antrag eingebracht, um die Einwanderung in das Sozialsystem und den Sozialleistungsmissbrauch zu stoppen. Sie fordert unter anderem, dass steuerfinanzierte Sozialleistungen ausschließlich von der arbeitenden Bevölkerung getragen werden und nur denen zustehen, die sich nicht selbst helfen können und aktiv zur Überwindung ihrer Hilfebedürftigkeit beitragen. Ausländische Staatsangehörige müssen ihren Lebensunterhalt grundsätzlich eigenständig sichern können.",
+      "source_title": "Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Kai Witter",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Kai Whittaker (CDU) weist darauf hin, dass es dem Rechtsempfinden vieler Menschen widerspricht, wenn der Staat die Einhaltung von Regeln nicht durchsetzt. Er warnt, dass eine zu lange Kluft zwischen geltendem Recht und gesellschaftlichem Gerechtigkeitsempfinden die Legitimität des Rechtsstaates gefährdet. Es gehe darum, Menschen zu befähigen, auf eigenen Beinen zu stehen, nicht sie im Sozialstaat zu verwalten.",
+      "source_title": "Die Neue Grundsicherung: Mehr Gerechtigkeit im Sozialstaat | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/aktuelles/die-neue-grundsicherung-mehr-gerechtigkeit-im-sozialstaat",
+      "platform": "Presse"
+    },
+    {
+      "name": "Timon Genus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Die Fraktion Bündnis 90/Die Grünen hat einen Antrag zur Gestaltung der Arbeits- und Fachkräfteeinwanderung vorgelegt, der die Beschleunigung der Anerkennungsverfahren für ausländische Berufs- und Bildungsabschlüsse sowie die gezielte Unterstützung kleiner und mittlerer Unternehmen bei der Anwerbung ausländischer Fachkräfte fordert. Zudem wird die Bundesregierung aufgefordert, Maßnahmen gegen Diskriminierung und Rassismuserfahrungen internationaler Arbeits- und Fachkräfte zu stärken.",
+      "source_title": "Grünen-Antrag zur Arbeits- und Fachkräfteeinwanderung - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1184656",
+      "platform": "Website"
+    }
+  ]
+}

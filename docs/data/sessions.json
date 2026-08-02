@@ -463,7 +463,7 @@
     "topic": "Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen",
     "summary_path": "protocols/session_86/7_immigration_into_the_social_security_system_social.md",
     "documents_path": "protocols/session_86/7_immigration_into_the_social_security_system_social_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_86/7_immigration_into_the_social_security_system_social_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=ZjAWxACyEJc",
     "processed_at": "2026-06-27T08:48:07.460010"
   },
@@ -698,7 +698,8 @@
     "summary_path": "protocols/session_unknown/top_unknown_heftiger_streit_ueber_die_reform_der_kranken_versi.md",
     "documents_path": "protocols/session_unknown/top_unknown_heftiger_streit_ueber_die_reform_der_kranken_versi_documents.json",
     "youtube_url": "https://www.youtube.com/watch?v=b7Df6CuyFeA",
-    "processed_at": "2026-06-15T13:10:13.006241"
+    "processed_at": "2026-06-15T13:10:13.006241",
+    "speakers_path": "protocols/session_unknown/top_unknown_heftiger_streit_ueber_die_reform_der_kranken_versi_speakers.json"
   },
   {
     "id": "_-2WlJoEBkE",

@@ -1,0 +1,68 @@
+{
+  "synthesis": "Außerhalb des Bundestages zeigten sich Abgeordnete der Opposition weiterhin kritisch bezüglich der Reform der Krankenversicherung. Martin Sichert von der AfD-Fraktion bezeichnete das GKV-Beitragsstabilisierungsgesetz als „Kahlschlag im Gesundheitswesen“ und kritisierte das Gesetzgebungsverfahren als Missachtung des Parlamentarismus, während der fraktionslose Abgeordnete Stefan Seitler das gesamte Reformpaket der Bundesregierung als „halbherzig“ und zu Lasten von Kranken und Beschäftigten bewertete. Die externen Reaktionen unterstreichen die parteipolitischen Differenzen und die Sorge um die Auswirkungen der Reform auf das Gesundheitssystem und die Bürger.",
+  "sources": [
+    {
+      "name": "Nina Weng",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Sichert, gesundheitspolitischer Sprecher der AfD-Bundestagsfraktion, kritisierte die GKV-Reform als „Kahlschlag im Gesundheitswesen“ und warf der Bundesregierung vor, mit der Verschiebung des Gesetzes an ihrem eigenen Reformvorhaben zu scheitern. Er forderte die Streichung des Sparpakets und echte Reformen wie Bürokratieabbau sowie die Herausnahme versicherungsfremder Leistungen aus der GKV. Zudem drohte er aufgrund eines als „chaotisch“ bezeichneten Gesetzgebungsverfahrens mit einer Anrufung des Bundesverfassungsgerichts.",
+      "source_title": "Regierung scheitert an Krankenkassenreform / Kahlschlag im Gesundheitswesen durch GKV-Reform. Vorgehen von Schwarz-Rot beschädigt den Parlamentarismus! / Abstimmung über Finanzreform der GKV soll stattfinden",
+      "url": "https://afdbundestag.de/regierung-scheitert-an-krankenkassenreform/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Christus von Darzis",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Janos Damen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stell Marendino",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Simone Borcher",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stefan Seitler",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Stefan Seitler (SSW-Bundestagsabgeordneter) kritisierte das Reformpaket der Bundesregierung als „halbherzig“ und auf Kosten von Kranken und Beschäftigten. Er bemängelte die unzureichende steuerliche Entlastung und den problematischen Umgang mit kranken und arbeitenden Menschen, insbesondere die Forderung nach verpflichtender Krankschreibung ab dem ersten Tag.",
+      "source_title": "Seidler kritisiert Reformpaket: Zu halbherzig und auf Kosten von Kranken und Beschäftigten",
+      "url": "https://stefan-seidler.info/2026/07/02/seidler-kritisiert-reformpaket-zu-halbherzig-und-auf-kosten-von-kranken-und-beschaeftigten/",
+      "platform": "Website"
+    }
+  ]
+}
