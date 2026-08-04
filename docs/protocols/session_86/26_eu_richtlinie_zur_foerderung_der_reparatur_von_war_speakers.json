@@ -1,0 +1,95 @@
+{
+  "synthesis": "Die Abgeordneten Nadine Heselhaus (SPD), Stefan Möller (AfD), Sebastian Steineke (CDU/CSU), Dr. Til Steffen (Bündnis 90/Die Grünen) und Christin Willnard (Die Linke) diskutierten die EU-Richtlinie zur Förderung der Reparatur von Waren im Plenum. Außerhalb des Plenums äußerten sich Heselhaus und Wegge (SPD) positiv zur Stärkung der Verbraucherrechte und zur Verlängerung der Gewährleistungsfrist, betonten aber auch die Notwendigkeit weiterer Anreize wie Reparaturboni. Möller (AfD) kritisierte die mangelnde Konkretisierung und die Belastungen für die Automobilwirtschaft, während Steineke (CDU/CSU) die 1:1-Umsetzung begrüßte, aber auch auf Bedenken des Kfz-Gewerbes hinwies und Flexibilität forderte. Steffen (Grüne) äußerte Enttäuschung über die mangelnde Konkretisierung der Reparaturkosten und -dauer und forderte klarere Verbraucherrechte und Reparaturboni. Willnard (Die Linke) betonte die Notwendigkeit erschwinglicher Reparaturen und schlug ebenfalls Steuersenkungen und Reparaturboni vor.",
+  "sources": [
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sie betont die Notwendigkeit, die Wegwerfgesellschaft zu überwinden und Nachhaltigkeit zu fördern, um Elektroschrott zu reduzieren. Sie hebt hervor, dass das Gesetz ein neues \"Recht auf Reparatur\" schafft, das Hersteller verpflichtet, Reparaturen zu ermöglichen und Ersatzteile über die Lebensdauer von Geräten vorzuhalten. Sie fordert die Klärung angemessener Reparaturkosten und -dauern auf europäischer Ebene und prüft die Einführung von Reparaturboni oder steuerlichen Entlastungen.",
+      "source_title": "SPD-Bundestagsfraktion - Koalition baut Verbraucherschutz weiter aus: Neues Recht auf Reparatur schont Geldbeutel und Umwelt",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/koalition-baut-verbraucherschutz-weiter-aus-neues-recht-auf-reparatur-schont-geldbeutel-und-umwelt",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als zuständige Berichterstatterin für die SPD-Fraktion hebt sie hervor, dass das Gesetz die Wegwerfgesellschaft bekämpft und Hersteller verpflichtet, Ersatzteile vorzuhalten. Sie betont, dass Reparaturen während der Gewährleistungsfrist zu einer einjährigen Verlängerung führen und fordert die Prüfung von Reparaturboni und steuerlichen Entlastungen.",
+      "source_title": "SPD-Bundestagsfraktion - Das Recht auf Reparatur kommt",
+      "url": "https://www.spdfraktion.de/themen/verbraucherschutz/recht-auf-reparatur",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Möller",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisiert den Gesetzentwurf als verbesserungswürdig, insbesondere wegen der fehlenden Konkretisierung der \"Angemessenheit\" von Reparaturkosten und der Ausweitung der Verjährungsverlängerung auf Kraftfahrzeuge, was eine unnötige Belastung für die Automobilwirtschaft darstelle. Er wirft der Koalition vor, auf EU-Ebene nicht frühzeitig interveniert zu haben.",
+      "source_title": "AfD-Fraktion im Deutschen Bundestag - Stefan Möller",
+      "url": "https://www.afd.de/stefan-moeller-cdu-steht-nach-csd-anschlag-vor-dem-scherbenhaufen-leichtfertig-verliehener-staatsbuergerschaften/",
+      "platform": "Website"
+    },
+    {
+      "name": "Stefan Möller",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sebastian Steineke",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er begrüßt die Stärkung der Verbraucherrechte zur längeren Nutzung von Waren und die 1:1-Umsetzung der EU-Richtlinie, erkennt jedoch die Bedenken des Kfz-Gewerbes an. Er fordert die Bundesregierung auf, sich auf europäischer Ebene für mehr Flexibilität und Ausnahmen für komplexe Produkte einzusetzen.",
+      "source_title": "CDU/CSU-Fraktion im Deutschen Bundestag - Gesetz zum Recht auf Reparatur",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Steineke",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er erklärt, dass ein funktionierendes Recht auf Reparatur die Rechte der Verbraucher stärkt und dem Ressourcenschutz dient. Er betont die Notwendigkeit praxistauglicher Lösungen, die Verbraucherinteressen und die Belange von Handwerk und Mittelstand berücksichtigen, und fordert, dass Reparaturen bezahlbar bleiben.",
+      "source_title": "CDU/CSU-Fraktion im Deutschen Bundestag - Recht auf Reparatur muss praxistauglich sein",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Til Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Er äußert Enttäuschung über die geringe Konkretisierung im Gesetz, insbesondere bei den \"angemessenen\" Reparaturkosten und -dauern, da dies das Hauptproblem für Verbraucher sei. Er kritisiert den Koalitionsantrag als unzureichend und fordert klare Rechte, wie einen festen Anspruch auf ein Ersatzgerät, und schlägt einen Reparaturbonus nach französischem Vorbild vor.",
+      "source_title": "Bündnis 90/Die Grünen - Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Til Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christin Willnard",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sie verweist auf niedrige Reparaturquoten in Deutschland, bedingt durch hohe Kosten und fehlende Ersatzteile. Sie fordert erschwingliche Reparaturen durch Steuersenkungen und einen Reparaturbonus nach französischem Vorbild. Sie kritisiert, dass das Recht auf Reparatur nicht für alle Geräte gelte.",
+      "source_title": "Deutscher Bundestag - Die Linke",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Christin Willnard",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
