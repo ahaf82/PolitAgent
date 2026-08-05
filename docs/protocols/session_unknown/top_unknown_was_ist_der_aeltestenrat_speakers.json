@@ -1,0 +1,41 @@
+{
+  "synthesis": "Außerhalb des Parlaments gibt es nur wenige direkte Äußerungen der identifizierten Abgeordneten zum Ältestenrat selbst. Die Bundestagspräsidentin Bärbel Bas, die das Gremium leitet, wird in ihrer Funktion als Präsidentin oft im Zusammenhang mit der Organisation der Parlamentsarbeit erwähnt, wobei der Ältestenrat als unterstützendes Gremium für die Festlegung von Tagesordnungen und Tagungszeiten genannt wird. Rainer Wieland und Katrin Göring-Eckardt, die beide Vizepräsidenten waren oder sind, werden ebenfalls im Kontext ihrer parlamentarischen Funktionen erwähnt, aber nicht mit spezifischen externen Stellungnahmen zum Ältestenrat. Michael Müller, der im Deutschen Bundestag war, ist primär für seine Rolle als Regierender Bürgermeister von Berlin bekannt, und externe Bezüge zum Ältestenrat sind nicht auffindbar.",
+  "sources": [
+    {
+      "name": "Bärbel Bas",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Bundestagspräsidentin leitet Bärbel Bas den Ältestenrat und wird in dieser Funktion als unterstützende Instanz bei der Organisation der Parlamentsarbeit genannt. Das Gremium legt unter ihrer Leitung Tagesordnungen und Tagungszeiten fest.",
+      "source_title": "Das Präsidium und der Ältestenrat des Deutschen Bundestages",
+      "url": "https://www.btg-bestellservice.de/pdf/20084400.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Rainer Wieland",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Katrin Göring-Eckardt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Michael Müller",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

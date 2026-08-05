@@ -1,5 +1,18 @@
 [
   {
+    "id": "ys2jbCoK5L8",
+    "title": "Was ist der Ältestenrat? ⤴️",
+    "session": 0,
+    "date": "2026-08-05",
+    "top": "N/A",
+    "topic": "Was ist der Ältestenrat?",
+    "summary_path": "protocols/session_unknown/top_unknown_was_ist_der_aeltestenrat.md",
+    "documents_path": "protocols/session_unknown/top_unknown_was_ist_der_aeltestenrat_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_was_ist_der_aeltestenrat_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=ys2jbCoK5L8",
+    "processed_at": "2026-08-05T20:01:09.966737"
+  },
+  {
     "id": "e5Kv44nP6OM",
     "title": "90. Sitzung, TOP zur GO-Debatte",
     "session": 90,
@@ -8,7 +21,7 @@
     "topic": "90. Sitzung: Tagesordnungspunkt zur Geschäftsordnungsdebatte",
     "summary_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte.md",
     "documents_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte_documents.json",
-    "speakers_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte_speakers.json",
+    "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=e5Kv44nP6OM",
     "processed_at": "2026-07-18T08:07:28.465738"
   },
