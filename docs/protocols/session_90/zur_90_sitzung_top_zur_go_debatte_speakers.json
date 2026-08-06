@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag am 13. Juli 2026 über die Geschäftsordnung und die Aufsetzung des Gebäudeenergiegesetzes (GEG) spiegelte bereits im Vorfeld und in der Folgezeit die unterschiedlichen politischen Positionen wider. Während die Koalitionsfraktionen auf die Notwendigkeit und die Rechtmäßigkeit der Verfahren drängten, kritisierten die Oppositionsparteien scharf die Umgehung parlamentarischer Beratungen und die mangelnde inhaltliche Auseinandersetzung. Externe Äußerungen der beteiligten Abgeordneten zeigen, dass die Debatten um das GEG von zentraler Bedeutung waren und von den Politikern auch außerhalb des Plenums intensiv vertreten wurden. Die Kritikpunkte der Opposition, wie mangelnde Transparenz und überstürzte Gesetzgebung, wurden ebenso wiederholt, wie die Argumente der Koalition für eine schnelle Verabschiedung zur Schaffung von Planungssicherheit.",
+  "sources": [
+    {
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Steffen Bilger drängte auf eine schnelle Einigung mit der SPD über das Gebäudeenergiegesetz und betonte die Notwendigkeit einer größeren Technologieoffenheit bei der Förderung. Er verwies auf den Koalitionsvertrag, der die Abschaffung des alten Heizungsgesetzes vorsah und eine Änderung des Gesetzes von Robert Habeck beinhaltete.",
+      "source_title": "Bilger pocht auf schnelle Einigung mit SPD bei Bürgergeld und Heizungsgesetz",
+      "url": "https://www.onvista.de/news/2025/11-11-bilger-pocht-auf-schnelle-einigung-mit-spd-bei-buergergeld-und-heizungsgesetz-0-20-26448789",
+      "platform": "Website"
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": false,
+      "statement": "Marc Bernhard kritisierte das Gebäudeenergiegesetz wiederholt als \"Heizungshammer\" und \"Mogelpackung\", da es die Bürger belaste und die Energiesicherheit gefährde. Er sprach sich für die Abschaffung des Gesetzes aus und warf der Regierung vor, die Menschen zu täuschen, indem sie Öl- und Gasheizungen durch CO2-Steuern und Zertifikatehandel praktisch unbezahlbar mache.",
+      "source_title": "Marc Bernhard: Ampel täuscht die Menschen beim Heizungsgesetz",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dirk Wiese begrüßte die Verabschiedung des Gebäudeenergiegesetzes und sprach von \"endlich Klarheit\", da das Gesetz konkrete Wege zum Klimaschutz aufzeige und Planungssicherheit schaffe. Er betonte, dass niemand überfordert werde und das Gesetz einen wichtigen Baustein für erneuerbare Energien und Energieeffizienz darstelle.",
+      "source_title": "Dirk Wiese begrüßt Klarheit beim Heizungsgesetz",
+      "url": "https://www.dirkwiese.de/2023/09/09/dirk-wiese-begruesst-klarheit-beim-heizungsgesetz/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Irene Mihalic kritisierte die \"Expressaufsetzung\" von Gesetzen als Ausdruck von Misstrauen und \"Fast Food\"-Gesetzgebung, die den Menschen schaden könne. Sie wies auf verfassungsrechtliche Zweifel am GEG hin, insbesondere wegen der widersprüchlichen Erlaubnis von Öl- und Gasheizungen zum Klimaziel, und lehnte die Aufsetzung ab.",
+      "source_title": "Rede in der GO-Debatte zum Heizungsgesetz der Bundesregierung - Irene Mihalic",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

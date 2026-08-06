@@ -21,7 +21,7 @@
     "topic": "90. Sitzung: Tagesordnungspunkt zur Geschäftsordnungsdebatte",
     "summary_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte.md",
     "documents_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/zur_90_sitzung_top_zur_go_debatte_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=e5Kv44nP6OM",
     "processed_at": "2026-07-18T08:07:28.465738"
   },
@@ -5208,7 +5208,7 @@
     "topic": "Öffentliches Fachgespräch: Biotechnologie und Künstliche Intelligenz",
     "summary_path": "protocols/session_unknown/top_unknown_expert_panel_discussion_on_biotechnology_and_artif.md",
     "documents_path": "protocols/session_unknown/top_unknown_expert_panel_discussion_on_biotechnology_and_artif_documents.json",
-    "speakers_path": "protocols/session_unknown/top_unknown_expert_panel_discussion_on_biotechnology_and_artif_speakers.json",
+    "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=lNF3HX0cvlA",
     "processed_at": "2026-07-12T20:11:40.426940"
   },
