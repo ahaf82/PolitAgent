@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte über die Speicherung von IP-Adressen im Strafverfahren offenbart eine deutliche Spaltung zwischen Regierung und Opposition. Während die Bundesregierung und die sie unterstützenden Fraktionen die dreimonatige Speicherung von IP-Adressen als essenzielles Werkzeug zur Bekämpfung von schwerer Online-Kriminalität und zum Schutz von Opfern darstellen, kritisiert die Opposition dies scharf als anlasslose Massenüberwachung, die Grundrechte verletze. Externe Äußerungen der beteiligten Politiker spiegeln diese Fronten wider, wobei die Notwendigkeit von Ermittlungswerkzeugen gegen digitale Kriminalität gegen Bedenken hinsichtlich des Datenschutzes und des „diffusen Gefühls des Beobachtetseins“ abgewogen wird. Juristische Bewertungen, insbesondere im Hinblick auf Urteile des Europäischen Gerichtshofs, spielen eine zentrale Rolle in der Argumentation beider Seiten.",
+  "sources": [
+    {
+      "name": "Dr. Stefanie Hubig",
+      "party": "SPD",
+      "found": true,
+      "statement": "Bundesjustizministerin Hubig verteidigt die geplante dreimonatige Speicherung von IP-Adressen als notwendiges Instrument zur Bekämpfung von Internetkriminalität, wie Kinderpornografie und Terrorismus. Sie betont, dass nur IP-Adressen, nicht aber Kommunikationsinhalte gespeichert werden, und dass dies europarechtlich zulässig sei.",
+      "source_title": "Rede der Bundesministerin der Justiz und für Verbraucherschutz, Dr. Stefanie Hubig",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/bmjv-ip-adressspeicherung-2444942",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ulrich von Zons kritisiert das Gesetz scharf und bezeichnet es als Versuch anlassloser Massenüberwachung, der Freiheit und Privatsphäre einschränke. Er warnt vor einem schleichenden Verlust der Freiheit und fordert eine Ablehnung des Gesetzes, da es die Vorgaben des EuGH ignoriere.",
+      "source_title": "Nein zur Vorratsdatenspeicherung 3.0",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-jan-koestering-am-24062026/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Günter Krings",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Günter Krings sieht in dem Gesetz einen Durchbruch für die Sicherheit und den Kinderschutz, da IP-Adressen oft die einzige Spur bei schwerer Kriminalität seien. Er betont, dass das Gesetz verfassungs- und europarechtskonform sei und eine notwendige Abwägung zugunsten der Sicherheit darstelle.",
+      "source_title": "Sicherheit im Netz: IP-Adressen speichern!",
+      "url": "https://www.cdu.de/aktuelles/digitalpolitik/sicherheit-im-netz-ip-adressen-speichern/",
+      "platform": "Website"
+    },
+    {
+      "name": "Anne König",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Helge Limburg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Helge Limburg kritisiert das Gesetz als anlasslose Massenspeicherung, die Grundrechte aushöhle und ein „diffuses Gefühl des Beobachtetseins“ erzeuge. Er warnt vor einem „Einfallstor“ für weitere Überwachungsmaßnahmen und kritisiert die einseitige Abwägung zulasten der Grundrechte.",
+      "source_title": "Kontroverse um eine Mindestspeicherung von IP-Adressen",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2024/kw49-de-mindestspeicherung-ipadressen-1032630",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jan Köstering",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Jan Köstering warnt vor erheblichen Sicherheitsrisiken durch die zentrale Speicherung sensibler Daten und befürchtet einen Missbrauch des Gesetzes zur Verfolgung von Kritik. Er schlägt rechtsstaatlich legitime Alternativen vor und betont die Verteidigung der Grundrechte.",
+      "source_title": "Nein zur Vorratsdatenspeicherung 3.0 - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-jan-koestering-am-24062026/",
+      "platform": "Presse"
+    }
+  ]
+}

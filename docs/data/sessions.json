@@ -645,7 +645,7 @@
     "topic": "Speicherung von IP-Adressen und Datenerhebung im Strafverfahren",
     "summary_path": "protocols/session_85/zp_2_ip_adressspeicherung_datenerhebung_strafverfahren.md",
     "documents_path": "protocols/session_85/zp_2_ip_adressspeicherung_datenerhebung_strafverfahren_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_85/zp_2_ip_adressspeicherung_datenerhebung_strafverfahren_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=d1lpPvGiVnY",
     "processed_at": "2026-06-27T08:39:32.505303"
   },
