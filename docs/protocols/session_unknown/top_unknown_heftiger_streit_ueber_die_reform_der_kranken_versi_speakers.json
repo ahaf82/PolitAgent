@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Bundestagsabgeordneten zum Thema der Kranken­versicherungs­reform spiegeln die im Plenum geäußerten Positionen wider. Martin Sichert und Claudia Weiß von der AfD kritisieren das Gesetz scharf als finanzielle Belastung für Bürger und Kommunen und werfen der Regierung Versagen vor. Dr. Christus von Darzis (SPD) betont die Notwendigkeit der Reform zur Sicherung der GKV und die Notwendigkeit fairer Lastenverteilung. Dr. Janos Damen (Bündnis 90/Die Grünen) bemängelt die Unzulänglichkeit und unausgewogene Ausgestaltung des Gesetzes, während Stell Marendino (Die Linke) vor strukturellen Bestrafungen des Gesundheitssystems und Einschnitten bei Pflegekräften warnt. Simone Borcher (CDU/CSU) hebt die Notwendigkeit der Deckungslücke hervor und verspricht eine Prüfung der Maßnahmen.",
+  "sources": [
+    {
+      "name": "Nina Weng",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert das Gesetz scharf als 'echte Katastrophe' und wirft der Regierung vor, sich aus der Verantwortung zu stehlen und die Kommunen zu belasten. Er bemängelt Leistungskürzungen und eine angeblich schlechte Kalkulation der Regierung.",
+      "source_title": "Plenum des Deutschen Bundestages - Debatte zur Kranken­versicherung",
+      "url": "https://www.youtube.com/watch?v=b7Df6CuyFeA&t=4444",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Christus von Darzis",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Janos Damen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stell Marendino",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Simone Borcher",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Claudia Weiß",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stefan Seitler",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
