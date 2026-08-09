@@ -1,0 +1,68 @@
+{
+  "synthesis": "Mehrere Bundestagsabgeordnete haben sich zur Reaktivierung der Bahnstrecke Freiburg-Colmar geäußert. Patrick Schnieder (CDU/CSU) betont die grundsätzliche Bereitschaft zur Umsetzung und schlägt eine Förderung über das GVFG vor, unterstreicht aber die Notwendigkeit der Klärung der Finanzierung auf französischer Seite. Philippe Tabarot (französischer Verkehrsminister) zeigt sich zurückhaltender bezüglich der Finanzierung und verweist auf den Lenkungsausschuss. Chantal Kopf (Bündnis 90/Die Grünen) setzt sich aktiv für das Projekt ein und sieht es als Symbol der deutsch-französischen Freundschaft, während sie auch konkreten Nutzen für die Region hervorhebt. Dr. Inge Gräßle (CDU/CSU) fragte konkret nach dem Stand der Brückenbaufinanzierung. Frau Cademartori (SPD) erkundigte sich nach verbindlicheren Strukturen und gemeinsamer EU-Unterstützung. Frau Conrad (Die Linke) fokussierte auf bezahlbare Tickets und Harmonisierung von Standards für Elektromobilität.",
+  "sources": [
+    {
+      "name": "Patrick Schnieder",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bekräftigte die Unterstützung für die Strecke im Rahmen des Aachener Vertrags und die positive Kostenschätzung. Schlug eine Förderung des deutschen Teils über das GVFG vor, bei der der Bund bis zu 90% fördern könne, bot aber weitere Gespräche zur Wirtschaftlichkeit auf französischer Seite an. Betonte, dass er über einen Staatsvertrag erst reden würde, wenn die Finanzierung geklärt ist.",
+      "source_title": "Tabarot und Schnieder halten an der Bahnstrecke Freiburg - Colmar fest (Deutscher Bundestag)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw24-pa-dfpv-1182168",
+      "platform": "Presse"
+    },
+    {
+      "name": "Philippe Tabarot",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Bestätigte die Verankerung der Strecke im Aachener Vertrag und Fortschritte bei der Interoperabilität. Betonte jedoch die schwierige Finanzierung und die Notwendigkeit, regionale Befindlichkeiten zu beachten. Verwies auf die Sitzung des deutsch-französischen Lenkungsausschusses.",
+      "source_title": "Tabarot und Schnieder halten an der Bahnstrecke Freiburg - Colmar fest (Deutscher Bundestag)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw24-pa-dfpv-1182168",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Gräßle",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Stellte Fragen zur ICE-Strecke Paris-Frankfurt und zur Bahnstrecke Freiburg-Colmar, wobei sie nach Verständigungen zum Brückenbau für letztere fragte.",
+      "source_title": "Tabarot und Schnieder halten an der Bahnstrecke Freiburg - Colmar fest (Deutscher Bundestag)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw24-pa-dfpv-1182168",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frau Cademartori",
+      "party": "SPD",
+      "found": true,
+      "statement": "Fragte nach verbindlicheren deutsch-französischen Strukturen zur Projektplanung, regelmäßigen Fortschrittsberichten, gemeinsamer EU-Unterstützung und der Förderung der Elektromobilität.",
+      "source_title": "Tabarot und Schnieder halten an der Bahnstrecke Freiburg - Colmar fest (Deutscher Bundestag)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw24-pa-dfpv-1182168",
+      "platform": "Presse"
+    },
+    {
+      "name": "Chantal Kopf",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Unterstrich die Unterstützung für die Reaktivierung der Bahnlinie Freiburg-Colmar als Symbol der deutsch-französischen Freundschaft und für umweltfreundliche Mobilität, und drängte auf eine Finanzierungsvereinbarung.",
+      "source_title": "Bahnlinie Freiburg-Colmar - Chantal Kopf",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Frau Conrad",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Fragte nach gemeinsamen Buchungsplattformen für bezahlbare Tickets und nach einer Harmonisierung von Nutzerzugängen, Abrechnungssystemen und Standards bei der grenzüberschreitenden Elektromobilität.",
+      "source_title": "Tabarot und Schnieder halten an der Bahnstrecke Freiburg - Colmar fest (Deutscher Bundestag)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw24-pa-dfpv-1182168",
+      "platform": "Presse"
+    },
+    {
+      "name": "Herr Ballten",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
