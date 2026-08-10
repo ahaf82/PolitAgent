@@ -99,7 +99,7 @@
     "topic": "Verschärfungen bei Krankschreibungen: Mehr Gesundheitsschutz, kein Misstrauen",
     "summary_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun.md",
     "documents_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun_documents.json",
-    "speakers_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun_speakers.json",
+    "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=U4Q-f1_aUss",
     "processed_at": "2026-07-21T08:05:44.345956"
   },
@@ -411,7 +411,7 @@
     "topic": "Aktuelle Stunde: Ukraine-Krieg",
     "summary_path": "protocols/session_86/zp_7_aktuelle_stunde_ukraine_krieg.md",
     "documents_path": "protocols/session_86/zp_7_aktuelle_stunde_ukraine_krieg_documents.json",
-    "speakers_path": "protocols/session_86/zp_7_aktuelle_stunde_ukraine_krieg_speakers.json",
+    "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=GgzQUz1CUOE",
     "processed_at": "2026-06-27T08:59:40.768622"
   },
