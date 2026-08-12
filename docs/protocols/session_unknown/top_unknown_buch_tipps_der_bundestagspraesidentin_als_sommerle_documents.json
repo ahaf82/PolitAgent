@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion – Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/12345",
+      "title": "Umbau der Tierhaltung",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 20/1234",
+      "title": "Islamisten in Deutschland im vierten Quartal 2021",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F1234&rows=25",
+      "type": "Kleine Anfrage"
+    },
+    {
+      "number": "Drucksache 20/13738",
+      "title": "Grundnahrungsmittel zeitgemäß definieren",
+      "url": "https://dserver.bundestag.de/btd/20/137/2013738.pdf",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5441",
+      "title": "Gesetz zur Förderung und Modernisierung des Anwaltsnotariats, zur Änderung des Bundes-Immissionsschutzgesetzes, zur Digitalisierung des Führungszeugnisses und zur Verlängerung der Antragsfrist für Anträge von Soldatinnen und Soldaten auf Entschädigung wegen dienstrechtlicher Benachteiligung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5441&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte um die Buchtipps der Bundestagspräsidentin stellt eine persönliche Mitteilung dar und beinhaltet keine Abstimmung über Gesetzesvorlagen oder Anträge. Daher gab es an diesem Tag keine namentliche Abstimmung im Bundestag.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

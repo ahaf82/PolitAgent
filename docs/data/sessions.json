@@ -1,5 +1,18 @@
 [
   {
+    "id": "rh5jbLJd4xo",
+    "title": "Buch-Tipps der Bundestagspräsidentin – als Sommerlektüre und darüber hinaus 🙏⤴️",
+    "session": 0,
+    "date": "2026-08-11",
+    "top": "N/A",
+    "topic": "Buchtipps der Bundestagspräsidentin für die Sommerpause und darüber hinaus",
+    "summary_path": "protocols/session_unknown/top_unknown_buch_tipps_der_bundestagspraesidentin_als_sommerle.md",
+    "documents_path": "protocols/session_unknown/top_unknown_buch_tipps_der_bundestagspraesidentin_als_sommerle_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=rh5jbLJd4xo",
+    "processed_at": "2026-08-12T08:00:39.184238"
+  },
+  {
     "id": "I8Hqp41XB6o",
     "title": "🪡🧵 gehören durchaus auch zu meinen Reise-Essentials ☺️",
     "session": 0,
@@ -99,7 +112,7 @@
     "topic": "Verschärfungen bei Krankschreibungen: Mehr Gesundheitsschutz, kein Misstrauen",
     "summary_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun.md",
     "documents_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_90/zp_22_aktuelle_stunde_verschaerfungen_bei_krankschreibun_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=U4Q-f1_aUss",
     "processed_at": "2026-07-21T08:05:44.345956"
   },
