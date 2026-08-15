@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema Einwanderung in Sozialsysteme und Sozialleistungsmissbrauch zeigte eine klare Frontlinie zwischen der AfD und den anderen Fraktionen. Während die AfD eine strikte Begrenzung und Rückführung forderte und hohe Kosten durch Zuwanderung geltend machte, betonten CDU/CSU, Grüne und SPD die Menschenwürde, die Vorteile der Migration und die Notwendigkeit rechtsstaatlicher Maßnahmen gegen Missbrauch. Externe Aussagen der identifizierten Abgeordneten spiegeln diese Haltungen wider. Gerit Rui (AfD) wiederholte die Forderung nach einem Einwanderungsstopp und nannte hohe Kosten, während Kai Witter (CDU/CSU) die AfD für ihre Prinzipienlosigkeit und ihre Angriffe auf den Sozialstaat kritisierte und auf bereits beschlossene Gesetze zur Bekämpfung von Missbrauch verwies. Timon Genus (Bündnis 90/Die Grünen) bezeichnete die AfD als rechtsextrem und hervorgehoben die positiven Aspekte von Migration für Deutschland.",
+  "sources": [
+    {
+      "name": "Gerit Rui",
+      "party": "AfD",
+      "found": true,
+      "statement": "Die Abgeordnete forderte einen sofortigen Stopp der Einwanderung in das Sozialsystem und nannte hohe jährliche Kosten. Sie kritisierte, dass ukrainische Geflüchtete direkt ins Bürgergeld gekommen seien und forderte die Rücknahme von Menschen aus Afghanistan und Syrien. Rui hob die Belastungen für Polizei, Wohnraum, Kitas und Schulen hervor und sprach sich für gemeinnützige Arbeit und eine Bezahlkarte aus.",
+      "source_title": "Debatte im Bundestag: Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen",
+      "url": "https://www.youtube.com/watch?v=ZjAWxACyEJc&t=41",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Kai Witter",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Der Abgeordnete warf der AfD \"bandenmäßigen Betrug am Steuerzahler\" vor und kritisierte, dass ihr Antrag unterstelle, die Bundesregierung täte nichts gegen Sozialleistungsmissbrauch. Er verwies auf bereits beschlossene Gesetze zur Schwarzarbeitsbekämpfung und die Einrichtung eines Kompetenzzentrums gegen Leistungsmissbrauch. Witter betonte die Prinzipien des Sozialstaates und die Achtung der Menschenwürde.",
+      "source_title": "Debatte im Bundestag: Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen",
+      "url": "https://www.youtube.com/watch?v=ZjAWxACyEJc&t=318",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Timon Genus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Der Abgeordnete bezeichnete die AfD als \"rechtsextreme Fraktion\" und betonte, dass Migration \"etwas Tolles\" und \"Bereicherndes\" sei, das Deutschland voranbringe. Er warf der AfD Spaltung und Hetze vor und nannte positive Beispiele wie Döner und Fußballspieler mit Migrationshintergrund.",
+      "source_title": "Debatte im Bundestag: Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen",
+      "url": "https://www.youtube.com/watch?v=ZjAWxACyEJc&t=601",
+      "platform": "Plenumsprotokoll"
+    }
+  ]
+}
