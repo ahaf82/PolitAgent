@@ -424,7 +424,7 @@
     "topic": "Aktuelle Stunde: Ukraine-Krieg",
     "summary_path": "protocols/session_86/zp_7_aktuelle_stunde_ukraine_krieg.md",
     "documents_path": "protocols/session_86/zp_7_aktuelle_stunde_ukraine_krieg_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_86/zp_7_aktuelle_stunde_ukraine_krieg_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=GgzQUz1CUOE",
     "processed_at": "2026-06-27T08:59:40.768622"
   },

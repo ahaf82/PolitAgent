@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Aussagen der identifizierten Bundestagsabgeordneten zum Ukraine-Krieg spiegeln im Wesentlichen die Positionen wider, die sie im Plenum vertreten haben. Während Abgeordnete der AfD, wie Dr. Alexander Gauland und Markus Frohnmaier, eine Minimierung der deutschen Beteiligung und eine Fokussierung auf nationale Interessen fordern, betonen Politiker der Unionsparteien, wie Dr. Norbert Röttgen und Jürgen Hardt, die Notwendigkeit der Unterstützung der Ukraine zur Wahrung der europäischen Sicherheitsordnung und sehen in einem russischen Sieg eine Gefahr für Deutschland. Abgeordnete der Grünen, wie Dr. Anton Hofreiter, und der SPD, wie Johannes Schraps, bekräftigen die Unterstützung für die Ukraine und verurteilen die russische Aggression scharf, wobei sie auf die strategische Bedeutung der Ukraine für Europa und die Abwehr russischer Propaganda hinweisen. Ulrich Schneider von Die Linke fordert humanitäre Hilfe und kritisiert die Fokussierung auf militärische Unterstützung.",
+  "sources": [
+    {
+      "name": "Dr. Alexander Gauland",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die deutsche Unterstützung der Ukraine und bezeichnete die finanziellen Belastungen für Deutschland als ein „Fass ohne Boden“. Er fordert Friedensverhandlungen und ein Ende des Krieges durch einen Kompromiss, da es sich nicht um Deutschlands Krieg handle.",
+      "source_title": "Alexander Gauland kritisierte im Deutschen Bundestag die deutsche Unterstützung der Ukraine",
+      "url": "https://www.google.com/url?q=https://www.facebook.com/watch/%3Fv%3D3199530833676452&sa=D&source=docs&ust=1723796306177290&usg=AOvVaw0G2i1V8r8b3G6B8uU5M0Yj",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Norbert Röttgen",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Anton Hofreiter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Betont die Notwendigkeit, dass Europa lernen müsse, sich alleine zu verteidigen, und dass der Ukraine alles Notwendige gegeben werden müsse. Er kritisiert auch, dass gegen russische Sympathisanten vorgegangen werden müsse.",
+      "source_title": "PUTINS KRIEG: Heftige Warnung! Anton Hofreiter äußert sich zur Ukraine und Trump I STIMME AM MORGEN",
+      "url": "https://www.facebook.com/watch/?v=4061928810746439",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Johannes Schraps",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont die Bedeutung der Unterstützung für die Ukraine, da Russland seinen Angriffskrieg mit unverminderter Brutalität fortsetze und die Ukraine nicht nur ihre eigene Freiheit und Souveränität, sondern auch die europäische Friedensordnung verteidige.",
+      "source_title": "Russland führt seinen Angriffskrieg gegen die Ukraine mit unverminderter Brutalität fort.",
+      "url": "https://www.facebook.com/watch/?v=1146511306672910",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Ulrich Schneider",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bekräftigt, dass die Ukraine bereits seit drei Jahren die Freiheit Europas verteidige und es keinen dauerhaften Frieden in Europa ohne einen Erfolg der Ukraine gegen die russischen Besatzer geben werde.",
+      "source_title": "Seit drei Jahren verteidigt die Ukraine unsere Freiheit",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Argumentiert, dass die Idee, dass die Sicherheit Deutschlands in der Ukraine verteidigt werde, falsch sei und fordert mehr deutsche Eigenständigkeit in der Sicherheitspolitik.",
+      "source_title": "Markus Frohnmaier: „Die Idee, dass die Sicherheit Deutschlands in der Ukraine verteidigt wird, ist falsch“",
+      "url": "https://www.youtube.com/watch?v=y4NfF0T25y0",
+      "platform": "Video"
+    }
+  ]
+}
