@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema psychosoziale Prozessbegleitung stieß außerhalb des Plenums auf unterschiedliche Reaktionen. Während die Koalitionsfraktionen die Notwendigkeit und geplante Verbesserungen betonten, äußerten sich Oppositionsvertreter kritisch bezüglich der Reichweite und Effektivität des Gesetzentwurfs. Abgeordnete wie Kathrin Gebel (Die Linke) hoben die Bedeutung des Zugangs zum Recht und die prekäre Bezahlung der Prozessbegleiterinnen hervor. Dr. Lena Gumnior (Bündnis 90/Die Grünen) bemängelte, dass nicht alle Betroffenengruppen ausreichend erfasst seien und forderte weitere Nachbesserungen. Auf der anderen Seite verteidigten Abgeordnete wie Christian Moser (CDU/CSU) den Entwurf als wichtige Maßnahme zum Opferschutz. Die AfD-Vertreter Knutmeier Soltau und Tobias Matthias Peterker kritisierten den Gesetzentwurf scharf und bezeichneten ihn als politisches Manöver.",
+  "sources": [
+    {
+      "name": "Frank Schwabe",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als Parlamentarischer Staatssekretär im Bundesministerium der Justiz und für Verbraucherschutz setzt sich Frank Schwabe für die Stärkung des Rechtsstaats ein und betont die Schutzfunktion des Staates für die Bürger. Er engagiert sich zudem für Menschenrechte und internationale Zusammenarbeit.",
+      "source_title": "Meine Arbeit – Frank Schwabe MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Knutmeier Soltau",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Christian Moser betont die Notwendigkeit, dass der Staat Opferschutz konsequent mitdenken muss und begrüßt die Ausweitung der psychosozialen Prozessbegleitung sowie die Erleichterung des Zugangs für Opfer.",
+      "source_title": "Christian Moser - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Axel Müller weist darauf hin, dass Opfer oft aus dem Blick geraten und begrüßt die im Gesetzentwurf vorgesehenen Anpassungen zur Verbesserung der psychosozialen Prozessbegleitung, nachdem die bisherigen Angebote nicht alle Betroffenen erreichen.",
+      "source_title": "Axel Müller - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Johannes Rotenberger",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Johannes Rotenberger betont, dass eine Straftat ein Angriff auf das Opfer und den Rechtsstaat sei und die psychosoziale Prozessbegleitung zur Sachverhaltsaufklärung und Stärkung des Rechtsstaats beitrage. Er begrüßt die Erhöhung der Vergütung, die Erweiterung der Berechtigten und die Verfahrenserleichterungen.",
+      "source_title": "Johannes Rotenberger - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Lena Gumnior",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Lena Gumnior kritisiert, dass der Gesetzentwurf nicht alle Betroffenen ausreichend erfasse und fordert den Abbau weiterer Hürden im Verfahren sowie eine Anhebung der zu niedrigen Vergütungssätze für Prozessbegleiter.",
+      "source_title": "Dr. Lena Gumnior - Grüne Niedersachsen",
+      "url": "https://www.gruene-achim.de/dr-lena-gumnior/",
+      "platform": "Website"
+    },
+    {
+      "name": "Katrin Gebel",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Katrin Gebel betont die Bedeutung des Zugangs zum Recht und kritisiert, dass die unterbezahlte Arbeit der überwiegend weiblichen Fachkräfte im Bereich der psychosozialen Prozessbegleitung angegangen werden müsse.",
+      "source_title": "Access to justice must not be a matter of luck | Speech by Kathrin Gebel in the Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karen Wecke",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Tobias Matthias Peterker",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
