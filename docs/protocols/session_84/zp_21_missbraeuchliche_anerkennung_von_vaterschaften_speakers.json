@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die externen Reaktionen und Beiträge der identifizierten Bundestagsabgeordneten zum Thema 'Missbräuchliche Anerkennung von Vaterschaften' spiegeln die unterschiedlichen Positionen der Fraktionen wider. Abgeordnete der CDU/CSU und AfD betonen die Notwendigkeit strikterer Regelungen zur Verhinderung von Scheinvaterschaften, die als Missbrauch von Sozialleistungen und zur Erlangung von Aufenthaltstiteln angesehen werden. Die AfD, vertreten durch Stephan Brandner, fordert dabei auch verpflichtende DNA-Analysen und kritisiert die Regierung für zu langsames Handeln. Abgeordnete der SPD, wie Hakan Demir, erkennen zwar den Missstand an, heben aber die im parlamentarischen Verfahren vorgenommenen Nachbesserungen zur Abgrenzung des Anwendungsbereichs hervor, um legitime Familien nicht zu unterverdächtigen. Die Grünen, vertreten durch Pollt, und Die Linke, mit Klara Bünger, äußern starke Kritik und sehen in dem Gesetzentwurf einen unverhältnismäßigen Generalverdacht gegen binationale Familien sowie einen Bruch mit Kinderrechtskonventionen.",
+  "sources": [
+    {
+      "name": "Dr. Cornell Babendererde",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Sie betont, dass das Gesetz eine wichtige Lücke im Aufenthaltsrecht schließt, missbräuchliche Vaterschaftsanerkennungen wirksam verhindert und somit organisierte Scheinvaterschaften bekämpft. Dies diene dem Schutz echter Verantwortungsgemeinschaften und stärke die Integrität des Rechtsstaats.",
+      "source_title": "Schlag gegen Sozialstaatsmissbrauch | CDU·CSU-Fraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Brandner",
+      "party": "AfD",
+      "found": false,
+      "statement": "Er kritisiert, dass Deutschland scharfe gesetzliche Regelungen benötige und die AfD bereits frühzeitig einen Gesetzentwurf eingebracht habe. Brandner fordert zwingende Beteiligung von Ausländerbehörden und gegebenenfalls DNA-Tests zur Feststellung der Vaterschaft, um Missbrauch effektiv zu bekämpfen.",
+      "source_title": "Stephan Brandner: Missbräuchliche Anerkennung von Vaterschaften endlich wirksam bekämpfen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kamenwäcke",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sie erklärt, dass das Gesetz einen realen Missstand adressiert, aber durch parlamentarische Nachbesserungen der Anwendungsbereich eingegrenzt und Ausnahmen geschaffen wurden, um legitime Familien nicht zu belasten. Eine weitere Änderung betrifft die Zuständigkeit der Amtsgerichte bei Strom- und Gassperren.",
+      "source_title": "Gesetz gegen Missbrauch bei Vaterschaftsanerkennung beschlossen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Pollt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sie kritisiert das Gesetz scharf und bezeichnet es als Schaffung eines Sonderfamilienrechts, das Familien mit \"Aufenthaltsgefälle\" unter Generalverdacht stelle. Pollt hält die Vermutungs- und Ausnahmetatbestände für problematisch und lebensfremd.",
+      "source_title": "Gesetz gegen Missbrauch bei Vaterschaftsanerkennung beschlossen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Klara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sie bezeichnet das Gesetz als diskriminierend, verfassungswidrig und einen Bruch mit der UN-Kinderrechtskonvention. Bünger kritisiert, dass tausende binationale Familien unter Generalverdacht gestellt würden, während die Missbrauchszahlen gering seien.",
+      "source_title": "Clara Bünger - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Clara_B%C3%BCnger",
+      "platform": "Website"
+    },
+    {
+      "name": "Daniela Ludwig",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Sie erklärt, dass das Gesetz Vaterschaftsanerkennungen bekämpft, die rechtsmissbräuchlich zur Erlangung eines Aufenthaltstitels dienen und dies als \"Schleuserei mit neuen Mitteln\" bezeichnet. Die Ausländerbehörden sollen zukünftig entscheiden, ob eine Anerkennung Misstrauen erweckt.",
+      "source_title": "Gesetz gegen Missbrauch bei Vaterschaftsanerkennung beschlossen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Anna Ratert",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er verteidigt das Gesetz, indem er betont, dass es missbräuchliche Anerkennungen unterbinden und gleichzeitig Gruppen ohne Verdachtsrisiko eine schnelle Anerkennung ermöglichen soll. Demir bezeichnet die Bezeichnung des Gesetzes als \"Generalverdacht\" als absurd.",
+      "source_title": "Hakan Demir, MdB | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/hakan-demir-mdb",
+      "platform": "Website"
+    },
+    {
+      "name": "Toulu",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

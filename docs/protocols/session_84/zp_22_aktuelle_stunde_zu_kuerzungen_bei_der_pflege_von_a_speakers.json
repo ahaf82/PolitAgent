@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die Debatte im Bundestag drehte sich um die geplanten Kürzungen bei der Pflege von Angehörigen und die damit verbundenen Sorgen. Abgeordnete verschiedener Parteien äußerten sich kritisch zu den Plänen, insbesondere hinsichtlich der Rentenansprüche pflegender Angehöriger. Während die CDU/CSU die Notwendigkeit einer finanzierbaren Pflegeversicherung betonte und den Referentenentwurf verteidigte, kritisierten die AfD die Pläne als \"gefühlskalt\" und \"unmenschlich\". Die SPD versprach sich für eine angemessene Alterssicherung einzusetzen, die Linke forderte bessere Rentenansprüche statt Kürzungen. Auch das BSW äußerte Bedenken hinsichtlich der Prioritätensetzung der Regierung.",
+  "sources": [
+    {
+      "name": "Britta Haßelmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sie kritisierte, dass die Bundesregierung versuche, die Situation auf dem Rücken der Pflegebedürftigen und ihrer Angehörigen zu sanieren, und bemängelte, dass die Rentenpunkte pflegender Angehöriger angetastet werden sollen. Sie forderte eine Überarbeitung des Referentenentwurfs.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katrin Staffler",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie betonte die Notwendigkeit einer finanziell tragfähigen Pflegeversicherung und verteidigte den Referentenentwurf als Schritt zur Stabilität, erwähnte aber auch die Wichtigkeit, die Rentenpunkte pflegender Angehöriger zu diskutieren und sich für Anpassungen einzusetzen.",
+      "source_title": "Pflegebevollmächtigte Staffler will sich für Anpassungen an Pflegereform einsetzen – News – Deutsches Ärzteblatt",
+      "url": "https://www.aerzteblatt.de/news/folgen-der-coronapandemie-bringen-psychotherapeuten-an-ihre-grenzen-050e50a4-72ab-476f-b981-8f52c878b7d5",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "found": false,
+      "statement": "Er bezeichnete die Pflegereformpläne als \"gefühlskalt, herzlos, unmenschlich\" und kritisierte insbesondere die geplanten Rentenkürzungen für pflegende Angehörige, die er als \"Rentenkürzung statt Respekt\" bezeichnete.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Claudia Mold",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sie betonte, dass Pflege von Angehörigen nicht in Armut führen dürfe und dass die Politik gefordert sei, tragfähige Lösungen zu finden, auch wenn Zielkonflikte bestehen. Sie versprach, sich für die angemessene Abbildung pflegebedingter Unterbrechungen der Erwerbstätigkeit in der Rentenversicherung einzusetzen.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Evelin Schötz",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sie kritisierte die geplanten Rentenkürzungen als sozialpolitisch und frauenpolitisch falsch und kurzsichtig, da sie zu Altersarmut führe. Sie forderte einen Pflegelohn und bessere Rentenansprüche statt Kürzungen.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anne Jansen",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Sie betonte die Notwendigkeit, dass Pflege nicht in Armut führt, und dass die Pflegeversicherung unter erheblichem Druck stehe. Sie stellte die Frage nach der Erhaltung der Voraussetzungen für zukünftige Generationen.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Claudia Weiß",
+      "party": "AfD",
+      "found": false,
+      "statement": "Sie kritisierte die Bundesregierung für die Verlagerung von Arbeit auf Familien, während Leistungen gekürzt und Zugänge erschwert würden. Sie bemängelte gekürzte Rentenansprüche für pflegende Angehörige, die zu Altersarmut führten, und sah darin eine Kostenverschiebung zulasten der Angehörigen und Kommunen.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Tanja Machalet",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sie betonte, dass Pflege von Angehörigen unsichtbare Höchstleistung sei und die Anerkennung nicht beschnitten werden dürfe. Sie sprach die Herausforderungen bei der Finanzierung des Gesundheits- und Pflegesystems an und verwies auf die Notwendigkeit besserer Strukturen.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Simone Fischer",
+      "party": "BSW",
+      "found": false,
+      "statement": "Sie äußerte sich überrascht über manche Beiträge und schilderte Beispiele von Erschöpfung und Existenzängsten pflegender Angehöriger. Sie kritisiert die Kürzungsdebatten der Bundesregierung als gefährlich für das Vertrauen in den Sozialstaat und bemängelte, dass die Bundesregierung die falschen Prioritäten setze.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nora Seit",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Sie betonte, dass die CDU/CSU sich der grundlegenden Reform der Pflege stelle und dass Pflege nicht in Armut führen dürfe. Sie brachte ein persönliches Beispiel aus der Unternehmensgeschichte ihrer Familie und hob die Schwierigkeit hervor, Beruf, Familie und Pflege zu vereinbaren.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulrike Schilke Zies",
+      "party": "AfD",
+      "found": false,
+      "statement": "Sie kritisierte die Kürzung von Rentenbeiträgen bei pflegenden Angehörigen als \"bösartig und unverständlich\" und verwies auf die durch häusliche Pflege eingesparten Milliarden sowie die drohenden Kostensteigerungen bei stationärer Pflege.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christoph Naser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er nannte vier Leitlinien: Pflege darf nicht in Armut führen, nicht aus dem Beruf verdrängen, Familien nicht überfordern und Pflegende nicht ohne Absicherung lassen. Er stellte die Frage, wie die Voraussetzungen für einen leistungsfähigen Sozialstaat für kommende Generationen erhalten werden können.",
+      "source_title": "Kürzungspläne für pflegende Angehörige stoßen auf Kritik - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
