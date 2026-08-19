@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Debatte um bezahlbaren Wohnraum und nachhaltige Stadtentwicklung zeigte unterschiedliche Fraktionspositionen. Die Grünen forderten mehr staatliche Leitplanken und die Umnutzung von Leerstand, während die CDU/CSU auf lokale Entscheidungshoheit und private Initiativen setzte. Die AfD kritisierte staatliche Eingriffe scharf und sprach sich für Deregulierung aus. Die SPD betonte pragmatische Lösungen und den bereits eingeschlagenen \"Bauturbo\". Externe Aussagen spiegeln diese Positionen wider: Die Grünen betonten die Notwendigkeit sozialer Quoten und ökologischer Aspekte, die CDU/CSU hob die Komplexität von Umnutzungen und die Bedeutung lokaler Expertise hervor, und die AfD warnte vor Bürokratie und staatlicher Planwirtschaft. Die SPD verteidigte ihre Ansätze zur Beschleunigung von Bauverfahren.",
+  "sources": [
+    {
+      "name": "Silvia Rietenberg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sie kritisiert den \"Bauturbo\" der Bundesregierung als unzureichend für bezahlbaren Wohnraum und betont die Notwendigkeit sozialer und ökologischer Kriterien sowie die Stärkung kommunaler Planungshoheit. Rietenberg fordert eine sozial gerechte, ökologische und gemeinwohlorientierte Stadtentwicklung mit Priorität auf Innenentwicklung und Umbau.",
+      "source_title": "Rietenberg und Korte kritisieren „Bauturbo“ der Bundesregierung: Schnellschüsse statt nachhaltiger Lösungen",
+      "url": "https://gruene-muenster.de/2025/rietenberg-und-korte-kritisieren-bauturbo-der-bundesregierung-schnellschuesse-statt-nachhaltiger-loesungen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Katja Strauß Köster",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie betont, dass die Umnutzung von Bürogebäuden nicht immer möglich oder sinnvoll ist, da dies zu Nutzungskonflikten und Verlust von Flächen für Arbeitsplätze führen kann. Strauß Köster hebt die Bedeutung lokaler Entscheidungsspielräume und die Städtebauförderung hervor.",
+      "source_title": "meine 14. Rede Leerstehende Büros in Wohnungen umwandeln? Das kann eine Chance sein, aber nicht überall und nicht um jeden Preis. Nicht jedes Gebäude eignet sich dafür u",
+      "url": "https://www.facebook.com/100064190648460/videos/meine-14-rede-leerstehende-b%C3%BCros-in-wohnungen-umwandeln-das-kann-eine-chance-sei/971455055683875/",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Otto Strauß",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisiert die Wohnungspolitik der Bundesregierung als gescheitert und fordert den Abbau von Vorschriften und Bürokratie, um Bauen und Wohnen bezahlbar zu machen. Strauß lehnt staatliche Eingriffe und \"ideologische Projekte\" ab und betont die Notwendigkeit, die Ursachen der Wohnungsnot anzugehen.",
+      "source_title": "AfD-Fraktion fordert Kurswechsel in der Wohnungspolitik",
+      "url": "https://afdbundestag.de/afd-fraktion-fordert-kurswechsel-in-der-wohnungspolitik/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Philip Rottwilm",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er verteidigt den \"Bauturbo\" der Koalition als pragmatische Lösung zur Beschleunigung von Bauverfahren und betont, dass dieser den Kommunen Flexibilität im Einklang mit ihren Planungsrechten gebe. Rottwilm lehnt radikale Ansätze wie Mietendeckel und Remilitarisierung ab.",
+      "source_title": "Bundestagsfraktion vor Ort – „Wir zünden den Bauturbo. Mehr Tempo im Wohnungsbau – für mehr bezahlbaren Wohnraum“",
+      "url": "https://www.philipp-rottwilm.de/2025/11/07/bundestagsfraktion-vor-ort-wir-zuenden-den-bauturbo-mehr-tempo-im-wohnungsbau-fuer-mehr-bezahlbaren-wohnraum/",
+      "platform": "Website"
+    },
+    {
+      "name": "Katharin Genburg",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Volker Scheurell",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisiert die Klimapolitik als Belastung für die Wohnungswirtschaft und fordert eine Energiepolitik, die bezahlbares Bauen ermöglicht, anstatt auf \"grüne Ideologie\" zu setzen. Scheurell sieht in der CO2-Abgabe eine Ursache für steigende Mieten und Baukosten.",
+      "source_title": "Wohnungsnot durch grüne Ideologie! Volker Scheurell - AfD-Fraktion im Bundestag",
+      "url": "https://www.youtube.com/watch?v=vc0mOxuaX58",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Meira Frisema",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
