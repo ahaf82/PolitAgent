@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag über Wohngeld und geplante Kürzungen offenbarte unterschiedliche Positionen der Parteien. Während Die Linke und Bündnis 90/Die Grünen die Kürzungen scharf kritisierten und soziale Härten befürchteten, betonten CDU/CSU und SPD die angespannte Haushaltslage und die Notwendigkeit von Einsparungen, wobei die SPD auf parlamentarische Lösungsfindung verwies. Die AfD lehnte die Kürzungen ab und verband die Problematik mit Migrationspolitik. Externe Recherchen ergaben, dass Abgeordnete wie Sara Miro (Die Linke) und Meira Seem (Bündnis 90/Die Grünen) ihre Kritik aus dem Plenum auch auf Social Media und ihren Webseiten bekräftigten, indem sie auf die betroffenen Gruppen wie Rentner und Familien hinwiesen. Andere Abgeordnete wie Dr. Jan Marco Lucak (CDU/CSU) und Michael Kiesling (CDU/CSU) setzten sich eher mit den Haushaltszwängen und Lösungsansätzen für mehr bezahlbaren Wohnraum auseinander, was sich auf ihren Fraktionsseiten und in Presseerklärungen widerspiegelte. Für einige Abgeordnete wie Mark Bernard (AfD) und Henrik Pollmann (SPD) waren die externen Stellungnahmen primär auf die Positionierung ihrer Parteien im politischen Diskurs fokussiert, oft auf den jeweiligen Fraktionswebseiten.",
+  "sources": [
+    {
+      "name": "Sara Miro",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sara Miro kritisierte die geplanten Wohngeldkürzungen als \"sozialpolitische Sauerei\" und betonte die Notwendigkeit von mehr bezahlbarem Wohnraum sowie die Finanzierung durch Militärausgaben und Vermögensteuer. Sie verurteilte die Kürzungen als einen sozialen Kahlschlag.",
+      "source_title": "Debatte im Bundestag: Kürzungen beim Wohngeld sind asozial!",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Jan Marco Lucak",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Lucak verteidigte die Notwendigkeit von Haushaltskonsolidierung und warnte vor populistischer Rhetorik bei der Debatte um das Wohngeld. Er betonte die Wichtigkeit, die Ursachen steigender Wohnkosten durch Schaffung von mehr bezahlbarem Wohnraum anzugehen.",
+      "source_title": "Haushaltsberatungen: Kurs halten, Vertrauen bilden, Zukunft gestalten – Für solide Finanzen und eine starke Wirtschaft",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mark Bernard",
+      "party": "AfD",
+      "found": false,
+      "statement": "Mark Bernard kritisierte die geplanten Wohngeldkürzungen als \"asozial\" und führte steigende Wohnkosten auf die Klimapolitik der Regierung zurück. Er forderte die Abschaffung von Heizungsgesetz, CO2-Steuer und Grundsteuer, um Wohngeld langfristig überflüssig zu machen.",
+      "source_title": "AfD-Fraktion fordert Stopp der Wohngeldkürzungen und Wegfall der Heizungs- und CO2-Steuer",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Henrik Pollmann",
+      "party": "SPD",
+      "found": true,
+      "statement": "Henrik Pollmann verteidigte die Notwendigkeit der Wohngeldreform 2023 und betonte die finanziellen Herausforderungen für den Bund. Er kündigte an, sich für eine gute Lösung für Wohngeldempfänger im parlamentarischen Verfahren einzusetzen und kritisierte die Opposition für vermeintliche Widersprüche.",
+      "source_title": "Wohngeldreform: SPD kämpft für bezahlbares Wohnen",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/wohngeldreform-spd-kaempft-bezahlbares-wohnen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Meira Seem",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Meira Seem bezeichnete die geplante Kürzung von einer Milliarde Euro beim Wohngeld als \"größte Sozialkürzung der Regierung\" und kritisierte diese im Kontext steigender Mieten und Heizkosten. Sie forderte die Rücknahme der Kürzungen und die Beibehaltung wichtiger Komponenten.",
+      "source_title": "Sozialkürzungen stoppen: Grüne fordern Kurswechsel bei Wohngeld",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Kiesling",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Michael Kiesling kritisierte die Panikmache der Opposition bezüglich der Wohngeldkürzungen und betonte die Notwendigkeit, den Sozialstaat zukunftsfest zu machen, was auch Einsparungen beinhalte. Er sah die Notwendigkeit privater Investitionen für den Wohnungsbau.",
+      "source_title": "CDU/CSU: Haushaltskonsolidierung ist notwendig für eine stabile Zukunft",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

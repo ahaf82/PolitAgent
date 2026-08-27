@@ -815,7 +815,8 @@
     "summary_path": "protocols/session_84/34_wohngeld.md",
     "documents_path": "protocols/session_84/34_wohngeld_documents.json",
     "youtube_url": "https://www.youtube.com/watch?v=awg5PKlQ9Gs",
-    "processed_at": "2026-06-15T13:12:02.607839"
+    "processed_at": "2026-06-15T13:12:02.607839",
+    "speakers_path": "protocols/session_84/34_wohngeld_speakers.json"
   },
   {
     "id": "LhynOB3pbE0",
