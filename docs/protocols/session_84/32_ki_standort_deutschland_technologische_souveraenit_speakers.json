@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Aussagen der identifizierten Bundestagsabgeordneten zum Thema KI-Standort Deutschland und technologische Souveränität spiegeln im Wesentlichen die im Plenum dargelegten Positionen wider. Die AfD betont die Notwendigkeit eines nationalen Aufbruchs, kritisiert die Energiepolitik und fordert Bürokratieabbau. CDU/CSU-Politiker wie Ralph Brinkhaus setzen sich für europäische Kooperation und eine praktikable Regulierung ein, während sie die Bedeutung von KI für die Wettbewerbsfähigkeit hervorheben. Die SPD, vertreten durch Dr. Carolin Wagner und Matthias David Meis, plädiert für werteorientierte KI „Made in Europe“, erneuerbare Energien und kritisiert die Vorschläge der AfD. Die Grünen, repräsentiert durch Rebecca Lenhard, fordern eine europäische KI-Entwicklung und kritisieren die nationalen Ansätze der AfD. Donata Fuchtschmidt von Die Linke bemängelt das mangelnde Verständnis der AfD für globale Softwarezusammenarbeit und fordert stärkere Regulierung.",
+  "sources": [
+    {
+      "name": "Ruben Rub",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ruben Rupp (AfD) kritisiert die EU-Bürokratie im Rahmen des AI Acts und betont die Notwendigkeit eines nationalen KI-Gesetzes, das Innovationen fördert und bürokratische Hürden abbaut, um deutsche und europäische KI-Unternehmen wettbewerbsfähig zu halten. Er fordert, die Umsetzung des AI Acts so sparsam wie möglich zu gestalten.",
+      "source_title": "Aufschub der Pflichten für KI-Hochrisiko-Anwendungen bietet Chance zum Bürokratieabbau - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/aufschub-der-pflichten-fuer-ki-hochrisiko-anwendungen-bietet-chance-zum-buerokratieabbau/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ralf Brinkhaus",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Ralph Brinkhaus betont die Notwendigkeit gemeinsamer internationaler Mindeststandards im Umgang mit KI, insbesondere für leistungsfähige Systeme. Er fordert von der Bundesregierung, den Vorschlag zur Schaffung einer weltweiten Aufsicht für KI aktiv voranzutreiben, um europäische Unternehmen wettbewerbsfähig zu halten und Deutschland sowie Europa nicht auf der Zuschauertribüne sitzen zu lassen.",
+      "source_title": "Wir brauchen gemeinsame Mindeststandards im Umgang mit KI | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/presse/wir-brauchen-gemeinsame-mindeststandards-im-umgang-mit-ki",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Rebecca Lenhard kritisiert die mangelnde Transparenz bei der Umsetzung des AI Acts und das Zurückbleiben der Bundesregierung bei der nationalen Umsetzung. Sie fordert eine beschleunigte Einbringung des nationalen Umsetzungsgesetzes zur europäischen KI-Verordnung, um klare Zuständigkeiten und Ressourcen zu schaffen und die Vorgaben der EU rasch und wirksam umzusetzen.",
+      "source_title": "Fortschritt bei der Regulierung, Rückschritt bei der Transparenz | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": false,
+      "statement": "Dr. Carolin Wagner kritisiert die Gefahren von KI für die Demokratie, wie Deep Fakes, und die Vernachlässigung des Schutzes von Demokratie und Verbraucherrechten durch die AfD. Sie betont die Bedeutung eines werteorientierten KI-Ansatzes \"Made in Europe\", der dem EU AI Act entspricht, und die Notwendigkeit einer sauberen Energieversorgung.",
+      "source_title": "SPD: Ermessens-Entscheidungen in Behörden dürfen nicht der KI überlassen werden - SPD-Fraktion im Bayerischen Landtag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Donata Fuchtschmidt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Robin Jünger betont die Notwendigkeit, Deutschland in Bezug auf KI und digitale Souveränität voranzubringen. Er spricht sich für eine moderne, effiziente Verwaltung und eine frühzeitige Vermittlung von KI-Kompetenz aus, um eine souveräne Nutzung der Technologie durch junge Menschen zu gewährleisten.",
+      "source_title": "Robin Jünger, MdB – Bundestagsabgeordneter für Gießen",
+      "url": "https://www.robin-juenger.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Matthias David Meis",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
