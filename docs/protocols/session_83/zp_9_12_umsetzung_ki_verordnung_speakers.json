@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zur Umsetzung der EU-KI-Verordnung spiegelte unterschiedliche politische Prioritäten wider. Während Abgeordnete von CDU/CSU und SPD die Notwendigkeit einer ausgewogenen Regulierung betonten, die Innovation fördert und Deutschland als Partner im globalen KI-Rennen positioniert, übte die Opposition, insbesondere die AfD, scharfe Kritik an bürokratischen Auflagen und Ressourcenmangel. Bündnis 90/Die Grünen und Die Linke forderten stärkere Schutzmechanismen für Grundrechte, mehr Transparenz und schärfere Regeln für Hochrisiko-KI-Anwendungen. Externe Äußerungen der Abgeordneten bestätigten diese Haltungen, wobei sich die CDU/CSU auf eine innovationsfreundliche Umsetzung konzentrierte, die AfD vor übermäßiger Bürokratie warnte und die Grünen auf die Dringlichkeit von mehr Transparenz und effektivem Grundrechtsschutz pochten.",
+  "sources": [
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Marvin Schulz betont, dass die Umsetzung der EU-KI-Verordnung so \"innovationsoffen wie möglich\" gestaltet werden müsse, um der KI-Entwicklung und -Nutzung in Deutschland keine Steine in den Weg zu legen. Er sieht die Stärkung des Koordinierungs- und Kompetenzzentrums bei der Bundesnetzagentur als Erfolg für mehr Zentralisierung und Effizienz. Die CDU/CSU-Fraktion setzt sich für eine 1:1-Umsetzung der EU-Verordnung mit klaren Zuständigkeiten ein.",
+      "source_title": "Umsetzung der KI-Verordnung ist so bürokratiearm und innovationsoffen wie möglich | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/presse/umsetzung-der-ki-verordnung-ist-so-buerokratiearm-und-innovationsoffen-wie-moeglich",
+      "platform": "Presse"
+    },
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": false,
+      "statement": "Robin Jünger kritisiert den Gesetzentwurf zur Umsetzung der EU-KI-Verordnung als \"unnötigen Bürokratiezwang\" mit hohen jährlichen Verwaltungskosten und der Schaffung neuer Planstellen. Er wirft der Regierung \"Planlosigkeit\" vor und fordert stattdessen Freiheit, Forschung und Gründerförderung anstelle von Überregulierung. Die AfD-Fraktion bemängelt das Fehlen von Fachkräften und die Entstehung von Doppelstrukturen.",
+      "source_title": "Umsetzung von EU-Vorgaben im Bereich der Künstlichen Intelligenz - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anke",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Rebecca Lenhard kritisiert die Bundesregierung für die späte und unzureichende Umsetzung des EU AI Acts und fordert starke, unabhängige Aufsichtsstrukturen sowie ausreichende Ressourcen. Sie betont die Notwendigkeit eines verpflichtenden Transparenzregisters für KI-Systeme in der öffentlichen Verwaltung, um Grundrechtsschutz zu gewährleisten. Lenhard wirft der Bundesregierung politisches Wegducken bei Zukunftsthemen vor.",
+      "source_title": "Fortschritt bei der Regulierung, Rückschritt bei der Transparenz | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/presse/fortschritt-bei-der-regulierung-rueckschritt-bei-der-transparenz/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sonne Lemke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sonne Lemke begrüßt das Verbot von KI-Systemen mit inakzeptablem Risiko, kritisiert aber, dass Hochrisikoanwendungen bei Sicherheitsbehörden legal blieben und fordert ein klares Verbot der biometrischen Fernidentifizierung. Sie bemängelt die Verschiebung von Inkrafttreten, das Fehlen unabhängiger Risikoeinschätzungen und unzureichende Personalausstattung der Aufsichtsbehörden. Lemke fordert ein öffentliches Transparenzregister.",
+      "source_title": "Gesellschaftliche Risiken von KI ernst nehmen! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Hans J. Jürz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
