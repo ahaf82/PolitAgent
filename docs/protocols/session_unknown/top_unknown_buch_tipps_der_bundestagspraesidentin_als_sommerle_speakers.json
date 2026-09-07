@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Bundestagspräsidentin teilt ihre Buchtipps, wobei sie Bernhard Schlink als bevorzugten Autor nennt und die Bibel als zeitloses Werk hervorhebt. Ihre Ausführungen zur Bibel, insbesondere zum Konzept der Ebenbildlichkeit des Menschen als Grundlage der Würde, knüpfen an eine kürzliche Domlesung in Magdeburg an. Externe Recherchen zu dieser spezifischen Debatte und den von der Bundestagspräsidentin genannten Büchern zeigten keine direkten Reaktionen oder Beiträge anderer Abgeordneter zu diesem Thema. Die gefundenen externen Verweise beziehen sich auf andere politische Themen oder allgemeine Buchtipps anderer Personen.",
+  "sources": [
+    {
+      "name": "Bundestagspräsidentin",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Die Bundestagspräsidentin nannte Bernhard Schlink als einen ihrer Lieblingsautoren und hob dessen Romane hervor. Sie betonte auch die Bibel als \"Evergreen\" und erläuterte das biblische Konzept der Ebenbildlichkeit des Menschen als Grundlage für die Würde jedes Einzelnen, basierend auf einer Domlesung in Magdeburg.",
+      "source_title": "Rede von Bundestagspräsidentin Julia Klöckner anlässlich der Magdeburger Domlesung 2026 - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/parlament/praesidium/reden/2026/20260413-1183100",
+      "platform": "Website"
+    },
+    {
+      "name": "Bundestagspräsidentin",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Bundestagspräsidentin",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Bundestagspräsidentin",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Bundestagspräsidentin",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
