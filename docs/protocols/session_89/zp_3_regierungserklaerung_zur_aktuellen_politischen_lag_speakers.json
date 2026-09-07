@@ -4,10 +4,10 @@
     {
       "name": "Friedrich Merz",
       "party": "CDU/CSU",
-      "found": true,
+      "found": false,
       "statement": "Bundeskanzler Friedrich Merz verteidigt die Politik der Koalition und verweist auf Fortschritte sowie geplante Reformen in verschiedenen Bereichen. Er betont die Notwendigkeit, Deutschland wirtschaftlich, politisch und gesellschaftlich zu stärken und kritisiert radikale Kräfte.",
       "source_title": "Regierungserklärung zur aktuellen politischen Lage (Sitzung des Deutschen Bundestages)",
-      "url": "https://www.bundestag.de/resource/blob/991840/Verhaltenskodex-2024.pdf",
+      "url": "N/A",
       "platform": "Website"
     },
     {
@@ -22,10 +22,10 @@
     {
       "name": "Ricarda Lang",
       "party": "Bündnis 90/Die Grünen",
-      "found": true,
+      "found": false,
       "statement": "Ricarda Lang wirft der Regierung vor, die Klimakrise zu ignorieren und Klimaschutzgesetze abzubauen. Sie kritisiert Maßnahmen wie die Abschaffung der telefonischen Krankschreibung und Kürzungen beim Elterngeld als sozial ungerecht.",
       "source_title": "Regierungserklärung zur aktuellen politischen Lage (Sitzung des Deutschen Bundestages)",
-      "url": "https://www.bundestag.de/resource/blob/991840/Verhaltenskodex-2024.pdf",
+      "url": "N/A",
       "platform": "Website"
     },
     {
