@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die externen Reaktionen auf das Wärmeplanungsgesetz von den im Plenum genannten Abgeordneten spiegeln die unterschiedlichen politischen Prioritäten und Einschätzungen wider. Marc Bernhard (AfD) kritisiert das Gesetz scharf als weitere Bürokratie und \"Heizungshammer\", der die Industrie belastet und Bürger enteignet. Wilhelm Gebhard (CDU/CSU) sieht zwar Entlastungen für Kommunen, fordert aber Nachbesserungen bei der Kälteplanung und beim Belastungsausgleich. Helmut Klebank (SPD) thematisiert die Ausgestaltung der Bundesförderung für Wärmenetze und soziale Kriterien, während Dr. Alaa Alhamwi (Bündnis 90/Die Grünen) die fehlende Verzahnung mit anderen Gesetzen bemängelt und eine stärkere Umsetzungsstrategie fordert. Die gefundenen externen Aussagen fokussieren sich stark auf die Kritik des Gesetzes und dessen Auswirkungen, wobei die AfD die stärkste Opposition darstellt und die anderen Fraktionen eher Detailkritik oder Verbesserungsvorschläge äußern.",
+  "sources": [
+    {
+      "name": "Wilhelm Gebhard",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Wilhelm Gebhard sieht die Novelle als Beitrag zur Entlastung von Kommunen, betont aber weiterhin Nachbesserungsbedarf bei der Kälteplanung und dem Belastungsausgleich. Er hält den Schwellenwert von 15.000 Einwohnern für die kleine Wärmeplanung für sinnvoll, hinterfragt aber die Pflicht zur regelmäßigen Fortschreibung für kleine Gemeinden als bürokratisch.",
+      "source_title": "Gesetz zu Wärmeplanung für kleine Kommunen beraten",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mark Bernhard",
+      "party": "AfD",
+      "found": true,
+      "statement": "Marc Bernhard bezeichnet das Heizungsgesetz als \"Märchen\" und kritisiert das Wärmeplanungsgesetz als weitere Bürokratie, die die Wettbewerbssituation der Industrie verschlechtert. Er fordert die Abschaffung des Gesetzes und kritisiert, dass es Bürger und Hausbesitzer finanziell stark belastet.",
+      "source_title": "Marc Bernhard on the Heating Act: It's a fairy tale!",
+      "url": "https://www.youtube.com/watch?v=Q0r-R5b_k7M",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Helmut Klebank",
+      "party": "SPD",
+      "found": true,
+      "statement": "Helmut Klebank thematisiert die Bewertung von Doppelstrukturen im Energiebereich und fragt nach dem Punkt, ab dem diese ineffizient werden. Er betont die Wichtigkeit einer gesetzlichen Verankerung der Bundesförderung für effiziente Wärmenetze und deren Ausgestaltung sowie die Bedeutung sozialer Kriterien und der Rolle von Bürgerenergiegesellschaften zur Abfederung sozialer Härten.",
+      "source_title": "SPD Bundestagsfraktion (vertreten durch Helmut Klebank)",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Alamwe",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Alaa Alhamwi fragt nach der Einschätzung der Gefahren von H2- und Methan-Prüfgebieten für Haushalte in Kleinkommunen. Sie kritisiert die fehlende Verzahnung des WPG mit dem GmodG als Planungschaos, das die Wärmewende verlangsamt, und fordert eine verpflichtende Umsetzungsstrategie sowie eine sozial gestaffelte Förderung.",
+      "source_title": "Bündnis 90/Die Grünen (vertreten durch Dr. Alamwe)",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

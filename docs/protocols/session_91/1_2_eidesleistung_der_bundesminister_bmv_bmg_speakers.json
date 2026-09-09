@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen auf die Vereidigung der neuen Bundesminister für Verkehr und Gesundheit konzentrieren sich auf die neuen Amtsinhaber. Steffen Bilger, der neue Verkehrsminister, hat sich in der Vergangenheit für Reformen und Bürokratieabbau im Verkehrssektor ausgesprochen. Dr. Karsten Linnemann, der neue Gesundheitsminister, wies anfängliche Zweifel an seiner Eignung für das Amt zurück und betonte die Notwendigkeit von Reformen im Gesundheitswesen. Die entlassenen Minister Patrick Schnieder und Thorsten Frei sind weniger präsent in den externen Debatten zu diesem spezifischen Thema, wobei Frei sich eher zu allgemeinen politischen Reformen geäußert hat. Für Nina Wen konnten keine spezifischen externen Stellungnahmen gefunden werden.",
+  "sources": [
+    {
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Steffen Bilger hat die Notwendigkeit von Reformen und Investitionen zur Stärkung Deutschlands betont und sich für Bürokratieabbau ausgesprochen. Er wurde als Bundesminister für Verkehr vereidigt.",
+      "source_title": "Steffen Bilger: Verkehrsminister | Bundesregierung.de",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Karsten Linnemann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Karsten Linnemann wies Zweifel an seiner Eignung für das Amt als Bundesminister für Gesundheit zurück und betonte, dass das Gesundheitsministerium ein zentrales Reformressort sei. Er möchte auf den Reformen seiner Vorgängerin aufbauen.",
+      "source_title": "Linnemann weist Zweifel an Eignung als Gesundheitsminister zurück - Deutsches Ärzteblatt",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Patrick Schnieder",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Thorsten Frei",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Thorsten Frei hat sich zu allgemeinen politischen Reformen und der Notwendigkeit, Deutschland für die Zukunft fit zu machen, geäußert. Er wurde als Bundesminister für besondere Aufgaben entlassen.",
+      "source_title": "Frei: „Wir können nicht weitermachen wie bisher“ | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/aktuelles/frei-wir-koennen-nicht-weitermachen-wie-bisher",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nina Wen",
+      "party": "BSW",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
