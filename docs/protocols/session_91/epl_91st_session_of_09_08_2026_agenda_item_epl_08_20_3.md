@@ -1,0 +1,124 @@
+# Allgemeine Finanzdebatte: Sitzung des Deutschen Bundestages vom 09.08.2026
+
+## Sitzungs-Metadaten
+- **Sitzung:** 91. Sitzung
+- **Datum:** 09.08.2026
+- **Tagesordnungspunkt (TOP):** Epl 08, 20, 32, 60; 4: Allgemeine Finanzdebatte
+- **Originaltitel:** 91st Session of 09/08/2026. Agenda Item Epl 08, 20, 32, 60; 4: General Financial Debate
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=9k0GAmsSMPY)
+
+## Kurzzusammenfassung
+Die Sitzung des Deutschen Bundestages am 09.08.2026 widmete sich der allgemeinen Finanzdebatte, die die Einzelpläne 08, 20, 32 und 60 sowie die erste Beratung des Haushaltsbegleitgesetzes 2027 umfasste. Die Debatte war geprägt von stark unterschiedlichen Einschätzungen zur Haushaltslage, den Zukunftsaussichten der deutschen Wirtschaft und der Notwendigkeit von Investitionen und Sparmaßnahmen. Während die Regierungskoalition und einige Oppositionsfraktionen auf Rekordinvestitionen und die Bedeutung von Wachstum setzten, kritisierten andere Oppositionsvertreter die hohe Neuverschuldung und die finanzpolitischen Prioritäten.
+
+## Kernaussagen und Positionen der Fraktionen
+- **AfD:**
+  - Hohe Energiepreise und staatliche Abgaben als Hauptgrund für die Wahl der AfD.
+  - Kritik an der Höhe der Energiesteuer und CO2-Abgabe.
+  - Deutliche Beanstandung der geplanten Neuverschuldung von 204 Milliarden Euro, die fast ein Drittel der Ausgaben ausmacht.
+  - Kritik an der Umgestaltung der Finanzverfassung und der damit verbundenen Abschaffung von Regeln.
+  - Hohe Zinskosten (41 Milliarden Euro) werden als Belastung für sechs Ministerien gleichzeitig dargestellt.
+  - Verweis auf verfassungswidrige Buchungstricks zur Deckung des Haushalts.
+  - Sparmaßnahmen würden nur den Bürger und nicht die Politik oder den Staat betreffen.
+  - Kritik an Ausgaben für die EU, Waffenlieferungen an die Ukraine und die Energiewende.
+  - Kritik an wachsendem Beamtenapparat und steigenden Personalkosten bei sinkenden Reallöhnen der Bürger.
+  - Forderung nach Beendigung der aktuellen Politik vor dem Bundesverfassungsgericht.
+  - Die AfD kündigte die Vorlage eines eigenen Haushaltsentwurfs an.
+  - Konkrete Kritik an Stellenkürzungen beim Bundesrechnungshof und der Schaffung neuer "Häuptlingsstellen".
+- **CDU/CSU:**
+  - Charakterisierung des Haushaltsentwurfs als "Investitionshaushalt" mit Rekordinvestitionen von fast 120 Milliarden Euro, eine Steigerung um 60% im Vergleich zu 2024.
+  - Verweis auf eine Korrektur der Wachstumsprognosen nach oben durch Institute wie das ifo.
+  - Betonung der wachsenden Exportzahlen und Auslandsinvestitionen als positives Zeichen.
+  - Anerkennung von Problemen in der Automobilindustrie, aber auch Hervorhebung positiver Entwicklungen.
+  - Ankündigung von Sparmaßnahmen in den Ressorts (1% des Etats, Anhebung auf 2% per annum).
+  - Einsparungen bei Finanzhilfen und Steuervergünstigungen (knapp 3 Milliarden Euro für 2027, Ziel von 8 Milliarden Euro bis 2030).
+  - Eingeständnis, dass Personalsparmaßnahmen noch nicht im Soll sind, aber notwendige Investitionen in Sicherheit (Soldaten, Polizei, Zoll) dafür verantwortlich sind.
+  - Kritik an der hohen Kreditfinanzierungsrate (32%) und der Notwendigkeit, diese schrittweise abzubauen.
+  - Forderung nach Evaluierung von Klimaschutzprogrammen auf ihre Effizienz.
+  - Betonung der Notwendigkeit, private Investitionen stärker anzureizen.
+  - Der Haushaltsentwurf sei ein "Versprechen an unsere Kinder und Enkel".
+  - Lob der Regierung für den Einstieg in eine strukturelle Haushaltskonsolidierung (17 Milliarden Euro Einsparungen).
+  - Hervorhebung der Ausgaben für Sicherheit und Verteidigung (130 Milliarden Euro) als notwendig angesichts russischer Destabilisierungsversuche.
+  - Selbstkritische Anmerkung, dass trotz Sparbemühungen die Gesamtausgaben durch steigende Zinskosten steigen.
+  - Warnung vor einer Gesamtverschuldung von 1,7 Billionen Euro bis 2033.
+  - Forderung nach mehr Reformen, Wachstum und Haushaltskonsolidierung.
+- **Bündnis 90/Die Grünen:**
+  - Kritik, dass der Haushaltsentwurf von wichtigen Verfassungsorganen abgelehnt wird.
+  - Bezeichnung des Haushalts als "notdürftig zusammengeflickt" und "zahlt für Verunsicherung".
+  - Kritik an geplanten Kürzungen bei Wohngeld und Elterngeld sowie der Streichung des Kindersofortzuschlags.
+  - Verweis auf "neue Buchungstricks" und einen "steil abfallenden Pfad bei den Investitionen".
+  - Forderung, die Investitionsquote nicht verzerrt zu berechnen, da der Haushalt sonst die Vorgaben des Grundgesetzes nicht erfülle.
+  - Kritik an Kürzungen beim Klimaschutz, um Haushaltslöcher zu stopfen.
+  - Verweis auf den "gefräßigen Markus Söder" und dessen Einfluss auf die Haushaltsplanung.
+  - Kritik an der Union für ihre Haltung zur Schuldenbremse und Steuersenkungen ohne Gegenfinanzierung.
+  - Forderung nach einem Haushaltsumbau für mehr Wirtschaftswachstum und eine gerechte Verteilung der Belastungen.
+  - Kritik an der Einkommensteuerreform, die die unteren und mittleren Einkommen nicht entlaste.
+  - Forderung nach einer Senkung der Sozialabgaben zur Entlastung niedriger Einkommen.
+  - Kritik an der Zweckentfremdung von Sondervermögen und KTF.
+  - Betonung der Notwendigkeit, Gerechtigkeitslücken zu schließen (z.B. bei Immobilienkonzernen, Erbschaftsteuer).
+  - Kritik an der Unglaubwürdigkeit der CDU/CSU hinsichtlich Haushalts- und Bürgergeldpolitik.
+  - Anerkennung von Kompetenzwerten der AfD im Bereich Wirtschaft, trotz ihrer Euro-Austrittspläne.
+  - Einordnung des Wahlergebnisses in Sachsen-Anhalt als tektonische Verschiebung und besorgniserregend.
+- **SPD:**
+  - Anerkennung des Wahlergebnisses in Sachsen-Anhalt als Zäsur, die eine genaue Prüfung der Regierungsentscheidungen erfordert.
+  - Betonung, dass die Regierung handlungsfähig bleiben muss, um nicht an diesem Haushalt zu scheitern.
+  - Schließung der Haushaltslücke für 2027 (34 Milliarden Euro) durch schwierige Entscheidungen bei Einsparungen, Belastungen und Reformen.
+  - Grundsatz: Wer eine Einsparung herausnimmt, muss eine andere hereinnehmen.
+  - Kritik an der Forderung nach weiterem Sparen und Darstellung der breiten Konsolidierung über alle Ressorts.
+  - Warnung vor einem "Kaputtsparen" des Sozialstaats, das die Gesellschaft spalte.
+  - Notwendigkeit, mehr für Sicherheit zu tun (Putins Krieg, Rückzug der USA, Cyberangriffe).
+  - Richtigkeit der Bereichsausnahme von der Schuldenbremse für Verteidigung und Sicherheit.
+  - Klärung, dass Bereichsausnahme nicht mehr Geld für andere Dinge bedeutet, sondern die Aufnahme zusätzlicher Kredite für Sicherheit erlaubt.
+  - Darstellung, dass die Schuldenquote konstant bleibt, da die Wirtschaft nominal genauso stark wächst wie das Defizit.
+  - Kritik an der Aussage vom Weg in den Schuldenstaat bei konstanter Schuldenquote.
+  - Investition von 120 Milliarden Euro in Infrastruktur, Krankenhäuser, Digitalisierung etc. zur Stärkung der Wettbewerbsfähigkeit und Schaffung von Wachstum.
+  - Betonung, dass das Wachstum eine sozialdemokratische Handschrift trägt.
+  - Die Koalition sorgt für Stabilität und wird einen Haushalt verabschieden.
+  - Verweis auf die Schwierigkeit der Entscheidungen und die Notwendigkeit, die Stabilität sozial zu halten.
+  - Betonung der Bedeutung von Sicherheit (innere, äußere, soziale) und der wirtschaftlichen Stärke als Voraussetzung dafür.
+  - Anforderung an die AfD, sich an die verfassungsrechtlichen Spielregeln zu halten.
+  - Notwendigkeit, dass der Bund die zivilgesellschaftlichen Akteure in Sachsen-Anhalt unterstützt.
+- **Die Linke:**
+  - Kritik am Wahlergebnis in Sachsen-Anhalt als Abwahl der schwarz-rot-gelben Regierung und sinnbildlich für die "Merz-CDU".
+  - Kritik an der Regierung für Rekordschulden und Chaos.
+  - Darstellung der geplanten Neuverschuldung von über 200 Milliarden Euro als "Wahnsinn".
+  - Kritik an der Aussage über Korrekturen des Wirtschaftswachstums als "Witz" angesichts der Verschuldung und Bereichsausnahmen.
+  - Hohe Zinszahlungen (80 Milliarden Euro bis 2030) werden als Normalitätsbruch dargestellt.
+  - Kritik an der "Mogelpackung" der Investitionen und dem Fehlen von Ansätzen für Infrastruktur und Entlastung.
+  - Die Regierung sei die größte Belastungskoalition des Jahrzehnts.
+  - Kritik an der "Zuckersteuer" und der Gier nach Bürgergeld.
+  - Kritik an der Politik, die Leistung hoch besteuert, während Vermögen und Erbschaften geschont werden.
+  - Forderung nach einer Vermögenssteuer.
+  - Kritik an den Rentenreformvorschlägen als "Jahrhundertdummheit" und "soziale Unverschämtheit".
+  - Ablehnung des Haushaltsentwurfs als finanzpolitisch unsolid, wirtschaftlich kurzsichtig und sozial ungerecht.
+- **Unionsfraktion (zusätzlicher Beitrag):**
+  - Betonung, dass der Haushalt kein Wunschzettel, sondern ein Versprechen an zukünftige Generationen ist.
+  - Staat müsse das finanzieren, was notwendig ist, nicht alles Wünschenswerte.
+  - Anerkennung des Haushaltsentwurfs als ersten Schritt zur strukturellen Haushaltskonsolidierung seit über 15 Jahren (17 Milliarden Euro Einsparungen).
+  - Lob der Investitionen in Verkehrsinfrastruktur, Krankenhäuser und Energieinfrastruktur.
+  - Kritik an der Aussage, die AfD halte dem Aggressor (Russland) die Stange.
+  - Kritik am Sozialstaat und der Notwendigkeit, Sozialmissbrauch stärker zu bekämpfen.
+  - Betonung, dass die CDU/CSU das Land nicht abschaffen, sondern schützen wolle.
+  - Selbstkritik: Trotz Sparbemühungen steigen Gesamtausgaben durch Zinskosten.
+  - Warnung vor einer Gesamtverschuldung von 1,7 Billionen Euro zwischen 2025 und 2033.
+  - Aufruf zu mehr Reformen, Wachstum und Haushaltskonsolidierung.
+  - Hervorhebung des Erfolgs des Start-ups "Isar Aerospace" als Zeichen für das moderne Deutschland.
+  - Bestätigung, dass Deutschland voller Ideen und Gründergeist sei, und Aufgabe der Politik, diesen zu mobilisieren.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin ruft die allgemeine Aussprache zur Finanzdebatte auf, die die Einzelpläne 08, 20, 32 und 60 sowie die erste Beratung des Haushaltsbegleitgesetzes 2027 umfasst.
+- **[00:00:18](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=18s)** - **Erste Redebeitrag für die AfD-Fraktion durch Dr. Michael Espendiller**: Espendiller kritisiert die hohen Spritpreise und die damit verbundenen Steuern (Energiesteuer, CO2-Abgabe, Mehrwertsteuer). Er bemängelt die geplante Neuverschuldung von 204 Milliarden Euro, die Rekordeinnahmen und -ausgaben sowie die hohen Zinskosten. Er wirft der Regierung vor, die Finanzverfassung ausgehebelt und durch Buchungstricks den Haushalt ausgeglichen zu haben. Weiterhin kritisiert er Ausgaben für die EU, die Ukraine und die Energiewende.
+- **[01:39:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1m39s)** - **Redebeitrag für die CDU/CSU-Fraktion durch Dr. Mathias Middelberg**: Middelberg bezeichnet den Haushalt als "Investitionshaushalt" mit Rekordinvestitionen von fast 120 Milliarden Euro. Er korrigiert negative Wachstumsprognosen und verweist auf steigende Exporte und Auslandsinvestitionen. Er kündigt Sparmaßnahmen von 1% des Etats pro Ressort an, die auf 2% erhöht werden sollen, und spricht von Einsparungen bei Finanzhilfen. Er räumt ein, dass Personalsparmaßnahmen noch nicht im Soll sind, betont aber notwendige Investitionen in Sicherheit.
+- **[02:29:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=22m50s)** - **Redebeitrag für Bündnis 90/Die Grünen durch Dr. Sebastian Schäfer**: Schäfer kritisiert, dass der Haushaltsentwurf von wichtigen Verfassungsorganen abgelehnt werde. Er bezeichnet den Haushalt als "notdürftig zusammengeflickt" und kritisiert Kürzungen bei Sozialleistungen sowie die Investitionsquote. Er fordert eine ehrliche Bilanz und kritisiert die Verwendung von Klimaschutzmitteln zur Haushaltsstopfung.
+- **[02:59:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=29m0s)** - **Redebeitrag für die SPD-Fraktion durch Dr. Thorsten Rudolph**: Rudolph erkennt das Wahlergebnis in Sachsen-Anhalt als Zäsur an und betont die Notwendigkeit, dass die Regierung handlungsfähig bleibt. Er stellt die Schließung der Haushaltslücke von 34 Milliarden Euro dar und betont, dass Einsparungen und Belastungen notwendig seien. Er warnt vor einem "Kaputtsparen" des Sozialstaats und betont die Notwendigkeit von Investitionen in Sicherheit. Die Schuldenquote bleibe konstant.
+- **[03:19:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=33m19s)** - **Redebeitrag für Die Linke durch Dr. Dietmar Bartsch**: Bartsch kritisiert das Wahlergebnis in Sachsen-Anhalt als Abwahl der Regierung und metaphorisch für die "Merz-CDU". Er bezeichnet die geplante Neuverschuldung als "Wahnsinn" und kritisiert hohe Zinszahlungen. Er bemängelt, dass Investitionen eine "Mogelpackung" seien und die Regierung die größte Belastungskoalition sei. Er fordert eine Vermögenssteuer und kritisiert die Rentenreformvorschläge.
+- **[04:17:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=41m17s)** - **Redebeitrag für die CDU/CSU-Fraktion durch Christian Haase**: Haase betont, dass ein Haushalt ein Versprechen an zukünftige Generationen sei und Reformen notwendig seien. Er lobt die Regierung für den Einstieg in die Haushaltskonsolidierung und die Investitionen in die Infrastruktur. Er hebt die Ausgaben für Sicherheit und Verteidigung hervor und warnt vor steigenden Zinskosten, die die Ausgaben erhöhen.
+- **[04:44:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=47m44s)** - **Redebeitrag für die AfD-Fraktion durch Georg Schroeter**: Schroeter kritisiert die hohen Zinsausgaben, die keinen Mehrwert schafften, und die damit verbundene Einschränkung der Handlungsfreiheit des Staates. Er bezeichnet das moderate Wirtschaftswachstum als "Strohfeuer" und warnt vor der steigenden Zinsbelastung bis 2030. Er kritisiert die Reduzierung der Stellen beim Bundesrechnungshof.
+- **[05:32:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=53m20s)** - **Redebeitrag für die SPD-Fraktion durch Kathrin Michel**: Michel betont, dass Deutschland wettbewerbsfähiger werden müsse und Wertschöpfung gehalten werden müsse. Sie fordert, früher zu handeln und Prioritäten zu setzen. Sie kritisiert, dass Konsolidierung nicht reflexartig Leistungskürzungen bedeuten dürfe. Sie hebt die Stärkung des Zolls hervor und betont die Notwendigkeit moderner Haushaltspolitik.
+- **[05:57:00](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=57m0s)** - **Redebeitrag für Bündnis 90/Die Grünen durch Claudia Müller**: Müller thematisiert das Wahlergebnis in Sachsen-Anhalt und die damit verbundene Angst. Sie kritisiert die AfD für ihre rückwärtsgewandte Politik und appelliert an die Ostbeauftragte, Initiativen wie "Demokratie leben!" zu unterstützen. Sie betont den Unterschied zwischen demokratischer Stabilität und Chaos.
+- **[01:02:25](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1h2m25s)** - **Redebeitrag für die CDU/CSU-Fraktion durch Florian Oßner**: Oßner betont, dass der Haushalt Prioritäten setze und die Weichen für die Zukunft stelle. Er fordert eine Veränderung der Finanzarchitektur hin zu mehr Investitionen, die Wachstum schaffen. Er hebt die Rekordinvestitionen und die Bedeutung der Mobilisierung privaten Kapitals hervor. Er bekräftigt die Notwendigkeit der Kreditaufnahme für Sicherheit und Verteidigung, betont aber auch die Wichtigkeit von Konsolidierung und Reformen.
+- **[01:09:33](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1h9m33s)** - **Redebeitrag für die AfD-Fraktion durch Wolfgang Wiehle**: Wiehle kritisiert die Ausgaben für die "Transformation" als Verrat an der Zukunft Deutschlands. Er bestreitet die wissenschaftliche Grundlage der Energiewende und sieht darin eine Ermächtigung derer, die den "politisch erzeugten Energienotstand" verwalten. Er warnt vor Deindustrialisierung und der Abhängigkeit von Subventionen. Er fordert das Ende der Energiewende und eine Anpassung an den Klimawandel.
+- **[01:15:03](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1h15m3s)** - **Redebeitrag für die Bundesregierung durch Staatsministerin Elisabeth Kaiser**: Kaiser spricht das Wahlergebnis in Sachsen-Anhalt an und den damit verbundenen Vertrauensverlust in das politische System. Sie kritisiert die AfD für ihre rückwärtsgewandte Politik und bedankt sich bei den Wählern, die sich für ein weltoffenes Sachsen-Anhalt entschieden haben. Sie betont die Verantwortung des Bundes, demokratische Werte zu unterstützen und Probleme zu lösen. Ostdeutschland sei eine Region der Zukunft.
+- **[01:19:17](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1h19m17s)** - **Redebeitrag für Bündnis 90/Die Grünen durch Katharina Beck**: Beck bezieht sich erneut auf das Wahlergebnis in Sachsen-Anhalt und die Kritik an der Finanzpolitik. Sie kritisiert entlastende Maßnahmen, die überproportional hohe Einkommen begünstigen, und mangelnde Entlastung für untere und mittlere Einkommen. Sie bemängelt geplante Kürzungen und die Unglaubwürdigkeit der CDU/CSU.
+- **[01:24:01](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1h24m1s)** - **Redebeitrag für die Unionsfraktion durch Dr. Matthias Hiller**: Hiller betont die Notwendigkeit von Investitionen in Infrastruktur und Sicherheit angesichts globaler Herausforderungen. Er vergleicht die Situation mit einer Krankheit, die behandelt werden müsse, anstatt aufgeschoben zu werden. Er betont die Notwendigkeit von Reformen im Renten- und Gesundheitssystem sowie beim Bürokratieabbau und Schuldenabbau. Er verweist auf den erfolgreichen Start der "Spectrum"-Rakete als Zeichen des modernen Deutschlands.
+- **[01:30:26](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1h30m26s)** - **Redebeitrag für die SPD-Fraktion durch Frauke Heiligenstadt**: Heiligenstadt spricht von "bewegten Zeiten" und der Verunsicherung der Menschen. Sie sieht die Antwort in mehr Demokratie, Zusammenhalt und Solidarität, nicht in Populismus. Sie betont die Notwendigkeit von Kompromissbereitschaft und klarer Haltung gegenüber den Feinden der Demokratie. Sie kritisiert die AfD für ihre Finanzpolitik und die hinterlassenen Schulden.
+- **[01:33:55](https://www.youtube.com/watch?v=9k0GAmsSMPY&t=1h33m55s)** - **Abschluss der allgemeinen Finanzdebatte und Überweisungsempfehlung**: Es liegen keine weiteren Wortmeldungen vor. Die Präsidentin informiert über die interfraktionelle Empfehlung zur Überweisung des Entwurfs des Haushaltsbegleitgesetzes 2027 an die zuständigen Ausschüsse. Sie verweist auf den Einzelplan 12.

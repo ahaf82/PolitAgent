@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion - Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/12345",
+      "title": "Umbau der Tierhaltung",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Kleine Anfrage"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zum Einzelplan 05 des Auswärtigen Amtes endete mit der Feststellung, dass keine namentliche Abstimmung stattfand. Der Verfahrensstand ist eine fortlaufende Beratung im Haushaltsausschuss.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

@@ -1,5 +1,18 @@
 [
   {
+    "id": "boRAl2Aqu9A",
+    "title": "92. Sitzung vom 09.09.2026. TOP Epl 04: Bundeskanzler und Bundeskanzleramt",
+    "session": 92,
+    "date": "2026-09-09",
+    "top": "Epl 04",
+    "topic": "Bundeskanzler und Bundeskanzleramt",
+    "summary_path": "protocols/session_92/epl_04_bundeskanzler_und_bundeskanzleramt.md",
+    "documents_path": "protocols/session_92/epl_04_bundeskanzler_und_bundeskanzleramt_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=boRAl2Aqu9A",
+    "processed_at": "2026-09-12T20:05:58.967627"
+  },
+  {
     "id": "6ctO1EI-hJE",
     "title": "Mehr Planungssicherheit beim Wärmeplanungsgesetz gefordert",
     "session": 0,
@@ -24,6 +37,58 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=6tgfdsGqIHM",
     "processed_at": "2026-09-09T20:02:50.691120"
+  },
+  {
+    "id": "AhzBVFMyc6I",
+    "title": "91. Sitzung vom 08.09.2026. TOP Epl 24: Digitales und Staatsmodernisierung",
+    "session": 91,
+    "date": "2026-09-08",
+    "top": "Epl 24",
+    "topic": "Digitales und Staatsmodernisierung",
+    "summary_path": "protocols/session_91/epl_24_digitales_und_staatsmodernisierung.md",
+    "documents_path": "protocols/session_91/epl_24_digitales_und_staatsmodernisierung_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=AhzBVFMyc6I",
+    "processed_at": "2026-09-12T20:02:45.278061"
+  },
+  {
+    "id": "3NIxqjmHH38",
+    "title": "91. Sitzung vom 08.09.2026. TOP Epl 16: Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "session": 91,
+    "date": "2026-09-08",
+    "top": "Epl 16",
+    "topic": "Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "summary_path": "protocols/session_91/epl_16_umwelt_klimaschutz_naturschutz_und_nukleare_sicher.md",
+    "documents_path": "protocols/session_91/epl_16_umwelt_klimaschutz_naturschutz_und_nukleare_sicher_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=3NIxqjmHH38",
+    "processed_at": "2026-09-12T20:02:16.838418"
+  },
+  {
+    "id": "hjWgg9L1mzM",
+    "title": "91. Sitzung vom 08.09.2026. TOP Epl 12: Verkehr",
+    "session": 91,
+    "date": "2026-09-08",
+    "top": "Epl 12",
+    "topic": "Verkehr",
+    "summary_path": "protocols/session_91/epl_12_verkehr.md",
+    "documents_path": "protocols/session_91/epl_12_verkehr_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=hjWgg9L1mzM",
+    "processed_at": "2026-09-12T20:01:37.663343"
+  },
+  {
+    "id": "V2NPjbmC1qk",
+    "title": "91. Sitzung vom 08.09.2026. TOP Epl 09: Wirtschaft und Energie",
+    "session": 91,
+    "date": "2026-09-08",
+    "top": "Epl 09",
+    "topic": "Wirtschaft und Energie",
+    "summary_path": "protocols/session_91/epl_09_wirtschaft_und_energie.md",
+    "documents_path": "protocols/session_91/epl_09_wirtschaft_und_energie_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=V2NPjbmC1qk",
+    "processed_at": "2026-09-12T20:03:15.544560"
   },
   {
     "id": "feUHD5gJKJg",
@@ -2258,6 +2323,19 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "9k0GAmsSMPY",
+    "title": "91st Session of 09/08/2026. Agenda Item Epl 08, 20, 32, 60; 4: General Financial Debate",
+    "session": 91,
+    "date": "N/A",
+    "top": "Epl",
+    "topic": "Allgemeine Finanzdebatte: Sitzung des Deutschen Bundestages vom 09.08.2026",
+    "summary_path": "protocols/session_91/epl_91st_session_of_09_08_2026_agenda_item_epl_08_20_3.md",
+    "documents_path": "protocols/session_91/epl_91st_session_of_09_08_2026_agenda_item_epl_08_20_3_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=9k0GAmsSMPY",
+    "processed_at": "2026-09-12T20:00:52.355842"
   },
   {
     "id": "qMNv-v7kn0g",

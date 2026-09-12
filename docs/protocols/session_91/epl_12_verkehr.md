@@ -1,0 +1,184 @@
+# Verkehr
+
+## Sitzungs-Metadaten
+- **Sitzung:** 91. Sitzung
+- **Datum:** 2026-09-08
+- **Tagesordnungspunkt (TOP):** Epl 12
+- **Originaltitel:** 91. Sitzung vom 08.09.2026. TOP Epl 12: Verkehr
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=hjWgg9L1mzM)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag befasste sich mit dem Verkehrshaushalt für das Jahr 2027 und den damit verbundenen Investitionen in die Verkehrsinfrastruktur. Die Bundesregierung betonte ihre Absicht, durch höhere Investitionen, Vereinfachung von Planungsverfahren und Modernisierung die Infrastruktur zu verbessern und die Mobilität zu gewährleisten. Die Opposition kritisierte hingegen die Haushaltsplanung, insbesondere die Verteilung der Mittel, die Transparenz der Finanzierung und die Prioritätensetzung zwischen verschiedenen Verkehrsträgern. Debattiert wurden unter anderem die Finanzierung von Autobahnen, Schienenverkehr, Wasserstraßen sowie die Herausforderungen durch Klimawandel und geopolitische Entwicklungen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch Verkehrsminister Bilger):**
+  - Investition von 170 Milliarden Euro bis 2030 in die Verkehrsinfrastruktur, darunter Mittel aus dem Sondervermögen Infrastruktur und Klimaneutralität.
+  - Vereinfachung und Beschleunigung von Planungs- und Genehmigungsverfahren durch das Infrastruktur-Zukunftsgesetz.
+  - Modernisierung der Schiene mit Rekordinvestitionen und Erwartung von konkreten Verbesserungen für Kunden.
+  - Stärkung der Wasserstraßen, um Engpässe zu vermeiden und Resilienz zu erhöhen, insbesondere nach den Erfahrungen mit Niedrigwasser.
+  - Förderung von Mobilitätsinnovationen, alternativen Antrieben und autonomem Fahren.
+  - Verbesserung der Sicherheit im Luftverkehr durch Maßnahmen zur Drohnenerkennung.
+- **AfD-Fraktion (vertreten durch Wiehle, Bühl, Henze, Giersch, Bochmann):**
+  - Kritik an der Bevorzugung der Schiene gegenüber dem Straßenverkehr bei der Finanzierung.
+  - Forderung nach mehr Geld für die Sanierung von Bundesfernstraßen und Brücken.
+  - Kritik an der EU-Politik bezüglich des Verbrennungsmotors und deren Auswirkungen auf die deutsche Automobilindustrie.
+  - Kritik an der Transparenz und Struktur der Haushaltsplanung (sechs verschiedene Töpfe).
+  - Forderung nach Senkung der Steuern auf Energie und Kraftstoffe sowie Abschaffung der CO2-Abgabe.
+  - Betonung der Wichtigkeit des Straßenverkehrs und der Notwendigkeit, dessen Rolle im Verkehrssystem anzuerkennen.
+  - Priorisierung der A20-Fertigstellung vor teuren Bahnprojekten.
+  - Kritik an den geringen Mitteln für die Bundeswasserstraßen und der geplanten Kürzung bei Aus- und Neubaumaßnahmen.
+- **SPD-Fraktion (vertreten durch Cademartori, Reichardt, Schmidt, Troff-Schaffarzyk):**
+  - Unterstreichung der Bedeutung einer funktionierenden Infrastruktur als Ausdruck eines funktionierenden Staates und einer Demokratie.
+  - Hohe Investitionen in die Verkehrsinfrastruktur (33 Milliarden Euro) trotz Haushaltsdruck.
+  - Anerkennung der Notwendigkeit von Baustellen als "notwendige Durststrecke" für zukünftige Verbesserungen.
+  - Aufruf zur Ehrlichkeit über noch entstehende Probleme und deren Lösungen.
+  - Kritik an der Krise der Automobilindustrie und Forderung, dass Beschäftigte nicht für Managementversagen zahlen.
+  - Betonung der Zukunft der Elektromobilität und Ausrichtung von Strategien darauf.
+  - Hervorhebung der Bedeutung der Wasserstraßen und der Notwendigkeit ihrer Resilienz gegenüber Klimawandelfolgen.
+  - Kritik an Stellenstreichungen bei der Wasserstraßen- und Schifffahrtsverwaltung.
+  - Forderung nach einer Weiterführung und Verbesserung des Deutschlandtickets sowie eines bundesweit gültigen Sozialtickets.
+  - Kritik an der unzureichenden Finanzierung der Seehäfen.
+- **Bündnis 90/Die Grünen (vertreten durch Al-Wazir, Gastel, Piechotta):**
+  - Kritik an der Haushaltspolitik der Bundesregierung, insbesondere an der Halbierung des Verkehrsetats im Kernhaushalt und der Verlagerung von Mitteln.
+  - Feststellung, dass der Haushaltsentwurf 2027 Versprechen nicht einlöst und zu weniger Investitionen führt.
+  - Warnung, dass ohne Änderungen keine neuen Bahnprojekte beginnen können.
+  - Kritik an der Fokussierung auf Managementversagen in der Automobilindustrie und dem Festhalten an der Vergangenheit.
+  - Kritik an der unzureichenden Mittelbereitstellung für die Schiene, Bahnhöfe und den kombinierten Verkehr.
+  - Kritik an der Verschiebung von Mitteln in den Verteidigungsetat und der damit verbundenen mangelnden Transparenz.
+  - Kritik an der Kürzung bei Klimaschutzprogrammen im Verkehrsbereich.
+  - Betonung der Notwendigkeit von ehrlichen und transparenten Haushalten sowie der Einlösung von Versprechen.
+- **Die Linke (vertreten durch Wagner, Bosch):**
+  - Kritik an der Diskrepanz zwischen den Ankündigungen der Regierung und der Realität (Zugausfälle, Brückensperrungen, marode Schleusen).
+  - Bezeichnung des Ministerwechsels als "politische Farce".
+  - Kritik an der unzureichenden Finanzierung und der Verlagerung von Mitteln in das Sondervermögen.
+  - Ablehnung der Finanzierung verteidigungsrelevanter Verkehrswege mit Mitteln, die der zivilen Infrastruktur fehlen sollten.
+  - Kritik an den Kürzungen bei der Förderung des kombinierten Verkehrs und der Gleisanschlüsse.
+  - Forderung nach mehr Geld für die Schiene und Ausgleich von Mehrkosten für den Regionalverkehr.
+  - Kritik an der Finanzierung des Deutschlandtickets und Forderung nach einem bundesweit gültigen Sozialticket.
+  - Kritik am Straßenbaukonzept ("Erhalt vor Neubau") und der Bevorzugung von Aus- und Neubau über Erhaltung.
+  - Darstellung privater Finanzierungspläne als "Ausverkauf" und Verteuerung der Infrastruktur.
+  - Kritik an der Infragestellung der E-Auto-Prämie angesichts der Krise der Automobilindustrie.
+  - Betonung der Kosten des Klimawandels und der Notwendigkeit von Klimaschutz.
+- **Unionsfraktion (CDU/CSU) (vertreten durch Stracke, Sassenrath, Rehbaum, Oßner):**
+  - Betonung des Verkehrshaushalts als Investitions- und Sicherheitshaushalt.
+  - Anerkennung der Notwendigkeit von Investitionen in die Wasserstraßen zur Stärkung der Wirtschaft und Resilienz.
+  - Begrüßung von Maßnahmen zur Stärkung des Luftverkehrs und der Drohnenerkennung.
+  - Investitionen in die Sanierung und den Ausbau der Schiene.
+  - Kritik an Verzögerungen und schlechter Koordination bei Baumaßnahmen der DB InfraGO.
+  - Betonung der "Deutschland baut"-Initiative und des Infrastruktur-Zukunftsgesetzes zur Beschleunigung von Bauvorhaben.
+  - Aussage, dass Stau eine gute Nachricht sein kann ("Land im Stau ist ein Land im Bau").
+  - Hervorhebung des neuen Tempos bei Brückenbauprojekten als Beispiel für "Deutschlandtempo".
+  - Kritik an der Opposition für "billige Kritik" und "Fake News".
+  - Unterstützung für die Kreditfähigkeit der Autobahn GmbH zur unabhängigeren Finanzierung.
+  - Bemühungen zur Vereinfachung von Radförderprogrammen und Fortführung der E-Bus-Förderung.
+  - Bejahung des grundlegend unterschiedlichen Ansatzes zur Rolle des Staates und des Marktes bei Fördermaßnahmen.
+  - Ausrichtung des Haushalts auf Investitionen statt konsumtiver Ausgaben.
+  - Betonung der Bedeutung einer modernen und leistungsfähigen Infrastruktur für die Wettbewerbsfähigkeit und Arbeitsplätze.
+  - Erhöhung der Investitionen im Verkehrsbereich durch verschiedene Finanzierungssäulen.
+  - Forderung nach Beibehaltung und Ausbau von Förderprogrammen, z.B. für Güterkraftverkehr und E-Busse.
+  - Forderung nach Weiterführung der E-Auto-Förderung, aber Überlassung zukünftiger Entscheidungen dem Markt.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung zur Beratung des Einzelplans 12 (Verkehr) wird eröffnet.
+- **[00:00:18](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=18s)** - **Bundesminister für Verkehr (Bilger)**: Eröffnet die Aussprache und dankt für die Vereidigung. Er berichtet von seinen ersten Wochen im Amt, Gesprächen mit Menschen, die in der Infrastruktur arbeiten, und den Erwartungen der Bürger an funktionierende Mobilität und Infrastruktur.
+- **[00:20:20](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=20m20s)** - **Bundesminister für Verkehr (Bilger)**: Erläutert die geplanten Investitionen von 170 Milliarden Euro bis 2030, die Finanzierung über das Sondervermögen und die geplante Gesetzesinitiative zur Kreditfähigkeit der Autobahngesellschaft, um privates Kapital einzubinden.
+- **[04:05](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=4m5s)** - **Bundesminister für Verkehr (Bilger)**: Spricht über die Nutzung des Sondervermögens für Bundeswasserstraßen ab 2027 und die notwendigen Sanierungen. Er erwähnt die Herausforderungen durch Niedrigwasser und die kurzfristig beschlossenen Maßnahmen.
+- **[05:49](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=5m49s)** - **Bundesminister für Verkehr (Bilger)**: Stellt die Stärkung des Schienenausbaus und -neubaus im Einzelplan 12 vor und betont den Erhalt der Schiene als Investitionsschwerpunkt.
+- **[06:11](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=6m11s)** - **Bundesminister für Verkehr (Bilger)**: Erläutert die Vereinfachung von Planungen und Genehmigungen durch das Infrastruktur-Zukunftsgesetz, um Projekte zu beschleunigen.
+- **[06:52](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=6m52s)** - **Bundesminister für Verkehr (Bilger)**: Beschreibt die Verbesserung des Systems Schiene und die Erwartung von klaren Verbesserungen für Kunden, mehr Pünktlichkeit und weniger Störungen. Er erwähnt die Erarbeitung einer Eigentümerstrategie für die Bahn und eine Leistungsvereinbarung mit DB InfraGO.
+- **[07:58](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=7m58s)** - **Bundesminister für Verkehr (Bilger)**: Spricht über die Modernisierung durch Digitalisierung der Schiene und die Förderung von Mobilitätsinnovationen. Er nennt auch Maßnahmen zur Verbesserung des Schutzes des Verkehrssystems vor neuen Gefahren wie Drohnen.
+- **[09:31](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=9m31s)** - **Bundesminister für Verkehr (Bilger)**: Reflektiert seine langjährige Tätigkeit in der Verkehrspolitik und sieht positive Entwicklungen hin zu pragmatischeren Debatten und einem breiten Konsens über Investitionen in die Infrastruktur.
+- **[10:24](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=10m24s)** - **Wolfgang Wiehle (AfD)**: Gratuliert dem Minister und kritisiert die politische Situation um die Ministerbesetzung. Er stellt die Realität der dominierenden Rolle des Straßenverkehrs dar und kritisiert die Finanzierungsprioritäten zugunsten der Bahn.
+- **[12:21](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=12m21s)** - **Wolfgang Wiehle (AfD)**: Hebt den Sanierungsbedarf bei Straßenbrücken hervor und kritisiert die Auswirkungen der Politik auf die deutsche Automobilindustrie.
+- **[13:33](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=13m33s)** - **Wolfgang Wiehle (AfD)**: Kritisiert die hohen Investitionen in die Bahn, deren Steuerbarkeit und die Struktur als Aktiengesellschaft. Er fordert Strukturverbesserungen vor Geldzuweisungen.
+- **[14:14](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=14m14s)** - **Wolfgang Wiehle (AfD)**: Berichtet von Produktionsrückgängen bei Stahlwerken aufgrund von Problemen im Bahntransport und fordert ein Ende des Baustellenchaos.
+- **[15:01](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=15m1s)** - **Wolfgang Wiehle (AfD)**: Nennt die Prioritäten der AfD: mehr Geld für Bundesfernstraßen, schnellere Sanierung, Lückenschlüsse, Umwandlung des Bahnkonzerns in eine GmbH zur besseren Steuerung. Er lehnt eine "Verkehrswende" zugunsten der Freiheit der Bürger bei der Wahl des Verkehrsmittels ab.
+- **[16:28](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=16m28s)** - **Isabel Cademartori (SPD)**: Betont die Bedeutung einer funktionierenden Infrastruktur und den Bedarf, Versäumnisse aufzuholen sowie neuen Herausforderungen zu begegnen.
+- **[17:15](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=17m15s)** - **Isabel Cademartori (SPD)**: Hebt die Rekordinvestitionen in die Verkehrsinfrastruktur hervor, nennt die Baustellen eine "notwendige Durststrecke" und verbreitet Optimismus.
+- **[18:30](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=18m30s)** - **Isabel Cademartori (SPD)**: Spricht über die Notwendigkeit, über zusätzliche Investitionsspielräume und neue Finanzierungsformen für die Infrastruktur nachzudenken, insbesondere bei der Autobahn GmbH.
+- **[19:22](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=19m22s)** - **Isabel Cademartori (SPD)**: Thematisiert die Krise der Automobilindustrie und fordert, dass Beschäftigte nicht für Managementversagen bezahlen müssen. Sie kritisiert das Festhalten am Verbrennungsmotor als fehlende Zukunftsstrategie.
+- **[20:27](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=20m27s)** - **Isabel Cademartori (SPD)**: Erklärt, dass die Zukunft im Straßenverkehr der Elektromobilität gehört und erwartet von Unternehmen Investitionen in Deutschland.
+- **[21:00](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=21m0s)** - **Tarek Al-Wazir (Bündnis 90/Die Grünen)**: Verweist auf die Wahlergebnisse in Sachsen-Anhalt und kritisiert unrealistische Versprechen sowie die Abweichung davon nach der Wahl.
+- **[21:48](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=21m48s)** - **Tarek Al-Wazir (Bündnis 90/Die Grünen)**: Beanstandet, dass der Haushaltsentwurf 2027 das Versprechen zusätzlicher Investitionen nicht einlöst und der Verkehrsetat sich halbiert hat.
+- **[22:53](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=22m53s)** - **Tarek Al-Wazir (Bündnis 90/Die Grünen)**: Betont, dass der Haushaltsentwurf so nicht bleiben kann und sich grundlegend ändern muss, insbesondere bei der Art der Geldinvestition.
+- **[24:24](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=24m24s)** - **Sascha Wagner (Die Linke)**: Kritisiert die Diskrepanz zwischen Regierungsankündigungen und der Realität der Infrastruktur. Er bezeichnet den Ministerwechsel als "politische Farce".
+- **[25:16](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=25m16s)** - **Sascha Wagner (Die Linke)**: Erklärt, dass der Wechsel des Ministers ein Ablenkungsmanöver war, da die finanziellen Mittel nicht ausreichen. Er vergleicht die Situation mit falschen Weichen und abgebauten Gleisen.
+- **[25:45](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=25m45s)** - **Sascha Wagner (Die Linke)**: Analysiert den sinkenden Verkehrsetat und die Verteilung der Mittel auf verschiedene Töpfe, kritisiert die Intransparenz und die Priorisierung verteidigungsrelevanter Verkehrswege.
+- **[27:00](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=27m0s)** - **Sascha Wagner (Die Linke)**: Zitiert den Bundesrechnungshof zur Nichterreichung von Zielen bei der Verlagerung des Güterverkehrs und kritisiert Kürzungen bei Programmen zur Förderung des kombinierten Verkehrs.
+- **[27:37](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=27m37s)** - **Sascha Wagner (Die Linke)**: Kritisiert die Kürzungen bei Einzelwagenverkehr, nichtbundeseigenen Eisenbahnen und Trassenpreisförderungen sowie die steigenden Trassenpreise und drohenden Streichungen im Regionalverkehr.
+- **[28:14](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=28m14s)** - **Sascha Wagner (Die Linke)**: Kritisiert die finanzielle Stagnation beim Deutschlandticket und fordert ein bundesweit gültiges Sozialticket.
+- **[28:35](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=28m35s)** - **Sascha Wagner (Die Linke)**: Bemängelt die Diskrepanz zwischen Anspruch ("Erhalt vor Neubau") und Realität im Straßenbau und fordert den Verzicht auf unwirtschaftliche Neubauten zur Finanzierung von Sanierungen.
+- **[29:26](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=29m26s)** - **Stephan Stracke (Unionsfraktion)**: Beschreibt den Verkehrshaushalt als Investitions- und Sicherheitshaushalt und betont die Bedeutung der Mobilität für Menschen und Unternehmen.
+- **[30:24](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=30m24s)** - **Stephan Stracke (Unionsfraktion)**: Verweist auf die Auswirkungen des Niedrigwassers auf Lieferketten und dankt dem Minister für sein schnelles Handeln. Er betont die Notwendigkeit der Resilienz von Transportschiffen und Wasserstraßen.
+- **[31:03](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=31m3s)** - **Stephan Stracke (Unionsfraktion)**: Nennt die zusätzlichen Mittel für Bundeswasserstraßen und deren Bedeutung für die Wirtschaft. Er spricht auch über die Stärkung des Luftverkehrs und die Notwendigkeit der Drohnenerkennung und -abwehr an Flughäfen.
+- **[32:12](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=32m12s)** - **Stephan Stracke (Unionsfraktion)**: Erklärt die Investitionen in die Schiene, die Bedeutung der Sofortprogramme und die Notwendigkeit sauberer und sicherer Bahnhöfe. Er kritisiert jedoch massive Verzögerungen und mangelnde Koordination bei Baumaßnahmen der DB InfraGO.
+- **[33:40](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=33m40s)** - **Stephan Stracke (Unionsfraktion)**: Fasst den vorgelegten Haushalt als Fortschritt für das Land zusammen und betont die Fähigkeit, Infrastruktur zu bauen.
+- **[33:55](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=33m55s)** - **Marcus Bühl (AfD)**: Kritisiert die hohen Kraftstoffpreise als Ergebnis politischer Entscheidungen der Regierung und fordert eine Senkung der Steuern auf Energie und Kraftstoffe sowie die Abschaffung der CO2-Abgabe.
+- **[35:36](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=35m36s)** - **Marcus Bühl (AfD)**: Bezeichnet den Haushaltsentwurf als "finanzpolitischen Flickenteppich" und kritisiert die Vermischung von Länder- und Bundesaufgaben. Er fragt nach dem versprochenen Aufschwung und beklagt explodierende Kosten.
+- **[36:20](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=36m20s)** - **Marcus Bühl (AfD)**: Kritisiert das strukturelle Versagen des Staates bei der Umsetzung großer Verkehrsprojekte und fordert, vorhandenes Geld wirksam einzusetzen. Er kritisiert die Unterfinanzierung von Bundeswasserstraßen.
+- **[37:14](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=37m14s)** - **Marcus Bühl (AfD)**: Kritisiert die Prioritätenverteilung zugunsten der Schiene und ignoriert die Realität des Verkehrssystems. Er verweist auf die Wahlergebnisse in Sachsen-Anhalt als Beleg für die Ablehnung der Regierungspolitik.
+- **[38:28](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=38m28s)** - **Marcus Bühl (AfD)**: Fordert "Vernunft statt Ideologie in der Verkehrspolitik".
+- **[38:49](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=38m49s)** - **Truels Reichardt (SPD)**: Beschreibt die Verletzlichkeit der Verkehrswege gegenüber den Folgen des Klimawandels und die Notwendigkeit, die Infrastruktur für die kommenden Jahrzehnte fit zu machen.
+- **[39:53](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=39m53s)** - **Truels Reichardt (SPD)**: Erläutert die Investitionen in die Bundeswasserstraßen aus dem Sondervermögen und die Schaffung gesetzlicher Voraussetzungen für schnellere Planung und Genehmigung.
+- **[40:48](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=40m48s)** - **Truels Reichardt (SPD)**: Betont, dass mehr Geld und schnellere Verfahren nicht ausreichen, wenn das Personal fehlt, und kritisiert geplante Stellenstreichungen bei der Wasserstraßen- und Schifffahrtsverwaltung.
+- **[41:33](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=41m33s)** - **Truels Reichardt (SPD)**: Hebt die Bedeutung der Marschbahn für Schleswig-Holstein hervor und fordert eine konkrete Finanzierung für deren Ausbau.
+- **[42:19](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=42m19s)** - **Truels Reichardt (SPD)**: Erinnert daran, dass Infrastruktur sicher sein muss, und thematisiert die Vision Zero und die aktuelle hohe Zahl von Verkehrstoten.
+- **[43:03](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=43m3s)** - **Matthias Gastel (Bündnis 90/Die Grünen)**: Kritisiert, dass die Koalition viel Geld zur Verfügung hat, aber unverantwortlich damit umgeht, und dass die Zukunftsfähigkeit nicht von Mütterrente, sondern von funktionierender Infrastruktur abhängt.
+- **[43:55](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=43m55s)** - **Matthias Gastel (Bündnis 90/Die Grünen)**: Zählt Milliarden Euro für zusätzliche Investitionen in die Infrastruktur auf und kritisiert die Kürzungen im Bereich Schiene, Bahnhöfe, kombinierten Verkehr und die Streichung von Investitionen in attraktive und barrierefreie Bahnhöfe.
+- **[44:50](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=44m50s)** - **Matthias Gastel (Bündnis 90/Die Grünen)**: Bemängelt das Fehlen von Maßnahmen in den Bereichen "Organisation, Steuerung, Lenkung", wie z.B. den angekündigten Schienenfonds oder die Etappierung der Deutschlandtakt-Infrastrukturprojekte.
+- **[45:31](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=45m31s)** - **Matthias Gastel (Bündnis 90/Die Grünen)**: Fasst die schwarz-rote Verkehrspolitik im Haushalt 2027 in Stichworten zusammen: hohe Schulden, geringere Investitionen, marode Brücken, Langsamfahrstellen, Störungen im Schienennetz, verschleppte Sanierung und Elektrifizierung, kein Aufbau von Kapazitäten, unpünktliche Züge, geschwächter Schienengüterverkehr, Planungsstopp und Absage an den Klimaschutz.
+- **[46:37](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=46m37s)** - **Jorrit Bosch (Die Linke)**: Bedankt sich für zusätzliche Redezeit und spricht über die Rekorde des Sommers (Temperaturen, Pegelstände) sowie die Entlassung von Patrick Schnieder als "würdelos" und "Farce".
+- **[47:48](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=47m48s)** - **Jorrit Bosch (Die Linke)**: Nennt den Minister Bilger als neuen Verkehrsminister und kritisiert die Auftragslage von Kanzler Merz bezüglich der Mobilisierung privaten Kapitals und der Kreditfähigkeit der Autobahn GmbH.
+- **[48:27](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=48m27s)** - **Jorrit Bosch (Die Linke)**: Warnt, dass privates Kapital Rendite will und die Infrastruktur dadurch teurer wird. Er bezeichnet die Pläne als "Ausverkauf" und "Betrug an den Steuerzahlerinnen und Steuerzahlern".
+- **[49:10](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=49m10s)** - **Jorrit Bosch (Die Linke)**: Spricht über die Infragestellung der E-Auto-Prämie und die Krise der Automobilindustrie. Er fordert eine bessere Gestaltung der Prämien und Investitionen in die Produktion in Deutschland.
+- **[49:51](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=49m51s)** - **Jorrit Bosch (Die Linke)**: Verweist auf die Kosten des fehlenden Klimaschutzes durch Beispiele wie den Rhein, die A7 und Leipzig. Er stellt die Frage, ob man es sich leisten kann, auf Klimaschutz zu verzichten.
+- **[50:21](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=50m21s)** - **Jorrit Bosch (Die Linke)**: Betont, dass der Minister Entscheidungen über das Deutschlandticket, Gewinne von Mineralölkonzernen und die Bezahlbarkeit von Mobilität trifft und dass die Linke ihn daran messen wird.
+- **[51:01](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=51m1s)** - **Carl-Philipp Sassenrath (Unionsfraktion)**: Reagiert auf frühere Redebeiträge, nennt die Debattenführung anderer Fraktionen unlauter und unterstellt einen "Rasen zertreten" durch die Art der Debattenführung.
+- **[52:06](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=52m6s)** - **Carl-Philipp Sassenrath (Unionsfraktion)**: Erklärt, dass Stau eine gute Nachricht sein kann, da ein "Land im Stau ein Land im Bau" sei. Er lobt die Anzahl der Baufreigaben des vorherigen Ministers und betont die Fortsetzung dieser Linie unter dem neuen Minister.
+- **[52:53](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=52m53s)** - **Carl-Philipp Sassenrath (Unionsfraktion)**: Erklärt, dass die Mittel zur Modernisierung der Infrastruktur sofort eingesetzt werden und das "Deutschland baut"-Prinzip fortgeführt wird.
+- **[53:16](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=53m16s)** - **Carl-Philipp Sassenrath (Unionsfraktion)**: Beschreibt die Strategie der Koalition aus langfristigen Maßnahmen und Sofortmaßnahmen, wie z.B. Mittel für Sicherheit, Sauberkeit und Komfort der Bahn.
+- **[54:36](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=54m36s)** - **Carl-Philipp Sassenrath (Unionsfraktion)**: Definiert den Ansatz "smart and small" und betont, dass die Koalition weiterhin mehr in die Bahn investiert als die frühere Finanzplanung der Ampel vorsah.
+- **[1:00:47](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h0m47s)** - **Anja Troff-Schaffarzyk (SPD)**: Betont die hohen Investitionen in die Schieneninfrastruktur, abgesichert durch das Sondervermögen. Sie mahnt jedoch zur Vorsicht wegen der Verlagerung von Mitteln in den Verteidigungsetat und fordert, dass die verkehrspolitische Steuerung beim Verkehr verbleibt.
+- **[1:02:02](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h2m2s)** - **Anja Troff-Schaffarzyk (SPD)**: Gratuliert dem Minister und äußert den Wunsch nach verlässlicher Kontinuität bei der Schiene. Sie betont die Notwendigkeit von Planungssicherheit und einer langfristigen Finanzierung.
+- **[1:03:51](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h3m51s)** - **Anja Troff-Schaffarzyk (SPD)**: Spricht von einer Schieflage im Luftverkehr, insbesondere beim SAF-Hochlauf, und kritisiert die Kürzung bei Verpflichtungsermächtigungen. Sie fordert mehr Effizienz und Verantwortung.
+- **[1:05:01](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h5m1s)** - **Dr. Paula Piechotta (Bündnis 90/Die Grünen)**: Bezieht sich auf die Wahlergebnisse in Sachsen-Anhalt und fordert, dass der Haushaltsentwurf ehrlicher wird, stärker in die Zukunftsfähigkeit investiert und Versprechen gehalten werden.
+- **[1:06:45](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h6m45s)** - **Dr. Paula Piechotta (Bündnis 90/Die Grünen)**: Kritisiert, dass der Haushaltsentwurf schlecht ist und die Investitionen sinken, wenn man die Baupreisinflation berücksichtigt. Sie kritisiert die Verteilung des Sondervermögens.
+- **[1:07:52](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h7m52s)** - **Carl-Philipp Sassenrath (Unionsfraktion)**: Stellt eine Zwischenfrage zur Haltung der Grünen zur Abladeoptimierung am Rhein.
+- **[1:08:09](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h8m9s)** - **Dr. Paula Piechotta (Bündnis 90/Die Grünen)**: Antwortet auf die Zwischenfrage und bekräftigt die Einigkeit über die Bedeutung der Wasserstraßen. Sie wiederholt die Kritik an der mangelnden Ehrlichkeit und Transparenz des Haushaltsentwurfs.
+- **[1:11:02](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h11m2s)** - **Dr. Paula Piechotta (Bündnis 90/Die Grünen)**: Nennt eine Finanzierungslücke bei der Sanierung von Bundesfernstraßen und fordert eine Korrektur des Haushalts. Sie kritisiert die Kürzungen bei Klimaschutzprogrammen als unglaubwürdig nach dem Sommer.
+- **[1:13:22](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h13m22s)** - **Henning Rehbaum (Unionsfraktion)**: Nennt den Kern der Botschaft des Haushaltsentwurfs: "Endlich wird wieder gebaut." Er vergleicht die Investitionen positiv mit Zeiten der Ampelregierung.
+- **[1:14:22](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h14m22s)** - **Henning Rehbaum (Unionsfraktion)**: Bezeichnet die Kritik der Opposition als "billig" und "Fake News" und betont, dass die Regierung Verantwortung übernimmt und die Verkehrswege voranbringt.
+- **[1:14:57](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h14m57s)** - **Henning Rehbaum (Unionsfraktion)**: Spricht über Investitionen in Schiene und Wasserstraßen und die geplante Kreditfähigkeit der Autobahn GmbH nach österreichischem Vorbild.
+- **[1:15:33](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h15m33s)** - **Henning Rehbaum (Unionsfraktion)**: Nennt Mittel für automatisiertes, autonomes und vernetztes Fahren sowie für Lkw-Stellplätze und modernere BALM-Kontrollen.
+- **[1:16:13](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h16m13s)** - **Henning Rehbaum (Unionsfraktion)**: Erklärt, dass der erste Gesetzentwurf nachgebessert werden soll und Förderprogramme ausgebaut werden könnten, z.B. für Güterkraftverkehr und Radförderung.
+- **[1:17:04](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h17m4s)** - **Henning Rehbaum (Unionsfraktion)**: Zeigt sich zuversichtlich, dass ein Verkehrshaushalt gelingt, der solide Haushaltsführung und Investitionen vereint, und nennt dies gut für Wirtschaft und Deutschland.
+- **[1:17:31](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h17m31s)** - **Dr. Kraft (Kurzintervention)**: Stellt eine Frage zur Planungsbeschleunigung im Rahmen des Brenner-Nordzulaufs, da die bisherige Planung zu spät sei.
+- **[1:19:08](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h19m8s)** - **Henning Rehbaum (Unionsfraktion)**: Antwortet, dass das Infrastruktur-Zukunftsgesetz ein Meilenstein für den Infrastrukturausbau sei und nennt das Beispiel der Talbrücke Rahmede als schnellere Fertigstellung.
+- **[1:20:15](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h20m15s)** - **René Bochmann (AfD)**: Kritisiert die Vernachlässigung des Bundeswasserstraßennetzes und die fortgesetzte desaströse Entwicklung im Haushaltsentwurf 2027.
+- **[1:20:54](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h20m54s)** - **René Bochmann (AfD)**: Nennt die geringen Mittel für die Bundeswasserstraßen, insbesondere die Kürzung bei Aus- und Neubaumaßnahmen, und die Bedeutung der Elbe als Verkehrsachse.
+- **[1:22:14](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h22m14s)** - **René Bochmann (AfD)**: Fragt, was eine Bundeswasserstraße nützt, wenn die Schifffahrt bei Niedrigwasser eingeschränkt wird, und fordert die Überprüfung des Gesamtkonzepts Elbe.
+- **[1:23:07](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h23m7s)** - **René Bochmann (AfD)**: Betont die Notwendigkeit von ausreichenden Fahrrinnentiefen an der Elbe und die Prüfung wasserbautechnischer Lösungen.
+- **[1:23:18](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h23m18s)** - **René Bochmann (AfD)**: Bezeichnet die Mittel für Aus- und Neubau im Bundeswasserstraßennetz als "blanken Hohn" und fordert eine generelle Investitionsoffensive.
+- **[1:24:33](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h24m33s)** - **Stefan Seidler (fraktionslos)**: Gratuliert dem Minister und berichtet über den maroden Bahnverkehr in Schleswig-Holstein, der "Alltag" sei.
+- **[1:25:05](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h25m5s)** - **Stefan Seidler (fraktionslos)**: Äußert die Erwartung, dass der Norden verbindliche Finanzierungszusagen mit Tempo erhält. Er kritisiert die Abwälzung der Wasserstraßen- und Seehafenfinanzierung auf die Küstenländer.
+- **[1:26:41](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h26m41s)** - **Stefan Seidler (fraktionslos)**: Fordert, dass die anstehenden Beratungen dafür sorgen, dass Investitionen auch im Norden und an den Küsten ankommen.
+- **[1:26:54](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h26m54s)** - **Uwe Schmidt (SPD)**: Gratuliert dem Minister und den Staatssekretären und wünscht einen guten Start. Er betont die Notwendigkeit, die Infrastruktur auf ein Niveau zu bringen, das wirtschaftlichen und sicherheitspolitischen Anforderungen entspricht.
+- **[1:28:15](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h28m15s)** - **Uwe Schmidt (SPD)**: Kritisiert, dass Straßen, Schienen, Wasserstraßen und Häfen noch zu häufig in Einzelzuständigkeiten verwaltet werden, während die Wirtschaft diese Grenzen nicht kenne.
+- **[1:29:07](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h29m7s)** - **Uwe Schmidt (SPD)**: Verweist auf geschaffene gesetzliche Rahmenbedingungen und kritisiert, dass Bundesmittel für Seehäfen rechtlich nicht erhöht werden könnten, während Rechtsgutachten das Gegenteil behaupten.
+- **[1:30:50](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h30m50s)** - **Uwe Schmidt (SPD)**: Stellt die Frage, wer über die Verwendung der Mittel entscheidet und welche Rolle das Parlament dabei hat. Er betont, dass Geld allein keine Handlungsfähigkeit schafft und es um mehr geht als um Haushaltsansätze.
+- **[1:32:33](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h32m33s)** - **Alexis L. Giersch (AfD)**: Fasst die Antrittsrede des Ministers als "Alles wird gut" zusammen und kritisiert diese als realitätsfremd. Er nennt das Motto der Regierung "Trümmer schaffen ohne Waffen".
+- **[1:33:18](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h33m18s)** - **Alexis L. Giersch (AfD)**: Greift den Begriff "Schuldenkanzler" auf, der von der CDU geprägt wurde, und vergleicht die aktuellen Schulden mit denen früherer Regierungen. Er kritisiert die Ideologieprojekte, in denen die Schulden versickern, während Brücken bröckeln.
+- **[1:34:32](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h34m32s)** - **Alexis L. Giersch (AfD)**: Nennt Inflation, Schuldenschnitt und Währungsreform als drei Klippen, auf die das "Narrenschiff" zusteuert. Er kritisiert die Einredung der Bürger durch die Regierung und den "Staatsfunk", dass die Politik alternativlos sei und Kritik rechtsextrem wäre.
+- **[1:35:32](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h35m32s)** - **Alexis L. Giersch (AfD)**: Kündigt an, dass die AfD die "linken Ideologieprojekte beenden" und mit der Sanierung der Brücken beginnen wird, sobald die "Koalition" sich trennt.
+- **[1:36:01](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h36m1s)** - **Florian Oßner (Unionsfraktion)**: Gratuliert dem Minister und betont, dass die Regierung Merz wieder auf hohem Niveau in die Verkehrswege investiert und damit den Investitionshochlauf unterstützt.
+- **[1:36:51](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h36m51s)** - **Florian Oßner (Unionsfraktion)**: Erklärt die Neuausrichtung des Haushalts weg von konsumtiven Ausgaben hin zu Investitionen in die Zukunft, Wachstum, Wettbewerbsfähigkeit und Wohlstand.
+- **[1:37:27](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h37m27s)** - **Florian Oßner (Unionsfraktion)**: Nennt die Höhe des Verkehrsetats und der reinen Investitionen und erklärt, dass der Verkehrsetat der größte Investitionshaushalt des Bundes bleibt.
+- **[1:37:50](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h37m50s)** - **Florian Oßner (Unionsfraktion)**: Beschreibt die komplexe Finanzierungsstruktur der Verkehrsinfrastruktur über mehrere Säulen.
+- **[1:38:17](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h38m17s)** - **Florian Oßner (Unionsfraktion)**: Nennt die Mittel für verteidigungsrelevante Verkehrsinfrastruktur und aus dem Infrastruktur-Sondervermögen, einschließlich der Berücksichtigung der Bundeswasserstraßen.
+- **[1:39:38](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h39m38s)** - **Florian Oßner (Unionsfraktion)**: Nennt die Mittel für Brücken und Tunnel aus dem Sondervermögen sowie die Investitionen in die Erhaltung und Digitalisierung der Schiene.
+- **[1:40:03](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h40m3s)** - **Florian Oßner (Unionsfraktion)**: Betont den Ansatz, die Verkehrsträger nicht gegeneinander auszuspielen, und die Notwendigkeit einer leistungsfähigen Straße, Schiene, Wasserstraßen und eines wettbewerbsfähigen Luftverkehrs.
+- **[1:40:24](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h40m24s)** - **Florian Oßner (Unionsfraktion)**: Spricht von Lücken in der Finanzierung und der Notwendigkeit, die Autobahn GmbH durch Lkw-Maut-Einnahmen begrenzt kreditfähig zu machen, um kurzfristige Engpässe abzufedern.
+- **[1:41:08](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h41m8s)** - **Florian Oßner (Unionsfraktion)**: Spricht von der Notwendigkeit von Strukturverbesserungen bei der Bahn trotz immenser Mittelzuweisungen und kritisiert die Pünktlichkeit und die Kostenläufe bei Korridorsanierungen.
+- **[1:41:42](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h41m42s)** - **Florian Oßner (Unionsfraktion)**: Erklärt, dass mit dem Haushalt 2027 der Kurs fortgesetzt wird, Ausgaben geprüft und Prioritäten gesetzt werden. Er betont, dass solide Finanzen und Investitionen keine Gegensätze sind und eine zuverlässige Infrastruktur Voraussetzung für Wachstum und Wohlstand ist.
+- **[01:42:57](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h42m57s)** - **Sitzungsende der Verkehrsdebatte**: Die Debatte zum Einzelplan 12 wird für beendet erklärt.
+- **[01:43:07](https://www.youtube.com/watch?v=hjWgg9L1mzM&t=1h43m7s)** - **Tagesordnungspunktwechsel**: Die Sitzung wendet sich dem Einzelplan 16 (Umwelt-, Klimaschutz, Naturschutz und nukleare Sicherheit) zu.
