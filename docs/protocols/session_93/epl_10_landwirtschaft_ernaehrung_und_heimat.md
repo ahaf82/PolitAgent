@@ -8,120 +8,109 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=F6ivP3-PLdk)
 
 ## Kurzzusammenfassung
-Die Debatte im Deutschen Bundestag befasste sich mit dem Haushaltsplan für den Bereich Landwirtschaft, Ernährung und Heimat (Einzelplan 10) für das Jahr 2027. Die Redebeiträge zeigten die angespannte Lage der Landwirtschaft aufgrund von Dürre, hohen Kosten und Marktdruck auf. Es wurden unterschiedliche Ansichten zu den vorgeschlagenen finanziellen Hilfen, den Prioritäten bei der Haushaltsplanung und der Zukunftsfähigkeit des Sektors deutlich.
+Die Debatte im Deutschen Bundestag thematisierte den Haushaltsplan für den Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat. Diskutiert wurden die aktuellen Herausforderungen der Landwirtschaft, wie Dürre, gestiegene Kosten und Preisverfall, sowie die im Haushaltsentwurf vorgesehenen Maßnahmen zur Unterstützung der Branche. Die Fraktionen erörterten die Angemessenheit der finanziellen Mittel, die Notwendigkeit von Liquiditätshilfen, die Rolle der Agrarstrukturförderung und die zukünftige Ausrichtung der Landwirtschaft im Hinblick auf Klimaanpassung und Nachhaltigkeit.
 
 ## Kernaussagen und Positionen der Fraktionen
 - **Bundesregierung (vertreten durch Silvia Breer):**
-  - Die Landwirtschaft befindet sich in einer Krise nationaler Tragweite, die multifaktorielle Ursachen hat.
-  - Der Haushalt für 2027 sieht rund 7 Milliarden Euro vor, ähnlich dem Vorjahr.
-  - Gezielte Maßnahmen sind geplant: Liquiditätsprogramme mit der Rentenbank (Aufstockung auf 500 Mio. €), ein zweites Liquiditätsprogramm, eine einmalige Erhöhung der EU-Direktzahlungen um über 700 Mio. €, EU-Düngemittelhilfen (60 Mio. €) als Hektarprämie.
-  - Förderung der Klimaresilienz durch Waldumbau (100 Mio. € aus KTF) und klimaangepasstes Waldmanagement (40 Mio. €).
-  - Einführung einer steuerlichen Risikoausgleichsrücklage und Gewinnglättung.
-  - Prüfung von Mehrgefahrenversicherungen.
-  - Umbau der landwirtschaftlichen Tierhaltung wird als wichtig erachtet, finanzielle Mittel sind vorhanden, aber weiteres Geld wird benötigt.
-- **AfD Fraktion (vertreten durch Julian Schmidt, Stefan Protchka, Peter Felser, Christian Rick, Bernt Schattner):**
-  - Ernährungs- und Versorgungssicherheit hängen von wirtschaftlich gesunden Höfen ab.
-  - Die Bundesregierung kann die Interessen der Landwirte offensichtlich nicht durchsetzen, insbesondere gegenüber dem Koalitionspartner.
-  - Gute Absichten und Kredite allein reichen nicht; Auszahlung der GAP-Direktzahlungen sollte vorgezogen werden.
-  - Forderung nach sofortiger vollständiger Befreiung von landwirtschaftlich eingesetztem Diesel von der Energiesteuer.
-  - Kritik an geplanten Steuererhöhungen auf Minijobs und höheren Stromsteuer-Sätzen.
-  - Der Haushalt kürzt bei der Unfallversicherung und der GAK; dies spiegelt die angespannte Situation nicht wider.
-  - Kritisiert staatliche Flächenkäufe für Naturschutzorganisationen.
-  - Bemängelt fehlenden Gesetzesentwurf im Agrarausschuss und sieht "Schaden anrichten" bei Untätigkeit der Regierung.
-  - Kritisiert Kürzungen bei der GAK und spielt Tierhalter gegen Forstwirtschaft aus.
-  - Fordert eine Freigabe der Bejagung von Wölfen und kritisiert EU-Verordnungen als bürokratischen Wahnsinn.
-  - Die Landwirtschaftssubvention ist im Vergleich zu anderen Ausgaben (Ukraine, Klimagedöns, Entwicklungshilfe) gering; Ruin für Schweinehalter durch niedrige Preise und hohe Kosten.
-  - Kritisieren die Agrarsozialpolitik als "Armutszeugnis" und fordern bessere Renten für Landwirte.
-- **SPD Fraktion (vertreten durch Esther Dilcher, Isabel Martensen Geis, David Manreller, Jens Bärens):**
-  - Der Haushalt (Einzelplan 10) sieht knapp 7 Mrd. € vor, was eine leichte Kürzung gegenüber dem Vorjahr darstellt, während Personalausgaben steigen.
-  - Kritik an Kürzungen bei gesundheitlichem Verbraucherschutz und der GAK.
-  - Bundesprogramm zum Stallumbau läuft aus, zukünftige Finanzierung über GAK unsicher.
-  - Fordert Zugang zum GCK-Portal für Transparenz.
-  - Kürzungen bei Forschung und Innovation für nachhaltige Landwirtschaft.
-  - Fischerei: Kritik an bürokratischem Aufwand bei der Dieselrückerstattung.
-  - Forderung nach Bürokratieabbau durch klare Regeln und Vertrauen.
-  - Hervorhebung der Notwendigkeit von Klimaanpassung für Landwirtschaft und Wälder.
-  - Betonung der Bedeutung des Ökolandbaus als Innovationsmotor und Erfüllung des Koalitionsvertrages.
-  - Unterstützung des Waldumbaus und des Kleinprivatwaldes.
-  - Dringender Appell, Prioritäten für Forschung, Innovation und Klimaanpassung zu setzen.
-  - Unterstützt das Bundesprogramm zum Umbau der Tierhaltung und die darin vorgesehenen Mittel.
-  - Kritisiert die Finanzierung des Stallumbaus über die GAK aufgrund mangelnder bundesweiter Einheitlichkeit und Berücksichtigung laufender Mehrkosten.
-  - Appelliert an den Minister, eine dauerhafte Finanzierung für ein Bundesprogramm zu erarbeiten.
-  - Hervorhebung der Bedeutung der Gemeinschaftsaufgabe Agrarstruktur und Küstenschutz (GAK) für Dorfentwicklung und regionale Infrastruktur.
-  - Betonung der Notwendigkeit von regionaler Wertschöpfung und Klimaanpassung an Küsten.
-- **Bündnis 90/Die Grünen (vertreten durch Leon Eckert, Dr. Verlinden, Karl Ber):**
-  - Der Haushalt kürzt Zukunftsperspektiven für Landwirtschaft und Natur und zeigt Handlungsunfähigkeit der Regierung.
-  - Kritik an Sparvorschlägen des Ministers für die GAK und "sparen durch Untätigkeit".
-  - "Rasenmähermethode" mit fatalen Fehlanreizen, bei der Mittel nicht abgerufen werden, um Sparvorgaben zu erreichen.
-  - Programme werden in andere Haushaltsteile verschoben, was eine "Abbruchkante" erzeugt.
-  - Kürzungen bei Verbraucherschutz und Aufklärung sind fatal.
-  - Heimatagenda überzeugt nicht; Fokus auf Bilder statt Mehrwert.
-  - Fordern eine Landwirtschaft, die Natur und Menschen in Einklang bringt, anstatt auf Effizienzsteigerung zu setzen.
-  - Wollen weg von Exportstrategie, hin zu Regionalwirtschaft; statt Gentechnik, Resilienz der Natur nutzen.
-  - Fordern ökologische Landwirtschaft und mehr Geld für Tierversuchsreduktion und Stallumbau.
-  - Klimakrise als existenzielle Bedrohung; Kürzungen bei Klima- und wasserschonender Landwirtschaft kritisiert.
-  - Fordern mehr Geld für "klimafeste Böden" und bessere Wasserspeicherfähigkeit.
-  - Wiederherstellungsverordnung und Gesetz zur Stärkung der natürlichen Infrastruktur sind nötig.
-  - Kritik an Kürzungen zugunsten von Brüssel, während ländliche Räume vernachlässigt werden.
-  - Betonen, dass Strategie ohne Geld und Geld ohne Strategie nicht hilft.
-  - Ablehnung der AfD und Forderung nach Verbot.
-  - Kritisieren Kürzungen im Bundesprogramm Umbau der Tierhaltung und der Tierhaltungskennzeichnung.
-  - Betonen die Überflutung der Ostsee mit Nährstoffen und die Notwendigkeit eines Düngegesetzes.
-  - Kurzfristige Hilfen reichen nicht; keine Anpassung oder Krisenverhinderung.
-- **Die Linke (vertreten durch Inna Latendorf, Sascha Wagner):**
-  - Agrarhaushalt erhält nicht die nötige Aufmerksamkeit und Mittel; Sparmaßnahmen stehen im Gegensatz zu Rüstungsausgaben.
-  - Nur ein Bruchteil des Gesamthaushaltes für Landwirtschaft, Forst, Fischerei, Ernährung und ländliche Räume.
-  - Hohe Lebensmittelpreise belasten Verbraucher, während Erzeugerpreise sinken und Kosten steigen.
-  - Kritik an Marktmacht des Lebensmitteleinzelhandels.
-  - Forderung nach bezahlbaren und gesunden Lebensmitteln sowie starker regionaler Wertschöpfung.
-  - Fordern kostenfreie Schulverpflegung bundesweit.
-  - Kürzungen bei Tierhaltungsumbau, Ernährung, Verbraucherschutz, Forschung und Innovation; massive Kürzung bei umweltschonender Fischerei.
-  - Kritik an Subventionen für synthetische Düngemittel.
-  - Sehen bei der Koalition wenig Fortschritt.
-  - Kritisieren, dass der Haushalt bindet immer größere Teile der Mittel und schwächt ländliche Räume.
-  - Fordern eine Ausweitung der GAK, Sicherung im Kernhaushalt und Entlastung finanzschwacher Länder.
-  - Kritisieren die Agraraußenwirtschaft und die Mittel für Messen und Konferenzen gegenüber internationaler Ernährungssicherheit.
-- **CDU/CSU Fraktion (vertreten durch Albert Stegemann, Anna Eignens, Alexander Engelhart, Benedikt Büdenbänder, Dr. Oliver Fogt):**
-  - Dank an Minister Reiner für Vorlage eines stabilen Haushalts trotz angespannter Lage.
-  - Anerkennung der Stabilität der landwirtschaftlichen Sozialversicherung (4,3 Mrd. €).
-  - Lob für das eigene Sozialversicherungssystem der Landwirtschaft.
-  - Dank für den Einsatz des Ministers bei EU-Zahlungen (700 Mio. € zusätzlich) und Liquiditätshilfen.
-  - Unterstützung für mehr Gefahrenversicherung zur Resilienzsteigerung.
-  - Betonen die Bedeutung der GAP als mehr als nur Flächenprämie, auch für Wettbewerbsfähigkeit.
-  - Sehen eine veränderte Rhetorik im Agrarsektor nach Wahlen und rufen zur Kompromissbereitschaft auf.
-  - Lob für Bundesforschungseinrichtungen (z.B. US Kühen Institut, Friedrich Löffler Institut, Max Rubner Institut) und deren Relevanz für Anpassung, Tiergesundheit und Verbraucherschutz.
-  - Wichtige Investitionen in Küsten- und Hochwasserschutz (Mittel bleiben stabil bei 120 Mio. €).
-  - Anerkennung der Arbeit der Landwirte und ihrer Verantwortung.
-  - Forderung nach weniger Bürokratie und mehr unternehmerischer Freiheit.
-  - Betonung der Bedeutung von Landwirtschaft für Ernährung, ländliche Räume und wirtschaftliche Stärke.
-  - Hervorhebung von Forschungseinrichtungen wie dem Friedrich-Löffler-Institut für Krisenvorsorge.
-  - Kritik an mangelnder Abstimmung zwischen Kennzeichnungs- und Fördersystemen im Tierhaltungsumbau.
-  - Anrechnung der Initiative Tierwohl bei Abrufzahlen des Bundesprogramms.
-  - Danken dem Minister für die Aufräumarbeiten im Etat.
-  - Betonung der strategischen Bedeutung der Landwirtschaft für die gesamtstaatliche Sicherheit.
-  - Die Haushaltslage macht Kürzungen notwendig, aber diese sind schmerzhaft, insbesondere bei Nachhaltigkeit und Forschung.
+  - Die Landwirtschaft befindet sich in einer Krise nationaler Tragweite, bedingt durch multifaktorielle Herausforderungen wie Dürre, Ernteverluste, Futterknappheit, hohe Kosten für Diesel und Dünger sowie wirtschaftlichen Druck in der Tierhaltung.
+  - Der Haushalt 2027 sieht rund 7 Milliarden Euro vor, was dem Vorjahresniveau entspricht.
+  - Geplante Maßnahmen umfassen Liquiditätsprogramme mit der Rentenbank (Aufstockung um 300 Mio. auf 500 Mio. Euro), ein zweites Liquiditätsprogramm, eine einmalige Erhöhung der EU-Direktzahlungen um über 700 Mio. Euro, zielgenaue EU-Düngemittelhilfen (60 Mio. Euro) und Mittel für klimaresiliente Land- und Forstwirtschaft (100 Mio. Euro aus dem KTF, weitere 40 Mio. Euro für Waldmanagement).
+  - Ziel ist die Ernährungssicherung, die Handlungsfähigkeit der Betriebe und die Stärkung der Klimaresilienz.
+  - Es werden steuerliche Instrumente wie eine Risikoausgleichsrücklage und Gewinnglättung sowie eine Mehrgefahrenversicherung geprüft.
+  - Das Bundesprogramm zum Umbau der landwirtschaftlichen Tierhaltung zeigt eine hohe Nachfrage und soll fortgeführt werden.
+
+- **AfD-Fraktion (Julian Schmidt, Stefan Protchka, Peter Felser, Christian Rick, Bernt Schattner):**
+  - Die Bundesregierung könne die Interessen der Landwirte nicht durchsetzen, insbesondere gegenüber dem Koalitionspartner.
+  - Gute Absichten reichen nicht aus; Landwirte brauchen konkrete Entlastungen, die auf dem Hof ankommen.
+  - Kredite verschieben das Problem nur; eine Vorziehung der GAP-Direktzahlungen wäre sofortige Hilfe.
+  - Die steuerfreie Risikoausgleichsrücklage muss endlich umgesetzt werden.
+  - Die Kosten für Landwirte müssen gesenkt werden, insbesondere durch eine vollständige Befreiung von der Energiesteuer für Diesel.
+  - Geplante Steuererhöhungen (Minijobs, Schwitzensteuersätze) und Kürzungen bei der Unfallversicherung sowie bei der GAK sind kontraproduktiv.
+  - Der Bund finanziert Flächenkäufe von Naturschutzorganisationen, während Landwirte um ihre Existenz kämpfen.
+  - Der Agrarausschuss habe seit März keine Gesetzesentwürfe der Regierung beraten, was schadlos sei, da die Regierung aktuell keinen Schaden anrichte.
+  - Die GAK-Mittel werden gekürzt, und die Finanzierung des Stallumbaus aus der GAK wird kritisiert, da sie Ressourcen bindet und zu Lasten anderer Programme gehe.
+  - Die EU-Verordnungen (Entwaldungsverordnung, Wiederherstellungsverordnung) werden als bürokratischer Wahnsinn kritisiert, der Waldbauern belastet.
+  - Die Wolfspolitik wird als zahnloser Papiertiger kritisiert; eine praxistaugliche Bejagung wird gefordert.
+  - Die landwirtschaftliche Sozialpolitik wird als Armutszeugnis bezeichnet; die Altersgelder seien zu gering.
+  - Die steigenden Kosten (Diesel, Dünger, Löhne) bei sinkenden Erzeugerpreisen führen zu Hofsterben und Abhängigkeit vom Ausland.
+  - Die Kürzung bei der landwirtschaftlichen Unfallversicherung wird als instinktlos und schädlich für Schweinebauern kritisiert.
+
+- **SPD-Fraktion (Esther Dilcher, Isabel Martensen Geis, Jens Bärens, David Manreller):**
+  - Der Haushalt 2027 sieht 6,973 Milliarden Euro vor, eine leichte Kürzung, die aber durch gestiegene Personalausgaben und sinkende Mittel für Verbraucherschutz und Forschung zu verschärfen scheint.
+  - Die Kürzungen bei der GAK (43,7 Mio. Euro) und bei Nachhaltigkeitsforschung sowie ökologischem Landbau (erhebliche Kürzungen) werden kritisch gesehen.
+  - Das Auslaufen des Bundesprogramms zum Stallumbau und die Verlagerung in die GAK wird als problematisch angesehen, da dies die Mittel in der GAK verknappt.
+  - Die Bürokratie bei der Dieselkostenerstattung für Fischer wird kritisiert; die Tankrechnung sollte zugrunde gelegt werden.
+  - Es wird eine Stärkung des Ökolandbaus und der Forschung für klimaresiliente Landwirtschaft gefordert.
+  - Die Bedeutung der Gemeinschaftsaufgabe Agrarstruktur und Küstenschutz (GAK) für ländliche Räume wird hervorgehoben; eine Verbesserung der Transparenz beim GAK-Portal wird gefordert.
+  - Die SPD unterstützt die Fortführung und Finanzierung des Bundesprogramms zum Umbau der Tierhaltung, bemängelt aber die Verlegung der Förderung in die GAK, da dies zu ungleichen Bedingungen und mangelnder Planungssicherheit führe.
+
+- **Bündnis 90/Die Grünen (Leon Eckert, Dr. Verlinden, Karl Ber):**
+  - Der Haushalt kürzt an der Zukunft der Landwirtschaft und Natur; er spiegelt nicht die Krisensituation wider und ist ein Zeichen des Desinteresses der Bundesregierung.
+  - Die pauschale Kürzung nach der "Rasenmehermethode" führe zu einem fatalen Fehlanreiz, da Mittel durch Untätigkeit eingespart würden.
+  - Die Verschiebung von GAK-Mitteln in den Klima- und Transformationsfonds schaffe eine "Abbruchkante".
+  - Kürzungen bei Verbraucherschutz, Nachhaltigkeitsforschung und Innovation sind fatal, insbesondere in Zeiten von Internetbetrug und fragwürdigen Produkten.
+  - Die "Heimatagenda" überzeugt noch nicht; es wird eine kritische Hinterfragung des Mehrwerts für die Fläche gefordert.
+  - Es wird eine Landwirtschaft gefordert, die Menschen mit der Natur in Einklang bringt, langfristiges Denken, Bodenerhalt und Wasserrückhalt fördert.
+  - Die Klimakrise muss Konsequenzen für Politik und Haushalt haben; die Haushaltskürzungen bei klima- und wasserschonender Landwirtschaft sowie bei Humuserhalt sind kontraproduktiv.
+  - Die Wiederherstellungsverordnung und ein Gesetz zur Stärkung der natürlichen Infrastruktur sollten vorangetrieben werden.
+  - Die Kürzungen im Bereich der Fischerei werden kritisiert, insbesondere im Hinblick auf die Ostseeverschmutzung und den Verlust von Fischbeständen.
+  - Die Tierhaltungskennzeichnung und die Förderung des Ökolandbaus werden gefordert; die Verzögerung bei der Umsetzung des Tierhaltungskennzeichnungsgesetzes wird kritisiert.
+
+- **Die Linke (Inna Latendorf, Sascha Wagner):**
+  - Der Agrarhaushalt ist unterfinanziert, während bei der Rüstung gespart werde. Nur 0,5% des Gesamthaushalts sind für Landwirtschaft, Ernährung und ländliche Räume vorgesehen.
+  - Hohe Lebensmittelpreise bei sinkenden Erzeugerpreisen belasten Verbraucher und Landwirte; die Marktmacht des Lebensmitteleinzelhandels wird kritisiert.
+  - Es mangelt an Maßnahmen zur Bekämpfung der Ursachen hoher Lebensmittelpreise und zur gezielten Entlastung der Verbraucher.
+  - Bezahlbare und gesunde Lebensmittel sowie starke regionale Wertschöpfung und gute Preise für Landwirte werden gefordert.
+  - Kürzungen bei der Tierhaltungsumbau-Förderung, Ernährung, Verbraucherschutz, Forschung und Innovation sowie bei der umweltschonenden Fischerei sind inakzeptabel.
+  - Die Förderung der ökologischen Landwirtschaft und Biodiversität wird gekürzt, was die Dürrefolgen nicht berücksichtigt; stattdessen werden Subventionen für synthetische Düngemittel geplant.
+  - Die Finanzierung über eigene Sondersysteme für Landwirte ist langfristig nicht tragfähig; eine Einbeziehung in allgemeine Sozialversicherungssysteme wird gefordert.
+  - Globale Minderausgaben von über 182 Mio. Euro verschärfen den Kürzungsdruck; Projekte erhalten keine Planungssicherheit.
+  - Die Kürzung bei der GAK wird kritisiert; Mittel für Dorfentwicklung, regionale Infrastruktur und Ökolandbau fehlen.
+  - Die Agraraußenwirtschaft wird weitgehend verschont, während Mittel für Messen und Konferenzen steigen.
+  - Es wird ein Haushalt gefordert, der soziale Sicherheit garantiert und politische Gestaltung ermöglicht.
+
+- **CDU/CSU-Fraktion (Albert Stegemann, Anna Eignens, Alexander Engelhart, Benedikt Büdenbänder, Dr. Oliver Fogt):**
+  - Der Haushalt ist ein Maß an Stabilität angesichts der angespannten Haushaltslage.
+  - Der Beitrag zur Stabilisierung der landwirtschaftlichen Sozialversicherung wird hervorgehoben.
+  - Dank wird für den Einsatz des Ministers und die Schaffung von Liquiditätshilfen, Düngehilfen und Mitteln für resilientere Betriebe ausgesprochen.
+  - Die GAP wird als mehr als nur Flächenprämie betrachtet; sie muss Wettbewerbsfähigkeit fördern.
+  - Die Maßnahmen der Bundesregierung, insbesondere die 700 Mio. Euro zusätzliche EU-Zahlungen, werden als Cash-Hilfe für Betriebe gelobt.
+  - Es wird die Bedeutung von Bundesforschungseinrichtungen (u.a. Julius Kühn-Institut, Friedrich-Loeffler-Institut) für Pflanzengenetik, Klimaanpassung, Tiergesundheit und Verbraucherschutz hervorgehoben.
+  - Investitionen in Küstenschutz und präventiven Hochwasserschutz werden als wichtig erachtet.
+  - Die Notwendigkeit, Bürokratie abzubauen, Verfahren zu vereinfachen und mehr Vertrauen in die Landwirte zu setzen, wird betont.
+  - Die Landwirtschaft sichert Ernährung, prägt ländliche Räume und ist Teil der wirtschaftlichen Stärke; die richtigen Prioritäten für starke Betriebe und wettbewerbsfähige ländliche Räume werden gesetzt.
+  - Die Zusage, dass der Ökolandbau nicht schlechter gestellt wird, wird positiv bewertet.
+  - Es wird betont, dass die Gesellschaft durch gezielte Käufe die gewünschte Landwirtschaft unterstützen muss.
+  - Die Bedeutung von Forschungseinrichtungen wie dem Friedrich-Löffler-Institut für Krisenvorsorge wird hervorgehoben.
+  - Die bisherigen Abrufzahlen des Bundesprogramms zum Umbau der Tierhaltung werden positiv bewertet, gleichzeitig wird die unzureichende Abstimmung zwischen Kennzeichnung und Förderung kritisiert.
+
+- **Fraktionslose (Stefan Seitler):**
+  - Die Kürzungen bei der GAK werden als schwer hinnehmbar kritisiert, insbesondere im Hinblick auf die fehlenden Mittel für Dorfentwicklung und regionale Infrastruktur.
+  - Die Verlagerung von Mitteln in den Klima- und Transformationsfonds wird als nicht ausreichend betrachtet.
+  - Das Thema Regionalität muss in der Heimatpolitik stärker betont werden.
+  - Mehr Investitionen in nachhaltige Transformation der Landwirtschaft, zukunftsfähige Fischerei, regionale Wertschöpfung und Klimaanpassung sind notwendig.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird fortgesetzt mit dem Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat. Als erste Rednerin tritt Silvia Breer, parlamentarische Staatssekretärin, auf.
-- **[00:08:02](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=8m2s)** - **Silvia Breer (Bundesregierung)**: Erklärt, dass der Bundesminister krankheitsbedingt fehlt, aber die Sitzung verfolgt. Sie beschreibt die massive Krise der Landwirtschaft aufgrund von Dürre, Ernteverlusten, Futterknappheit, hohen Kosten und wirtschaftlichem Druck in der Tierhaltung. Der Haushalt sieht 7 Mrd. € vor. Sie betont die Notwendigkeit, handlungsfähig zu bleiben, um die Ernährungssicherung zu gewährleisten. Geplante Maßnahmen umfassen Liquiditätsprogramme, eine Erhöhung der EU-Direktzahlungen, Düngemittelhilfen und die Förderung der Klimaresilienz.
-- **[08:02:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=8m2s)** - **Julian Schmidt (AfD)**: Fragt, wie die Versorgungssicherheit gewährleistet werden soll, wenn Bauern ihre Rechnungen nicht bezahlen können. Kritisiert, dass die Regierung die Interessen der Landwirte nicht durchsetzen kann. Kredite allein helfen nicht; Auszahlung der GAP-Direktzahlungen sollte vorgezogen werden. Fordert die Abschaffung der Energiesteuer auf Diesel und kritisiert geplante Steuererhöhungen. Sieht Kürzungen bei der Unfallversicherung und GAK im Haushalt.
-- **[14:37:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=14m37s)** - **Esther Dilcher (SPD)**: Benennt die Ausgaben von 6,973 Mrd. €. kritisiert leichte Kürzungen und steigende Personalausgaben. Hebt Kürzungen im Verbraucherschutz und bei der GAK hervor. Bemängelt die Auskunftslage bezüglich der GCK-Mittel und fordert Zugang zum Portal. Kritisiert Kürzungen bei Nachhaltigkeitsforschung und Innovation. Beschreibt die bürokratischen Hürden bei der Dieselrückerstattung für Fischer.
-- **[20:35:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=20m35s)** - **Leon Eckert (Bündnis 90/Die Grünen)**: Kritisiert, dass der Minister die Dürre nur beobachtet und im Haushalt weiter spart. Sieht den Haushalt als Kürzung der Zukunft. Kritisiert die "Rasenmähermethode" der Kürzungen und Sparvorgaben durch Untätigkeit. Spricht von einer "Abbruchkante" durch die Verschiebung von Programmen in andere Haushaltsteile. Kritisiert Kürzungen bei Verbraucherschutz und Aufklärung sowie die Heimatagenda.
-- **[25:42:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=25m42s)** - **Inna Latendorf (Die Linke)**: Beschreibt den Agrarhaushalt als Déjàvu mit zu wenig Mitteln. Kritisiert, dass die Regierung bei der Landwirtschaft spart, während sie bei der Rüstung aufstockt. Hohe Lebensmittelpreise belasten Verbraucher, während Erzeugerpreise sinken. Kritisiert die Marktmacht des Handels. Fordert bezahlbare Lebensmittel, starke regionale Wertschöpfung und gute Preise für Landwirte. Kritisieren Kürzungen bei Tierhaltungsumbau und Fischerei.
-- **[30:39:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=30m39s)** - **Albert Stegemann (CDU/CSU)**: Dankt dem Minister für einen stabilen Haushalt. Lobt die Stabilität der landwirtschaftlichen Sozialversicherung und dankt dem System und den Dorfhelfern. Dankt dem Minister für die EU-Zahlungen und die Liquiditätshilfen. Spricht die Notwendigkeit von mehr Gefahrenversicherung an. Betont die Bedeutung der GAP für Wettbewerbsfähigkeit.
-- **[36:12:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=36m12s)** - **Stefan Protchka (AfD)**: Merkt an, dass der Agrarausschuss keine Gesetzesentwürfe der Regierung beraten hat. Sieht darin, dass die Regierung nichts tut, um Schaden anzurichten. Kritisiert, dass die Bauern Entlastungen von den Belastungen der letzten Jahre brauchen. Nennt den Haushalt ein "Kürzungsprogramm". Kritisiert Kürzungen bei der GAK und das Ausspielen von Tierhaltern gegen Forstwirte.
-- **[41:47:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=41m47s)** - **Isabel Martensen Geis (SPD)**: Betont die Dringlichkeit von Klimaanpassung für Landwirtschaft und Wälder. Sieht den Haushalt als politisches Gestaltungs- und Regierungsprogramm. Stimmt der Aussage zu, dass der Koalitionsvertrag die Leitplanke ist und fordert die Stärkung des Ökolandbaus. Unterstützt den Waldumbau und die Bedeutung von Kleinprivatwaldstrukturen.
-- **[46:07:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=46m7s)** - **Dr. Verlinden (Bündnis 90/Die Grünen)**: Schildert die Auswirkungen der Klimakrise und nennt diese eine existenzielle Bedrohung. Kritisiert, dass der Haushalt dies nicht abbildet und Kürzungen bei Klima- und wasserschonender Landwirtschaft vornimmt. Fordert mehr Geld für "klimafeste Böden". Ruft zur Zusammenarbeit mit dem Umweltminister auf und kritisiert die Vernachlässigung ländlicher Räume.
-- **[49:54:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=49m54s)** - **Sascha Wagner (Die Linke)**: Beschreibt den Etat als nominell stabil, aber real weniger Mittel. Kritisiert die Bindung großer Teile des Etats an Sozialversicherungssysteme und fordert eine solidarische Neuordnung. Bemängelt globale Minderausgaben und die Kürzung bei der GAK. Kritisiert die falschen Prioritäten bei der Agraraußenwirtschaft.
-- **[54:01:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=54m1s)** - **Anna Eignens (CDU/CSU)**: Betont die Bedeutung der Landwirtschaft für die Lebensmittelversorgung. Hebt die Bedeutung von Bundesforschungseinrichtungen hervor (US Kühen Institut, Friedrich Löffler Institut, Max Rubner Institut, Johann Heinrich von Thünen Institut, Bundessortenamt) und fordert deren Stärkung. Erwähnt Investitionen in Küstenschutz und Hochwasserschutz.
-- **[58:22:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=58m22s)** - **Peter Felser (AfD)**: Kritisiert die Klimawandel-Rhetorik und die Ursachen von Waldbränden. Bemängelt Kürzungen bei der GAK und das Ausspielen von Tierhaltern gegen Forstwirte. Kritisiert EU-Verordnungen und den Umgang mit dem Wolf.
-- **[01:02:35:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h2m35s)** - **David Manreller (SPD)**: Betont die Bedeutung der Gemeinschaftsausgabe Agrarstruktur und Küstenschutz (GAK) für Dorfentwicklung und regionale Infrastruktur. Erklärt, dass Heimat durch Zusammenarbeit und nicht durch Reden über sie entsteht.
-- **[01:06:25:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h6m25s)** - **Karl Ber (Bündnis 90/Die Grünen)**: Äußert Sorge über die Eskalation der Klimakrise. Kritisiert die Kürzungen im Haushalt, insbesondere bei der Tierhaltungskennzeichnung, dem Ökolandbau und der Fischerei. Beklagt die Kurzfristigkeit der staatlichen Hilfen und die mangelnde Anpassung an zukünftige Krisen.
-- **[01:10:41:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h10m41s)** - **Alexander Engelhart (CDU/CSU)**: Beschreibt die Landwirtschaft als Grundlage des täglichen Lebens und kritisiert die Kürzungen bei Nachhaltigkeit, Forschung und Innovation. Hofft auf Ausgleich durch Mittel aus dem Klimatransformationsfonds. Betont die Notwendigkeit, die richtigen Rahmenbedingungen zu schaffen und Bürokratie abzubauen.
-- **[01:14:03:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h14m3s)** - **Christian Rick (AfD)**: Kritisiert die Rekordschulden des Bundes und die Kürzungen im Landwirtschaftsetat. Bemängelt die Kürzung bei der landwirtschaftlichen Unfallversicherung und deren Auswirkungen auf tierhaltende Betriebe. Spricht die Probleme bei Düngegesetzen und Pflanzenschutzmittelzulassungen an.
-- **[01:17:03:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h17m3s)** - **Jens Bärens (SPD)**: Verteigt das Bundesprogramm zum Umbau der Tierhaltung, lobt die Mittel dafür, kritisiert aber dessen Ende. Plädiert für eine bundesweit einheitliche und dauerhafte Finanzierung des Stallumbaus.
-- **[01:20:17:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h20m17s)** - **Stefan Seitler (fraktionslos)**: Lobt, dass Küsten- und Hochwasserschutz nicht von den Einsparungen betroffen sind. Betont die Notwendigkeit von Investitionen in Klimaanpassung und regionale Wertschöpfung, da europäische Mittel gekürzt werden könnten.
-- **[01:22:28:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h22m28s)** - **Benedikt Büdenbänder (CDU/CSU)**: Hebt die Bedeutung von frischen, gesunden Lebensmitteln aus umweltbewusstem Anbau und artgerechter Tierhaltung hervor. Betont die Notwendigkeit von weniger Bürokratie, schnelleren Verfahren und mehr Vertrauen in die Landwirte.
-- **[01:25:46:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h25m46s)** - **Bernt Schattner (AfD)**: Kritisiert die Rekordschulden und die Kürzungen im Landwirtschaftsetat. Klagt über niedrige Altersgelder für Landwirte. Stellt die hohen Ausgaben für andere Bereiche den Kürzungen für die Landwirtschaft gegenüber. Beschreibt die Krise in der Schweinehaltung und die steigenden Kosten für Diesel, Dünger etc.
-- **[01:29:10:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h29m10s)** - **Dr. Oliver Fogt (CDU/CSU)**: Erörtert das Bundesprogramm zum Umbau der Tierhaltung und die gestiegenen Abrufzahlen. Kritisiert die mangelnde Abstimmung zwischen verschiedenen Systemen (Initiative Tierwohl, Tierhaltungskennzeichnungsgesetz, Bundesprogramm). Betont die Bedeutung von Forschungseinrichtungen wie dem Friedrich-Löffler-Institut für Krisenvorsorge.
-- **[01:37:22:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h37m22s)** - **Sitzungsabschluss**: Keine weiteren Wortmeldungen zu diesem Einzelplan. Die Sitzung wird mit dem nächsten Tagesordnungspunkt fortgesetzt.
+- **[00:00:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird fortgesetzt und kommt zum Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat.
+- **[00:08:02](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=0m8s)** - **Silvia Breer (Bundesregierung)**: Eröffnet die Debatte und erläutert die schwierige Situation der Landwirtschaft mit Dürre, Ernteausfällen und hohen Kosten. Sie stellt den Haushaltsplan für 2027 mit rund 7 Milliarden Euro vor und kündigt Liquiditätsprogramme, höhere EU-Direktzahlungen und Maßnahmen zur Klimaresilienz an, um die Ernährungssicherung zu gewährleisten.
+- **[08:02:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=8m2s)** - **Julian Schmidt (AfD-Fraktion)**: Kritisiert die Bundesregierung dafür, die Interessen der Landwirte nicht durchzusetzen. Er bemängelt, dass Kredite das Problem nur verschieben und fordert eine sofortige Auszahlung der GAP-Direktzahlungen sowie die Umsetzung der steuerfreien Risikoausgleichsrücklage.
+- **[14:37:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=14m37s)** - **Esther Dilcher (SPD-Fraktion)**: Stellt den Haushalt von 6,973 Milliarden Euro vor, betont aber die Kürzungen bei Verbraucherschutz und Forschung. Sie kritisiert die Verlagerung von Stallumbau-Förderung in die GAK und fordert mehr Transparenz im GAK-Portal.
+- **[20:35:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=20m35s)** - **Leon Eckert (Bündnis 90/Die Grünen)**: Kritisiert den Haushalt als Kürzung der Zukunft für Landwirtschaft und Natur. Er bemängelt die "Rasenmehermethode" der Sparvorgaben und die Verschiebung von Programmen in andere Haushaltsteile, was eine "Abbruchkante" schaffe.
+- **[25:42:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=25m42s)** - **Inna Latendorf (Die Linke)**: Beschreibt den Agrarhaushalt als unterfinanziert und kritisiert die Sparpolitik auf dem Acker. Sie hebt die Diskrepanz zwischen hohen Lebensmittelpreisen und niedrigen Erzeugerpreisen hervor und fordert bezahlbare Lebensmittel sowie eine Stärkung regionaler Wertschöpfung.
+- **[30:39:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=30m39s)** - **Albert Stegemann (CDU/CSU-Fraktion)**: Dankt dem Minister für den Haushaltsentwurf und betont die Stabilität des Haushalts, insbesondere die Unterstützung der landwirtschaftlichen Sozialversicherung. Er lobt die Maßnahmen zur Liquiditäts- und Düngehilfe sowie zur Stärkung der Resilienz.
+- **[36:12:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=36m12s)** - **Stefan Protchka (AfD-Fraktion)**: Stellt fest, dass die Regierung im Agrarbereich wenig tut, aber auch keinen Schaden anrichtet. Er kritisiert die fortwährenden Belastungen der Bauern und die Kürzungen im Haushaltsentwurf, insbesondere bei der GAK und der Unfallversicherung.
+- **[41:47:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=41m47s)** - **Isabel Martensen Geis (SPD-Fraktion)**: Betont die Notwendigkeit von Klimaanpassung und Forschung für eine widerstandsfähige Landwirtschaft. Sie hebt die Bedeutung des Ökolandbaus als Innovationsmotor hervor und mahnt zur Einhaltung des Koalitionsvertrags bei der Unterstützung von Bio und beim Waldumbau.
+- **[46:07:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=46m7s)** - **Dr. Verlinden (Bündnis 90/Die Grünen)**: Verweist auf die Folgen der Klimakrise für die Landwirtschaft und kritisiert, dass der Haushaltsentwurf dies nicht widerspiegelt. Sie fordert mehr Geld für klimafeste Böden und eine enge Zusammenarbeit mit dem Umweltministerium für Präventionsmaßnahmen.
+- **[49:54:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=49m54s)** - **Sascha Wagner (Die Linke)**: Beschreibt den Haushaltsentwurf als trügerisch stabil, da real weniger Mittel zur Verfügung stünden. Er kritisiert die Bindung von Mitteln durch Sozialversicherungssysteme und die Kürzungen bei der GAK, was zu einer Schwächung der ländlichen Räume führe.
+- **[54:01:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=54m1s)** - **Anna Eignens (CDU/CSU-Fraktion)**: Unterstreicht die Bedeutung der Landwirtschaft für die Versorgungssicherheit und die ländlichen Räume. Sie lobt die Bundesforschungseinrichtungen und die Investitionen in Küstenschutz und Hochwasserschutz.
+- **[58:22:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=58m22s)** - **Peter Felser (AfD-Fraktion)**: Kritisiert die Reaktion des Bundeskanzlers auf Waldbrände als Medienspektakel und verweist auf menschliche Ursachen und mangelnde Forstkompetenz. Er kritisiert die Kürzung bei der GAK und die Ausspielung von Tierhaltern gegen Forstwirtschaft.
+- **[1:02:35:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h2m35s)** - **David Manreller (SPD-Fraktion)**: Betont die Wichtigkeit von Landwirtschaft und Heimat für das Leben im ländlichen Raum und lobt die GAK als Programm für Dorferneuerung. Er hebt hervor, dass Heimat durch Zusammenarbeit und das Schaffen von Mehrwert für die Gemeinschaft entstehe.
+- **[1:06:25:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h6m25s)** - **Karl Ber (Bündnis 90/Die Grünen)**: Äußert Angst vor der Eskalation der Klimakrise und kritisiert Kürzungen im Haushalt, insbesondere bei der Tierhaltungsumbau-Förderung, Ökolandbau und Fischerei. Er fordert die Umsetzung des Tierhaltungskennzeichnungsgesetzes und ein Düngerecht zum Schutz des Wassers.
+- **[1:10:41:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h10m41s)** - **Alexander Engelhart (CDU/CSU-Fraktion)**: Stellt die Bedeutung der Landwirtschaft für tägliches Leben, Versorgungssicherheit und regionale Vielfalt heraus. Er fordert verlässliche Risikoabsicherung und eine Förderpolitik, die auf neue Realitäten reagiert, sowie Bürokratieabbau.
+- **[1:14:03:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h14m3s)** - **Christian Rick (AfD-Fraktion)**: Kritisiert die Rekordschulden des Bundes und die Kürzungen im Landwirtschaftsetat. Er fordert politische Rahmenbedingungen, unter denen Landwirte wieder arbeiten und Geld verdienen können, und warnt vor einer Abhängigkeit vom Ausland bei der Lebensmittelversorgung.
+- **[1:17:03:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h17m3s)** - **Jens Bärens (SPD-Fraktion)**: Setzt sich für das Bundesprogramm zum Umbau der Tierhaltung ein und dankt dem Minister für die Mittelbereitstellung. Er bedauert jedoch das Auslaufen des Programms und die Verlegung der Förderung in die GAK, da dies zu ungleichen Rahmenbedingungen führe.
+- **[1:20:17:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h20m17s)** - **Stefan Seitler (Fraktionslos)**: Begrüßt, dass Küsten- und Hochwasserschutz nicht gekürzt werden, betont aber den Bedarf an mehr Mitteln für klimafesten Küstenschutz. Er kritisiert die Kürzungen im Landwirtschaftsbereich und fordert mehr Investitionen in nachhaltige Transformation, zukunftsfähige Fischerei und Klimaanpassung.
+- **[1:22:28:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h22m28s)** - **Benedikt Büdenbänder (CDU/CSU-Fraktion)**: Beschreibt die Leistungen der Landwirtschaft für frische, gesunde Lebensmittel und betont die Verantwortung der Landwirte für Betriebe, Familien und ländliche Räume. Er fordert weniger Bürokratie und mehr unternehmerische Freiheit.
+- **[1:25:46:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h25m46s)** - **Bernt Schattner (AfD-Fraktion)**: Kritisiert, dass trotz hoher Staatseinnahmen weniger Geld für die Landwirtschaft zur Verfügung steht. Er bezeichnet die landwirtschaftliche Sozialpolitik als Armutszeugnis und hebt die wirtschaftliche Krise der Schweinehalter und die steigenden Kosten hervor.
+- **[1:29:10:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h29m10s)** - **Dr. Oliver Fogt (CDU/CSU-Fraktion)**: Spricht über das Bundesprogramm zum Umbau der Tierhaltung und die verbesserte Abrufbarkeit, kritisiert aber die mangelnde Abstimmung zwischen Kennzeichnung und Förderung sowie die fehlenden Anpassungen im Bau- und Emissionsrecht. Er betont die Bedeutung der Forschungseinrichtungen und die Notwendigkeit einer gemeinsamen Anstrengung zur Verbesserung der Programme.
+- **[1:37:22:00](https://www.youtube.com/watch?v=F6ivP3-PLdk&t=1h37m22s)** - **Abschluss**: Keine weiteren Wortmeldungen liegen vor; die Debatte wechselt zum nächsten Tagesordnungspunkt.
