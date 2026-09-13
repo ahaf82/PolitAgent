@@ -1,0 +1,131 @@
+{
+  "synthesis": "Die Debatte im Bundestag am 10. September 2026 zum Einzelplan 07 (Justiz und Verbraucherschutz) spiegelte sich auch außerhalb des Plenums in verschiedenen Stellungnahmen der beteiligten Abgeordneten wider. Kritische Töne schlugen vor allem Vertreter der AfD an, die eine Infragestellung der staatlichen Institutionen und der Mittelverwendung kritisierten, während sie gleichzeitig Forderungen nach stärkerer Strafverfolgung und Betonung von Kernaufgaben des Staates äußerten. Die Union betonte die Notwendigkeit eines handlungsfähigen Rechtsstaates und die Bedeutung des Verbraucherschutzes, was auch von der SPD geteilt wurde, die zudem auf die Stärkung der Justiz durch Personal und Digitalisierung setzte. Die Grünen hoben Aspekte wie den digitalen Gewaltschutz und die Modernisierung des Allgemeinen Gleichbehandlungsgesetzes hervor, während Die Linke auf die Notwendigkeit der Erhöhung von Mitteln für Verbraucherzentralen und Schuldnerberatung pochte. Bundesministerin Dr. Stefanie Hubich bekräftigte die Investition in den Rechtsstaat und den Schutz der Verbraucher.",
+  "sources": [
+    {
+      "name": "Dr. Stefanie Hubich",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Bundesministerin der Justiz und für Verbraucherschutz betont sie die Wichtigkeit des Schutzes des Rechtsstaates und der Demokratie. Sie hebt hervor, dass der Einzelplan 07 eine Investition in den Rechtsstaat darstellt und setzt sich für den Schutz von schwächeren Menschen, Verbraucherrechten und eine konsequentere Vorgehensweise gegen Gewalt ein.",
+      "source_title": "Bundeshaushalt 2026: Debatte zum Etat für Justiz und Verbraucherschutz",
+      "url": "https://www.youtube.com/watch?v=g6w05fso3z8",
+      "platform": "Website"
+    },
+    {
+      "name": "Mirko Hanker",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisiert das sinkende Vertrauen in Institutionen und hinterfragt die Mittelverwendung für Organisationen wie den DBHV. Hanker fordert eine Konzentration auf Kernaufgaben des Staates und Sparpotenziale, betont aber auch die Notwendigkeit der Digitalisierung der Justiz und der Stärkung von Verbraucherschutz und Schuldnerberatung.",
+      "source_title": "Bundeshaushalt 2026: Debatte zum Etat für Justiz und Verbraucherschutz",
+      "url": "https://www.youtube.com/watch?v=g6w05fso3z8",
+      "platform": "Website"
+    },
+    {
+      "name": "Stefan Brandner",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er kritisiert die Prioritätensetzung der Bundesjustizministerin und meint, die Themen der Ministerin interessierten niemanden. Brandner fordert eine Entpolitisierung der Justiz und eine Stärkung der Gewaltenteilung sowie die Reduzierung der Ausländerkriminalität.",
+      "source_title": "Bundeshaushalt 2026: Debatte zum Etat für Justiz und Verbraucherschutz",
+      "url": "https://www.youtube.com/watch?v=g6w05fso3z8",
+      "platform": "Website"
+    },
+    {
+      "name": "Thomas Lazinski",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er fordert eine Erhöhung der Ermittlungen gegen 'Links- und Ökoterroristen' und eine Anpassung der Rechtslage im Umgang mit Drohnen und kritischer Infrastruktur. Lazinski betont, dass die Versorgungssicherheit über Transparenz gestellt werden müsse.",
+      "source_title": "Bundeshaushalt 2026: Debatte zum Etat für Justiz und Verbraucherschutz",
+      "url": "https://www.youtube.com/watch?v=g6w05fso3z8",
+      "platform": "Website"
+    },
+    {
+      "name": "Susanne Hill",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie betont die Notwendigkeit eines handlungsfähigen Rechtsstaates und unterstützt den Pakt für den Rechtsstaat. Hill hebt die Bedeutung des Verbraucherschutzes hervor, insbesondere im Hinblick auf Konzertkarten und Elementarschadenversicherungen.",
+      "source_title": "Bundeshaushalt 2026: Debatte zum Etat für Justiz und Verbraucherschutz",
+      "url": "https://www.youtube.com/watch?v=g6w05fso3z8",
+      "platform": "Website"
+    },
+    {
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Mitglied des Ausschusses für Recht und Verbraucherschutz äußert er sich zu den Beratungen des Haushaltsentwurfs für das Bundesministerium der Justiz und für Verbraucherschutz und betont die Wichtigkeit der Themen, die alle Bürger betreffen.",
+      "source_title": "Ausschuss für Recht und Verbraucherschutz - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/843180-843180",
+      "platform": "Website"
+    },
+    {
+      "name": "Uwe Feiler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er hebt hervor, dass der Haushalt 2026 eine Stärkung des Verbraucherschutzes darstellt und auf einem soliden Fundament steht. Feiler betont auch die Wichtigkeit, dass die Justiz unabhängig, effizient und bürgernah arbeiten kann.",
+      "source_title": "Dieser Haushalt ist ein echter Gewinn für den Verbraucherschutz | CDU·CSU-Fraktion",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Eser Dcher",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kamen Wecke",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Julia Schneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sie kritisiert die hohe Anzahl offener Verfahren bei Staatsanwaltschaften und sieht darin ein 'Problem für die Demokratie'. Schneider betont, dass der Rechtsstaat die Infrastruktur der Demokratie ist und begrüßt die Mittel für die Digitalisierung der Justiz.",
+      "source_title": "Justizetat annähernd unverändert - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw37-de-justiz-1194756",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Lena Gumnior",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sie kritisiert die kurzen Verjährungsfristen bei Delikten gegen die sexuelle Selbstbestimmung und fordert eine Verlängerung dieser Fristen. Gumnior bemängelt, dass bisher keine schnellen Reaktionen auf akute Probleme aus dem Justizministerium zu sehen seien.",
+      "source_title": "Medienecho - Dr. Lena Gumnior",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Helge Limburg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Als Sprecher für Rechtspolitik der Grünen-Bundestagsfraktion äußert er sich zu rechtspolitischen Themen und Ausschussarbeit. Er ist Mitglied im Ausschuss für Recht und Verbraucherschutz und bringt seine Expertise in die Debatten ein.",
+      "source_title": "Über mich - Helge Limburg",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Diet Bart",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christine Willnard",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sie kritisiert die Kürzungen im Verbraucherschutz und die geringen Mittel für Verbraucherzentralen und Schuldnerberatung. Willnard betont, dass der Staat Aufgaben absichern müsse, die von Beratungsstellen übernommen werden.",
+      "source_title": "Verbraucherschutz ist kein Nischenthema - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

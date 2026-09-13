@@ -1,0 +1,159 @@
+# Verteidigung
+
+## Sitzungs-Metadaten
+- **Sitzung:** 92. Sitzung
+- **Datum:** 2026-09-09
+- **Tagesordnungspunkt (TOP):** Epl 14
+- **Originaltitel:** 92. Sitzung vom 09.09.2026. TOP Epl 14: Verteidigung
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=sxyrQQTDwO4)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag zum Verteidigungshaushalt 2027, der mit rund 140 Milliarden Euro angesetzt ist, konzentrierte sich auf die Notwendigkeit einer gestärkten Bundeswehr angesichts der aktuellen Bedrohungslage durch Russland. Während die Bundesregierung und die Koalitionsfraktionen die Notwendigkeit hoher Verteidigungsausgaben zur Gewährleistung von Sicherheit und zur Abschreckung betonten, äußerten Oppositionsparteien Bedenken hinsichtlich der Finanzierung durch Schulden, der Effizienz der Beschaffungsprozesse und der Priorisierung von Ausgaben.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesministerium der Verteidigung (Boris Pistorius)**:
+  - Der Verteidigungsetat von rund 140 Milliarden Euro ist ein Sicherheitsversprechen an die Bevölkerung, die Bundeswehr und internationale Partner.
+  - Die Bedrohung durch Russland ist konkret, ernst und akut; eine starke Bundeswehr und NATO sind essenziell für den Schutz der Errungenschaften und der Lebensweise.
+  - Russland rüstet massiv auf und nimmt hohe Eskalationsrisiken in Kauf.
+  - Die Unterstützung der Ukraine bleibt eine Priorität, da diese auch für die eigene Freiheit kämpft und die Bundeswehr von ukrainischer Expertise profitiert.
+  - Die Bundeswehr muss für ein breites Spektrum möglicher Konflikte ausgerüstet sein, mit Fokus auf moderne Kampffähigkeiten, unbemannte Systeme, Vernetzung und KI.
+  - Die Beschaffung und Planung werden reformiert, um Innovationen und neue Anbieter schneller zu integrieren.
+  - Die Attraktivität der Bundeswehr steigt, was sich in höheren Einstellungszahlen widerspiegelt.
+- **AfD**:
+  - Die Bundeswehr muss auskömmlich ausgestattet, aber seriös finanziert werden, anstatt auf eine verantwortungslose Schuldenpolitik zu setzen.
+  - Die Pläne führen zu einer Schuldenfalle und schwächen das Land auf Dauer.
+  - Die Haushaltspolitik der Regierung ist intransparent; parlamentarische Anfragen werden erschwert und die Fregatte F126 ist ein Beispiel für verschwendetes Steuergeld.
+  - Projekte aus anderen Haushalten werden in den Verteidigungshaushalt verschoben und als verteidigungsrelevant deklariert.
+  - Die Bundesregierung hat Verbindungen zu Moskau, die als verräterisch bezeichnet werden.
+  - Kritisiert die hohen Kosten und die schlechte Effizienz der Verwaltung und Beschaffung.
+- **CDU/CSU**:
+  - Die Bedrohungslage, insbesondere durch Russland, spitzt sich zu und erfordert eine Stärkung der Verteidigungsfähigkeit zur Abschreckung.
+  - Worte allein reichen nicht; Abschreckungsfähigkeit erfordert reales militärisches Potenzial.
+  - Die Bundeswehr wächst, wird fortschrittlicher und innovativer, aber es bedarf kontinuierlicher Arbeit.
+  - Die Beschaffung muss effizient und innovativ gestaltet werden; Fehler sind erlaubt, solange daraus gelernt wird.
+  - Forschung und Entwicklung sind essenziell; der Forschungsetat wird erhöht, um Deutschland zu einem Forschungs- und Innovationshub auszubauen.
+  - Die Vernetzung von Systemen und die KI-gestützte autonome Waffensysteme sind zukünftige Schlüssel.
+  - Die Aufrüstung ist eine klare Botschaft an Putin.
+- **Bündnis 90/Die Grünen**:
+  - Die Sicherheitslage ist extrem schwierig; jedoch wirkt die Beschaffungspolitik der Bundesregierung planlos.
+  - Rüstungsprojekte verzögern sich, dem Ministerium fehle das Lagebild, und Daten zur Preisentwicklung würden nicht erhoben.
+  - Die Beschaffungsstrategie "Whatever it takes" folgt keinem klaren Plan, und Vorlagen werden unüberprüft in den Haushaltsausschuss geschickt.
+  - Es besteht ein Mangel an strategischer Weitsicht in Beschaffungsfragen, es wird ein Gremium gefordert, das Geheimtagungen abhält.
+  - Es gibt Unklarheiten bezüglich zukünftiger gemeinsamer Rüstungsprojekte mit Frankreich und Spanien (z.B. Kampfflugzeug).
+  - Die Fregatte F126 ist ein Beispiel für verschwendete Milliarden und ein dysfunktionales Beschaffungssystem.
+  - Die Unterstützung der Ukraine ist wichtig, aber Deutschland sollte auch vor Ort sein, um zu lernen.
+- **Die Linke**:
+  - Der Verteidigungsetat von 140 Milliarden Euro ist skandalös und greift zu kurz, ihn nur mit der Ukraine zu begründen.
+  - Die geplanten Ausgaben von 183 Milliarden Euro bis Ende des Jahrzehnts sind maßlos und gefährden den inneren Frieden.
+  - Die Rüstungsausgaben stehen in keinem Verhältnis zu denen europäischer Partner wie Frankreich.
+  - Die Bundesregierung kürzt drastisch bei Sozialleistungen, Entwicklungshilfe und Bildung, während sie die Rüstung massiv erhöht.
+  - Der Bundesrechnungshof attestiert, dass der Bund über seine Verhältnisse lebt, insbesondere das Verteidigungsministerium.
+  - Die Investition in veraltete Technik wird kritisiert.
+- **SPD**:
+  - Freiheit, Frieden und Sicherheit müssen geschützt werden und erfordern politische Entschlossenheit und finanzielle Mittel.
+  - Der Haushalt trägt der neuen Realität Rechnung und stellt ca. 140 Milliarden Euro bereit.
+  - Mehr Geld bedeutet nicht automatisch mehr Sicherheit; entscheidend ist, was bei der Truppe ankommt.
+  - Der Fokus liegt auf dem Erhalt zusätzlicher militärischer Fähigkeiten und der Sicherheit für Soldaten und Bürger.
+  - Die Beschaffungsprozesse müssen schneller werden, mit mehr Wettbewerb und markverfügbaren Lösungen.
+  - Die Bundeswehr wird für die Bedrohungen von morgen aufgestellt, nicht für die Kriege von gestern.
+  - Personal, Infrastruktur und Logistik sind ebenso wichtig wie Waffensysteme; die Gesellschaft muss resilient sein.
+  - Parlamentskontrolle, Wirtschaftlichkeit und Wettbewerb sind bei den großen Summen essenziell.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Aussprache zum Verteidigungshaushalt (Einzelplan 14) und begrüßt den Bundesminister der Verteidigung.
+- **[00:53](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=53s)** - **Bundesminister der Verteidigung (Boris Pistorius)**: Erklärt, dass der Haushalt ein Sicherheitsversprechen ist und insgesamt rund 140 Milliarden Euro für die Bundeswehr und die Verteidigung vorgesehen sind. Er betont die Notwendigkeit einer starken Bundeswehr und NATO angesichts der konkreten Bedrohung durch Russland und die Wichtigkeit von Sicherheit als Grundlage für alles andere.
+- **[06:01](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=361s)** - **Bundesminister der Verteidigung (Boris Pistorius)**: Verurteilt die AfD und ihre Verbindungen zu Moskau scharf als "verräterisch".
+- **[08:21](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=501s)** - **Bundesminister der Verteidigung (Boris Pistorius)**: Erläutert die Notwendigkeit, die Bundeswehr für ein breites Spektrum möglicher Konflikte auszurüsten, und nennt konkrete Beispiele wie moderne Panzer, Luftverteidigung, unbemannte Systeme, KI und weltraumgestützte Fähigkeiten.
+- **[09:55](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=595s)** - **Bundesminister der Verteidigung (Boris Pistorius)**: Stellt die Reformierung der Planung und Beschaffung vor, um Prozesse zu verschlanken, zu beschleunigen und Innovationen zu fördern.
+- **[11:22](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=682s)** - **Bundesminister der Verteidigung (Boris Pistorius)**: Hebt hervor, dass moderne Ausrüstung allein nicht ausreicht und die Attraktivität der Bundeswehr für neue Soldatinnen und Soldaten gestiegen ist.
+- **[12:12](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=732s)** - **Bundesminister der Verteidigung (Boris Pistorius)**: Beschreibt den Haushaltsentwurf als Ausdruck der ernsten Lage und großer Verantwortung für die Sicherheit und Zukunft des Landes.
+- **[13:07](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=787s)** - **Jan Ralf Nolte (AfD)**: Kritisiert die "verantwortungslose Schuldenpolitik" und die chronische Unterfinanzierung der Bundeswehr. Er hebt die Warnungen des Bundesrechnungshofs vor einer Schuldenfalle hervor und bemängelt die Intransparenz der Haushaltspolitik.
+- **[15:02](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=902s)** - **Jan Ralf Nolte (AfD)**: Spricht weitere Punkte der Intransparenz an, darunter die erschwerte parlamentarische Kontrolle und die Kostenexplosion bei der Fregatte F126, für deren Aufklärung ein Untersuchungsausschuss gefordert wird.
+- **[16:05](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=965s)** - **Jan Ralf Nolte (AfD)**: Kritisiert die Verlagerung von Projekten aus anderen Haushalten in den Verteidigungshaushalt, was vom Bundesrechnungshof nicht akzeptiert werde.
+- **[16:50](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1010s)** - **Kerstin Vieregge (CDU/CSU)**: Betont, dass das Verteidigungsbudget die Bedrohungslage widerspiegelt und warnt vor einer möglichen Aggression Russlands ab 2029. Sie argumentiert, dass Abschreckung nur durch reales Verteidigungspotenzial möglich ist.
+- **[19:02](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1142s)** - **Kerstin Vieregge (CDU/CSU)**: Stellt die Beschaffung als beherrschendes Thema heraus und betont die Wichtigkeit effektiver, innovativer und wirkungsvoller Geldausgabe.
+- **[20:24](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1224s)** - **Kerstin Vieregge (CDU/CSU)**: Hebt die Bedeutung von Forschung und Entwicklung hervor und begründet die Erhöhung des Forschungsetats.
+- **[20:59](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1259s)** - **Kerstin Vieregge (CDU/CSU)**: Erklärt, dass die Vernetzung von Systemen und KI-gestützte autonome Waffensysteme die Zukunft prägen. Deutschland soll zu einem Forschungs- und Innovationshub ausgebaut werden.
+- **[23:09](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1389s)** - **Dr. Sebastian Schäfer (Bündnis 90/Die Grünen)**: Beschreibt die Sicherheitslage als schwierig, kritisiert aber die planlose Beschaffungspolitik der Bundesregierung und die fehlende Übersicht über Ausgaben.
+- **[24:53](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1493s)** - **Dr. Sebastian Schäfer (Bündnis 90/Die Grünen)**: Bemängelt die fehlende strategische Weitsicht in Beschaffungsfragen und fordert ein geheimes Gremium für Rüstungsbeschaffung.
+- **[25:53](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1553s)** - **Dr. Sebastian Schäfer (Bündnis 90/Die Grünen)**: Kritisiert das Scheitern des deutsch-französisch-spanischen Kampfflugzeugprojekts und die unklare Nachfolgeregelung.
+- **[27:41](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1661s)** - **Dr. Sebastian Schäfer (Bündnis 90/Die Grünen)**: Verweist auf die Fregatte F126 als Beispiel für verschwendete Milliarden und mangelnde Verantwortung.
+- **[28:51](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1731s)** - **Dr. Dietmar Bartsch (Die Linke)**: Bezeichnet den Verteidigungsetat von 140 Milliarden Euro als skandalös und kritisiert die geplanten Ausgaben von 183 Milliarden Euro bis 2030 als "Maßlosigkeit", die keine Sicherheit schaffe und den inneren Frieden gefährde.
+- **[30:20](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1820s)** - **Dr. Dietmar Bartsch (Die Linke)**: Vergleicht die deutschen Rüstungsausgaben mit denen Frankreichs und fordert ein Ende des ständigen Wiederholens der Aussage, dass Russland 2029 angreifen werde.
+- **[31:41](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1901s)** - **Dr. Dietmar Bartsch (Die Linke)**: Kritisiert die Kürzungen bei Sozialleistungen (Elterngeld, Kinderzuschlag) und Entwicklungshilfe im Gegensatz zu den Rüstungsausgaben.
+- **[33:13](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=1993s)** - **Dr. Dietmar Bartsch (Die Linke)**: Zitiert den Bundesrechnungshof, der bescheinigt, dass der Bund über seine Verhältnisse lebt, und bemängelt die Investition in veraltete Technik.
+- **[34:33](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2083s)** - **Andreas Schwarz (SPD)**: Zitiert Thomas Jefferson zur Bedeutung von Wachsamkeit für Freiheit und Dankt den Soldatinnen und Soldaten.
+- **[35:33](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2133s)** - **Andreas Schwarz (SPD)**: Beschreibt den Verteidigungshaushalt von 2027 mit rund 140 Milliarden Euro als Reaktion auf die neue Realität und die Notwendigkeit, für die "Friedensdividende" zu bezahlen.
+- **[36:02](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2162s)** - **Andreas Schwarz (SPD)**: Betont, dass nicht die ausgegebene Summe, sondern die daraus resultierenden militärischen Fähigkeiten und die Sicherheit entscheidend sind.
+- **[37:19](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2239s)** - **Andreas Schwarz (SPD)**: Erklärt, dass die Bundeswehr für die Bedrohungen von morgen aufgestellt werde und nicht für den Krieg von gestern.
+- **[37:27](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2247s)** - **Andreas Schwarz (SPD)**: Unterstreicht die Bedeutung von Menschen, Infrastruktur, Logistik und einer resilienten Gesellschaft für eine einsatzbereite Bundeswehr.
+- **[38:01](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2281s)** - **Andreas Schwarz (SPD)**: Hebt die Notwendigkeit klar definierter Meilensteine, belastbarer Verträge, mehr Wettbewerbs und Kostenkontrolle hervor.
+- **[38:27](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2307s)** - **Andreas Schwarz (SPD)**: Gestattet eine Zwischenfrage der AfD zur Anzahl der Kampftruppenbataillone.
+- **[40:50](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2450s)** - **Mirco Hanker (AfD)**: Kritisiert die geplanten Verteidigungsausgaben von 3 % des BIP, die ineffiziente Verwaltung und die Rüstungsinflation.
+- **[41:49](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2509s)** - **Mirco Hanker (AfD)**: Fordert eine Diskussion über die "Durchhaltefähigkeit der Gesellschaft" und vergleicht die deutschen Beschaffungsmitarbeiterzahlen mit denen Polens.
+- **[43:04](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2584s)** - **Mirco Hanker (AfD)**: Zitiert Admiral Kaack zur Notwendigkeit, mit dem zu beschaffen, was verfügbar und funktionsfähig ist, und fügt hinzu: "möglichst aus Deutschland für Deutschland".
+- **[43:32](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2612s)** - **Mirco Hanker (AfD)**: Spricht von "verantwortlicher Aufrüstung zu realistischen Kosten" und kritisiert die Fregatte F126 als gescheitertes Projekt.
+- **[44:07](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2647s)** - **Mirco Hanker (AfD)**: Betont die Pflicht des Parlaments zum sinnvollen und wirtschaftlichen Umgang mit Steuergeldern und fordert eine sorgsame Mittelverwendung.
+- **[45:12](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2712s)** - **Jan-Wilhelm Pohlmann (CDU/CSU)**: Betont die sich verschärfende Bedrohungslage, die deutsche Infrastruktur und den Alltag betreffend, und bekräftigt den Kurs, sich verteidigen zu können, um sich nicht verteidigen zu müssen.
+- **[46:06](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2766s)** - **Jan-Wilhelm Pohlmann (CDU/CSU)**: Stellt den Haushaltsentwurf für den Verteidigungshaushalt 2027 vor, der um 31,4 Milliarden Euro auf 139,6 Milliarden Euro anwächst, mit 60 Milliarden Euro für militärische Beschaffung und einer Erhöhung des Wehrforschungsbudgets.
+- **[46:52](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2812s)** - **Jan-Wilhelm Pohlmann (CDU/CSU)**: Legt den Fokus auf Analyse, Entwicklung und Erprobung vor Massenbeschaffung und begrüßt die Stärkung der Innovationszentren und des Cyber Innovation Hubs.
+- **[48:22](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2902s)** - **Jan-Wilhelm Pohlmann (CDU/CSU)**: Stellt die Investitionen in Satellitenkommunikation dar und schlägt die stärkere Nutzung des Deutschen Zentrums für Luft- und Raumfahrt (DLR) vor.
+- **[49:50](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=2990s)** - **Jan-Wilhelm Pohlmann (CDU/CSU)**: Fordert die Sicherung eigener Launch-Kapazitäten und einen eigenen Titel im Haushalt dafür.
+- **[51:16](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3076s)** - **Robin Wagener (Bündnis 90/Die Grünen)**: Kritisiert die 2,4 Milliarden Euro für die Fregatte F126 als "versenkt" und bezeichnet die späte Entscheidung zur Beendigung des Projekts als überfällig.
+- **[52:41](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3161s)** - **Robin Wagener (Bündnis 90/Die Grünen)**: Äußert Kritik an der Haltung, dass bei Schulden Milliarden nicht mehr ins Gewicht fallen, da dies den Rückhalt der Bevölkerung gefährde.
+- **[53:36](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3216s)** - **Robin Wagener (Bündnis 90/Die Grünen)**: Beschreibt den gefährlichen Arbeitsalltag von Minentauchern und kritisiert die geringe Gefahrenzulage von 550 Euro als peinlich.
+- **[54:43](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3283s)** - **Robin Wagener (Bündnis 90/Die Grünen)**: Appelliert an die Koalition, einen neuen Fördertopf für Veteranenarbeit von 3 Millionen Euro zu schaffen und die Unterstützung von Invictus Germany fortzusetzen.
+- **[55:37](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3337s)** - **Ulrich Thoden (Die Linke)**: Vergleicht die Debatte mit "Groundhog Day" und kritisiert das Mantra des "Whatever it takes". Er betont, dass die äußere Sicherheit Deutschlands zwar durch Russland bedroht sei, die Bundesregierung aber stattdessen auf "angstgetriebene Hyperaufrüstung" setze.
+- **[57:25](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3445s)** - **Ulrich Thoden (Die Linke)**: Fragt, ob Alternativen zur Rüstung ernsthaft geprüft wurden und kritisiert die Ablehnung seines Antrags zur Stärkung der OSZE.
+- **[57:48](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3468s)** - **Ulrich Thoden (Die Linke)**: Bemängelt das Auslaufen des Rüstungskontrollvertrags "New START" und die fehlenden Bemühungen zur Verlängerung oder Neuauflage anderer Verträge.
+- **[58:14](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3494s)** - **Ulrich Thoden (Die Linke)**: Kritisiert den Umgang mit öffentlichen Steuergeldern und die mangelnde Transparenz bei Beschaffungsvorhaben.
+- **[58:42](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3522s)** - **Ulrich Thoden (Die Linke)**: Verweist auf das Fregatten-126-Debakel und die verschwendeten 2,4 Milliarden Euro, die er mit "60 Millionen Murmeltiere im Beschaffungssumpf" vergleicht.
+- **[01:00:12](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3612s)** - **Ulrich Thoden (Die Linke)**: Lehnt die Zerstörung des Sozialstaats und der Demokratie zugunsten der Aufrüstung entschieden ab.
+- **[01:00:20](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3620s)** - **Dr. Florian Dorn (CDU/CSU)**: Betont, dass es beim Verteidigungshaushalt um Sicherheit, Souveränität und die Sicherung von Freiheit und Frieden geht.
+- **[01:01:20](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3680s)** - **Dr. Florian Dorn (CDU/CSU)**: Folgt aus dem russischen Angriffskrieg und den Cyberangriffen, dass die Unterstützung der Ukraine und die Stärkung der eigenen Verteidigungsfähigkeit richtig sind.
+- **[01:02:03](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3723s)** - **Dr. Florian Dorn (CDU/CSU)**: Erklärt, dass glaubwürdige Abschreckung der beste Schutz ist und der Haushalt darauf eine Antwort gibt.
+- **[01:02:22](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3742s)** - **Dr. Florian Dorn (CDU/CSU)**: Nennt die Entwicklung der Verteidigungsausgaben von 50 Milliarden Euro in 2022 auf fast 140 Milliarden Euro für 2027 und das Ziel von 3,5 % des BIP bis 2029.
+- **[01:03:12](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3792s)** - **Dr. Florian Dorn (CDU/CSU)**: Beschreibt die Notwendigkeit, bestehende Lücken zu schließen und gleichzeitig Fähigkeiten und technologische Stärken für die Zukunft aufzubauen.
+- **[01:03:25](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3805s)** - **Dr. Florian Dorn (CDU/CSU)**: Erläutert die Mittel für militärische Neubeschaffungen und für Forschung, Entwicklung und Erprobung, was zu mehr Ausrüstung und Durchhaltevermögen führen soll.
+- **[01:04:16](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3856s)** - **Dr. Florian Dorn (CDU/CSU)**: Betont die Reduzierung technologischer Abhängigkeiten und die Stärkung der industriellen und technologischen Basis in Deutschland und Europa.
+- **[01:05:02](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3902s)** - **Dr. Florian Dorn (CDU/CSU)**: Hebt hervor, dass der Erfolg nicht an Ausgabensummen, sondern an der Wirksamkeit für die Truppe gemessen werden muss.
+- **[01:05:21](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3921s)** - **Dr. Florian Dorn (CDU/CSU)**: Erklärt die Notwendigkeit, Gesetze zur Beschleunigung von Planung und Beschaffung zu verabschieden und das Beschaffungsamt weiter zu reformieren.
+- **[01:06:16](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=3976s)** - **Dr. Florian Dorn (CDU/CSU)**: Unterstreicht die Notwendigkeit der Effizienz bei der Mittelverwendung und die kritische Begleitung von Beschaffungsvorhaben durch das Parlament.
+- **[01:07:05](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4025s)** - **Rüdiger Lucassen (AfD)**: Zitiert Bundeskanzler Merz zur erreichten "besseren Verteidigungsfähigkeit" und bezeichnet dies als neu und im Widerspruch zur Realität fehlender Einsatzbereitschaft.
+- **[01:08:33](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4113s)** - **Rüdiger Lucassen (AfD)**: Stellt fest, dass Hunderte Milliarden Ausgaben nicht gleichbedeutend mit Einsatzbereitschaft sind, sondern politische Spielräume vernichten.
+- **[01:09:00](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4140s)** - **Rüdiger Lucassen (AfD)**: Verweist auf die Aussagen von Generälen zu Mängeln bei Personal, Material, Munition und Digitalisierung und kritisiert Minister Pistorius für fehlende strukturelle Abbildung der geplanten Aufrüstung.
+- **[01:10:01](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4201s)** - **Rüdiger Lucassen (AfD)**: Kritisiert Minister Pistorius' Bedenken bezüglich der Informationsweitergabe an eine AfD-geführte Landesregierung und lenkt den Blick auf den Hackerangriff auf die Berliner Verwaltung.
+- **[01:11:14](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4274s)** - **Rüdiger Lucassen (AfD)**: Betont, dass die Unfähigkeit der Regierung Deutschlands Sicherheit gefährde und fordert Pistorius auf, sich um die Sicherheit zu kümmern und aus Milliarden Fähigkeiten zu machen, oder abzutreten.
+- **[01:11:40](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4300s)** - **Jeanne Dillschneider (Bündnis 90/Die Grünen)**: Verweist auf die anhaltende Solidarität mit der Ukraine, die europäische Freiheit und Sicherheit verteidige.
+- **[01:12:35](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4355s)** - **Jeanne Dillschneider (Bündnis 90/Die Grünen)**: Konfrontiert die Vorstellung einer "heilen deutschen Welt" vor der russischen Invasion und betont die Notwendigkeit von Stärke Europas und der Zusammenarbeit mit Verbündeten.
+- **[01:13:21](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4399s)** - **Jeanne Dillschneider (Bündnis 90/Die Grünen)**: Kritisiert die Funkstille des Bundeskanzlers nach dem Scheitern des FCAS-Projekts und fordert Bemühungen zur Verhinderung paralleler Entwicklungen von Kampfflugzeugen.
+- **[01:14:10](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4450s)** - **Jeanne Dillschneider (Bündnis 90/Die Grünen)**: Spricht die aggressiven Vorgehensweisen Russlands im Weltall und auf verschiedenen Ebenen an und fordert ein klares Signal gegenüber Russland, wie die Bekämpfung der russischen Schattenflotte.
+- **[01:15:09](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4509s)** - **Vivian Tauschwitz (CDU/CSU)**: Stellt die Notwendigkeit des Verteidigungshaushalts von fast 140 Milliarden Euro angesichts der sich ändernden sicherheitspolitischen Lage dar.
+- **[01:16:02](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4562s)** - **Vivian Tauschwitz (CDU/CSU)**: Verschiebt die Frage von "genug investieren" zu "richtig investieren" und betont die Bedeutung der Menschen, die ihren Dienst leisten.
+- **[01:17:17](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4637s)** - **Vivian Tauschwitz (CDU/CSU)**: Hebt hervor, dass die Steigerung der Soldatenzahlen allein nicht ausreicht und die Bindung der Soldatinnen und Soldaten an die Truppe gewährleistet werden muss.
+- **[01:18:09](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4689s)** - **Vivian Tauschwitz (CDU/CSU)**: Betont die Dringlichkeit von Drohnenabwehr und nennt den Vorfall am Flughafen Leipzig/Halle als Beispiel, dass auf Glück nicht immer Verlass ist.
+- **[01:18:55](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4735s)** - **Vivian Tauschwitz (CDU/CSU)**: Erklärt, dass für die Gesamtverteidigung Brücken über Ressortgrenzen hinweg nötig sind und das "Silodenken" überwunden werden muss.
+- **[01:20:10](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4810s)** - **Vivian Tauschwitz (CDU/CSU)**: Bedankt sich bei den Soldatinnen und Soldaten für ihren Dienst und für die Bereitschaft, mehr für sie zu tun.
+- **[01:20:29](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4829s)** - **Dr. Daniel Zerbin (AfD)**: Kritisiert die Ausgabenpolitik des SPD-geführten Verteidigungsministeriums als "Krieg von gestern" und die gesellschaftliche Devotion und Verteidigungsunwilligkeit.
+- **[01:22:01](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4921s)** - **Dr. Daniel Zerbin (AfD)**: Stellt die Frage nach der Eintrittswahrscheinlichkeit für einen Krieg mit Russland im Jahr 2029, die er als gering einschätzt, da dies für Russland "reiner Suizid" wäre.
+- **[01:22:42](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4966s)** - **Dr. Daniel Zerbin (AfD)**: Nutzt das Kanonen/Butter-Modell und argumentiert, dass das Kaufen von Kanonen ohne entsprechende Finanzen das Volk schröpft.
+- **[01:23:04](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=4984s)** - **Dr. Daniel Zerbin (AfD)**: Kündigt an, dass die AfD gegen einen Krieg steht und kritisiert die CDU, die sich von der SPD "am Nasenring durch die Manege führen" lasse.
+- **[01:23:51](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5031s)** - **Andreas Mattfeldt (CDU/CSU)**: Reagiert auf die AfD und betont, dass die heutige Beratung eine historische Dimension habe und es um die Sicherheit und Souveränität Deutschlands gehe.
+- **[01:24:36](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5076s)** - **Andreas Mattfeldt (CDU/CSU)**: Stellt fest, dass der Haushaltsentwurf knapp 110 Milliarden Euro vorsieht und dies eine deutliche Steigerung darstellt.
+- **[01:25:33](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5133s)** - **Andreas Mattfeldt (CDU/CSU)**: Betont, dass nicht nur das Geld, sondern vor allem die daraus entstehenden konkreten Fähigkeiten der Bundeswehr entscheidend sind.
+- **[01:26:13](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5173s)** - **Andreas Mattfeldt (CDU/CSU)**: Fasst die Schlussfolgerungen zusammen: Grundlage für Finanzierung ist geschaffen, Umsetzung erfordert Arbeit, und der Erfolg hängt von der Leistungsfähigkeit des Beschaffungswesens ab.
+- **[01:26:46](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5206s)** - **Andreas Mattfeldt (CDU/CSU)**: Stellt den sicherheitspolitischen Kurswechsel Deutschlands und die Unterstützung der Mehrheit der Bevölkerung für höhere Verteidigungsausgaben dar.
+- **[01:27:37](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5257s)** - **Andreas Mattfeldt (CDU/CSU)**: Betont, dass das Vertrauen der Bürger verpflichtet und mehr Geld auch zu mehr Sicherheit führen muss.
+- **[01:28:03](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5283s)** - **Andreas Mattfeldt (CDU/CSU)**: Nimmt ernst, dass noch nicht ausreichend Material bei der Truppe angekommen ist, hört aber auch von Fortschritten.
+- **[01:28:30](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5310s)** - **Andreas Mattfeldt (CDU/CSU)**: Stellt fest, dass Beschaffungsprozesse immer noch zu lange dauern, und appelliert an die Notwendigkeit struktureller Reformen.
+- **[01:29:51](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5391s)** - **Andreas Mattfeldt (CDU/CSU)**: Fordert mehr Wettbewerb, industrielle Skalierung und die stärkere Einbindung des Mittelstands, um die notwendigen Produktionsvolumina zu erreichen.
+- **[01:31:18](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5478s)** - **Thomas Ladzinski (AfD)**: Kritisiert den Haushaltsentwurf als Abschreckung für vernünftig denkende Deutsche und als nahezu vollständig schuldenfinanziert.
+- **[01:32:31](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5541s)** - **Thomas Ladzinski (AfD)**: Verweist auf düstere mittelfristige Finanzplanung, wo Verteidigungsausgaben und Ukrainehilfen bis 2030 die Hälfte der Steuereinnahmen verschlingen.
+- **[01:33:33](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5613s)** - **Thomas Ladzinski (AfD)**: Betont, dass Soldaten die bestmögliche Ausstattung benötigen, was effektivere Beschaffungsprozesse und die Einhaltung von Haushaltsgrundsätzen erfordert.
+- **[01:33:54](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5634s)** - **Thomas Ladzinski (AfD)**: Fragt nach tatsächlichen Verbesserungen für Soldaten und kritisiert den Kauf von veraltetem Gerät sowie die ungesicherten Milliardenzahlungen an die USA.
+- **[01:34:25](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5665s)** - **Thomas Ladzinski (AfD)**: Spricht das Thema Fregatten an, kritisiert die 2,3 Milliarden Euro Steuergeldverlust und die unzureichende alternative Beschaffung.
+- **[01:35:06](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5706s)** - **Thomas Ladzinski (AfD)**: Weist auf die Geldverschwendung bei der Fregatte F127 und die Kontrollfunktion des Bundesrechnungshofs hin, dessen Dienstposten gekürzt werden.
+- **[01:35:47](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5747s)** - **Thomas Ladzinski (AfD)**: Fragt nach dem übergeordneten Ziel der Bundesregierung, da die Verteidigungsausgaben das NATO-Ziel von 3,5 % des BIP überschreiten.
+- **[01:36:46](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5806s)** - **Thomas Ladzinski (AfD)**: Äußert Skepsis bei Nachbarländern gegenüber deutschen Alleingängen und warnt, dass die Beschaffung weitreichender Waffensysteme Deutschland als Aggressor wahrnehmen lassen könnte.
+- **[01:37:37](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5857s)** - **Thomas Ladzinski (AfD)**: Definiert Deutsche als friedliebendes Volk und kritisiert die Kriegsrhetorik und Finanzierung fremder Kriege als Verstoß gegen das Grundgesetz.
+- **[01:38:09](https://www.youtube.com/watch?v=sxyrQQTDwO4&t=5889s)** - **Präsident**: Erklärt die Aussprache zum Einzelplan 14 für beendet.

@@ -1,23 +1,29 @@
 {
   "documents": [
     {
-      "number": "Drucksache 21/4463",
-      "title": "Schlanker Staat statt Kostenexplosion - Beamtenzahl und Pensionslasten senken",
-      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
-      "type": "Antrag"
+      "number": "Drucksache 21/7300",
+      "title": "Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7300&rows=25",
+      "type": "Gesetzentwurf"
     },
     {
-      "number": "Drucksache 20/12345",
-      "title": "Umbau der Tierhaltung",
-      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
-      "type": "Kleine Anfrage"
+      "number": "Drucksache 21/7650",
+      "title": "Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7650&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/7301",
+      "title": "Finanzplan des Bundes 2026 bis 2030",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7301&rows=25",
+      "type": "Unterrichtung"
     }
   ],
   "voting": {
     "has_namentliche_abstimmung": false,
-    "decision_text": "Die Debatte zum Einzelplan 05 des Auswärtigen Amtes endete mit der Feststellung, dass keine namentliche Abstimmung stattfand. Der Verfahrensstand ist eine fortlaufende Beratung im Haushaltsausschuss.",
+    "decision_text": "Die Debatte über den Einzelplan 05 für das Auswärtige Amt im Rahmen der Haushaltsberatungen für das Jahr 2027 fand in erster Lesung statt. Es wurden verschiedene Standpunkte von Koalition und Opposition bezüglich der Priorisierung von Ausgaben, der Stärkung der Diplomatie und der Unterstützung internationaler Partner ausgetauscht. Die Vorlage wird nun weiter beraten.",
     "official_voting_url": "N/A",
     "overall_result": null,
-    "faction_results": null
+    "faction_results": []
   }
 }

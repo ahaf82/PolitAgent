@@ -1,0 +1,150 @@
+# Justiz und Verbraucherschutz
+
+## Sitzungs-Metadaten
+- **Sitzung:** 93. Sitzung
+- **Datum:** 2026-09-10
+- **Tagesordnungspunkt (TOP):** Epl 07
+- **Originaltitel:** 93. Sitzung vom 10.09.2026. TOP Epl 07: Justiz und Verbraucherschutz
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=g6w05fso3z8)
+
+## Kurzzusammenfassung
+Die Debatte zum Einzelplan 07 des Bundeshaushalts für Justiz und Verbraucherschutz thematisierte die Stärkung des Rechtsstaates, die Modernisierung der Justiz und den Schutz der Verbraucher. Die Bundesministerin der Justiz und für Verbraucherschutz betonte die Investition in den Rechtsstaat als Fundament der Demokratie, während die Fraktionen die Notwendigkeit einer handlungsfähigen Justiz, effektiver Verfahren und des Verbraucherschutzes unterstrichen. Debattiert wurden zudem die Bekämpfung von Kriminalität, der digitale Gewaltschutz und die Ausgaben für verschiedene Institutionen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch die Bundesministerin der Justiz und für Verbraucherschutz, Dr. Stefanie Hubich)**:
+  - Der Einzelplan 07 sei mehr als nur ein Ministeriumshaushalt; er sei eine Investition in den Rechtsstaat, der auf 84 Millionen Menschen vertrauen können.
+  - Der Rechtsstaat müsse gegen Angriffe verteidigt und gestärkt werden, insbesondere durch mehr Personal, Digitalisierung und schnellere Verfahren.
+  - Hervorhebung von Maßnahmen zur Stärkung der Mieterrechte, zur Schaffung von mehr Fairness für Verbraucher (z.B. Wiederrufsbutton, Regulierung des Ticket-Zweitmarktes) und zum besseren Schutz von Frauen vor Gewalt.
+  - Betonung, dass Sicherheit ohne Freiheit nichts sei und der Staat sich an Recht und Gesetz halten müsse.
+
+- **AfD-Fraktion (vertreten durch Mirko Hanker, Fabian Jakobi, Stefan Brandner, Thomas Lazinski)**:
+  - Kritik an sinkendem Vertrauen in Institutionen, linksextremen Anschlägen und "Enteignungsfantasien".
+  - Hervorhebung von Anstiegen bei Vergewaltigungen und sexuellen Straftaten, sowie der Rolle von nicht-deutschen Tatverdächtigen.
+  - Infragestellung der Mittelverwendung für Organisationen wie den DBHV.
+  - Forderung nach Konzentration auf Kernaufgaben des Staates und Sparpotenzialen, insbesondere bei Zuwendungen an Lobbyorganisationen wie Hateaid und der Bundesstiftung Forum Recht.
+  - Kritik an der Digitalisierungspolitik und an Gesetzesvorhaben wie dem Gesetz zum Schutz des Gemeinwesens und dem Gesetz zum Schutz vor digitaler Gewalt, die als Instrumente zur Oppositionsbekämpfung gesehen werden.
+  - Betonung der Notwendigkeit, die Rechtslage im Umgang mit Drohnen und kritischer Infrastruktur anzupassen und die Versorgungssicherheit über Transparenz zu stellen.
+
+- **Unionsfraktion (CDU/CSU, vertreten durch Susanne Hill, Sebastian Steiniker, Axel Müller, Uwe Feiler)**:
+  - Betonung der Notwendigkeit eines handlungsfähigen Rechtsstaates, der durch personelle und materielle Ausstattung, einen klaren Rechtsrahmen und Bürgernähe gekennzeichnet ist.
+  - Unterstützung des Paktes für den Rechtsstaat mit rund 450 Millionen Euro zur Schaffung neuer Stellen und zur Digitalisierung in der Justiz.
+  - Forderung nach modernen und effizienten Verfahrensordnungen und schlankeren Abläufen.
+  - Wichtigkeit des Verbraucherschutzes, insbesondere in Zeiten hoher Lebenshaltungskosten, und die Notwendigkeit funktionierenden Wettbewerbs und der Überprüfung missbräuchlichen Verhaltens durch das Bundeskartellamt.
+  - Unterstützung von Einrichtungen wie der Stiftung Forum Recht und des Anne Frank Zentrums zur Stärkung der demokratischen und rechtsstaatlichen Resilienz.
+  - Hervorhebung der Bedeutung des Verbraucherschutzes und der Verbraucherzentralen.
+
+- **SPD-Fraktion (vertreten durch Eser Dcher, Kamen Wecke)**:
+  - Der Einzelplan 07 sei ein "Schwergewicht" angesichts seiner Bedeutung für Rechtsstaatlichkeit und Rechtssicherheit.
+  - Finanzierung von Bundesgerichten und des Generalbundesanwalts, sowie Investitionen in die Digitalisierung der Justiz.
+  - Betonung, dass ein handlungsfähiger Rechtsstaat nicht zum Nulltarif zu haben sei und die Förderung von Hateaid als gut angelegtes Geld zur Stärkung der Demokratie.
+  - Warnung vor den Plänen der AfD, den Verfassungsschutz umzubauen und die öffentliche Information über Extremismus zu beseitigen.
+  - Stärkung der Justiz durch Geld, Gesetzesänderungen und Solidarität mit angefeindeten Richtern und Staatsanwälten.
+  - Weiterentwicklung des Paktes für den Rechtsstaat zur Schaffung von 2000 Stellen und zur Digitalisierung der Justiz.
+  - Betonung der Notwendigkeit schnellerer Verfahren und der Überarbeitung von Prozessordnungen.
+
+- **Bündnis 90/Die Grünen (vertreten durch Julia Schneider, Dr. Lena Gumnior, Helge Limburg)**:
+  - Kritik an den offenen Verfahren bei Staatsanwaltschaften und dem Eindruck der Langsamkeit des Staates.
+  - Die Notwendigkeit, den Rechtsstaat als Infrastruktur der Demokratie zu stärken und die Digitalisierung der Justiz voranzutreiben.
+  - Der Schutz von Kindern und Jugendlichen im digitalen Raum und die Bedeutung des Verbraucherschutzes als Demokratieschutz.
+  - Aufruf zur Stärkung von Hateaid und zur Förderung feministischer Perspektiven auf das Recht.
+  - Forderung nach einer Ergänzung des Grundgesetzes zur Diskriminierung aufgrund sexueller Identität und zur Modernisierung des Allgemeinen Gleichbehandlungsgesetzes.
+  - Kritik an der Datensammelwut des Staates und Forderung nach Einschränkung von Telefonüberwachung und Vorratsdatenspeicherung.
+
+- **Die Linke (vertreten durch Dr. Diet Bart, Christine Willnard)**:
+  - Kritik am vergleichsweise geringen Etat des Justizministeriums und an Kürzungen im Verbraucherschutz.
+  - Feststellung, dass Straftaten leicht rückläufig seien, was aber nicht der Koalition geschuldet sei.
+  - Forderung nach Ausschöpfung des Strafrahmens, Reduzierung der Verfahrensdauer und einer Erhöhung der Mittel für den Pakt für den Rechtsstaat.
+  - Vorschlag zur Entkriminalisierung des Schwarzfahrens zur Entlastung der Justiz.
+  - Kritik an Kürzungen bei Beratungsstellen und der mangelnden Finanzierung der Schuldnerberatung.
+  - Forderung nach Erhöhung der Mittel für den Verbraucherzentralen-Bundesverband und für Beratungsstellen, sowie nach einer Haushaltsstelle zur Finanzierung von Schuldnerberatungsdiensten.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=g6w05fso3z8&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin erinnert an den bevorstehenden bundesweiten Probewarntag, der die Debatte kurz unterbrechen wird und bittet um das Ausschalten von Handys. Anschließend erteilt sie das Wort an die Bundesministerin der Justiz und für Verbraucherschutz, Frau Dr. Stefanie Hubich.
+
+- **[00:01:10](https://www.youtube.com/watch?v=g6w05fso3z8&t=1m10s)** - **Bundesministerin Dr. Stefanie Hubich (SPD)**: Sie betont, dass der Einzelplan 07 mehr als nur ein Ministeriumshaushalt sei, sondern eine Investition in den Rechtsstaat, der die Grundlage für das tägliche Leben von 84 Millionen Menschen bilde. Sie warnt vor Angriffen auf den Rechtsstaat, wie sie in Polen und Ungarn zu beobachten seien, und unterstreicht die Notwendigkeit, das Fundament der Demokratie zu schützen. Die Bundesregierung investiere in eine leistungsfähige Justiz durch den neuen Pakt für den Rechtsstaat, der zusätzliche Mittel für Personal, Digitalisierung und schnellere Verfahren bereitstelle. Konkrete Maßnahmen umfassen die Stärkung der Mieterrechte, die Einführung eines Wiederrufsbuttons für Verbraucher, die Bekämpfung von Mondpreisen auf dem Ticket-Zweitmarkt sowie verbesserte Schutzmaßnahmen für Frauen vor Gewalt, einschließlich der Ausweitung der elektronischen Fußfessel und der Verlängerung von Verjährungsfristen bei Vergewaltigung. Auch im digitalen Bereich sollen Strafbarkeitslücken geschlossen und Betroffenen von Deepfakes und Beleidigungen Instrumente zur Verfügung gestellt werden.
+
+- **[00:06:00](https://www.youtube.com/watch?v=g6w05fso3z8&t=6m0s)** - **Unterbrechung durch Warnton des Probewarntags**: Die Redezeit der Ministerin wird unterbrochen, da die Alarmtöne des Probewarntags zu hören sind. Nach kurzer Stille wird die Debatte fortgesetzt.
+
+- **[00:06:30](https://www.youtube.com/watch?v=g6w05fso3z8&t=6m30s)** - **Bundesministerin Dr. Stefanie Hubich (SPD)**: Sie setzt ihre Ausführungen fort und betont die Notwendigkeit, im digitalen Bereich stärker zu werden und Strafbarkeitslücken zu schließen, um Betroffenen von Deepfakes, Beleidigungen und Bedrohungen schnellere Löschungen von Inhalten und Sperrungen von Accounts zu ermöglichen. Sie schließt mit der Aussage, dass Sicherheit ohne Freiheit nichts sei und der Staat stets an Recht und Gesetz gebunden bleiben müsse.
+
+- **[00:08:16](https://www.youtube.com/watch?v=g6w05fso3z8&t=8m16s)** - **Mirko Hanker (AfD)**: Er erkennt die Wichtigkeit der Sicherheit an, hebt jedoch den wirtschaftlichen Druck in Deutschland und die "politische Entwicklung" hervor, die das Vertrauen in Institutionen sinken lasse. Er kritisiert linksextreme Anschläge, "Enteignungsfantasien" und "Klassenkampf", sowie die angebliche Einflussnahme von Islamisten. Er bemängelt die geringe Anzahl von Fußfesseln für Gefährder und die Praxis von Bewährungsstrafen. Er nennt Beispiele wie die Freilassung eines Gefährders in Berlin und die Folgen auf dem Berliner CSD, sowie die Grooming-Gang-Problematik in Nürnberg. Er kritisiert, dass das Phänomen der Grooming Gangs nicht erfasst werde und verweist auf steigende Vergewaltigungszahlen und den Anteil nicht-deutscher Tatverdächtiger. Er bemängelt eine geringe Anzeigenquote, die auf Resignation und Misstrauen in die Justiz hindeute. Er hinterfragt die Maßnahmen der Regierung zur Stärkung der Justiz und Abschreckung und kritisiert die Mittel für den deutschen Bewährungshilfe e.V. (DBHV).
+
+- **[01:23:21](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h23m21s)** - **Stefan Brandner (AfD)**: Er kritisiert die Bundesjustizministerin für ihre Prioritätensetzung, die sich auf Themen wie Schutz für queere Menschen, Haftung bei E-Rollern und Schutz vor Social Media beziehe, anstatt sich um die Kernaufgaben des Justizministeriums zu kümmern. Er formuliert beispielhaft "Schlagzeilen", wie sie seiner Meinung nach von einem Justizminister der AfD zu erwarten wären, die sich auf Themen wie die Entpolitisierung der Justiz, Stärkung der Gewaltenteilung und Reduzierung der Ausländerkriminalität konzentrieren. Er meint, dass die Themen der Ministerin niemanden interessierten und die SPD sich von der Realität der Bürger entfernt habe.
+
+- **[01:34:11](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h34m11s)** - **Thomas Lazinski (AfD)**: Er spricht die Aufrufe von Linksextremisten zu Angriffen auf staatliche Infrastruktur an und fordert eine Erhöhung der Ermittlungen gegen "Links- und Ökoterroristen". Er begrüßt zwar den geplanten Stellenaufwuchs beim Generalbundesanwalt, bemängelt jedoch, dass dieser durch Stellenstreichungen an anderer Stelle kompensiert werden müsse. Er weist auf die Rechtslücken beim Umgang mit Drohnen und kritischer Infrastruktur hin und fordert einen bundeseinheitlichen Rechtsrahmen zur Drohnendetektion und -abwehr, bei dem die Versorgungssicherheit über Transparenz gestellt werden müsse.
+
+- **[00:16:38](https://www.youtube.com/watch?v=g6w05fso3z8&t=16m38s)** - **Susanne Hill (CDU/CSU)**: Sie betont, dass die Wirkung des Einzelplans 07 über die Haushaltsmittel hinausgehe und es darum gehe, ob Gerichte erreichbar und Rechtsstreite zügig beendet seien. Sie lobt den Pakt für den Rechtsstaat als Kraftakt und bedankt sich bei der Ministerin. Sie unterstreicht die Notwendigkeit moderner und effizienter Verfahrensordnungen und die konsequente Nutzung von Instrumenten, um Strafverfolgung im digitalen Bereich zu gewährleisten. Sie hebt die Bedeutung des Verbraucherschutzes hervor, insbesondere im Hinblick auf Konzertkarten und die flächendeckende Elementarschadenversicherung.
+
+- **[00:43:53](https://www.youtube.com/watch?v=g6w05fso3z8&t=43m53s)** - **Sebastian Steiniker (CDU/CSU)**: Er betont, dass Verbraucherschutz für viele Menschen kein abstraktes Politikfeld sei, sondern sich im Alltag zeige. Er fordert, dass Märkte besser funktionieren und das Bundeskartellamt missbräuchliches Verhalten schneller überprüfen könne. Er kritisiert "Shrinkflation" (scheinbare Preiserhöhungen durch Verkleinerung der Produktgröße) und fordert mehr Transparenz. Er verweist auf ein Urteil des österreichischen Obersten Gerichtshofs gegen Zusatzgebühren bei Flugtickets und fordert eine stärkere Regulierung des Ticket-Zweitmarktes.
+
+- **[01:07:43](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h7m43s)** - **Gen AOKlu (CDU/CSU)**: Sie betont die zentrale Bedeutung des Haushalts für die Funktionsfähigkeit des Rechtsstaates und die Notwendigkeit, dass dieser durchsetzbar sei. Sie lobt die finanzielle Unterstützung der Stiftung Forum Recht, die den Rechtsstaat greifbar mache, und die Mittel für den Schutz von Frauen vor häuslicher Gewalt sowie für das Institut für Ostrecht. Sie hebt die Bedeutung der Verbraucherzentralen hervor und betont, dass Verbraucherbildung genauso wichtig sei wie spätere Beratung. Sie fordert eine Stärkung des Online-Verbraucherschutzes und die Unterstützung des Europäischen Verbraucherschutzzentrums.
+
+- **[01:17:48](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h17m48s)** - **Axel Müller (CDU/CSU)**: Er hebt hervor, dass Recht bekommen bedeute, dass ein Rechtsstreit von einer unabhängigen und leistungsfähigen Justiz bearbeitet und in angemessener Zeit entschieden werde. Er betont die Bedeutung gut ausgebildeter Richter und Staatsanwälte und begrüßt die Fortsetzung der Zuschüsse an die Deutsche Richterakademie. Er lobt die Mittel für Opferschutzbeauftragte und die Bewährungshilfe, sowie die Unterstützung der Stiftung Forum Recht zur Information über den Rechtsstaat und die Gewaltenteilung. Er bekräftigt die Bedeutung der Digitalisierung und die Anpassung der Verfahrensordnungen.
+
+- **[01:26:50](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h26m50s)** - **Uwe Feiler (CDU/CSU)**: Er betont, dass ein Rechtsstaat nicht nur gute Gesetze brauche, sondern diese auch umsetzen müsse, damit Bürger Vertrauen haben. Er betont die zentrale Rolle der Justizmitarbeiter und die Notwendigkeit, Prioritäten zu setzen und effizienter zu werden. Er begrüßt die Fortsetzung parlamentarischer Initiativen zur Unterstützung der Stiftung Forum Recht, die den Rechtsstaat greifbar mache, sowie die Finanzierung von Projekten zum Schutz von Frauen vor häuslicher Gewalt. Er hebt die Bedeutung des Verbraucherschutzes und der Verbraucherzentralen hervor, sowie die Notwendigkeit, den Online-Verbraucherschutz zu stärken und das Europäische Verbraucherschutzzentrum zu unterstützen.
+
+- **[00:23:07](https://www.youtube.com/watch?v=g6w05fso3z8&t=23m7s)** - **Julia Schneider (Bündnis 90/Die Grünen)**: Sie berichtet von Bedrohungen durch Rechtsextreme und dem Eindruck vieler Bürger, dass der Staat nicht helfe. Sie betont, dass der Rechtsstaat ein Versprechen sei, niemanden schutzlos zu lassen. Sie kritisiert die hohe Anzahl offener Verfahren bei Staatsanwaltschaften und die Ausnutzung dieser Situation durch "Stimmungsmacher". Sie hebt die Bedeutung der Digitalisierung der Justiz hervor und kritisiert die Schattenseiten des digitalen Fortschritts, wie Cybermobbing, und fordert Schutz für Kinder und Jugendliche. Sie dankt dem Bundesverband Verbraucherzentrale und betont, dass Verbraucherschutz Demokratieschutz sei. Sie fordert klare Regeln für Plattformen und die Stärkung der Kinderrechte.
+
+- **[00:49:53](https://www.youtube.com/watch?v=g6w05fso3z8&t=49m53s)** - **Dr. Lena Gumnior (Bündnis 90/Die Grünen)**: Sie kritisiert, dass nach den Ankündigungen zur Hilfe für Betroffene von digitaler Gewalt bisher nichts beschlossen wurde und verweist auf die Organisation Hateaid. Sie bemängelt die unklare Förderung von Hateaid durch das Bundesfamilienministerium und betont die Wichtigkeit der Unterstützung zivilgesellschaftlicher Organisationen. Sie kritisiert die Streichung der Förderung des feministischen Juristentages und sieht darin eine verpasste Gelegenheit für die Ministerin, ihre Ankündigungen zur Verbesserung des Frauenrechts umzusetzen. Sie lobt die Fortführung der Aufklärungskampagne zum Schutz vor häuslicher Gewalt und betont die Notwendigkeit von mehr Geld für Empathie, Menschlichkeit und feministische Perspektiven auf das Recht.
+
+- **[01:14:32](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h14m32s)** - **Helge Limburg (Bündnis 90/Die Grünen)**: Er thematisiert das Wahlergebnis in Sachsen-Anhalt und die Gefahr, dass ein AfD-Politiker Justizminister werden könnte, was eine Missachtung des Rechtsstaates durch die Partei bedeuten würde. Er fordert eine Antwort auf die Frage, wie die Demokratie und der Rechtsstaat gerade in Sachsen-Anhalt geschützt werden können. Er fordert eine Rückkehr zur Datensparsamkeit, eine Eingrenzung des ministeriellen Weisungsrechts und eine Stärkung anwaltlicher Rechte. Er spricht sich für die Ergänzung des Diskriminierungsverbotes im Grundgesetz und die Modernisierung des Allgemeinen Gleichbehandlungsgesetzes aus.
+
+- **[00:28:39](https://www.youtube.com/watch?v=g6w05fso3z8&t=28m39s)** - **Dr. Diet Bart (Die Linke)**: Er kritisiert den geringen Etat des Justizministeriums im Vergleich zu anderen Ressorts und die radikalen Kürzungen, insbesondere im Verbraucherschutz. Er bemängelt, dass der Haushaltsplan den steigenden Straftaten bei Übergriffen auf Bahnmitarbeiter nicht gerecht werde und die Regierung im Ankündigungsmodus verharre. Er fordert die Ausschöpfung des Strafrahmens und die Reduzierung der Verfahrensdauer. Er kritisiert die Höhe der Mittel für den Pakt für den Rechtsstaat als zu gering und das Fehlen von Instrumenten zur umfassenden Evaluierung. Er schlägt die Entkriminalisierung des Schwarzfahrens als Beispiel für eine spürbare Entlastung der Justiz vor und kritisiert die Union für ihr Verhalten in dieser Frage.
+
+- **[00:53:08](https://www.youtube.com/watch?v=g6w05fso3z8&t=53m8s)** - **Christine Willnard (Die Linke)**: Sie bezeichnet den Einzelplan 07 als "erschreckend" aufgrund von Kürzungen zulasten des gesellschaftlichen Zusammenhalts und der Menschlichkeit, während Milliarden für den Kriegshaushalt vorgesehen seien. Sie kritisiert die Kürzungen bei Beratungsstellen, Vereinen und Verbänden, die Aufgaben des Staates übernehmen, sowie die stagnierende Förderung für Verbraucherzentralen und Schuldnerberatung angesichts steigender Kosten. Sie fordert eine Überarbeitung des Haushaltsplans mit Erhöhung der Kostenansätze für Verbraucherzentralen, eine auskömmliche Finanzierung von Beratungsstellen und eine Haushaltsstelle für einen Bundesfonds zur Finanzierung von Schuldnerberatungsdiensten. Sie schlägt vor, diese Finanzierung durch Kürzungen der Militärausgaben und die Wiedereinführung der Vermögenssteuer zu ermöglichen.
+
+- **[00:57:09](https://www.youtube.com/watch?v=g6w05fso3z8&t=57m9s)** - **Kamen Wecke (SPD)**: Er betont die Bedeutung des Haushalts für die Sicherung der Demokratie und eines funktionierenden Rechtsstaates. Er nennt Beispiele von Trump, Meloni und der AfD, die zeigten, wie autoritäre und rechtsextreme Kräfte das Justizsystem angreifen. Er fordert, die Unabhängigkeit der Justiz durch Geld, Gesetzesänderungen und Solidarität mit angefeindeten Richtern besser zu sichern. Er erklärt, dass der Haushalt die Gerichte gut ausstatten und den Pakt für den Rechtsstaat erneuern werde, um 2000 Stellen zu schaffen und die Digitalisierung voranzutreiben. Er betont die Notwendigkeit schnellerer Verfahren und die Anpassung der Prozessordnungen.
+
+- **[01:03:40](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h3m40s)** - **Thomas Fetsch (AfD)**: Er kritisiert die Haushaltslage des Bundes und die hohe Neuverschuldung. Er fordert die Überprüfung aller Ausgabenpositionen auf Sparpotenziale, insbesondere bei Zuwendungen an Organisationen wie Hateaid und die Bundesstiftung Forum Recht. Er betont, dass sich der Staat auf seine Kernaufgaben konzentrieren müsse, wie die Bereitstellung einer funktionsfähigen Justiz, die jedoch unter Personalmangel leide. Er kritisiert die unzureichende Finanzierung von Justizpersonal und die steigende Verfahrensdauer, die das Vertrauen in den Rechtsstaat untergrabe. Er bezeichnet die Mittel für den Pakt für den Rechtsstaat und die Digitalisierung als "Tropfen auf den heißen Stein".
+
+- **[01:13:13](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h13m13s)** - **Gerd Müller (SPD)**: Er betont die Notwendigkeit, Gesetze zu erlassen, die Orientierung geben und ein Gefühl von Gerechtigkeit vermitteln. Er hebt die Bekämpfung der organisierten Kriminalität und des Sozialleistungsmissbrauchs als wichtige Themen hervor und verweist auf den Aktionsplan gegen organisierte Kriminalität. Er fordert eine Verschärfung der Gesetze zur Vermögensabschöpfung und zum Sozialleistungsmissbrauch. Er dankt der Ministerin für ihren Einsatz und betont, dass die Justiz nach Recht und Verfassung handele.
+
+- **[01:33:55](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h33m55s)** - **Thomas Lazinski (AfD)**: Er kritisiert die Aufrufe linksextremer Gruppen zu Angriffen auf staatliche Infrastruktur und fordert eine Erhöhung der Ermittlungen gegen "Links- und Ökoterroristen". Er unterstützt zwar den Stellenaufwuchs beim Generalbundesanwalt, bemängelt jedoch, dass dieser durch Stellenstreichungen an anderer Stelle kompensiert werden müsse. Er fordert eine bundeseinheitliche Rechtslage zur Drohnendetektion und -abwehr, um kritische Infrastrukturen zu schützen. Er betont, dass die Versorgungssicherheit über Transparenz gestellt werden müsse.
+
+## Debattenverlauf
+
+- **[00:00:00](https://www.youtube.com/watch?v=g6w05fso3z8&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung und erinnert an den bevorstehenden bundesweiten Probewarntag, der die Debatte kurz unterbrechen wird. Sie bittet die Anwesenden, ihre Handys auszuschalten. Das Wort wird an die Bundesministerin der Justiz und für Verbraucherschutz, Frau Dr. Stefanie Hubich, erteilt.
+
+- **[00:01:10](https://www.youtube.com/watch?v=g6w05fso3z8&t=1m10s)** - **Bundesministerin Dr. Stefanie Hubich (SPD)**: Sie erklärt, dass der Einzelplan 07 des Bundeshaushaltes eine Investition in den Rechtsstaat sei, der die Grundlage für das tägliche Leben der Bürger bilde. Sie hebt die Notwendigkeit hervor, den Rechtsstaat gegen Angriffe zu verteidigen und zu stärken. Sie nennt konkrete Maßnahmen zur Stärkung der Mieterrechte, zum Verbraucherschutz und zum Schutz von Frauen vor Gewalt. Sie betont die Bedeutung der Digitalisierung und die Notwendigkeit, Sicherheit und Freiheit in Einklang zu bringen.
+
+- **[00:06:00](https://www.youtube.com/watch?v=g6w05fso3z8&t=6m0s)** - **Unterbrechung durch Warnton des Probewarntags**: Der Probewarntag unterbricht die Rede der Ministerin kurzzeitig.
+
+- **[00:06:30](https://www.youtube.com/watch?v=g6w05fso3z8&t=6m30s)** - **Bundesministerin Dr. Stefanie Hubich (SPD)**: Die Ministerin setzt ihre Rede fort und spricht die Notwendigkeit an, den digitalen Gewaltschutz zu stärken und Strafbarkeitslücken zu schließen. Sie betont, dass Gewalt sich auch im Netz nicht abspielen dürfe.
+
+- **[00:08:16](https://www.youtube.com/watch?v=g6w05fso3z8&t=8m16s)** - **Mirko Hanker (AfD)**: Er kritisiert die Regierungspolitik, sinkendes Vertrauen in Institutionen, linksextreme Anschläge und die angebliche Nichtbeachtung von Kriminalität durch Ausländer. Er nennt Beispiele für Straftaten und kritisiert die Justiz für zu milde Urteile und mangelnde Effizienz. Er hinterfragt die Verwendung von Mitteln für bestimmte Organisationen und fordert eine Stärkung der Strafverfolgung.
+
+- **[00:16:38](https://www.youtube.com/watch?v=g6w05fso3z8&t=16m38s)** - **Susanne Hill (CDU/CSU)**: Sie betont die Wichtigkeit eines handlungsfähigen Rechtsstaates, der erreichbar und effizient sei. Sie lobt den Pakt für den Rechtsstaat und die Investitionen in Personal und Digitalisierung. Sie hebt die Notwendigkeit moderner Verfahrensordnungen und die Stärkung des Verbraucherschutzes hervor.
+
+- **[00:23:07](https://www.youtube.com/watch?v=g6w05fso3z8&t=23m7s)** - **Julia Schneider (Bündnis 90/Die Grünen)**: Sie berichtet von Vorfällen mit Rechtsextremen und dem Eindruck, dass der Staat nicht helfe. Sie betont die Funktion des Rechtsstaates als Schutz für alle und kritisiert die hohe Anzahl offener Verfahren. Sie fordert eine Stärkung der Digitalisierung der Justiz und des Verbraucherschutzes als Demokratieschutz.
+
+- **[00:28:39](https://www.youtube.com/watch?v=g6w05fso3z8&t=28m39s)** - **Dr. Diet Bart (Die Linke)**: Er kritisiert den geringen Etat des Justizministeriums und Kürzungen im Verbraucherschutz. Er betont die Notwendigkeit, Straftaten konsequent zu verfolgen und Verfahrensdauern zu reduzieren. Er fordert eine Erhöhung der Mittel für den Pakt für den Rechtsstaat und schlägt die Entkriminalisierung des Schwarzfahrens zur Entlastung der Justiz vor.
+
+- **[00:34:17](https://www.youtube.com/watch?v=g6w05fso3z8&t=34m17s)** - **Eser Dcher (SPD)**: Sie betont die Bedeutung des Einzelplans 07 für Rechtsstaatlichkeit und Rechtssicherheit. Sie nennt die finanzierten Institutionen und die Investitionen in die Digitalisierung der Justiz. Sie hebt die Förderung von Hateaid als Beitrag zur Stärkung der Demokratie hervor und warnt vor den Plänen der AfD, die Justiz politisch zu instrumentalisieren.
+
+- **[00:39:03](https://www.youtube.com/watch?v=g6w05fso3z8&t=39m3s)** - **Fabian Jakobi (AfD)**: Er interpretiert die Trias "Einigkeit, Recht, Freiheit" und kritisiert die aktuelle Politik der Regierung, insbesondere im Hinblick auf die Auflösung von Grenzen und die Zuständigkeit des Innenausschusses. Er äußert Bedenken bezüglich neuer Gesetzesentwürfe, die er als Instrumente zur Oppositionsbekämpfung und zur Einschränkung der Meinungsfreiheit sieht.
+
+- **[00:43:53](https://www.youtube.com/watch?v=g6w05fso3z8&t=43m53s)** - **Sebastian Steiniker (CDU/CSU)**: Er betont die Bedeutung des Verbraucherschutzes im Alltag und fordert eine bessere Funktionsweise der Märkte. Er kritisiert "Shrinkflation" und die Praxis des Ticket-Zweitmarktes und fordert mehr Transparenz und Regulierung.
+
+- **[00:49:53](https://www.youtube.com/watch?v=g6w05fso3z8&t=49m53s)** - **Dr. Lena Gumnior (Bündnis 90/Die Grünen)**: Sie kritisiert die mangelnde Umsetzung von Maßnahmen zum Schutz vor digitaler Gewalt und die unklare Förderung von Organisationen wie Hateaid. Sie fordert eine Stärkung feministischer Perspektiven auf das Recht und lobt die Fortführung der Aufklärungskampagne zum Schutz vor häuslicher Gewalt.
+
+- **[00:53:08](https://www.youtube.com/watch?v=g6w05fso3z8&t=53m8s)** - **Christine Willnard (Die Linke)**: Sie kritisiert die Kürzungen im Einzelplan 07, insbesondere im Verbraucherschutz, und vergleicht dies mit den steigenden Militärausgaben. Sie fordert eine Erhöhung der Mittel für Verbraucherzentralen und Schuldnerberatungsdienste.
+
+- **[00:57:09](https://www.youtube.com/watch?v=g6w05fso3z8&t=57m9s)** - **Kamen Wecke (SPD)**: Er betont die Bedeutung des Haushalts für die Sicherung der Demokratie und des Rechtsstaates. Er nennt Beispiele autoritärer Regime, die das Justizsystem angreifen. Er fordert eine Stärkung der Unabhängigkeit der Justiz durch finanzielle Mittel und Gesetzesänderungen.
+
+- **[01:03:40](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h3m40s)** - **Thomas Fetsch (AfD)**: Er kritisiert die Haushaltslage und fordert Sparpotenziale, insbesondere bei Zuwendungen an Lobbyorganisationen. Er betont die Notwendigkeit einer funktionsfähigen Justiz, die jedoch unter Personalmangel leide.
+
+- **[01:07:43](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h7m43s)** - **Gen AOKlu (CDU/CSU)**: Sie betont die Bedeutung des Haushalts für die Funktionsfähigkeit des Rechtsstaates und die Bedeutung von Verbraucherschutz und der Stiftung Forum Recht.
+
+- **[01:13:13](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h13m13s)** - **Gerd Müller (SPD)**: Er betont die Notwendigkeit von Gesetzen, die Orientierung und Gerechtigkeit vermitteln. Er hebt die Bekämpfung der organisierten Kriminalität und des Sozialleistungsmissbrauchs hervor.
+
+- **[01:14:32](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h14m32s)** - **Helge Limburg (Bündnis 90/Die Grünen)**: Er thematisiert das Wahlergebnis in Sachsen-Anhalt und die Gefahr einer AfD-Regierung. Er fordert eine Stärkung des Schutzes vor Diskriminierung und eine Ergänzung des Grundgesetzes.
+
+- **[01:17:48](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h17m48s)** - **Axel Müller (CDU/CSU)**: Er hebt hervor, dass Recht bekommen die Bearbeitung durch eine unabhängige und leistungsfähige Justiz erfordere. Er lobt die Unterstützung der Richterakademie und die Mittel für Opferschutz und Bewährungshilfe.
+
+- **[01:23:21](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h23m21s)** - **Stefan Brandner (AfD)**: Er kritisiert die Prioritätensetzung der Justizministerin und fordert eine Konzentration auf Kernaufgaben und eine Stärkung der Unabhängigkeit der Gerichte.
+
+- **[01:26:50](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h26m50s)** - **Uwe Feiler (CDU/CSU)**: Er betont die Bedeutung des Rechtsstaates, der im Alltag funktioniere. Er hebt die zentrale Rolle der Justizmitarbeiter und die Notwendigkeit der Unterstützung der Stiftung Forum Recht hervor.
+
+- **[01:33:55](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h33m55s)** - **Thomas Lazinski (AfD)**: Er kritisiert linksextreme Aufrufe zu Angriffen auf Infrastruktur und fordert eine Stärkung der Ermittlungen und eine Anpassung der Rechtslage zum Schutz kritischer Infrastrukturen.
+
+- **[01:38:13](https://www.youtube.com/watch?v=g6w05fso3z8&t=1h38m13s)** - **Ende der Debatte zu TOP Epl 07**: Die letzte Wortmeldung zu diesem Tagesordnungspunkt ist beendet. Die Sitzung wird mit dem nächsten Tagesordnungspunkt fortgesetzt.

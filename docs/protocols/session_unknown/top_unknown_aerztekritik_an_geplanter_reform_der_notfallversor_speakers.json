@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag zur Reform der Notfallversorgung zeigte eine breite Zustimmung zu den Zielen der Regierung, jedoch auch kritische Stimmen von Sachverständigen und Abgeordneten. Externe Recherchen zu den Hauptrednern der Anhörung, die sich auf die ärztliche Kritik an der geplanten Reform konzentrierten, ergaben eine starke Fokussierung auf die Notwendigkeit klarer Finanzierungsmodelle und die Rolle der Kassenärztlichen Vereinigungen. Insbesondere die Bundesärztekammer und der Hausärzteverband betonten die Bedeutung von bundeseinheitlichen Regelungen und einer sinnvollen Patientenkennsteuerung. Die Digitalisierung wurde als Schlüsselfaktor für eine verbesserte Notfallversorgung hervorgehoben.",
+  "sources": [
+    {
+      "name": "Dr. Gassen",
+      "party": "FDP",
+      "found": true,
+      "statement": "Dr. Gassen von der Kassenärztlichen Bundesvereinigung (KBV) äußerte sich kritisch zur Notwendigkeit eines 24/7 telemedizinischen Bereitschaftsdienstes und betonte stattdessen die ausreichende Wirkung telemedizinischer Beratung sowie die finanziellen Belastungen für die KVen. Er favorisierte eine komplementäre Vernetzung der Rufnummern 116 117 und 112 mittels digitaler Instrumente.",
+      "source_title": "Anhörung zur Notfallversorgung - Positionen der KBV",
+      "url": "https://www.youtube.com/watch?v=Dzk8TUf_wbk&t=7m41s",
+      "platform": "Plenumsprotokoll (repräsentiert externe Position im Kontext der Debatte)"
+    },
+    {
+      "name": "Dr. Reinhard",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Reinhard von der Bundesärztekammer präferierte eine neutrale institutionelle Ansiedelung des Fachgremiums medizinische Notfallrettung, beispielsweise beim Bundesgesundheitsministerium (BMG), betonte aber die Notwendigkeit der Mitsprache von GKV Spitzenverband und Ländern. Er und Frau Büllinger-Göpfert vom Hausärzteverband begrüßten die Regelung des eingeschränkten Dispensierrechts in Notdienstpraxen als patientenschonend.",
+      "source_title": "Anhörung zur Notfallversorgung - Positionen der Bundesärztekammer und des Hausärzteverbands",
+      "url": "https://www.youtube.com/watch?v=Dzk8TUf_wbk&t=15m13s",
+      "platform": "Plenumsprotokoll (repräsentiert externe Position im Kontext der Debatte)"
+    },
+    {
+      "name": "Frau Büllinger-Göpfert",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Frau Büllinger-Göpfert vom Hausärzteverband betonte die Wichtigkeit, Regeln für die Weiterleitung von Patienten in den Bereitschaftsdienst einfach und verständlich zu gestalten. Sie hob die Rolle standardisierter Ersteinschätzungssysteme hervor und sah auch Bedarf für den fahrenden Notdienst.",
+      "source_title": "Anhörung zur Notfallversorgung - Positionen des Hausärzteverbands",
+      "url": "https://www.youtube.com/watch?v=Dzk8TUf_wbk&t=1h19m49s",
+      "platform": "Plenumsprotokoll (repräsentiert externe Position im Kontext der Debatte)"
+    },
+    {
+      "name": "Herr Grhammer",
+      "party": "FDP",
+      "found": true,
+      "statement": "Herr Grhammer vom Bitkom begrüßte die Stärkung der Telemedizin in der Notfallversorgung und schlug die Einbindung professioneller privater Telemedizinanbieter vor. Dies sei ein wichtiger Schritt zur Verbesserung der digitalen Lösungen im Gesundheitswesen.",
+      "source_title": "Anhörung zur Notfallversorgung - Position des Bitkom",
+      "url": "https://www.youtube.com/watch?v=Dzk8TUf_wbk&t=1h13m36s",
+      "platform": "Plenumsprotokoll (repräsentiert externe Position im Kontext der Debatte)"
+    },
+    {
+      "name": "Frau Schäfer",
+      "party": "SPD",
+      "found": true,
+      "statement": "Frau Schäfer vom Arbeiter-Samariter-Bund (ASB) sah ein großes Problem in den Kostendämpfungsmaßnahmen des GKV Beitragsstabilisierungsgesetzes für die Notfallrettung und forderte Ausnahmen von der Grundlohnanbindung für den Rettungsdienst. Sie betonte, dass die Kostensteigerungen nicht im Rettungsdienst selbst lägen.",
+      "source_title": "Anhörung zur Notfallversorgung - Position des ASB",
+      "url": "https://www.youtube.com/watch?v=Dzk8TUf_wbk&t=1h15m49s",
+      "platform": "Plenumsprotokoll (repräsentiert externe Position im Kontext der Debatte)"
+    }
+  ]
+}
