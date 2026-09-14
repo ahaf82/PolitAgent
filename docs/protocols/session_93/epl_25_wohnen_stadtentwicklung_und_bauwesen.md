@@ -1,0 +1,101 @@
+# Wohnen, Stadtentwicklung und Bauwesen
+
+## Sitzungs-Metadaten
+- **Sitzung:** 93. Sitzung
+- **Datum:** 2026-09-10
+- **Tagesordnungspunkt (TOP):** Epl 25
+- **Originaltitel:** 93. Sitzung vom 10.09.2026. TOP Epl 25: Wohnen, Stadtentwicklung und Bauwesen
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=3RpwS5iEHBg)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag befasste sich mit dem Haushalt des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen. Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen präsentierte die Schwerpunkte des Haushalts, darunter Rekordinvestitionen in den sozialen Wohnungsbau, die Bauförderung und die Städtebauförderung. Fraktionen der Opposition kritisierten die Regierungspolitik und die geplanten Haushaltskürzungen, insbesondere beim Wohngeld, und forderten grundlegende Kurswechsel. Vertreter der Koalition verteidigten den Haushaltsentwurf und betonten die Bedeutung von Förderungen, Vereinfachungen und Mieterschutzmaßnahmen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (Verena Hubertz)**:
+  - Erhöhung der Mittel für sozialen Wohnungsbau auf 5 Milliarden Euro, eine Verfünffachung seit 2021.
+  - 2 Milliarden Euro für Bauförderung, die zur Schaffung von über 126.000 Wohneinheiten in 15 Monaten beigetragen hat.
+  - Aufstockung der Städtebauförderung auf 1,2 Milliarden Euro.
+  - Das Sondervermögen wird als zentraler Wachstumsmotor und Erfolg der Bundesregierung hervorgehoben.
+  - Bedauern über Kürzungen im Haushalt, die zu Anpassungen beim Wohngeld führten, aber Notwendigkeit betont, staatliche Handlungsfähigkeit zu sichern.
+  - Ziel ist die Schaffung von schnell vielen neuen und bezahlbaren Wohnungen durch Neubau und Umbau.
+- **AfD-Fraktion (Marc Bernhard, Carolin Bachmann, Bastian Treuheit, Thomas Ladzinski)**:
+  - Kritik an den Haushaltsmitteln für sozialen Wohnungsbau als "sozialistisches Geldverschwendungsprojekt".
+  - Behauptung, dass Bauen und Wohnen durch die Politik der Regierung unbezahlbarer geworden seien.
+  - Mangel an fast 2 Millionen Wohnungen und 800.000 genehmigten, aber nicht gebauten Wohnungen.
+  - Kritisiert "Placebos" wie "Bauturbo" und "BauGB-Novelle".
+  - Fordert Senkung von Baukosten und Energiepreisen anstatt weiterer Steuern und Abgaben.
+  - Das Bauministerium wird als überflüssig und als Kostenfaktor bezeichnet; Schließung wird gefordert.
+  - Kritik an der Masseneinwanderung als Verschärfung der Wohnungsnot.
+  - Fordert einen grundlegenden Kurswechsel: Bauen einfacher, schneller und günstiger machen.
+  - Kritisiert die geplanten Kürzungen beim Wohngeld als "teuer gespart" und fordert Senkung von Lebenshaltungs- und Baukosten.
+  - Kritisieren die Komplexität der KfW-Förderprogramme und die Fokussierung auf wenige "Leuchttürme".
+- **CDU/CSU-Fraktion (Axel Knoerig, Michael Kießling, Wilhelm Gebhard, Lutz Brinkmann, Jan Metzler)**:
+  - Anerkennung, dass die Bundesregierung auf Worte Taten folgen lässt und Milliarden in den Wohnungsbau investiert.
+  - Hervorhebung der Mittel für Städtebauförderung (1,2 Mrd. Euro), Bauförderung (2 Mrd. Euro aus Sondervermögen) und sozialen Wohnungsbau (5 Mrd. Euro).
+  - Betonung der erreichten Fortschritte durch die EH55-Förderung und die Stützung des Wohnungsbaus.
+  - Forderung nach schnelleren Genehmigungen und digitalisierter Bauplanung durch die BauGB-Novelle.
+  - Unterstützung des Konzepts "Gebäudetyp E" für kostengünstigeren und klimafreundlichen Wohnungsbau.
+  - Vorschlag zur Weiterverfolgung einer staatlichen "Baugesellschaft" oder "Baufinanzierungsagentur".
+  - Reform der KfW-Förderung nach dem Baukastenprinzip.
+  - Betonung von Eigentum als zentralem Baustein im Förderbaukasten, insbesondere für junge Familien.
+  - Appell zur Weiterführung der Förderung des barrierefreien Umbaus.
+  - Anerkennung der Wichtigkeit des Bauministeriums und der Bemühungen von Ministerin Hubertz.
+  - Hervorhebung des stabilen Etats des Bauministeriums (7,5 Mrd. Euro) und der Priorisierung des sozialen Wohnungsbaus.
+  - Betonung der Notwendigkeit, dass Bauen, Vermieten und Wohnen sich rechnen müssen.
+  - Wunsch nach Vereinfachung der Förderprogramme ("Jung kauft Alt") und Entlastung bei Erwerbsnebenkosten wie der Grunderwerbsteuer.
+  - Appell zur Förderung von Wohneigentum als Teil der Altersvorsorge und zur Stärkung der Bindung an den Heimatort.
+- **Bündnis 90/Die Grünen (Lisa Paus, Mayra Vriesema, Hanna Steinmüller)**:
+  - Kritik an der AfD für das Zerstören von Vertrauen und Lügen.
+  - Betonung der Notwendigkeit, ehrlich über die Realität zu reden, auch in der Wohnungspolitik.
+  - Feststellung, dass Versprechen von "bezahlbarem Wohnen" und "schneller bauen" nicht mit der Realität übereinstimmen, insbesondere in Berlin.
+  - Kritik an den geplanten Kürzungen beim Wohngeld als Verschärfung der Situation für Mieter und Verlust von 1,5 Milliarden Euro für Kinder, Familien und Rentner.
+  - Kritik an den Kürzungen bei Programmen für Klimaanpassung und klimafreundliches Bauen.
+  - Forderung nach Zusammenbringen von Rede, Handeln und Wirklichkeit.
+  - Bemängelung der fehlenden Antworten der Regierung auf die Wohnungs- und Klimakrise, insbesondere bei den Kürzungen des Wohngeldes.
+  - Hinweis auf die Bedeutung des Wohngeldes zur Abwendung von Armut und Wohnungslosigkeit.
+  - Forderung nach Rücknahme der Wohngeldkürzungen und Widerstand im Bundesrat.
+  - Kritik an der Vernachlässigung des Klimaschutzes und der fehlenden Maßnahmen gegen Hitze in Wohnungen.
+  - Forderung nach einer Prämie für altersgerechten Umbau und Wohnraumteilung.
+  - Forderung nach Unterstützung für kleine Kiezläden und das Gewerbemietrecht.
+  - Kritik an der Regierung, die nur den Status quo verwalte, anstatt neue Ideen zu entwickeln.
+- **Die Linke (Sascha Wagner, Sahra Mirow)**:
+  - Feststellung, dass bezahlbares Wohnen für Millionen Menschen keine Selbstverständlichkeit mehr ist.
+  - Betonung des Fehlens von rund 1,4 Millionen Wohnungen und des Abgangs von jährlich 55.000 Wohnungen aus der Sozialbindung.
+  - Kritik am Haushaltsentwurf, der weit von einem grundlegenden Kurswechsel entfernt sei.
+  - Kritik an der "neuen Wohngemeinnützigkeit", die nur ein "politisches Feigenblatt" sei und es an echten Investitionsmitteln mangele.
+  - Kritik an der unzureichenden Finanzierung des Nationalen Aktionsplans gegen Wohnungslosigkeit.
+  - Feststellung sinkender Mittel für Stadtentwicklung und Städtebauförderung.
+  - Forderung nach Abschaffung von Eigenanteilen für finanzschwache Kommunen.
+  - Forderung nach deutlich mehr Mitteln für sozialen und gemeinnützigen Wohnungsbau.
+  - Betonung, dass Wohnen ein Menschenrecht ist.
+  - Kritik an der Kürzung des Wohngeldes, die Alleinerziehende, Familien und Rentner treffe.
+  - Kritik am "Dienstwagenprivileg" und der Bevorzugung von Vermögenden.
+  - Aufruf zur Besteuerung von Multimillionären und Konzernen anstatt zu Kürzungen im Sozialstaat.
+  - Vorschläge: Mietendeckel, Investitionszuschüsse für gemeinwohlorientierte Wohngemeinnützigkeit, Stärkung des altersgerechten Umbaus.
+- **SPD-Fraktion (Hendrik Bollmann, Dr. Philipp Rottwilm)**:
+  - Betonung der Notwendigkeit realistischen Erwartungsmanagements und der Annäherung von Sprache und Erwartungen an die Realität.
+  - Bestätigung, dass der "Bauturbo" wirkt und die Zahl der Baugenehmigungen gestiegen ist.
+  - Anerkennung, dass Baugenehmigungen noch keine Wohnungen und neue Wohnungen noch keine bezahlbaren Wohnungen schaffen.
+  - Drei Leitlinien der Baupolitik: Fördern, Vereinfachen und Schützen.
+  - Stärkung des sozialen Wohnungsbaus und Verdopplung der Mittel für "Junges Wohnen".
+  - Beibehaltung der Städtebauförderung auf hohem Niveau für lebenswerte Quartiere.
+  - Forderung nach schnelleren Verfahren (Bauturbo), einfachen Förderverfahren und geringen Baukosten (Gebäudetyp E).
+  - Schutz von Mietern durch starkes Mietrecht und wirksames kommunales Vorkaufsrecht.
+  - Große Sorge wegen der geplanten Kürzung beim Wohngeld und Einsatz für stabile Förderung.
+  - Ziel ist, dass der Bund stärker in der Pflicht ist, Gesetzgebung auf Finanzierbarkeit zu prüfen (Veranlassungskonnexität).
+  - Forderung nach einer Überarbeitung der Förderprogrammkulisse zur Vereinfachung und Attraktivität.
+  - Betonung der Wichtigkeit von bezahlbarem Wohnraum und der Stärkung des genossenschaftlichen Wohnens.
+  - Einführung eines Forschungskapitels und Verankerung des Bundesbauforschungszentrums im Haushalt.
+  - Der Haushaltsentwurf sei eine gute Grundlage für die parlamentarische Debatte.
+  - Aufruf, die PS auf die Straße zu bringen und Hindernisse abzubauen.
+  - Vorschlag zur Nachbesserung bei der Wohngeldkürzung und Erhaltung der KfW-Förderung für altersgerechten Umbau.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=0s)** - **Sitzungsbeginn / Einleitung**: Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen, Verena Hubertz (SPD), erteilt die Einführungsrede zur Haushaltsdebatte.
+- **[00:00:23](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=23s)** - **Verena Hubertz (Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen)**: Berichtet über anderthalb Jahre Baupolitik der Regierung, steigende Baugenehmigungszahlen und die Bedeutung des Sondervermögens. Sie hebt die Schwerpunkte des Haushalts hervor: 5 Milliarden Euro für sozialen Wohnungsbau, 2 Milliarden Euro für Bauförderung und 1,2 Milliarden Euro für Städtebauförderung. Sie erwähnt auch die notwendigen Konsolidierungsmaßnahmen und Kürzungen beim Wohngeld.
+- **[00:59:28](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=59m28s)** - **Marc Bernhard (AfD)**: Kritisiert die Regierungspolitik als "sozialistisches Geldverschwendungsprojekt" und behauptet, dass Bauen und Wohnen unbezahlbarer geworden seien. Er hebt das Fehlen von fast 2 Millionen Wohnungen hervor und kritisiert die Baugenehmigungen ohne entsprechende Wohnungsfertigstellungen. Er fordert eine Senkung von Baukosten und Energiepreisen.
+- **[01:16:16](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=1h16m16s)** - **Sergej Minich (AfD)**: Stellt die "soziale Mischung" als Ziel der Bundesregierung in Frage und kritisiert diese als "ideologischen Wunschtraum" ohne empirisches Fundament. Er argumentiert, dass Masseneinwanderung die Wohnungsnot verschärfe. Er kritisiert auch die Wohngeldreform und die KfW-Förderprogramme als kompliziert und unwirksam.
+- **[01:18:22](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=1h18m22s)** - **Lutz Brinkmann (CDU/CSU)**: Schildert das Problem junger Familien, die aufgrund von Eigenkapital, Finanzierungskosten und Baukosten ihren Traum vom Eigenheim nicht verwirklichen können. Er hebt die Bedeutung der Förderung von Wohneigentum hervor und schlägt steuerliche Entlastungen bei Darlehenszinsen vor.
+- **[01:23:45](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=1h23m45s)** - **Thomas Ladzinski (AfD)**: Kritisiert die Bundesregierung für die Leugnung von Problemen im Stadtbild und die Stigmatisierung von Bürgern, die diese ansprechen. Er fordert mehr finanzielle Mittel für Kommunen, um Sauberkeit und Sicherheit zu gewährleisten, und die Abschiebung illegaler Migranten. Er kritisiert die Wohngeldkürzungen und die damit verbundenen sozialen und städtebaulichen Folgen.
+- **[01:30:37](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=1h30m37s)** - **Jan Metzler (CDU/CSU)**: Fasst die Bedeutung des Haushalts für die Alltagsrealität der Bürger zusammen und betont die Priorität des bezahlbaren Wohnraums. Er hebt die Mittel für Städtebauförderung und sozialen Wohnungsbau hervor und betont die Notwendigkeit, Hindernisse abzubauen und Informationen über Förderprogramme bereitzustellen.
+- **[01:37:55](https://www.youtube.com/watch?v=3RpwS5iEHBg&t=1h37m55s)** - **Schluss der Debatte**: Der Präsident schließt die Aussprache, nachdem keine weiteren Wortmeldungen vorliegen.

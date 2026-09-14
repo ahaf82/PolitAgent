@@ -1,5 +1,31 @@
 [
   {
+    "id": "-otonWdwP9E",
+    "title": "Experten fordern Videoüberwachung in allen Schlachthöfen",
+    "session": 0,
+    "date": "2026-09-14",
+    "top": "N/A",
+    "topic": "Experten fordern Videoüberwachung in allen Schlachthöfen",
+    "summary_path": "protocols/session_unknown/top_unknown_experten_fordern_videoueberwachung_in_allen_schlac.md",
+    "documents_path": "protocols/session_unknown/top_unknown_experten_fordern_videoueberwachung_in_allen_schlac_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=-otonWdwP9E",
+    "processed_at": "2026-09-14T08:07:18.344750"
+  },
+  {
+    "id": "sf-lAP4XN2Y",
+    "title": "94. Sitzung des Bundestages – LIVE",
+    "session": 94,
+    "date": "2026-09-11",
+    "top": "N/A",
+    "topic": "94. Sitzung des Bundestages – Haushaltsberatungen 2027",
+    "summary_path": "protocols/session_94/top_unknown_94_sitzung_des_bundestages_live.md",
+    "documents_path": "protocols/session_94/top_unknown_94_sitzung_des_bundestages_live_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=sf-lAP4XN2Y",
+    "processed_at": "2026-09-14T08:06:52.692019"
+  },
+  {
     "id": "Dzk8TUf_wbk",
     "title": "Ärztekritik an geplanter Reform der Notfallversorgung",
     "session": 0,
@@ -11,6 +37,58 @@
     "speakers_path": "protocols/session_unknown/top_unknown_aerztekritik_an_geplanter_reform_der_notfallversor_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=Dzk8TUf_wbk",
     "processed_at": "2026-09-13T08:06:07.225628"
+  },
+  {
+    "id": "3RpwS5iEHBg",
+    "title": "93. Sitzung vom 10.09.2026. TOP Epl 25: Wohnen, Stadtentwicklung und Bauwesen",
+    "session": 93,
+    "date": "2026-09-10",
+    "top": "Epl 25",
+    "topic": "Wohnen, Stadtentwicklung und Bauwesen",
+    "summary_path": "protocols/session_93/epl_25_wohnen_stadtentwicklung_und_bauwesen.md",
+    "documents_path": "protocols/session_93/epl_25_wohnen_stadtentwicklung_und_bauwesen_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=3RpwS5iEHBg",
+    "processed_at": "2026-09-14T08:02:39.514883"
+  },
+  {
+    "id": "2skUS-nknW0",
+    "title": "93. Sitzung vom 10.09.2026. TOP Epl 17: Bildung, Familie, Senioren, Frauen und Jugend",
+    "session": 93,
+    "date": "2026-09-10",
+    "top": "Epl 17",
+    "topic": "Bildung, Familie, Senioren, Frauen und Jugend",
+    "summary_path": "protocols/session_93/epl_17_bildung_familie_senioren_frauen_und_jugend.md",
+    "documents_path": "protocols/session_93/epl_17_bildung_familie_senioren_frauen_und_jugend_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=2skUS-nknW0",
+    "processed_at": "2026-09-14T08:02:13.176934"
+  },
+  {
+    "id": "GRcZL3w42lY",
+    "title": "93. Sitzung vom 10.09.2026. TOP Epl 15: Gesundheit",
+    "session": 93,
+    "date": "2026-09-10",
+    "top": "Epl 15",
+    "topic": "Gesundheit",
+    "summary_path": "protocols/session_93/epl_15_gesundheit.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_93/epl_15_gesundheit_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=GRcZL3w42lY",
+    "processed_at": "2026-09-14T08:04:31.844188"
+  },
+  {
+    "id": "F6ivP3-PLdk",
+    "title": "93. Sitzung vom 10.09.2026. TOP Epl 10: Landwirtschaft, Ernährung und Heimat",
+    "session": 93,
+    "date": "2026-09-10",
+    "top": "Epl 10",
+    "topic": "Landwirtschaft, Ernährung und Heimat",
+    "summary_path": "protocols/session_93/epl_10_landwirtschaft_ernaehrung_und_heimat.md",
+    "documents_path": "protocols/session_93/epl_10_landwirtschaft_ernaehrung_und_heimat_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=F6ivP3-PLdk",
+    "processed_at": "2026-09-14T08:01:34.910516"
   },
   {
     "id": "g6w05fso3z8",

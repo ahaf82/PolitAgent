@@ -1,0 +1,158 @@
+# Bildung, Familie, Senioren, Frauen und Jugend
+
+## Sitzungs-Metadaten
+- **Sitzung:** 93. Sitzung
+- **Datum:** 2026-09-10
+- **Tagesordnungspunkt (TOP):** Epl 17
+- **Originaltitel:** 93. Sitzung vom 10.09.2026. TOP Epl 17: Bildung, Familie, Senioren, Frauen und Jugend
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=2skUS-nknW0)
+
+## Kurzzusammenfassung
+Die Debatte im Bundestag befasste sich mit dem Einzelplan 17 des Bundeshaushalts, der den Geschäftsbereich des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend betrifft. Im Zentrum standen die Ergebnisse der PISA-Studie und die daraus resultierenden bildungs- und familienpolitischen Maßnahmen. Diskutiert wurden finanzielle Kürzungen und Investitionen, die Auswirkungen auf Familienleistungen wie das Elterngeld und den Unterhaltsvorschuss sowie die Förderung der frühkindlichen Bildung und der Demokratiebildung. Die Fraktionen äußerten sich kontrovers zu den Sparzwängen, den Prioritäten der Regierung und der Wirksamkeit der vorgeschlagenen Maßnahmen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch Bundesministerin Karin Prien)**:
+  - Hervorhebung des Kompetenzrückgangs laut PISA-Studie und der Notwendigkeit mutiger und entschlossener Maßnahmen.
+  - Betonung der Investitionen in Bildung, insbesondere in frühkindliche Bildung, Digitalkompetenzen, MINT und Erhebung von Bildungsdaten.
+  - Ankündigung des Startchancen- und Qualitätsentwicklungsgesetzes für Kitas mit einer Unterstützung von über 9 Milliarden Euro über acht Jahre.
+  - Anerkennung des Konsolidierungsdrucks im Haushalt, der schwierige Abwägungen bei Familienleistungen erfordere, aber Betonung der Notwendigkeit solider Finanzen.
+  - Feststellung, dass Deutschland im oberen Drittel der OECD-Staaten bei staatlichen Ausgaben für Kinder und Jugendliche liegt.
+  - Erhalt der zentralen Rolle des Elterngeldes (rund 7 Milliarden Euro eingeplant) und Bemühungen um eine Reform hin zu Zielgerichtetheit und einfacheren Verfahren.
+  - Fortführung von Programmen für zivilgesellschaftliche Initiativen (rund 2 Milliarden Euro), mit Schwerpunkt auf Demokratiebildung und Schutz vor Extremismus ("Demokratie leben!" mit 170 Millionen Euro).
+  - Sicherung der Mittel für Bundesfreiwilligendienst und Jugendfreiwilligendienste (rund 364 Millionen Euro) und Vorbereitung eines Gesetzes für den Bundesgesellschaftsdienst.
+- **Die Linke (vertreten durch Nicole Gohlke, Tamara Mazzi, Mandy Eißing)**:
+  - Massive Kritik an den Kürzungen bei Familienleistungen und deren Auswirkungen auf Kinder und Alleinerziehende.
+  - Ablehnung der Argumentation der Regierung, dass Geld fehle, und Verweis auf Ausgaben für Unternehmensteuersenkungen und Rüstung.
+  - Darstellung der Kürzungen als sozialpolitische Bankrotterklärung und Mitverantwortung für den Aufstieg rechtsextremer Kräfte.
+  - Hervorhebung der Bedeutung von Programmen wie "Lesestart 1-2-3" und "Demokratie leben!" und Kritik an deren Umbau und Kürzung.
+  - Fokus auf die besonders betroffenen Frauen, Alleinerziehenden und Geringverdienenden.
+- **AfD (vertreten durch Jürgen Koegel, Sebastian Maack, Gereon Bollmann, Birgit Bessin)**:
+  - Kritik an der demografischen Entwicklung und der Regierungspolitik, die als familien- und kinderfeindlich bezeichnet wird.
+  - Forderung nach einer Stärkung der traditionellen Familie und mehr als zwei Kindern.
+  - Kritik an der Migration als Ursache für Sparzwänge und Belastung des Sozialsystems.
+  - Vorschlag eines dänischen Modells für das Kindergeld mit Anwartschafts- und Erwerbsprinzip für Zuwanderer aus Drittstaaten.
+  - Kritik an der Finanzierung von "Demokratie leben!" und Forderung nach Streichung des Programms.
+  - Behauptung, der Haushalt sei verfassungswidrig und die Regierung verliere die Verantwortung für das eigene Volk.
+  - Darstellung der AfD als einzige Alternative für eine Familien- und zukunftsorientierte Politik.
+  - Kritik an der Verwendung von Steuergeldern für linke NGOs und "Propaganda".
+- **SPD (vertreten durch Svenja Stadler, Saskia Esken, Truels Reichardt, Felix Döring)**:
+  - Anerkennung des engen Haushalts und der Notwendigkeit von Konsolidierung und Priorisierung.
+  - Betonung des starken Fokus der Ministerin auf frühkindliche Bildung und die damit verbundenen Investitionen.
+  - Begrüßung der Weichenstellungen für mehr Bildungsgerechtigkeit und Qualität in der Kindertagesbetreuung durch das Startchancen- und Qualitätsentwicklungsgesetz.
+  - Hervorhebung der Bedeutung von Prävention und Förderung der mentalen Gesundheit von Kindern und Jugendlichen.
+  - Ankündigung, dass die SPD den Entwurf genau prüfen und an manchen Stellen nachschärfen werde.
+  - Einbringung der Idee einer "Familienstartzeit" und Kritik an der Kürzung des Elterngeldes als gleichstellungspolitischen Rückschritt.
+- **Bündnis 90/Die Grünen (vertreten durch Jamila Schäfer, Denise Loop, Misbah Khan)**:
+  - Kritik an den Kürzungen bei Familien und der Demokratieförderung als doppelt falsche Antwort auf Wahlergebnisse.
+  - Darstellung der Kürzungen bei Elterngeld, Unterhaltsvorschuss und Kindersofortzuschlag als problematisch und belastend für Familien.
+  - Kritik am Umbau von "Demokratie leben!", der erfahrene Organisationen benachteilige.
+  - Betonung der Wichtigkeit von frühkindlicher Bildung und Sprachentwicklung, Kritik an der Halbierung der Mittel für Kita-Qualität und Streichung von "Lesestart 1-2-3".
+  - Ablehnung der Schuldzuweisung an Eltern und Kinder für Systemversagen.
+  - Forderung nach einer nationalen Bildungsoffensive, mehr Investitionen in den Ganztag und gezielte Förderung.
+  - Kritik an der Streichung von Förderungen für queere Organisationen.
+- **CDU/CSU (vertreten durch Oliver Pöpsel, Melanie Bernstein, Ralph Edelhäußer)**:
+  - Anerkennung des Sparzwangs und der Notwendigkeit von Prioritätensetzung.
+  - Hervorhebung der schmerzhaften Anpassungen, insbesondere beim Elterngeld, aber Ziel, dieses als wirksame und attraktive Leistung zu erhalten.
+  - Forderung nach stärkerem Druck auf Väter zur Leistung des Unterhaltsvorschusses.
+  - Betonung der gleich hohen Mittel für Kinder- und Jugendpolitik und des Aufwuchses bei der Bundesstiftung Frühe Hilfen.
+  - Unterstreichung der Bedeutung der frühkindlichen Bildung und des Startchancen-Gesetzes für Chancengerechtigkeit.
+  - Fortführung des Kinder- und Jugendplans mit Fokus auf digitale Bildung, Jugendschutz und mentale Gesundheit.
+  - Betonung der schwierigen, aber notwendigen Entscheidungen im Haushalt und der Priorität auf notwendige und prioritäre Ausgaben.
+  - Dank an die Ministerin für die Fortführung parlamentarischer Beschlüsse trotz Konsolidierung.
+  - Hervorhebung der wichtigen Bereiche Kinder- und Jugendplan, Bundesfreiwilligendienst und überbetriebliche Berufsbildungsstätten.
+  - Realistische Einschätzung der Haushaltslage und der Unmöglichkeit, alle Kürzungen sofort rückgängig zu machen.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=2skUS-nknW0&t=0s)** - **Sitzungsbeginn / Einleitung**: Beginn der Debatte über den Einzelplan 17 (Bildung, Familie, Senioren, Frauen und Jugend).
+- **[00:00:27](https://www.youtube.com/watch?v=2skUS-nknW0&t=0m27s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Eröffnet die Debatte mit Fokus auf die Ergebnisse der PISA-Studie und der Notwendigkeit von Bildungsinvestitionen und Reformen. Betont die Unterstützung für Eltern und Lehrkräfte sowie die Bedeutung von frühkindlicher Bildung und dem Startchancen- und Qualitätsentwicklungsgesetz.
+- **[01:45](https://www.youtube.com/watch?v=2skUS-nknW0&t=1m45s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Stellt die finanziellen Eckpunkte vor, darunter eine Erhöhung des Titels zur Stärkung der Leistungsfähigkeit des Bildungswesens um knapp ein Drittel auf 187 Millionen Euro. Hebt Investitionen in Digitalkompetenzen, MINT und Bildungsdaten hervor. Erklärt die Bedeutung des Startchancen- und Qualitätsentwicklungsgesetzes für Kitas mit über 9 Milliarden Euro Unterstützung.
+- **[03:08](https://www.youtube.com/watch?v=2skUS-nknW0&t=3m8s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Spricht die Notwendigkeit an, früher anzusetzen und Eltern als erste Bildungsbegleiter zu stärken. Verweist auf die Expertenkommission und die bevorstehenden Vorschläge zur Umsetzung.
+- **[04:37](https://www.youtube.com/watch?v=2skUS-nknW0&t=4m37s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Erklärt, dass der Titel zur Stärkung der Leistungsfähigkeit des Bildungswesens um knapp ein Drittel auf 187 Millionen Euro erhöht wird.
+- **[05:00](https://www.youtube.com/watch?v=2skUS-nknW0&t=5m0s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Kündigt das Startchancen- und Qualitätsentwicklungsgesetz für Kitas an und stellt den Ländern über 9 Milliarden Euro zur Verfügung.
+- **[05:46](https://www.youtube.com/watch?v=2skUS-nknW0&t=5m46s)** - **Zwischenfrage (Die Linke)**: Eine Abgeordnete der Linken bittet um eine Zwischenfrage, die von der Ministerin zunächst zurückgestellt wird.
+- **[07:08](https://www.youtube.com/watch?v=2skUS-nknW0&t=7m8s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Erläutert den Haushaltsentwurf ihres Hauses, der einen hohen Konsolidierungsdruck aufweise und schwierigste Abwägungen im Familienbereich bedeute. Betont die Notwendigkeit solider Haushaltspolitik.
+- **[08:04](https://www.youtube.com/watch?v=2skUS-nknW0&t=8m4s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Äußert Bedauern über geplante Kürzungen bei Familienleistungen, betont aber die fortwährende Verlässlichkeit staatlicher Unterstützung. Verweist auf die hohen staatlichen Gesamtausgaben für Kinder und Jugendliche im OECD-Vergleich.
+- **[08:37](https://www.youtube.com/watch?v=2skUS-nknW0&t=8m37s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Bestätigt den Fortbestand des Elterngeldes als zentrale familienpolitische Leistung (rund 7 Milliarden Euro).
+- **[09:28](https://www.youtube.com/watch?v=2skUS-nknW0&t=9m28s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Erklärt die Notwendigkeit der Elterngeldreform hin zu mehr Zielgerichtetheit und einfacheren Verfahren.
+- **[10:02](https://www.youtube.com/watch?v=2skUS-nknW0&t=10m2s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Informiert über die Mittel für zivilgesellschaftliche Initiativen (rund 2 Milliarden Euro) und die Erhöhung der Mittel für die Stiftung Mutter und Kind.
+- **[10:41](https://www.youtube.com/watch?v=2skUS-nknW0&t=10m41s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Hebt einen Schwerpunkt auf Demokratiebildung und den Schutz vor Extremismus hervor, mit 170 Millionen Euro für "Demokratie leben!". Erklärt die Neuausrichtung des Programms.
+- **[11:48](https://www.youtube.com/watch?v=2skUS-nknW0&t=11m48s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Spricht die Notwendigkeit an, die Gesellschaft resilienter zu machen und die Mittel für Freiwilligendienste (rund 364 Millionen Euro) dauerhaft festzuschreiben. Kündigt die Vorbereitung eines Gesetzes für den Bundesgesellschaftsdienst an.
+- **[13:19](https://www.youtube.com/watch?v=2skUS-nknW0&t=13m19s)** - **Abgeordnete Nicole Gohlke (Die Linke)**: Hält eine Kurzintervention und kritisiert die Rede der Ministerin als unglaubwürdig angesichts der Haushaltskürzungen, insbesondere bei Familienleistungen.
+- **[14:56](https://www.youtube.com/watch?v=2skUS-nknW0&t=14m56s)** - **Bundesministerin Karin Prien (Bundesregierung)**: Antwortet auf die Kritik, verteidigt die Konsolidierungspolitik und betont, dass Sozialleistungen auf ihre Wirksamkeit geprüft werden müssen. Verweist auf gesteigerte Mittel im Bildungsbereich.
+- **[15:58](https://www.youtube.com/watch?v=2skUS-nknW0&t=15m58s)** - **Abgeordneter Jürgen Koegel (AfD)**: Spricht für die AfD-Fraktion, entschuldigt sich für einen Fauxpas und kritisiert die demografische Entwicklung sowie die bisherige Familienpolitik. Schlägt eine Änderung der Familienpolitik vor und kritisiert die ungesteuerte Migration.
+- **[18:31](https://www.youtube.com/watch?v=2skUS-nknW0&t=18m31s)** - **Abgeordneter Jürgen Koegel (AfD)**: Stellt die Frage nach Hoffnung auf Besserung durch den vorliegenden Haushalt und kritisiert die geringen Einsparungen im Apparat im Vergleich zu Leistungskürzungen.
+- **[19:32](https://www.youtube.com/watch?v=2skUS-nknW0&t=19m32s)** - **Abgeordneter Jürgen Koegel (AfD)**: Präsentiert einen Gegenvorschlag beim Kindergeld nach dänischem Vorbild und einen Sparvorschlag bei zweifelhaften Fördermaßnahmen für "Demokratie leben!".
+- **[22:31](https://www.youtube.com/watch?v=2skUS-nknW0&t=22m31s)** - **Abgeordnete Svenja Stadler (SPD)**: Spricht für die SPD-Fraktion und betont die angespannte Haushaltslage, die Priorisierung und die Überprüfung von Programmen. Lobt den Fokus auf frühkindliche Bildung und die Investitionen in Kitas.
+- **[24:08](https://www.youtube.com/watch?v=2skUS-nknW0&t=24m8s)** - **Abgeordnete Svenja Stadler (SPD)**: Erklärt, dass der Kinder- und Jugendplan auf Vorjahresniveau fortgeschrieben wird und begrüßt die Investitionen aus dem Sondervermögen in Kitas und Hochschulen sowie den Digitalpakt 2.0.
+- **[25:08](https://www.youtube.com/watch?v=2skUS-nknW0&t=25m8s)** - **Abgeordnete Svenja Stadler (SPD)**: Betont die dringende Notwendigkeit der Schwerpunktsetzung auf die frühe Bildungsphase angesichts der PISA-Ergebnisse.
+- **[26:52](https://www.youtube.com/watch?v=2skUS-nknW0&t=26m52s)** - **Abgeordnete Jamila Schäfer (Bündnis 90/Die Grünen)**: Spricht für Bündnis 90/Die Grünen und kritisiert die Kürzungen bei Familien und der Demokratieförderung als falsche Antwort auf Wahlergebnisse.
+- **[28:31](https://www.youtube.com/watch?v=2skUS-nknW0&t=28m31s)** - **Abgeordnete Jamila Schäfer (Bündnis 90/Die Grünen)**: Kritisiert die Kürzungen von Geldern im Kapitel Leistungsfähigkeit des Bildungswesens und bei Elterngeld, Unterhaltsvorschuss und Kindersofortzuschlag.
+- **[30:03](https://www.youtube.com/watch?v=2skUS-nknW0&t=30m3s)** - **Abgeordnete Jamila Schäfer (Bündnis 90/Die Grünen)**: Entgegnet, dass soziale Sicherheit vor Rechtspopulismus schütze und Programme der Extremismusprävention gestärkt werden müssten, anstatt "Demokratie leben!" umzubauen.
+- **[31:00](https://www.youtube.com/watch?v=2skUS-nknW0&t=31m0s)** - **Abgeordnete Jamila Schäfer (Bündnis 90/Die Grünen)**: Hinterfragt die Begründung von Kürzungen durch Ausgaben für Sicherheit und verweist auf Unternehmensteuersenkungen und Erbschaftsteuerprivilegien.
+- **[33:43](https://www.youtube.com/watch?v=2skUS-nknW0&t=33m43s)** - **Abgeordnete Tamara Mazzi (Die Linke)**: Spricht für Die Linke und kritisiert die PISA-Ergebnisse als Folge von Sparen an Schulen und überlasteten Lehrkräften.
+- **[34:10](https://www.youtube.com/watch?v=2skUS-nknW0&t=34m10s)** - **Abgeordnete Tamara Mazzi (Die Linke)**: Kritisiert die Streichung des Bundesprogramms "Lesestart 1-2-3" und die Aussage der Ministerin zu den Prioritäten der Eltern als Unverschämtheit.
+- **[34:38](https://www.youtube.com/watch?v=2skUS-nknW0&t=34m38s)** - **Abgeordnete Tamara Mazzi (Die Linke)**: Nennt die Streichung des Kindersofortzuschlags und des Unterhaltsvorschusses für Alleinerziehende sowie die Kürzung des Elterngeldes als gravierende Einschnitte.
+- **[36:03](https://www.youtube.com/watch?v=2skUS-nknW0&t=36m3s)** - **Abgeordnete Tamara Mazzi (Die Linke)**: Stellt fest, dass die Regierung sozialpolitisch versage und kritisiert die Kürzung von Mitteln für Demokratieförderung.
+- **[38:34](https://www.youtube.com/watch?v=2skUS-nknW0&t=38m34s)** - **Abgeordneter Oliver Pöpsel (CDU/CSU)**: Spricht für die CDU/CSU-Fraktion und betont die Notwendigkeit des Sparens und der Prioritätensetzung. Bedauert schmerzhafte Anpassungen bei gesetzlichen Leistungen wie dem Elterngeld.
+- **[40:26](https://www.youtube.com/watch?v=2skUS-nknW0&t=40m26s)** - **Abgeordneter Oliver Pöpsel (CDU/CSU)**: Hebt hervor, dass trotz Sparauflagen wichtige Zuschüsse und Leistungen für Kinder- und Jugendpolitik in hohem Maße gehalten werden konnten.
+- **[41:00](https://www.youtube.com/watch?v=2skUS-nknW0&t=41m0s)** - **Abgeordneter Oliver Pöpsel (CDU/CSU)**: Begrüßt den Aufwuchs der Bundesstiftung Frühe Hilfen und betont den Fokus auf Förderung von Kindern von Anfang an.
+- **[42:05](https://www.youtube.com/watch?v=2skUS-nknW0&t=42m5s)** - **Abgeordneter Oliver Pöpsel (CDU/CSU)**: Verweist erneut auf die PISA-Studie und die Bedeutung von Investitionen in frühkindliche Bildung für Chancengerechtigkeit und Volkswirtschaft.
+- **[43:13](https://www.youtube.com/watch?v=2skUS-nknW0&t=43m13s)** - **Abgeordneter Oliver Pöpsel (CDU/CSU)**: Erklärt die Ziele des Haushalts im Hinblick auf Startchancen und Bildungsqualität, wie die verbindliche Feststellung sprachlicher Fähigkeiten und Entwicklungsstand.
+- **[44:10](https://www.youtube.com/watch?v=2skUS-nknW0&t=44m10s)** - **Abgeordneter Sebastian Maack (AfD)**: Spricht für die AfD und kritisiert den Haushalt als Ausgabenrekord mit Kürzungen bei sozial Schwachen.
+- **[45:11](https://www.youtube.com/watch?v=2skUS-nknW0&t=45m11s)** - **Abgeordneter Sebastian Maack (AfD)**: Kritisiert die Finanzierung von "Demokratie leben!" und verweist auf die Wahlniederlage der CDU in Sachsen-Anhalt, die er auf den Einfluss von NGOs zurückführt.
+- **[46:41](https://www.youtube.com/watch?v=2skUS-nknW0&t=46m41s)** - **Abgeordneter Sebastian Maack (AfD)**: Beschuldigt die CDU, die Infrastruktur finanziert zu haben, die zu diesem Ergebnis geführt hat.
+- **[47:54](https://www.youtube.com/watch?v=2skUS-nknW0&t=47m54s)** - **Abgeordneter Sebastian Maack (AfD)**: Ruft dazu auf, strategisch zu denken und die eigene Partei nicht zu zerstören, und kritisiert die Finanzierung des "linken NGO-Sumpfes".
+- **[48:48](https://www.youtube.com/watch?v=2skUS-nknW0&t=48m48s)** - **Abgeordnete Saskia Esken (SPD)**: Spricht für die SPD und betont die positive Wirkung des Zusammenlebens unterschiedlicher Kinder in Kitas und Schulen.
+- **[49:32](https://www.youtube.com/watch?v=2skUS-nknW0&t=49m32s)** - **Abgeordnete Saskia Esken (SPD)**: Kritisiert die Pläne der AfD für Schulen als verfassungswidrig und das Gegenteil von Miteinander.
+- **[50:50](https://www.youtube.com/watch?v=2skUS-nknW0&t=50m50s)** - **Abgeordnete Saskia Esken (SPD)**: Stellt fest, dass die PISA-Ergebnisse erneut schlechter geworden sind und die Abhängigkeit des Bildungserfolgs von der sozialen Herkunft besonders hoch ist.
+- **[51:29](https://www.youtube.com/watch?v=2skUS-nknW0&t=51m29s)** - **Abgeordnete Saskia Esken (SPD)**: Betont die Aufgabe, für bessere Einkommen und ein bezahlbares Leben zu sorgen, anstatt Wohngeld oder Unterhaltsvorschuss zu kürzen.
+- **[52:01](https://www.youtube.com/watch?v=2skUS-nknW0&t=52m1s)** - **Abgeordnete Saskia Esken (SPD)**: Verweist auf das Startchancen-Programm als richtigen Weg zur Verbesserung der sozialen Nachteile und betont die Investition von 1 Milliarde Euro jährlich.
+- **[53:20](https://www.youtube.com/watch?v=2skUS-nknW0&t=53m20s)** - **Abgeordnete Saskia Esken (SPD)**: Schlägt vor, die Finanzierung der Bildungsoffensive durch höhere Erbschaften zu ermöglichen, um die Bildung leistungsstark und gebührenfrei zu gestalten.
+- **[54:11](https://www.youtube.com/watch?v=2skUS-nknW0&t=54m11s)** - **Abgeordnete Misbah Khan (Bündnis 90/Die Grünen)**: Spricht für Bündnis 90/Die Grünen und kritisiert, dass Familien bei der Bundesregierung nichts wert seien und dass bei Kindern und Familien gespart werde, während Milliarden für Reichste und Konzerne bereitgestellt würden.
+- **[55:04](https://www.youtube.com/watch?v=2skUS-nknW0&t=55m4s)** - **Abgeordnete Misbah Khan (Bündnis 90/Die Grünen)**: Stellt fest, dass jedes vierte Kind von Armut oder sozialer Ausgrenzung bedroht sei und Kürzungen bei ärmsten Familien Zukunftschancen minderten.
+- **[56:26](https://www.youtube.com/watch?v=2skUS-nknW0&t=56m26s)** - **Abgeordnete Misbah Khan (Bündnis 90/Die Grünen)**: Hebt hervor, dass Kinder von Alleinerziehenden doppelt so häufig von Armut betroffen seien und kritisiert die Aussage des Kanzlers zur Erwerbstätigkeit von Müttern.
+- **[57:56](https://www.youtube.com/watch?v=2skUS-nknW0&t=57m56s)** - **Abgeordnete Misbah Khan (Bündnis 90/Die Grünen)**: Bezeichnet die Politik der Bundesregierung als sozial ungerecht und als Brandbeschleuniger für Polarisierung und den Aufstieg der AfD.
+- **[58:45](https://www.youtube.com/watch?v=2skUS-nknW0&t=58m45s)** - **Abgeordnete Mandy Eißing (Die Linke)**: Spricht für Die Linke und kritisiert den Haushalt als Botschaft, dass Menschen mit wenig noch weniger erhalten.
+- **[59:20](https://www.youtube.com/watch?v=2skUS-nknW0&t=59m20s)** - **Abgeordnete Mandy Eißing (Die Linke)**: Erläutert die Kürzungen beim Elterngeld und die daraus resultierenden Probleme für Familien.
+- **[01:00:26](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h0m26s)** - **Abgeordnete Mandy Eißing (Die Linke)**: Kritisiert die Kürzung des Kindersofortzuschlags und stellt die Frage, wer sich in Deutschland noch Kinder leisten könne.
+- **[01:00:49](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h0m49s)** - **Abgeordnete Mandy Eißing (Die Linke)**: Kritisiert die Kürzung des Unterhaltsvorschusses und die damit verbundenen negativen Auswirkungen auf Teenager.
+- **[01:01:29](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h1m29s)** - **Abgeordnete Mandy Eißing (Die Linke)**: Kritisiert den Umbau von "Demokratie leben!" und die Kürzung von Mitteln für Antidiskriminierungsprojekte.
+- **[01:02:26](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h2m26s)** - **Abgeordnete Mandy Eißing (Die Linke)**: Kritisiert die Regierung dafür, Familie nur als Wahlplakatmotiv zu sehen und bei tatsächlichen Kosten zu sparen.
+- **[01:03:01](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h3m1s)** - **Abgeordneter Ralph Edelhäußer (CDU/CSU)**: Spricht für die CDU/CSU und betont, dass der Haushalt 2027 trotz schwieriger Zeiten ein Zukunftshaushalt sei.
+- **[01:04:00](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h4m0s)** - **Abgeordneter Ralph Edelhäußer (CDU/CSU)**: Hebt die Bedeutung der frühkindlichen Bildung hervor und erläutert das neue Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung.
+- **[01:05:13](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h5m13s)** - **Abgeordneter Ralph Edelhäußer (CDU/CSU)**: Betont die klaren Schwerpunkte für Kinder und Jugendliche, die Fortführung des Kinder- und Jugendplans und die Unterstützung der Stiftung Frühe Hilfen.
+- **[01:06:54](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h6m54s)** - **Abgeordneter Ralph Edelhäußer (CDU/CSU)**: Spricht über die Bedeutung des Einsatzes für mentale Gesundheit und die Fortführung der Mittel für Freiwilligendienste.
+- **[01:08:12](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h8m12s)** - **Abgeordneter Ralph Edelhäußer (CDU/CSU)**: Diskutiert den Unterhaltsvorschuss und die Notwendigkeit, säumige Eltern stärker zur Verantwortung zu ziehen.
+- **[01:11:11](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h11m11s)** - **Abgeordneter Christian Zaum (AfD)**: Spricht für die AfD und kritisiert das Ministerium für Bildung als Teil eines Systems der "organisierten Verblödung".
+- **[01:12:14](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h12m14s)** - **Abgeordneter Christian Zaum (AfD)**: Äußert die Prognose, dass sich die PISA-Ergebnisse weiter verschlechtern werden, wenn die bisherige Politik fortgesetzt wird.
+- **[01:13:06](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h13m6s)** - **Abgeordneter Christian Zaum (AfD)**: Spricht von "einfachen Antworten auf komplexe Fragestellungen" und nennt Beispiele wie Analphabeten im Regelunterricht und die Notwendigkeit der Eigenverantwortung.
+- **[01:14:13](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h14m13s)** - **Abgeordneter Christian Zaum (AfD)**: Behauptet, dass nur die AfD die Bildungskatastrophe beenden könne.
+- **[01:14:40](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h14m40s)** - **Abgeordneter Truels Reichardt (SPD)**: Spricht für die SPD und erwähnt positive Punkte im Familienhaushalt, kritisiert aber auch Kürzungen.
+- **[01:15:15](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h15m15s)** - **Abgeordneter Truels Reichardt (SPD)**: Betont, dass das Startchancen- und Qualitätsentwicklungsgesetz etwas bewegen werde, aber nicht ausreiche, um angemessen auf den PISA-Schock zu reagieren.
+- **[01:16:15](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h16m15s)** - **Abgeordneter Truels Reichardt (SPD)**: Fordert wirksame Maßnahmen gegen die Krise der mentalen Gesundheit, eine bessere soziale Infrastruktur für Familien und gut ausgestattete Jugendhilfe.
+- **[01:16:33](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h16m33s)** - **Abgeordneter Truels Reichardt (SPD)**: Schlägt vor, riesige Vermögen und große Erbschaften zur Finanzierung der Gemeinschaftsaufgabe heranzuziehen.
+- **[01:17:16](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h17m16s)** - **Abgeordneter Truels Reichardt (SPD)**: Kritisiert die geplante Kürzung beim Unterhaltsvorschuss und beim Elterngeld.
+- **[01:19:01](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h19m1s)** - **Abgeordnete Denise Loop (Bündnis 90/Die Grünen)**: Spricht für Bündnis 90/Die Grünen und hinterfragt die Prioritätensetzung der Bundesregierung angesichts von Kürzungen bei frühkindlicher Bildung und Sprachförderung.
+- **[01:20:20](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h20m20s)** - **Abgeordnete Denise Loop (Bündnis 90/Die Grünen)**: Kritisiert die Aussagen von Ministerin Prien und Herrn Merz zur Verantwortung der Eltern und fordert eine echte nationale Bildungsoffensive.
+- **[01:21:33](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h21m33s)** - **Abgeordnete Denise Loop (Bündnis 90/Die Grünen)**: Nennt die Erhöhung der Mittel im Kinder- und Jugendplan als gute Sache, kritisiert aber die Streichung der Förderung für queere Organisationen.
+- **[01:22:26](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h22m26s)** - **Abgeordnete Melanie Bernstein (CDU/CSU)**: Spricht für die CDU/CSU und betont die Bedeutung von frühkindlicher Bildung, Kinder- und Jugendschutz sowie mentaler Gesundheit.
+- **[01:23:26](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h23m26s)** - **Abgeordnete Melanie Bernstein (CDU/CSU)**: Erklärt, dass Kürzungen schwerfallen, aber die Realität sei, dass nicht alles Wünschenswerte finanziert werden könne.
+- **[01:24:21](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h24m21s)** - **Abgeordnete Melanie Bernstein (CDU/CSU)**: Dankt der Ministerin für die Fortführung eines Großteils der parlamentarischen Beschlüsse trotz Konsolidierung.
+- **[01:25:30](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h25m30s)** - **Abgeordnete Melanie Bernstein (CDU/CSU)**: Nennt die Reduzierung der Mittel für "Demokratie leben!" und die Beendigung von "Menschen stärken Menschen".
+- **[01:26:19](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h26m19s)** - **Abgeordnete Melanie Bernstein (CDU/CSU)**: Nennt drei Bereiche, die im Blick behalten und idealerweise gestärkt werden sollten: Kinder- und Jugendplan, Bundesfreiwilligendienst und überbetriebliche Berufsbildungsstätten.
+- **[01:28:14](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h28m14s)** - **Abgeordneter Gereon Bollmann (AfD)**: Spricht für die AfD und fragt, warum der Staat weniger für Familien ausgebe, obwohl Eltern hohe Kosten trügen.
+- **[01:29:11](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h29m11s)** - **Abgeordneter Gereon Bollmann (AfD)**: Zitiert die PISA-Studie zur Verschlechterung der Bildungsergebnisse und kritisiert die Kürzung des Etats für Bildung und Familie zugunsten von Rüstungsausgaben.
+- **[01:30:05](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h30m5s)** - **Abgeordneter Gereon Bollmann (AfD)**: Fordert vom Kanzler eine Erklärung für die Politik und die Ausgaben, bevor Mittel für Kinder und Bildung gestrichen werden.
+- **[01:31:37](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h31m37s)** - **Abgeordneter Felix Döring (SPD)**: Spricht für die SPD und lobt die Aufstockung der Mittel für Frühe Hilfen.
+- **[01:32:11](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h32m11s)** - **Abgeordneter Felix Döring (SPD)**: Spricht über Lambda e.V. und kritisiert die Streichung der Förderung für queere Jugendliche.
+- **[01:32:49](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h32m49s)** - **Abgeordneter Felix Döring (SPD)**: Spricht über die Einigung zur Einsparung von Geld beim Elterngeld und warnt davor, dies als gleichstellungspolitischen Erfolg zu verkaufen.
+- **[01:33:38](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h33m38s)** - **Abgeordneter Felix Döring (SPD)**: Stellt die sozialdemokratische Leitlinie für die Elterngeldverhandlungen dar und schlägt die Einführung einer Familienstartzeit vor.
+- **[01:35:04](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h35m4s)** - **Abgeordneter Felix Döring (SPD)**: Schlägt die Abschaffung des Ehegattensplittings in seiner jetzigen Form vor.
+- **[01:36:20](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h36m20s)** - **Abgeordnete Birgit Bessin (AfD)**: Spricht für die AfD und zitiert einen Familienvater zur Frage, warum Familien in der Politik nicht vorkämen.
+- **[01:36:47](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h36m47s)** - **Abgeordnete Birgit Bessin (AfD)**: Kritisiert die Prioritäten der Bundesregierung und verweist auf hohe Ausgaben für Auslandshilfe und Rüstung.
+- **[01:38:09](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h38m9s)** - **Abgeordnete Birgit Bessin (AfD)**: Kritisiert die Finanzierung von Organisationen wie der Amadeu Antonio Stiftung und "Die Falken" als "linke Propaganda".
+- **[01:38:49](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h38m49s)** - **Abgeordnete Birgit Bessin (AfD)**: Behauptet, die Regierung sei zu feige oder wolle dem ausufernden Linksstaat kein Ende setzen.
+- **[01:39:20](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h39m20s)** - **Abgeordnete Birgit Bessin (AfD)**: Stellt die Frage, wann die Regierung etwas dafür tun werde, dass es in Zukunft noch ein deutsches Volk gebe.
+- **[01:40:00](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h40m0s)** - **Abgeordnete Birgit Bessin (AfD)**: Nennt Zahlen zu Straftaten und Messerangriffen in Schulen und behauptet, die Kinder würden nicht geschützt.
+- **[01:41:21](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h41m21s)** - **Präsident**: Erteilt einen Ordnungsruf an Frau Abgeordnete Bessin für die pauschale Bezeichnung einer Jugendorganisation als "sozialistische Pornoorganisation".
+- **[01:41:41](https://www.youtube.com/watch?v=2skUS-nknW0&t=1h41m41s)** - **Präsident**: Leitet zum Geschäftsbereich des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen über.
