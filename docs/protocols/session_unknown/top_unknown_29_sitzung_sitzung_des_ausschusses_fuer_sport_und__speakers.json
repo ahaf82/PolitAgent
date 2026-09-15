@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte im Sportausschuss des Bundestages am 14. September 2026 konzentrierte sich auf den Bundeshaushalt 2027 mit Fokus auf Sportförderung und Ehrenamt. Externe Reaktionen der identifizierten Abgeordneten zeigen breite Zustimmung zur Aufstockung der Mittel für Sport und Trainer, wenngleich unterschiedliche Schwerpunkte und Kritikpunkte geäußert werden. Staatsminister Ronald Raue, neu im Amt, betont seine Herkunft aus dem Ehrenamt und die Bedeutung des Sports für die Olympiabewerbung. Dr. Christiane Schenderlein, ehemalige Staatsministerin, wird für ihre Arbeit gewürdigt und wechselt ins Gesundheitsministerium. Die AfD kritisiert die Haushaltsplanung für das Ehrenamt und die Mittelverteilung, während CDU/CSU und Grüne die Aufstockungen begrüßen, aber weitere Verbesserungen fordern. Die SPD hebt die Bedeutung von Projekten wie \"Deutschland lernt schwimmen\" hervor und verteidigt Athleten Deutschland gegen politische Instrumentalisierung.",
+  "sources": [
+    {
+      "name": "Ronald Raue",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als neuer Staatsminister für Sport und Ehrenamt betonte Ronald Raue seine Herkunft aus dem Ehrenamt und seine sportlichen Erfolge. Er äußerte sich positiv über die Haushaltsmittel für Sport und Ehrenamt und bittet um Verständnis für seine noch fehlende tiefe Einarbeitung.",
+      "source_title": "Eröffnungsstatement Staatsminister Raue [cite: 00:03:31]",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Christiane Schenderlein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Christiane Schenderlein wurde für ihre Arbeit als Staatsministerin gewürdigt, insbesondere für das Sportfördergesetz und den Zukunftspakt Ehrenamt, bevor sie ins Bundesministerium für Gesundheit wechselte. Sie betonte die Wichtigkeit des Engagements und die Anerkennung für Ehrenamtliche.",
+      "source_title": "Wechsel von Staatsministerin Dr. Christiane Schenderlein [cite: 00:00:00]",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Stephan Mayer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Stephan Mayer lobte das ehrenamtliche Engagement als unverzichtbar für die Gesellschaft und die Demokratie. Er betonte die Notwendigkeit, Rahmenbedingungen zu verbessern und bürokratische Hürden abzubauen, um das Ehrenamt zu erleichtern.",
+      "source_title": "Das Gemeinwesen lebt vom Ehrenamt",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lars Schieske",
+      "party": "AfD",
+      "found": false,
+      "statement": "Lars Schieske kritisierte die Haushaltsplanung der Bundesregierung für das Ehrenamt und hinterfragte die Mittelverteilung bei der Deutschen Stiftung für Engagement und Ehrenamt.",
+      "source_title": "Bundestag - Neuer Sportstaatsminister Rauhe will Olympia nach Deutschland holen, AfD kritisiert Benennung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tina Winklmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Tina Winklmann ist Sprecherin für Sportpolitik und Ehrenamt der Bundestagsfraktion Bündnis 90/Die Grünen und Mitglied im Sportausschuss. Sie betont die Wichtigkeit von verlässlichen Rahmenbedingungen und Investitionen im Sport sowie den Schutz des Ehrenamts vor Extremismus.",
+      "source_title": "Sport | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/unsere-politik/unsere-ziele/sport/",
+      "platform": "Website"
+    },
+    {
+      "name": "Jens Lehmann",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

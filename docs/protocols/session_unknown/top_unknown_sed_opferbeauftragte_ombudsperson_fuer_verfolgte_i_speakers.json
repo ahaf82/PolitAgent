@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zum Thema 'Beauftragte für Opfer der SED-Diktatur: Anlaufstelle für Verfolgte in der DDR' rückt die Bedeutung der Stelle und ihrer Arbeit in den Fokus. Die Bundestagsabgeordnete Evelyn Zupke, die selbst als SED-Opferbeauftragte tätig ist, hat sich in der Vergangenheit stark für die Verbesserung der Entschädigung und die Würdigung der Opfer eingesetzt. Ihre externen Äußerungen betonen die Notwendigkeit eines Härtefallfonds und einer Anerkennung der erlittenen gesundheitlichen Schäden. Zupke fordert zudem eine stärkere Auseinandersetzung mit der DDR-Vergangenheit und die Umbenennung öffentlicher Orte nach Widerstandskämpfern. Es gibt keine eindeutig identifizierbaren Beiträge von weiteren einzelnen Abgeordneten zu diesem spezifischen Thema in externen Quellen, die über die Rolle der Beauftragten Zupke hinausgehen.",
+  "sources": [
+    {
+      "name": "Evelyn Zupke",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Als SED-Opferbeauftragte betont Evelyn Zupke die Bedeutung der Stelle für die Würdigung der Opfer und setzt sich für einen Härtefallfonds sowie eine verbesserte Anerkennung von verfolgungsbedingten Gesundheitsschäden ein. Sie fordert zudem eine kritischere Auseinandersetzung mit der DDR-Vergangenheit und die Umbenennung öffentlicher Orte nach Widerstandskämpfern.",
+      "source_title": "Jahresbericht 2026 der SED-Opferbeauftragten",
+      "url": "https://www.bundestag.de/parlament/sed-opferbeauftragte/texte",
+      "platform": "Presse"
+    },
+    {
+      "name": "Evelyn Zupke",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Evelyn Zupke, die für eine zweite Amtszeit als SED-Opferbeauftragte wiedergewählt wurde, äußerte ihre Ehre, den Opfern der SED-Diktatur weiterhin eine Stimme im Herzen der heutigen Demokratie zu geben. Sie hebt hervor, dass das Parlament ein Gesetzespaket verabschiedet hat, das eine bessere Entschädigung und Würdigung der Opfer zum Ziel hat und spricht von einem \"Paradigmenwechsel\".",
+      "source_title": "Evelyn Zupke bleibt für eine zweite Amtszeit Bundesbeauftragte für die Opfer der SED-Diktatur",
+      "url": "https://www.deutschlandfunk.de/evelyn-zupke-bleibt-fuer-eine-zweite-amtszeit-bundesbeauftragte-fuer-die-opfer-der-sed-diktatur-100.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Evelyn Zupke",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Als erste SED-Opferbeauftragte des Bundestages betont Evelyn Zupke die gesamtdeutsche Aufgabe, den Betroffenen von Unrecht in der DDR Würdigung zu verleihen. Sie hebt hervor, dass etwa die Hälfte der Betroffenen an der Grenze zur Armutsgefährdung lebt und dies ein dringender gesellschaftlicher Auftrag sei. Sie spricht auch die Bedeutung der Vermittlung von Werten wie Freiheit und Demokratie an junge Menschen an.",
+      "source_title": "SED-Opferbeauftragte: Ombudsperson für Verfolgte in der DDR",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Evelyn Zupke",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Evelyn Zupke hat sich maßgeblich an der Aufdeckung des Wahlbetrugs bei den DDR-Kommunalwahlen 1989 beteiligt und war Teil der Opposition. Dies prägte ihre spätere Tätigkeit als SED-Opferbeauftragte, wo sie sich für die Rechte und die Würdigung der Opfer einsetzt.",
+      "source_title": "Evelyn Zupke - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Evelyn_Zupke",
+      "platform": "Website"
+    },
+    {
+      "name": "Evelyn Zupke",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Evelyn Zupke betont die Wichtigkeit eines ehrlichen Umgangs mit der DDR-Vergangenheit als Respekt vor den Opfern. Sie setzt sich dafür ein, dass öffentliche Orte nach Widerstandskämpfern der DDR benannt werden.",
+      "source_title": "Ehrlicher Umgang mit DDR-Vergangenheit ist Frage des Respekts vor den Opfern",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Unbekannt",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

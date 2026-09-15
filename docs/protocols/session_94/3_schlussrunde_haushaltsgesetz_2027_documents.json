@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7300",
+      "title": "Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 - HG 2027)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7300&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/7650",
+      "title": "Unterrichtung: Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 - HG 2027) - Drucksache 21/7300 - Anlage gemäß § 28 Absatz 3 der Bundeshaushaltsordnung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7650&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/7301",
+      "title": "Finanzplan des Bundes 2026 bis 2030",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7301&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion - Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die erste Beratung des Haushaltsgesetzes 2027 und des Finanzplans des Bundes 2026 bis 2030 wurde mit der Schlussrunde am 11. September 2026 beendet. Der Gesetzentwurf mit allen Einzelplänen sowie der Finanzplan wurden im Anschluss zur weiteren Beratung an den Haushaltsausschuss überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

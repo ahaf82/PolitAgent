@@ -1,0 +1,82 @@
+# Haushaltsgesetz 2027: Schlussberatung
+
+## Sitzungs-Metadaten
+- **Sitzung:** 94. Sitzung
+- **Datum:** 2026-09-11
+- **Tagesordnungspunkt (TOP):** 3
+- **Originaltitel:** 94. Sitzung vom 11.09.2026. TOP 3: Schlussrunde Haushaltsgesetz 2027
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=zMss9f7q_m0)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag zur Schlussrunde des Haushaltsgesetzes 2027 drehte sich um die finanzielle Zukunftsfähigkeit Deutschlands. Die Koalitionsfraktionen betonten die Notwendigkeit von Investitionen in Infrastruktur, Digitalisierung, Forschung, Klimaschutz und Sicherheit, um das Land für die Zukunft zu rüsten. Die Opposition kritisierte die Höhe der Neuverschuldung, die Verwendung von Haushaltsmitteln und die Auswirkungen der Sparmaßnahmen auf die Bürgerinnen und Bürger. Es gab unterschiedliche Ansichten bezüglich der Definition von Investitionen und der Priorisierung von Ausgaben, insbesondere im Bereich der Verteidigung und der sozialen Sicherungssysteme.
+
+## Kernaussagen und Positionen der Fraktionen
+- **SPD**:
+  - Der Haushalt 2027 sei darauf ausgelegt, das Land für die Zukunft fit zu machen und strukturelle Probleme anzugehen.
+  - Geplante Rekordinvestitionen von fast 118 Milliarden Euro in Infrastruktur, Digitalisierung, Forschung und Klimaschutz.
+  - Investitionen in Sicherheit, bezahlbares Wohnen und Bildung seien essenziell.
+  - Der Haushalt sei ein Kraftakt, der eine Lücke von 34 Milliarden Euro schließe.
+  - Kritik an der Infragestellung von getroffenen Vereinbarungen und Forderung nach Verantwortung für die Finanzierung zusätzlicher Ausgaben.
+- **AfD**:
+  - Kritisiert die Bundesregierung für eine irreführende Darstellung von Ausgaben als "Investitionen".
+  - Behauptet, viele Posten seien tatsächlich laufende Ausgaben, wie Entwicklungshilfe, Kaufprämien, Kredite an die Bundesagentur für Arbeit oder Bürgschaften, die Deutschland nichts bringen würden.
+  - Argumentiert, der manipulierte Investitionsbegriff diene dazu, mehr Sonderschulden zweckentfremden zu können.
+  - Verweist auf hohe Staatsquote und Belastung durch Steuern und Abgaben für arbeitende Menschen.
+  - Fordert die Abschaffung des Solidaritätszuschlags und eine Steuerreform mit 25% Pauschalsteuer und höheren Freibeträgen.
+- **CDU/CSU**:
+  - Der Regierungsentwurf trage die Überschrift "Handlungsfähigkeit" angesichts globaler Unsicherheiten und Sicherheitsbedrohungen.
+  - Geld allein reiche nicht aus; Strukturreformen in den Bereichen Infrastruktur, soziale Sicherung und Sicherheitsbehörden seien notwendig.
+  - Die aktuelle Struktur der Bundesfinanzen sei keine Dauerlösung und erfordere strukturelle Anpassungen angesichts steigender Zinskosten.
+  - Betont die Notwendigkeit, fiskalische Handlungsfähigkeit und Puffer aufzubauen, ähnlich der Politik nach 2009.
+  - Fordert die Überprüfung der Netto-Kreditaufnahme und die Identifizierung weiterer Konsolidierungsmöglichkeiten.
+  - Verweist auf die Bedeutung von Wachstum für höhere Steuereinnahmen und die Stärkung des Sozialstaats sowie der Verteidigungsfähigkeit.
+  - Kritisiert die geplante Erhöhung der Schaumweinsteuer als schädlich für den Weinbau und fordert Bürokratieabbau und Schaffung von Arbeitsanreizen.
+- **Bündnis 90/Die Grünen**:
+  - Der Haushalt sei aufgrund von Floskeln und Buchungstricks nicht solide aufgestellt und weise Lücken auf.
+  - Kritisiert die Verschiebung von Mitteln in den Kernhaushalt und die Einsparungen bei Klimaschutzmaßnahmen.
+  - Der sinkende Investitionsanteil im Klima- und Transformationsfonds (KTF) und steigende Ausgaben für kurzfristige Entlastungen werden bemängelt.
+  - Fordert eine echte Investitionsoffensive für Klimaschutz und Transformation.
+  - Kritisieren die Regierung für die fehlende Kommunikation und das Scheitern an Lücken.
+  - Bemängeln die undurchsichtige Haushaltsaufstellung mit künstlich unterveranschlagten Ausgaben und globalen Minderausgaben.
+  - Betonen die Notwendigkeit, durch Investitionen in den gesellschaftlichen Zusammenhalt und die Sicherheit des Landes Angriffe abzuwehren.
+  - Kritisieren Kürzungen bei Kindergeld, Unterhaltsvorschuss, Elterngeld und im Gesundheitswesen.
+- **Die Linke**:
+  - Kritisiert den Haushalt als kraftlos, mutlos und orientierungslos, mit unverantwortlicher Neuverschuldung von über 200 Milliarden Euro.
+  - Bemängelt die Priorisierung von Militärausgaben über Ausgaben für die Menschen und die damit verbundenen Kürzungen bei Sozialleistungen.
+  - Fordert die Rücknahme der Kürzungen beim Elterngeld, Unterhaltsvorschuss und Kinderzuschlag.
+  - Kritisieren die hohen Rüstungsausgaben im Vergleich zu anderen europäischen Ländern als Option.
+  - Fordert die Deckelung der Rüstungspäne und die Streichung sozialer Kürzungen.
+  - Verweist auf die Bedeutung von Bildung und fordert Investitionen statt Kürzungen.
+  - Betont, dass antifaschistische Politik beim Lohnzettel, Mietvertrag und an der Bushaltestelle beginnt und den Sozialstaat stärkt.
+  - Kritisieren die Regierung für eine Politik der Umverteilung von unten nach oben und die Schaffung eines Nährbodens für Faschismus.
+  - Fordert eine Erhöhung des Mindestlohns, Mietpreisbremsen, eine Besteuerung von Übergewinnen und eine Vermögensabgabe.
+- **Parlamentarischer Staatssekretär beim Bundesminister der Finanzen (Dennis Rode)**:
+  - Verweist auf verbesserte Wachstumsprognosen für die deutsche Wirtschaft trotz Krieg und Krise.
+  - Betont die Notwendigkeit, Zuversicht auszustrahlen und Probleme zu lösen.
+  - Erklärt, dass die ursprüngliche Haushaltslücke von 34 Milliarden Euro geschlossen wurde und Möglichkeiten zur Entlastung kleiner und mittlerer Einkommen geschaffen wurden.
+  - Verweist auf die Nutzung von Möglichkeiten des Grundgesetzes für Sicherheit und Infrastruktur.
+  - Betont die Notwendigkeit der Stabilisierung der Sozialversicherungssysteme und die Fokussierung auf Prävention im Gesundheitssystem.
+  - Hebt die Bedeutung von Bildung und frühkindlicher Entwicklung als Investition in die Zukunft hervor.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=zMss9f7q_m0&t=0s)** - **Sitzungsbeginn / Einleitung**: Präsident eröffnet die Schlussrunde der Haushaltsberatungen für 2027.
+- **[00:00:17](https://www.youtube.com/watch?v=zMss9f7q_m0&t=17s)** - **Dr. Thorsten Rudolf (SPD)**: Hält eine Rede, in der er betont, dass der Haushalt 2027 Investitionen in die Zukunft darstellt, die strukturelle Probleme angehen. Er nennt Rekordinvestitionen in Infrastruktur, Digitalisierung, Forschung, Klimaschutz und Sicherheit. Er hebt hervor, dass der Haushalt eine Lücke von 34 Milliarden Euro schließt und ruft zur gemeinsamen Verantwortung bei der Finanzierung weiterer Ausgaben auf.
+- **[00:49:51](https://www.youtube.com/watch?v=zMss9f7q_m0&t=49m51s)** - **Dr. Michael Espendiller (AfD)**: Kritisiert die Bundesregierung für die irreführende Bezeichnung von Ausgaben als "Investitionen" und erklärt, dass viele Posten reine laufende Ausgaben seien, die Deutschland nicht nützten. Er nennt Entwicklungshilfe, Kaufprämien für Elektroautos und Kredite an die Bundesagentur für Arbeit als Beispiele und argumentiert, dass der manipulierte Investitionsbegriff zur Zweckentfremdung von Sonderschulden diene. Er fordert die AfD-Fraktion auf, Änderungsanträge einzubringen.
+- **[01:09:59](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h9m59s)** - **Dr. Jannik Buri (CDU/CSU)**: Erörtert, dass der Regierungsentwurf auf Handlungsfähigkeit abzielt, betont aber, dass Geld allein nicht ausreicht und Strukturreformen notwendig seien. Er verweist auf steigende Zinskosten und die Notwendigkeit, haushaltspolitische Handlungsfähigkeit wiederherzustellen. Er hebt hervor, dass eine solide Haushaltspolitik die Grundlage für die Bewältigung von Krisen geschaffen habe und fordert die Fortsetzung von Reformvorhaben.
+- **[01:18:06](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h18m6s)** - **Katrin (Bundes-<fraktionslos>)**: Kritisiert den Haushalt als absurd und bemängelt die Verschiebung von Mitteln aus dem KTF in den Kernhaushalt. Sie spricht von globalen Minderausgaben und künstlich unterveranschlagten Ausgaben und bezeichnet den Haushalt als undurchsichtig. Sie fordert eine echte Investitionsoffensive für Klimaschutz und Transformation und warnt vor zukünftigen Schulden und Zinslasten.
+- **[01:22:20](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h22m20s)** - **Dr. Diet Part (Die Linke)**: Beschreibt den Haushaltsentwurf als kraftlos, mutlos und orientierungslos. Er kritisiert die Neuverschuldung und die Priorisierung von Militärausgaben über Ausgaben für die Menschen, was zu Kürzungen bei Sozialleistungen führe. Er fordert die Rücknahme der Kürzungen, die Deckelung der Rüstungspäne und eine Umverteilung von oben nach unten. Er betont, dass antifaschistische Politik den Sozialstaat stärken müsse.
+- **[01:28:04](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h28m4s)** - **Dennis Rode (Parlamentarischer Staatssekretär beim Bundesminister der Finanzen)**: Präsentiert positive Wachstumsprognosen für die deutsche Wirtschaft und betont die Notwendigkeit von Zuversicht. Er hebt hervor, dass die Haushaltslücke geschlossen und Möglichkeiten zur Entlastung geschaffen wurden. Er betont die Notwendigkeit von Investitionen in Bildung und Prävention sowie die Stabilisierung der Sozialversicherungssysteme.
+- **[01:32:36](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h32m36s)** - **Kai Gottschalk (AfD)**: Kritisierte den Haushalt als schuldenfinanzierte Selbstbedienung und fordert die Abkehr von der aktuellen Politik. Er warnt vor steigenden Zinsen und dem Verlust des Triple-A-Ratings und kritisiert die hohen Ausgaben für das Ausland. Er schlägt die vollständige Abschaffung des Solidaritätszuschlags und eine Steuerreform vor.
+- **[01:39:09](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h39m9s)** - **Fritz Günstler (CDU/CSU)**: Beschreibt den Haushalt als Investitionshaushalt, der aber Reformen nicht ersetzen dürfe. Er betont die Notwendigkeit, die Sozialversicherungssysteme, Bürokratie und den Arbeitsmarkt zu reformieren. Wachstum sei entscheidend, um den Sozialstaat und die Verteidigungsfähigkeit zu sichern. Er erwähnt erste positive Signale wie das Wirtschaftswachstum und die verbesserten Prognosen.
+- **[01:46:12](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h46m12s)** - **Dr. Paula Pisotta (Bündnis 90/Die Grünen)**: Stellt die Aufstellung des Haushalts als undurchsichtig dar und bemängelt die fehlende Schließung von Lücken. Sie kritisiert Kürzungen bei Kindern und kritisiert die Regierung für die mangelnde Kommunikation und das Scheitern an Haushaltslücken. Sie betont die Notwendigkeit, in den gesellschaftlichen Zusammenhalt zu investieren und starke Schultern mehr Last tragen zu lassen.
+- **[01:50:28](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h50m28s)** - **Tamara Masi (Die Linke)**: Verknüpft das Ergebnis der AfD in Sachsen-Anhalt mit der Politik der Bundesregierung und fordert antifaschistische Politik, die den Sozialstaat stärkt. Sie kritisiert die Umverteilung von unten nach oben und die Kürzungen bei Sozialleistungen, während gleichzeitig hohe Rüstungsausgaben getätigt werden. Sie fordert Investitionen in Arbeitsplätze, Bildung, Wohnungen und eine Besteuerung von Vermögen.
+- **[01:54:42](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h54m42s)** - **Svenas Stadler (SPD)**: Betont, dass Investitionen, Wachstum und soziale Sicherung zusammengehören. Er hebt die Notwendigkeit hervor, die sozialen Sicherungssysteme zukunftsfest zu machen und die Prävention im Gesundheitssystem zu stärken. Er betont die Bedeutung von Bildung und frühkindlicher Entwicklung als Investition in die Zukunft.
+- **[01:59:13](https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h59m13s)** - **Peter Böringer (AfD)**: Kritisiert den Haushaltsentwurf als unrealistisch und bemängelt die viel zu geringen Zinskalkulationen. Er warnt vor einem Schuldenstand von über 3 Billionen Euro bis 2030 und kritisiert die Ausgaben für das Ausland und die EU. Er fordert die Reduzierung der EU-Ausgaben und eine strikte Ablehnung von Eurobonds.
+- **[02:04:44](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h4m44s)** - **Lukas Krieger (CDU/CSU)**: Stellt fest, dass Deutschland investieren und Prioritäten setzen muss. Er nennt die bereitgestellten Mittel für Investitionen und betont, dass staatliche Investitionen allein nicht ausreichen. Er hebt die Notwendigkeit hervor, dass Unternehmen wieder stärker in Deutschland investieren und warnt, dass die Industrie unter Druck steht. Er fordert weitere strukturelle Reformen und betont die Bedeutung von Sicherheit und Verteidigungsfähigkeit.
+- **[02:13:23](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h13m23s)** - **Mächthilde Wittmann (CDU/CSU)**: Bezeichnet den Haushalt als Rekordinvestitionshaushalt und betont, dass Investitionen kein reines Schuldenmachen seien. Sie hebt die Rekord-Einnahmen hervor und kritisiert die Ausgaben des KTF. Sie spricht von der Notwendigkeit, die sozialen Sicherungssysteme krisenfest zu machen und diejenigen zu erwischen, die Schlupflöcher suchen. Sie erwähnt die Nettokreditaufnahme und die steigenden Zinsen und betont die Wichtigkeit, die Schulden nicht weiter nach oben zu treiben.
+- **[02:25:44](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h25m44s)** - **Leon Eckert (Bündnis 90/Die Grünen)**: Beschreibt den Haushalt als Angriff auf den sozialen Zusammenhalt, da er Kürzungen bei Kindergeld, Unterhaltsvorschuss und Elterngeld vorsieht. Er kritisiert die hohen Rüstungsausgaben und fordert eine Politik, die auf Solidarität setzt und starke Schultern mehr Last tragen lässt.
+- **[02:16:46](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h16m46s)** - **Martin Gerster (SPD)**: Erinnert an die Anschläge vom 11. September und vergleicht die aktuelle Sicherheitslage mit damals. Er betont die Notwendigkeit, in Sicherheit, Bevölkerungsschutz und Freiheit zu investieren, was der Regierungsentwurf auch tue. Er hebt Rekordinvestitionen in Sicherheitsbehörden hervor und betont die Wichtigkeit, Desinformationskampagnen zu bekämpfen und das Vertrauen in demokratische Institutionen zu stärken. Er lobt den Haushaltsentwurf als gute Grundlage für Investitionen in Infrastruktur und Sicherheit.
+- **[02:21:36](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h21m36s)** - **Stefan Brandner (AfD)**: Beginnt mit einem Verweis auf den Wahlsieg der AfD in Sachsen-Anhalt und bezeichnet diesen als Höhepunkt der Woche, während er die Abwesenheit des Bundeskanzlers und dessen Äußerungen kritisiert. Er kritisiert die Politik der Regierung, die seiner Meinung nach den Gürtel für die Bürger enger schnallen lässt, während Milliarden ins Ausland fließen. Er kritisiert die Kosten für das Schloss Bellevue und fordert eine Politik im Sinne des deutschen Volkes.
+- **[02:26:44](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h26m44s)** - **Lukas Krieger (CDU/CSU)**: Stellt fest, dass Deutschland investieren und Prioritäten setzen muss. Er nennt die bereitgestellten Mittel für Investitionen und betont, dass staatliche Investitionen allein nicht ausreichen. Er hebt die Notwendigkeit hervor, dass Unternehmen wieder stärker in Deutschland investieren und warnt, dass die Industrie unter Druck steht. Er fordert weitere strukturelle Reformen und betont die Bedeutung von Sicherheit und Verteidigungsfähigkeit. Er nennt die Kreditfinanzierungsquote als Problem und betont die Notwendigkeit der Konsolidierung.
+- **[02:32:23](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h32m23s)** - **Philip M. Hoffmann (CDU/CSU)**: Vergleicht den Haushaltsentwurf mit einem Weinjahrgang und betont, dass die Prioritäten Deutschlands durch den Haushalt gesetzt werden. Er hebt die Notwendigkeit von Investitionen in Bundeswehr, Cyberabwehr und Sicherheitsbehörden hervor und begründet die Bereichsausnahme. Er betont die Notwendigkeit, Ausgaben zu konsolidieren und kritisiert die Entwicklungshilfe als nicht dazugehörig in der Bereichsausnahme. Er verteidigt die Politik der schwarzen Null und betont die Verbindung von Schulden und Wachstum. Er äußert Bedenken bezüglich der Erhöhung der Schaumweinsteuer.
+- **[02:37:32](https://www.youtube.com/watch?v=zMss9f7q_m0&t=2h37m32s)** - **Schlussbemerkungen des Präsidenten**: Der Präsident erklärt die Aussprache für beendet und schlägt die Überweisung der Drucksachen an den Haushaltsausschuss vor. Da kein Widerspruch erfolgt, wird dies so verfahren.

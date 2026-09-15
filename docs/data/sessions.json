@@ -13,6 +13,32 @@
     "processed_at": "2026-09-14T08:07:18.344750"
   },
   {
+    "id": "vb5glt5on6M",
+    "title": "29. Sitzung Sitzung des Ausschusses für Sport und Ehrenamt",
+    "session": 0,
+    "date": "2026-09-14",
+    "top": "N/A",
+    "topic": "29. Sitzung des Ausschusses für Sport und Ehrenamt",
+    "summary_path": "protocols/session_unknown/top_unknown_29_sitzung_sitzung_des_ausschusses_fuer_sport_und_.md",
+    "documents_path": "protocols/session_unknown/top_unknown_29_sitzung_sitzung_des_ausschusses_fuer_sport_und__documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_29_sitzung_sitzung_des_ausschusses_fuer_sport_und__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=vb5glt5on6M",
+    "processed_at": "2026-09-15T08:01:37.949920"
+  },
+  {
+    "id": "YkV2T0kcsJU",
+    "title": "SED-Opferbeauftragte: Ombudsperson für Verfolgte in der DDR",
+    "session": 0,
+    "date": "2026-09-14",
+    "top": "N/A",
+    "topic": "Beauftragte für Opfer der SED-Diktatur: Anlaufstelle für Verfolgte in der DDR",
+    "summary_path": "protocols/session_unknown/top_unknown_sed_opferbeauftragte_ombudsperson_fuer_verfolgte_i.md",
+    "documents_path": "protocols/session_unknown/top_unknown_sed_opferbeauftragte_ombudsperson_fuer_verfolgte_i_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_sed_opferbeauftragte_ombudsperson_fuer_verfolgte_i_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=YkV2T0kcsJU",
+    "processed_at": "2026-09-15T08:05:55.857967"
+  },
+  {
     "id": "sf-lAP4XN2Y",
     "title": "94. Sitzung des Bundestages – LIVE",
     "session": 94,
@@ -24,6 +50,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=sf-lAP4XN2Y",
     "processed_at": "2026-09-14T08:06:52.692019"
+  },
+  {
+    "id": "cegXiA3wMFU",
+    "title": "94. Sitzung vom 11.09.2026. TOP Epl 30: Forschung, Technologie und Raumfahrt",
+    "session": 94,
+    "date": "2026-09-11",
+    "top": "Epl 30",
+    "topic": "Forschung, Technologie und Raumfahrt",
+    "summary_path": "protocols/session_94/epl_30_forschung_technologie_und_raumfahrt.md",
+    "documents_path": "protocols/session_94/epl_30_forschung_technologie_und_raumfahrt_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=cegXiA3wMFU",
+    "processed_at": "2026-09-15T08:02:17.257167"
+  },
+  {
+    "id": "5cNGTz2Z_LA",
+    "title": "94. Sitzung vom 11.09.2026. TOP Epl 11: Arbeit und Soziales",
+    "session": 94,
+    "date": "2026-09-11",
+    "top": "Epl 11",
+    "topic": "Arbeit und Soziales",
+    "summary_path": "protocols/session_94/epl_11_arbeit_und_soziales.md",
+    "documents_path": "protocols/session_94/epl_11_arbeit_und_soziales_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=5cNGTz2Z_LA",
+    "processed_at": "2026-09-15T08:00:57.531085"
+  },
+  {
+    "id": "zMss9f7q_m0",
+    "title": "94. Sitzung vom 11.09.2026. TOP 3: Schlussrunde Haushaltsgesetz 2027",
+    "session": 94,
+    "date": "2026-09-11",
+    "top": "3",
+    "topic": "Haushaltsgesetz 2027: Schlussberatung",
+    "summary_path": "protocols/session_94/3_schlussrunde_haushaltsgesetz_2027.md",
+    "documents_path": "protocols/session_94/3_schlussrunde_haushaltsgesetz_2027_documents.json",
+    "speakers_path": "protocols/session_94/3_schlussrunde_haushaltsgesetz_2027_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=zMss9f7q_m0",
+    "processed_at": "2026-09-15T08:03:14.081540"
   },
   {
     "id": "Dzk8TUf_wbk",
@@ -72,7 +137,7 @@
     "top": "Epl 15",
     "topic": "Gesundheit",
     "summary_path": "protocols/session_93/epl_15_gesundheit.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_93/epl_15_gesundheit_documents.json",
     "speakers_path": "protocols/session_93/epl_15_gesundheit_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=GRcZL3w42lY",
     "processed_at": "2026-09-14T08:04:31.844188"

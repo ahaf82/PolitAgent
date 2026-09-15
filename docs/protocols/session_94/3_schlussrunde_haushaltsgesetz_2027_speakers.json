@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die Debatte um das Haushaltsgesetz 2027 im Bundestag spiegelte sich in den externen Äußerungen der Abgeordneten wider. Die SPD, vertreten durch Dr. Thorsten Rudolph und Svenja Stadler, betonte die Notwendigkeit von Zukunftsinvestitionen in Infrastruktur und Sicherheit, um strukturelle Probleme zu lösen und das Land voranzubringen. Die AfD, mit Michael Espendiller und Kay Gottschalk, kritisierte den Haushaltsentwurf scharf, bezeichnete ihn als \"Volksverdummung\" und warf der Regierung vor, Ausgaben falsch zu deklarieren und die Bürger übermäßig zu belasten. Die CDU/CSU, repräsentiert durch Dr. Jannik Buri und Fritz Günstler, mahnte Strukturreformen und eine solide Haushaltspolitik angesichts steigender Zinskosten an. Bündnis 90/Die Grünen, durch Dr. Paula Pisotta, bemängelte die Undurchsichtigkeit des Haushalts und forderte eine echte Investitionsoffensive für den Klimaschutz. Die Linke, mit Dr. Diet Part und Tamara Masi, kritisierte die Priorisierung von Militärausgaben und Kürzungen bei Sozialleistungen.",
+  "sources": [
+    {
+      "name": "Dr. Thorsten Rudolph",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont, dass der Haushaltsentwurf 2027 auf Zukunftsinvestitionen setzt und strukturelle Probleme angeht, um das Land voranzubringen. Er hebt die Notwendigkeit hervor, die Haushaltslücke verantwortungsvoll zu schließen und warnt davor, dass jeder, der Änderungen vorschlägt, auch eine Gegenfinanzierung präsentieren muss. Er verteidigt den Haushalt als Investition in die Zukunft und nicht als bloße Verwaltung der Gegenwart.",
+      "source_title": "Haushaltsentwurf 2027 - Investieren, modernisieren und solide wirtschaften",
+      "url": "https://www.presseportal.de/pm/155800/thorsten-rudolph-haushaltspolitischer-sprecher-der-spd-bundestagsfraktion-zieht-zum-abschluss-der-haushaltswoche-bilanz-ueber-den-regierungsentwurf-fuer-den-bundeshaushalt-2027-der-entwurf-setzt-auf-gezielte-investitionen-in-innere-und-aeusser",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Michael Espendiller",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert den Haushaltsentwurf scharf als \"Schlag ins Gesicht für alle fleißigen Deutschen\" und wirft der Regierung \"verfassungswidrige Buchungstricks\" vor, um die Schuldenbremse zu umgehen. Er argumentiert, dass viele Ausgaben falsch als Investitionen deklariert werden und Deutschland nicht nützen.",
+      "source_title": "AfD kritisiert Haushaltsentwurf und wirft Trickserei vor",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Jannik Buri",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont, dass der Regierungsentwurf auf Handlungsfähigkeit abzielt, aber Strukturreformen unerlässlich sind. Er verweist auf steigende Zinskosten und die Notwendigkeit, die haushaltspolitische Handlungsfähigkeit wiederherzustellen, und fordert die Fortsetzung von Reformvorhaben.",
+      "source_title": "Haushaltsentwurf 2027 und Finanzplan 2026 bis 2030 überwiesen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katrin (Bundes-fraktionslos)",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Diet Part",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Beschreibt den Haushaltsentwurf als kraftlos und mutlos, kritisiert die Neuverschuldung und die Priorisierung von Militärausgaben über Sozialleistungen. Er fordert die Rücknahme von Kürzungen und eine Umverteilung, die den Sozialstaat stärkt.",
+      "source_title": "Haushaltsgesetz 2027: Schlussberatung",
+      "url": "https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h22m20s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dennis Rode",
+      "party": "SPD",
+      "found": false,
+      "statement": "Hebt die Notwendigkeit von Investitionen in Bildung und Prävention hervor und betont die Bedeutung der Stabilisierung der Sozialversicherungssysteme. Er verweist auf positive Wachstumsprognosen für die deutsche Wirtschaft und die Schließung der Haushaltslücke.",
+      "source_title": "Dennis Rohde, MdB - Bundesfinanzministerium",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Svenja Stadler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont die Notwendigkeit, soziale Sicherungssysteme zukunftsfest zu machen und Prävention im Gesundheitssystem zu stärken. Sie hebt die Bedeutung von Bildung und frühkindlicher Entwicklung als Investition in die Zukunft hervor.",
+      "source_title": "Svenja Stadler, MdB - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/positionspapier-kinder-und-jugendschutz-pr%C3%A4vention-statt-reaktion",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert die Regierung für das Herumschrauben an der Schuldenbremse und fordert stattdessen eine Rückkehr zu solider Haushaltspolitik und echte Entlastungen für die arbeitende Mitte. Er warnt vor neuen Schulden und zusätzlichen Steuern, anstatt die Ausgaben zu überprüfen.",
+      "source_title": "Kay Gottschalk: Steuerzahler entlasten statt neue Schuldenregeln erfinden",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Paula Pisotta",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisiert den Haushaltsentwurf als unsolide und undurchsichtig. Sie bemängelt die mangelnde Schließung von Lücken und fordert eine echte Investitionsoffensive für den Klimaschutz, wobei sie betont, dass starke Schultern mehr Last tragen sollten.",
+      "source_title": "Einigkeit der Koalition bei Haushaltsberatungen angemahnt",
+      "url": "https://de.marketscreener.com/boersen-news/Einigkeit-der-Koalition-bei-Haushaltsberatungen-angemahnt-42405114/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tamara Masi",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Verknüpft die Wahlergebnisse mit der Politik der Bundesregierung und fordert antifaschistische Politik, die den Sozialstaat stärkt. Sie kritisiert die Umverteilung von unten nach oben und fordert Investitionen in Arbeitsplätze, Bildung und Wohnen sowie eine Vermögensbesteuerung.",
+      "source_title": "Haushaltsgesetz 2027: Schlussberatung",
+      "url": "https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h50m28s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Svenas Stadler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont, dass Investitionen, Wachstum und soziale Sicherung zusammengehören und hebt die Notwendigkeit hervor, soziale Sicherungssysteme zukunftsfest zu machen und die Prävention im Gesundheitssystem zu stärken. Er betont die Bedeutung von Bildung und frühkindlicher Entwicklung als Investition in die Zukunft.",
+      "source_title": "Haushaltsgesetz 2027: Schlussberatung",
+      "url": "https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h54m42s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Peter Böringer",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert den Haushaltsentwurf als unrealistisch und bemängelt die viel zu geringen Zinskalkulationen. Er warnt vor einem Schuldenstand von über 3 Billionen Euro bis 2030 und kritisiert die Ausgaben für das Ausland.",
+      "source_title": "Haushaltsgesetz 2027: Schlussberatung",
+      "url": "https://www.youtube.com/watch?v=zMss9f7q_m0&t=1h59m13s",
+      "platform": "Social Media"
+    }
+  ]
+}
