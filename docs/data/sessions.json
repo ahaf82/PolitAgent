@@ -73,7 +73,7 @@
     "topic": "Arbeit und Soziales",
     "summary_path": "protocols/session_94/epl_11_arbeit_und_soziales.md",
     "documents_path": "protocols/session_94/epl_11_arbeit_und_soziales_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_94/epl_11_arbeit_und_soziales_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=5cNGTz2Z_LA",
     "processed_at": "2026-09-15T08:00:57.531085"
   },
@@ -202,7 +202,7 @@
     "top": "Epl 14",
     "topic": "Verteidigung",
     "summary_path": "protocols/session_92/epl_14_verteidigung.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_92/epl_14_verteidigung_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=sxyrQQTDwO4",
     "processed_at": "2026-09-13T08:05:07.155833"

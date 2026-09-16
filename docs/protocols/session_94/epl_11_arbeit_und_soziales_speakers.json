@@ -1,0 +1,104 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema \"Arbeit und Soziales\" wurde von verschiedenen politischen Akteuren mit unterschiedlichen Schwerpunkten und Lösungsansätzen begleitet. Die Regierung betont die Notwendigkeit von Reformen zur Anpassung an wirtschaftliche Umbrüche und zur Stärkung des Sozialstaats, während die Opposition die finanzielle Situation und die Effektivität der Regierungsmaßnahmen kritisiert. Externe Aussagen der Abgeordneten spiegeln diese Positionen wider, wobei der Fokus auf Themen wie Fachkräftemangel, Rentensicherheit, Bürgergeld und die Rolle der Migration im Sozialsystem liegt. Debatten über Kürzungen, Einsparungen und die Verteilung von Lasten prägen die Diskussionen.",
+  "sources": [
+    {
+      "name": "Berbel Bas",
+      "party": "SPD",
+      "found": false,
+      "statement": "Bundesministerin für Arbeit und Soziales, Bärbel Bas, vertritt die Position, dass die Regierung 500 Milliarden Euro zur Gestaltung der Zukunft investiert und Sorgen ernst nehmen will, um Hoffnung durch politische Rahmenbedingungen zu stärken. Sie betonte die Notwendigkeit von Reformen, um den Sozialstaat zukunftsfähig zu machen, und sprach sich gegen pauschale Unterstellungen bezüglich der Einwanderung in Sozialsysteme aus, was zu Kritik führte.",
+      "source_title": "Arbeits- und Sozialministerin Bas wirbt für Reform des Sozialstaats - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulrike Schielke-Ziesig",
+      "party": "AfD",
+      "found": false,
+      "statement": "Als Haushaltspolitikerin und rentenpolitische Sprecherin der AfD-Bundestagsfraktion kritisiert Ulrike Schielke-Ziesig Kürzungen beim Sozialetat als \"abenteuerlich\" in der aktuellen Wirtschaftslage und bezeichnet den Antrag der Linken zur Rentenangleichung als \"wild zusammengewürfelte Wunschliste\".",
+      "source_title": "Ulrike Schielke-Ziesing: Kürzungen beim Sozialetat sind gerade in der jetzigen Lage abenteuerlich - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ren Springer",
+      "party": "AfD",
+      "found": false,
+      "statement": "René Springer kritisiert die Politik der Ampel-Regierung als \"offen inländerfeindlich\", da sie ausländische Arbeitskräfte durch Steuererleichterungen bevorzuge und einheimische Arbeitnehmer benachteilige. Er fordert eine Begrenzung der Zuwanderung und eine Bevorzugung von Deutschen bei Bürgergeldleistungen.",
+      "source_title": "René Springer: Ampel-Pläne zur Anwerbung ausländischer Arbeitskräfte sind offen inländerfeindlich - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mark Diadatz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Peter Aumer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Peter Aumer kritisiert die Sozialpolitik der Ampel als \"unsozial\" und betont, dass die sozialen Sicherungssysteme weiterentwickelt und zukunftsfest gemacht werden müssen. Er ist ordentliches Mitglied im Ausschuss für Arbeit und Soziales und betont die Notwendigkeit, dass diese Systeme weiterentwickelt werden müssen.",
+      "source_title": "Unsoziale Sozialpolitik der Ampel! - CSU-Landesgruppe",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Winkel",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Johannes Winkel, Vorsitzender der Jungen Union, fordert Einsparungen im Sozialbereich in Höhe von \"dutzenden Milliarden im Jahr\" und kritisiert die mangelnde Reformbereitschaft der CDU. Er betont, dass die Bundesregierung keine Angst davor haben dürfe, \"den Leuten Belastungen zuzumuten\".",
+      "source_title": "Keine Angst haben, „den Leuten Belastungen zuzumuten“: JU-Chef Winkel sieht milliardenschweres Einsparpotenzial im Sozialbereich - Tagesspiegel",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leon Eckert",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Armin Grau",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Armin Grau, Sprecher für Arbeit und Soziales der Bundestagsfraktion BÜNDNIS 90/DIE GRÜNEN, erklärt, dass die Koalition sich in einem selbstgewählten Spar- und Konsolidierungsdruck befinde, obwohl Schuldenaufnahme möglich sei. Er kritisiert bewusste sozialpolitische Kürzungen und die Umlegung von Zinskosten auf die breite Gesellschaft.",
+      "source_title": "Prof. Dr. Armin Grau | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Timon Zenus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Timon Dzienus, Obmann für Arbeit und Soziales für Bündnis 90/Die Grünen, kritisiert die geplante Reform des Bürgergelds und wirft der Regierung vor, auf Angst zu setzen und das Land ungerechter zu machen. Er befürchtet, dass die Grundsicherung die Ungleichheit zementieren wird.",
+      "source_title": "Grünen-Politiker Dzienus: \"Erleben einen regelrechten Sanktionsfetischismus\" - WEB.DE",
+      "url": "https://web.de/magazine/politik/gruenen-politiker-dzienus-erleben-regelrechten-sanktionsfetischismus-37075756",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tamara Matzi",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Tamara Mazzi kritisiert, dass wachsende Verteidigungsausgaben zulasten von Kindern und Jugendlichen gehen und dass es \"kalte Kürzungen im Sozialen\" gibt. Sie betont, dass bei der Linken die Partei am ehesten für die Arbeitenden da sei und setzt sich für ein faires Rentensystem ein.",
+      "source_title": "Die für die Arbeitenden: Tamara Mazzi - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sarah Vollart",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sarah Vollath, rentenpolitische Sprecherin ihrer Partei, betont, dass die Rente für ein gutes Leben reichen und den Lebensstandard im Alter sichern muss. Sie kritisiert die Hürden bei der Erwerbsminderungsrente und die geplante Abschaffung der abschlagsfreien Rente nach 45 Jahren als \"Schlag ins Gesicht für Millionen Arbeiterinnen und Arbeiter\".",
+      "source_title": "Reha nicht auf Kosten der Rente! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
