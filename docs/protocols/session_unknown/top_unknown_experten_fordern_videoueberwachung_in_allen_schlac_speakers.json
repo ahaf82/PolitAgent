@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die Debatte im Bundestag zur Videoüberwachung in Schlachthöfen zeigte unterschiedliche Positionen. Während Befürworter wie Dr. Kai Michael Braunmiller und Dr. Melanie Schweizer eine umfassende Überwachung aller Schlachtbetriebe, auch kleinerer, befürworteten, plädierten Vertreter des Fleischerhandwerks wie Konrad Amon für Ausnahmeregelungen für kleinere Betriebe aufgrund finanzieller und organisatorischer Belastungen. Die AfD-Fraktion, vertreten durch Abgeordneten Meiners, lehnte eine verpflichtende Videoüberwachung generell ab und sah darin einen Eingriff in Persönlichkeitsrechte sowie eine Zunahme der Bürokratie. Die SPD, unter anderem durch Jens Behrens, sah Vorteile in der Entlastung von Veterinärbehörden, betonte aber auch die Notwendigkeit klarer Regelungen für Datenschutz und KI-Einsatz. Grüne Abgeordnete wie Dr. Zoe Mayer kritisierten den Entwurf als unzureichend und forderten eine Ausweitung auf alle Betriebe.",
+  "sources": [
+    {
+      "name": "Sylvia Präer",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Kai Michael Braunmiller",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Unterstützt nachdrücklich die verpflichtende Videoüberwachung in allen tierschutzrelevanten Bereichen von Schlachtbetrieben, auch kleineren, und sieht darin ein effektives Instrument zur Prävention und Aufdeckung von Misshandlungen. Er fordert einen Live-Zugriff für Behörden.",
+      "source_title": "Experten fordern Videoüberwachung in allen Schlachthöfen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Melanie Schweizer",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Befürwortet die Videoüberwachung in allen zulassungspflichtigen Schlachtbetrieben, unabhängig von der Größe, und lehnt Ausnahmen für Kleinbetriebe ab. Sie betont die Notwendigkeit klarer Verantwortlichkeiten und Regelungen für die Auswertung, auch unter Einbeziehung von KI.",
+      "source_title": "Tierschutzgesetz: Experten fordern Videoüberwachung in allen Schlachthöfen - Tagesspiegel Background",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Konrad Amon",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Steht der Videoüberwachung prinzipiell offen gegenüber, fordert aber eine Ausnahmeregelung für kleine handwerkliche Schlachtunternehmen aufgrund finanzieller und organisatorischer Belastungen. Er betont, dass die Kameraufzeichnung allein nicht über den Erfolg der Betäubung aussagt und die fachliche Kompetenz des Personals entscheidend ist.",
+      "source_title": "Experten fordern Videoüberwachung in allen Schlachthöfen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jochen Detmer",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Begrüßt die Gesetzesinitiative grundsätzlich, möchte aber die Kleinerzeugerregelung diskutieren. Er sieht keinen signifikanten Nachweis für Verstöße bei kleinen Betrieben und betont den psychologischen Faktor sowie die Wertschätzung der Leistungen kleinerer Betriebe.",
+      "source_title": "Experten fordern Videoüberwachung in allen Schlachthöfen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rüdiger Jürgensen",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Fordert die Ausweitung der Videoüberwachung auf sämtliche Schlachteinrichtungen ohne Ausnahmen und betont die Notwendigkeit der Einbeziehung von KI zur Auswertung. Er sieht 30 Tage Speicherfrist als vertretbar an, wenn KI genutzt wird, andernfalls fordert er 90 Tage.",
+      "source_title": "Experten fordern Videoüberwachung in allen Schlachthöfen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johanna Friebel",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Sieht die verpflichtende Videoüberwachung als sinnvollen Schritt an, betont jedoch den präventiven Effekt. Sie hebt hervor, dass die Anordnungslösung für kleinere Betriebe als nicht praktikabel angesehen wird.",
+      "source_title": "Experten fordern Videoüberwachung in allen Schlachthöfen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frau Eikens",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kollege Meiners",
+      "party": "AfD",
+      "found": true,
+      "statement": "Lehnt Pläne einer verpflichtenden Videoüberwachung in Schlachthöfen ab und kritisiert das Vorhaben als praxisfern und bürokratisch. Er fordert den Rückzug des Gesetzesentwurfs und die Stärkung des Fleischerhandwerks.",
+      "source_title": "AfD gegen verpflichtende Videoüberwachung in Schlachthöfen - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-986452",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kollege Berens",
+      "party": "SPD",
+      "found": true,
+      "statement": "Begrüßt grundsätzlich den Entwurf zur Videoüberwachung und sieht darin eine Möglichkeit zur Entlastung der Veterinärbehörden, betont aber die Notwendigkeit klarer Regelungen bei Speicherfristen und der Anwendbarkeit auf bestimmte Betriebe.",
+      "source_title": "Sicherstellung von Tierschutz beim Schlachten - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/sicherstellung-tierschutz-beim-schlachten",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kollege Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kollegin Ladendorf",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
