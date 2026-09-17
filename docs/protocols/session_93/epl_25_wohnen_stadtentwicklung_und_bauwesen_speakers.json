@@ -1,0 +1,158 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema Wohnen, Stadtentwicklung und Bauwesen offenbarte unterschiedliche Ansichten bezüglich der Haushaltsmittel und der Wirksamkeit staatlicher Förderungen. Während die Koalitionsfraktionen, insbesondere die SPD und CDU/CSU, die Rekordinvestitionen in den sozialen Wohnungsbau und die Bauförderung betonten und verteidigten, kritisierten die Oppositionsfraktionen wie die AfD, Bündnis 90/Die Grünen und Die Linke die geplanten Kürzungen, insbesondere beim Wohngeld, und forderten grundlegende Kurswechsel. Externe Aussagen der Abgeordneten spiegeln diese Debatten wider, wobei die Grünen die Kürzungen des Wohngeldes als sozial ungerecht hervorheben und Die Linke für ein Recht auf Wohnen im Grundgesetz plädiert. Die AfD lehnt die Politik der Regierung generell ab und sieht die Wohnungsnot als verschärft an. Die CDU/CSU unterstützt zwar die Investitionen, fordert aber gleichzeitig Vereinfachungen und eine Förderung von Wohneigentum.",
+  "sources": [
+    {
+      "name": "Verena Hubertz",
+      "party": "SPD",
+      "found": false,
+      "statement": "Als Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen verteidigte sie die Haushaltsmittel für sozialen Wohnungsbau und Bauförderung und betonte die Notwendigkeit staatlicher Handlungsfähigkeit trotz bedauerlicher Kürzungen beim Wohngeld. Sie hob das Sondervermögen als Wachstumsmotor hervor.",
+      "source_title": "Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen. Porträtbild von Verena Hubertz.",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Carolin Bachmann",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Bastian Treuheit",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Thomas Ladzinski",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Axel Knoerig",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er betonte die Rekordinvestitionen in den Wohnungsbau und hob die Bedeutung der Förderung von Wohneigentum für junge Familien sowie den barrierefreien Umbau hervor. Knoerig sieht die Bundesregierung in der Verantwortung, die Baukosten zu senken.",
+      "source_title": "Axel Knoerig spricht zum Bauhaushalt 2027: Rekordinvestitionen für mehr Wohnungsbau",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Kießling",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er ist Mitglied im Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen und betont die Bedeutung von Eigentum als zentralen Baustein im Förderbaukasten.",
+      "source_title": "Michael Kießling - Ausschuss-Mitgliedschaften - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Wilhelm Gebhard",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Gebhard sieht seine Erfahrung als Bürgermeister als passend für den Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen und betont die Notwendigkeit einfacher und unbürokratischer Förderprogramme für Kommunen.",
+      "source_title": "Bundestagsabgeordneter Wilhelm Gebhard zufrieden mit Ausschusszuteilung - Osthessen|News",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lutz Brinkmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er thematisiert die Schwierigkeiten junger Familien beim Erwerb von Wohneigentum und betont die Wichtigkeit von steuerlichen Entlastungen bei Darlehenszinsen.",
+      "source_title": "CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jan Metzler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Lisa Paus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Mayra Vriesema",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Hanna Steinmüller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sie kritisierte die Wohngeldkürzungen als Verschärfung der Situation für Mieter und betonte die Notwendigkeit, Reden und Handeln in Einklang zu bringen.",
+      "source_title": "In der Haushaltsdebatte im Bundestag zu Wohnen, St...",
+      "url": "https://www.br.de/radio/podcasts/index.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sascha Wagner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Er kritisierte, dass der Haushaltsentwurf weit von einem Kurswechsel entfernt sei und dass jährlich mehr Sozialwohnungen aus der Bindung fallen als neu entstehen. Wagner fordert mehr Mittel für sozialen und gemeinnützigen Wohnungsbau.",
+      "source_title": "Rede von Sascha Wagner am 10.09.2026 - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sahra Mirow",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sie kritisiert die angekündigte Wohngeldkürzung als sozialen Kahlschlag und fordert die Verankerung eines Rechts auf Wohnen im Grundgesetz sowie einen Ausbau des sozialen Wohnungsbaus.",
+      "source_title": "Soziales Wohnen - Sahra Mirow",
+      "url": "https://sahra-mirow.de/soziales-wohnen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Hendrik Bollmann",
+      "party": "SPD",
+      "found": false,
+      "statement": "Er betonte die Notwendigkeit realistischen Erwartungsmanagements und die Annäherung von Sprache und Erwartungen an die Realität. Bollmann setzt sich für stabile Wohngeldförderung ein und fordert eine Überarbeitung der Förderprogrammkulisse.",
+      "source_title": "Meine Arbeit in Berlin › Hendrik Bollmann",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Philipp Rottwilm",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er ist stellvertretender Sprecher der SPD-Bundestagsfraktion im Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen und verhandelte unter anderem das Gesetz zur Beschleunigung des Wohnungsbaus („Bau-Turbo“).",
+      "source_title": "Philipp Rottwilm - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Philipp_Rottwilm",
+      "platform": "Website"
+    }
+  ]
+}

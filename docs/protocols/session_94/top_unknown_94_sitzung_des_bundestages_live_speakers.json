@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Haushaltsberatungen für 2027 im Deutschen Bundestag verdeutlichen unterschiedliche Prioritäten der Parteien. Während die Regierungskoalition (SPD) auf Investitionen in Zukunftstechnologien wie KI, Fachkräfteeinwanderung und die Stärkung des Sozialstaats setzt, kritisiert die AfD die Haushaltsführung scharf und fordert eine restriktivere Einwanderungspolitik. Die CDU/CSU betont die Notwendigkeit von Reformen, finanzieller Verantwortung und einer starken Wirtschaft als Basis für den Sozialstaat. Bündnis 90/Die Grünen kritisieren Sparmaßnahmen und mangelnde Finanzierung, während Die Linke die Politik als \"soziale Kälte\" bezeichnet und massive Kürzungen im Sozialbereich gegen Rüstungsausgaben stellt. Externe Aussagen der Abgeordneten spiegeln diese Positionen wider, mit Fokus auf Rentenreformen, Bürgergeld, und die Auswirkungen von KI auf den Arbeitsmarkt.",
+  "sources": [
+    {
+      "name": "Berbel Bas",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Bundesministerin für Arbeit und Soziales betont sie die Notwendigkeit von Reformen zur Stärkung des Sozialstaats, insbesondere bei der Rente, und hebt Investitionen in Zukunftstechnologien wie KI und Fachkräfteeinwanderung hervor. Sie verteidigte die geplante Bürgergeld-Reform und kündigte eine Rentenreform an, um die Finanzierung langfristig zu sichern.",
+      "source_title": "Haushalt 2027: Investieren, reformieren und jeden Euro auf seine Wirkung prüfen",
+      "url": "https://www.spdfraktion.de/themen/bundeshaushalt/bundeshaushalt-2027-investieren-reformieren-und-jeden-euro-auf-seine-wirkung-pruefen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulrike Schielke Ziesik",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert den Etat für Arbeit und Soziales als \"katastrophal\" und wirft der Regierung Unfähigkeit und \"Insolvenzverschleppung\" vor. Sie bemängelt die Rentenreform und fordert eine restriktivere Einwanderungspolitik.",
+      "source_title": "Haushalt 2027: Politik gegen die eigene Bevölkerung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mark Diadatz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont die Notwendigkeit von Ernsthaftigkeit und Verantwortung bei den Haushaltsberatungen und hebt die Wichtigkeit eines starken Sozialstaats sowie die finanziellen Herausforderungen hervor. Er appelliert an die Ministerin, dringende Reformen zu liefern.",
+      "source_title": "Bundeshaushalt 2027: Investieren, reformieren und jeden Euro auf seine Wirkung prüfen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leon Eckert",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Hinterfragt die Sparpolitik der Koalition und kritisiert die Umlegung von Kosten für Darlehen auf die Gesellschaft, was zu sozialen Kürzungen führe. Er bemängelt auch unrealistische Wirtschaftsprognosen und unklare Finanzierungen.",
+      "source_title": "Leon Eckert | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/leon-eckert",
+      "platform": "Website"
+    },
+    {
+      "name": "Tamara Matzi",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisiert die SPD scharf für ihre Sozialpolitik, die Erwerbslose schikaniere und Beschäftigte angreife. Sie moniert die mangelnde Finanzierung von Jobcentern und die Verschärfung von Sanktionen im Gegensatz zu Rüstungsausgaben.",
+      "source_title": "Haushalt 2027: Politik gegen die eigene Bevölkerung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katrin Michel",
+      "party": "SPD",
+      "found": true,
+      "statement": "Verteidigt den starken Sozialstaat als unerlässlich und betont die Notwendigkeit, dass er frühzeitig qualifiziert und Chancen eröffnet. Sie bekräftigt die Bedeutung der Rente und die Verantwortung des Parlaments für deren Zukunft.",
+      "source_title": "Bundeshaushalt 2027: Investieren, reformieren und jeden Euro auf seine Wirkung prüfen",
+      "url": "https://www.spdfraktion.de/themen/bundeshaushalt/bundeshaushalt-2027-investieren-reformieren-und-jeden-euro-auf-seine-wirkung-pruefen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Gerui",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Peter Aumer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betonte die Notwendigkeit eines Blicks auf die 2011 Milliarden Euro für Arbeit und Soziales, hob die Bedeutung des Haushaltsausschusses hervor und sprach sich für eine solide Finanzpolitik aus.",
+      "source_title": "Peter Aumer – Mitglied des Deutschen Bundestages",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}
