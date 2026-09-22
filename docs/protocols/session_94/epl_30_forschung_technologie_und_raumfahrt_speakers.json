@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Bundestagsabgeordneten zum Thema Forschung, Technologie und Raumfahrt spiegeln die Debatten im Plenum wider. Die Bundesministerin Dorothee Bär betont in verschiedenen Kontexten die strategische Bedeutung von Investitionen in diese Sektoren als \"Gameplan für Deutschland\" und hebt Erfolge sowie zukünftige Pläne hervor. Oppositionelle Stimmen, wie die der AfD, äußern sich kritisch zur Haushaltsführung und Priorisierung von Forschungsprojekten, während andere Fraktionen wie die Grünen auf mangelnde Planungssicherheit und unzureichende Finanzierung hinweisen. Die SPD verteidigt die Haushaltsmittel als Investition in die Zukunft und Chancengerechtigkeit. Die Linke kritisiert die Kommerzialisierung der Wissenschaft und die prekären Bedingungen für Forschende. CDU/CSU und FDP positionieren sich in der Verteidigung der Mittel und betonen die Notwendigkeit von Innovation und Wettbewerbsfähigkeit, wobei die FDP auch die Notwendigkeit von Reformen hervorhebt.",
+  "sources": [
+    {
+      "name": "Dorothee Bär",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bundesministerin Bär hob hervor, dass der Haushalt 2027 als \"Gameplan für Deutschland\" diene, um den Erfolg des Landes in Forschung, Technologie und Raumfahrt zu sichern. Sie betonte die Bedeutung von Investitionen in diese Sektoren und kündigte eine Steigerung der Mittel an.",
+      "source_title": "Einzelplan 30: Forschung, Technologie und Raumfahrt",
+      "url": "https://www.youtube.com/watch?v=cegXiA3wMFU&t=33s",
+      "platform": "Website"
+    },
+    {
+      "name": "Serge Minich",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Gesine Schwan",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Anja Hantzsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Heidrun Eichmann",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Nico Bergmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Max Müller",
+      "party": "FDP",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sahra Wagenknecht",
+      "party": "BSW",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
