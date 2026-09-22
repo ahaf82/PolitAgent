@@ -1,27 +1,42 @@
 #!/bin/bash
-# Go to the script directory
-cd "$(dirname "$0")"
+# Go to the repository directory
+cd "$(dirname "$0")" || exit 1
 
-# Activate the virtual environment
-source venv/bin/activate
+# Export PATH for cron environment
+export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$PATH"
+
+# Activate virtual environment if present
+if [ -d "venv" ]; then
+    source venv/bin/activate
+elif [ -d "../venv" ]; then
+    source ../venv/bin/activate
+fi
+
+LOG_FILE="crawler_run.log"
+
+exec >> "$LOG_FILE" 2>&1
 
 echo "=========================================="
-echo "[$(date)] Starting PolitAgent Crawler..."
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] Starting PolitAgent Crawler..."
 
-# Run crawler
-python -u crawler.py
+# Ensure repository is synced with remote before crawling
+git pull origin main --rebase -X ours
 
-echo "[$(date)] Staging files in git..."
+# Run crawler with max-process 50
+python3 -u crawler.py --max-process 50
+
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] Staging files in git..."
 git add .
 
 # Check if there are changes to commit
 if ! git diff-index --quiet HEAD --; then
-    echo "[$(date)] Committing changes..."
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Committing changes..."
     git commit -m "auto: PolitAgent Crawler update"
-    echo "[$(date)] Pushing to GitHub..."
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Pushing to GitHub..."
+    git pull origin main --rebase -X ours
     git push
 else
-    echo "[$(date)] No changes to commit."
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] No changes to commit."
 fi
 
-echo "[$(date)] Done."
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] Done."
