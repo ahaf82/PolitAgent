@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Debatte im Petitionsausschuss zur Aufhebung der Masern-Impfpflicht verdeutlichte die tiefen Gräben zwischen den Befürwortern der Impfpflicht und ihren Kritikern. Während das Bundesministerium für Gesundheit auf wissenschaftliche Erkenntnisse, die Empfehlungen von Experten und die Bestätigung durch das Bundesverfassungsgericht verweist, betonen die Petenten und ihre Unterstützer die Risiken von Impfungen und die ihrer Meinung nach geringe Gefährlichkeit von Masern. Externe Äußerungen von Beate Bahner und Dr. Ronald Weikel konzentrieren sich auf die medizinische und rechtliche Haltlosigkeit der Impfpflicht, wobei sie Studien und Berichte anführen, die den Risiken von Impfungen eine höhere Bedeutung beimessen als der Krankheit selbst. Parlamentarische Staatssekretärin Dr. Christiane Schenderlein hält dem die Notwendigkeit des Gemeinschaftsschutzes und die positiven Auswirkungen der Impfpflicht auf die Impfquoten entgegen.",
+  "sources": [
+    {
+      "name": "Dr. Ronald Weikel",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Dr. Weikel vertritt die Ansicht, dass die Masernimpfpflicht medizinisch und rechtlich nicht haltbar sei und die Risiken der Impfung höher seien als die der Krankheit. Er kritisiert auch die Zweitimpfung als unnötig und potenziell schädlich.",
+      "source_title": "Petition zur Aufhebung der Masernschutzgesetzes und der Masernimpfpflicht (Protokoll der Bundestagsdebatte)",
+      "url": "N/A",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Beate Bahner",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Frau Bahner kritisiert die Ausgrenzung ungeimpfter Kinder aus Kitas als Verstoß gegen die UN-Kinderrechtskonvention und verweist auf Studien, die eine höhere Krankheitsrate bei geimpften Kindern zeigen sollen. Sie sieht die Impfpflicht als \"Gesundheits- und Impftyrannis\".",
+      "source_title": "Der Masern-Mythos und Auswege aus der Impfpflicht - Interview mit Beate Bahner",
+      "url": "https://www.youtube.com/watch?v=a77E8X9NFHA",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Christiane Schenderlein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie betont, dass Masern keine harmlose Krankheit seien und das Ziel die Elimination sei. Die Impfpflicht habe zu einer Erhöhung der Impfquoten geführt und das Bundesverfassungsgericht habe die Regelungen für verfassungskonform erklärt. Hohe Impfquoten seien für den Gemeinschaftsschutz notwendig.",
+      "source_title": "Petition zur Aufhebung der Masernschutzgesetzes und der Masernimpfpflicht (Protokoll der Bundestagsdebatte)",
+      "url": "N/A",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Frau Bucht",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Frau Hess",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Jücksal",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Pellmann",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
