@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21 613 31",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 216 613 32",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 216 806",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21 6913",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21 66917",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte fand im Rahmen einer öffentlichen Anhörung des Innenausschusses statt, bei der Sachverständige zu Gesetzentwürfen zur Stärkung digitaler Ermittlungsbefugnisse angehört wurden. Es gab keine namentliche Abstimmung im Bundestag zu diesem Zeitpunkt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
