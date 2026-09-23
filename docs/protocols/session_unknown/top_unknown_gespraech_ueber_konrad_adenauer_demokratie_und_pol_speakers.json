@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag am 22. September 2026 zum Thema \"Konrad Adenauer, Demokratie und Politik\" offenbarte eine geteilte Rezeption der Reden und Positionen der beteiligten Politiker. Während Bundeskanzlerin a.D. Angela Merkel und Bundestagspräsidentin Julia Klöckner die Bedeutung von Konrad Adenauers politischem Erbe und seine Vision von Demokratie hervorhoben, gab es kaum externe Reaktionen oder Stellungnahmen von Dr. Jacqueline Bönisch zu diesem spezifischen Thema. Angela Merkel äußerte sich auf Twitter kritisch zur Sperrung von Donald Trumps Account, was ihre grundsätzliche Haltung zur Meinungsfreiheit widerspiegelt. Julia Klöckner wurde auf Twitter für eine umstrittene Kampagne kritisiert und verteidigte sich gegen Vorwürfe der Kooperation mit der AfD. Externe Stellungnahmen von Dr. Jacqueline Bönisch, die als Moderatorin auftrat, waren auf den ersten Blick nicht auffindbar, was auf ihre Rolle als externe Expertin außerhalb der politischen Tagesordnung hindeuten könnte.",
+  "sources": [
+    {
+      "name": "Julia Klöckner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Bundestagspräsidentin betonte Julia Klöckner die Bedeutung Konrad Adenauers für die Demokratie und die deutsche Politik. Sie sprach sich gegen eine rein auf Aufregung basierende Debattenkultur aus und betonte die Notwendigkeit, die Meinungsfreiheit zu wahren. Auf Social Media wurde sie jedoch für eine umstrittene Kampagne kritisiert und verteidigte sich gegen Vorwürfe der Nähe zur AfD.",
+      "source_title": "Rede zur Eröffnung der Ausstellung und Social Media Kritik",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-kokoschka-adenauer-1216390",
+      "platform": "Website"
+    },
+    {
+      "name": "Angela Merkel",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Angela Merkel äußerte sich kritisch zur Sperrung von Donald Trumps Twitter-Account und bezeichnete sie als \"problematisch\", da Entscheidungen über Meinungsbeschränkungen rechtlichen Rahmenbedingungen folgen müssten und nicht von Unternehmensentscheidungen abhängen sollten. Sie betonte die Bedeutung Konrad Adenauers für die Demokratie und ihre persönliche Beziehung zu seinem Porträt.",
+      "source_title": "Kommentare zur Twitter-Sperre Trumps und zur Adenauer-Ausstellung",
+      "url": "https://globalnews.ca/news/7569278/angela-merkel-trump-twitter-ban/",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Jacqueline Bönisch",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Es konnten keine externen Aussagen, Reaktionen oder Beiträge von Dr. Jacqueline Bönisch zu diesem spezifischen Thema gefunden werden, die über ihre Rolle als Moderatorin in der Debatte hinausgehen.",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
