@@ -1,0 +1,129 @@
+# Fachgespräch zum digitalen Kinder- und Jugendschutz
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** 2026-09-24
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Fachgespräch zum digitalen Kinder- und Jugendschutz
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=LhxURF5-PUA)
+
+## Kurzzusammenfassung
+Das Fachgespräch befasste sich mit dem Thema Kinder- und Jugendschutz in der digitalen Welt. Es wurde die Notwendigkeit einer breiten und differenzierten Diskussion hervorgehoben, die über die reine Frage von Social-Media-Verboten hinausgeht. Im Fokus standen Schutz, Befähigung und Teilhabe von Kindern und Jugendlichen in digitalen Räumen. Die Arbeit einer eingesetzten Expertenkommission und deren Handlungsempfehlungen bildeten die Grundlage der Debatte, die verschiedene Akteure von Politik und Gesellschaft einbezieht.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch die Bundesministerin):**
+  - Die Einrichtung einer Expertenkommission war ein zentraler Schritt, um eine fundierte Grundlage für Gesetze und Strategien im digitalen Kinder- und Jugendschutz zu schaffen.
+  - Schutz, Teilhabe und Befähigung von Kindern und Jugendlichen sind gleichwertige und gesamtgesellschaftliche Aufgaben.
+  - Die Handlungsempfehlungen der Kommission beziehen alle Ebenen (Bund, Länder, Kommunen) sowie Wissenschaft, Schulen, Jugendhilfe und Eltern ein.
+  - Die Verantwortung der Plattformanbieter muss stärker in den Fokus gerückt werden.
+  - Es braucht sichere Räume für Kinder und Jugendliche, in denen sie kompetent und selbstbestimmt digital aufwachsen können.
+  - Die Regierung plant, Sofortprogramme und Gesetzgebungsinitiativen auf nationaler und europäischer Ebene voranzutreiben.
+- **Expertenkommission (vertreten durch Nadin Schön und Prof. Dr. Olaf Köller):**
+  - Die Arbeit basierte auf dem Dreiklang aus Schutz, Befähigung und Teilhabe und berücksichtigte wissenschaftliche Erkenntnisse, rechtliche Rahmenbedingungen und Praxiserfahrungen.
+  - Die Kommission setzte auf eine breite Zusammensetzung und auf die Einbeziehung von Kindern und Jugendlichen selbst, um deren Perspektiven zu erfassen.
+  - Es wurden 56 Handlungsempfehlungen entwickelt, die sich an diverse Akteure richten, wobei Plattformanbieter eine besondere Verantwortung tragen.
+  - Die Empfehlungen berücksichtigen unterschiedliche Altersphasen und Bedürfnisse von Kindern und Jugendlichen, von der frühesten Kindheit bis zum Jugendalter.
+  - Safety by Design ist ein entscheidender Anknüpfungspunkt für den Schutz.
+  - Es wurden alternative Modelle vorgeschlagen, die auf Designanpassungen und/oder Mindestaltersgrenzen abzielen.
+  - Die EU Kids Act wird als kompatibel mit den Empfehlungen gesehen, insbesondere hinsichtlich Altersverifikation und Elternzustimmung.
+- **Bundesschülerinnenkonferenz (vertreten durch Lilli Berthold):**
+  - Jugendbeteiligung in solchen Kommissionen sollte strukturell verankert und als grundlegend angesehen werden, nicht als optionales Extra.
+  - Der Dreiklang aus Schutz, Befähigung und Teilhabe wird unterstützt.
+  - Die Schulen müssen besser in die Umsetzung von Maßnahmen zur Medienkompetenzförderung eingebunden werden, was jedoch die Infrastruktur und das Fachpersonal betrifft.
+  - Echte Jugendbeteiligung ist essenziell bei Entscheidungen, die die mentale und physische Gesundheit von Jugendlichen betreffen.
+  - Die Fokussierung auf Verbote wird kritisch gesehen; stattdessen sollte die strukturelle Verankerung von Medienkompetenz gestärkt werden.
+  - Mentale Gesundheit und die Belastung durch digitale Medien sind zentrale Anliegen der Jugendlichen, die stärker in den Blick genommen werden müssen.
+  - Es besteht Handlungsbedarf bei der Umsetzung von Handlungsempfehlungen, insbesondere hinsichtlich Fachkräften und Ressourcen an Schulen.
+- **CDU/CSU-Fraktion (vertreten durch Anja Weißgerber):**
+  - Die Nutzung sozialer Medien stellt sowohl eine Herausforderung als auch eine Chance dar, Teilhabe zu ermöglichen, aber auch für die Gesundheit und Bildung von Kindern.
+  - Eltern benötigen praktische Unterstützung und Orientierung im Umgang mit der digitalen Medienwelt ihrer Kinder.
+  - Die EU-Regulierung (EU Kids Act) wird begrüßt, aber es wird betont, dass nationale Gesetzgebung parallel weiter vorangetrieben werden muss.
+  - Es wird nach konkreten nationalen Maßnahmen und der zukünftigen Sicherstellung der Beteiligung junger Menschen gefragt.
+- **AfD-Fraktion (vertreten durch Birgit Bessin):**
+  - Es wird nach der Methodik der Schülerbeteiligung gefragt.
+  - Die Frage, wie Kinder geschützt werden können, während ihre Freiheit gewahrt bleibt, wird aufgeworfen.
+  - Eine aktive und intensivere Medienkompetenzförderung wird gefordert.
+  - Es wird nach Möglichkeiten gefragt, der Frühsexualisierung und dem leichten Zugang zu jugendgefährdenden Inhalten im Internet zu begegnen.
+- **SPD-Fraktion (vertreten durch Jasmina Hustert):**
+  - Der Fokus sollte auf der Umsetzung der Empfehlungen liegen, da kein Erkenntnisproblem bestehe.
+  - Die Unterschiede zwischen dem klassischen Altersgrenzenmodell und dem Design- und risikoorientierten Modell werden erfragt, insbesondere hinsichtlich ihrer Vor- und Nachteile für die Umsetzung.
+  - Die Bewertung des EU Kids Acts wird erfragt.
+- **Bündnis 90/Die Grünen-Fraktion (vertreten durch Denise Lob):**
+  - Eine flächendeckende Medienkompetenzoffensive, die auch Erwachsenenbildung und analoge Angebote umfasst, wird gefordert.
+  - Die Finanzierung dieser Offensive über eine Steuer auf Online-Werbeumsätze großer Digitalplattformen wird vorgeschlagen.
+  - Es wird die fehlende finanzielle Untersetzung vieler Handlungsempfehlungen und die Verantwortung des Bundes bei kostenintensiven Maßnahmen kritisiert.
+  - Die Frage nach der Priorisierung von Handlungsempfehlungen und persönlichen Favoriten der Ministerin wird gestellt.
+  - Die Bedeutung der mentalen Gesundheit von Jugendlichen und die Verknüpfung mit Mediennutzung wird hervorgehoben.
+- **Die Linke-Fraktion (vertreten durch Heidi Reichenck):**
+  - Die wissenschaftlich fundierte Diskussion und die Abkehr von polemischen Debatten über Altersgrenzen werden begrüßt.
+  - Es wird nach konkreten Mitbringseln und wichtigen Anliegen der Jugendlichen gefragt, die möglicherweise noch nicht ausreichend Eingang in den Bericht gefunden haben.
+  - Es wird nach den benötigten Ressourcen und Ansatzpunkten für die finanzielle Umsetzung der Vorschläge gefragt.
+  - Die Bedeutung der Plattformen für die Regulierung und die Finanzierung von Präventionsmaßnahmen wird betont.
+  - Die Auswirkungen des französischen Verbots auf die eigene Gesetzgebung und die konkreten Ideen der Bundesregierung bezüglich der Plattformregulierung werden hinterfragt.
+
+## Chronologischer Debattenverlauf
+- **[00:00:02](https://www.youtube.com/watch?v=LhxURF5-PUA&t=2s)** - **Sitzungsbeginn / Einleitung**: Die Vorsitzende begrüßt die Zuschauerinnen und Zuschauer sowie die Gäste zum öffentlichen Fachgespräch des Ausschusses Bildung, Familie, Senioren, Frauen und Jugend. Tagesordnungspunkt 1 ist das Fachgespräch mit der unabhängigen Expertenkommission zum Thema Kinder- und Jugendschutz in der digitalen Welt. Die Sitzung wird live übertragen und ist im Nachhinein abrufbar. Bild- und Tonaufzeichnungen durch Dritte sind nicht gestattet.
+- **[00:00:40](https://www.youtube.com/watch?v=LhxURF5-PUA&t=40s)** - **Begrüßung der Regierungsvertreter**: Bundesministerin Karin Pries, sowie die parlamentarischen Staatssekretäre Maraike Wulf und Michael Brand werden begrüßt.
+- **[00:00:55](https://www.youtube.com/watch?v=LhxURF5-PUA&t=55s)** - **Begrüßung der externen Gäste**: Die beiden Vorsitzenden der unabhängigen Expertenkommission, Nadin Schön und Professor Dr. Olaf Köller, sowie die stellvertretende Generalsekretärin der Bundesschülerinnenkonferenz, Lilli Berthold, werden begrüßt.
+- **[00:01:32](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1m32s)** - **Verteilen der Präsentation**: Die PowerPoint-Präsentation der Expertenkommission wurde vorab verteilt.
+- **[00:01:41](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1m41s)** - **Einführung in das Thema**: Die Vorsitzende betont die Aktualität und breite gesellschaftliche Relevanz des Themas Kinder- und Jugendschutz in der digitalen Welt. Sie hebt hervor, dass die Diskussion differenziert geführt wird und über die Frage von Social-Media-Verboten hinausgeht.
+- **[00:02:15](https://www.youtube.com/watch?v=LhxURF5-PUA&t=2m15s)** - **Vereinbarung zur Expertenkommission**: Die Koalition hat eine Expertenkommission eingesetzt, um Gefahren und Potenziale digitaler Mediennutzung durch Kinder und Jugendliche zu erarbeiten. Der Fokus liegt auf Schutz, Befähigung und Teilhabe.
+- **[00:02:41](https://www.youtube.com/watch?v=LhxURF5-PUA&t=2m41s)** - **Internationale Entwicklungen**: Verweise auf den Vergleich mit Meta in den USA und den EU Kids Act als europäische Initiative.
+- **[00:03:15](https://www.youtube.com/watch?v=LhxURF5-PUA&t=3m15s)** - **Ziele der Expertenkommission**: Die Kommission sieht Schutz, Teilhabe und Befähigung als gleichwertige gesamtgesellschaftliche Aufgaben und bezieht Handlungsempfehlungen auf verschiedene Ebenen (Bund, Länder, Kommunen) und Akteure (Wissenschaft, Schulen, Eltern, Anbieter).
+- **[00:04:03](https://www.youtube.com/watch?v=LhxURF5-PUA&t=4m3s)** - **Zusätzliche Ausarbeitung in Auftrag gegeben**: Der Forschungsausschuss hat eine Ausarbeitung des Büros für Technikfolgenabschätzung zum Konsum digitaler sozialer Medien bei Erwachsenen und dessen Auswirkungen auf Kinder in Auftrag gegeben.
+- **[00:04:40](https://www.youtube.com/watch?v=LhxURF5-PUA&t=4m40s)** - **Ablauf des Fachgesprächs**: Einleitung durch die Bundesministerin (ca. 5 Minuten), Statements der externen Gäste (je 5 Minuten) und zwei Frage-Antwort-Runden (45 Minuten insgesamt, später 4 Minuten pro Fraktion).
+- **[00:05:27](https://www.youtube.com/watch?v=LhxURF5-PUA&t=5m27s)** - **Einleitende Worte der Bundesministerin Karin Pries**: Sie betont die Bedeutung des Themas und die Arbeit der Expertenkommission.
+- **[00:06:00](https://www.youtube.com/watch?v=LhxURF5-PUA&t=6m0s)** - **Einberufung der Expertenkommission**: Die Bundesregierung hat bewusst eine Expertenkommission einberufen, um eine fundierte Grundlage für Gesetze und Strategien zu schaffen.
+- **[00:06:23](https://www.youtube.com/watch?v=LhxURF5-PUA&t=6m23s)** - **Arbeit der Kommission**: 18 Mitglieder aus verschiedenen Fachbereichen leisteten eine anspruchsvolle Aufgabe, einschließlich Anhörungen mit Kindern und Jugendlichen.
+- **[00:07:03](https://www.youtube.com/watch?v=LhxURF5-PUA&t=7m3s)** - **Ergebnisse der Kommission**: 56 Handlungsempfehlungen, die sich auf staatliche und nichtstaatliche Ebenen beziehen und Handlungsbedarfe klar zuordnen.
+- **[00:07:44](https://www.youtube.com/watch?v=LhxURF5-PUA&t=7m44s)** - **Schutz von jungen Menschen**: Das Thema ist auf allen Ebenen relevant, auch auf europäischer Ebene.
+- **[00:08:53](https://www.youtube.com/watch?v=LhxURF5-PUA&t=8m53s)** - **Einbeziehung junger Menschen**: Besonderer Wert wurde auf Gespräche *mit* jungen Menschen gelegt, deren Perspektiven sehr differenziert waren.
+- **[00:10:10](https://www.youtube.com/watch?v=LhxURF5-PUA&t=10m10s)** - **Safety by Design**: Dies wird als entscheidender Anknüpfungspunkt für den Schutz genannt.
+- **[00:10:16](https://www.youtube.com/watch?v=LhxURF5-PUA&t=10m16s)** - **Gesamtstrategie notwendig**: Es gibt keine einfache Lösung, sondern eine Gesamtstrategie für alle Akteure.
+- **[00:10:23](https://www.youtube.com/watch?v=LhxURF5-PUA&t=10m23s)** - **Altersgrenze**: Die Notwendigkeit einer Altersgrenze wird als Teil der Lösung genannt.
+- **[00:10:40](https://www.youtube.com/watch?v=LhxURF5-PUA&t=10m40s)** - **Beginn der Statements der Gäste**: Nadin Schön beginnt mit ihren Ausführungen.
+- **[00:10:50](https://www.youtube.com/watch?v=LhxURF5-PUA&t=10m50s)** - **Nadin Schön zur Arbeitsweise der Kommission**: Die Kommission wurde vor einem Jahr eingesetzt mit dem Auftrag, eine ressort- und ebenenübergreifende Strategie zu erarbeiten.
+- **[00:12:14](https://www.youtube.com/watch?v=LhxURF5-PUA&t=12m14s)** - **Leitlinie der Kommission**: Nicht die "Social Media Verbotskommission", sondern Ausrichtung auf den Dreiklang aus Schutz, Befähigung und Teilhabe.
+- **[00:13:01](https://www.youtube.com/watch?v=LhxURF5-PUA&t=13m1s)** - **Zusammensetzung der Kommission**: Sehr divers, u.a. Pädagogen, Psychologen, Ethiker, Medienwissenschaftler, Praktiker, Kriminologen.
+- **[00:13:30](https://www.youtube.com/watch?v=LhxURF5-PUA&t=13m30s)** - **Begleitung und Sparringspartner**: Beobachterstatus von u.a. KMK, JFMK, unabhängigen Beauftragten zur Schaffung von Handlungsempfehlungen für den föderalen Kontext.
+- **[00:14:18](https://www.youtube.com/watch?v=LhxURF5-PUA&t=14m18s)** - **Strategische Vorausschau**: Die Kommission arbeitete mit strategischer Vorausschau, um das dynamische Themenfeld zu berücksichtigen.
+- **[00:14:35](https://www.youtube.com/watch?v=LhxURF5-PUA&t=14m35s)** - **Umfassende wissenschaftliche Bestandsaufnahme**: Erstellt und vorgestellt im April.
+- **[00:14:44](https://www.youtube.com/watch?v=LhxURF5-PUA&t=14m44s)** - **Diskussion und Input**: Viele Anhörungen, Einzelgespräche und Dokumentenlieferungen zur Sammlung diverser Perspektiven.
+- **[00:15:13](https://www.youtube.com/watch?v=LhxURF5-PUA&t=15m13s)** - **Kinder- und Jugendbeteiligung**: Erstes Hearing mit Kindern und Jugendlichen, Nutzung bestehender Beiräte, Workshops und Gespräche in Schulklassen.
+- **[00:15:57](https://www.youtube.com/watch?v=LhxURF5-PUA&t=15m57s)** - **Ergebnis der Arbeit**: Liegt vor, Professor Köller wird auf die Inhalte eingehen.
+- **[00:16:03](https://www.youtube.com/watch?v=LhxURF5-PUA&t=16m3s)** - **Professor Dr. Olaf Köller zur Entwicklungsperspektive**: Kindheit und Jugend werden von 0-18 Jahren betrachtet, mit unterschiedlichen Altersphasen und Bedürfnissen.
+- **[00:16:37](https://www.youtube.com/watch?v=LhxURF5-PUA&t=16m37s)** - **Verantwortungsbasiertes Modell**: Unterschiedliche Akteure (Eltern, frühe Hilfen, Kitas, Schulen, außerschulische Akteure) spielen je nach Alter eine größere Rolle.
+- **[00:19:01](https://www.youtube.com/watch?v=LhxURF5-PUA&t=19m1s)** - **Gruppierung der Handlungsempfehlungen**: Nach Akteursgruppen, mit dem längsten Balken bei den Plattformen (Safety by Design, Mindestaltersfeststellung, altersgestufter Ansatz).
+- **[00:20:02](https://www.youtube.com/watch?v=LhxURF5-PUA&t=20m2s)** - **Adressaten: Eltern und Familien**: Fokus auf Unterstützung, insbesondere für überforderte Eltern.
+- **[00:20:39](https://www.youtube.com/watch?v=LhxURF5-PUA&t=20m39s)** - **Gesundheit, Beratung, Therapie**: Einschließlich Kinderärzte und die Notwendigkeit der ICD-11 für die Operationalisierung von Internetsucht.
+- **[00:21:11](https://www.youtube.com/watch?v=LhxURF5-PUA&t=21m11s)** - **Statement von Lilli Berthold (Bundesschülerinnenkonferenz)**: Sie vertritt fast 8 Millionen Schüler bundesweit und äußert Kritik an der Bezeichnung "Jugendbeteiligung", da diese strukturell verankert sein sollte.
+- **[00:22:06](https://www.youtube.com/watch?v=LhxURF5-PUA&t=22m6s)** - **Unterstützung der Kommission**: Befürwortung des Dreiklangs Schutz, Befähigung, Teilhabe.
+- **[00:22:40](https://www.youtube.com/watch?v=LhxURF5-PUA&t=22m40s)** - **Beteiligung der Schulen**: Die Einbindung von Schulen und die Notwendigkeit von Fortbildungen und Medienkompetenz werden positiv bewertet, die Umsetzungsinfrastruktur wird jedoch als fragwürdig eingeschätzt.
+- **[00:23:48](https://www.youtube.com/watch?v=LhxURF5-PUA&t=23m48s)** - **Wunsch nach eigener Beteiligung**: Die Bundesschülerinnenkonferenz hätte sich gewünscht, Teil der Expertenkommission zu sein.
+- **[00:24:06](https://www.youtube.com/watch?v=LhxURF5-PUA&t=24m6s)** - **Appell an die Politik**: Jugendliche sehen sich als Handreichung und wünschen sich mehr Zusammenarbeit und eine strukturelle Jugendbeteiligung.
+- **[00:24:33](https://www.youtube.com/watch?v=LhxURF5-PUA&t=24m33s)** - **Beginn der ersten Fragerunde**: Für die CDU/CSU-Fraktion spricht Anja Weißgerber.
+- **[00:24:49](https://www.youtube.com/watch?v=LhxURF5-PUA&t=24m49s)** - **Frage 1 an die Experten**: Welche Unterstützung benötigen Familien konkret, um Orientierung in der digitalen Medienwelt geben zu können?
+- **[00:25:43](https://www.youtube.com/watch?v=LhxURF5-PUA&t=25m43s)** - **Frage an die Ministerin**: Welche konkreten Maßnahmen werden auf nationaler Ebene vorangetrieben, und wie wird die Beteiligung junger Menschen zukünftig garantiert?
+- **[00:26:46](https://www.youtube.com/watch?v=LhxURF5-PUA&t=26m46s)** - **Antwort der Kommission zur Elternunterstützung**: Eltern spielen eine maßgebliche Rolle; es gibt Empfehlungen für Kampagnen, Informationen durch Ärzte und frühe Hilfen, die bestehende Angebote skalieren und zugänglicher machen. Individuelle Bedürfnisse von Familien müssen berücksichtigt werden.
+- **[00:37:40](https://www.youtube.com/watch?v=LhxURF5-PUA&t=37m40s)** - **Antwort der Ministerin zu nationalen Maßnahmen**: Bemühungen werden unverzüglich aufgenommen, inklusive Gesetzgebungs- und Sofortprogrammen bis Jahresende. Die EU-Gespräche werden intensiviert. Kinder- und Jugendschutz wird als wichtiges Ziel genannt.
+- **[00:35:27](https://www.youtube.com/watch?v=LhxURF5-PUA&t=35m27s)** - **Antwort der Kommission zu den Modellen (SPD-Frage)**: Beide Modelle setzen am Design der Plattformen an (Safety by Design). Das eine Modell setzt an einzelnen Features an (entwicklungsoffen), das andere Modell an Plattformen mit einer Mindestaltersgrenze (schneller umsetzbar, leichter zu beaufsichtigen).
+- **[00:38:18](https://www.youtube.com/watch?v=LhxURF5-PUA&t=38m18s)** - **Stellungnahme zum EU Kids Act**: Kompatibel mit den Empfehlungen, diskutiert Altersbegrenzung, Altersverifikation und Elternzustimmung. Die Audi Wallet wird als mögliche technische Lösung für datenschutzkonforme Altersverifikation genannt.
+- **[00:39:38](https://www.youtube.com/watch?v=LhxURF5-PUA&t=39m38s)** - **Fragen der Grünen-Fraktion**: Denise Lob fragt Lilli Berthold zur öffentlichen Wahrnehmung von Altersgrenzen/Verboten im Vergleich zur mentalen Gesundheit, und nach der finanziellen Untersetzung und Priorisierung von Empfehlungen.
+- **[00:42:09](https://www.youtube.com/watch?v=LhxURF5-PUA&t=42m9s)** - **Lilli Berthold zur mentalen Gesundheit**: Studien (z.B. von der Techniker Krankenkasse, DAK) zeigen die Belastung von Jugendlichen durch Mediennutzung. Mentale Gesundheit ist eine Konsequenz, wenn Jugendliche vernachlässigt werden. Hohe Zahlen von Überlastung und Burnout-Symptomen bei Jugendlichen.
+- **[00:44:43](https://www.youtube.com/watch?v=LhxURF5-PUA&t=44m43s)** - **Fragen der Linken-Fraktion**: Heidi Reichenck fragt Lilli Berthold nach konkreten Mitbringseln aus den Debatten und an die Kommission nach den benötigten Ressourcen und Ideen zur Finanzierung.
+- **[00:45:48](https://www.youtube.com/watch?v=LhxURF5-PUA&t=45m48s)** - **Lilli Berthold zu Umsetzungsmängeln**: Defizite in der Umsetzung, insbesondere bei der Medienkompetenzoffensive in Schulen und beim Fachpersonal, werden bemängelt.
+- **[00:46:51](https://www.youtube.com/watch?v=LhxURF5-PUA&t=46m51s)** - **Kommission zu Ressourcen und Finanzierung**: Es gibt bereits viele gute Angebote, die skaliert und bekannter gemacht werden sollten. Kreative Lösungen und die Nutzung bestehender Programme (z.B. Stadchancenprogramm) werden vorgeschlagen, um Kosten zu sparen.
+- **[00:49:49](https://www.youtube.com/watch?v=LhxURF5-PUA&t=49m49s)** - **Zweite Fragerunde CDU/CSU**: Abgeordneter Körner fragt zur Altersverifikation (inkl. Datenschutzstandards und EUDI Wallet) und KI-Companions, sowie zur Einbindung der Länder und zur Kinder- und Jugendbeteiligung.
+- **[00:52:27](https://www.youtube.com/watch?v=LhxURF5-PUA&t=52m27s)** - **Ministerin zur Einbindung der Länder**: Die Länder werden frühzeitig einbezogen, Gespräche mit Ministerkonferenzen beginnen im Oktober.
+- **[00:54:02](https://www.youtube.com/watch?v=LhxURF5-PUA&t=54m2s)** - **Zweite Fragerunde AfD**: Sebastian Mark fragt zum Spannungsverhältnis Familie/staatliche Einrichtungen und zur Differenzierung bei Messengerdiensten.
+- **[00:55:19](https://www.youtube.com/watch?v=LhxURF5-PUA&t=55m19s)** - **Kommission zu Familien und staatlichem Eingreifen**: Ziel ist die Ertüchtigung der Familien in ihrem Erziehungsauftrag, nicht Bevormundung. Schulischer Erziehungsauftrag spielt bei Medienkompetenz eine Rolle.
+- **[00:56:30](https://www.youtube.com/watch?v=LhxURF5-PUA&t=56m30s)** - **Kommission zu Technologieoffenheit und Messengerdiensten**: Regulatorik muss technologieoffen sein und sich weiterentwickeln. Messengerdienste sind teilweise vom DSA erfasst und Empfehlungen im Jugendschutzgesetz werden diskutiert.
+- **[00:58:17](https://www.youtube.com/watch?v=LhxURF5-PUA&t=58m17s)** - **Zweite Fragerunde SPD**: Truls Reicher fragt Lilli Berthold nach problematischen Funktionen auf Plattformen und Wünschen zur Verbesserung.
+- **[00:58:44](https://www.youtube.com/watch?v=LhxURF5-PUA&t=58m44s)** - **Lilli Berthold zu problematischen Funktionen**: Layouts und Designs, die zu stark auf kleine Kinder ausgerichtet sind und die kritische Reflexion behindern (endlos Feeds, süchtig machende Mechanismen).
+- **[01:00:40](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1h0m40s)** - **Umkehr der Frage**: Mediennutzungsverhalten von Erwachsenen wird angesprochen, und was bei ihnen angepackt werden müsste.
+- **[01:01:51](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1h1m51s)** - **Schnelle Maßnahmen in Schulen**: Breitere Fachkräfteabdeckung (Lehrkräfte, Sozialarbeit, Gesundheitsfachkräfte, Medienkompetenz-Coaches) und Ausstattung auf breiter Basis.
+- **[01:02:15](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1h2m15s)** - **Zweite Fragerunde Bündnis 90/Die Grünen**: Denise Lob fragt nach priorisierten Handlungsempfehlungen (Kommission) und persönlichen Favoriten der Ministerin.
+- **[01:03:05](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1h3m5s)** - **Ministerin zu Prioritäten**: Regulatorik (europäische Lösungen), Kompetenzen (KI Seeferdchen, Präventions- und Hilfesysteme) und niedrigschwellige Angebote.
+- **[01:06:26](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1h6m26s)** - **Zweite Fragerunde Die Linke**: Nicole Golke fragt die Ministerin nach der finanziellen Untersetzung von Vorschlägen und den Umgang mit der Kritik am französischen Verbot.
+- **[01:08:31](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1h8m31s)** - **Ministerin zu Plattformen und Finanzierung**: Plattformen sind der erste Ansprechpartner für Regulatorik. Die EU-Ebene ist zentral. Plattformen müssen für Schäden zahlen. Haushaltäre Mittel für Kinder- und Jugendplan werden diskutiert.
+- **[01:10:42](https://www.youtube.com/watch?v=LhxURF5-PUA&t=1h10m42s)** - **Abschluss des Fachgesprächs**: Dank an die Ministerin und die Experten. Die Sitzung wird geschlossen, Zuschauer werden gebeten, den Raum zu verlassen.
