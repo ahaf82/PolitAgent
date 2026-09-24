@@ -1,0 +1,90 @@
+# Anhörung zum Hitzeschutz
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Hearing on Heat Protection
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=YTiQO6Ou2to)
+
+## Kurzzusammenfassung
+Die Anhörung im Gesundheitsausschuss befasste sich mit dem Antrag von Bündnis 90/Die Grünen zur "Hitzekrise ernst nehmen, Hitzeschutz verbindlich, sozial gerecht und finanziell absichern". Es wurden die dramatischen gesundheitlichen und ökonomischen Auswirkungen von Hitzeperioden erörtert, die insbesondere vulnerable Gruppen treffen. Diskutiert wurden sowohl akute als auch potenzielle Langzeitfolgen von Hitzeexposition, die Notwendigkeit umfassender nationaler Hitzeschutzsysteme sowie die Rolle von Prävention, Klimaanpassung und Klimawandelreduktion.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bündnis 90/Die Grünen**:
+  - Hitzewellen stellen ein signifikantes Gesundheits- und ökonomisches Risiko dar und sind das tödlichste Extremwetterereignis.
+  - Die Auswirkungen von Hitze sind sozial asymmetrisch verteilt, benachteiligen vulnerable und sozioökonomisch schwache Gruppen besonders stark.
+  - Forderung nach einem sozialgerechten, umfassenden nationalen Hitzeschutzsystem mit sektorübergreifender Erweiterung und Beschleunigung des bundesweiten Hitzeschutzplans.
+  - Notwendigkeit einer konsistenten Finanzierung durch Kooperation von Bund und Ländern sowie gezielte Unterstützung des Gesundheits- und Pflegesystems.
+  - Verankerung kommunaler Maßnahmen zum Schutz vulnerabler Gruppen und des Arbeitsschutzes bei extremen Temperaturen.
+
+- **CDU/CSU**:
+  - Befragung zur Klärung von Erkennislücken bezüglich Langzeitfolgen wiederholter Hitzeexposition.
+  - Fokus auf die Rolle der Kommunen bei der Umsetzung von Hitzeschutzmaßnahmen und die kurzfristige Verbesserung bestehender Strukturen.
+  - Anfrag zur Effektivität bestehender Informations- und Beratungsangebote für Kommunen im Bereich Klimaanpassung.
+
+- **SPD**:
+  - Betonen der Dringlichkeit des Themas Hitzeschutz und Anerkennung des Antrags der Grünen.
+  - Darstellung konkreter Schicksale von Hitzetoten aus dem Alltag (Feuerwehrberichte).
+  - Frage nach den Herausforderungen und Ergebnissen von Befragungen zur Hitzebetroffenheit von Bewohnern und Mitarbeitenden in Einrichtungen der Arbeiterwohlfahrt.
+  - Nachfrage zu biometeorologischen Faktoren bei Hitzewarnungen und dem Zugang zu Hitzeschutzangeboten für vulnerable Gruppen.
+
+- **AfD**:
+  - Hinterfragen der Definition von Hitzetoten und der Daten zur Hitzebedingten Mortalität im Vergleich zu anderen Todesursachen (z.B. Grippewelle).
+  - Direkte Frage zur Finanzierbarkeit und zur Priorisierung von Klimaanlagen in Krankenhäusern und Pflegeheimen im Vergleich zu klimaneutralen Maßnahmen.
+
+- **Die Linke**:
+  - Befragung zur Bewertung der rechtlichen Vorgaben für Hitzeschutzbeschäftigte im Gesundheitssystem und zur Notwendigkeit bundesrechtlicher Regelungen.
+  - Frage zur Vermeidung zusätzlicher Arbeitsbelastung für knappes Personal bei der Organisation von Hitzeschutz in Kliniken und Pflegeheimen.
+
+- **Sachverständige (z.B. Prof. Jansens, Dr. Schneider, Dr. Dreidel Hoffmann, Meschede, Elxner, Mazarakes, Scheller)**:
+  - **Prof. Jansens (Intensivmediziner)**: Schilderung extremer Belastungen für Personal und Patienten in Krankenhäusern bei Hitze, fehlende Klimatisierung, hohe Sterblichkeit bei Hitzeschlag, Forderung nach gesamtgesellschaftlicher Verantwortung und Finanzierung. Betonung, dass Klimatisierung von Krankenhäusern nicht flächendeckend finanzierbar sei, sondern fokussierte Maßnahmen nötig seien.
+  - **Dr. Schneider (Helmholtz Zentrum)**: Hinweise auf mögliche Langzeitfolgen von Hitze (Beschleunigung der biologischen Alterung, Verschlechterung bestehender Erkrankungen, Auswirkungen auf psychische Gesundheit), Notwendigkeit von Kohortenstudien, Forderung nach besseren Daten zur Morbidität und Erfassung über Notaufnahmen und Rettungsdienste.
+  - **Dr. Dreidel Hoffmann (WBGU)**: Forderung, Hitze als Gesundheitsrisiko ernst zu nehmen, Klimaanpassung und Klimawandelreduktion parallel zu verfolgen, Berücksichtigung von Hitzeschutz bei Stadt- und Hausplanung, Schutz des Personals in Gesundheitseinrichtungen, Hitzeschutz als Wirtschaftsschutz (Prognos-Studie).
+  - **Meschede (Allianz Klimawandel und Gesundheit)**: Erläuterung der Arbeitsschutzregeln für Hitze, Herausforderungen bei der Umsetzung in der ambulanten Pflege, Forderung nach einrichtungsbezogenen Hitzeschutzplänen und Finanzierung von Klimaanpassungsmanagern.
+  - **Elxner (Städte- und Gemeindebund)**: Betonung der Rolle der Kommunen, Notwendigkeit von Warnmanagement, Sensibilisierung und Zusammenarbeit mit Wohlfahrtsorganisationen.
+  - **Mazarakes (Universität Freiburg)**: Erläuterung des komplexen deutschen Hitzewarnsystems, das über die reine Temperatur hinausgeht (gefühlte Temperatur, Nachtsituation, urbane Wärmeinseln), Bedeutung der Nacht für Erholung, Forderung nach Koordination der Informationsweitergabe und Erreichung vulnerabler Gruppen ("letzte Meile").
+  - **Scheller (Deutsches Institut für Urbanistik)**: Kritik an der Vielzahl und Komplexität von Förderprogrammen, Vorschlag einer "Gemeinschaftsaufgabe Klimaschutz/Klimaanpassung" im Grundgesetz zur Bündelung von Mitteln und Vereinfachung.
+
+## Chronologischer Debattenverlauf
+- **[00:00:09](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=0m9s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird durch die Vorsitzende eröffnet, die die Anwesenden, darunter die Stadtsekretärin Dr. Schenderlein, begrüßt. Es wird auf die Anhörung zu einem Antrag von Bündnis 90/Die Grünen zum Thema Hitzeschutz eingegangen.
+- **[00:51](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=0m51s)** - **Antrag der Grünen**: Die Vorsitzende stellt den Antrag "Hitzekrise ernst nehmen, Hitzeschutz verbindlich, sozial gerecht und finanziell absichern" vor. Kernpunkte des Antrags sind die Einstufung von Hitze als tödlichstes Extremwetterereignis, die sozial asymmetrische Verteilung der Risiken und die Forderung nach einem umfassenden nationalen Hitzeschutzsystem.
+- **[02:32](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=2m32s)** - **Ablauf der Anhörung**: Die Vorsitzende erläutert den Ablauf der Anhörung von 60 Minuten, die abwechselnde Fragenstellung durch die Fraktionen, die Begrenzung von Frage- und Antwortzeit auf maximal 3 Minuten und die Live-Übertragung sowie Veröffentlichung des Protokolls.
+- **[04:05](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=4m5s)** - **Offenlegung von Interessenkonflikten**: Hinweis an die Sachverständigen zur Offenlegung finanzieller Interessenverknüpfungen gemäß Geschäftsordnung.
+- **[04:36](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=4m36s)** - **Hinweise für Gäste und Aufzeichnungen**: Gäste auf der Besuchertribüne werden auf das Verbot von Beifallsbekundungen und Zwischenrufen hingewiesen.
+- **[04:55](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=4m55s)** - **Erste Frage (Bündnis 90/Die Grünen)**: Kollege Johannes Wagner (Bündnis 90/Die Grünen) richtet eine Frage an Professor Jansens.
+- **[05:04](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=5m4s)** - **Frage an Prof. Jansens (Intensivmedizin)**: Wagner fragt nach den Auswirkungen von Hitzewellen auf Patienten und Mitarbeitende im Krankenhaus, insbesondere in Systemen, die bereits an der Belastungsgrenze arbeiten.
+- **[05:45](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=5m45s)** - **Antwort Prof. Jansens**: Jansens beschreibt die enorme Belastung für Mitarbeitende, fehlende Klimatisierung in Wartebereichen, die psychische Belastung durch die Bergung von Verstorbenen und die hohe Sterblichkeit bei Hitzeschlägen. Er fordert eine gesamtgesellschaftliche Verantwortung und politische Unterstützung zur Finanzierung.
+- **[08:14](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=8m14s)** - **Frage an Dr. Schneider (CDU/CSU)**: Kollege von Big (CDU/CSU) fragt Dr. Schneider vom Helmholtz Zentrum nach Erkennislücken bei Langzeitfolgen von Hitzeexposition.
+- **[08:51](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=8m51s)** - **Antwort Dr. Schneider (Langzeitfolgen)**: Schneider erklärt, dass die Langzeitfolgen von Hitze (biologisches Altern, Verschlechterung von Vorerkrankungen, psychische Gesundheit) noch untererforscht seien und betont die Bedeutung von Kohortenstudien.
+- **[11:05](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=11m5s)** - **Frage an Dr. Schneider (AfD)**: Bloch (AfD) fragt nach der Definition eines Hitzetodes und den Abgrenzungskriterien bei Mehrfacherkrankungen.
+- **[11:35](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=11m35s)** - **Antwort Dr. Schneider (Definition Hitzetod)**: Schneider erläutert, dass die Berechnung über Übersterblichkeitsmethoden erfolgt, indem die tatsächliche Mortalität mit der erwarteten verglichen wird.
+- **[12:37](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=12m37s)** - **Frage an Frau Mandrisch (SPD)**: Kollege Hüchsel (SPD) fragt Frau Mandrisch von der Arbeiterwohlfahrt nach Herausforderungen und Ergebnissen ihrer Befragung zur Hitzebetroffenheit.
+- **[13:45](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=13m45s)** - **Antwort Frau Mandrisch (AWO)**: Mandrisch berichtet von hoher Betroffenheit (82%), körperlicher Belastung und Kreislaufproblemen bei Mitarbeitenden und Bewohnern. Sie hebt hervor, dass nur wenige Einrichtungen Kühlmöglichkeiten besitzen und betont die Notwendigkeit hitzeresistenter Gebäude.
+- **[16:02](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=16m2s)** - **Regelung der Redezeit**: Die Vorsitzende erinnert an die Zeitbegrenzung von 3 Minuten pro Frage und Antwort.
+- **[16:27](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=16m27s)** - **Frage an Prof. Dreidel Hoffmann (Bündnis 90/Die Grünen)**: Kollege Wagner (Bündnis 90/Die Grünen) fragt Prof. Dreidel Hoffmann nach den wichtigsten Maßnahmen zur Hitzekrise.
+- **[17:07](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=17m7s)** - **Antwort Prof. Dreidel Hoffmann (Maßnahmen)**: Dreidel Hoffmann betont die Notwendigkeit von Klimaanpassung und Klimawandelreduktion, das Ernstnehmen von Hitze als Gesundheitsrisiko, die Berücksichtigung von Hitzeschutz bei Stadt- und Hausplanung sowie den Schutz des Personals in Krankenhäusern. Sie nennt auch Hitzeschutz als Wirtschaftsschutz.
+- **[19:30](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=19m30s)** - **Frage an Frau Meschede (Die Linke)**: Frau Meredino (Die Linke) fragt Frau Meschede von der Allianz Klimawandel und Gesundheit nach rechtlichen Vorgaben für Hitzeschutz im Gesundheitssystem.
+- **[20:00](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=20m0s)** - **Antwort Frau Meschede (Arbeitsschutz)**: Meschede erklärt die geltenden Arbeitsschutzregeln (ab 26°C Maßnahmen, ab 30°C Pflichtmaßnahmen, ab 35°C keine Eignung als Arbeitsstätte) und die Herausforderungen bei der Umsetzung, insbesondere in der ambulanten Pflege. Sie fordert einrichtungsbezogene Hitzeschutzpläne.
+- **[22:29](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=22m29s)** - **Frage an Herrn Elxner (CDU/CSU)**: Kollege von Big (CDU/CSU) fragt Herrn Elxner vom Deutschen Städte- und Gemeindebund nach kurzfristig umsetzbaren Maßnahmen in den Kommunen.
+- **[23:08](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=23m8s)** - **Antwort Herr Elxner (Kommunen)**: Elxner betont die Nutzung und Ertüchtigung bestehender Strukturen, Warnmanagement, Zusammenarbeit mit Wohlfahrtsorganisationen und Sensibilisierung. Er nennt auch die Wichtigkeit von Maßnahmen in der Häuslichkeit (Lüften, Ernährung) und kommunalen Hitzepartnerschaften.
+- **[25:10](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=25m10s)** - **Erneute Frage an Prof. Jansens (Bündnis 90/Die Grünen)**: Kollege Wagner (Bündnis 90/Die Grünen) stellt eine weitere Frage an Prof. Jansens.
+- **[25:31](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=25m31s)** - **Frage an Prof. Jansens (DIVI)**: Herr Sichert (AfD) fragt Prof. Jansens nach der Priorisierung von Geldern für Klimaanlagen in Pflegeheimen und Krankenhäusern im Vergleich zu Stadtumbau und Begrünung. Er hinterfragt die Sinnhaftigkeit der Investition in Klimaanlagen im Vergleich zu Maßnahmen, die erst langfristig wirken.
+- **[26:46](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=26m46s)** - **Antwort Prof. Jansens (Klimaanlagen vs. Stadtumbau)**: Jansens betont, dass beides wichtig sei ("beides tun"). Er hebt hervor, dass Klimaanlagen in vielen Wohnungen nicht realistisch seien und fordert die Etablierung von frühzeitigen Warnsystemen und persönlicher Betreuung. Er hält die vollständige Klimatisierung aller Krankenhäuser für illusorisch.
+- **[32:31](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=32m31s)** - **Erneute Frage an Prof. Jansens (SPD)**: Kollege Jöksel (SPD) fragt Prof. Jansens nach seinen Forderungen an die Bundespolitik zur Finanzierung von Klimaanlagen in Krankenhäusern.
+- **[32:34](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=32m34s)** - **Antwort Prof. Jansens (Finanzierung und Personal)**: Jansens erklärt, dass Krankenhäuser die klimatechnischen Maßnahmen nicht stemmen könnten und die Finanzierung durch das GKV-Einsparungsgesetz verschärft werde. Er betont die Notwendigkeit von finanziellen Mitteln zur Aufstockung des Personals und zur Daseinsvorsorge.
+- **[34:52](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=34m52s)** - **Frage an Prof. Mazarakis (CDU/CSU)**: Herr von Big (CDU/CSU) fragt Prof. Mazarakis nach der Erreichbarkeit von Hitzewarnungen für vulnerable Gruppen und den Schwächen auf der "letzten Meile".
+- **[35:31](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=35m31s)** - **Antwort Prof. Mazarakis (Erreichbarkeit Warnungen)**: Mazarakis bestätigt die Solidität des deutschen Hitzewarnsystems, hebt aber hervor, dass die Warnungen vulnerable Gruppen oft nicht erreichen. Er betont die Wichtigkeit von Verhaltens- und Informationsangeboten ("Denk an Menschen") und die Notwendigkeit der Koordination der Informationsweitergabe.
+- **[37:54](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=37m54s)** - **Frage an Prof. Jansens (Die Linke)**: Dr. Arnt (Die Linke) fragt Prof. Jansens, wie verhindert werden kann, dass Hitzeschutz in Krankenhäusern und Pflegeheimen zu zusätzlicher Arbeitsbelastung führt.
+- **[39:04](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=39m4s)** - **Antwort Prof. Jansens (Personalentlastung)**: Jansens betont, dass Politik gefordert sei, Geld bereitzustellen, und nennt die Mittel des Landes NRW als unzureichend. Er fordert strukturelle Veränderungen und finanzielle Mittel von Bund, Ländern und Kommunen.
+- **[40:36](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=40m36s)** - **Erwiderung und erneute Frage an Prof. Jansens (AfD)**: Herr Sichert (AfD) widerspricht der Darstellung der Kosten für Klimatisierung von Krankenhäusern und fragt Prof. Jansens erneut nach seiner Ablehnung der 20 Milliarden Investition für Klimaanlagen in Alten- und Pflegeheimen.
+- **[50:33](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=50m33s)** - **Antwort Prof. Jansens (Kosten und Priorisierung)**: Jansens klärt Missverständnisse bezüglich der Kosten und betont, dass Operationssäle etc. bereits klimatisiert seien. Er wiederholt, dass die vollständige Klimatisierung nicht finanzierbar sei und eine fokussierte Vorgehensweise notwendig sei.
+- **[52:03](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=52m3s)** - **Frage an Dr. Schneider (CDU/CSU)**: Herr von Big (CDU/CSU) fragt Dr. Schneider nach den notwendigen Datenquellen und Erhebungssystemen zur Erfassung hitzebedingter Morbidität in Echtzeit.
+- **[52:38](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=52m38s)** - **Antwort Dr. Schneider (Daten und Systeme)**: Schneider erklärt, dass vorhandene Gesundheits- und Umweltdaten stärker standardisiert und bundesweit verknüpft nutzbar gemacht werden müssten. Sie fordert ein mehrstufiges Surveillance-System, das Notaufnahmen, Krankenhäuser und Rettungsdienste einschließt.
+- **[55:05](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=55m5s)** - **Erneute Frage an Prof. Dreidel Hoffmann (Bündnis 90/Die Grünen)**: Kollege Wagner (Bündnis 90/Die Grünen) fragt Prof. Dreidel Hoffmann nach der Berücksichtigung von Empfehlungen des WBGU durch die Bundesregierung.
+- **[56:01](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=56m1s)** - **Antwort Prof. Dreidel Hoffmann (Umsetzung von Empfehlungen)**: Dreidel Hoffmann verweist auf Gutachten, die natürliche Infrastruktur als kritische Infrastruktur anerkennen und finanziell umsetzbar machen könnten. Sie betont die Notwendigkeit der stärkeren Förderung von natürlicher Infrastruktur.
+- **[57:49](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=57m49s)** - **Frage an das Deutsche Institut für Urbanistik (SPD)**: Kollege Hüchsel (SPD) fragt nach drei konkreten Empfehlungen des Instituts, was der Bund für die Kommunen tun kann.
+- **[58:35](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=58m35s)** - **Antwort (Institut für Urbanistik)**: Es wird die Einführung einer "Gemeinschaftsaufgabe" im Grundgesetz vorgeschlagen, um Förderprogramme zu bündeln und die Finanzierung zu sichern.
+- **[01:00:03](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=1h0m3s)** - **Frage an Prof. Mazarakis (CDU/CSU)**: Herr Schachf (CDU/CSU) fragt Prof. Mazarakis nach kurzfristig wirksamen Maßnahmen und ob dafür neue Regelungen notwendig seien.
+- **[01:00:30](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=1h0m30s)** - **Antwort Prof. Mazarakis (Kurzfristige Maßnahmen)**: Mazarakis betont, dass keine neuen Hitzewarnungen nötig seien, sondern bestehende Systeme weiterentwickelt werden müssten. Er hebt die Bedeutung der Erreichbarkeit von Informationen für vulnerable Gruppen und die Koordination von Aktionen hervor. Er warnt vor den negativen Effekten von Klimaanlagen auf urbane Wärmeinseln.
+- **[01:02:46](https://www.youtube.com/watch?v=YTiQO6Ou2to&t=1h2m46s)** - **Schlusswort der Vorsitzenden**: Die Vorsitzende bedankt sich bei den Sachverständigen und schließt die Anhörung.

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Abgeordneten zum Thema Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung spiegeln die im Bundestag geführten Debatten wider. Florian Müller (CDU/CSU) betont die Notwendigkeit von Forschungssicherheit angesichts globaler Rivalitäten und die Stärkung der technologischen Souveränität Deutschlands, insbesondere im Hinblick auf die Hightech Agenda. Nicole Höchst (AfD) äußert Bedenken hinsichtlich der Mittelverwendung und der Transparenz bei der Mittelherkunft, während sie auch die Wichtigkeit der Forschungssicherheit hervorhebt. Sonja Lemke (Die Linke) kritisiert die Prioritätensetzung im Forschungshaushalt und fordert mehr Transparenz, insbesondere bei der Hightech Agenda, und warnt vor einer zu einseitigen wirtschaftlichen Ausrichtung der Forschung. Herr Kaschmereck (SPD) unterstreicht die Bedeutung von Innovationen als Wachstumstreiber und die Notwendigkeit, Abhängigkeiten, insbesondere von China, zu reduzieren, wobei er die Forschungssicherheit als integralen Bestandteil hervorhebt.",
+  "sources": [
+    {
+      "name": "Florian Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Florian Müller hebt die Bedeutung der Forschungssicherheit im Kontext systemischer Rivalität hervor und betont die Notwendigkeit, die technologische Souveränität Deutschlands durch die Hightech Agenda zu stärken. Er fordert gemeinsame, verbindliche Leitlinien für Kooperationen mit Drittstaaten.",
+      "source_title": "Cispa-Bericht: Wie die Community auf die Vorwürfe reagiert",
+      "url": "https://table.media/research/analyse/cispa-bericht-wie-die-community-auf-die-vorwuerfe-reagiert",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frau Höchst",
+      "party": "AfD",
+      "found": true,
+      "statement": "Nicole Höchst kritisiert die steigende globale Minderausgabe und fordert eine klare Priorisierung bei der Mittelverwendung. Sie äußert zudem Sorge vor einer Konkurrenzsituation von Forschung und Technologie mit Sozialleistungen und Renten und verlangt mehr Transparenz bei der Mittelherkunft.",
+      "source_title": "Nicole Höchst - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/nicole-hoechst/abstimmungen",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Herr Kaschmereck",
+      "party": "SPD",
+      "found": true,
+      "statement": "Herr Kaschmereck betont die Rolle von Innovationen als Haupttreiber für Wachstum und die Notwendigkeit, Abhängigkeiten, insbesondere von China, zu reduzieren. Er hebt hervor, dass Forschungssicherheit professionell aufgestellt werden muss.",
+      "source_title": "Herr Kaschmereck (SPD) - Stellungnahme zum Haushalt",
+      "url": "N/A",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Frau Aar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Frau Aar äußert Skepsis bezüglich der Arbeitsfähigkeit der nationalen Plattform für Forschungssicherheit und kritisiert, dass die Steigerung im Einzelplan 30 die Preissteigerungen nicht ausgleicht. Sie warnt vor einer sinkenden Finanzierung in der Planung.",
+      "source_title": "Frau Aar (Bündnis 90/Die Grünen) - Stellungnahme zum Haushalt",
+      "url": "N/A",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Frau Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Frau Lemke äußert Besorgnis über die Höhe der globalen Minderausgaben und fordert mehr Transparenz bezüglich der Hightech Agenda. Sie kritisiert die hohen Mittel für die KI-Gigafabrik und die einseitige wirtschaftliche Ausrichtung der Forschung.",
+      "source_title": "Frau Lemke (Die Linke) - Stellungnahme zum Haushalt",
+      "url": "N/A",
+      "platform": "Plenum"
+    }
+  ]
+}

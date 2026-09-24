@@ -1,0 +1,104 @@
+{
+  "synthesis": "Abgeordnete verschiedener Fraktionen haben sich außerhalb des Plenums zum Thema Hitzeschutz geäußert, wobei die Grünen einen umfassenden nationalen Hitzeschutzplan fordern, der finanzielle Absicherung und soziale Gerechtigkeit einschließt. Die SPD betont die Dringlichkeit und fordert Maßnahmen wie einen nationalen Hitzeaktionsplan sowie Änderungen im Bauplanungsrecht. Die CDU/CSU äußert sich eher zurückhaltend bezüglich der Aufnahme von Klimaanpassung ins Grundgesetz und betont die Rolle der Kommunen sowie die Bezahlbarkeit von Wohnraum. Die Linke kritisiert die Bundesregierung für mangelnde Ernsthaftigkeit und fordert konkrete Maßnahmen wie kühle Schutzräume und Schutz für Arbeitnehmer, wobei sie Hitze als „Klassenfrage“ bezeichnet. Expertaussagen untermauern die Notwendigkeit schnellerer und umfassenderer Maßnahmen.",
+  "sources": [
+    {
+      "name": "Johannes Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Johannes Wagner hat einen 10-Punkte-Plan zum Hitzeschutz veröffentlicht, der eine stärkere Finanzierung und die Berücksichtigung von Patient*innen und Personal in Gesundheitseinrichtungen vorsieht. Er betont die Notwendigkeit, Hitzeschutz ernst zu nehmen und hebt die Bedeutung von Klimaschutz für die Gesundheit hervor.",
+      "source_title": "10-Punkte-Plan Hitzeschutz | Johannes Wagner, MdB",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-pa-gesundheit-1209732",
+      "platform": "Website"
+    },
+    {
+      "name": "von Big",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Bloch",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Hüchsel",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Meredino",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Prof. Jansens",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Uwe Janssens kritisiert die geringe Erfassung von Hitzetoten und fordert einen verbindlichen nationalen Hitzeschutzplan sowie mehr Geld für Kliniken. Er bemängelt eine 'gesellschaftliche Vernachlässigung' und betont die Notwendigkeit von Nachbarschaftshilfe.",
+      "source_title": "Hitzetote in Deutschland: Intensivmediziner Uwe Janssens hält RKI-Schätzung für zu niedrig",
+      "url": "https://www.spiegel.de/gesundheit/hitzetote-in-deutschland-intensivmediziner-uwe-janssens-haelt-rki-schaetzung-fuer-zu-niedrig-a-80e0728a-d0e8-432a-9e33-7cbae10fba94",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Schneider",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Prof. Dreidel Hoffmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Prof. Dr. Helena Dreidel Hoffmann vom Wissenschaftlichen Beirat der Bundesregierung Globale Umweltveränderungen (WBGU) betont die Notwendigkeit, Hitze als Gesundheitsrisiko ernst zu nehmen und gleichzeitig Klimaanpassung und Klimaschutz zu verfolgen. Sie hebt die Bedeutung von Stadt- und Hausplanung sowie den Schutz von Personal in Gesundheitseinrichtungen hervor.",
+      "source_title": "WBGU: Hitzeschutz ernst nehmen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Frau Meschede",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Elxner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Frau Mandrisch",
+      "party": "SPD",
+      "found": false,
+      "statement": "Claudia Mandrysch von der Arbeiterwohlfahrt (AWO) berichtet von einer hohen Betroffenheit von Mitarbeitenden und Bewohnern durch Hitze und betont die Notwendigkeit von hitzeresistenten Gebäuden, da nur wenige Einrichtungen über Kühlmöglichkeiten verfügen. Sie fordert einen Hitzegipfel.",
+      "source_title": "Hitzeschutzgipfel gefordert: Hitze trifft Schwächere härter",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

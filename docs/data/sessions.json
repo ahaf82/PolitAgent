@@ -1,5 +1,31 @@
 [
   {
+    "id": "J1lrlMRKcAk",
+    "title": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgen...",
+    "session": 0,
+    "date": "2026-09-24",
+    "top": "N/A",
+    "topic": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "summary_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_forschung_technologie_raumfahrt_und.md",
+    "documents_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_forschung_technologie_raumfahrt_und_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_forschung_technologie_raumfahrt_und_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=J1lrlMRKcAk",
+    "processed_at": "2026-09-24T08:03:58.082835"
+  },
+  {
+    "id": "2Hdo5IKh11A",
+    "title": "Ausschuss für Tourismus",
+    "session": 0,
+    "date": "2026-09-24",
+    "top": "N/A",
+    "topic": "Ausschuss für Tourismus",
+    "summary_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_tourismus.md",
+    "documents_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_tourismus_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=2Hdo5IKh11A",
+    "processed_at": "2026-09-24T08:04:25.086815"
+  },
+  {
     "id": "Hf-9GRjw4b8",
     "title": "Geteiltes Echo zur Stärkung digitaler Ermittlungsbefugnisse",
     "session": 0,
@@ -5712,6 +5738,71 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=YPl4rx_wtvM",
     "processed_at": "2026-07-13T08:04:11.123508"
+  },
+  {
+    "id": "JANMFWqch-k",
+    "title": "Hearing on the Prosecution of Human Trafficking",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zur Strafverfolgung von Menschenhandel",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_the_prosecution_of_human_trafficking.md",
+    "documents_path": "protocols/session_unknown/top_unknown_hearing_on_the_prosecution_of_human_trafficking_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=JANMFWqch-k",
+    "processed_at": "2026-09-24T08:00:52.604479"
+  },
+  {
+    "id": "I2leVo8rfU0",
+    "title": "Discussion with Federal Minister Lars Klingbeil",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Gespräch mit Bundesminister Lars Klingbeil",
+    "summary_path": "protocols/session_unknown/top_unknown_discussion_with_federal_minister_lars_klingbeil.md",
+    "documents_path": "protocols/session_unknown/top_unknown_discussion_with_federal_minister_lars_klingbeil_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=I2leVo8rfU0",
+    "processed_at": "2026-09-24T08:01:23.047967"
+  },
+  {
+    "id": "6pQSv32FUQ8",
+    "title": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Novellierung des Baugesetzbuches zur Modernisierung des Städte-, Bau- und Raumordnungsrechtes",
+    "summary_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_wohnen_stadtentwicklung_bauwesen_un.md",
+    "documents_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_wohnen_stadtentwicklung_bauwesen_un_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=6pQSv32FUQ8",
+    "processed_at": "2026-09-24T08:01:53.497963"
+  },
+  {
+    "id": "180a8IBmclU",
+    "title": "Expert Discussion on the Future of Work",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Expertenanhörung zur Zukunft der Arbeit",
+    "summary_path": "protocols/session_unknown/top_unknown_expert_discussion_on_the_future_of_work.md",
+    "documents_path": "protocols/session_unknown/top_unknown_expert_discussion_on_the_future_of_work_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=180a8IBmclU",
+    "processed_at": "2026-09-24T08:02:19.757832"
+  },
+  {
+    "id": "YTiQO6Ou2to",
+    "title": "Hearing on Heat Protection",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zum Hitzeschutz",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_heat_protection.md",
+    "documents_path": "protocols/session_unknown/top_unknown_hearing_on_heat_protection_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_hearing_on_heat_protection_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=YTiQO6Ou2to",
+    "processed_at": "2026-09-24T08:02:59.948076"
   },
   {
     "id": "vHNXQug-Frc",
