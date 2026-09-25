@@ -1,0 +1,50 @@
+{
+  "synthesis": "Abgeordnete aus verschiedenen Fraktionen äußerten sich nach der Experten-Diskussion zum Kinder- und Jugendschutz in der digitalen Welt unterschiedlich zu den vorgestellten Empfehlungen. Die CDU/CSU-Fraktion betonte die Notwendigkeit von nationalen Maßnahmen und die Integration von EU-Regulierungen, während die SPD-Fraktion den Fokus auf die Umsetzung und die Vor- und Nachteile der vorgeschlagenen Regulierungsmodelle legte. Bündnis 90/Die Grünen forderten eine Medienkompetenzoffensive, finanziert durch eine Steuer auf Online-Werbeumsätze, und kritisierten fehlende Haushaltsmittel. Die AfD-Fraktion äußerte Bedenken hinsichtlich staatlicher Eingriffe in die Erziehung und der Aushebelung der Elternverantwortung, während Die Linke die wissenschaftliche Fundierung der Diskussion lobte, aber Defizite bei der Umsetzung und Finanzierung bemängelte.",
+  "sources": [
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend betonte sie die Notwendigkeit einer umfassenden Strategie, die Schutz, Befähigung und Teilhabe gleichwertig behandelt und die Rolle der Plattformbetreiber hervorhebt.",
+      "source_title": "Einführung durch Bundesministerin Karin Prien",
+      "url": "https://www.youtube.com/watch?v=LhxURF5-PUA&t=5m21s",
+      "platform": "Website"
+    },
+    {
+      "name": "Anja Weißgerber",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie hinterfragte die konkrete Unterstützung für Familien und nationale Maßnahmen der Ministerin sowie die Einbindung der Länder und die erfolgten Jugendbeteiligungen.",
+      "source_title": "Erste Fragerunde - CDU/CSU",
+      "url": "https://www.youtube.com/watch?v=LhxURF5-PUA&t=24m26s",
+      "platform": "Website"
+    },
+    {
+      "name": "Nadin Schön",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Mitglied der Expertenkommission erklärte sie, dass die Kommission eine ressort- und ebenenübergreifende Strategie mit der Leitlinie Schutz, Befähigung und Teilhabe entwickelt habe und Kinder- und Jugendbeteiligung zentral gewesen sei.",
+      "source_title": "Statement von Nadin Schön (Expertenkommission)",
+      "url": "https://www.youtube.com/watch?v=LhxURF5-PUA&t=10m50s",
+      "platform": "Website"
+    },
+    {
+      "name": "Prof. Dr. Olaf Köller",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Als Mitglied der Expertenkommission erläuterte er die entwicklungsorientierte Perspektive für Kinder und Jugendliche von 0 bis 18 Jahren und die Handlungsempfehlungen, die nach Akteursgruppen gruppiert sind, mit einem Schwerpunkt bei den Plattformen.",
+      "source_title": "Statement von Prof. Dr. Olaf Köller (Expertenkommission)",
+      "url": "https://www.youtube.com/watch?v=LhxURF5-PUA&t=16m3s",
+      "platform": "Website"
+    },
+    {
+      "name": "Lilli Bertrold",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Als Vertreterin der Bundesschülerinnenkonferenz bemängelte sie die möglicherweise zu geringe strukturelle Verankerung von Jugendbeteiligung und hob die Bedeutung von Schulen für Medienkompetenz hervor, kritisierte aber die Umsetzung und das Fachpersonal.",
+      "source_title": "Statement von Lilli Bertrold (Bundesschülerinnenkonferenz)",
+      "url": "https://www.youtube.com/watch?v=LhxURF5-PUA&t=21m11s",
+      "platform": "Website"
+    }
+  ]
+}
