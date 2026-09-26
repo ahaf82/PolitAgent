@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Fragestunde im Deutschen Bundestag thematisierte primär die deutsche Landwirtschaft, wobei die Abgeordneten verschiedene Aspekte wie Agrarreformen, Klimafolgen und die Unterstützung von Landwirten diskutierten. Außerhalb des Plenums zeigten die identifizierten Abgeordneten unterschiedliche Schwerpunkte in ihren Positionen. Bernd Schattner (AfD) warnt vor einer zu bürokratischen Ausgestaltung des Düngegesetzes und der Unterstützung des Weinbaus. Dr. Ophelia Nick (Bündnis 90/Die Grünen) betont die Notwendigkeit, Frauen in der Landwirtschaft mehr Verantwortung zu übertragen und sichert die Unterstützung bei der Anpassung an den Klimawandel zu. Marcel Bauer (Die Linke) kritisiert den Druck auf Landwirte durch Großkonzerne und fordert Maßnahmen zum Schutz der Versorgungssicherheit. Karl Bär (Bündnis 90/Die Grünen) setzt sich für eine ökologische Landwirtschaft ohne Gift und Gentechnik ein und betont die Notwendigkeit, die bäuerliche Landwirtschaft zu erhalten. Stephan Brandner (AfD) äußert Kritik an der Bundesregierung hinsichtlich der Lage der Landwirtschaft und fordert konkrete Hilfen. Dr. Ingo Hahn (AfD) thematisiert das Höfesterben und fordert Änderungen der Rahmenbedingungen. Stefan Schröder (AfD) tritt für weniger bürokratische Hürden beim Einsatz von Agrardrohnen ein und fordert Hilfen für landwirtschaftliche Betriebe angesichts von Dürre und Ernteausfällen.",
+  "sources": [
+    {
+      "name": "Stefan Schröder",
+      "party": "AfD",
+      "found": true,
+      "statement": "Stefan Schröder (AfD) fordert angesichts von Dürre, Ernteausfällen und gestiegenen Betriebskosten Unterstützung für landwirtschaftliche Betriebe und weniger bürokratische Hürden beim Einsatz von Agrardrohnen.",
+      "source_title": "AfD fordert Hilfen für landwirtschaftliche Betriebe und Entbürokratisierung bei Agrardrohnen",
+      "url": "https://www.bundestag.de/parlament/praesidium/990474-990474",
+      "platform": "Presse"
+    },
+    {
+      "name": "Bernd Schattner",
+      "party": "AfD",
+      "found": false,
+      "statement": "Bernd Schattner (AfD) kritisiert die Komplexität bürokratischer Prozesse im Zusammenhang mit dem Düngegesetz und fragt nach konkreten Maßnahmen zur Förderung des Weinbaus.",
+      "source_title": "Bernd Schattner - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Zoe Mayer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ophelia Nick",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Ophelia Nick (Bündnis 90/Die Grünen) betont die Notwendigkeit, Frauen in der Landwirtschaft mehr rechtliche Verantwortung zu übertragen und sichert die Unterstützung bei der Anpassung an den Klimawandel zu.",
+      "source_title": "Ophelia Nick - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Marcel Bauer",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Marcel Bauer (Die Linke) kritisiert den Druck auf Landwirte durch Großkonzerne und fordert Maßnahmen zum Schutz der heimischen Landwirtschaft und zur Sicherstellung einer bezahlbaren Versorgung.",
+      "source_title": "Marcel Bauer - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Karl Bär",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Karl Bär (Bündnis 90/Die Grünen) setzt sich für eine ökologische Landwirtschaft ohne Gift und Gentechnik ein, die mit der Natur arbeitet, und betont die Notwendigkeit, die bäuerliche Landwirtschaft zu erhalten und zu sichern.",
+      "source_title": "Karl Bär | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/karl-baer",
+      "platform": "Website"
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "found": false,
+      "statement": "Stephan Brandner (AfD) äußert Kritik an der Bundesregierung hinsichtlich der Lage der Landwirtschaft und fordert konkrete, unbürokratische Hilfen für Landwirte.",
+      "source_title": "Stephan Brandner - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Ingo Hahn",
+      "party": "AfD",
+      "found": false,
+      "statement": "Dr. Ingo Hahn (AfD) thematisiert das Höfesterben und fragt nach konkreten Änderungen der Rahmenbedingungen, um diesem entgegenzuwirken.",
+      "source_title": "Ingo Hahn - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

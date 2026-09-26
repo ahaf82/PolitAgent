@@ -26,6 +26,19 @@
     "processed_at": "2026-09-24T08:04:25.086815"
   },
   {
+    "id": "O3JKZx-tu74",
+    "title": "95th Session on 09/23/2026. Agenda Item 3: Amendment of the Criminal Code - Protection against da...",
+    "session": 95,
+    "date": "2026-09-23",
+    "top": "3",
+    "topic": "Änderung des Strafgesetzbuches – Schutz vor KO-Tropfen",
+    "summary_path": "protocols/session_95/3_amendment_of_the_criminal_code_protection_against_.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=O3JKZx-tu74",
+    "processed_at": "2026-09-26T08:03:06.408200"
+  },
+  {
     "id": "Hf-9GRjw4b8",
     "title": "Geteiltes Echo zur Stärkung digitaler Ermittlungsbefugnisse",
     "session": 0,
@@ -2635,6 +2648,32 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "JvPHK4gjHrk",
+    "title": "95th session of 23 September 2026. Agenda item 5: Digital Identity Act",
+    "session": 95,
+    "date": "N/A",
+    "top": "5",
+    "topic": "Digitale Identitäten: EUDI-Wallet wird in Deutschland eingeführt",
+    "summary_path": "protocols/session_95/5_95th_session_of_23_september_2026_agenda_item_5_di.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=JvPHK4gjHrk",
+    "processed_at": "2026-09-26T08:01:38.733154"
+  },
+  {
+    "id": "oHlcHgf6aXU",
+    "title": "95th Session of 09/23/2026. Agenda Item 4: Tax Law",
+    "session": 95,
+    "date": "N/A",
+    "top": "4",
+    "topic": "95. Sitzung des Deutschen Bundestages vom 23.09.2026. TOP 4: Steuerrecht",
+    "summary_path": "protocols/session_95/4_95th_session_of_09_23_2026_agenda_item_4_tax_law.md",
+    "documents_path": "protocols/session_95/4_95th_session_of_09_23_2026_agenda_item_4_tax_law_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=oHlcHgf6aXU",
+    "processed_at": "2026-09-26T08:02:40.772608"
   },
   {
     "id": "9k0GAmsSMPY",
@@ -5831,6 +5870,19 @@
     "processed_at": "2026-09-25T08:07:51.468533"
   },
   {
+    "id": "rtc_eP2RNtY",
+    "title": "Disinformation campaigns against development cooperation",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit",
+    "summary_path": "protocols/session_unknown/top_unknown_disinformation_campaigns_against_development_coope.md",
+    "documents_path": "protocols/session_unknown/top_unknown_disinformation_campaigns_against_development_coope_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_disinformation_campaigns_against_development_coope_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=rtc_eP2RNtY",
+    "processed_at": "2026-09-26T08:01:15.020407"
+  },
+  {
     "id": "vHNXQug-Frc",
     "title": "71st meeting of April 16, 2026. Agenda item 9: Wearing of headscarves by children in schools",
     "session": 0,
@@ -6334,6 +6386,19 @@
     "processed_at": "2026-06-05T15:39:31.406536",
     "speakers_path": null,
     "documents_path": "protocols/session_unknown/2_79th_meeting_of_may_20_2026_agenda_item_2_deployme_documents.json"
+  },
+  {
+    "id": "Sjnqx3VrHf8",
+    "title": "95th meeting of September 23, 2026. Agenda item 2: Question period",
+    "session": 0,
+    "date": "N/A",
+    "top": "2",
+    "topic": "Fragestunde im Deutschen Bundestag",
+    "summary_path": "protocols/session_unknown/2_95th_meeting_of_september_23_2026_agenda_item_2_qu.md",
+    "documents_path": "protocols/session_unknown/2_95th_meeting_of_september_23_2026_agenda_item_2_qu_documents.json",
+    "speakers_path": "protocols/session_unknown/2_95th_meeting_of_september_23_2026_agenda_item_2_qu_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=Sjnqx3VrHf8",
+    "processed_at": "2026-09-26T08:05:46.549084"
   },
   {
     "id": "UpqQLgFgWFE",

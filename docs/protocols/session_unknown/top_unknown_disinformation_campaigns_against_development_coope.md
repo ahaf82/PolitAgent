@@ -8,103 +8,79 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=rtc_eP2RNtY)
 
 ## Kurzzusammenfassung
-Die Debatte im Bundestag thematisierte gezielte Desinformationskampagnen, die die Entwicklungszusammenarbeit behindern. Es wurde die wachsende Sorge über die negative Beeinflussung der öffentlichen Meinung und die Diffamierung von Hilfsorganisationen durch gezielte Falschinformationen und Manipulationen hervorgehoben. Die Bundesregierung präsentierte ihre Strategien zur Bekämpfung von Desinformation durch Monitoring, Analyse, Resilienzaufbau und Debunking, während zivilgesellschaftliche Organisationen auf die Bedrohung durch "Shrinking Spaces" und die Notwendigkeit von internationaler Regulierung und Unterstützung verwiesen.
+Die Sitzung befasste sich mit gezielten Desinformationskampagnen gegen die Entwicklungszusammenarbeit. Es wurde die wachsende Bedrohung durch Falschinformationen beleuchtet, die sowohl die Legitimität von Entwicklungsprojekten als auch staatliche Institutionen untergraben. Sowohl die Bundesregierung als auch zivilgesellschaftliche Organisationen berichteten über ihre Strategien zur Analyse, Erkennung und Bekämpfung dieser Kampagnen. Diskutiert wurden die Rolle von Technologie, die Notwendigkeit zur Stärkung der Resilienz und die Abgrenzung zwischen legitimer Kritik und Desinformation.
 
 ## Kernaussagen und Positionen der Fraktionen
-- **Bundesregierung (Vertreten durch parlamentarischen Staatssekretär Johann Saathoff):**
-  - Desinformation behindert zunehmend die Arbeit an den Zielen der Agenda 2030 und untergräbt die Legitimität der Entwicklungszusammenarbeit.
-  - Im deutschen Informationsraum werden Projekte dekontextualisiert und Finanzierungssummen falsch dargestellt, um einen Gegensatz zwischen nationalen und internationalen Interessen zu konstruieren.
-  - Im Ausland werden zivilgesellschaftliche Partner und Menschenrechtsverteidiger als "ausländische Agenten" diffamiert.
-  - Es gibt eine klare Abgrenzung zwischen legitimer Kritik und Desinformation, die bewusst erfundene Aussagen nutzt und durch Bots und Fake Accounts verstärkt wird.
-  - Die Bundesregierung hat eine interministerielle Projektgruppe und eine eigene Strategie mit den Bausteinen Monitoring, Analyse, Resilienz und Debunking implementiert.
-  - Auf internationaler Ebene wird ein "Whole of Society" Ansatz verfolgt, der Regulierung von Plattformen, Förderung von Medienkompetenz und Unterstützung unabhängiger Medien beinhaltet.
-  - Glaubwürdigkeit wird durch nachvollziehbare Entscheidungen, offene Daten und sichtbare Wirkungen gestärkt; ein Reformplan des BMZ setzt hier Schwerpunkte.
+- **Bundesregierung (vertreten durch Parlamentarischen Staatssekretär Johann Saathoff):**
+  - Desinformationskampagnen behindern zunehmend die Arbeit an den Zielen der Agenda 2030 und untergraben die Legitimität der Entwicklungspolitik.
+  - In Deutschland wird die Entwicklungszusammenarbeit oft dekontextualisiert und Finanzierungssummen falsch dargestellt, um einen Gegensatz zur eigenen Bevölkerung zu konstruieren.
+  - Im Ausland werden zivilgesellschaftliche Partnerorganisationen und Menschenrechtsverteidiger als ausländische Agenten diffamiert.
+  - Die Bundesregierung hat eine Strategie mit den Bausteinen Monitoring, Analyse, Resilienz und Debunking umgesetzt, inklusive einer interministeriellen Projektgruppe zur Erkennung ausländischer Informationsmanipulation.
+  - Ziel ist es, die Voraussetzungen für eine informierte und demokratische Debatte über Entwicklungszusammenarbeit zu schaffen.
 
-- **Center for Monitoring, Analysis and Strategy (Julia Smirnova):**
-  - Definition von Desinformation als absichtliche Verbreitung von falschen oder irreführenden Informationen zur Manipulation und Schaden.
-  - Einführung des Begriffs "Foreign Information Manipulation and Interference" (FIMI), der den Fokus auf manipulative und koordinierte Verhaltensweisen legt.
-  - Desinformationskampagnen finden sowohl online als auch offline statt und greifen ineinander.
-  - Russische Desinformationsakteure fokussieren sich auf die Diskreditierung der westlichen Entwicklungszusammenarbeit, insbesondere in Bezug auf die Ukraine, und auf die Destabilisierung demokratischer Institutionen.
-  - Die Komplexität der Entwicklungszusammenarbeit und die Instrumentalisierung des Themas durch in- und ausländische Akteure machen es anfällig für Desinformation.
-  - Ziel ist die Mobilisierung der eigenen Anhängerschaft durch polarisierende Narrative wie "das Volk gegen die Eliten".
+- **Center for Monitoring, Analyse und Strategie (Julia Smirnova):**
+  - Desinformation ist die absichtliche Verbreitung falscher oder irreführender Informationen zur Manipulation der öffentlichen Meinung und Schadenszufügung.
+  - Der Begriff "Foreign Information Manipulation and Interference (FIMI)" betont manipulative und koordinierte Verhaltensweisen.
+  - Russische Akteure nutzen Desinformation, um westliche Entwicklungszusammenarbeit, die Ukraine und demokratische Institutionen zu diskreditieren.
+  - Das Thema Entwicklungszusammenarbeit eignet sich gut für Desinformation aufgrund seiner Komplexität und der Möglichkeit, es für interne Mobilisierung zu instrumentalisieren.
+  - Es gibt Hinweise auf angeworbene Personen für offline-Desinformationsaktionen und langfristige Netzwerke russischer Akteure.
 
 - **Brot für die Welt (Silke Pfeifer):**
-  - Desinformation ist ein massiver Treiber und Beschleuniger von "Shrinking Spaces" für zivilgesellschaftliche Organisationen weltweit.
-  - In Ländern wie El Salvador werden Desinformationen genutzt, um den Boden für staatliche Maßnahmen wie die Einberufung von Untersuchungskommissionen oder die Einführung von "Foreign Agent Laws" zu bereiten.
-  - Die technologischen Möglichkeiten und das Zusammenspiel von politischer, wirtschaftlicher und medialer Macht (Allianz zwischen Bigtech, autokratischen Regimen) verleihen der Desinformation eine neue Qualität.
-  - Desinformation unterminiert die Anliegen und Themen, für die sich zivilgesellschaftliche Partner einsetzen, insbesondere in Bereichen wie Klima, Geschlechtergerechtigkeit und Migration.
-  - Zivilgesellschaft im globalen Süden ist stärker von Desinformation betroffen, da dort Regelwerke wie der DSA nicht greifen und Plattformen Ressourcen vernachlässigen.
-  - Notwendigkeit von Investitionen in Resilienzaufbau der Zivilgesellschaft, verlässliche Finanzierung und die Stärkung von Faktencheck, Medienkompetenz und unabhängigem Journalismus.
-  - Forderung nach Schutz für Organisationen, die durch staatlich gelenkte Desinformationskampagnen kriminalisiert oder diffamiert werden, sowie nach klaren Positionierungen der deutschen Außenpolitik.
-  - Wachsamkeit gegenüber Diskursverschiebungen durch Desinformation auch in Deutschland.
+  - Desinformation ist ein massiver Treiber von "Shrinking Space" (Einschränkung zivilgesellschaftlicher Handlungsräume) weltweit.
+  - Beispiele wie El Salvador zeigen, wie Desinformation den Boden für staatliche Maßnahmen gegen NGOs und Medien bereitet, bis hin zu "Foreign Agent"-Gesetzen.
+  - Desinformation ist ein entscheidender Treiber, indem zivilgesellschaftliche Organisationen als "ausländische Agenten", "Staatsfeinde" oder "Terroristen" diffamiert werden.
+  - Technologische Möglichkeiten, Algorithmen und die Allianz zwischen Bigtech, autokratischen Regimen und deren Netzwerken geben der Desinformation eine neue Qualität.
+  - Es besteht die Notwendigkeit, in den Aufbau der Resilienz von Zivilgesellschaften zu investieren, verlässliche Finanzierung zu gewährleisten und den Schutz zivilgesellschaftlicher Akteure zu stärken.
 
-- **AfD-Fraktion (Christoph Neumann, Martin Sichert):**
-  - Kritische Hinterfragung von Projekten und Prioritäten der Entwicklungszusammenarbeit ist legitim und keine Desinformation.
-  - Fragen nach dem politischen Sinn von Projekten, der Effektivität von "Good Governance"-Initiativen und der Messung von Erfolg sind grundlegende Fragen der demokratischen Kontrolle.
-  - Kritik an der Entwicklungshilfe ist nicht automatisch Hetze und eine kritische Auseinandersetzung mit staatlichen Ausgaben ist keine Desinformation.
-  - Anforderung, die "rote Linie" zwischen Desinformation und legitimer politischer Kritik klarer zu definieren.
-  - Desinformation entstehe, wenn echte Informationen nicht verfügbar seien oder die Regierung Daten zurückhalte.
+- **AfD (Christoph Pauli, Jan Kiw, Thomas Seitz):**
+  - Legitimer Bürgerprotest und kritische Nachfragen zu Projekten und Ausgaben der Entwicklungszusammenarbeit dürfen nicht pauschal als Desinformation abgetan werden.
+  - Es wird die Frage aufgeworfen, wo die rote Linie zwischen Desinformation und legitimer politischer Kritik verläuft.
+  - Die AfD kritisiert, dass die Bundesregierung möglicherweise nicht alle Daten an Oppositionsparteien herausgibt und damit Desinformation Vorschub leistet.
+  - Projekte wie die Förderung von Transpersonen in Vietnam oder die Herstellung von Seife in Simbabwe werden hinterfragt.
 
-- **Linke-Fraktion (Klaus Ernst):**
-  - Anliegen der Entwicklungszusammenarbeit werden durch Desinformation untergraben, insbesondere in Bereichen wie Klima, Geschlechtergerechtigkeit und Migration.
-  - Die Debatte zeige, wie Desinformation funktioniert, indem einzelne Projekte herausgegriffen und verzerrt dargestellt werden.
-  - Fragen nach den Möglichkeiten, diesen Narrativen entgegenzuwirken, insbesondere in Bezug auf Plattformen und die Stärkung der Zivilgesellschaft.
+- **SPD (Michelle Aba):**
+  - Desinformation und Kritik sind klar zu trennen; Desinformation beinhaltet die Verbreitung falscher Informationen.
+  - Es wird nach Möglichkeiten gefragt, Narrativen entgegenzuwirken und den Zugang zu transparenten, faktenbasierten Informationen zu stärken.
+  - Die Rolle der Plattformen bei der Verbreitung polarisierender Narrative und die Notwendigkeit der Stärkung von Zivilgesellschaft und Medienkompetenz werden betont.
+  - Die SPD fragt nach konkreten Maßnahmen der Bundesregierung zur Verhinderung, dass Desinformationskampagnen zu rechtlicher Repression und Einschränkung der Zivilgesellschaft führen.
+
+- **Bündnis 90/Die Grünen (Anna Gambier):**
+  - Die Grünen kritisieren, dass einzelne Projekte herausgegriffen und verzehrt dargestellt werden, um ein Problem zu konstruieren.
+  - Es wird die Frage gestellt, wie Desinformation in Zeiten von Kriegen und Konflikten, in denen humanitäre Hilfe und ein breiter Friedensbegriff notwendig sind, so gut funktionieren kann.
+  - Es wird nach Möglichkeiten gefragt, wie sich Privatpersonen vor Desinformation schützen können.
+  - Die Grünen hinterfragen, ob Desinformationskampagnen auch das Regierungshandeln beeinflussen, indem Entscheidungen aufgrund von Kampagnen getroffen oder Druck ausgeübt wird.
+
+- **Die Linke (Susanne Kaminski):**
+  - Die Linke erkundigt sich nach dem aktuellen Stand und möglichen Nachbesserungen bei den EU-Regelwerken DMA und DSA bezüglich der Regulierung von Algorithmen.
+  - Es wird die Idee vorgeschlagen, Empfehlungsalgorithmen komplett zu verbieten oder abzuschalten.
+  - Es wird nach Vorschlägen für politische und finanzielle Maßnahmen zur aktiven Steuerung gegen Desinformation gefragt.
+  - Konkret wird nach dem Stand bezüglich der Regulierung radikalisierungsfördernder Algorithmen im Koalitionsvertrag und der Einschätzung der Bundesregierung zu Telegramkanälen gefragt.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Vorsitzende eröffnet die Sitzung und ruft den Tagesordnungspunkt "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit" auf. Er begrüßt die Gäste Julia Smirnova (Center for Monitoring, Analysis and Strategy) und Silke Pfeifer (Brot für die Welt) sowie Vertreter der Bundesregierung.
-
-- **[00:19:23](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=19m23s)** - **Johann Saathoff (Parlamentarischer Staatssekretär):** Erklärt, dass Desinformation die Arbeit an den Zielen der Agenda 2030 zunehmend behindert und die Legitimität der Entwicklungszusammenarbeit untergräbt. Er beschreibt, wie Projekte dekontextualisiert und Finanzierungssummen falsch dargestellt werden, um einen Gegensatz zwischen nationalen Interessen und internationaler Zusammenarbeit zu konstruieren. Im Ausland würden zivilgesellschaftliche Partner als "ausländische Agenten" diffamiert. Die Bundesregierung habe eine interministerielle Projektgruppe und eine eigene Strategie zur Bekämpfung von Desinformation umgesetzt.
-
-- **[00:34:34](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=34m34s)** - **Julia Smirnova (Center for Monitoring, Analysis and Strategy):** Definiert Desinformation als absichtliche Verbreitung von Falschinformationen zur Manipulation und Schaden. Sie führt den Begriff "Foreign Information Manipulation and Interference" (FIMI) ein, der manipulative und koordinierte Verhaltensweisen betont. Sie erläutert, dass russische Desinformationsakteure die westliche Entwicklungszusammenarbeit diskreditieren und europäische Länder destabilisieren wollen. Die Komplexität der Entwicklungszusammenarbeit und die Mobilisierung von Anhängerschaften durch polarisierende Narrative machen das Thema anfällig für Desinformation.
-
-- **[00:51:51](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=51m51s)** - **Silke Pfeifer (Brot für die Welt):** Beschreibt Desinformation als Treiber von "Shrinking Spaces" für zivilgesellschaftliche Organisationen weltweit. Sie führt Beispiele aus El Salvador an, wo Desinformation staatliche Repression vorbereitet, und erklärt, dass "Foreign Agent Laws" weltweit zunehmen. Sie betont die neue Qualität der Desinformation durch technologische Möglichkeiten und die Allianz zwischen Bigtech und autokratischen Regimen. Sie fordert Investitionen in Resilienzaufbau, Finanzierung und die Stärkung von Faktencheck und Medienkompetenz.
-
-- **[01:17:21](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h17m21s)** - **Christoph Naser (CDU/CSU):** Stellt die Frage nach den definitorischen Kriterien zur Unterscheidung zwischen berechtigter Kritik und Desinformationskampagnen.
-
-- **[01:18:24](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h18m24s)** - **Silke Pfeifer und Julia Smirnova:** Erläutern, dass Desinformation die absichtliche Verbreitung von nachweislich falschen Informationen ist, während "Informationsmanipulation" den Fokus auf verhaltensbezogene Taktiken legt, wie die Schaffung von tausenden nicht-authentischen Accounts, um Einfluss auf die Meinungsbildung zu nehmen.
-
-- **[01:20:09](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h20m9s)** - **Christoph Neumann (AfD):** Betont, dass Kritik an der Entwicklungszusammenarbeit und staatlichen Ausgaben keine Desinformation ist und stellt die Frage nach der "roten Linie" zwischen Desinformation und legitimer Kritik.
-
-- **[01:23:08](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h23m8s)** - **Gesine Abti (SPD):** Fragt nach Möglichkeiten, Narrativen entgegenzuwirken, die durch die selektive Darstellung komplexer Sachverhalte entstehen.
-
-- **[01:24:35](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h24m35s)** - **Julia Smirnova:** Erklärt, dass Plattformen verpflichtet sind, Risiken durch ihre Systeme zu minimieren und dass der Aufbau von Resilienz durch transparente, faktenbasierte Informationen wichtig ist.
-
-- **[01:25:53](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h25m53s)** - **Silke Pfeifer:** Betont, dass Plattformen polarisierende Botschaften belohnen und daher ein starkes Gegenargumentieren und die Nicht-Einbeziehung von Zivilgesellschaft unter Generalverdacht notwendig ist.
-
-- **[01:26:26](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h26m26s)** - **Lisa Gambier (Bündnis 90/Die Grünen):** Fragt, wie es trotz der Notwendigkeit von Entwicklungszusammenarbeit und humanitärer Hilfe gelingen kann, dass Desinformationen in der aktuellen Zeit Hochkonjunktur haben.
-
-- **[01:27:47](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h27m47s)** - **Silke Pfeifer und Julia Smirnova:** Erklären dies mit der Informationsbeschaffung über digitale Kanäle, Echokammern, algorithmisch gesteuerte Welten und der Anfälligkeit der Menschen für polarisierende Narrative in Zeiten von Ängsten vor Kriegen und wirtschaftlichem Abstieg.
-
-- **[01:41:10](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h41m10s)** - **Kaminski (Die Linke):** Fragt nach Vorschlägen zur Nachsteuerung bei EU-Regelwerken (DMA, DSA) und der möglichen Abschaltung von Empfehlungsalgorithmen. Sie fragt auch nach politischen und finanziellen Maßnahmen zur aktiven Steuerung gegen Desinformation.
-
-- **[01:34:19](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h34m19s)** - **Julia Smirnova und Silke Pfeifer:** Erläutern, dass der DSA Unternehmen zur Risikominimierung verpflichtet, aber im globalen Süden nicht greift. Sie betonen die Notwendigkeit von Investitionen in die Resilienz der Zivilgesellschaft weltweit und die Rolle von Faktenchecks und Qualitätsjournalismus.
-
-- **[01:33:29](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h33m29s)** - **Christoph Naser (CDU/CSU):** Fragt nach gesicherten Informationen über politische Kräfte in Deutschland, die zur Verunglimpfung des Politikbereichs beitragen.
-
-- **[01:34:29](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h34m29s)** - **Silke Pfeifer und Julia Smirnova:** Erklären, dass Akteure mit Interesse an autoritären Systemen gegen die globalen Ziele der Entwicklungszusammenarbeit agieren und dass russische Unternehmen gezielt Personen zur Verbreitung von Stickern und Graffitis anwerben.
-
-- **[01:36:43](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h36m43s)** - **Martin Sichert (AfD):** Bitten um Beantwortung ihrer Frage aus der vorigen Runde nach der "roten Linie" zwischen Desinformation und legitimer Kritik.
-
-- **[01:36:56](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h36m56s)** - **Silke Pfeifer und Julia Smirnova:** Betonen, dass kritische Hinterfragung willkommen ist, aber verzerrte und polemisierende Darstellungen keine legitime Kritik darstellen. Sie verweisen auf Falschbehauptungen, die nachweislich falsch seien und auf konkrete russische Desinformationsakteure zurückverfolgt werden könnten.
-
-- **[01:38:43](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h38m43s)** - **Martin Sichert (AfD):** Vertritt die Ansicht, dass Desinformation entsteht, wenn Informationen nicht verfügbar sind oder die Regierung Daten zurückhält, und fordert mehr Transparenz bei der Ausgabe deutscher Gelder im Ausland.
-
-- **[01:40:01](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h40m1s)** - **Gesine Abti (SPD):** Richtigstellt, dass Anfragen an die Bundesregierung beantwortet werden und dass Informationen über das internationale Engagement regelmäßig überprüft und informiert werden. Sie erklärt, dass die Manipulation von Informationen, wie die Verschweigung von Krediten für Fahrradwege in Lima, zu Desinformation führt.
-
-- **[01:41:18](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h41m18s)** - **Johann Saathoff (Parlamentarischer Staatssekretär):** Bestätigt, dass "Shrinking Spaces" ein wichtiges Thema ist und die Bundesregierung die Zivilgesellschaft durch Projekte stärkt und in politischen Dialog einbindet.
-
-- **[01:42:04](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h42m4s)** - **Silke Pfeifer:** Ergänzt, dass trotz Investitionen der Bundesregierung die Zivilgesellschaft von Kürzungen betroffen sei und fordert verlässliche, langfristige Förderungen und Investitionen im Bereich Desinformation.
-
-- **[01:42:52](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h42m52s)** - **Lisa Gambier (Bündnis 90/Die Grünen):** Fragt, wie sich Privatpersonen vor Desinformation schützen können.
-
-- **[01:43:20](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h43m20s)** - **Julia Smirnova:** Betont, dass die Verantwortung nicht allein bei den Bürgern liegt, aber diese unterstützt werden sollten, manipulative Taktiken zu erkennen und sich über verlässliche Informationsquellen zu informieren.
-
-- **[01:44:10](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h44m10s)** - **Lisa Gambier (Bündnis 90/Die Grünen):** Fragt, ob Desinformationskampagnen in Regierungshandeln münden und Entscheidungen beeinflussen.
-
-- **[01:45:00](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h45m0s)** - **Julia Smirnova und Silke Pfeifer:** Erklären, dass Desinformationskampagnen, die Entscheidungsträger ins Visier nehmen, ein besonderes Risiko darstellen und dass eine klare Korrelation zwischen Desinformationsproblematiken und Rückschritten in bestimmten Politikbereichen (Geschlechtergerechtigkeit, Klimagerechtigkeit, Migration) besteht.
-
-- **[01:46:10](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h46m10s)** - **Kaminski (Die Linke):** Fragt nach dem aktuellen Stand der Regulierung radikalisierungsfördernder Algorithmen im DSA, der Einschätzung der Bundesregierung zu Telegramkanälen und nach Vorschlägen zur Förderung zivilgesellschaftlicher Organisationen im globalen Süden.
-
-- **[01:47:32](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h47m32s)** - **Johann Saathoff (Parlamentarischer Staatssekretär):** Verspricht, Antworten zu den Fragen bezüglich des DSA und Telegramkanälen schriftlich nachzureichen, da diese teils andere Ressorts betreffen. Er betont, dass die Bundesregierung die Entwicklungen beobachtet und Monitoring sowie aktive Kommunikation zur Gegensteuerung einsetzt.
-
-- **[01:49:17](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1h49m17s)** - **Abschluss der Debatte:** Der Vorsitzende beendet die Aussprache und bedankt sich bei allen Beteiligten.
+- **[00:00:00](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Vorsitzende eröffnet die Sitzung und ruft den Tagesordnungspunkt "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit" auf. Er begrüßt die Gäste Julia Smirnova vom Center for Monitoring, Analyse und Strategie und Silke Pfeifer von Brot für die Welt sowie Vertreter der Bundesregierung.
+- **[00:47](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=47s)** - **Beginn der Unterrichtung durch die Bundesregierung**: Der Parlamentarische Staatssekretär Johann Saathoff beginnt seine Ausführungen.
+- **[01:23](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=1m23s)** - **Erste Ausführungen des Parlamentarischen Staatssekretärs Saathoff**: Er betont die wachsende Bedrohung durch Desinformation für die Entwicklungszusammenarbeit und nennt Beispiele für die Manipulation von Informationen in Deutschland und im Ausland. Er erläutert die Reaktionen der Bundesregierung und des BMZ, einschließlich der interministeriellen Projektgruppe und der Strategie des BMZ.
+- **[06:29](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=6m29s)** - **Beginn des Vortrags von Julia Smirnova**: Sie erklärt ihren Forschungsschwerpunkt bei Desinformationskampagnen und betont die Wichtigkeit der Definitionen. Sie führt den Begriff "Foreign Information Manipulation and Interference" (FIMI) ein und gibt Beispiele für russische Desinformationskampagnen gegen die Entwicklungszusammenarbeit, insbesondere im Zusammenhang mit USAID und der Ukraine.
+- **[11:51](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=11m51s)** - **Beginn des Vortrags von Silke Pfeifer**: Sie betont die Rolle zivilgesellschaftlicher Organisationen und die negativen Auswirkungen von Desinformation auf deren Handlungsräume ("Shrinking Space"). Sie nennt das Beispiel El Salvador und die Zunahme von "Foreign Agent"-Gesetzen. Sie erläutert die neuen Qualitäten der Desinformation durch technologische Möglichkeiten und die Allianz zwischen Bigtech und autoritären Regimen.
+- **[17:26](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=17m26s)** - **Beginn der ersten Fragerunde**: Die erste Fragerunde mit 3 Minuten pro Fraktion beginnt.
+- **[17:38](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=17m38s)** - **Frage von Christoph Naser (CDU/CSU)**: Er fragt nach definitorischen Kriterien zur Unterscheidung von berechtigter Kritik und Desinformationskampagnen.
+- **[18:24](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=18m24s)** - **Antwort von Silke Pfeifer und Julia Smirnova**: Sie erklären, dass Desinformation die absichtliche Verbreitung nachweislich falscher Informationen sei und betonen den Fokus auf manipulativen Verhaltensweisen bei FIMI.
+- **[20:09](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=20m9s)** - **Frage von Jan Kiw (AfD)**: Er hinterfragt, ob kritische Nachfragen pauschal als Desinformation abgetan werden und fragt nach der roten Linie zwischen Desinformation und legitimer Kritik.
+- **[23:08](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=23m8s)** - **Frage von Michelle Aba (SPD)**: Sie fragt nach Möglichkeiten, Grauzonen zwischen Kritik und Desinformation zu überwinden und Narrativen entgegenzuwirken.
+- **[26:26](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=26m26s)** - **Frage von Anna Gambier (Bündnis 90/Die Grünen)**: Sie fragt nach der Erklärung für die hohe Wirksamkeit von Desinformation trotz der Notwendigkeit von Entwicklungszusammenarbeit und humanitärer Hilfe.
+- **[29:41](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=29m41s)** - **Frage von Susanne Kaminski (Die Linke)**: Sie fragt nach Vorschlägen zur Nachsteuerung bei DMA/DSA und der Idee, Empfehlungsalgorithmen zu verbieten, sowie nach politischen und finanziellen Maßnahmen gegen Desinformation.
+- **[33:24](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=33m24s)** - **Beginn der zweiten Fragerunde**: Die zweite Fragerunde beginnt.
+- **[33:33](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=33m33s)** - **Frage von Christoph Naser (CDU/CSU)**: Er fragt nach gesicherten Informationen über politische Kräfte, die in Deutschland zur Verunglimpfung des Politikbereichs beitragen, und nach deren Kooperationspartnern.
+- **[34:29](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=34m29s)** - **Antwort von Silke Pfeifer und Julia Smirnova**: Sie erläutern, dass Akteure mit Interesse an autoritären Systemen und ökonomische Akteure eine Rolle spielen und nennen konkrete Strategien wie die Anwerbung von Personen für offline-Aktionen.
+- **[36:43](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=36m43s)** - **Frage von Jan Kiw (AfD)**: Er bittet um die Beantwortung der in der vorigen Runde gestellten Frage nach der roten Linie zwischen Desinformation und legitimer Kritik.
+- **[36:56](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=36m56s)** - **Antwort von Silke Pfeifer und Julia Smirnova**: Sie betonen, dass kritische Hinterfragung willkommen sei, aber verzerrte oder polemisierende Darstellungen keine legitime Kritik seien und verweisen auf evidenzbasierte Fakten.
+- **[38:43](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=38m43s)** - **Frage von Thomas Seitz (AfD)**: Er stellt die Frage, wie Desinformation überhaupt entstehen kann und verweist auf mangelnde Informationsverfügbarkeit und die Nicht-Herausgabe von Daten durch die Regierung.
+- **[39:58](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=39m58s)** - **Antwort von Michelle Aba (SPD) und Johann Saathoff (Bundesregierung)**: Michelle Aba korrigiert die Aussage zur mangelnden Informationsverfügbarkeit und verweist auf Transparenzportale und Evaluierungsinstitute. Johann Saathoff spricht über "Shrinking Spaces" und die Stärkung der Zivilgesellschaft durch Projekte.
+- **[42:06](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=42m6s)** - **Ergänzung von Silke Pfeifer**: Sie betont die Notwendigkeit verlässlicher, langfristiger Förderungen und Investitionen in den Bereich Desinformation sowie die politische Unterstützung betroffener Zivilgesellschaft.
+- **[42:54](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=42m54s)** - **Frage von Anna Gambier (Bündnis 90/Die Grünen)**: Sie fragt, wie sich Privatpersonen vor Desinformation schützen können.
+- **[43:20](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=43m20s)** - **Antwort von Julia Smirnova**: Sie betont, dass die Verantwortung nicht allein bei den Bürgern liege, aber diese sich über manipulative Taktiken informieren sollten und durch klassische journalistische Medien unterstützt werden könnten.
+- **[44:12](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=44m12s)** - **Frage von Anna Gambier (Bündnis 90/Die Grünen)**: Sie fragt, ob Desinformationskampagnen auch in Regierungshandeln münden.
+- **[45:00](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=45m0s)** - **Antwort von Julia Smirnova und Silke Pfeifer**: Sie weisen auf das Risiko von Kampagnen gegen Entscheidungsträger hin und sehen eine Korrelation zwischen Desinformationsproblematiken und Rückschritten in Bereichen wie Geschlechtergerechtigkeit oder Klimagerechtigkeit.
+- **[46:10](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=46m10s)** - **Frage von Susanne Kaminski (Die Linke)**: Sie fragt nach dem Stand der Regulierung radikalisierungsfördernder Algorithmen im DSA, der Einschätzung zu Telegramkanälen und der Prüfung von Kooperationsmöglichkeiten mit zivilgesellschaftlichen Organisationen.
+- **[47:32](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=47m32s)** - **Antwort von Johann Saathoff (Bundesregierung)**: Er kündigt an, die Antworten zu den Fragen bezüglich DMA/DSA und Telegram schriftlich nachzureichen, da diese teils in anderen Ministerien angesiedelt seien. Er versichert, dass die Kommunikationen auf Telegram überwacht und aktiv mit Gegenkommunikation begegnet werde. Die Liste zivilgesellschaftlicher Organisationen werde ebenfalls nachgereicht.
+- **[49:21](https://www.youtube.com/watch?v=rtc_eP2RNtY&t=49m21s)** - **Schluss der Aussprache**: Der Vorsitzende beendet die Aussprache, bedankt sich bei den Rednern und Gästen sowie dem Publikum.

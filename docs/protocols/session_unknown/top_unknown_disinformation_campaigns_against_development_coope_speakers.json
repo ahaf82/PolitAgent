@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Analyse externer Äußerungen der im Bundestag zum Thema Desinformationskampagnen gegen die Entwicklungszusammenarbeit aufgetretenen Abgeordneten zeigt eine klare Trennung zwischen den Positionen. Während die Regierungsparteien SPD und Grüne sowie Die Linke die Notwendigkeit betonen, Desinformation von legitimer Kritik abzugrenzen und Maßnahmen zur Stärkung der Resilienz und Medienkompetenz fordern, sieht die AfD die Gefahr, dass kritische Nachfragen pauschal als Desinformation abgetan werden. Die AfD-Abgeordneten hinterfragen zudem konkrete Projekte und äußern Bedenken hinsichtlich der Informationspolitik der Bundesregierung.",
+  "sources": [
+    {
+      "name": "Johann Saathoff",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Parlamentarischer Staatssekretär betonte Saathoff die wachsende Bedrohung durch Desinformation für die Entwicklungszusammenarbeit und erläuterte die Strategie der Bundesregierung zur Bekämpfung, einschließlich Monitoring, Analyse, Resilienz und Debunking. Er wies auf die Bemühungen hin, die Voraussetzungen für eine informierte Debatte zu schaffen.",
+      "source_title": "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit",
+      "url": "https://www.youtube.com/watch?v=rtc_eP2RNtY&t=47s",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christoph Naser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jan Kiw",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kiw hinterfragte, ob kritische Nachfragen pauschal als Desinformation abgetan würden und bat um Klärung der Grenze zwischen Desinformation und legitimer Kritik. Er kritisierte zudem die mangelnde Informationsverfügbarkeit seitens der Regierung.",
+      "source_title": "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit",
+      "url": "https://www.youtube.com/watch?v=rtc_eP2RNtY&t=20m9s",
+      "platform": "Presse"
+    },
+    {
+      "name": "Thomas Seitz",
+      "party": "AfD",
+      "found": true,
+      "statement": "Seitz stellte die Frage nach der Entstehung von Desinformation und verwies dabei auf mangelnde Informationsverfügbarkeit und die Nicht-Herausgabe von Daten durch die Regierung. Er hinterfragte auch die Entstehung von Desinformation.",
+      "source_title": "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit",
+      "url": "https://www.youtube.com/watch?v=rtc_eP2RNtY&t=38m43s",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michelle Aba",
+      "party": "SPD",
+      "found": true,
+      "statement": "Aba betonte die klare Trennung zwischen Desinformation und Kritik und fragte nach Möglichkeiten, Grauzonen zu überwinden sowie Narrativen entgegenzuwirken. Sie wies auch auf Transparenzportale und Evaluierungsinstitute als Informationsquellen hin.",
+      "source_title": "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit",
+      "url": "https://www.youtube.com/watch?v=rtc_eP2RNtY&t=23m8s",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anna Gambier",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Gambier fragte nach der Erklärung für die hohe Wirksamkeit von Desinformation trotz der Notwendigkeit von Entwicklungszusammenarbeit und humanitärer Hilfe. Sie hinterfragte auch, ob Desinformationskampagnen das Regierungshandeln beeinflussen.",
+      "source_title": "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit",
+      "url": "https://www.youtube.com/watch?v=rtc_eP2RNtY&t=26m26s",
+      "platform": "Presse"
+    },
+    {
+      "name": "Susanne Kaminski",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Kaminski erkundigte sich nach dem Stand der EU-Regelwerke DMA und DSA bezüglich Algorithmenregulierung und schlug vor, Empfehlungsalgorithmen zu verbieten. Sie fragte nach politischen und finanziellen Maßnahmen gegen Desinformation.",
+      "source_title": "Unterrichtung durch die Bundesregierung über gezielte Desinformationskampagnen gegen die Entwicklungszusammenarbeit",
+      "url": "https://www.youtube.com/watch?v=rtc_eP2RNtY&t=29m41s",
+      "platform": "Presse"
+    }
+  ]
+}
