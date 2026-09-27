@@ -1,5 +1,31 @@
 [
   {
+    "id": "2-sU-Q16snI",
+    "title": "96th Session on 09/24/2026. Agenda Item 25: Driving Instructor Act, Driver's License Costs",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "25",
+    "topic": "Fahrschulgesetz, Kosten für den Führerschein",
+    "summary_path": "protocols/session_96/25_driving_instructor_act_driver_s_license_costs.md",
+    "documents_path": "protocols/session_96/25_driving_instructor_act_driver_s_license_costs_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=2-sU-Q16snI",
+    "processed_at": "2026-09-27T08:08:30.685787"
+  },
+  {
+    "id": "Pgi5FMNinM4",
+    "title": "96th Session on 09/24/2026. Agenda Item 24: Media Services Investment Obligation Act",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "24",
+    "topic": "Gesetz über eine Investitionsverpflichtung für Mediendiensteanbieter",
+    "summary_path": "protocols/session_96/24_media_services_investment_obligation_act.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=Pgi5FMNinM4",
+    "processed_at": "2026-09-27T08:09:03.271078"
+  },
+  {
     "id": "J1lrlMRKcAk",
     "title": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgen...",
     "session": 0,
@@ -2648,6 +2674,32 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "eqTDd8e5fAs",
+    "title": "95th Session on 09/23/2026. Agenda Item: Point of Order",
+    "session": 95,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Antrag zur Geschäftsordnung",
+    "summary_path": "protocols/session_95/top_unknown_agenda_item_point_of_order.md",
+    "documents_path": "protocols/session_95/top_unknown_agenda_item_point_of_order_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=eqTDd8e5fAs",
+    "processed_at": "2026-09-27T08:07:30.876448"
+  },
+  {
+    "id": "HaVVnvMjj6w",
+    "title": "95th Session of 09/23/2026. Agenda Item AP 1: Current Affairs Debate: Recent developments within ...",
+    "session": 95,
+    "date": "N/A",
+    "top": "AP",
+    "topic": "Aktuelle Debatte: Jüngste Entwicklungen bei den Linken in Berlin",
+    "summary_path": "protocols/session_95/ap_95th_session_of_09_23_2026_agenda_item_ap_1_curren.md",
+    "documents_path": "protocols/session_95/ap_95th_session_of_09_23_2026_agenda_item_ap_1_curren_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=HaVVnvMjj6w",
+    "processed_at": "2026-09-27T08:03:26.947824"
   },
   {
     "id": "JvPHK4gjHrk",

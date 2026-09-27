@@ -1,0 +1,34 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/3064",
+      "title": "Gesetzentwurf des Bundesrates Entwurf eines Gesetzes zur Änderung des Grundgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3064&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Antrag: Schlanker Staat statt Kostenexplosion – Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2027",
+      "title": "Gesetzentwurf Fraktion BÜNDNIS 90/DIE GRÜNEN",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2027&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Antrag zur Geschäftsordnung der Fraktion Bündnis 90/Die Grünen, die Tagesordnung um einen Gesetzentwurf des Bundesrates zur Einfügung des Merkmals der sexuellen Identität in Artikel 3 des Grundgesetzes zu erweitern, wurde mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen abgelehnt.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": []
+  }
+}
