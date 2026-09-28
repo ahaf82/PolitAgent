@@ -1,4 +1,4 @@
-# Ausbau erneuerbarer Energien
+# Ausbau Erneuerbarer Energien
 
 ## Sitzungs-Metadaten
 - **Sitzung:** 96. Sitzung
@@ -8,88 +8,49 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=R8PSOI4_ssA)
 
 ## Kurzzusammenfassung
-Die Sitzung befasste sich mit der Novellierung des Erneuerbare-Energien-Gesetzes (EEG) und des Energienetz- und Marktdurchleitungsgesetzes (ENWG). Die Bundesregierung verteidigte die geplanten Änderungen als notwendige Weiterentwicklung der Energiewende, um Kosten zu senken, die Versorgungssicherheit zu gewährleisten und marktbasierte Mechanismen zu stärken. Die Opposition kritisierte die Gesetzesentwürfe scharf und bezeichnete sie als Ausbremsung des Ausbaus erneuerbarer Energien, die zu Unsicherheit, höheren Kosten und geringerer Akzeptanz führen würden. Die Debatte war von gegenseitigen Vorwürfen der Desinformation und des verantwortungslosen Handelns geprägt.
+Die Debatte im Deutschen Bundestag befasste sich mit dem Ausbau erneuerbarer Energien und der Novellierung des Erneuerbare-Energien-Gesetzes (EEG) sowie des Energiewirtschaftsgesetzes (ENWG). Die Bundesministerin für Wirtschaft und Energie, Katharina Reiche, erläuterte die Notwendigkeit von Gesetzesanpassungen zur Verringerung von Systemkosten und zur Förderung von Markt und Wettbewerb. Die Oppositionsparteien kritisierten die Gesetzentwürfe scharf und warfen der Regierung vor, den Ausbau erneuerbarer Energien zu bremsen und die Kosten für Bürger und Unternehmen zu erhöhen. Die Debatte spiegelte konträre Ansichten über die Kosten, die Sicherheit und die Zukunftsfähigkeit der Energiewende wider.
 
 ## Kernaussagen und Positionen der Fraktionen
-- **Bundesregierung (vertreten durch Bundesministerin Reiche):**
-  - Der Ausbau erneuerbarer Energien wird fortgesetzt, die Ausbauziele bleiben bestehen.
-  - Die Energiewende muss erwachsen werden und finanzielle Verantwortung für das gesamte Stromsystem übernehmen.
-  - Bisherige Kosten des Gesamtsystems wurden vernachlässigt und sind explodiert.
-  - Zusätzliche Kosten wie für Redispatch, Netze und gesicherte Leistungen wurden ignoriert.
-  - Ziel ist ein ausgewogenes Paket mit Ja zu Erneuerbaren, Markt, Wettbewerb sowie Ausbau und Digitalisierung der Stromnetze.
-  - Klimaschutz muss bezahlbar und mit Versorgungssicherheit vereinbar sein; Dekarbonisierung darf nicht zur Deindustrialisierung führen.
-  - Benötigt werden gesicherte Leistung, Kraftwerke, Speicher, Kapazitäts- und Flexibilitätsmärkte.
-  - Die Gesetzesentwürfe sehen eine Anpassung der Förderung an EU-Vorgaben, mehr Markt und Wettbewerb, Anreize für Direktvermarktung, neue Geschäftsmodelle, eine Kombination von Erneuerbaren mit Batterien, eine zukunftssichere Biomasseförderung sowie die Berücksichtigung von Netzkapazitäten und Projektentwicklungsreife vor.
-  - Differenzverträge sollen Investoren planbare Erlöse sichern, Zusatzerlöse werden abgeschöpft.
-
-- **AfD-Fraktion:**
-  - Die Energiewende hat bisher zu hohen Kosten, Arbeitsplatzverlusten und Unternehmensschließungen geführt.
-  - Deutschland wird durch die Energiewende zu einem Entwicklungsland in der Stromversorgung.
-  - Das Stromnetz ist instabil und erfordert tausende Eingriffe täglich, um Blackouts zu verhindern; "Flexibilität" bedeute Stromabschaltung.
-  - Unternehmen und Rechenzentren würden in einem Land mit unzuverlässiger Stromversorgung nicht investieren.
-  - Die Abhängigkeit von zufälligen Energien wie Wind und Sonne sei gefährlich und führe zu Produktionsausfällen und teuren Importen.
-  - Die Gesetzentwürfe würden die Menschen weiter "abzocken" und seien verantwortungslos.
-  - Forderung nach Stopp des Ausbaus von "Zufallsenergien", Wiedereinschaltung der Kernkraft und bezahlbarer Energie.
-
-- **SPD-Fraktion (vertreten durch Abgeordnete Dr. [Name nicht genannt]):**
-  - Die von der AfD vorgebrachten Argumente seien geballte Desinformation.
-  - Atomenergie sei die teuerste und am stärksten subventionierte Form der Stromerzeugung.
-  - Deutschland habe nach Südkorea das zweitsicherste Stromsystem weltweit.
-  - Das Erneuerbare-Energien-Gesetz (EEG) sei ein weltweites Erfolgsmodell, das zur Schaffung von Marktlichkeit und zum Ausgleich von Ungleichbehandlungen beigetragen habe.
-  - Auch mit fossilen Einflüssen auf dem Energiemarkt sei eine Weiterentwicklung und Anreizsetzung im EEG notwendig, um Wertschöpfung im Bereich der erneuerbaren Energien zu sichern.
-  - Es müsse sichergestellt werden, dass es keinen "Fadenriss" für erneuerbare Energien gibt, insbesondere bei dezentralen Anlagen, und dass keine Überforderung in der Vermarktung entsteht.
-
-- **Bündnis 90/Die Grünen-Fraktion (vertreten durch Abgeordnete Katrin [Name nicht genannt]):**
-  - Die Gesetzesentwürfe der Regierung würden den Ausbau erneuerbarer Energien massiv ausbremsen und zu höheren Kosten führen.
-  - Es sei unklar, wie die Abkehr von fossilen Brennstoffen mit der Bremse beim Ausbau der Erneuerbaren zusammenpasse.
-  - Die Kosten des fossilen Systems und die Abhängigkeit von Gaspreisen würden von der Regierung ignoriert.
-  - Die Ankündigung der Gesetzentwürfe habe bereits zu Verunsicherung geführt und treibe Kosten durch Risikozuschläge in die Höhe.
-  - Bürger und Unternehmen würden durch unsichere Regelungen und geringere Einspeisemöglichkeiten verunsichert.
-  - Die Bürgerbeteiligung an der Energiewende werde geschwächt.
-  - Die Gesetzentwürfe seien eine Investitionsbremse und bremsten die Energiewende.
-  - Es gäbe sinnvollere Wege zur Förderung von Flexibilität und Marktattraktivität für erneuerbare Energien.
-
-- **Die Linke-Fraktion:**
-  - Die Gesetzentwürfe würden die Wirtschaftlichkeit von Investitionen in erneuerbare Energien gezielt untergraben und belasteten einseitig die Erbauer neuer Anlagen.
-  - Die Regierungsvorschläge wirkten dem Ziel des Ausbaus entgegen.
-  - Die Einschränkungen bei Investitionen in erneuerbare Energien könnten zu erheblichen Arbeitsplatzverlusten führen.
-  - Der fortgesetzte Ausbau der Erneuerbaren würde den Börsenstrompreis senken.
-  - Die Reduzierung von Einspeisevergütungen für kleine PV-Anlagen werde negative Auswirkungen haben, da die Ausbauziele noch nicht erreicht seien.
-  - Es fehle an funktionierenden Möglichkeiten für die Direktvermarktung.
-  - Das Fraunhofer Institut habe Potenzial für die Verknüpfung von Umspannwerken, Batterien und PV-Anlagen aufgezeigt.
-  - Preisreiber am Strommarkt seien die Gaspreise.
-
-- **Fraktionslos (Abgeordnete Stefan Seitler):**
-  - Es sei gut, dass am Ziel von 80% erneuerbarem Strom bis 2030 festgehalten werde, aber der Gesetzesentwurf schaffe Unsicherheit statt Anreize.
-  - Die Bedingungen für erneuerbare Energien würden verschlechtert, z.B. durch geringere Förderung von Windenergie in Küstenregionen und neue Bürokratie.
-  - Der Ausbau der günstigen und grünen Stromproduktion sei dringend notwendig, um unabhängiger von fossilen Energieträgern und geopolitischen Machtspielen zu werden.
-  - Es müssten Anreize für Windkraft, PV, Biomasse und Energiespeicher geschaffen werden.
-  - Notwendig seien mehr Kapazitäten für flexible Biomasseanlagen, Fokus auf regionale Wertschöpfung, bessere Finanzierung für Bürgerenergieprojekte und verlässliche Investitionsbedingungen.
-
-- **CDU/CSU-Fraktion:**
-  - Die Koalition bekennt sich klar zur Energiewende, zu Ausbauzielen und zu einer zukunftsgewandten Energiepolitik.
-  - Das EEG habe eine bemerkenswerte Entwicklung genommen und sei ein wichtiges Fundament der Energieversorgung mit zahlreichen Arbeitsplätzen.
-  - Es gebe Diskussionsbedarf bei den Gesetzentwürfen, insbesondere hinsichtlich Ausbauquoten im Süden, Referenzertragsmodellen, "Patchdeckel" und Voraussetzungen für PV.
-  - Ein sparsamer Umgang mit Grund und Boden und landwirtschaftlichen Flächen müsse beachtet werden, auch unter dem Stichwort Lebensmittelversorgung und Nutzung von AgriPV.
-  - Es müsse ein vernünftiges Miteinander von Dach-, Freiflächen- und AgripV geben.
-  - Die Bedeutung der Wasserkraft und die Stärkung von Biogas und Bioenergien müssten bedacht werden, um funktionierende Strukturen nicht zu zerschlagen.
-  - Ziel sei die Weiterentwicklung der erneuerbaren Energien zu einer verlässlichen und bezahlbaren Versorgung.
+- **Bundesregierung (vertreten durch Bundesministerin Katharina Reiche):**
+  - Bekräftigung des Festhaltens an den Ausbauzielen für erneuerbare Energien (Wind, Photovoltaik, Biomasse, Geothermie).
+  - Notwendigkeit von Anpassungen im EEG und ENWG aufgrund fortschreitender Technologieentwicklung und zur Reduzierung explodierter Systemkosten.
+  - Kritik an bisher ignorierten Systemkosten (Redispatch, Netze, gesicherte Leistungen) über die reinen Gestehungskosten hinaus.
+  - Ankündigung von Maßnahmen wie Erhöhung der Ausschreibungen für Windenergie, Förderung der Direktvermarktung, Einführung von zweiseitigen Differenzverträgen, Stärkung der Biomasse und Priorisierung nach Projektbereitschaft bei Netzengpässen.
+  - Betonung der Notwendigkeit von Bezahlbarkeit, Versorgungssicherheit und wirtschaftlicher Realität für eine tragfähige Klimaschutzpolitik.
+- **AfD:**
+  - Kritik an den vermeintlich hohen Kosten der Energiewende für Bürger und Unternehmen, die zum Verlust von Arbeitsplätzen und zur Schließung von Unternehmen führe.
+  - Darstellung des Stromnetzes als instabil und bedroht von Blackouts, die nur durch ständige Eingriffe verhindert werden könnten.
+  - Ablehnung der Abhängigkeit von "Zufallsenergien" wie Wind und Sonne und Forderung nach Kernkraft sowie bezahlbarer Energie.
+  - Behauptung, dass zusätzliche Wind- und Solaranlagen das Stromnetz instabiler und den Strom teurer machten.
+- **SPD:**
+  - Widerlegung der Aussagen der AfD, insbesondere bezüglich der Kosten der Atomenergie und der Sicherheit des deutschen Stromsystems.
+  - Hervorhebung des EEG als Erfolgsmodell, das weltweit kopiert wurde und zur starken weltweiten Zunahme erneuerbarer Energien beigetragen hat.
+  - Betonung der Notwendigkeit, das EEG weiterzuentwickeln und wettbewerbsfähige Rahmenbedingungen zu schaffen, um Wertschöpfung und Arbeitsplätze im Bereich erneuerbarer Energien zu sichern.
+  - Anerkennung des Klärungsbedarfs bei der Gewinnabschöpfung (Cloback-Mechanismus) und der Notwendigkeit, einen Fadenriss für erneuerbare Energien zu vermeiden.
+- **Bündnis 90/Die Grünen:**
+  - Kritik, dass die Gesetzentwürfe den Ausbau erneuerbarer Energien "massiv ausbremsen" und zu Verunsicherung und höheren Kosten führen.
+  - Bemängelung, dass die Kosten des fossilen Systems und der Gaspreis, der den Strompreis bestimmt, nicht ausreichend berücksichtigt werden.
+  - Die Gesetzentwürfe würden den existierenden Markt komplizierter machen und die Akzeptanz der Energiewende sowie die Bürgerbeteiligung gefährden.
+  - Aufforderung zur Zustimmung zum Gesetzentwurf der Grünen beim EEG und zur grundlegenden Überarbeitung der Regierungsentwürfe.
+- **Die Linke:**
+  - Vorwurf, dass die Gesetzentwürfe gezielt die Wirtschaftlichkeit von Investitionen in erneuerbare Energien untergraben und damit gegen die Ausbauziele verstoßen.
+  - Warnung vor erheblichen negativen Auswirkungen auf die Wirtschaftlichkeit von kleinen PV-Anlagen und vor einem Rückgang der Arbeitsplätze im Sektor erneuerbarer Energien.
+  - Betonung, dass der fortgesetzte Ausbau der Erneuerbaren den Börsenstrompreis senken würde und dass Gaspreise die Hauptpreisreiber am Strommarkt seien.
+  - Forderung nach einer Ausweitung der Kapazitäten für flexible Biomasseanlagen, stärkerer Fokus auf regionale Wertschöpfung und bessere Finanzierungsmöglichkeiten für Bürgerenergieprojekte.
+- **CDU/CSU:**
+  - Bekenntnis zur Energiewende, den Ausbauzielen und einer zukunftsgewandten Energiepolitik.
+  - Anerkennung, dass das EEG eine bemerkenswerte Entwicklung genommen hat und erneuerbare Energien ein wichtiges Fundament bilden, das auch Arbeitsplätze geschaffen hat.
+  - Hinweis auf Diskussionsbedarf bei den Gesetzentwürfen, insbesondere bezüglich Ausbauquoten im Süden, Referenzertragsmodellen, Dach- und Freiflächen-PV sowie Agri-PV.
+  - Betonung der Bedeutung der Wasserkraft und der Notwendigkeit, Biogas und Bioenergien zu stärken, ohne funktionierende Strukturen zu zerschlagen.
+  - Ziel einer verlässlichen und bezahlbaren Energieversorgung durch Weiterentwicklung erneuerbarer Energien.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und auf die Tagesordnungspunkte 14a bis 14D zur Beratung von Vorlagen zum Erneuerbare-Energien-Gesetz verwiesen. Die Aussprache wird eröffnet. Für die Bundesregierung spricht Bundesministerin Katharina Reiche.
-
-- **[00:32](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=32s)** - **Bundesministerin Reiche (Bundesregierung)**: Sie bekräftigt, dass der Ausbau erneuerbarer Energien fortgesetzt wird und die Ausbauziele bestehen bleiben. Die Kosten des Gesamtsystems seien in der Vergangenheit zu Lasten von Bürgern und Unternehmen explodiert, da zusätzliche Kosten wie Investitionen in Redispatch, Netze und gesicherte Leistungen ignoriert wurden. Die Erneuerbaren seien erwachsen geworden und müssten Verantwortung übernehmen. Die Gesetzesentwürfe zielen auf mehr Markt und Wettbewerb, Anreize für Direktvermarktung, neue Geschäftsmodelle, Kombination mit Batterien, Anpassung der Förderung an EU-Vorgaben, Berücksichtigung von Netzen vor dem Ausbau, sinnvolle Ausgaben der Steuerzahler (Weg von fester Einspeisevergütung hin zu Direktvermarktung), zweiseitige Differenzverträge, Zukunft für Biomasse sowie die Berücksichtigung der Projektentwicklungsreife. Klimaschutz müsse bezahlbar und mit Versorgungssicherheit vereinbar sein.
-
-- **[07:34](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=7m34s)** - **Mark Bernhard (AfD-Fraktion)**: Er kritisiert die Energiewende als teuer und schädlich für Arbeitsplätze und Unternehmen. Das Stromnetz sei instabil und erfordere tägliche Eingriffe, um Blackouts zu verhindern. Er bezeichnet "Flexibilität" als Stromabschaltung und vergleicht die Zustände mit einem Entwicklungsland. Die Abhängigkeit von zufälligen Energien wie Wind und Sonne sei gefährlich. Er wirft der Ministerin vor, die Menschen weiter abzuzocken und fordert ein Ende des Ausbaus von "Zufallsenergien", die Wiedereinschaltung der Kernkraft und bezahlbare Energie.
-
-- **[15:25](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=15m25s)** - **Abgeordnete Dr. [Name nicht genannt] (SPD-Fraktion)**: Sie wehrt sich gegen die "Desinformation" der AfD und bezeichnet Atomenergie als die teuerste Form der Stromerzeugung. Deutschland habe ein sehr sicheres Stromsystem. Das EEG sei ein weltweites Erfolgsmodell, das Anreize schaffe und zu einem hohen Anteil erneuerbarer Energien weltweit führe. Eine Weiterentwicklung sei notwendig, um Wertschöpfung zu sichern und die Energiewende nicht durch Risikofaktoren zu gefährden.
-
-- **[22:16](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=22m16s)** - **Abgeordnete Katrin [Name nicht genannt] (Bündnis 90/Die Grünen)**: Sie kritisiert, dass die Gesetzesentwürfe den Ausbau erneuerbarer Energien ausbremsen und zu höheren Kosten führen würden, was der Akzeptanz der Energiewende schade. Sie bemängelt, dass die Kosten des fossilen Systems ignoriert würden. Die Ankündigung der Gesetze habe bereits zu Unsicherheit geführt und treibe die Kosten in die Höhe.
-
-- **[26:47](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=26m47s)** - **Abgeordnete Jörg Sesan (Die Linke-Fraktion)**: Er wirft der Ministerin vor, mit den Gesetzentwürfen gezielt die Wirtschaftlichkeit von Investitionen in erneuerbare Energien zu untergraben. Dies führe zu weniger Arbeitsplätzen und verhindere die Senkung des Strompreises. Er kritisiert die Abschaffung und Verringerung von Einspeisevergütungen für kleine PV-Anlagen und bemängelt, dass die Ausbauziele nicht erreicht seien.
-
-- **[30:11](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=30m11s)** - **Abgeordnete Stefan Seitler (Fraktionslos)**: Er begrüßt die Festlegung auf 80% erneuerbaren Strom bis 2030, kritisiert aber, dass der Gesetzesentwurf Unsicherheit statt Anreize schaffe und die Bedingungen für erneuerbare Energien verschlechtere. Er fordert Anreize für Windkraft, PV, Biomasse und Energiespeicher sowie mehr Kapazitäten für flexible Biomasseanlagen und bessere Finanzierung für Bürgerenergieprojekte.
-
-- **[32:07](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=32m7s)** - **Abgeordnete Hans Koller (CDU/CSU-Fraktion)**: Er bekräftigt das Bekenntnis der Koalition zur Energiewende und zum Ausbau erneuerbarer Energien. Er räumt Diskussionsbedarf bei den Gesetzentwürfen ein, insbesondere hinsichtlich Ausbauquoten, Referenzertragsmodellen und der Nutzung von Flächen. Die Bedeutung der Wasserkraft sowie die Stärkung von Biogas und Bioenergien müssten bedacht werden, um funktionierende Strukturen nicht zu zerschlagen.
-
-- **[35:40](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=35m40s)** - **Sitzungsende**: Die Aussprache wird geschlossen und die Vorlagen werden zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.
+- **[00:00:00](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und die Tagesordnungspunkte 14a bis 14D zum Thema "Erneuerbare Energien" aufgerufen. Die Aussprache ist auf 30 Minuten angesetzt.
+- **[00:14](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=14s)** - **Bundesministerin Katharina Reiche (Bundesregierung)**: Eröffnet die Aussprache und bekräftigt den fortgesetzten Ausbau erneuerbarer Energien sowie das Festhalten an den Ausbauzielen. Sie hebt die Notwendigkeit von Gesetzesänderungen hervor, um Systemkosten zu reduzieren und einseitige Importabhängigkeiten zu verringern. Sie kritisiert frühere Gesetzgebungen, die die explodierenden Gesamtkosten des Systems vernachlässigt hätten und nennt jährlich 36 Milliarden Euro Systemkosten sowie fast 3 Milliarden Euro für das Abschalten erneuerbarer Energien. Sie stellt fünf Stellschrauben vor: Fokus auf Netze vor dem Ausbau, sinnvolle Ausgabe von Steuergeldern durch Hinwendung zur Direktvermarktung, Umwandlung des EEG in ein Absicherungsmodell mit Differenzverträgen, Zukunftsperspektiven für Biomasse und Priorisierung nach Projektbereitschaft bei Netzengpässen.
+- **[07:34](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=7m34s)** - **Abgeordneter Mark Bernhard (AfD)**: Kritisiert die Energiewende als kostspielig und destabilisierend für die Stromversorgung. Er verweist auf versprochene geringe Kosten, spricht von 15.000 verlorenen Arbeitsplätzen und 2.500 schließenden Unternehmen monatlich. Er beschreibt das Stromnetz als instabil mit Tausenden von Eingriffen zur Verhinderung von Blackouts und verurteilt die Abhängigkeit von Wind- und Sonnenenergie. Er fordert die Reaktivierung der Kernkraft und bezahlbare Energie.
+- **[15:25](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=15m25s)** - **Abgeordnete Dr. [Name nicht genannt] (SPD)**: Weist die Aussagen der AfD als Desinformation zurück und bezeichnet Atomenergie als die teuerste Form der Stromerzeugung. Sie betont die Sicherheit des deutschen Stromsystems und bezeichnet das EEG als weltweites Erfolgsmodell. Sie fordert die Weiterentwicklung des EEG und warnt vor Risikofaktoren, die Wertschöpfung aus erneuerbaren Energien gefährden könnten.
+- **[22:16](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=22m16s)** - **Abgeordnete Katrin UK (Bündnis 90/Die Grünen)**: Kritisiert die Gesetzentwürfe als ausbremsend für den Ausbau erneuerbarer Energien und verweist auf widersprüchliche Signale der Regierung. Sie wirft der Ministerin vor, die Kosten des fossilen Systems zu ignorieren und bemängelt, dass die Gesetzentwürfe alles teurer machen und die Akzeptanz der Energiewende schädigen. Sie betont die Verunsicherung bei Investoren und die Problematik für Bürger mit Solaranlagen.
+- **[26:47](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=26m47s)** - **Abgeordneter Jörg Sesan (Die Linke)**: Wirft der Regierung vor, mit den Gesetzentwürfen die Wirtschaftlichkeit von Investitionen in erneuerbare Energien zu untergraben. Er warnt vor einem Rückgang der Arbeitsplätze und betont, dass der Ausbau erneuerbarer Energien den Strompreis senken würde. Er kritisiert die Förderung neuer Gaskraftwerke als falsche Entscheidung und fordert eine Stärkung von Biomasse und die Verknüpfung von Umspannwerken, Batterien und PV-Anlagen.
+- **[30:11](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=30m11s)** - **Abgeordneter Stefan Seitler (Fraktionslos, aber spricht für die Region Norden)**: Bestätigt das Festhalten am Ziel erneuerbarer Energien, kritisiert aber den Gesetzesentwurf wegen der Schaffung neuer Unsicherheit und der Verschlechterung von Bedingungen für erneuerbare Energien, insbesondere im Norden. Er fordert mehr Anreize für Windkraft, PV, Biomasse und Energiespeicher sowie verlässliche Investitionsbedingungen.
+- **[32:07](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=32m7s)** - **Abgeordneter Hans Koller (CDU/CSU)**: Bekennt sich zur Energiewende und den Ausbauzielen erneuerbarer Energien. Er räumt Diskussionsbedarf bei den Gesetzentwürfen ein, nennt Beispiele wie Windkraftausbau im Süden und Agri-PV. Er betont die Notwendigkeit eines vernünftigen Miteinanders verschiedener Energieformen, die Stärkung von Biogas und Bioenergien und eine verantwortungsvolle Politik zur Erreichung einer verlässlichen und bezahlbaren Energieversorgung.
+- **[35:40](https://www.youtube.com/watch?v=R8PSOI4_ssA&t=35m40s)** - **Sitzungsleitung**: Schließt die Aussprache und schlägt die Überweisung der Vorlagen an die zuständigen Ausschüsse vor, was einstimmig angenommen wird.
