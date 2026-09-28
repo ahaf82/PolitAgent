@@ -1,0 +1,89 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7866",
+      "title": "Gesetzentwurf der Bundesregierung: zur Änderung des Energiewirtschaftsrechts zur Synchronisierung des Anlagenzubaus mit dem Netzausbau sowie zur Verbesserung des Netzanschlussverfahrens",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7866&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/8121",
+      "title": "Antrag von Bündnis 90/Die Grünen: Flexibel, digital und effizient – Ein Netzpaket für ein versorgungssicheres 100-Prozent-Erneuerbare-Energiesystem",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8121&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/7906",
+      "title": "Antrag der Linken: Innovative Netzengpasslösungen vorantreiben – Ausbau der Erneuerbaren Energien nicht ausbremsen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7906&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/3911",
+      "title": "Antrag der Linken: Bezahlbar und erneuerbar – Übertragungsnetze in öffentlicher Hand",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3911&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Antrag Fraktion der AfD: Schlanker Staat statt Kostenexplosion - Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf der Bundesregierung zur Änderung des Energiewirtschaftsrechts sowie Anträge der Fraktionen Bündnis 90/Die Grünen und Die Linke wurden zur weiteren Beratung an die zuständigen Ausschüsse überwiesen. Es fand eine namentliche Abstimmung über den \"Tankrabatt\" statt, die mit deutlicher Mehrheit angenommen wurde.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung",
+    "overall_result": {
+      "ja": 434,
+      "nein": 128,
+      "enthaltung": 0,
+      "nicht_abgegeben": 68
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "FDP",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

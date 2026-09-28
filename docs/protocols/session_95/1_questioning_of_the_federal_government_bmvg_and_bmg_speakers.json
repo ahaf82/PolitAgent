@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten auf die Debatte zur Befragung der Bundesregierung (BMVg und BMG) spiegeln die bekannten politischen Positionen ihrer jeweiligen Fraktionen wider. Boris Pistorius, als Verteidigungsminister, wird für seine Rolle bei der Stärkung der Bundeswehr gelobt, während gleichzeitig Fragen zur Effizienz von Rüstungsausgaben aufgeworfen werden. Dr. Carsten Linnemann, Gesundheitsminister, steht im Fokus von Diskussionen über die Reform des Gesundheitssystems, wobei sowohl Unterstützung für Effizienzsteigerungen als auch Kritik an möglichen Leistungskürzungen geäußert werden. Die AfD-Fraktion zeigt sich kritisch bezüglich der Militärpräsenz in Litauen und der Kosten von Rüstungsprojekten, während die CDU/CSU-Fraktion diese als notwendig erachtet. Debatten über das Gesundheitssystem werden fraktionsübergreifend geführt, wobei unterschiedliche Schwerpunkte gesetzt werden.",
+  "sources": [
+    {
+      "name": "Boris Pistorius",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Bundesminister der Verteidigung wird Boris Pistorius für seine Bemühungen zur Stärkung der Bundeswehr und die Stationierung einer Brigade in Litauen sowohl unterstützt als auch kritisiert. Externe Äußerungen fokussieren sich auf seine Rolle in der Verteidigungspolitik und die damit verbundenen Ausgaben und Maßnahmen.",
+      "source_title": "Abgeordnetenbiografie von Boris Pistorius",
+      "url": "https://www.bundestag.de/abgeordnete/biografien/P/pistorius_boris-1046550",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Carsten Linnemann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Carsten Linnemann wird als Bundesminister für Gesundheit für seine Rolle bei der Reform des Gesundheitssystems kritisch beleuchtet. Seine Aussagen und die seiner Fraktion konzentrieren sich auf Effizienzsteigerung und Bezahlbarkeit, während von anderen Seiten Kürzungen und negative Auswirkungen auf die Versorgung befürchtet werden.",
+      "source_title": "Dr. Carsten Linnemann | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/abgeordnete/dr-carsten-linnemann",
+      "platform": "Website"
+    },
+    {
+      "name": "Alice Weidel",
+      "party": "AfD",
+      "found": true,
+      "statement": "Alice Weidel und die AfD-Fraktion äußern sich kritisch zur Stationierung einer Brigade in Litauen und hinterfragen die Kosten sowie die Effizienz von Rüstungsausgaben. Auch im Bereich des Gesundheitswesens äußert die AfD Kritik an geplanten Reformen und Finanzierungsfragen.",
+      "source_title": "Alice Weidel: Vertrauen in die Politik wiederherstellen - Nebeneinkünfte stark begrenzen - Alternative für Deutschland - AfD",
+      "url": "https://www.afd.de/alice-weidel-vertrauen-in-die-politik-wiederherstellen-nebeneinkuenfte-stark-begrenzen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Friedrich Merz und die CDU/CSU-Fraktion unterstützen die Stationierung der Brigade in Litauen als notwendigen Schritt. Sie betonen die Notwendigkeit von Strukturreformen im Gesundheitssystem zur Verbesserung der Versorgungsqualität und loben geplante Reformschritte im Pflegebereich.",
+      "source_title": "Friedrich Merz - Bundesregierung.de",
+      "url": "https://www.bundeskanzler.de/bk-de",
+      "platform": "Website"
+    },
+    {
+      "name": "Robert Habeck",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ricarda Lang",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sahra Wagenknecht",
+      "party": "BSW",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

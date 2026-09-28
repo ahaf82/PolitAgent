@@ -26,6 +26,45 @@
     "processed_at": "2026-09-27T08:09:03.271078"
   },
   {
+    "id": "yNixpj0yjLs",
+    "title": "96th Session on 09/24/2026. Agenda Item 18: 65 Years Since the Construction of the Berlin Wall",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "18",
+    "topic": "65 Jahre Mauerbau: Verantwortung für die Gegenwart, Mahnung für die Zukunft",
+    "summary_path": "protocols/session_96/18_65_years_since_the_construction_of_the_berlin_wall.md",
+    "documents_path": "protocols/session_96/18_65_years_since_the_construction_of_the_berlin_wall_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=yNixpj0yjLs",
+    "processed_at": "2026-09-28T08:02:54.192566"
+  },
+  {
+    "id": "j_ugufjRTsk",
+    "title": "96th Session on 09/24/2026. Agenda Item 17: Housing Policy, University Studies, and Vocational Tr...",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "17",
+    "topic": "Wohnungsmarktpolitik, Hochschulstudium und Berufsbildung",
+    "summary_path": "protocols/session_96/17_housing_policy_university_studies_and_vocational_t.md",
+    "documents_path": "protocols/session_96/17_housing_policy_university_studies_and_vocational_t_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=j_ugufjRTsk",
+    "processed_at": "2026-09-28T08:03:17.779629"
+  },
+  {
+    "id": "4muiHhc2X44",
+    "title": "96th Session on 09/24/2026. Agenda Item 16: Grid Expansion",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "16",
+    "topic": "Netzausbau",
+    "summary_path": "protocols/session_96/16_grid_expansion.md",
+    "documents_path": "protocols/session_96/16_grid_expansion_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=4muiHhc2X44",
+    "processed_at": "2026-09-28T08:03:43.724443"
+  },
+  {
     "id": "J1lrlMRKcAk",
     "title": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgen...",
     "session": 0,
@@ -63,6 +102,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=O3JKZx-tu74",
     "processed_at": "2026-09-26T08:03:06.408200"
+  },
+  {
+    "id": "y_-GOPV82bk",
+    "title": "95th Session on 09/23/2026. Agenda Item 1: Questioning of the Federal Government (BMVg and BMG)",
+    "session": 95,
+    "date": "2026-09-23",
+    "top": "1",
+    "topic": "Befragung der Bundesregierung (BMVg und BMG)",
+    "summary_path": "protocols/session_95/1_questioning_of_the_federal_government_bmvg_and_bmg.md",
+    "documents_path": "protocols/session_95/1_questioning_of_the_federal_government_bmvg_and_bmg_documents.json",
+    "speakers_path": "protocols/session_95/1_questioning_of_the_federal_government_bmvg_and_bmg_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=y_-GOPV82bk",
+    "processed_at": "2026-09-28T08:01:58.099035"
   },
   {
     "id": "Hf-9GRjw4b8",
@@ -2674,6 +2726,32 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "FiHYIt9-gA0",
+    "title": "96th Session of 09/24/2026. Agenda Item 5: Ukraine: EU Membership and Military Assistance",
+    "session": 96,
+    "date": "N/A",
+    "top": "5",
+    "topic": "96. Sitzung am 24.09.2026: EU-Mitgliedschaft und militärische Hilfe für die Ukraine",
+    "summary_path": "protocols/session_96/5_96th_session_of_09_24_2026_agenda_item_5_ukraine_e.md",
+    "documents_path": "protocols/session_96/5_96th_session_of_09_24_2026_agenda_item_5_ukraine_e_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=FiHYIt9-gA0",
+    "processed_at": "2026-09-28T08:02:31.089623"
+  },
+  {
+    "id": "ZhDTB4ZkBQg",
+    "title": "96th Session of 09/24/2026. Agenda Item 15: Education Policy",
+    "session": 96,
+    "date": "N/A",
+    "top": "15",
+    "topic": "96. Sitzung vom 24.09.2026: Debatte zur Bildungspolitik",
+    "summary_path": "protocols/session_96/15_96th_session_of_09_24_2026_agenda_item_15_educatio.md",
+    "documents_path": "protocols/session_96/15_96th_session_of_09_24_2026_agenda_item_15_educatio_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=ZhDTB4ZkBQg",
+    "processed_at": "2026-09-28T08:04:09.902642"
   },
   {
     "id": "eqTDd8e5fAs",
