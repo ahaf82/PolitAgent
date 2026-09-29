@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externen Äußerungen der identifizierten Abgeordneten zum Arbeitsprogramm der Europäischen Kommission 2027 spiegeln die im Plenum geäußerten Positionen wider. Die CDU/CSU-Politiker betonten die Notwendigkeit einer gestärkten europäischen Rolle und des Binnenmarktes, während die AfD-Vertreter die Souveränität Deutschlands und eine kritische Haltung gegenüber Brüsseler Plänen hervorhoben. Die Grünen forderten eine technologisch und wirtschaftlich führende EU und eine stärkere europäische Zusammenarbeit, während Die Linke auf Arbeitnehmerrechte und eine besser finanzierte EU pochte. Die Äußerungen finden sich hauptsächlich auf den Websites der Fraktionen und in Pressediensten, mit wenigen spezifischen Verweisen auf persönliche Kanäle.",
+  "sources": [
+    {
+      "name": "Tilmann Kuban",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Tilman Kuban verteidigt die EU-Kommission von Ursula von der Leyen und betont die Notwendigkeit einer gemeinsamen europäischen Handlungsfähigkeit, insbesondere angesichts globaler Herausforderungen und der Rolle Deutschlands in Europa. Er hat sich kritisch mit den Reaktionen auf Nazi-Symbolik auseinandergesetzt.",
+      "source_title": "Rede von Tilman Kuban zur Regierungserklärung von Bundeskanzler Friedrich Merz zum Europäischen Rat am 18./19. Juni 2026",
+      "url": "https://www.youtube.com/watch?v=fvbwJpkbRT4",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Peter Böringer",
+      "party": "AfD",
+      "found": true,
+      "statement": "Peter Boehringer kritisiert die Eurorettung und die Klimapolitik der EU. Er äußert Bedenken bezüglich der Souveränität Deutschlands und der Rolle der EU in der Geld- und Währungspolitik. Er positioniert sich als Kritiker der EU-Pläne und der aktuellen Ausgabenpolitik.",
+      "source_title": "AfD-Politiker Peter Boehringer - \"Wir hätten die Eurorettung niemals gestatten dürfen\"",
+      "url": "https://www.deutschlandfunk.de/afd-politiker-peter-boehringer-wir-haetten-die-eurorettung-100.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Markus Tönz",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Shanal Kopf",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Die Grünen-Bundestagsfraktion betont die Notwendigkeit einer europäischen Souveränität und kritisiert die EU-Agrarpolitik als Rückschritt für Umwelt und Klimaschutz. Sie fordern eine stärkere Bindung von EU-Geldern an Umweltstandards und eine konsequente Umsetzung des Prinzips 'öffentliches Geld für öffentliche Leistungen'.",
+      "source_title": "EU-Agrarpolitik nach 2027: Fataler Rückschritt für die Umwelt",
+      "url": "https://www.gruene-bundestag.de/unsere-politik/fachtexte/eu-agrarpolitik-nach-2027-fataler-rueckschritt-fuer-die-umwelt/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Janina Bött",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Roland Teis",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Tobias Teib",
+      "party": "AfD",
+      "found": true,
+      "statement": "Tobias Teich, Mitglied im Ausschuss für die Angelegenheiten der Europäischen Union, betont die Wichtigkeit der nationalstaatlichen Souveränität und kritisiert die deutsche Ungarn-Politik. Er setzt sich für eine Stärkung der nationalen Interessen innerhalb Europas ein und spricht sich gegen eine weitere Kompetenzverlagerung nach Brüssel aus.",
+      "source_title": "Angelegenheiten der Europäischen Union - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/arbeitskreise/europa/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Alexander Radbahn",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

@@ -65,6 +65,19 @@
     "processed_at": "2026-09-28T08:03:43.724443"
   },
   {
+    "id": "R8PSOI4_ssA",
+    "title": "96th Session on 09/24/2026. Agenda Item 14: Expansion of renewable energy",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "14",
+    "topic": "Ausbau Erneuerbarer Energien",
+    "summary_path": "protocols/session_96/14_expansion_of_renewable_energy.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=R8PSOI4_ssA",
+    "processed_at": "2026-09-29T08:03:40.809507"
+  },
+  {
     "id": "J1lrlMRKcAk",
     "title": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgen...",
     "session": 0,
@@ -2726,6 +2739,19 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "PIuRgq6eq6s",
+    "title": "96th Session of 09/24/2026. Agenda Item AP 4: Israeli Occupation Policy in the West Bank",
+    "session": 96,
+    "date": "N/A",
+    "top": "AP",
+    "topic": "Israelische Besatzungspolitik im Westjordanland",
+    "summary_path": "protocols/session_96/ap_96th_session_of_09_24_2026_agenda_item_ap_4_israel.md",
+    "documents_path": "protocols/session_96/ap_96th_session_of_09_24_2026_agenda_item_ap_4_israel_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=PIuRgq6eq6s",
+    "processed_at": "2026-09-29T08:05:09.787061"
   },
   {
     "id": "FiHYIt9-gA0",
@@ -6011,6 +6037,32 @@
     "speakers_path": "protocols/session_unknown/top_unknown_disinformation_campaigns_against_development_coope_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=rtc_eP2RNtY",
     "processed_at": "2026-09-26T08:01:15.020407"
+  },
+  {
+    "id": "HtckWre_62c",
+    "title": "Fachgespräch zur Pflege traumatisierter Opfer des DDR-Unrechts",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Fachgespräch zur Stärkung von Traumasensibilität in der Pflege",
+    "summary_path": "protocols/session_unknown/top_unknown_fachgespraech_zur_pflege_traumatisierter_opfer_des.md",
+    "documents_path": "protocols/session_unknown/top_unknown_fachgespraech_zur_pflege_traumatisierter_opfer_des_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_fachgespraech_zur_pflege_traumatisierter_opfer_des_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=HtckWre_62c",
+    "processed_at": "2026-09-29T08:05:45.887406"
+  },
+  {
+    "id": "mDWe2OChLqE",
+    "title": "96th meeting of 24 September 2026. Item 13: European Commission Work Programme 2027",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "96. Sitzung vom 24. September 2026. Tagesordnungspunkt 13: Arbeitsprogramm der Europäischen Kommission 2027",
+    "summary_path": "protocols/session_unknown/top_unknown_96th_meeting_of_24_september_2026_item_13_european.md",
+    "documents_path": "protocols/session_unknown/top_unknown_96th_meeting_of_24_september_2026_item_13_european_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_96th_meeting_of_24_september_2026_item_13_european_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=mDWe2OChLqE",
+    "processed_at": "2026-09-29T08:06:20.440624"
   },
   {
     "id": "vHNXQug-Frc",

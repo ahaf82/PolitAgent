@@ -1,0 +1,113 @@
+{
+  "synthesis": "Das Fachgespräch zur Stärkung von Traumasensibilität in der Pflege verdeutlichte die Notwendigkeit, die besonderen Bedürfnisse von Menschen mit Gewalterfahrungen, insbesondere aus der DDR-Zeit, zu erkennen und zu adressieren. Externe Äußerungen und Aktivitäten der beteiligten Politiker und Experten spiegeln dieses Engagement wider. Katrin Staffler betont die Wichtigkeit guter Arbeitsbedingungen für bedarfsgerechte Pflege. Barbara Kavemann und Ulrike Hoffmann engagieren sich in der Aufarbeitung sexuellen Kindesmissbrauchs und der Prävention. Martina Böhmer leistet durch ihre Beratungsstelle und Publikationen Aufklärungsarbeit zu Trauma bei älteren Frauen. Matthias Morawski bietet Betroffenen von DDR-Unrecht Beratung und Unterstützung an.",
+  "sources": [
+    {
+      "name": "Katrin Staffler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Als Bevollmächtigte der Bundesregierung für Pflege betont Katrin Staffler die Notwendigkeit von Zeit und Empathie in der Pflege, um traumasensible Versorgung zu ermöglichen, und hebt hervor, dass gute Arbeitsbedingungen allen zugutekommen. Sie setzt sich für eine zukunftsfähige und bürokratiearme Pflege ein.",
+      "source_title": "Fachgespräch zur Pflege traumatisierter Opfer des DDR-Unrechts - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Prof. Dr. Barbara Kavemann",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Prof. Dr. Barbara Kavemann, Mitglied der Unabhängigen Kommission zur Aufarbeitung sexuellen Kindesmissbrauchs, forscht seit den 1980er Jahren zu sexueller Gewalt in Kindheit und Jugend und deren Folgen für Betroffene.",
+      "source_title": "Barbara Kavemann - Mitglied der Aufarbeitungskommission",
+      "url": "https://www.aufarbeitungskommission.de/kommission/ueber-uns/kommissionsmitglieder/barbara-kavemann/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Marlene Kowalski",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Als Leiterin der Fachstelle „Aktiv gegen sexualisierte Gewalt“ der Diakonie Deutschland bündelt Dr. Marlene Kowalski Aktivitäten zur Prävention und Intervention und setzt sich politisch für die Anerkennung des Leids von Betroffenen ein.",
+      "source_title": "Aktiv gegen sexualisierte Gewalt in Kirche und Diakonie - Diakonie Deutschland",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Maja Böhm",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Dr. Maja Böhm ist Teil des Forschungsverbunds „TESTIMONY“, der sich mit den Erfahrungen in DDR-Kinderheimen, deren Bewältigung und Aufarbeitung befasst und deren Ergebnisse sie in das Fachgespräch einbrachte.",
+      "source_title": "TESTIMONY – Erfahrungen in DDR-Kinderheimen. Bewältigung und Aufarbeitung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Prof. Dr. Silke Garleitner",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Prof. Dr. Silke Garleitner forscht unter anderem zu Versorgungsmöglichkeiten und Gefahren für ehemalige Heimkinder im Alter und arbeitet dabei eng mit der Unabhängigen Kommission zur Aufarbeitung sexuellen Kindesmissbrauchs zusammen.",
+      "source_title": "Versorgungsmöglichkeiten und -gefahren ehemaliger Heimkinder im Alter",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Karl Hauke",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Stefan Tromisch-Lütke",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Petra Schwarzer-Knappe",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Martina Böhmer",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Martina Böhmer, Traumafachberaterin und Referentin, setzt sich mit ihrer Beratungsstelle Paula e.V. für die Verbesserung der Lebenssituation und des Wohlergehens von älteren Frauen ein, die Traumata und Gewalt erlebt haben oder aktuell erleben.",
+      "source_title": "Team – Paula e.V. Köln | Beratungsstelle für Frauen ab 60",
+      "url": "https://paula-ev-koeln.de/ueber-uns/team/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Ulrike Hoffmann",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Dr. Ulrike Hoffmann, Mitglied der Aufarbeitungskommission, leitet die Arbeitsgruppe „Wissenstransfer, Dissemination, E-Learning“ an der Klinik für Kinder- und Jugendpsychiatrie des Universitätsklinikums Ulm und entwickelt Online-Kurse zum Kinderschutz, um Fachkräfte zu sensibilisieren.",
+      "source_title": "Die Kommissionsmitglieder stellen sich vor: Ulrike Hoffmann - Aufarbeitungskommission",
+      "url": "https://www.aufarbeitungskommission.de/service-presse/service/meldungen/die-kommissionsmitglieder-stellen-sich-vor-ulrike-hoffmann/",
+      "platform": "Website"
+    },
+    {
+      "name": "Berina Bikers",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Matthias Morawski",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Matthias Morawski, Referent für Bürgerberatung und Rehabilitierung beim Thüringer Landesbeauftragten zur Aufarbeitung der SED-Diktatur, berichtet über das Beratungsangebot für ehemalige DDR-Heimkinder und die Unterstützung bei der Inanspruchnahme psychosozialer und amtlicher Hilfen.",
+      "source_title": "Beratungsangebot für ehemalige DDR-Heimkinder wird gut angenommen - OscarAmFreitag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
