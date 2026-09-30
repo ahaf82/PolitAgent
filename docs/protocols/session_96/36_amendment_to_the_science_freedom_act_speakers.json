@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zur Änderung des Wissenschaftsfreiheitsgesetzes wurde von den verschiedenen Fraktionen unterschiedlich bewertet. Während die Unionsfraktion und die SPD die Gesetzesänderung als wichtigen Schritt zur Flexibilisierung und Stärkung des Forschungsstandorts Deutschland begrüßten, kritisierten Bündnis 90/Die Grünen das langsame Tempo der Regierung. Die AfD sah in der Änderung eine längst überfällige, aber nicht ausreichende Maßnahme und forderte stärkere Schutzmechanismen für die Wissenschaftsfreiheit. Die Linke lehnte den Gesetzentwurf ab und bemängelte die Fokussierung auf Gehaltsregelungen statt auf grundlegende Probleme wie Finanzierung und Arbeitsbedingungen. Außerhalb des Plenums äußerten sich die Abgeordneten ähnlich ihren Fraktionspositionen. Holger Mann (SPD) betonte die Entbürokratisierung und faire Wettbewerbsbedingungen, während Florian Müller (CDU/CSU) den Bürokratieabbau und die Flexibilisierung hervorhob. Die AfD-Vertreter, wie Ingo Hahn und Michael Kaufmann, äußerten weiterhin Bedenken hinsichtlich des Schutzes der Wissenschaftsfreiheit und kritisierten das Gesetz als unzureichend. Sonja Lemke (Die Linke) kritisierte die Fokussierung auf Gehaltsfragen und die Vernachlässigung grundlegender Probleme.",
+  "sources": [
+    {
+      "name": "Florian Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Müller bezeichnete die Gesetzesänderung als Behebung eines jahrzehntelangen Konstruktionsfehlers im Besserstellungsverbot, der keine Mehrkosten für den Steuerzahler verursache, da höhere Gehälter aus Drittmitteln oder EU-Geldern finanziert würden. Er sah dies als wichtigen Schritt zur Stärkung der Freiheit für Forschungseinrichtungen und dankte allen Beteiligten für die Zusammenarbeit.",
+      "source_title": "Bundestag beschließt mehr Freiheit für die Forschung | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/presse/bundestag-beschliesst-mehr-freiheit-fuer-die-forschung",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "found": true,
+      "statement": "Hahn kritisierte, dass die Gesetzesänderung eine längst überfällige Lockerung einer Gehaltsregel sei, aber keine echte Reform der Wissenschaftsfreiheit darstelle. Er betonte, dass das Gesetz keine echten Schutzmechanismen gegen ideologisch motivierte Einschüchterung und Ausgrenzung von Wissenschaftlern biete und forderte klare Regeln zum Schutz des Lehrbetriebs und der Meinungsfreiheit.",
+      "source_title": "AfD-Fraktion fordert klare Regeln für freie Forschung",
+      "url": "https://afdbundestag.de/afd-fraktion-fordert-klare-regeln-fuer-freie-forschung/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Holger Mann",
+      "party": "SPD",
+      "found": true,
+      "statement": "Mann beschrieb die Änderung als Behebung eines 'Webfehlers' des Wissenschaftsfreiheitsgesetzes, der faire Wettbewerbsbedingungen schaffe und gemeinnützigen Instituten mehr Flexibilität ermögliche. Er betonte den Abbau bürokratischer Hürden und die Einbeziehung weiterer Institute, ohne dass zusätzliche Steuermittel benötigt würden.",
+      "source_title": "Wissenschaftsfreiheitsgesetz stärkt Fachkräftegewinnung | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/wissenschaftsfreiheitsgesetz-staerkt-fachkraeftegewinnung",
+      "platform": "Presse"
+    },
+    {
+      "name": "Eische Aar",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Lemke lehnte den Gesetzentwurf ab und kritisierte die Fokussierung auf Gehaltsregelungen, während drängende Probleme wie unsichere Finanzierung und prekäre Arbeitsbedingungen unadressiert blieben. Sie bemängelte die Streichung von Kontrollmechanismen und sah darin einen Abbau öffentlicher Kontrolle.",
+      "source_title": "Falsche Prioritäten bei der Forschung - Die Linke MdB Sonja Lemke",
+      "url": "https://www.sonja-lemke.de/detail-artikel/news/falsche-prioritaeten-bei-der-forschung/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dorothée Bär",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bundesministerin Bär hob die Bedeutung von Wissen hervor und erklärte, dass die Gesetzesänderung Forschern ermögliche, marktübliche Gehälter aus Drittmitteln zu zahlen. Sie sah dies als wichtigen Baustein zur Stärkung des Forschungsstandorts und zum Abbau von Bürokratie für Forschende.",
+      "source_title": "Bundesforschungsministerin zur Wissenschaftsfreiheit - Bundesregierung.de",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/bmftr-wissenschaftsfreiheit-2454140",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Michael Kaufmann",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kaufmann sah die Gesetzesänderung als vernünftig und überfällig an, kritisierte aber weiterhin die mangelnde umfassende Entlastung der Wissenschaft und die bürokratischen Hürden. Er betonte, dass die AfD die Flexibilisierung des Besserstellungsverbots mittrage, aber keine große Reform der Wissenschaftsfreiheit darstelle.",
+      "source_title": "Dr. Michael Kaufmann, MdB, AfD",
+      "url": "N/A",
+      "platform": "Bundestag"
+    },
+    {
+      "name": "Dr. Nina Seizel",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stefan Albani",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Albani beschrieb das Gesetz als Lösung einer jahrzehntelangen Bremse, die keine zusätzlichen Kosten verursache, da höhere Gehälter aus anderen Quellen stammten. Er betonte die neu gewonnene Freiheit für Forschungseinrichtungen und dankte für die Zusammenarbeit.",
+      "source_title": "Bundestag beschließt mehr Freiheit für die Forschung | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/presse/bundestag-beschliesst-mehr-freiheit-fuer-die-forschung",
+      "platform": "Presse"
+    }
+  ]
+}

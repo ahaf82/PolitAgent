@@ -1,0 +1,65 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Die Debatte drehte sich um Anträge der Fraktionen Bündnis 90/Die Grünen und Die Linke zur Verankerung von Klimaanpassung und Naturschutz als Gemeinschaftsaufgabe im Grundgesetz. Die namentliche Abstimmung fand über den Antrag der Fraktion Bündnis 90/Die Grünen statt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=769958",
+    "overall_result": {
+      "ja": 174,
+      "nein": 489,
+      "enthaltung": 26,
+      "nicht_abgegeben": 1
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 148,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 0,
+        "nein": 173,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 174,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "FDP",
+        "ja": 0,
+        "nein": 75,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 137,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 1,
+        "enthaltung": 26,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "BSW",
+        "ja": 0,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

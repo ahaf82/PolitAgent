@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die externen Stellungnahmen der Abgeordneten zum Thema Klimaanpassung und Naturschutz spiegeln die Debatten im Bundestag wider. Während die Grünen und die Linke auf die dringende Notwendigkeit von Grundgesetzänderungen zur finanziellen Unterstützung von Kommunen drängen, betonen CDU/CSU und FDP die Notwendigkeit, bestehende Strukturen zu prüfen und bürokratische Hürden zu vermeiden. Die AfD lehnt die vorgeschlagenen Maßnahmen als überflüssig und kostspielig ab. Die SPD erkennt die Problematik an, betont aber die Notwendigkeit eines breiteren Konsenses. Die BSW-Abgeordnete warnt vor den aktuellen Klimafolgen und kritisiert die Union für ihre Zurückhaltung.",
+  "sources": [
+    {
+      "name": "Dr. Juliaen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Klaus Maik",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Harald Ebner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sebastian Münzenmaier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Anträge der Grünen und Linken als Versuch, \"Klimagedöns\" zu betreiben und Steuergelder zu verschwenden. Schlägt vor, Gelder aus der Aufbauhilfe für Hochwasserschutzanlagen zu verwenden, anstatt neue bürokratische Strukturen zu schaffen.",
+      "source_title": "AfD-Fraktion im Deutschen Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=bF82YKoshbw&t=12m28s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Jakob Plankenburg",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont die Notwendigkeit, Klimaanpassung als gesamtstaatliche Aufgabe anzuerkennen und im Grundgesetz zu verankern. Kritisiert die Union für Blockadehaltung und die Grünen für \"Augenwischerei\".",
+      "source_title": "SPD-Bundestagsfraktion unterstützt Grundgesetzänderung für \"Klimaanpassung\"",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sarah Miro",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Josef Oster",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont, dass Kommunen Freiheit und finanzielle Handlungsspielräume benötigen, anstatt übergriffiger Vorgaben aus Berlin. Kritisiert Anträge als bürokratisch und fordert die Prüfung bestehender Möglichkeiten.",
+      "source_title": "Klimaanpassung braucht starke Kommunen | Rede im Bundestag | Josef Oster, MdB",
+      "url": "https://www.youtube.com/watch?v=4MtWGErZET8",
+      "platform": "Website"
+    },
+    {
+      "name": "Julia Schneider",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "found": true,
+      "statement": "Stellt die Notwendigkeit einer Grundgesetzänderung in Frage, da Klimaschutz bereits verankert sei. Kritisiert die Anträge als Versuch, Geld für \"Geschwätzologen\" und \"Klimaklientel\" zu schaffen und verweist auf historische Klimaveränderungen.",
+      "source_title": "Dr. Ingo Hahn, MdB, AfD - DIP - Deutscher Bundestag",
+      "url": "https://dip.bundestag.de/aktivit%C3%A4t/dr-ingo-hahn-mdb-afd/1802853",
+      "platform": "Website"
+    },
+    {
+      "name": "Angelika Glöckner",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont, dass Hitzeschutz eine soziale Frage sei und die Bundesregierung bereits Grundlagen geschaffen habe. Unterstützt die Idee einer Grundgesetzänderung, betont aber die Notwendigkeit einer gemeinsamen Lösung.",
+      "source_title": "Angelika Glöckner: Mitteilungen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Carolin Otter",
+      "party": "BSW",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Fabian Fah",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Fordert, dass das Umweltministerium kompetenter gemacht wird und die Gemeinschaftsaufgabe als Lösung für Hitzeschutz implementiert wird. Betont die Notwendigkeit, besonders gefährdete Gruppen zu schützen und finanzschwache Kommunen zu unterstützen.",
+      "source_title": "Fabian Fahl (Die Linke, Klimapolitischer Sprecher) zur Energiepolitik der Bundesregierung - YouTube",
+      "url": "https://www.youtube.com/watch?v=bF82YKoshbw&t=45m53s",
+      "platform": "Social Media"
+    }
+  ]
+}

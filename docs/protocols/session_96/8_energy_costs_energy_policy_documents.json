@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/5322",
+      "title": "Sofortige Senkung der Energiekosten - Beendigung aller deutschen Klimaschutzmaßnahmen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5322&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5650",
+      "title": "Beschlussempfehlung und Bericht Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5650&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/8115",
+      "title": "Der drohenden Kraftstoffkrise durch souveräne Energiepolitik entgegenwirken – Industrie und Mittelstand retten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8115&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Antrag 'Sofortige Senkung der Energiekosten - Beendigung aller deutschen Klimaschutzmaßnahmen' wurde mit der Mehrheit von CDU/CSU, SPD, Bündnis 90/Die Grünen und Die Linke abgelehnt. Ein weiterer Antrag der AfD wurde an den federführenden Ausschuss überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

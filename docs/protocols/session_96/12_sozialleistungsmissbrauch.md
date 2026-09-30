@@ -8,54 +8,62 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=ZC0lT3QPzhM)
 
 ## Kurzzusammenfassung
-Die Debatte im Deutschen Bundestag befasste sich mit dem Thema Sozialleistungsmissbrauch. Kernpunkte waren die Notwendigkeit, den Sozialstaat vor Ausbeutung zu schützen, die Effektivität bestehender Maßnahmen und die unterschiedlichen Ansätze der Fraktionen zur Lösung des Problems. Während die Koalition einen Aktionsplan vorstellte, der auf verbesserten Datenaustausch und gezielte Bekämpfung von kriminellen Strukturen setzt, kritisierten Oppositionsparteien die Maßnahmen als unzureichend oder als pauschalen Generalverdacht.
+Die Debatte im Deutschen Bundestag befasste sich mit dem Thema Sozialleistungsmissbrauch. Kern der Diskussion war der von der Bundesregierung vorgelegte Aktionsplan zur Bekämpfung von Sozialleistungsmissbrauch. Die Fraktionen der AfD forderten strengere Maßnahmen und kritisierten bestehende Lücken im System, insbesondere im Hinblick auf die Zuwanderung und den Kindergeldbezug. Die Koalitionsfraktionen von SPD und Bündnis 90/Die Grünen verteidigten den Aktionsplan als konsequenten Schritt zur Verbesserung der Effizienz und zur Bekämpfung von organisierter Kriminalität, während sie die pauschale Verurteilung von Leistungsempfängern ablehnten. Die Unionsfraktion unterstützte die Notwendigkeit, den Sozialstaat zu sichern und betonte die Bedeutung von Vertrauen und Verantwortung. Die Fraktion Die Linke kritisierte sowohl den Antrag der AfD als auch die Darstellung der Regierung und forderte eine gerechtere Verteilung von Verantwortung.
 
 ## Kernaussagen und Positionen der Fraktionen
 - **AfD**:
-  - Es bestehe ein erheblicher gesellschaftlicher Schaden durch Sozialmissbrauch und Schwarzarbeit, der auf über 100 Milliarden Euro geschätzt wird.
-  - Das deutsche Sozialrecht sei zu komplex und biete zahlreiche Anknüpfungspunkte für Missbrauch.
-  - Die AfD fordert seit Jahren Maßnahmen zur Bekämpfung des Missbrauchs und sieht ihre Forderungen teilweise im Aktionsplan der Regierung wieder.
-  - Kritisiert wird, dass der Aktionsplan Lücken lasse, insbesondere bei der Einwanderung ins Grundsicherungssystem, bei der Handhabung von EU-Ausländern mit geringem Verdienst und bei der Kindergeldüberweisung ins Ausland.
+  - Kritisiert, dass das Thema Sozialmissbrauch erst kurz vor Wahlen angegangen wird und der Aktionsplan zu oberflächlich ist.
+  - Fordert strengere Maßnahmen gegen illegale Einwanderung in das Sozialsystem und eine Anpassung des Kindergeldes an das Niveau im Herkunftsland.
+  - Bemängelt, dass bestehende Gesetze und Maßnahmen nicht konsequent umgesetzt werden und die Bundesregierung eher Zettel schreibe statt Gesetzentwürfe vorzulegen.
 - **CDU/CSU**:
-  - Der Sozialstaat müsse einfacher, schneller und wirksamer werden, aber auch besser gegen Ausbeutung geschützt werden.
-  - Mit der Reform des Bürgergeldes wurden bereits Maßnahmen zur Erhöhung der Verbindlichkeit, zur Einrichtung eines Kompetenzzentrums gegen Sozialleistungsmissbrauch und zur Haftung von Arbeitgebern bei Schwarzarbeit ergriffen.
-  - Der vorgelegte Aktionsplan sieht eine Bündelung von Behörden, die Bekämpfung von Schrottimmobilien und eine Neuregelung der Freizügigkeit in Europa vor.
-  - Leistung müsse sich lohnen, und die Transferentzugsraten sollen verbessert werden.
-  - Die CDU/CSU betont, dass es um die Bekämpfung von Missbrauch gehe, unabhängig von der Herkunft der Personen.
+  - Betont die Notwendigkeit, den Sozialstaat einfacher, schneller und wirksamer zu gestalten sowie sich besser gegen Ausbeutung zu wehren.
+  - Unterstützt den Aktionsplan der Bundesregierung, der den Behörden-Datenaustausch, die Bekämpfung von Schrottimmobilien und die Neuregelung der Freizügigkeit in Europa vorsieht.
+  - Legt Wert darauf, dass Leistung sich lohnen muss und die Transferentzugsraten verbessert werden.
 - **Bündnis 90/Die Grünen**:
-  - Die wiederholte Thematisierung von Sozialleistungsmissbrauch durch die AfD wird als "durchschaubares Manöver" und "rechte Blödsinn" bezeichnet.
-  - Die Zahlen zum bandenmäßigen Betrug beim Bürgergeld seien mit 0,007% gering.
-  - Steuerbetrug verursache einen deutlich höheren Schaden (über 100 Milliarden Euro) und werde weniger hart verfolgt.
-  - Die AfD wird als Partei der Lügen, Hetze und des Rechtsextremismus dargestellt, die die kleinen Leute nur vortäusche.
-  - Es wird ein Verbot der AfD oder deren Einstufung als kriminelle Vereinigung gefordert.
+  - Kritisiert die AfD scharf wegen Lügen, Hetze und der Kriminalisierung von Migranten.
+  - Verweist auf geringe Zahlen bei bandenmäßigem Betrug im Vergleich zum Steuerbetrug und fordert eine Offensive gegen Finanzkriminalität.
+  - Unterstützt den Aktionsplan der Bundesregierung und hebt die Bekämpfung organisierter Kriminalität hervor.
 - **SPD**:
-  - Sozialleistungsmissbrauch sei kein Massenphänomen, schwere Fälle seien selten (406 angezeigte Fälle bandenmäßigen Betrugs im Jahr 2025).
-  - Die Akzeptanz des Sozialstaats hänge von seiner Fähigkeit ab, Menschen zu helfen und sie in Arbeit zu vermitteln.
-  - Der Aktionsplan der Bundesregierung sei ein gezieltes Vorgehen gegen organisierte Kriminalität und nicht gegen Leistungsempfänger.
-  - Wichtige Punkte des Aktionsplans sind verbesserter Datenaustausch, Entzug von Sozialleistungen für Straftäter, Vorgehen gegen Schrottimmobilien und Ausweitung der Arbeitgeberhaftung.
-  - Es wird betont, dass der Aktionsplan die Probleme anpacke, während die AfD einen Generalverdacht schaffe.
+  - Stellt klar, dass Sozialleistungsmissbrauch kein Massenphänomen darstellt und betont die Wichtigkeit der Akzeptanz des Sozialstaats durch wirksame Hilfe und Vermittlung in Arbeit.
+  - Dankt der Bundesministerin für die Initiative zum Aktionsplan, der den Datenaustausch, die Sanktionierung von Straftätern und die Haftung von Arbeitgebern verbessert.
+  - Unterscheidet sich von der AfD, indem nicht alle Leistungsempfänger unter Generalverdacht gestellt werden, sondern der Missbrauch gezielt bekämpft wird.
 - **Die Linke**:
-  - Der Antrag der AfD wird als "nutzlos" bezeichnet, und die Regierung wird kritisiert, sich als "Sozialstaatsretter" zu inszenieren.
-  - Die Debatte sei eine "Manipulation" und Schüren von Ängsten, um von der Angst vor einer starken Linken abzulenken.
-  - Millionen von Menschen mit Migrationshintergrund leisten wichtige Arbeit für das Land.
-  - Der Union wird vorgeworfen, Bevölkerungsgruppen unter Generalverdacht zu stellen.
-  - Politische Verantwortung bedeute nicht, Feindbilder zu produzieren, und das Land gehöre allen, unabhängig von ihrer Herkunft.
-  - Es wird die Bedeutung der Anerkennung von migrantischen Kindern als Teil der Gesellschaft betont.
-- **Fraktionslos (Peter Aumer - CDU/CSU, aber mit klarer Abgrenzung zur Linken Rede)**:
-  - Der Sozialstaat lebe von Verantwortung und Vertrauen.
-  - Die Linke habe mit ihrer Rede gespalten, indem sie die Debatte auf Migration bezogen habe, anstatt sich auf die Bekämpfung von Missbrauch zu konzentrieren.
-  - Missbrauch sei unabhängig von der Hautfarbe zu bekämpfen.
-  - Der Aktionsplan der Bundesregierung sei ein Schritt in die richtige Richtung.
-  - Die Praxis der "Tauschbörsen" für Geldleistungen, die auch von linken und grünen Räumlichkeiten unterstützt würden, untergrabe das Vertrauen in Staatlichkeit und Rechtsstaatlichkeit. Die Bezahlkarte sei hierfür eine wichtige Maßnahme.
+  - Bezeichnet den Antrag der AfD als nutzlos und die Darstellung der Regierung als Sozialstaatsretter als erbärmlich.
+  - Kritisiert, dass die Bevölkerung durch die Fokussierung auf Missbrauch und die Darstellung von Migranten als Sündenböcke manipuliert wird.
+  - Betont die Wichtigkeit von Millionen Menschen mit Migrationshintergrund für das Funktionieren des Landes und fordert, sie als Teil der Gesellschaft anzuerkennen.
+- **Fraktionslos / Unidentifiziert (Bezahlkarte)**:
+  - Weist auf die organisierte Tauschbörse von links- und grünennahen Organisationen hin, die die Bezahlkarte umgehen und fordert die konsequente Umsetzung der Regeln zur Bezahlkarte.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und die Debatte zum TOP 12 begonnen.
-- **[00:00:15](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=0m15s)** - **Gerarett Hui (AfD)**: Kritisiert, dass Sozialmissbrauch und Einwanderung in die Sozialsysteme anfangs nicht anerkannt wurden. Verweist auf den gemeinsamen Aktionsplan von Arbeits- und Innenministerium als Reaktion auf Forderungen der AfD. Hebt hervor, dass der Schaden durch Sozialmissbrauch und Schwarzarbeit auf über 100 Milliarden Euro geschätzt wird und das Sozialrecht zu komplex sei.
-- **[03:53](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=3m53s)** - **Kai Witter (CDU/CSU)**: Erklärt, dass die Koalition den Sozialstaat zukunftsfit machen wolle, indem sie Menschen besser helfe und sich gleichzeitig besser gegen Ausbeutung wehre. Verweist auf die Reform des Bürgergeldes mit mehr Verbindlichkeit, einem Kompetenzzentrum gegen Sozialleistungsmissbrauch und Haftung von Arbeitgebern. Stellt den Aktionsplan vor, der Behörden-Pingpong beenden, gegen Schrottimmobilien vorgehen und die Freizügigkeit in Europa neu regeln solle.
-- **[09:00](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=9m0s)** - **Timon Zenius (Bündnis 90/Die Grünen)**: Bezeichnet die wiederholte Debatte zum Thema als "Manöver" der AfD. Bezichtigt die AfD der Lüge und Hetze und verweist auf geringe Zahlen zum bandenmäßigen Betrug beim Bürgergeld (0,007%). Stellt den Schaden durch Steuerbetrug (über 100 Milliarden Euro) als höher dar und fordert eine Offensive dagegen. Beschuldigt die AfD, Partei der Lügen, der Reichen und des Rechtsextremismus zu sein.
-- **[13:30](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=13m30s)** - **Jens Peik (SPD)**: Bezeichnet den Antrag der AfD als nutzlos und die Regierung als nicht als Sozialstaatsretter zu sehen. Kritisiert die pauschale Kriminalisierung von Leistungsempfängern. Verweist auf geringe Zahlen (406 Fälle bandenmäßigen Betrugs im Jahr 2025) und betont, dass die Akzeptanz des Sozialstaats von seiner Hilfsfunktion abhänge. Erklärt, dass der Aktionsplan gegen organisierte Kriminalität gerichtet sei und nennt die Maßnahmen wie Datenaustausch, Sanktionen für Straftäter und Arbeitgeberhaftung.
-- **[16:51](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=16m51s)** - **Kanin Köcktürk (Die Linke)**: Nennt den Antrag der AfD "nutzlos" und die Regierung als "erbärmlich". Kritisiert die Angst vor einer starken Linken und betont die Bedeutung von Millionen Menschen mit Migrationshintergrund für das Land. Fordert, dass die Union aufhöre, Bevölkerungsgruppen unter Generalverdacht zu stellen. Betont, dass das Land allen gehöre und jeder als Teil der Gesellschaft anerkannt werden müsse.
-- **[20:11](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=20m11s)** - **Peter Aumer (CDU/CSU)**: Betont die Bedeutung von Verantwortung und Vertrauen im Sozialstaat. Kritisiert die Rede der Linken als spaltend und ablenkend vom eigentlichen Thema des Sozialmissbrauchs. Bezeichnet die Bekämpfung von Missbrauch als Priorität, unabhängig von der Herkunft. Lobt den Aktionsplan der Bundesregierung und kritisiert die Praxis von "Tauschbörsen" für Geldleistungen als Untergrabung des Vertrauens.
-- **[25:32](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=25m32s)** - **Ren Springer (AfD)**: Kritisiert den Aktionsplan als "Zettel" und als abgeschrieben von AfD-Anträgen. Bemängelt Lücken im Plan, insbesondere bei der Einwanderung in die Grundsicherung, bei EU-Ausländern mit geringem Verdienst und bei der Kindergeldüberweisung ins Ausland. Fordert eine Anpassung des Kindergelds an das jeweilige Land des Empfängers und droht mit Klagen gegen die EU.
-- **[30:18](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=30m18s)** - **Rascha Nasr (SPD)**: Betont, dass Sozialleistungsmissbrauch kein Kavaliersdelikt sei und das Vertrauen in den Sozialstaat wichtig sei. Stellt den Aktionsplan der Bundesregierung vor, der auf Datenaustausch, Zusammenarbeit von Behörden und Bekämpfung von organisierten Strukturen abzielt. Hebt den Unterschied zur AfD hervor, die Menschen unter Generalverdacht stelle. Ein starker Sozialstaat sei kein naiver, sondern ein kontrollierender und Regeln durchsetzender Staat.
-- **[33:30](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=33m30s)** - **Sitzungsende / Abstimmung**: Die Aussprache wird geschlossen. Die Überweisung der Vorlage an die Ausschüsse wird vorgeschlagen und angenommen.
+- **[00:00:00](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und die Aussprache zum TOP 12 begonnen.
+- **[00:00:15](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=15s)** - **Gerarett Hui (AfD)**: Kritisiert die anfängliche Leugnung des Sozialmissbrauchs durch die Ministerin und die späte Reaktion der Regierung. Hebt die Forderungen der AfD hervor und beklagt, dass das Sozialsystem betrugsanfällig sei.
+- **[03:53](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=3m53s)** - **Kai Witter (CDU/CSU)**: Erklärt, dass die Koalition den Sozialstaat zukunftsfähig machen will, indem sie Menschen besser hilft und Missbrauch bekämpft. Nennt als Maßnahmen die Verbindlichkeit von Jobcenter-Terminen, ein Kompetenzzentrum gegen Sozialleistungsmissbrauch und die Haftung von Arbeitgebern bei Schwarzarbeit.
+- **[05:31](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=5m31s)** - **Kai Witter (CDU/CSU)**: Stellt die drei Kernpunkte des Aktionsplans vor: Ende des Behörden-Pingpongs durch Datenaustausch, Bekämpfung von Schrottimmobilien und Neuausrichtung der Freizügigkeit in Europa.
+- **[07:05](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=7m05s)** - **Kai Witter (CDU/CSU)**: Erklärt die geplante Reform des Bürgergeldes zur Verbesserung der Netto-Rückflüsse, Vereinfachung durch Pauschalen und engere Begleitung zur Arbeitsmarktintegration.
+- **[08:00](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=8m00s)** - **Kai Witter (CDU/CSU)**: Kritisiert die Sozialpolitik der AfD als auf Abstammung fixiert und mit dem Ziel, Ausländer zu diskreditieren, anstatt konkrete Verbesserungen für Behörden und Bürger zu erreichen.
+- **[09:00](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=9m00s)** - **Timon Zenius (Bündnis 90/Die Grünen)**: Kritisiert die wiederholte Debatte über Sozialleistungsmissbrauch als durchschaubares Manöver der AfD und bezeichnet Behauptungen über massenhaften Betrug als Lügen.
+- **[10:03](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=10m03s)** - **Timon Zenius (Bündnis 90/Die Grünen)**: Nennt die Zahlen zum bandenmäßigen Betrug im Bürgergeld (0,007%) und stellt sie den deutlich höheren Schäden durch Steuerbetrug (über 100 Mrd. Euro) gegenüber. Fordert eine Offensive gegen Finanzkriminalität.
+- **[10:31](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=10m31s)** - **Timon Zenius (Bündnis 90/Die Grünen)**: Kritisiert die Bundesregierung dafür, den Aktionsplan Steuer- und Finanzkriminalität nicht umzusetzen, während sie sich mit dem Aktionsplan Sozialbetrug beschäftigt.
+- **[11:03](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=11m03s)** - **Timon Zenius (Bündnis 90/Die Grünen)**: Entlarvt die AfD als Partei der Lügen und der Reichen, indem sie höhere Mindestlöhne und Mietpreisbremsen ablehne, aber Steuerentlastungen für Reiche zustimme.
+- **[11:28](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=11m28s)** - **Timon Zenius (Bündnis 90/Die Grünen)**: Verurteilt die AfD als Partei für Rechtsextremismus und Chaos, indem er auf Ermittlungen gegen Mitglieder wegen Neonazismus, Waffenbesitz und die Nähe zu Rechtsterroristen verweist.
+- **[13:30](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=13m30s)** - **Jens Peik (SPD)**: Stellt fest, dass der Antrag der AfD Menschen unter Generalverdacht stellt und die Zahlen zum bandenmäßigen Betrug (406 Fälle in 2025) zeigen, dass es kein Massenphänomen sei.
+- **[14:33](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=14m33s)** - **Jens Peik (SPD)**: Betont, dass die Opfer des bandenmäßigen Betrugs oft selbst ausgenutzt werden (Schrottimmobilien, Menschenhandel).
+- **[15:12](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=15m12s)** - **Jens Peik (SPD)**: Dankt Bundesarbeitsministerin Barley für die Initiative zum Aktionsplan, der den Datenaustausch, Sanktionen für Straftäter, Maßnahmen gegen Schrottimmobilien und die Haftung von Arbeitgebern vorsieht.
+- **[16:26](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=16m26s)** - **Jens Peik (SPD)**: Grenzt sich von der AfD ab, die pauschal alle Leistungsempfänger unter Generalverdacht stelle, während die SPD gezielt Missbrauch und Kriminalität bekämpfe.
+- **[17:01](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=17m01s)** - **Kanin Köcktürk (Die Linke)**: Bezeichnet den Antrag der AfD als nutzlos und die Regierung als „Sozialstaatsretter“ als erbärmlich.
+- **[17:40](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=17m40s)** - **Kanin Köcktürk (Die Linke)**: Argumentiert, dass das Beschäftigungswachstum von ausländischen Arbeitskräften getragen wird und Missbrauch nicht das Kernproblem sei.
+- **[18:01](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=18m01s)** - **Kanin Köcktürk (Die Linke)**: Stellt die Frage nach der Bedeutung von Menschen mit Migrationshintergrund für das Land (Pflege, Infrastruktur, Wirtschaft).
+- **[19:51](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=19m51s)** - **Kanin Köcktürk (Die Linke)**: Erklärt, dass das Land den Menschen gehört, unabhängig von ihrer Herkunft, und appelliert an Respektlosigkeit.
+- **[20:09](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=20m09s)** - **Peter Aumer (CDU/CSU)**: Betont, dass der Sozialstaat von Verantwortung und Vertrauen lebt und die Arbeit der Steuerzahler anerkannt werden muss.
+- **[20:51](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=20m51s)** - **Peter Aumer (CDU/CSU)**: Kritisiert die Rede der Abgeordneten Köcktürk als Spaltung und betont, dass Sozialmissbrauch unabhängig von der Herkunft bekämpft werden muss.
+- **[22:24](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=22m24s)** - **Peter Aumer (CDU/CSU)**: Greift den Punkt der Bezahlkarte aus dem Aktionsplan auf und kritisiert organisierte Tauschbörsen, die von der Linken und Grünen unterstützt werden, als Vertrauensverlust in Staatlichkeit.
+- **[23:53](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=23m53s)** - **Peter Aumer (CDU/CSU)**: Bezeichnet den AfD-Antrag als „schönes Amalgam“ bekannter Forderungen und stellt klar, dass Hetze nicht in der Analyse des Staates angebracht sei.
+- **[25:32](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=25m32s)** - **Ren Springer (AfD)**: Kritisisiert die Bundesregierung für die späte und ineffektive Veröffentlichung eines Aktionsplans.
+- **[26:51](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=26m51s)** - **Ren Springer (AfD)**: Bemängelt, dass der Aktionsplan Lücken aufweist, insbesondere bei der Einwanderung in das Grundsicherungssystem.
+- **[28:07](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=28m07s)** - **Ren Springer (AfD)**: Fordert, dass gut integrierte Ausländer nach 10 Jahren Einzahlung einen Anspruch auf Grundsicherung für maximal ein Jahr haben sollen.
+- **[28:27](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=28m27s)** - **Ren Springer (AfD)**: Kritisiert die Überweisung von Kindergeld ins Ausland und fordert eine Anpassung an das Niveau des Ziellandes.
+- **[30:18](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=30m18s)** - **Rascha Nasr (SPD)**: Stellt klar, dass Sozialleistungsmissbrauch kein Kavaliersdelikt ist und das Vertrauen in den Sozialstaat gewahrt werden muss.
+- **[31:13](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=31m13s)** - **Rascha Nasr (SPD)**: Erläutert die Maßnahmen des Aktionsplans, darunter verbesserter Datenaustausch, Bekämpfung von Schwarzarbeit und Ausbeutung, sowie die Verfolgung von organisierten Strukturen.
+- **[31:51](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=31m51s)** - **Rascha Nasr (SPD)**: Unterscheidet den Aktionsplan der Regierung, der Missbrauch bekämpft, vom Antrag der AfD, der Menschen unter Generalverdacht stellt.
+- **[32:35](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=32m35s)** - **Rascha Nasr (SPD)**: Definiert einen starken Sozialstaat als einen, der kontrolliert, Regeln durchsetzt und Betrug verfolgt, aber keinen Generalverdacht gegen Bevölkerungsgruppen schürt.
+- **[33:30](https://www.youtube.com/watch?v=ZC0lT3QPzhM&t=33m30s)** - **Sitzungsende**: Die Aussprache wird geschlossen und die Überweisung der Vorlage an die zuständigen Ausschüsse vorgeschlagen.

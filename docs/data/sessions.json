@@ -1,5 +1,44 @@
 [
   {
+    "id": "3BP6tCT5JUQ",
+    "title": "96th Session on 09/24/2026. Agenda Item ZP 3: Current Affairs Debate: German Isar Aerospace Rocke...",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "ZP 3",
+    "topic": "Debatte über aktuelle Angelegenheiten: Deutscher Raketenstart von Isar Aerospace",
+    "summary_path": "protocols/session_96/zp_3_current_affairs_debate_german_isar_aerospace_rocke.md",
+    "documents_path": "protocols/session_96/zp_3_current_affairs_debate_german_isar_aerospace_rocke_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=3BP6tCT5JUQ",
+    "processed_at": "2026-09-30T08:04:29.407695"
+  },
+  {
+    "id": "vZBJuY3z6E4",
+    "title": "96th Session on 09/24/2026. Agenda Item 8: Energy Costs, Energy Policy",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "8",
+    "topic": "Energiekosten und Energiepolitik",
+    "summary_path": "protocols/session_96/8_energy_costs_energy_policy.md",
+    "documents_path": "protocols/session_96/8_energy_costs_energy_policy_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=vZBJuY3z6E4",
+    "processed_at": "2026-09-30T08:05:02.247161"
+  },
+  {
+    "id": "N2p45RxvEZY",
+    "title": "96th Session on 09/24/2026. Agenda Item 36: Amendment to the Science Freedom Act",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "36",
+    "topic": "Gesetzesänderung zur Wissenschaftsfreiheit",
+    "summary_path": "protocols/session_96/36_amendment_to_the_science_freedom_act.md",
+    "documents_path": "protocols/session_96/36_amendment_to_the_science_freedom_act_documents.json",
+    "speakers_path": "protocols/session_96/36_amendment_to_the_science_freedom_act_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=N2p45RxvEZY",
+    "processed_at": "2026-09-30T08:03:45.812102"
+  },
+  {
     "id": "2-sU-Q16snI",
     "title": "96th Session on 09/24/2026. Agenda Item 25: Driving Instructor Act, Driver's License Costs",
     "session": 96,
@@ -76,6 +115,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=R8PSOI4_ssA",
     "processed_at": "2026-09-29T08:03:40.809507"
+  },
+  {
+    "id": "ZC0lT3QPzhM",
+    "title": "96. Sitzung vom 24.09.2026. TOP 12: Sozialleistungsmissbrauch",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "12",
+    "topic": "Bekämpfung von Sozialleistungsmissbrauch",
+    "summary_path": "protocols/session_96/12_sozialleistungsmissbrauch.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_96/12_sozialleistungsmissbrauch_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=ZC0lT3QPzhM",
+    "processed_at": "2026-09-30T08:01:37.027830"
+  },
+  {
+    "id": "bF82YKoshbw",
+    "title": "96. Sitzung vom 24.09.2026. TOP 10: Klimaanpassung und Naturschutz",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "10",
+    "topic": "Klimaanpassung und Naturschutz",
+    "summary_path": "protocols/session_96/10_klimaanpassung_und_naturschutz.md",
+    "documents_path": "protocols/session_96/10_klimaanpassung_und_naturschutz_documents.json",
+    "speakers_path": "protocols/session_96/10_klimaanpassung_und_naturschutz_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=bF82YKoshbw",
+    "processed_at": "2026-09-30T08:05:57.127684"
+  },
+  {
+    "id": "_ZGxq8SDNy0",
+    "title": "96th Session on 09/24/2026. Agenda Item 10: Climate Adaptation and Nature Conservation",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "10",
+    "topic": "Klimaanpassung und Naturschutz",
+    "summary_path": "protocols/session_96/10_climate_adaptation_and_nature_conservation.md",
+    "documents_path": "protocols/session_96/10_climate_adaptation_and_nature_conservation_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=_ZGxq8SDNy0",
+    "processed_at": "2026-09-30T08:06:30.837289"
   },
   {
     "id": "J1lrlMRKcAk",

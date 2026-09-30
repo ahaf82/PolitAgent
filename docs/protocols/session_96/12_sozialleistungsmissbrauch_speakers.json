@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag über Sozialleistungsmissbrauch zeigte deutliche Gräben zwischen den Parteien auf. Während die AfD auf schärfere Maßnahmen und eine Einschränkung der Leistungen für Zuwanderer drängte, betonten SPD und Grüne die geringe Häufigkeit von bandenmäßigem Betrug und kritisierten die Kriminalisierung von Leistungsempfängern. Die CDU/CSU unterstützte den Aktionsplan der Bundesregierung zur Verbesserung des Datenaustauschs und zur Bekämpfung von Schwarzarbeit. Externe Aussagen spiegeln diese Positionen wider: AfD-Politiker wie René Springer kritisierten den Aktionsplan als unzureichend und wahlkampftaktisch, während SPD-Abgeordnete wie Jens Peick und Rasha Nasr auf die gezielte Bekämpfung von Missbrauch und die Wichtigkeit des Vertrauens in den Sozialstaat verwiesen. Peter Aumer von der CDU/CSU betonte die Notwendigkeit, den Sozialstaat zu sichern und zu vereinfachen, wobei er auch die Problematik von Schrottimmobilien und organisierter Kriminalität in den Fokus rückte.",
+  "sources": [
+    {
+      "name": "Gerarett Hui",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Kai Witter",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Timon Zenius",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jens Peick",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jens Peick betont die Notwendigkeit, den Sozialstaat durch wirksame Hilfe und Vermittlung in Arbeit zu stärken, anstatt alle Leistungsempfänger unter Generalverdacht zu stellen. Er dankt der Bundesministerin für den Aktionsplan, der den Datenaustausch und die Sanktionierung von Straftätern verbessert.",
+      "source_title": "Jens Peick - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/jens-peick",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Kanin Köcktürk",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Peter Aumer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Peter Aumer betont, dass der Sozialstaat auf Verantwortung und Vertrauen basiert und dass Leistung sich lohnen muss. Er kritisiert die Darstellung der Linken als spaltend und hebt hervor, dass Sozialmissbrauch unabhängig von der Herkunft bekämpft werden muss.",
+      "source_title": "Peter Aumer - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Peter_Aumer",
+      "platform": "Website"
+    },
+    {
+      "name": "Ren Springer",
+      "party": "AfD",
+      "found": true,
+      "statement": "René Springer kritisiert den Aktionsplan der Bundesregierung als unzureichend und als reines Wahlkampfmanöver, das die drängenden Probleme des Sozialleistungsmissbrauchs, insbesondere im Hinblick auf die Zuwanderung, nicht löse.",
+      "source_title": "Aktionsplan gegen Sozialleistungsmissbrauch ist ein durchschaubares Wahlkampfmanöver",
+      "url": "https://afdbundestag.de/aktionsplan-gegen-sozialleistungsmissbrauch-ist-ein-durchschaubares-wahlkampfmanoever/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rascha Nasr",
+      "party": "SPD",
+      "found": true,
+      "statement": "Rasha Nasr betont, dass Sozialleistungsmissbrauch kein Kavaliersdelikt sei und das Vertrauen in den Sozialstaat gewahrt werden müsse. Sie hebt hervor, dass der Aktionsplan der Regierung Missbrauch gezielt bekämpfe, im Gegensatz zum Antrag der AfD, der alle Leistungsempfänger unter Generalverdacht stelle.",
+      "source_title": "Rasha Nasr - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/rasha-nasr",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}
