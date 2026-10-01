@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Bundestagsabgeordneten auf die Debatte zur Bundeszentrale für politische Bildung (bpb) spiegeln die im Plenum geäußerten Positionen wider. Dr. Götz Frömming (AfD) kritisiert die bpb scharf und wirft ihr eine linke Schlagseite vor, indem er Beispiele für als politisch einseitig empfundene Inhalte anführt. Lamya Kaddor (Bündnis 90/Die Grünen) betont die Notwendigkeit der institutionellen Absicherung der bpb, um sie vor Delegitimierungsversuchen und Kürzungen zu schützen, und fordert eine Verankerung beim Parlament. Hakan Demir (SPD) hebt die zentrale Rolle der bpb für die Demokratieförderung hervor und plädiert für eine verlässliche Finanzierung. Clara Bünger (Die Linke) unterstützt den Gesetzentwurf zur gesetzlichen Verankerung und zur Lösung aus dem Innenministerium, kritisiert aber auch die Abhängigkeit vom Innenministerium und die AfD als Druckmittel. David Gregosz (CDU/CSU) erkennt die wertvolle Arbeit der bpb an, sieht jedoch eine Notwendigkeit für zielgerichtetere und messbarere Bildungsarbeit und lehnt eine gesetzliche Grundlage ab. Dr. David Preisendanz (CDU/CSU) verteidigt die bestehende Struktur und warnt vor Extremisten, die Ministerien übernehmen könnten, und sieht keinen Bedarf für eine gesetzliche Grundlage.",
+  "sources": [
+    {
+      "name": "Lamya Kaddor",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Lamya Kaddor hat sich öffentlich für die institutionelle Absicherung der Bundeszentrale für politische Bildung (bpb) ausgesprochen, um diese vor Kürzungen und Delegitimierungsversuchen zu schützen. Sie fordert eine gesetzliche Grundlage, idealerweise mit Anbindung an das Parlament, um die Unabhängigkeit der bpb zu gewährleisten.",
+      "source_title": "Wir wollen politische Bildung unabhängiger, resilienter und breiter aufstellen und so vor Verfassungsfeinden schützen.",
+      "url": "https://www.facebook.com/lamya.kaddor/videos/im-bundestag-haben-wir-gr%C3%BCne-einen-gesetzesentwurf-eingebracht-der-die-bundeszen/1100080702994080/",
+      "platform": "Social Media"
+    },
+    {
+      "name": "David Gregosz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "David Gregosz erkennt die wertvolle Arbeit der bpb an, mahnt jedoch eine zielgerichtetere und messbarere politische Bildungsarbeit an. Er sieht keinen Bedarf für eine gesetzliche Grundlage, da die bestehende Struktur seiner Meinung nach ausreichend sei und der Gesetzentwurf Gefahren berge.",
+      "source_title": "David Gregosz - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/david-gregosz/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Götz Frömming kritisiert die bpb scharf und bezeichnet sie als \"linkes Propagandainstrument\", da sie seiner Ansicht nach linksextreme Ideen bediene und die Freiheitlich-Demokratische Grundordnung verharmlosend darstelle. Er lehnt eine gesetzliche Grundlage ab und fordert eine Neuausrichtung der bpb.",
+      "source_title": "\"This Federal Agency funds such nonsense.\" - Dr. Götz Frömming, AfD",
+      "url": "https://www.youtube.com/watch?app=desktop&v=4StzHfF0Fo8",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "found": true,
+      "statement": "Hakan Demir betont die zentrale Bedeutung der bpb als Institution der Demokratieförderung und fordert ihre verlässliche Finanzierung, um Wissen, Medienkompetenz und politische Urteilsfähigkeit zu stärken. Er argumentiert, dass politische Bildung eine wichtige demokratische Infrastruktur darstellt.",
+      "source_title": "Unsere Demokratie steht unter Druck. „Wir müssen politische Bildung und Demokratiförderung insgesamt als demokratische Infrastruktur begreifen. Die Bundeszentrale für polit | SPD-Fraktion im Bundestag - Facebook",
+      "url": "https://www.facebook.com/spdbundestagsfraktion/videos/unsere-demokratie-steht-unter-druck-wir-m%C3%BCssen-politische-bildung-und-demokratif/4518207408440991/",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Clara Bünger unterstützt den Gesetzentwurf der Grünen zur gesetzlichen Grundlage der bpb und zur Herauslösung aus der Abhängigkeit vom Innenministerium. Sie kritisiert, dass die bpb unter Druck stehe und die AfD sowie das CDU/CSU-dominierte Innenministerium Einfluss nähmen.",
+      "source_title": "Clara Bünger zum \"Sofort-in-Arbeit-Plan\" für Asylbewerber:innen am 23.02.26 - YouTube",
+      "url": "https://www.youtube.com/watch?v=MFJenIgfu5Y",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. David Preisendanz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. David Preisendanz betont die bewährte Struktur der bpb, die eine Einbindung in das Bundesinnenministerium, einen Wissenschaftlichen Beirat und ein Kuratorium umfasst. Er sieht keinen Bedarf für eine gesetzliche Grundlage und warnt davor, dass Extremisten Ministerien übernehmen könnten.",
+      "source_title": "David Preisendanz - Ausschuss-Mitgliedschaften - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/david-preisendanz/ausschuss-mitgliedschaften",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}

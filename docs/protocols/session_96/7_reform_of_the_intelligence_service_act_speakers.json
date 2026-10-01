@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zur Reform des Nachrichtendienstrechts offenbarte kontroverse Standpunkte. Während Bundesministerin Nina Warken und Innenminister Alexander Dobrindt die Notwendigkeit einer Modernisierung und Stärkung der deutschen Nachrichtendienste zur Abwehr gestiegener Bedrohungen betonten, warnten Abgeordnete der Opposition vor Grundrechtseingriffen und einer Aufweichung des Trennungsgebots zwischen Polizei und Diensten. Externe Äußerungen von Abgeordneten wie Sonja Eichwede unterstreichen die Notwendigkeit der Reform zur Gefahrenabwehr, während Clara Bünger und Dr. Konstantin von Notz Bedenken hinsichtlich der Verhältnismäßigkeit und Kontrolle äußern. Dr. Gottfried Curio positionierte sich dezidiert gegen den Gesetzentwurf und sprach von einem \"Putsch gegen den Rechtsstaat\".",
+  "sources": [
+    {
+      "name": "Nina Warken",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Nina Warken betonte, dass die Reform die größte Novellierung des Nachrichtendienstrechts in der Geschichte Deutschlands darstellt und notwendig ist, um die Souveränität Deutschlands in Sicherheitsfragen angesichts hybrider Angriffe zu stärken und die Dienste auf europäische Augenhöhe zu bringen. Sie hob hervor, dass mit gestärkten Befugnissen auch eine Stärkung der Kontrolle einhergehen muss, die dem Unabhängigen Kontrollrat übertragen wird.",
+      "source_title": "Rede zur Reform des Nachrichtendienstrechts vor dem Deutschen Bundestag",
+      "url": "https://www.bundesregierung.de/resource/blob/992814/2454118/c41e799c4e78ce3b9b172e1d7ba73416/89-1-chefbk-bt-data.pdf?download=1",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Gottfried Curio bezeichnete den Gesetzentwurf als \"Putsch gegen den Rechtsstaat\" und warf der Regierung vor, den Verfassungsschutz zu einer \"Stasi 2.0\" umzubauen. Er kritisierte die neuen Befugnisse als gefährliche Ausweitung staatlicher Maßnahmen und als Bedrohung der Grundrechte.",
+      "source_title": "Debatte zur Reform des Nachrichtendienstrechts im Bundestag",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/geheimdienstreform-bnd-verfassungsschutz-alexander-dobrindt-russland-gxe",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sonja Eichwede",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sonja Eichwede betonte die Notwendigkeit der Reform zur Abwehr von Gefahren und zum Schutz der Bevölkerung angesichts vielfältiger Bedrohungen wie Cyberangriffen und ausländischen Einflussoperationen. Sie unterstrich, dass mehr Befugnisse auch mit mehr Kontrolle einhergehen müssen.",
+      "source_title": "Facebook-Post zur Debatte über die Reform des Nachrichtendienstrechts",
+      "url": "https://www.facebook.com/eichwede/videos/heute-ging-es-im-bundestag-um-die-reform-des-nachrichtendienstes-bei-ihrer-rede-/1868665517431275/",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Konstantin von Notz",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Konstantin von Notz hob die Notwendigkeit hervor, die Dienste schlagkräftiger zu machen, kritisierte aber überzogene Pläne für die Geheimdiensttätigkeit im Inland und forderte eine Stärkung der Kontrolle sowie eine klare Trennung von Zuständigkeiten. Er äußerte Bedenken, dass die Pläne überzogen seien und das Gesetz möglicherweise vor dem Bundesverfassungsgericht keinen Bestand haben könnte.",
+      "source_title": "Redebeitrag zur Reform des Nachrichtendienstrechts",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/details/dr-konstantin-von-notz/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Clara Bünger kritisierte die geplante Anwerbung von Kindern als Spitzel und sah in der Aufhebung des Trennungsgebots die Gefahr einer neuen Geheimpolizei. Sie bezeichnete den Gesetzentwurf als Verfassungsbruch und Grundrechtsverletzung, der in Karlsruhe landen und aufgehalten werde.",
+      "source_title": "Redebeitrag zur Reform des Nachrichtendienstrechts",
+      "url": "https://www.dielinkebt.de/abgeordnete/profil/clara-buenger/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bundesinnenminister Alexander Dobrindt erklärte, dass die Reform die Nachrichtendienste zu \"echten Geheimdiensten\" mache, um auf Augenhöhe mit internationalen Partnern agieren zu können und Deutschland vor hybriden Bedrohungen zu schützen. Er betonte, dass die Stärkung der Dienste der Stärkung der Demokratie diene.",
+      "source_title": "Rede zur Reform des Nachrichtendienstrechts",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

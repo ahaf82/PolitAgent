@@ -1,0 +1,317 @@
+# Energiekosten und Energiepolitik
+
+## Sitzungs-Metadaten
+- **Sitzung:** 96. Sitzung
+- **Datum:** 2026-09-24
+- **Tagesordnungspunkt (TOP):** 8
+- **Originaltitel:** 96. Sitzung vom 24.09.2026. TOP 8: Energiekosten, Energiepolitik
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=lZDbfNzPENc)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag beschäftigte sich mit den Anträgen der AfD zur sofortigen Senkung der Energiekosten und zur Beendigung deutscher Klimaschutzmaßnahmen sowie zur Abwendung einer drohenden Kraftstoffkrise durch eine souveräne Energiepolitik. Die Regierungsparteien und die Oppositionsparteien CDU/CSU und Die Linke kritisierten die AfD-Vorschläge scharf, insbesondere die propagierte Rückkehr zu fossilen Energieträgern und die Infragestellung des menschengemachten Klimawandels. Die Debatte war geprägt von Gegenüberstellungen zwischen Klimaschutz und wirtschaftlicher Wettbewerbsfähigkeit sowie von der Diskussion über die Rolle erneuerbarer Energien und der Abhängigkeit von fossilen Importen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **SPD**:
+  - Die Energiepolitik müsse in deutscher Hand liegen und dürfe nicht von autokratischen Regimen bestimmt werden.
+  - Der Klimawandel sei eine wissenschaftliche Realität, die nicht abgestritten werden könne.
+  - Der Ausbau erneuerbarer Energien sei der Weg zu Unabhängigkeit und bezahlbaren Preisen.
+- **AfD**:
+  - Die Bürger leiden unter den Folgen der aktuellen Energiepolitik (hohe Spritpreise, Nebenkosten).
+  - Der menschengemachte Klimawandel sei wissenschaftlich nicht bewiesen; der natürliche Klimawandel sei stärker.
+  - CO2-Bepreisung müsse gestrichen, Kohle- und Atomkraftwerke länger betrieben und aus Klimaschutzabkommen ausgestiegen werden, um Kosten zu senken und die Wirtschaft zu retten.
+  - Deutschland müsse souveräne Energiepolitik betreiben und sich von Abhängigkeiten lösen.
+- **CDU/CSU**:
+  - Klimaschutz und wirtschaftliche Entwicklung müssten in Einklang gebracht werden.
+  - CO2-Emissionen müssten schrittweise reduziert werden, ohne die Wettbewerbsfähigkeit zu gefährden.
+  - Die Einführung eines europäischen Emissionshandels werde unterstützt, da dies faire Wettbewerbsbedingungen schaffe.
+  - Die Vorschläge der AfD seien unverantwortlich und führten zu ökonomischem Schaden.
+  - Die Bundesregierung handele bereits zur Entlastung der Bürger und Unternehmen (Senkung der Energiesteuer, Abschaffung der Gasspeicherumlage, Industriestrompreis).
+- **Bündnis 90/Die Grünen**:
+  - Die AfD-Anträge seien irrational und widersprächen nationalen Interessen sowie wissenschaftlichen Erkenntnissen.
+  - Klimaschutz sei Menschen-, Kinder- und Gesundheitsschutz.
+  - Abhängigkeit von russischem Gas müsse beendet werden; die AfD betreibe eine Politik der erneuten Abhängigkeit.
+  - Erneuerbare Energien seien die Lösung für bezahlbare und unabhängige Energie.
+- **Die Linke**:
+  - Hohe Energiepreise belasten die Bürger; Übergewinne der Mineralölkonzerne müssten abgeschöpft werden.
+  - Der Tankrabatt der Bundesregierung sei eine Subventionierung der Ölkonzerne.
+  - Eine Energiewende und ein besserer ÖPNV seien notwendig, um die Abhängigkeit von Öl und Gas zu verringern.
+  - Die AfD-Vorschläge seien Unsinn; eine Rückkehr zu Atomkraft und das Abschalten von Klimaschutzmaßnahmen seien keine Lösung.
+- **SPD (weiterer Redebeitrag)**:
+  - Die AfD-Vorschläge würden Deutschland wirtschaftlich schaden und die Abhängigkeit von Russland erhöhen.
+  - Kernkraftwerke und der Ausstieg aus CO2-Bepreisung seien keine zukunftsfähigen Strategien für einen Industriestandort.
+  - Internationale Zusammenarbeit sei für Wertschöpfung und Arbeitsplätze essenziell.
+  - Deutschland müsse seine Abhängigkeiten reduzieren, nicht die Zusammenarbeit.
+  - Die Regierung setze auf Entlastungen und verlässliche Rahmenbedingungen für die Transformation.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=lZDbfNzPENc&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Debatte wird mit der Beratung von Anträgen der AfD zur Senkung der Energiekosten, Beendigung von Klimaschutzmaßnahmen und zur Energiepolitik eröffnet.
+- **[00:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=33s)** - **Beratungsbeginn**: Die Aussprache zur Behandlung von Anträgen der AfD beginnt.
+- **[00:39](https://www.youtube.com/watch?v=lZDbfNzPENc&t=39s)** - **Jakob Blankenburg (SPD)**: Betont, dass die Energiepolitik nicht von Akteuren wie Putin bestimmt werden dürfe. Kritisiert die AfD-Vorschläge als Rückkehr zu Putin und als Leugnung des Klimawandels, der reale Folgen habe. Verweist auf den Ausbau erneuerbarer Energien als Weg zu Unabhängigkeit.
+- **[00:55](https://www.youtube.com/watch?v=lZDbfNzPENc&t=55s)** - **Blankenburg (SPD)**: Nennt Putin als Beispiel dafür, wer die Kontrolle über die Energiepolitik hatte und welche Folgen dies für Bürger und Betriebe hatte.
+- **[01:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1m33s)** - **Blankenburg (SPD)**: Kritisiert die AfD-Forderung nach Aufhebung von Sanktionen und Rückkehr zu Putin als Vorgehensweise eines Brandstifters.
+- **[01:52](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1m52s)** - **Blankenburg (SPD)**: Verurteilt die AfD-Forderung nach Streichung aller Klimagesetze, längerem Laufenlassen von Kohlekraftwerken und dem Wiederanwerfen von Atomkraftwerken.
+- **[02:05](https://www.youtube.com/watch?v=lZDbfNzPENc&t=2m5s)** - **Blankenburg (SPD)**: Stellt klar, dass Klimawandel keine Meinung sei und keine Abstimmung im Parlament darüber stattfinden könne. Verweist auf reale Folgen wie Hitzetote und Schäden.
+- **[02:45](https://www.youtube.com/watch?v=lZDbfNzPENc&t=2m45s)** - **Blankenburg (SPD)**: Betont, dass der Schutz der Lebensgrundlage eine Frage der Sicherheit geworden sei.
+- **[02:53](https://www.youtube.com/watch?v=lZDbfNzPENc&t=2m53s)** - **Blankenburg (SPD)**: Erklärt, dass jede selbst produzierte Kilowattstunde eine ist, deren Preis nicht im Ausland entschieden wird.
+- **[03:07](https://www.youtube.com/watch?v=lZDbfNzPENc&t=3m7s)** - **Blankenburg (SPD)**: Beispielhaft für die Preisstabilität von erneuerbaren Energien.
+- **[03:36](https://www.youtube.com/watch?v=lZDbfNzPENc&t=3m36s)** - **Blankenburg (SPD)**: Stimmt mit der AfD darin überein, dass der Weg zu Unabhängigkeit nicht von heute auf morgen geschieht.
+- **[04:00](https://www.youtube.com/watch?v=lZDbfNzPENc&t=4m0s)** - **Blankenburg (SPD)**: Kritisiert die AfD-Vorschläge zu Kohle und Atomkraft, da auch diese von russischen Lieferungen oder Anreicherungen abhängig seien.
+- **[04:25](https://www.youtube.com/watch?v=lZDbfNzPENc&t=4m25s)** - **Blankenburg (SPD)**: Bewertet die AfD-Vorschläge als Verschiebung und nicht als Ausweg aus der Abhängigkeit.
+- **[04:34](https://www.youtube.com/watch?v=lZDbfNzPENc&t=4m34s)** - **Blankenburg (SPD)**: Nennt das Ausstiegsziel der Bundesregierung bis 2045 aus Kohle, Öl und Gas.
+- **[04:49](https://www.youtube.com/watch?v=lZDbfNzPENc&t=4m49s)** - **Blankenburg (SPD)**: Betont die Bedeutung der Umsetzung, insbesondere des Ausbaus von Windkraft, Solaranlagen und Speichern.
+- **[05:07](https://www.youtube.com/watch?v=lZDbfNzPENc&t=5m7s)** - **Blankenburg (SPD)**: Stellt die AfD-Politik der Rückgabe des Hebels der Energiepolitik nach Moskau entgegen.
+- **[05:15](https://www.youtube.com/watch?v=lZDbfNzPENc&t=5m15s)** - **Blankenburg (SPD)**: Fasst die eigene Politik als Rückholung des Hebels nach Hause durch den Ausbau erneuerbarer Energien zusammen.
+- **[05:35](https://www.youtube.com/watch?v=lZDbfNzPENc&t=5m35s)** - **Karsten Hilse (AfD)**: Beginnt seine Rede und begrüßt insbesondere Wähler in Mecklenburg-Vorpommern, die der CDU eine Niederlage bereitet haben.
+- **[06:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=6m6s)** - **Hilse (AfD)**: Spricht von einer "sozialistischen Partei mutierten CDU".
+- **[06:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=6m13s)** - **Hilse (AfD)**: Spricht an "Werte Zweifler am natürlichen Klimawandel!".
+- **[06:17](https://www.youtube.com/watch?v=lZDbfNzPENc&t=6m17s)** - **Hilse (AfD)**: Listet Probleme auf, die er auf die Energiepolitik zurückführt (Spritpreise, Mieten, Nebenkosten, Lebensmittelpreise).
+- **[06:48](https://www.youtube.com/watch?v=lZDbfNzPENc&t=6m48s)** - **Hilse (AfD)**: Behauptet, die Energiewende basiere auf der Hypothese, dass menschengemachte CO2-Emissionen Haupttreiber des Klimawandels seien, wofür es keinen Beweis gebe.
+- **[07:03](https://www.youtube.com/watch?v=lZDbfNzPENc&t=7m3s)** - **Hilse (AfD)**: Beschreibt den Klimawandel als natürlich und verweist auf wärmere Perioden in der Erdgeschichte.
+- **[07:18](https://www.youtube.com/watch?v=lZDbfNzPENc&t=7m18s)** - **Hilse (AfD)**: Nennt die Hypothese des menschengemachten Klimawandels eine "große Lüge" oder den "größten Betrug".
+- **[07:30](https://www.youtube.com/watch?v=lZDbfNzPENc&t=7m30s)** - **Hilse (AfD)**: Kritisiert, dass Länder dem Weltklimarat folgen und ihre Wirtschaft zugrunde richten. Fordert Deutschland und die EU auf, dem Rest der Welt zu folgen und diesen "Unsinn" zu beenden.
+- **[07:55](https://www.youtube.com/watch?v=lZDbfNzPENc&t=7m55s)** - **Hilse (AfD)**: Kritisiert die Grünen und deren Klimapolitik.
+- **[08:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=8m6s)** - **Hilse (AfD)**: Verspricht, den "Irrweg" zu beenden, CO2-Bepreisung zu streichen und Grundlastkraftwerke zu niedrigen Preisen zu betreiben, sobald seine Partei in Regierungsverantwortung ist.
+- **[08:26](https://www.youtube.com/watch?v=lZDbfNzPENc&t=8m26s)** - **Hilse (AfD)**: Appelliert an die CDU, ihre "Mühlsteine" (Merz, SPD, Brandmauerpolitik) loszuwerden und konservative Politik zu machen, um zu überleben.
+- **[09:10](https://www.youtube.com/watch?v=lZDbfNzPENc&t=9m10s)** - **Dr. Thomas Gebhart (CDU/CSU)**: Positioniert sich gegen die AfD-Anträge.
+- **[09:27](https://www.youtube.com/watch?v=lZDbfNzPENc&t=9m27s)** - **Gebhart (CDU/CSU)**: Kritisiert die Forderung der AfD nach Beendigung von Klimaschutzmaßnahmen und Ausstieg aus dem Pariser Abkommen als unverantwortlich und als Leugnung der Klimakrise.
+- **[09:47](https://www.youtube.com/watch?v=lZDbfNzPENc&t=9m47s)** - **Gebhart (CDU/CSU)**: Warnt vor ökonomischem Schaden und einem Desaster, wenn der AfD-Antrag umgesetzt würde.
+- **[10:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=10m6s)** - **Gebhart (CDU/CSU)**: Zeigt die negativen Folgen auf, wenn sich alle Länder so verhielten wie von der AfD gefordert.
+- **[10:20](https://www.youtube.com/watch?v=lZDbfNzPENc&t=10m20s)** - **Gebhart (CDU/CSU)**: Stellt die Position der CDU dar: Klimaschutz und wirtschaftliche Entwicklung müssen in Einklang gebracht werden.
+- **[10:31](https://www.youtube.com/watch?v=lZDbfNzPENc&t=10m31s)** - **Gebhart (CDU/CSU)**: Fordert schrittweise CO2-Reduktion, die die Wettbewerbsfähigkeit nicht beeinträchtigt.
+- **[11:03](https://www.youtube.com/watch?v=lZDbfNzPENc&t=11m3s)** - **Gebhart (CDU/CSU)**: Erklärt das Prinzip des nationalen CO2-Preises und dessen Mittelrückfluss an Bürger und Unternehmen.
+- **[11:32](https://www.youtube.com/watch?v=lZDbfNzPENc&t=11m32s)** - **Gebhart (CDU/CSU)**: Beschreibt die geplante Einführung eines europäischen CO2-Preises ab 2028.
+- **[11:46](https://www.youtube.com/watch?v=lZDbfNzPENc&t=11m46s)** - **Gebhart (CDU/CSU)**: Unterstützt die europäische Regelung.
+- **[12:01](https://www.youtube.com/watch?v=lZDbfNzPENc&t=12m1s)** - **Gebhart (CDU/CSU)**: Nennt drei Gründe für die Unterstützung des europäischen Emissionshandels: mehr Wettbewerbsfähigkeit, ein marktwirtschaftliches Instrument und höhere CO2-Reduktion bei gleichzeitiger finanzieller Entlastung.
+- **[13:51](https://www.youtube.com/watch?v=lZDbfNzPENc&t=13m51s)** - **Gebhart (CDU/CSU)**: Fasst zusammen, dass der europäische Emissionshandel der bessere Weg sei, im Gegensatz zur Forderung der AfD, alles abzuschaffen.
+- **[14:26](https://www.youtube.com/watch?v=lZDbfNzPENc&t=14m26s)** - **Julian Joswig (Bündnis 90/Die Grünen)**: Kritisiert die Bundesregierung scharf für ihre Politik.
+- **[14:48](https://www.youtube.com/watch?v=lZDbfNzPENc&t=14m48s)** - **Joswig (Bündnis 90/Die Grünen)**: Berichtet von Erfahrungen bei der Tafel, wo Menschen sich Sorgen um ihre finanzielle Situation machen.
+- **[15:05](https://www.youtube.com/watch?v=lZDbfNzPENc&t=15m5s)** - **Joswig (Bündnis 90/Die Grünen)**: Wünscht sich eine Bundesregierung, die Sorgen ernst nimmt und Entlastungen leistet.
+- **[15:22](https://www.youtube.com/watch?v=lZDbfNzPENc&t=15m22s)** - **Joswig (Bündnis 90/Die Grünen)**: Kritisiert die Bundesregierung für Dauerstreit und "blinden Aktionismus" statt wirksamer Problemlösung.
+- **[15:28](https://www.youtube.com/watch?v=lZDbfNzPENc&t=15m28s)** - **Joswig (Bündnis 90/Die Grünen)**: Kritisiert den erneuten Tankrabatt als teuer und wenig wirksam für die Verbraucher.
+- **[15:52](https://www.youtube.com/watch?v=lZDbfNzPENc&t=15m52s)** - **Joswig (Bündnis 90/Die Grünen)**: Betont die Abhängigkeit Deutschlands von fossilen Importen.
+- **[16:04](https://www.youtube.com/watch?v=lZDbfNzPENc&t=16m4s)** - **Joswig (Bündnis 90/Die Grünen)**: Sieht die Lösung in mehr Erneuerbaren, leistungsfähigen Netzen und Speichern.
+- **[16:24](https://www.youtube.com/watch?v=lZDbfNzPENc&t=16m24s)** - **Joswig (Bündnis 90/Die Grünen)**: Stellt die AfD-Anträge dar und kritisiert deren Kern: mehr Abhängigkeit von Öl und Gas, weniger europäische Zusammenarbeit und Klimaschutz.
+- **[16:38](https://www.youtube.com/watch?v=lZDbfNzPENc&t=16m38s)** - **Joswig (Bündnis 90/Die Grünen)**: Vergleicht die AfD-Lösung mit dem Angebot eines Benzinkanisters als Brandschutz.
+- **[17:02](https://www.youtube.com/watch?v=lZDbfNzPENc&t=17m2s)** - **Joswig (Bündnis 90/Die Grünen)**: Kritisiert die AfD-Absicht, wieder Gas aus Russland zu beziehen, und verweist auf das russische Regime.
+- **[17:11](https://www.youtube.com/watch?v=lZDbfNzPENc&t=17m11s)** - **Joswig (Bündnis 90/Die Grünen)**: Greift die Anträge der Herren Kotré und Frohnmaier auf und wirft der AfD Anbiederei beim Kreml vor.
+- **[17:30](https://www.youtube.com/watch?v=lZDbfNzPENc&t=17m30s)** - **Joswig (Bündnis 90/Die Grünen)**: Verurteilt die Abhängigkeit von fossilen Lieferungen autoritärer Staaten.
+- **[17:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=17m43s)** - **Joswig (Bündnis 90/Die Grünen)**: Definiert Souveränität als Ende der Erpressbarkeit.
+- **[17:53](https://www.youtube.com/watch?v=lZDbfNzPENc&t=17m53s)** - **Joswig (Bündnis 90/Die Grünen)**: Kritisiert den zweiten AfD-Antrag zur Abschaffung des Klimaschutzes.
+- **[18:02](https://www.youtube.com/watch?v=lZDbfNzPENc&t=18m2s)** - **Joswig (Bündnis 90/Die Grünen)**: Weist die Aussage der AfD zum immerwährenden Klimawandel als Binsenwahrheit und nicht als Begründung für die Leugnung der menschengemachten Klimakrise zurück.
+- **[18:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=18m13s)** - **Joswig (Bündnis 90/Die Grünen)**: Nennt Beispiele für klimafreundliche und innovative Technologien (E-Autos, grüner Wasserstoff).
+- **[18:30](https://www.youtube.com/watch?v=lZDbfNzPENc&t=18m30s)** - **Joswig (Bündnis 90/Die Grünen)**: Unterstellt der AfD, von einem fossilen Industriemuseum zu träumen.
+- **[18:36](https://www.youtube.com/watch?v=lZDbfNzPENc&t=18m36s)** - **Joswig (Bündnis 90/Die Grünen)**: Fordert bezahlbare erneuerbare Energien, Entlastung für Menschen und zukunftsfähige Wirtschaftspolitik.
+- **[18:57](https://www.youtube.com/watch?v=lZDbfNzPENc&t=18m57s)** - **Janine Wissler (Die Linke)**: Spricht hohe Energiepreise an und deren Auswirkungen auf die Bürger.
+- **[19:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=19m13s)** - **Wissler (Die Linke)**: Benennt den Krieg gegen den Iran und die Gewinne der Mineralölkonzerne als Ursache für hohe Preise.
+- **[19:44](https://www.youtube.com/watch?v=lZDbfNzPENc&t=19m44s)** - **Wissler (Die Linke)**: Fordert die Abschöpfung von Übergewinnen der Ölkonzerne.
+- **[19:51](https://www.youtube.com/watch?v=lZDbfNzPENc&t=19m51s)** - **Wissler (Die Linke)**: Kritisiert die Bundesregierung für ihre bisherige Untätigkeit und den erneuten Tankrabatt.
+- **[20:39](https://www.youtube.com/watch?v=lZDbfNzPENc&t=20m39s)** - **Wissler (Die Linke)**: Stellt die Ausgaben für den Tankrabatt den Einsparungen beim Bürgergeld gegenüber und kritisiert die Spendierfreudigkeit bei Ölkonzernen.
+- **[21:09](https://www.youtube.com/watch?v=lZDbfNzPENc&t=21m9s)** - **Wissler (Die Linke)**: Nennt eine sinnvolle Politik: Krisengewinne abschöpfen, Gewinnmargen begrenzen und Geld direkt an Menschen zurückgeben.
+- **[21:15](https://www.youtube.com/watch?v=lZDbfNzPENc&t=21m15s)** - **Wissler (Die Linke)**: Verweist auf das 9-Euro-Ticket als Beispiel für sinnvolle Entlastung.
+- **[21:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=21m33s)** - **Wissler (Die Linke)**: Kritisiert die AfD und deren Vorschläge zur Atomkraft und Klimaschutzmaßnahmen.
+- **[21:56](https://www.youtube.com/watch?v=lZDbfNzPENc&t=21m56s)** - **Wissler (Die Linke)**: Betont, dass Sonne und Wind keine Abhängigkeiten schafften.
+- **[22:03](https://www.youtube.com/watch?v=lZDbfNzPENc&t=22m3s)** - **Wissler (Die Linke)**: Fordert die Verringerung der Abhängigkeit von Öl und Gas durch Energiewende und besseren ÖPNV.
+- **[22:10](https://www.youtube.com/watch?v=lZDbfNzPENc&t=22m10s)** - **Wissler (Die Linke)**: Kritisiert die Bundesregierung für die Bekämpfung des Verbrenner-Aus und die Sabotage von Klimazielen.
+- **[22:29](https://www.youtube.com/watch?v=lZDbfNzPENc&t=22m29s)** - **Daniel Bettermann (SPD)**: Spricht die Anträge der AfD an und deren angebliche Anliegen zur Rettung von Industrie und Mittelstand.
+- **[22:45](https://www.youtube.com/watch?v=lZDbfNzPENc&t=22m45s)** - **Bettermann (SPD)**: Verurteilt die AfD-Vorschläge als Energiepolitik, die Deutschland nicht besser mache.
+- **[22:56](https://www.youtube.com/watch?v=lZDbfNzPENc&t=22m56s)** - **Bettermann (SPD)**: Nennt die konkreten Auswirkungen von Energiepreisen auf Betriebe.
+- **[23:16](https://www.youtube.com/watch?v=lZDbfNzPENc&t=23m16s)** - **Bettermann (SPD)**: Äußert Sorge und Entgeisterung über die AfD-Vorschläge.
+- **[23:29](https://www.youtube.com/watch?v=lZDbfNzPENc&t=23m29s)** - **Bettermann (SPD)**: Verurteilt die Forderung nach Gasimporten aus Russland als Gewinn für Putin und als Finanzierung seiner Kriegskasse.
+- **[23:44](https://www.youtube.com/watch?v=lZDbfNzPENc&t=23m44s)** - **Bettermann (SPD)**: Nennt die AfD-Pläne als Rezept für maximale Unsicherheit und als Lüge ins Gesicht der Menschen.
+- **[23:57](https://www.youtube.com/watch?v=lZDbfNzPENc&t=23m57s)** - **Bettermann (SPD)**: Fasst die AfD-Argumentation (Ausstieg aus Klimaabkommen, Abschaffung CO2-Preis, Rückkehr zu Kernkraft) zusammen und nennt sie keine zukunftsfähige Strategie.
+- **[24:28](https://www.youtube.com/watch?v=lZDbfNzPENc&t=24m28s)** - **Bettermann (SPD)**: Vergleicht die AfD-Strategie mit der Erhöhung der Abhängigkeit von fossilen Energien.
+- **[24:47](https://www.youtube.com/watch?v=lZDbfNzPENc&t=24m47s)** - **Bettermann (SPD)**: Zeigt auf, dass internationale Krisen Treiber der Energieprobleme seien.
+- **[25:07](https://www.youtube.com/watch?v=lZDbfNzPENc&t=25m7s)** - **Bettermann (SPD)**: Betont die Bedeutung internationaler Zusammenarbeit für Wohlstand und Wertschöpfung.
+- **[25:26](https://www.youtube.com/watch?v=lZDbfNzPENc&t=25m26s)** - **Bettermann (SPD)**: Erklärt, dass die europäischen Zusammenarbeit nicht aufgegeben werden könne, wenn man vom Mittelstand profitieren wolle.
+- **[25:34](https://www.youtube.com/watch?v=lZDbfNzPENc&t=25m34s)** - **Bettermann (SPD)**: Unterstreicht die Notwendigkeit verlässlicher Rahmenbedingungen für Unternehmer.
+- **[25:44](https://www.youtube.com/watch?v=lZDbfNzPENc&t=25m44s)** - **Bettermann (SPD)**: Warnt vor Unsicherheit und wirtschaftlicher Isolation bei Aufkündigung von Klimaregeln und internationalen Vereinbarungen.
+- **[26:04](https://www.youtube.com/watch?v=lZDbfNzPENc&t=26m4s)** - **Bettermann (SPD)**: Stellt klar, dass nicht die Zusammenarbeit, sondern die Abhängigkeiten reduziert werden müssten.
+- **[26:15](https://www.youtube.com/watch?v=lZDbfNzPENc&t=26m15s)** - **Bettermann (SPD)**: Beschreibt Deutschlands Weg in die Zukunft als nachhaltig und erneuerbar.
+- **[26:21](https://www.youtube.com/watch?v=lZDbfNzPENc&t=26m21s)** - **Bettermann (SPD)**: Warnt davor, dass andere die Zukunft gestalten, wenn Deutschland nicht selbst handelt.
+- **[26:28](https://www.youtube.com/watch?v=lZDbfNzPENc&t=26m28s)** - **Bettermann (SPD)**: Stellt die Frage nach der Sicherung von Arbeitsplätzen und Investitionsmöglichkeiten in der Zukunft.
+- **[26:45](https://www.youtube.com/watch?v=lZDbfNzPENc&t=26m45s)** - **Bettermann (SPD)**: Nennt den Kurs der Regierung: Entlastungen im Heute und Rahmenbedingungen für die Transformation im Morgen.
+- **[26:56](https://www.youtube.com/watch?v=lZDbfNzPENc&t=26m56s)** - **Bettermann (SPD)**: Listet bereits erfolgte Entlastungen und Maßnahmen der Regierung auf.
+- **[27:17](https://www.youtube.com/watch?v=lZDbfNzPENc&t=27m17s)** - **Bettermann (SPD)**: Erklärt die erneute Senkung der Energiesteuer als weitere Entlastung.
+- **[27:25](https://www.youtube.com/watch?v=lZDbfNzPENc&t=27m25s)** - **Bettermann (SPD)**: Betont, dass dies keine Symbolpolitik, sondern eine konkrete Entlastung sei.
+- **[27:32](https://www.youtube.com/watch?v=lZDbfNzPENc&t=27m32s)** - **Bettermann (SPD)**: Erwartet, dass Mineralölkonzerne die Entlastung weitergeben und verlangt keine weiteren Krisengewinne.
+- **[27:42](https://www.youtube.com/watch?v=lZDbfNzPENc&t=27m42s)** - **Bettermann (SPD)**: Nennt das Ziel, dass alle am Monatsende mehr Geld haben und Arbeitsplätze gesichert werden.
+- **[27:49](https://www.youtube.com/watch?v=lZDbfNzPENc&t=27m49s)** - **Bettermann (SPD)**: Beschreibt das Ziel einer bezahlbaren und wettbewerbsfähigen Energieversorgung auf Dauer.
+- **[27:53](https://www.youtube.com/watch?v=lZDbfNzPENc&t=27m53s)** - **Bettermann (SPD)**: Nennt den weiteren Ausbau des Netzes und der Erneuerbaren als Regierungskurs.
+- **[28:00](https://www.youtube.com/watch?v=lZDbfNzPENc&t=28m0s)** - **Bettermann (SPD)**: Betont die Notwendigkeit einer Mischung aus kurz- und langfristigen Maßnahmen.
+- **[28:08](https://www.youtube.com/watch?v=lZDbfNzPENc&t=28m8s)** - **Bettermann (SPD)**: Fordert mehr Mut und Fortschritt statt rückwärtsgewandter Ideologie.
+- **[28:16](https://www.youtube.com/watch?v=lZDbfNzPENc&t=28m16s)** - **Bettermann (SPD)**: Erinnert an vergangene Probleme wie Tschernobyl oder verschmutzte Flüsse.
+- **[28:28](https://www.youtube.com/watch?v=lZDbfNzPENc&t=28m28s)** - **Bettermann (SPD)**: Lehnt den AfD-Antrag als Rückschritt und nicht als Zukunftsperspektive ab.
+- **[28:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=28m43s)** - **Manuel Krauthausen (AfD)**: Nennt die Kernforderungen des AfD-Antrags: Senkung der Energiekosten und Beendigung von Klimaschutzmaßnahmen.
+- **[29:09](https://www.youtube.com/watch?v=lZDbfNzPENc&t=29m9s)** - **Krauthausen (AfD)**: Behauptet, CO2 sei nicht maßgeblich für das Klima verantwortlich, sondern Wasserdampf.
+- **[29:16](https://www.youtube.com/watch?v=lZDbfNzPENc&t=29m16s)** - **Krauthausen (AfD)**: Erklärt die Rolle von Wasserdampf als natürliches Treibhausgas.
+- **[29:38](https://www.youtube.com/watch?v=lZDbfNzPENc&t=29m38s)** - **Krauthausen (AfD)**: Stellt Al Gore als Gegenbild dar und präsentiert "wissenschaftliche Fakten" zu CO2-Emissionen.
+- **[29:47](https://www.youtube.com/watch?v=lZDbfNzPENc&t=29m47s)** - **Krauthausen (AfD)**: Zeigt den sinkenden Anteil Deutschlands an globalen CO2-Emissionen auf.
+- **[30:02](https://www.youtube.com/watch?v=lZDbfNzPENc&t=30m2s)** - **Krauthausen (AfD)**: Kritisiert eine Aussage des Ministers Schneider als absurd.
+- **[30:19](https://www.youtube.com/watch?v=lZDbfNzPENc&t=30m19s)** - **Krauthausen (AfD)**: Zitiert eine DIHK-Studie zu den Kosten der Energiewende.
+- **[30:42](https://www.youtube.com/watch?v=lZDbfNzPENc&t=30m42s)** - **Krauthausen (AfD)**: Vergleicht die jährlichen Kosten der Energiewende mit den Gesamtausgaben des Bundeshaushalts.
+- **[31:03](https://www.youtube.com/watch?v=lZDbfNzPENc&t=31m3s)** - **Krauthausen (AfD)**: Kritisiert die Verschwendung von Geld für Klimaideologie und stagniert die Wirtschaft.
+- **[31:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=31m13s)** - **Krauthausen (AfD)**: Spricht von Deindustrialisierung und "Fantasie-Steuern".
+- **[31:27](https://www.youtube.com/watch?v=lZDbfNzPENc&t=31m27s)** - **Krauthausen (AfD)**: Fordert Austritt aus dem Pariser Klimaabkommen.
+- **[31:30](https://www.youtube.com/watch?v=lZDbfNzPENc&t=31m30s)** - **Krauthausen (AfD)**: Fordert die Verhinderung des Kohleausstiegs und die Rückkehr zur Kernenergie.
+- **[31:42](https://www.youtube.com/watch?v=lZDbfNzPENc&t=31m42s)** - **Krauthausen (AfD)**: Verweist auf Frau von der Leyen und die EU, die auf Kernenergie setzten.
+- **[31:56](https://www.youtube.com/watch?v=lZDbfNzPENc&t=31m56s)** - **Krauthausen (AfD)**: Fordert Entlastung der Bürger und kritisiert die "grüne Ideologie".
+- **[32:23](https://www.youtube.com/watch?v=lZDbfNzPENc&t=32m23s)** - **Krauthausen (AfD)**: Kritisiert Windkraftanlagen als "Vogelschredder" und deren negative Auswirkungen.
+- **[32:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=32m33s)** - **Krauthausen (AfD)**: Fordert Politik im Sinne von Umwelt- und Naturschutz und wirft dem Klimaschutz Zerstörung der Natur vor.
+- **[33:04](https://www.youtube.com/watch?v=lZDbfNzPENc&t=33m4s)** - **Präsidentin**: Erklärt die Abwesenheit des Bundesministers für Umwelt aufgrund seiner Teilnahme an der UN-Generalversammlung in New York.
+- **[33:34](https://www.youtube.com/watch?v=lZDbfNzPENc&t=33m34s)** - **Günter Baumgartner (CDU/CSU)**: Spricht die beiden AfD-Anträge zu Klimapolitik und Energiepreisen an.
+- **[34:18](https://www.youtube.com/watch?v=lZDbfNzPENc&t=34m18s)** - **Baumgartner (CDU/CSU)**: Verurteilt die Kleinredung des Klimawandels und die Forderung nach Streichung von Klimaschutzmaßnahmen durch die AfD.
+- **[34:38](https://www.youtube.com/watch?v=lZDbfNzPENc&t=34m38s)** - **Baumgartner (CDU/CSU)**: Beschuldigt die AfD, sich an Heimat, Natur, Wohlstand und Kindern zu versündigen.
+- **[35:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=35m6s)** - **Baumgartner (CDU/CSU)**: Geht auf den zweiten AfD-Antrag zu Energiepreisen ein und kritisiert, was nicht im Antrag steht.
+- **[35:22](https://www.youtube.com/watch?v=lZDbfNzPENc&t=35m22s)** - **Baumgartner (CDU/CSU)**: Kritisiert, dass die AfD kein Wort über die Gründe für Sanktionen gegen Russland verliert.
+- **[35:38](https://www.youtube.com/watch?v=lZDbfNzPENc&t=35m38s)** - **Baumgartner (CDU/CSU)**: Nennt den Angriffskrieg Russlands in der Ukraine und hybride Angriffe auf Deutschland als Gründe.
+- **[36:00](https://www.youtube.com/watch?v=lZDbfNzPENc&t=36m0s)** - **Baumgartner (CDU/CSU)**: Verurteilt die Forderung der AfD nach Gasimporten aus Russland als Finanzierung der russischen Kriegsmaschinerie und als Bedrohung für Deutschland und die westliche Welt.
+- **[36:23](https://www.youtube.com/watch?v=lZDbfNzPENc&t=36m23s)** - **Baumgartner (CDU/CSU)**: Stellt klar, dass die AfD es nicht gut mit den Bürgern meine, sondern sie abhängig und erpressbar mache.
+- **[36:42](https://www.youtube.com/watch?v=lZDbfNzPENc&t=36m42s)** - **Baumgartner (CDU/CSU)**: Nennt die Maßnahmen der Regierungskoalition zur Senkung der Energiepreise (Netzentgelte, Stromsteuer, Gasspeicherumlage, Industriestrompreis).
+- **[37:04](https://www.youtube.com/watch?v=lZDbfNzPENc&t=37m4s)** - **Baumgartner (CDU/CSU)**: Nennt die EEG-Novelle als Beleg für konsequente Weiterverfolgung des Weges.
+- **[37:22](https://www.youtube.com/watch?v=lZDbfNzPENc&t=37m22s)** - **Baumgartner (CDU/CSU)**: Spricht die Handlungsfähigkeit bei Kraftstoffpreisen an und kündigt weitere Maßnahmen an.
+- **[37:52](https://www.youtube.com/watch?v=lZDbfNzPENc&t=37m52s)** - **Baumgartner (CDU/CSU)**: Bekennt sich zu Klimazielen, Energiewende, Wohlstand und wettbewerbsfähigen Betrieben.
+- **[38:09](https://www.youtube.com/watch?v=lZDbfNzPENc&t=38m9s)** - **Baumgartner (CDU/CSU)**: Beschreibt Energie als Mix aus Verfügbarkeit, Nachhaltigkeit und Bezahlbarkeit.
+- **[38:27](https://www.youtube.com/watch?v=lZDbfNzPENc&t=38m27s)** - **Baumgartner (CDU/CSU)**: Lehnt beide AfD-Anträge ab, die ins Abhängigkeit Russlands führen würden.
+- **[38:46](https://www.youtube.com/watch?v=lZDbfNzPENc&t=38m46s)** - **Karsten Hilse (AfD)**: Nutzt die Möglichkeit einer Kurzintervention.
+- **[38:57](https://www.youtube.com/watch?v=lZDbfNzPENc&t=38m57s)** - **Hilse (AfD)**: Stellt die Erfolge der Koalition in Frage und verweist auf Wahlergebnisse.
+- **[39:14](https://www.youtube.com/watch?v=lZDbfNzPENc&t=39m14s)** - **Hilse (AfD)**: Fragt, ob Präsident Trump und die US-Administration sich am amerikanischen Volk versündigen, da sie aus dem Klimaübereinkommen ausgestiegen seien.
+- **[40:07](https://www.youtube.com/watch?v=lZDbfNzPENc&t=40m7s)** - **Dr. Thomas Gebhart (CDU/CSU)**: Antwortet auf Hilses Frage.
+- **[40:14](https://www.youtube.com/watch?v=lZDbfNzPENc&t=40m14s)** - **Gebhart (CDU/CSU)**: Kritisiert Hilses Vorschläge zu Kohle und Atomenergie und das Fehlen von Aussagen zur Endlagerung.
+- **[40:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=40m33s)** - **Gebhart (CDU/CSU)**: Beschreibt das AfD-Narrativ als Leugnung von Umweltschutz und Klimaveränderung.
+- **[40:51](https://www.youtube.com/watch?v=lZDbfNzPENc&t=40m51s)** - **Gebhart (CDU/CSU)**: Fordert Zuhören bei Redebeiträgen.
+- **[41:03](https://www.youtube.com/watch?v=lZDbfNzPENc&t=41m3s)** - **Gebhart (CDU/CSU)**: Betont, dass das Narrativ der Nicht-Existenz von Klimaveränderungen faktisch falsch sei.
+- **[41:14](https://www.youtube.com/watch?v=lZDbfNzPENc&t=41m14s)** - **Gebhart (CDU/CSU)**: Nennt Beispiele für Umweltkatastrophen, die das Gegenteil des AfD-Narrativs beweisen.
+- **[41:57](https://www.youtube.com/watch?v=lZDbfNzPENc&t=41m57s)** - **Präsidentin**: Leitet zur Fortsetzung der Debatte über.
+- **[42:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=42m6s)** - **Katharina Beck (Bündnis 90/Die Grünen)**: Beginnt ihren Redebeitrag.
+- **[42:29](https://www.youtube.com/watch?v=lZDbfNzPENc&t=42m29s)** - **Beck (Bündnis 90/Die Grünen)**: Stellt klar, dass 99% der Wissenschaftler den Klimawandel als menschengemacht bezeichnen.
+- **[42:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=42m43s)** - **Beck (Bündnis 90/Die Grünen)**: Kritisiert Hilse für die Bezeichnung von Wissenschaftlern als Betrüger und nennt dies Wissenschaftsfeindlichkeit.
+- **[43:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=43m13s)** - **Beck (Bündnis 90/Die Grünen)**: Weist die Behauptung zurück, Wasserstoff würde den Klimawandel befeuern und nennt CO2-Ausstoß als Ursache.
+- **[43:39](https://www.youtube.com/watch?v=lZDbfNzPENc&t=43m39s)** - **Beck (Bündnis 90/Die Grünen)**: Bezeichnet Klimaschutz als "Kampfbegriff" und verteidigt ihn als Kampf für ihre Tochter.
+- **[43:46](https://www.youtube.com/watch?v=lZDbfNzPENc&t=43m46s)** - **Beck (Bündnis 90/Die Grünen)**: Schildert persönliche Erfahrungen mit extremer Hitze.
+- **[44:15](https://www.youtube.com/watch?v=lZDbfNzPENc&t=44m15s)** - **Beck (Bündnis 90/Die Grünen)**: Betont, dass Klimaschutz Menschen-, Kinder- und Gesundheitsschutz sei.
+- **[44:19](https://www.youtube.com/watch?v=lZDbfNzPENc&t=44m19s)** - **Beck (Bündnis 90/Die Grünen)**: Wirft der AfD vor, Wähler in die Irre zu führen und ins Verderben zu stürzen.
+- **[44:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=44m33s)** - **Beck (Bündnis 90/Die Grünen)**: Nennt weitere Folgen des Klimawandels für Landwirtschaft und Binnenschifffahrt.
+- **[44:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=44m43s)** - **Beck (Bündnis 90/Die Grünen)**: Unterstellt der AfD, durch ihre Energiepolitik wieder von Russland und fossilen Energien abhängig machen zu wollen.
+- **[44:57](https://www.youtube.com/watch?v=lZDbfNzPENc&t=44m57s)** - **Beck (Bündnis 90/Die Grünen)**: Fragt, was die AfD gegen den deutschen Wind habe, aber ein Herz für russisches Öl.
+- **[45:15](https://www.youtube.com/watch?v=lZDbfNzPENc&t=45m15s)** - **Beck (Bündnis 90/Die Grünen)**: Kritisiert die AfD für ihre widersprüchliche Politik bezüglich Souveränität und Eigenständigkeit.
+- **[45:30](https://www.youtube.com/watch?v=lZDbfNzPENc&t=45m30s)** - **Beck (Bündnis 90/Die Grünen)**: Ermöglicht eine Zwischenfrage von Herrn Kraft (AfD).
+- **[45:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=45m43s)** - **Beck (Bündnis 90/Die Grünen)**: Weist den Vorwurf zurück, es sei unmoralisch, über russisches Gas zu reden.
+- **[45:54](https://www.youtube.com/watch?v=lZDbfNzPENc&t=45m54s)** - **Beck (Bündnis 90/Die Grünen)**: Erklärt die aktuelle Gasimportstruktur Deutschlands und wie russisches Gas über Belgien nach Deutschland gelangt.
+- **[46:16](https://www.youtube.com/watch?v=lZDbfNzPENc&t=46m16s)** - **Beck (Bündnis 90/Die Grünen)**: Verweist darauf, dass Deutschland seit 2022 ununterbrochen russisches Gas bezogen hat.
+- **[46:22](https://www.youtube.com/watch?v=lZDbfNzPENc&t=46m22s)** - **Beck (Bündnis 90/Die Grünen)**: Stellt fest, dass Deutschland unter einem grünen Wirtschaftsminister russisches Gas bezogen hat und das Bashing der AfD unangebracht sei.
+- **[46:37](https://www.youtube.com/watch?v=lZDbfNzPENc&t=46m37s)** - **Beck (Bündnis 90/Die Grünen)**: Fordert, die moralische Überheblichkeit zurückzunehmen.
+- **[47:00](https://www.youtube.com/watch?v=lZDbfNzPENc&t=47m0s)** - **Beck (Bündnis 90/Die Grünen)**: Bestätigt, dass Deutschland teilweise noch abhängig von russischem Gas und Öl ist.
+- **[47:08](https://www.youtube.com/watch?v=lZDbfNzPENc&t=47m8s)** - **Beck (Bündnis 90/Die Grünen)**: Stellt den Unterschied zur AfD-Richtung heraus, die Abhängigkeiten verstärken wolle.
+- **[47:14](https://www.youtube.com/watch?v=lZDbfNzPENc&t=47m14s)** - **Beck (Bündnis 90/Die Grünen)**: Betont die eigene Linie der Reduzierung von Abhängigkeiten bis hin zur Null.
+- **[47:24](https://www.youtube.com/watch?v=lZDbfNzPENc&t=47m24s)** - **Beck (Bündnis 90/Die Grünen)**: Äußert Verständnis für die Suche nach einfachen Lösungen in der Energiepolitik, kritisiert aber die Kosten und Abhängigkeiten bei Atomkraft.
+- **[48:07](https://www.youtube.com/watch?v=lZDbfNzPENc&t=48m7s)** - **Beck (Bündnis 90/Die Grünen)**: Fordert, stattdessen auf lokale Energieerzeugung zu schauen.
+- **[48:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=48m13s)** - **Beck (Bündnis 90/Die Grünen)**: Fragt nach dem Stand der Wasserstoffstrategie.
+- **[48:23](https://www.youtube.com/watch?v=lZDbfNzPENc&t=48m23s)** - **Beck (Bündnis 90/Die Grünen)**: Diskutiert die Kosten der Transformation und verweist darauf, dass Nichthandeln teurer sei.
+- **[48:59](https://www.youtube.com/watch?v=lZDbfNzPENc&t=48m59s)** - **Dr. Fabian Fahl (Die Linke)**: Spricht den Unterschied zwischen natürlichem und menschengemachtem Klimawandel an.
+- **[49:21](https://www.youtube.com/watch?v=lZDbfNzPENc&t=49m21s)** - **Fahl (Die Linke)**: Bezeichnet die AfD als "Realitätsleugnerinnen und -leugner".
+- **[49:37](https://www.youtube.com/watch?v=lZDbfNzPENc&t=49m37s)** - **Fahl (Die Linke)**: Zitiert den AfD-Antrag zur Anpassung an Klimaveränderungen und nennt ihn einen Hohn angesichts der Hitzetoten.
+- **[49:59](https://www.youtube.com/watch?v=lZDbfNzPENc&t=49m59s)** - **Fahl (Die Linke)**: Spricht sein Beileid an die Angehörigen der Hitzetoten aus.
+- **[50:04](https://www.youtube.com/watch?v=lZDbfNzPENc&t=50m4s)** - **Fahl (Die Linke)**: Verspricht, sich für Klimaschutz einzusetzen.
+- **[50:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=50m6s)** - **Fahl (Die Linke)**: Bezeichnet Klimaschutz als "politischen Kampfbegriff" und sieht Unterstützung dafür aus den USA.
+- **[50:17](https://www.youtube.com/watch?v=lZDbfNzPENc&t=50m17s)** - **Fahl (Die Linke)**: Stellt fest, dass von Klimaleugnung Großkonzerne profitieren, während Menschen die Kosten tragen.
+- **[50:23](https://www.youtube.com/watch?v=lZDbfNzPENc&t=50m23s)** - **Fahl (Die Linke)**: Beschreibt die Folgen des ungebremsten Klimawandels für Landwirtschaft, Flucht und menschliche Körper.
+- **[50:42](https://www.youtube.com/watch?v=lZDbfNzPENc&t=50m42s)** - **Fahl (Die Linke)**: Wirft der AfD vor, Ostdeutschland verwüsten zu wollen.
+- **[50:45](https://www.youtube.com/watch?v=lZDbfNzPENc&t=50m45s)** - **Fahl (Die Linke)**: Zitiert einen wissenschaftlichen Artikel zur Biodiversität und nennt Professor Dr. Ingo Hahn (AfD) als Autor.
+- **[51:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=51m6s)** - **Fahl (Die Linke)**: Kritisert die mangelnde Anpassung der deutschen Wirtschaft an die Zukunft.
+- **[51:21](https://www.youtube.com/watch?v=lZDbfNzPENc&t=51m21s)** - **Fahl (Die Linke)**: Fragt, was die AfD vom Austritt aus internationalen Klimaverträgen erwarte.
+- **[51:25](https://www.youtube.com/watch?v=lZDbfNzPENc&t=51m25s)** - **Fahl (Die Linke)**: Bezeichnet die AfD-Politik als plumper Populismus und Vasallentreue zu Trump.
+- **[51:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=51m33s)** - **Fahl (Die Linke)**: Verweist darauf, dass Klimaschutz im deutschen Grundgesetz verankert sei.
+- **[51:45](https://www.youtube.com/watch?v=lZDbfNzPENc&t=51m45s)** - **Fahl (Die Linke)**: Kritisiert, dass Klimaziele verfehlt werden und Hitzewellen "überraschend" kämen.
+- **[51:53](https://www.youtube.com/watch?v=lZDbfNzPENc&t=51m53s)** - **Fahl (Die Linke)**: Fordert radikalen und sozialen Klimaschutz im Einklang mit der physikalischen Realität.
+- **[52:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=52m6s)** - **Volker Mayer-Lay (CDU/CSU)**: Spricht die Notwendigkeit bezahlbarer Energie an.
+- **[52:21](https://www.youtube.com/watch?v=lZDbfNzPENc&t=52m21s)** - **Mayer-Lay (CDU/CSU)**: Stellt die Frage, ob die Energieversorgung sicher und bezahlbar sei und die Wertschöpfung im Land bleibe.
+- **[52:56](https://www.youtube.com/watch?v=lZDbfNzPENc&t=52m56s)** - **Mayer-Lay (CDU/CSU)**: Nennt konkrete Entlastungsmaßnahmen der Bundesregierung (Energiesteuersenkung, Gasspeicherumlage, Netzentgelte, Stromsteuer).
+- **[53:44](https://www.youtube.com/watch?v=lZDbfNzPENc&t=53m44s)** - **Mayer-Lay (CDU/CSU)**: Nennt die geplante Beibehaltung des CO2-Preises für Kraftstoffe im bisherigen Korridor.
+- **[53:58](https://www.youtube.com/watch?v=lZDbfNzPENc&t=53m58s)** - **Mayer-Lay (CDU/CSU)**: Stellt klar, dass dies keine vollständige Lösung sei und Entscheidungen der Vergangenheit korrigiert werden müssten.
+- **[54:10](https://www.youtube.com/watch?v=lZDbfNzPENc&t=54m10s)** - **Mayer-Lay (CDU/CSU)**: Stellt Teile des Green Deal auf den Prüfstand und fordert mehr Technologieoffenheit und Wettbewerbsfähigkeit.
+- **[54:14](https://www.youtube.com/watch?v=lZDbfNzPENc&t=54m14s)** - **Mayer-Lay (CDU/CSU)**: Ermöglicht eine Zwischenfrage von Dr. Kraft (AfD).
+- **[54:25](https://www.youtube.com/watch?v=lZDbfNzPENc&t=54m25s)** - **Dr. Kraft (AfD)**: Fragt, ob Mayer-Lay zustimme, dass neben fossilen und erneuerbaren Energien ein drittes Standbein auf Uranbasis gebraucht werde.
+- **[55:21](https://www.youtube.com/watch?v=lZDbfNzPENc&t=55m21s)** - **Mayer-Lay (CDU/CSU)**: Stellt fest, dass die sechs zuletzt abgeschalteten Atomkraftwerke besser am Netz geblieben wären, aber eine Reaktivierung derzeit nicht wirtschaftlich sei.
+- **[55:42](https://www.youtube.com/watch?v=lZDbfNzPENc&t=55m42s)** - **Mayer-Lay (CDU/CSU)**: Wiederholt, dass Energie günstiger gemacht und Entscheidungen korrigiert werden müssten.
+- **[55:53](https://www.youtube.com/watch?v=lZDbfNzPENc&t=55m53s)** - **Mayer-Lay (CDU/CSU)**: Stellt Teile des Green Deal auf den Prüfstand und fordert Technologieoffenheit.
+- **[56:10](https://www.youtube.com/watch?v=lZDbfNzPENc&t=56m10s)** - **Mayer-Lay (CDU/CSU)**: Kritisiert das "Reflexartige" der AfD und deren Agenda gegen regenerative Energien.
+- **[56:22](https://www.youtube.com/watch?v=lZDbfNzPENc&t=56m22s)** - **Mayer-Lay (CDU/CSU)**: Betont die Notwendigkeit der Unabhängigkeit und warnt vor der nächsten Abhängigkeit durch die AfD.
+- **[56:40](https://www.youtube.com/watch?v=lZDbfNzPENc&t=56m40s)** - **Mayer-Lay (CDU/CSU)**: Fordert eine sichere, bezahlbare und möglichst unabhängige Energieversorgung.
+- **[56:57](https://www.youtube.com/watch?v=lZDbfNzPENc&t=56m57s)** - **Mayer-Lay (CDU/CSU)**: Nennt die Stärkung der Sicherheit und der Wirtschaft durch europäische Energiequellen und neue Technologien.
+- **[57:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=57m13s)** - **Mayer-Lay (CDU/CSU)**: Definiert Nachhaltigkeit als ökologische, wirtschaftliche und soziale Seite, die zusammenpassen müssen.
+- **[57:28](https://www.youtube.com/watch?v=lZDbfNzPENc&t=57m28s)** - **Mayer-Lay (CDU/CSU)**: Bejaht die Notwendigkeit, Regulierungen zu korrigieren, Bürger zu entlasten und Arbeitsplätze zu sichern.
+- **[57:40](https://www.youtube.com/watch?v=lZDbfNzPENc&t=57m40s)** - **Mayer-Lay (CDU/CSU)**: Betont die Wichtigkeit der Unabhängigkeit.
+- **[57:44](https://www.youtube.com/watch?v=lZDbfNzPENc&t=57m44s)** - **Mayer-Lay (CDU/CSU)**: Erklärt, dass nicht alle internationalen Vereinbarungen über Bord geworfen werden müssten.
+- **[57:47](https://www.youtube.com/watch?v=lZDbfNzPENc&t=57m47s)** - **Mayer-Lay (CDU/CSU)**: Stellt klar, dass Politik nicht "alles oder nichts" sei, sondern das Besser machen, was nicht funktioniert.
+- **[57:58](https://www.youtube.com/watch?v=lZDbfNzPENc&t=57m58s)** - **Mayer-Lay (CDU/CSU)**: Nennt die Ziele: günstigere Energie, wettbewerbsfähige Industrie, Arbeitsplätze im Land und Unabhängigkeit.
+- **[58:09](https://www.youtube.com/watch?v=lZDbfNzPENc&t=58m9s)** - **Mayer-Lay (CDU/CSU)**: Vergleicht die AfD-Politik mit dem Abriss des ganzen Hauses, wenn nur Zimmer renoviert werden müssten.
+- **[58:16](https://www.youtube.com/watch?v=lZDbfNzPENc&t=58m16s)** - **Mayer-Lay (CDU/CSU)**: Kritisiert die Schlussfolgerung des AfD-Antrags als falsch und die Politik als spaltend.
+- **[58:36](https://www.youtube.com/watch?v=lZDbfNzPENc&t=58m36s)** - **Steffen Kotré (AfD)**: Beginnt seinen Redebeitrag.
+- **[58:56](https://www.youtube.com/watch?v=lZDbfNzPENc&t=58m56s)** - **Kotré (AfD)**: Beschreibt die aktuelle Phase als tiefgreifende wirtschaftliche, energiepolitische und geopolitische Veränderung.
+- **[59:05](https://www.youtube.com/watch?v=lZDbfNzPENc&t=59m5s)** - **Kotré (AfD)**: Nennt Faktoren, die Stabilität, Wettbewerbsfähigkeit und Wohlstand bedrohen (steigende Energiekosten, instabile Lieferketten, Deindustrialisierung, steuerliche Belastungen, Bürokratisierung).
+- **[59:32](https://www.youtube.com/watch?v=lZDbfNzPENc&t=59m32s)** - **Kotré (AfD)**: Kritisiert unsouveräne Entscheidungen und die Unterordnung unter fremde Interessen.
+- **[59:52](https://www.youtube.com/watch?v=lZDbfNzPENc&t=59m52s)** - **Kotré (AfD)**: Fordert, dass die Energiepolitik wieder souverän werden müsse.
+- **[59:59](https://www.youtube.com/watch?v=lZDbfNzPENc&t=59m59s)** - **Kotré (AfD)**: Nennt das energiepolitische Zieldreieck von sicherer, preiswerter und umweltverträglicher Energieversorgung.
+- **[01:00:10](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h0m10s)** - **Kotré (AfD)**: Nennt Nord Stream als Beispiel für die Aufgabe deutscher Souveränität.
+- **[01:00:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h0m43s)** - **Kotré (AfD)**: Kritisiert die frühere Bundesregierung für die Duldung der Zerstörung von Nord Stream ohne Reaktion.
+- **[01:01:18](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h1m18s)** - **Kotré (AfD)**: Verlängert die Liste des unsouveränen Handelns.
+- **[01:01:22](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h1m22s)** - **Kotré (AfD)**: Spricht die ausländische Eigentümerschaft kritischer Strominfrastruktur an.
+- **[01:01:38](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h1m38s)** - **Kotré (AfD)**: Nennt Beispiele für den Verkauf deutscher Energieinfrastruktur an ausländische Unternehmen.
+- **[01:01:53](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h1m53s)** - **Kotré (AfD)**: Definiert Tanklager, Öl- und Gasleitungen sowie Energienetze als Lebensadern eines Industrielandes.
+- **[01:02:35](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h2m35s)** - **Kotré (AfD)**: Behauptet, die Versorgungssicherheit sei mit der Energiewende gesunken und die Importabhängigkeit gestiegen.
+- **[01:02:58](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h2m58s)** - **Kotré (AfD)**: Stellt Deutschland als Nettoimporteur von Strom dar.
+- **[01:03:04](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h3m4s)** - **Kotré (AfD)**: Nennt die Herkunft von Solarmodulen und Windkraftanlagenkomponenten.
+- **[01:03:08](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h3m8s)** - **Kotré (AfD)**: Ermöglicht eine Zwischenfrage von Katharina Beck (Bündnis 90/Die Grünen).
+- **[01:03:18](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h3m18s)** - **Katharina Beck (Bündnis 90/Die Grünen)**: Fragt nach den Quellen der Zahlen zur Versorgungssicherheit und dem europäischen Energiemarkt.
+- **[01:04:09](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h4m9s)** - **Kotré (AfD)**: Erklärt die Herkunft seiner Zahlen aus dem Statistischen Bundesamt.
+- **[01:04:27](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h4m27s)** - **Kotré (AfD)**: Begründet den Stromimport mit der Schädigung der eigenen Energieversorgung.
+- **[01:04:32](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h4m32s)** - **Kotré (AfD)**: Nennt die Stromversorgung mit Kernenergie um das Jahr 2000 als preiswert.
+- **[01:04:51](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h4m51s)** - **Kotré (AfD)**: Erklärt, dass der Strom bei Wegfall von Kernenergie und Kohle aus dem Ausland kommen muss.
+- **[01:05:04](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h5m4s)** - **Kotré (AfD)**: Behauptet, die AfD operiere mit Zahlen und Fakten, im Gegensatz zu den Grünen.
+- **[01:05:08](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h5m8s)** - **Kotré (AfD)**: Wiederholt die Herkunft von Solarmodulen und Windkraftanlagenkomponenten aus China.
+- **[01:05:21](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h5m21s)** - **Kotré (AfD)**: Stellt Kernkraftwerke und Kohlekraftwerke als weitgehend unabhängiger dar.
+- **[01:05:28](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h5m28s)** - **Kotré (AfD)**: Nennt Länder, die Uran liefern.
+- **[01:05:35](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h5m35s)** - **Kotré (AfD)**: Nennt Länder, die Kohle liefern.
+- **[01:05:42](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h5m42s)** - **Kotré (AfD)**: Betont, dass dies die Unabhängigkeit stärke.
+- **[01:05:46](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h5m46s)** - **Kotré (AfD)**: Stellt fest, dass die Verweigerung russischen Leitungsgases die Gasdiversifikation verringere und Abhängigkeiten und Preise erhöhe.
+- **[01:06:02](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h6m2s)** - **Kotré (AfD)**: Kritisiert das Sanktionsregime als schädigend für die deutsche Volkswirtschaft.
+- **[01:06:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h6m13s)** - **Kotré (AfD)**: Nennt die Unzulänglichkeiten der europäischen Krisenreaktionsmechanismen.
+- **[01:06:36](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h6m36s)** - **Kotré (AfD)**: Kritisiert, dass komplexe Verfahren und Regelwerke schnelles Eingreifen und Entlastung verhindern.
+- **[01:06:40](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h6m40s)** - **Kotré (AfD)**: Nennt höchste Energiekosten und Deindustrialisierung als Folgen.
+- **[01:06:51](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h6m51s)** - **Kotré (AfD)**: Fordert eigenständige Maßnahmen zur Sicherung einer bezahlbaren und wettbewerbsfähigen Energieversorgung.
+- **[01:07:03](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h7m3s)** - **Kotré (AfD)**: Fordert eigenständige Entscheidungen über Beschaffung und Nutzung von Energieressourcen.
+- **[01:07:07](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h7m7s)** - **Kotré (AfD)**: Fordert Aussetzung von Sanktionen, Embargos und energie-/wirtschaftspolitischen Vorgaben für die Dauer der Krise.
+- **[01:07:20](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h7m20s)** - **Kotré (AfD)**: Fordert Berücksichtigung nationaler Interessen, Versorgungssicherheit und Schutz kritischer Infrastruktur.
+- **[01:07:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h7m33s)** - **Kotré (AfD)**: Fordert Vorrang für industrielle Wettbewerbsfähigkeit.
+- **[01:07:39](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h7m39s)** - **Kotré (AfD)**: Betont Energiesouveränität als Voraussetzung für wirtschaftliche und politische Eigenständigkeit.
+- **[01:07:51](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h7m51s)** - **Kotré (AfD)**: Stellt die Stärkung von Deutschlands Souveränität als patriotisch dar.
+- **[01:08:02](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h8m2s)** - **Dr. Saskia Ludwig (CDU/CSU)**: Beginnt ihren Redebeitrag.
+- **[01:08:26](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h8m26s)** - **Ludwig (CDU/CSU)**: Stellt fest, dass der Antrag an einem richtigen Punkt ansetzt: Energie sei zu teuer, Versorgungssicherheit nicht selbstverständlich und Wettbewerbsfähigkeit unter Druck.
+- **[01:08:39](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h8m39s)** - **Ludwig (CDU/CSU)**: Nennt die drei Fragen: Kommt Strom, zu welchem Preis, und bleibt Wertschöpfung im Land?
+- **[01:09:01](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h9m1s)** - **Ludwig (CDU/CSU)**: Teilt das Ziel bezahlbarer, sicherer und verfügbarer Energie, aber nicht die Therapie des AfD-Antrags.
+- **[01:09:05](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h9m5s)** - **Ludwig (CDU/CSU)**: Nennt eine komplette Rückabwicklung der Energiepolitik unrealistisch und volkswirtschaftlich nicht sinnvoll.
+- **[01:09:13](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h9m13s)** - **Ludwig (CDU/CSU)**: Nennt es ebenso unrealistisch, einfach weiterzumachen wie bisher.
+- **[01:09:21](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h9m21s)** - **Ludwig (CDU/CSU)**: Stellt den Anteil erneuerbarer Energien am Energiemix dar und verweist auf deren Wetterabhängigkeit.
+- **[01:09:40](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h9m40s)** - **Ludwig (CDU/CSU)**: Beschreibt die Abhängigkeit von Speichern, um die Lücken zu füllen.
+- **[01:10:06](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h10m6s)** - **Ludwig (CDU/CSU)**: Nennt den Fehler der letzten Jahre: Zubau ohne Netz, steuerbare Leistung und ehrliche Systemkosten.
+- **[01:10:17](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h10m17s)** - **Ludwig (CDU/CSU)**: Nennt die Kosten des Netzengpassmanagements.
+- **[01:10:30](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h10m30s)** - **Ludwig (CDU/CSU)**: Fordert, dass der Zubau dort erfolgen müsse, wo er dem Netz nutzt und zur Last passt.
+- **[01:10:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h10m43s)** - **Ludwig (CDU/CSU)**: Betont, dass politische Zielzahlen keine Physik ersetzen.
+- **[01:10:47](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h10m47s)** - **Ludwig (CDU/CSU)**: Stellt die Frage nach gesicherter Leistung in dunklen, windarmen Winternächten.
+- **[01:10:55](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h10m55s)** - **Ludwig (CDU/CSU)**: Nennt Deutschland seit 2023 Nettoimporteur.
+- **[01:11:07](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h11m7s)** - **Ludwig (CDU/CSU)**: Erklärt, dass europäischer Handel zwar sinnvoll sei, aber keine eigene gesicherte Leistung ersetze.
+- **[01:11:32](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h11m32s)** - **Ludwig (CDU/CSU)**: Fordert steuerbare Leistung heute und planbare Kapazität morgen.
+- **[01:11:45](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h11m45s)** - **Ludwig (CDU/CSU)**: Stellt fest, dass Deutschland Kerntechnik nicht aus Prinzip ausblenden dürfe.
+- **[01:12:00](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h12m0s)** - **Ludwig (CDU/CSU)**: Nennt den klaren Weg: Die Option auf SMRs und Fusion offenhalten.
+- **[01:12:09](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h12m9s)** - **Ludwig (CDU/CSU)**: Verweist auf den Strombedarf von Rechenzentren.
+- **[01:12:19](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h12m19s)** - **Ludwig (CDU/CSU)**: Nennt Biomethan als speicherbare und steuerbare Option.
+- **[01:12:33](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h12m33s)** - **Ludwig (CDU/CSU)**: Fordert Investitionsfinanzierung für mehr Biomethan.
+- **[01:12:45](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h12m45s)** - **Ludwig (CDU/CSU)**: Nennt die absurde Lage, heimisches Gas politisch zu fördern und gleichzeitig kreditunfähig zu machen.
+- **[01:12:53](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h12m53s)** - **Ludwig (CDU/CSU)**: Nennt die Entlastungen als Druckentlastung, aber keinen Ersatz für niedrige Energiekosten.
+- **[01:13:16](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h13m16s)** - **Ludwig (CDU/CSU)**: Stellt fest, dass Bürger und Betriebe doppelt zahlen (Preis und Steuersubventionierung).
+- **[01:13:16](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h13m16s)** - **Ludwig (CDU/CSU)**: Bestätigt die Problemdiagnose des AfD-Antrags (Preis, Versorgung, Standort), aber nicht die Therapie.
+- **[01:13:27](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h13m27s)** - **Ludwig (CDU/CSU)**: Verweist auf die begrenzte Redezeit.
+- **[01:13:36](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h13m36s)** - **Ludwig (CDU/CSU)**: Betont, dass Physik, Lastgang und Wirtschaftlichkeit entscheiden, nicht Ideologie.
+- **[01:13:47](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h13m47s)** - **Präsidentin**: Schließt die Aussprache und ruft zur Abstimmung auf.
+- **[01:13:54](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h13m54s)** - **Abstimmung über AfD-Antrag**: Die Beschlussempfehlung, den AfD-Antrag abzulehnen, wird mit den Stimmen von Linke, SPD, Grüne und CDU/CSU angenommen. Die AfD stimmt dagegen.
+- **[01:14:43](https://www.youtube.com/watch?v=lZDbfNzPENc&t=1h14m43s)** - **TOP 8b**: Beschluss über die Überweisung einer Vorlage an den Ausschuss für Wirtschaft und Energie.

@@ -1,0 +1,47 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7570",
+      "title": "Entwurf eines Vierten Gesetzes zur Änderung des Transplantationsgesetzes – Einführung einer Widerspruchsregelung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7570&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/8050",
+      "title": "Antrag: Freiwilligkeit der Organspende sichern – Aufklärungs- und Registrierungspotenziale heben",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8050&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2738",
+      "title": "Gesetzentwurf des Bundesrates: Entwurf eines Gesetzes zur Änderung des Transplantationsgesetzes und Einführung der Widerspruchslösung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2738&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 20/12609",
+      "title": "Entwurf eines Gesetzes zur Änderung des Transplantationsgesetzes und Einführung der Widerspruchslösung",
+      "url": "https://dserver.bundestag.de/btd/20/126/2012609.pdf",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 20/13252",
+      "title": "Entwurf eines Dritten Gesetzes zur Änderung des Transplantationsgesetzes – Novellierung der Regelungen zur Lebendorganspende und weitere Änderungen",
+      "url": "https://dserver.bundestag.de/btd/20/132/2013252.pdf",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 20/13804",
+      "title": "Entwurf eines Vierten Gesetzes zur Änderung des Transplantationsgesetzes – Einführung einer Widerspruchsregelung im Transplantationsgesetz",
+      "url": "https://dserver.bundestag.de/btd/20/138/2013804.pdf",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte über den Gesetzentwurf zur Änderung des Transplantationsgesetzes und die dazugehörigen Anträge wurde mit der Überweisung an die zuständigen Ausschüsse zur weiteren Beratung abgeschlossen. Es gab keine namentliche Abstimmung zu diesem Tagesordnungspunkt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

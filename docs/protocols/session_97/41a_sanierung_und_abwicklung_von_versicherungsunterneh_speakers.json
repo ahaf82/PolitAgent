@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Debatte im Bundestag zur Sanierung und Abwicklung von Versicherungsunternehmen war überschattet von der parallel verhandelten Senkung der Energiesteuer auf Kraftstoffe. Während die Regierungskoalition die Energiesteuersenkung als notwendige kurzfristige Entlastung verteidigte, kritisierte die Opposition deren Effizienz und Finanzierung. Externe Aussagen zeigen eine klare Spaltung der politischen Lager: Die SPD, vertreten durch Armand Zorn und Lars Klingbeil, betonte die unmittelbare Wirkung und forderte eine weitergehende Regulierung der Mineralölkonzerne. Die Grünen, mit Katharina Dröge an der Spitze, lehnten die Maßnahme als ineffektiv ab und bevorzugten direktere Hilfen wie ein Energiegeld oder eine Übergewinnsteuer. Die Union, mit Dr. Stefan Korbach und Dr. Florian Dorn, unterstützte die Senkung als notwendig, sprach aber auch von weiteren Maßnahmen wie einem Preisdeckel. Die AfD, repräsentiert durch Hauke Finger und Rainer Groß, lehnte sowohl die Versicherungsgesetze als auch die Energiesteuersenkung pauschal ab. Die Linke, mit Doris Achelwilm, kritisierte die Maßnahme als ungerechte \"Gießkanne\" und schlug ebenfalls ein Energiegeld vor.",
+  "sources": [
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": true,
+      "statement": "Armand Zorn verteidigte die Energiesteuersenkung als schnelle und spürbare Entlastung für Pendler und Unternehmen. Er betonte die Notwendigkeit, dass Mineralölkonzerne die Senkung weitergeben und sprach sich für eine weitere Verschärfung des Kartellrechts sowie die Einführung eines Preisdeckels oder einer Übergewinnsteuer aus.",
+      "source_title": "Wir entlasten schnell und spürbar | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/entlasten-schnell-und-spuerbar",
+      "platform": "Website"
+    },
+    {
+      "name": "Hauke Finger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Hauke Finger kritisierte den Gesetzentwurf zur Versicherungsabwicklung als überflüssige Regulierung und bezeichnete die Energiesteuersenkung als \"Schmuggeltaktik\", die zu gering sei. Er forderte eine dauerhafte Senkung der Energiesteuer und die Abschaffung der CO2-Steuer.",
+      "source_title": "Deutscher Bundestag Drucksache 21/6561 Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Umsetzung der Richtlinien (E",
+      "url": "https://www.bundestag.de/resource/blob/948516/c977f3d37f8e1d96898510b97659ff83/21-6561-data.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Stefan Korbach",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Stefan Korbach sah die befristete Senkung der Energiesteuer um 17 Cent pro Liter als notwendig an, um Bürger und Unternehmen zu entlasten. Er verwies auf positive Erfahrungen mit früheren Tankrabatten und kündigte einen Spritpreisdeckel sowie einen einkommensbezogenen Direktauszahlungsmechanismus an.",
+      "source_title": "Sanierung und Abwicklung von Versicherungsunternehmen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katharina Dröge",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Katharina Dröge kritisierte die erneute Einführung des Tankrabatts als absurd und verheerend, da er die Ursachen der hohen Preise nicht bekämpfe und von Mineralölkonzernen profitiere. Sie schlug stattdessen eine Übergewinnsteuer und die Auszahlung eines Energengeldes vor und betonte, dass Grüne in allen Bundesländern den Tankrabatt ablehnen.",
+      "source_title": "Reality check for the CDU/CSU – speech by Katharina Dröge in the Bundestag on the energy crisis - YouTube",
+      "url": "https://www.youtube.com/watch?v=9b9W-w8_Muw",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "found": true,
+      "statement": "Lars Klingbeil betonte die Notwendigkeit, dass Mineralölkonzerne die Steuersenkung an die Verbraucher weitergeben und forderte die weitere Schärfung des Kartellrechts sowie die Einführung eines Preisdeckels oder einer Übergewinnsteuer.",
+      "source_title": "German finance minister says oil companies must do their part to lower fuel costs",
+      "url": "https://www.reuters.com/markets/commodities/german-finance-minister-says-oil-companies-must-do-their-part-lower-fuel-costs-2026-09-26/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Doris Achelwilm kritisierte den Tankrabatt als \"Gießkanne\" für Verbrennungsmotoren, von der auch Konzerne profitierten, und schlug stattdessen ein Energiegeld von 150 Euro pro Person vor. Sie forderte die Umsetzung einer Übergewinnsteuer und die bessere Kontrolle von Ölkonzernen.",
+      "source_title": "Rede von Doris Achelwilm am 25.09.2026 - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Florian Dorn",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Florian Dorn erläuterte die Notwendigkeit der schnellen Entlastung von Verbrauchern und Unternehmen, die auf das Auto angewiesen sind, und betonte, dass diese Menschen aktuell von steigenden Kosten betroffen sind. Er räumte ein, dass ein Direktauszahlungsmechanismus zielgenauer wäre, aber die Umsetzung länger dauern würde.",
+      "source_title": "FraktionsNews | 12/2026 - CDU·CSU-Fraktion",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Rainer Groß",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

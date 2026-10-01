@@ -1,0 +1,66 @@
+# Sanierung und Abwicklung von Versicherungsunternehmen
+
+## Sitzungs-Metadaten
+- **Sitzung:** 97. Sitzung
+- **Datum:** 2026-09-25
+- **Tagesordnungspunkt (TOP):** 41a
+- **Originaltitel:** 97. Sitzung vom 25.09.2026. TOP 41a: Sanierung und Abwicklung von Versicherungsunternehmen
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=RBV8ckaFzME)
+
+## Kurzzusammenfassung
+Die Sitzung befasste sich mit der zweiten und dritten Beratung des Gesetzentwurfs zur Umsetzung von EU-Richtlinien für die Sanierung und Abwicklung von Versicherungsunternehmen. Wesentlicher Diskussionspunkt war die gleichzeitige, aber thematisch separate Verabschiedung einer befristeten Senkung der Energiesteuer auf Kraftstoffe zur Entlastung der Bürger angesichts gestiegener Spritpreise. Während die Regierungskoalition die Notwendigkeit und Wirksamkeit beider Maßnahmen betonte, äußerte die Opposition Kritik an der Ausgestaltung, der Zweckmäßigkeit und der Finanzierung der Entlastungen, insbesondere im Hinblick auf die Priorisierung gegenüber sozialen Ausgaben.
+
+## Kernaussagen und Positionen der Fraktionen
+- **SPD**:
+  - Betonte die Notwendigkeit, die Abhängigkeit von fossilen Rohstoffen zu reduzieren und Deutschland resilienter aufzustellen.
+  - Argumentierte, dass die Energiesteuersenkung von 17 Cent pro Liter notwendig sei, um unmittelbar auf die hohen Spritpreise zu reagieren und insbesondere Menschen im ländlichen Raum sowie Berufspendler zu entlasten.
+  - Kündigte die Einführung eines "Spritpreisdeckels" an, um missbräuchliche Preisaufschläge der Mineralölkonzerne zu verhindern und die Versorgungssicherheit zu gewährleisten.
+- **AfD**:
+  - Lehnte den Gesetzentwurf zur Sanierung und Abwicklung von Versicherungsunternehmen als überflüssige "deutsche Sonderweg"-Regulierung ab, die über EU-Vorgaben hinausgehe und zu höheren Versicherungsprämien führe.
+  - Kritisiert die Aufnahme der Energiesteuersenkung in dieses Gesetz als "Schmuggeltaktik".
+  - Bezeichnete die Energiesteuersenkung als "Minitankrabatt", der im europäischen Vergleich unzureichend sei, und forderte stattdessen eine dauerhafte Senkung der Energiesteuer und die Abschaffung der CO2-Steuer.
+  - Befürwortete Neuwahlen.
+- **CDU/CSU**:
+  - Hielt die Senkung der Energiesteuer um ca. 17 Cent pro Liter vom 1. Oktober bis 31. Dezember 2026 für notwendig und wirksam, um Bürger und Unternehmen um rund 2,5 Milliarden Euro zu entlasten.
+  - Betonte die Vorteile der sofortigen Wirkung an der Zapfsäule, die fehlende Bürokratie und die Entlastung derer, die auf das Auto angewiesen sind.
+  - Sah die Erfahrungen des früheren Tankrabatts als Beleg für seine Funktionalität, auch wenn die Weitergabe nicht immer vollständig erfolgte.
+  - Kündigte für Januar 2027 einen zeitlich begrenzten Spritpreisdeckel nach belgischem Muster und die Arbeit an einem einkommensbezogenen Direktauszahlungsmechanismus an.
+- **Bündnis 90/Die Grünen**:
+  - Kritisierten die erneute Einführung des Tankrabatts als gescheitert und symbolisch negativ im Kontext von Kürzungen bei Familienleistungen.
+  - Argumentierten, dass der Tankrabatt 2,5 Milliarden Euro kostet, während die gleichen Mittel zur Rücknahme von Kürzungen bei Familienleistungen verwendet werden könnten.
+  - Hielten den Tankrabatt für ineffektiv, da er die Ursachen der hohen Preise (Sperrung der Straße von Hormus) nicht bekämpfe und von Mineralölkonzernen profitiere.
+  - Schlugen stattdessen eine Übergewinnsteuer und die Auszahlung eines Energengeldes vor.
+  - Bestätigten, dass alle Grünen in den Bundesländern den Tankrabatt ablehnen.
+- **Die Linke**:
+  - Bemängelte, dass der Tankrabatt in Höhe von 17 Cent pro Liter für drei Monate und rund 2,5 Milliarden Euro zu einer "Gießkanne" für Verbrennungsmotoren wird, von der auch Konzerne profitieren.
+  - Vertrat die Auffassung, dass der Tankrabatt nicht alle Betroffenen gleichermaßen entlaste und schlug stattdessen ein Energiegeld von 150 Euro pro Person vor.
+  - Forderte die sofortige Umsetzung einer Übergewinnsteuer und die bessere Kontrolle von Ölkonzernen.
+  - Sah die Senkung der Energiesteuer als nicht ausreichend und forderte die Abschaffung der CO2-Steuer.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=RBV8ckaFzME&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die zweite und dritte Beratung des Gesetzentwurfs zur Umsetzung von EU-Richtlinien für die Sanierung und Abwicklung von Versicherungsunternehmen. Ein Entschließungsantrag von Bündnis 90/Die Grünen liegt vor. Eine Dauer von 30 Minuten ist für die Aussprache vereinbart.
+- **[00:44](https://www.youtube.com/watch?v=RBV8ckaFzME&t=44s)** - **Armand Zorn (SPD)**: Erklärt, dass er hauptsächlich über die Senkung der Energiesteuer sprechen wird und betont die kriegerischen Auseinandersetzungen im Nahen Osten als Ursache für hohe Spritpreise. Er wünscht Frieden in der Region und unterstreicht die Notwendigkeit für Deutschland, resilienter und unabhängiger von fossilen Energien zu werden. Er lobt den Fahrplan zum Abbau fossiler Energien und nennt die E-Auto-Prämie als Erfolg der Koalition. Er spricht sich für Entlastungen bei den Spritpreisen aus und begründet die Entscheidung der SPD für eine Senkung der Energiesteuer um 17 Cent pro Liter, da diese sofort wirke und die Menschen unmittelbar unterstütze. Gleichzeitig kündigt er die Einführung eines "Spritpreisdeckels" an, um missbräuchliche Preisaufschläge der Mineralölkonzerne zu verhindern.
+- **[07:19](https://www.youtube.com/watch?v=RBV8ckaFzME&t=719s)** - **Hauke Finger (AfD)**: Kritisiert den Gesetzentwurf zur Versicherungsabwicklung als bürokratische Übererfüllung von EU-Vorgaben, die zu höheren Prämien führe. Er bezeichnet die Aufnahme der Energiesteuersenkung in dieses Gesetz als "Schmuggeltaktik" und kritisiert die Höhe der Entlastung im europäischen Vergleich. Er fordert eine dauerhafte Senkung der Energiesteuer und die Abschaffung der CO2-Steuer.
+- **[11:15](https://www.youtube.com/watch?v=RBV8ckaFzME&t=1115s)** - **Dr. Stefan Korbach (CDU/CSU)**: Erläutert, dass der Gesetzentwurf zur Versicherungsabwicklung eine komplexe Umsetzung von EU-Richtlinien sei, aber eine Änderung des Energiesteuergesetzes zur schnellen Reaktion auf hohe Spritpreise notwendig sei. Er nennt die Preiserhöhungen seit Februar und die Belastung für Pendler, ländliche Räume, Pflegedienste und Handwerk. Er begründet die befristete Senkung der Energiesteuer um 17 Cent pro Liter, die ab 1. Oktober gilt und zu einer Entlastung von 2,5 Milliarden Euro führe. Er verweist auf positive Erfahrungen mit früheren Tankrabatten und kündigt einen Spritpreisdeckel ab Januar 2027 sowie einen einkommensbezogenen Direktauszahlungsmechanismus an.
+- **[15:31](https://www.youtube.com/watch?v=RBV8ckaFzME&t=1531s)** - **Katharina Dröge (Bündnis 90/Die Grünen)**: Kritisiert die erneute Einführung des Tankrabatts als absurd und verheerend, insbesondere im Angesicht von Kürzungen bei Familienleistungen. Sie vergleicht die Kosten des Tankrabatts (2,5 Milliarden Euro für drei Monate) mit der Summe der Einsparungen bei Familienleistungen (ebenso 2,5 Milliarden Euro für ein Jahr) und fordert die Rücknahme dieser Kürzungen. Sie argumentiert, dass der Tankrabatt die Ursachen der hohen Preise nicht bekämpfe und stattdessen eine Übergewinnsteuer und ein Energiegeld sinnvoll seien. Sie betont, dass Grüne in allen Bundesländern den Tankrabatt ablehnen.
+- **[19:32](https://www.youtube.com/watch?v=RBV8ckaFzME&t=1932s)** - **Lars Klingbeil (SPD, Zwischenfrage an Katharina Dröge)**: Stellt Fragen zur Abwägung zwischen sofortiger Entlastung und zielgenaueren, aber verzögerten Maßnahmen sowie zur Haltung der von Grünen geführten Länder zum Tankrabatt.
+- **[20:44](https://www.youtube.com/watch?v=RBV8ckaFzME&t=2044s)** - **Katharina Dröge (Bündnis 90/Die Grünen, Antwort auf Lars Klingbeil)**: Beantwortet die Fragen und betont, dass die Grünen den Tankrabatt ablehnen und stattdessen ein Energiegeld hätten einführen wollen. Sie kritisiert die Ausreden des Finanzministers bezüglich der technischen Umsetzbarkeit und sieht dies als Zeichen der Uneinigkeit in der Koalition.
+- **[22:52](https://www.youtube.com/watch?v=RBV8ckaFzME&t=2252s)** - **Dr. Stefan Korbach (CDU/CSU, Zwischenfrage an Katharina Dröge)**: Fragt, ob die Grünen im Bundesrat gegen den Tankrabatt stimmen würden.
+- **[23:18](https://www.youtube.com/watch?v=RBV8ckaFzME&t=2318s)** - **Katharina Dröge (Bündnis 90/Die Grünen, Antwort auf Dr. Stefan Korbach)**: Erklärt, dass eine Anrufung des Vermittlungsausschusses nicht möglich sei, da keine Mehrheit dafür bestehe, und dass die Haltung der Grünen in einer Protokollnotiz zum Ausdruck gebracht wurde. Sie kritisiert die CDU für die Befürwortung eines unwirksamen Instruments.
+- **[24:44](https://www.youtube.com/watch?v=RBV8ckaFzME&t=2444s)** - **Präsident**: Unterbricht die Aussprache über die Zwischenfrage und weist darauf hin, dass Kollegin Dröge noch Redezeit hat.
+- **[25:49](https://www.youtube.com/watch?v=RBV8ckaFzME&t=2549s)** - **Doris Achelwilm (Die Linke)**: Kritisiert die erneute Einführung des Tankrabatts, der nun rund 2,5 Milliarden Euro kostet und von dem auch Mineralölkonzerne profitieren. Sie lehnt die "Gießkanne" ab und schlägt ein Energiegeld von 150 Euro vor. Sie fordert die Umsetzung einer Übergewinnsteuer und die Kontrolle von Ölkonzernen.
+- **[29:17](https://www.youtube.com/watch?v=RBV8ckaFzME&t=2917s)** - **Dr. Florian Dorn (CDU/CSU)**: Beschreibt die Belastung durch hohe Spritpreise und nennt konkrete Mehrkosten für Autofahrer. Er führt die Ursache auf die Sperrung der Straße von Hormus und den Krieg im Nahen Osten zurück.
+- **[30:53](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3053s)** - **Präsident**: Kündigt zwei weitere Zwischenfragen an, eine von Bündnis 90/Die Grünen und eine von Die Linke.
+- **[31:09](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3109s)** - **Katharina Dröge (Bündnis 90/Die Grünen, Zwischenfrage an Dr. Florian Dorn)**: Fragt, warum die Union zu einem unwirksamen Instrument greife, anstatt zu einem von Ökonomen empfohlenen Direktauszahlungsmechanismus.
+- **[32:26](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3226s)** - **Dr. Florian Dorn (CDU/CSU, Antwort auf Katharina Dröge)**: Erklärt die Abwägung zwischen Zielgenauigkeit und schneller Wirkung des Tankrabatts. Er räumt ein, dass ein Direktauszahlungsmechanismus zielgenauer wäre, aber die Umsetzung länger dauern würde.
+- **[34:11](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3411s)** - **Doris Achelwilm (Die Linke, Zwischenfrage an Dr. Florian Dorn)**: Fragt, ob die Union zustimmen würde, dass die Aussage, es sei kein Geld für den Sozialstaat da, vorgeschoben sei, da das Geld des Tankrabatts für Familien und Geringverdiener verwendet werden könnte.
+- **[35:50](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3550s)** - **Dr. Florian Dorn (CDU/CSU, Antwort auf Doris Achelwilm)**: Wiederholt die Notwendigkeit der schnellen Entlastung von Verbrauchern und Unternehmen, die auf das Auto angewiesen sind, und betont, dass diese Menschen aktuell von steigenden Kosten betroffen sind.
+- **[37:35](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3735s)** - **Präsident**: Kündigt eine Nachfrage aus der AfD-Fraktion an.
+- **[37:50](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3750s)** - **Dr. Florian Dorn (CDU/CSU)**: Lehnt die Frage aus der AfD-Fraktion zunächst ab, um seine Rede zu beginnen.
+- **[38:12](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3812s)** - **Präsident**: Erklärt, dass Dr. Dorn die Frage zulassen müsse.
+- **[38:14](https://www.youtube.com/watch?v=RBV8ckaFzME&t=3814s)** - **Dr. Florian Dorn (CDU/CSU)**: Beginnt seine Rede und betont die Geschwindigkeit und Sichtbarkeit der Entlastung durch den Tankrabatt. Er erklärt, dass die Senkung um 17 Cent dem EU-Mindeststeuersatz entspricht und die CO2-Abgabe damit adressiert wird.
+- **[46:00](https://www.youtube.com/watch?v=RBV8ckaFzME&t=4600s)** - **Rainer Groß (AfD)**: Kritisiert den Gesetzentwurf zur Versicherungsabwicklung als bürokratisches Ungetüm und eine Einmischung Brüssels. Er spricht sich für Eigenverantwortung statt Regulierung aus und kritisiert die Abschaffung der Spartentrennung und des Haftungsprinzips. Er bezeichnet den Tankrabatt als "hasenfüßigen Schritt" und fordert die Aussetzung der CO2-Bepreisung.
+- **[49:31](https://www.youtube.com/watch?v=RBV8ckaFzME&t=4931s)** - **Präsident**: Begrüßt eine vietnamesische Delegation und betont die Partnerschaft zwischen Deutschland und Vietnam.
+- **[50:48](https://www.youtube.com/watch?v=RBV8ckaFzME&t=5048s)** - **Präsident**: Leitet zur Abstimmung über den Gesetzentwurf zur Sanierung und Abwicklung von Versicherungsunternehmen über. Er informiert über die Empfehlung des Finanzausschusses und die Anträge der Fraktionen Bündnis 90/Die Grünen und Die Linke, getrennt über Artikel 11, 12 und 13 Absatz 4 des Gesetzentwurfs abzustimmen. Eine namentliche Abstimmung über diese Artikel wird eröffnet.
+- **[52:42](https://www.youtube.com/watch?v=RBV8ckaFzME&t=5242s)** - **Präsident**: Eröffnet die namentliche Abstimmung und gibt das Ende der Abstimmung für 12:53 Uhr bekannt.
+- **[53:02](https://www.youtube.com/watch?v=RBV8ckaFzME&t=5302s)** - **Präsident**: Ruft den Zusatzpunkt 11 auf.

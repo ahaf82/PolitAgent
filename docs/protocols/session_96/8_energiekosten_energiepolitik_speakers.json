@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die Abgeordneten Jakob Blankenburg (SPD), Karsten Hilse (AfD), Dr. Thomas Gebhart (CDU/CSU) und Julian Joswig (Bündnis 90/Die Grünen) äußerten sich zu den Themen Energiekosten und Energiepolitik. Blankenburg kritisierte die AfD-Vorschläge scharf und betonte die Notwendigkeit erneuerbarer Energien für Unabhängigkeit. Hilse hingegen leugnete den menschengemachten Klimawandel und forderte die Streichung von Klimaschutzmaßnahmen. Gebhart plädierte für einen Ausgleich zwischen Klimaschutz und wirtschaftlicher Entwicklung und unterstützte den europäischen Emissionshandel. Joswig kritisierte die Auswirkungen des Tankrabatts auf die Steuerzahler und forderte mehr erneuerbare Energien.",
+  "sources": [
+    {
+      "name": "Jakob Blankenburg",
+      "party": "SPD",
+      "found": true,
+      "statement": "Kritisierte die AfD-Vorschläge scharf und bezeichnete sie als Rückkehr zu Putin und Leugnung des Klimawandels. Betonte, dass selbst produzierte Energie unabhängig mache und erneuerbare Energien der Weg zu Unabhängigkeit und bezahlbaren Preisen seien. Er verurteilte auch die Forderung der AfD, Klimagesetze zu streichen.",
+      "source_title": "Bundestag lehnt Vorlage zur Senkung der Energiekosten ab; SPD: AfD will Klimakrise einfach absagen",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekosten-1216634",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karsten Hilse",
+      "party": "AfD",
+      "found": true,
+      "statement": "Behauptete, der menschengemachte Klimawandel sei nicht bewiesen und der Klimawandel sei natürlich. Kritisiert die aktuelle Energiepolitik und fordert die Streichung der CO2-Bepreisung sowie den Weiterbetrieb von Kohle- und Atomkraftwerken zur Kostensenkung.",
+      "source_title": "Bundestag lehnt Vorlage zur Senkung der Energiekosten ab; AfD fordert eine „faktenbasierte Klima- und Energiepolitik“",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekosten-1216634",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Thomas Gebhart",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Positionierte sich gegen die AfD-Anträge und warnte vor ökonomischem Schaden. Er betonte, dass Klimaschutz und wirtschaftliche Entwicklung in Einklang gebracht werden müssten und unterstützte die Einführung eines europäischen Emissionshandels zur Schaffung fairer Wettbewerbsbedingungen.",
+      "source_title": "CDU/CSU: Absenken des Klimaschutzes auf null ist keine Lösung",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekosten-1216634",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julian Joswig",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisierte den Tankrabatt der Bundesregierung als zu teuer und ineffizient, da nur ein kleiner Teil bei den Verbrauchern ankomme. Er forderte stattdessen Entlastungen für die Bürger und betonte die Notwendigkeit von erneuerbaren Energien zur Beendigung der Abhängigkeit von fossilen Importen.",
+      "source_title": "Grüne kritisieren Abschwächung der Klimaregeln; Grüne: Tankrabatt kostet Steuerzahler rund 2,5 Milliarden Euro",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekosten-1216634",
+      "platform": "Presse"
+    }
+  ]
+}

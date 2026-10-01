@@ -1,5 +1,31 @@
 [
   {
+    "id": "mNmNOB3MWvQ",
+    "title": "97. Sitzung vom 25.09.2026. TOP ZP 11: Bundeszentrale für politische Bildung",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "ZP 11",
+    "topic": "Bundeszentrale für politische Bildung",
+    "summary_path": "protocols/session_97/zp_11_bundeszentrale_fuer_politische_bildung.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_97/zp_11_bundeszentrale_fuer_politische_bildung_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=mNmNOB3MWvQ",
+    "processed_at": "2026-10-01T08:08:29.530750"
+  },
+  {
+    "id": "RBV8ckaFzME",
+    "title": "97. Sitzung vom 25.09.2026. TOP 41a: Sanierung und Abwicklung von Versicherungsunternehmen",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "41a",
+    "topic": "Sanierung und Abwicklung von Versicherungsunternehmen",
+    "summary_path": "protocols/session_97/41a_sanierung_und_abwicklung_von_versicherungsunterneh.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_97/41a_sanierung_und_abwicklung_von_versicherungsunterneh_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=RBV8ckaFzME",
+    "processed_at": "2026-10-01T08:09:07.001641"
+  },
+  {
     "id": "3BP6tCT5JUQ",
     "title": "96th Session on 09/24/2026. Agenda Item ZP 3: Current Affairs Debate: German Isar Aerospace Rocke...",
     "session": 96,
@@ -24,6 +50,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=vZBJuY3z6E4",
     "processed_at": "2026-09-30T08:05:02.247161"
+  },
+  {
+    "id": "lZDbfNzPENc",
+    "title": "96. Sitzung vom 24.09.2026. TOP 8: Energiekosten, Energiepolitik",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "8",
+    "topic": "Energiekosten und Energiepolitik",
+    "summary_path": "protocols/session_96/8_energiekosten_energiepolitik.md",
+    "documents_path": "protocols/session_96/8_energiekosten_energiepolitik_documents.json",
+    "speakers_path": "protocols/session_96/8_energiekosten_energiepolitik_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=lZDbfNzPENc",
+    "processed_at": "2026-10-01T08:04:12.087348"
+  },
+  {
+    "id": "jM0Q6wdz15w",
+    "title": "96th Session on 09/24/2026. Agenda Item 7: Reform of the Intelligence Service Act",
+    "session": 96,
+    "date": "2026-09-24",
+    "top": "7",
+    "topic": "Reform des Nachrichtendienstrechts",
+    "summary_path": "protocols/session_96/7_reform_of_the_intelligence_service_act.md",
+    "documents_path": "protocols/session_96/7_reform_of_the_intelligence_service_act_documents.json",
+    "speakers_path": "protocols/session_96/7_reform_of_the_intelligence_service_act_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=jM0Q6wdz15w",
+    "processed_at": "2026-10-01T08:02:30.142256"
   },
   {
     "id": "N2p45RxvEZY",
@@ -2830,6 +2882,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=PIuRgq6eq6s",
     "processed_at": "2026-09-29T08:05:09.787061"
+  },
+  {
+    "id": "MWgOUO4RXII",
+    "title": "96th session of September 24, 2026. Agenda item 9: Amendment to the Transplantation Act",
+    "session": 96,
+    "date": "N/A",
+    "top": "9",
+    "topic": "96. Sitzung vom 24. September 2026: Beratung des Gesetzentwurfs zur Änderung des Transplantationsgesetzes",
+    "summary_path": "protocols/session_96/9_96th_session_of_september_24_2026_agenda_item_9_am.md",
+    "documents_path": "protocols/session_96/9_96th_session_of_september_24_2026_agenda_item_9_am_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=MWgOUO4RXII",
+    "processed_at": "2026-10-01T08:01:12.321154"
   },
   {
     "id": "FiHYIt9-gA0",
