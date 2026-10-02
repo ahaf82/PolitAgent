@@ -13,6 +13,19 @@
     "processed_at": "2026-10-01T08:08:29.530750"
   },
   {
+    "id": "GoXnqDfhC6o",
+    "title": "97. Sitzung, ZP 10: Beschluss­empfehlung des Vermittlungs­aus­schusses",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "N/A",
+    "topic": "97. Sitzung: Beschlussempfehlung des Vermittlungsausschusses",
+    "summary_path": "protocols/session_97/top_unknown_97_sitzung_zp_10_beschluss_empfehlung_des_vermittl.md",
+    "documents_path": "protocols/session_97/top_unknown_97_sitzung_zp_10_beschluss_empfehlung_des_vermittl_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=GoXnqDfhC6o",
+    "processed_at": "2026-10-02T08:05:37.150097"
+  },
+  {
     "id": "RBV8ckaFzME",
     "title": "97. Sitzung vom 25.09.2026. TOP 41a: Sanierung und Abwicklung von Versicherungsunternehmen",
     "session": 97,
@@ -24,6 +37,58 @@
     "speakers_path": "protocols/session_97/41a_sanierung_und_abwicklung_von_versicherungsunterneh_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=RBV8ckaFzME",
     "processed_at": "2026-10-01T08:09:07.001641"
+  },
+  {
+    "id": "FBo4e1mWHrQ",
+    "title": "97. Sitzung, TOP 35: Solidar­prinzip",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "35",
+    "topic": "Das Solidaritätsprinzip stärken",
+    "summary_path": "protocols/session_97/35_97_sitzung_top_35_solidar_prinzip.md",
+    "documents_path": "protocols/session_97/35_97_sitzung_top_35_solidar_prinzip_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ",
+    "processed_at": "2026-10-02T08:01:20.619327"
+  },
+  {
+    "id": "PxqVM2S8k60",
+    "title": "97. Sitzung vom 25.09.2026. TOP 35: Solidarprinzip",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "35",
+    "topic": "Das Solidarprinzip stärken",
+    "summary_path": "protocols/session_97/35_solidarprinzip.md",
+    "documents_path": "protocols/session_97/35_solidarprinzip_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=PxqVM2S8k60",
+    "processed_at": "2026-10-02T08:03:05.817568"
+  },
+  {
+    "id": "cgsiU72l1Yc",
+    "title": "97. Sitzung vom 25.09.2026. TOP 34: Einführung einer Frühstartrente",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "34",
+    "topic": "Einführung einer Frühstartrente",
+    "summary_path": "protocols/session_97/34_einfuehrung_einer_fruehstartrente.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_97/34_einfuehrung_einer_fruehstartrente_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=cgsiU72l1Yc",
+    "processed_at": "2026-10-02T08:06:50.929437"
+  },
+  {
+    "id": "qwtQNe55J6Y",
+    "title": "97. Sitzung, TOP 33: Modernisierung des Bundes­polizei­gesetzes",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "33",
+    "topic": "Modernisierung des Polizeigesetzes des Bundes",
+    "summary_path": "protocols/session_97/33_97_sitzung_top_33_modernisierung_des_bundes_polize.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=qwtQNe55J6Y",
+    "processed_at": "2026-10-02T08:05:57.369369"
   },
   {
     "id": "3BP6tCT5JUQ",

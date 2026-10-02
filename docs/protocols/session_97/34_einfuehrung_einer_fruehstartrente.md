@@ -1,0 +1,142 @@
+# Einführung einer Frühstartrente
+
+## Sitzungs-Metadaten
+- **Sitzung:** 97. Sitzung
+- **Datum:** 2026-09-25
+- **Tagesordnungspunkt (TOP):** 34
+- **Originaltitel:** 97. Sitzung vom 25.09.2026. TOP 34: Einführung einer Frühstartrente
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=cgsiU72l1Yc)
+
+## Kurzzusammenfassung
+Der Deutsche Bundestag debattierte die Einführung einer "Frühstartrente", die vorsieht, dass Kinder ab sechs Jahren monatlich 10 Euro staatlich gefördert in ein Altersvorsorgedepot einzahlen. Ziel ist die frühe Förderung des langfristigen Sparens und der finanziellen Bildung. Während die Regierungskoalition das Gesetz als wichtigen Schritt zur Stärkung der Altersvorsorge und zur Chancengleichheit hervorhebt, äußerten sich Oppositionsfraktionen kritisch bezüglich der Höhe der Förderung, der Zielgruppen, der Ausgestaltung der Anlage und der mangelnden Beratungspflicht.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch Bundesfinanzminister Lars Klingbeil, SPD)**:
+  - Die Frühstartrente ist ein wichtiger Schritt zur Zukunftsfestigkeit der Rente und zur Stärkung der jungen Generation.
+  - Sie dient der Chancengleichheit und ermöglicht allen Kindern den Aufbau eines Altersvorsorge-Startkapitals.
+  - 10 Euro monatlich können durch Zins und Zinseszins über Jahrzehnte zu erheblichen Summen anwachsen (Schätzungen bis zu 160.000 Euro bei zusätzlichen Elternbeiträgen).
+  - Der Staat springt für Kinder ein, deren Eltern sich nicht kümmern, um eine Garantie für jedes Kind zu schaffen.
+  - Begleitend wird eine Finanzbildungsstrategie zur Stärkung der Kultur von Sparplänen und Depots eingeführt.
+- **AfD**:
+  - Die Förderung von 10 Euro monatlich ist zu gering, um einen nennenswerten Kapitalstock für die Altersvorsorge aufzubauen.
+  - Die Fraktion fordert ein Junior-Spardepot mit 100 Euro monatlich ab Geburt.
+  - Es wird kritisiert, dass der Gesetzentwurf keine Staatsangehörigkeit oder dauerhaften Aufenthalt verlangt und somit Geld ins Ausland fließen könnte; der eigene Vorschlag richtet sich an deutsche Kinder mit Daueraufenthalt.
+  - Der Antrag der Linken zur Finanzbildung wird als politische Umerziehung und nicht als Finanzbildung kritisiert.
+- **CDU/CSU (vertreten durch Dr. Mathias Middelberg, Carsten Brodesser, Oliver Pöpsel, Mechthilde Wittmann)**:
+  - Die Frühstartrente ist ein Meilenstein zur Stärkung der privaten Altersvorsorge, der finanziellen Bildung und der Kapitalanlage in Deutschland.
+  - Sie ermöglicht auch Kindern aus Familien mit geringeren Einkommen, von der Altersvorsorge zu profitieren und sichert den chancengleichen Start ins Leben.
+  - Erträge in den Depots sind bis zum Renteneintritt steuerfrei.
+  - Die Maßnahme stärkt den deutschen Kapitalmarkt und fördert Investitionen in heimische Unternehmen.
+  - Es wird betont, dass die Frühstartrente Teil eines umfassenden Pakets zur Stärkung der Altersvorsorge ist, das auch die gesetzliche und betriebliche Altersvorsorge umfasst.
+  - Die Kritik der Opposition wird als Nebelstochern abgetan; die Frühstartrente wird als eines der größten Sozialprojekte bezeichnet.
+  - Die finanzielle Bildung wird als wichtiger ergänzender Aspekt hervorgehoben.
+- **Bündnis 90/Die Grünen (vertreten durch Stefan Schmidt, Katharina Beck)**:
+  - Die Idee der Frühstartrente ist gut, die Umsetzung im Gesetzentwurf jedoch mangelhaft.
+  - Es wird kritisiert, dass ältere Jahrgänge ausgeschlossen werden und dass die staatliche Auffanglösung eine Kollektivanlage und keine individuellen Depots vorsieht, was Kinder aus einkommensschwächeren Familien benachteiligen könnte.
+  - Die Wahlfreiheit der Eltern bei der Depotauswahl sei eingeschränkt; die Grünen fordern die Schaffung eines öffentlich verwalteten Standarddepots.
+  - Das Missverhältnis zwischen staatlichen und erlaubten privaten Einzahlungen sowie die mangelnde Konkretisierung der Finanzbildung werden bemängelt.
+  - Es wird gefordert, dass die Finanzbildung unabhängig von Finanzproduktanbietern erfolgen muss und stärker in den Schulen verankert werden sollte.
+- **Die Linke (vertreten durch Lisa Schubert)**:
+  - Die Frühstartrente wird als private Kundenakquise auf Staatskosten kritisiert, die primär privaten Anbietern zugutekommt.
+  - Es wird bemängelt, dass keine Beratungspflicht besteht und die Verantwortung sowie das Risiko für die Geldanlage beim Individuum liegen.
+  - Die fehlende Nachhaltigkeitsprüfung der Anlagen und die mögliche Finanzierung umweltschädlicher Unternehmen werden kritisiert.
+  - Die Maßnahme trage nicht zur Reduzierung sozialer Ungleichheiten bei, da nur besserverdienende Eltern zusätzliche Einzahlungen leisten könnten.
+  - Finanzbildung müsse unabhängig erfolgen und nicht von den Verkäufern der Finanzprodukte.
+- **SPD (vertreten durch Michael Thews, Franke Heiligenstadt)**:
+  - Die Frühstartrente ist der nächste Schritt zur Modernisierung der Altersvorsorge nach der Reform der Riester-Rente.
+  - Ziel ist, dass alle jungen Menschen bis zur Volljährigkeit über eine zusätzliche Altersvorsorge verfügen.
+  - Die staatliche Förderung von 10 Euro monatlich wird als Grundlage für weitere Vorsorgeentscheidungen gesehen.
+  - Die sozialdemokratische Position wird hervorgehoben, dass bei Nicht-Handeln der Eltern eine öffentlich verwaltete Auffanglösung greift, sodass die Förderung nicht verloren geht.
+  - Es wird betont, dass einfache Produkte mit niedrigen Kosten entscheidend sind und Abschluss- sowie Vertriebskosten bis zur Volljährigkeit ausgeschlossen werden müssen.
+  - Die Frühstartrente soll ein Anker für die nationale Finanzbildungsstrategie sein.
+  - Es wird gefordert, dass das öffentlich verwaltete Standarddepot eine echte Wahlmöglichkeit bei der Frühstartrente wird.
+  - Das Gesetz wird als wichtiger Schritt zur Chancengleichheit und gegen Altersarmut angesehen.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und der Beginn der ersten Beratung des Gesetzentwurfs zur Einführung einer Frühstartrente sowie des Antrags der Fraktion Die Linke zur finanziellen Bildung angekündigt. Eine Aussprachezeit von 60 Minuten wird beschlossen.
+- **[00:45](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=45s)** - **Bundesminister der Finanzen Lars Klingbeil (SPD)**: Eröffnet die Aussprache im Namen der Bundesregierung.
+- **[00:58](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=58s)** - **Lars Klingbeil (SPD)**: Betont, dass die Koalition die Rente zukunftsfest machen und alle Generationen, insbesondere die junge, im Blick haben will. Er dankt für die Beratung der Frühstartrente.
+- **[01:31](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1m31s)** - **Lars Klingbeil (SPD)**: Erklärt, dass es um Chancengleichheit und -gerechtigkeit geht und alle Kinder gute Chancen für ein unabhängiges Leben erhalten sollen.
+- **[01:56](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1m56s)** - **Lars Klingbeil (SPD)**: Hebt die Investitionen in frühkindliche Bildung, Schulen und den Übergang in Ausbildung/Studium hervor und nennt die Frühstartrente als zusätzliche Möglichkeit zur Altersvorsorge.
+- **[02:51](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=2m51s)** - **Lars Klingbeil (SPD)**: Erklärt, dass die Frühstartrente ein Zeichen für bessere Gerechtigkeit sei und Kindern künftig 10 Euro im Monat als Startkapital für die Altersvorsorge gewährt werden.
+- **[03:29](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=3m29s)** - **Lars Klingbeil (SPD)**: Beziffert das Potenzial der staatlichen Förderung auf 53.000 Euro bis zum Renteneintritt und mit zusätzlichen 20 Euro Elternbeitrag auf bis zu 160.000 Euro.
+- **[04:12](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=4m12s)** - **Lars Klingbeil (SPD)**: Beschreibt die Frühstartrente als "digitales Familiensparbuch" und echten Vermögensaufbau für alle Kinder.
+- **[04:35](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=4m35s)** - **Lars Klingbeil (SPD)**: Versichert, dass der Staat bei Kindern, deren Eltern sich nicht kümmern, über die Bundesbank einspringt.
+- **[05:19](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=5m19s)** - **Lars Klingbeil (SPD)**: Kündigt die Einführung einer Strategie zur Stärkung der finanziellen Bildung an, die auf eine Ergänzung der Sparbuchkultur durch eine Kultur der Sparpläne und Depots abzielt.
+- **[06:23](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=6m23s)** - **Abgeordnete Iris Nieland (AfD)**: Beginnt ihre Rede und bezeichnet die 10 Euro Förderung als zu gering für die ambitionierten Ziele der Bundesregierung.
+- **[06:45](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=6m45s)** - **Iris Nieland (AfD)**: Kisiert die Höhe der Förderung und die daraus resultierende Summe, die ihrer Meinung nach unzureichend sei, um einen wirklichen Kapitalstock für die Altersvorsorge aufzubauen.
+- **[07:59](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=7m59s)** - **Iris Nieland (AfD)**: Verweist auf den eigenen Antrag der AfD für ein Junior-Spardepot mit 100 Euro monatlich ab Geburt und kritisiert die fehlende Staatsangehörigkeits- und Aufenthaltsregel im Regierungsentwurf.
+- **[09:08](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=9m8s)** - **Iris Nieland (AfD)**: Geht auf den Antrag der Linken zur finanziellen Bildung ein und bezeichnet ihn als politische Umerziehung, die über die Kernbereiche der Finanzkompetenz hinausgehe.
+- **[10:14](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=10m14s)** - **Iris Nieland (AfD)**: Kündigt an, dass die Zahlen und die Konstruktion des Gesetzentwurfs in der Anhörung geprüft werden.
+- **[10:45](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=10m45s)** - **Abgeordneter Dr. Mathias Middelberg (CDU/CSU)**: Nennt die Frühstartrente einen Meilenstein in dreifacher Hinsicht: Stärkung der Altersvorsorge, finanziellen Bildung und Kapitalanlage in Deutschland.
+- **[11:33](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=11m33s)** - **Dr. Mathias Middelberg (CDU/CSU)**: Erläutert, dass Kinder vom 6. bis 18. Lebensjahr einen Zuschlag von 10 Euro in ein individuelles Altersvorsorgedepot erhalten, das auch von anderen Familienmitgliedern bespart werden kann.
+- **[12:16](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=12m16s)** - **Dr. Mathias Middelberg (CDU/CSU)**: Betont die Wichtigkeit, dass die Frühstartrente auch für Kinder eingerichtet wird, deren Eltern dies nicht tun, verwaltet durch die Bundesbank.
+- **[12:59](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=12m59s)** - **Dr. Mathias Middelberg (CDU/CSU)**: Hebt hervor, dass die Erträge in den Depots bis zum Renteneintritt steuerfrei sind.
+- **[13:51](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=13m51s)** - **Dr. Mathias Middelberg (CDU/CSU)**: Argumentiert, dass die Frühstartrente die finanzielle Bildung stärkt und die Aktienkultur in Deutschland fördert, indem sie zu mehr privatem Kapital und Investitionen in heimische Unternehmen führt.
+- **[15:55](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=15m55s)** - **Dr. Mathias Middelberg (CDU/CSU)**: Stellt die Stärkung der Alterssicherung als entscheidenden Fortschritt der Regierung dar, die bereits die private Altersvorsorge reformiert und nun die gesetzliche Rente sowie die betriebliche Altersvorsorge stärken werde.
+- **[17:16](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=17m16s)** - **Abgeordneter Stefan Schmidt (Bündnis 90/Die Grünen)**: Nennt die Frühstartrente eine potenziell einfache und wirkungsvolle Idee, kritisiert jedoch die Umsetzung des Gesetzentwurfs als mangelhaft.
+- **[18:11](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=18m11s)** - **Stefan Schmidt (Bündnis 90/Die Grünen)**: Kritisiert den Ausschluss älterer Kinder von der Förderung und die fehlende Begründung dafür.
+- **[19:00](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=19m0s)** - **Stefan Schmidt (Bündnis 90/Die Grünen)**: Beanstandet die Kollektivanlage für Kinder, deren Eltern kein eigenes Depot eröffnen, und argumentiert, dass dies gerade die Kinder benachteilige, die am meisten von individueller Vorsorge und Kapitalmarkterfahrung profitieren würden.
+- **[20:08](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=20m8s)** - **Stefan Schmidt (Bündnis 90/Die Grünen)**: Stellt die Einschränkung der Wahlfreiheit der Eltern bei der Depotauswahl in Frage und fordert die Schaffung eines öffentlich verwalteten Standarddepots.
+- **[20:53](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=20m53s)** - **Stefan Schmidt (Bündnis 90/Die Grünen)**: Kritisiert das hohe Verhältnis erlaubter privater Einzahlungen zu staatlichen Einzahlungen und die mangelnde Sicherstellung sinnvoller finanzieller Bildung durch private Anbieter.
+- **[22:32](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=22m32s)** - **Lisa Schubert (Die Linke)**: Tritt als jüngste Abgeordnete auf und kritisiert die Regierung für ihre Politik gegenüber jungen Menschen, die eher auf Wehrdienst und Sparkurs hinauslaufe.
+- **[23:32](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=23m32s)** - **Lisa Schubert (Die Linke)**: Beschreibt die Frühstartrente als "private Kundenakquise auf Staatskosten", die primär privaten Finanzdienstleistern zugutekommt.
+- **[24:34](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=24m34s)** - **Lisa Schubert (Die Linke)**: Bemängelt das Fehlen einer Beratungspflicht und die Überwälzung des Anlagerisikos auf die Verbraucher.
+- **[24:57](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=24m57s)** - **Lisa Schubert (Die Linke)**: Kritisiert die fehlende Nachhaltigkeit bei der Geldanlage und die Möglichkeit, dass Gelder in zukunftsschädigende Unternehmen fließen.
+- **[25:23](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=25m23s)** - **Lisa Schubert (Die Linke)**: Stellt in Frage, wie das Gesetz soziale Ungleichheiten reduzieren soll, wenn nur wohlhabende Eltern zusätzliche Einzahlungen leisten können.
+- **[26:09](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=26m9s)** - **Lisa Schubert (Die Linke)**: Fasst die Kritikpunkte zusammen: keine Sicherheit, keine Nachhaltigkeit, keine Beratung, keine Chancengleichheit.
+- **[26:23](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=26m23s)** - **Lisa Schubert (Die Linke)**: Argumentiert, dass unabhängige Finanzbildung nicht von Finanzproduktverkäufern kommen dürfe und dass Fragen zu Steuererklärungen, Studienkrediten und solidarischer Altersvorsorge beantwortet werden müssten.
+- **[27:24](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=27m24s)** - **Lisa Schubert (Die Linke)**: Betont, dass Finanzbildung unabhängig, ergebnisoffen und lebensnah sein müsse, idealerweise in der Schule, und nicht als Anleitung zum Depotabschluss ende.
+- **[29:07](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=29m7s)** - **Abgeordneter Michael Thews (SPD)**: Lobt den Gesetzentwurf als guten Entwurf der Regierung und als weiteren Schritt zur Modernisierung der Altersvorsorge.
+- **[29:50](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=29m50s)** - **Michael Thews (SPD)**: Erklärt, dass Eltern individuelle Verträge abschließen können, die staatlich gefördert werden, und dass bei Nicht-Handeln der Eltern eine öffentlich verwaltete Auffanglösung greift.
+- **[31:03](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=31m3s)** - **Michael Thews (SPD)**: Betont die Notwendigkeit einfacher Produkte mit niedrigen Kosten und die Wichtigkeit, Abschluss- und Vertriebskosten bis zur Volljährigkeit auszuschließen.
+- **[31:36](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=31m36s)** - **Michael Thews (SPD)**: Wünscht sich, dass das öffentlich organisierte Standarddepot zu einer echten Wahlmöglichkeit bei der Frühstartrente wird.
+- **[32:17](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=32m17s)** - **Michael Thews (SPD)**: Stellt die Frühstartrente als mehr als nur ein Altersvorsorgeprodukt dar, sondern als wichtigen Anker für die finanzielle Bildungsstrategie.
+- **[33:11](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=33m11s)** - **Abgeordnete Diana Zimmer (AfD)**: Stellt fest, dass der Grundgedanke der Frühstartrente, Kinder frühzeitig an Sparen und Investieren heranzuführen, grundsätzlich richtig sei, kritisiert aber die geringe staatliche Förderung von 10 Euro.
+- **[33:42](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=33m42s)** - **Diana Zimmer (AfD)**: Berechnet, dass 10 Euro monatlich über 12 Jahre nur etwa 1.440 Euro ergeben und auch mit Renditen und der Förderung bis 65 nur rund 20.000 Euro bis zum Renteneintritt.
+- **[34:25](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=34m25s)** - **Diana Zimmer (AfD)**: Befürwortet die finanzielle Bildung in Schulen, sieht aber keinen Grund für die Aufnahme im Gesetzentwurf zur Frühstartrente, da Bildungspolitik Ländersache sei.
+- **[35:07](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=35m7s)** - **Diana Zimmer (AfD)**: Weist auf die Notwendigkeit hin, dass vor Vermögensbildung erst Kapital erwirtschaftet werden muss, und fordert eine steuerliche Entlastung von Familien.
+- **[36:34](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=36m34s)** - **Abgeordneter Dr. Carsten Brodesser (CDU/CSU)**: Stellt fest, dass mehr als ein Drittel der Erwerbstätigen keine zusätzliche Altersversorgung hat und die gesetzliche Rente, obwohl wichtigste Säule, ergänzt werden muss.
+- **[37:55](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=37m55s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Beschreibt das Maßnahmenbündel der Koalition zur Stärkung der Altersvorsorge, einschließlich der Stabilisierung der gesetzlichen Rente und der Reformen der betrieblichen und privaten Altersvorsorge.
+- **[39:39](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=39m39s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Sieht die Frühstartrente als konsequenten nächsten Baustein, der die junge Generation adressiert und ihr ein Startkapital für die Altersvorsorge bietet.
+- **[40:13](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=40m13s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Erklärt, dass die Frühstartrente ein flexibles und staatlich gefördertes Instrument zur langfristigen Ersparnisbildung ist, das mit Erreichen der Volljährigkeit in die Förderung des Altersvorsorgedepots übergeht.
+- **[40:49](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=40m49s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Schlägt vor, dass perspektivisch auch Arbeitgeber in das Altersvorsorgedepot einzahlen können sollten.
+- **[41:09](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=41m9s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Betont, dass die Frühstartrente mehr als ein Sparbeitrag ist und einen Impuls für die finanzielle Bildung gibt.
+- **[42:28](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=42m28s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Bezeichnet die Frühstartrente als kleinen, aber wichtigen Impuls für eine gute Zukunft und dankt für die Unterstützung.
+- **[42:50](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=42m50s)** - **Abgeordnete Katharina Beck (Bündnis 90/Die Grünen)**: Kündigt an, dass sie als "Serviceopposition" einige Punkte zur Verbesserung der Frühstartrente mitgeben möchte.
+- **[43:33](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=43m33s)** - **Katharina Beck (Bündnis 90/Die Grünen)**: Kritisiert, dass bei der staatlichen Auffanglösung keine individuellen Konten möglich sind, auf die zusätzlich eingezahlt werden kann, was zu einer Zweiklassengesellschaft führe.
+- **[44:44](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=44m44s)** - **Katharina Beck (Bündnis 90/Die Grünen)**: Hinterfragt die Prioritätensetzung der Regierung, die nur mit einer Kohorte starte, anstatt alle Kinder von 6 bis 18 Jahren einzubeziehen.
+- **[45:18](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=45m18s)** - **Katharina Beck (Bündnis 90/Die Grünen)**: Bedauert, dass bei der Frühstartrente keine Fondslösung wie in Schweden genutzt wird und eine Chance vertan wird.
+- **[45:51](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=45m51s)** - **Katharina Beck (Bündnis 90/Die Grünen)**: Fragt nach dem Zeitpunkt der Einführung eines staatlichen Depots und betont, dass das Projekt noch nicht final durchdacht sei.
+- **[46:28](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=46m28s)** - **Parlamentarischer Geschäftsführer der SPD**: Gibt das Abstimmungsergebnis eines anderen Tagesordnungspunkts bekannt und leitet zur Fortsetzung der Debatte über die Frühstartrente über.
+- **[47:21](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=47m21s)** - **Frau Franke Heiligenstadt (SPD)**: Beginnt ihre Rede und lobt das Gesetz als ein Gesetz, das mit kleinen Mitteln viel bewirken kann und allen Kindern die Chance auf frühzeitige Altersvorsorge eröffnet.
+- **[48:43](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=48m43s)** - **Franke Heiligenstadt (SPD)**: Fragt rhetorisch, ob die Chance auf frühzeitige Altersvorsorge vom Elternhaus abhängen solle und beantwortet dies mit "Nein", woraufhin die Frühstartrente ansetze.
+- **[49:09](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=49m9s)** - **Franke Heiligenstadt (SPD)**: Differenziert sich von der "Verhetzung des Finanzmarktes durch die Linken" und betont, dass die Frühstartrente allen Kindern den Zugang zu Finanzmarktentwicklungen ermöglicht.
+- **[49:43](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=49m43s)** - **Franke Heiligenstadt (SPD)**: Erklärt, dass aus den Fragen, was mit dem Geld passiert, die Beschäftigung mit Aktienmärkten und finanzieller Bildung entstehen kann, und die Frühstartrente somit ein Baustein und Türöffner für finanzielle Bildung ist.
+- **[51:03](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=51m3s)** - **Abgeordneter Torben Braga (AfD)**: Bestätigt, dass die Richtung des Gesetzes stimmt und kapitalgedeckter Vermögensaufbau für Kinder der einzige Weg zu einer sinnvollen Altersvorsorge sei, freut sich, dass die Koalition den Gedanken des eigenen Antrags aufgreift.
+- **[51:25](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=51m25s)** - **Torben Braga (AfD)**: Kritisiert, dass die Koalition den Gedanken nur "halbherzig" und nicht einmal zu 10 Prozent aufgreife, insbesondere im Hinblick auf die geringe Förderung und die kurze Laufzeit.
+- **[51:51](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=51m51s)** - **Torben Braga (AfD)**: Hebt die Eigentumsfrage hervor und kritisiert, dass die Mittel des Bundes für Kinder ohne individuelle Verträge "Vermögen des Bundes" bleiben und nicht verwendete Mittel zurückfallen.
+- **[52:42](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=52m42s)** - **Torben Braga (AfD)**: Äußert Kritik an der Kostenobergrenze von 1 Prozent, die von klassischen Anbietern ausgenutzt werde, und bemängelt die willkürliche Stichtagsregelung.
+- **[54:11](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=54m11s)** - **Zwischenfrage durch Frau Heiligenstadt (SPD)**: Fragt den Abgeordneten Braga, ob er zur Kenntnis genommen habe, dass bereits Angebote mit 0 Prozent Kosten und Prämien existieren, und ob der Grund für die Nicht-Vorschlagung des Junior-Spardepots die hohen Kosten (über 65 Milliarden Euro) seien.
+- **[55:51](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=55m51s)** - **Torben Braga (AfD)**: Beantwortet die Zwischenfrage und verteidigt die Kritik an der Kostenobergrenze sowie die finanzielle Machbarkeit des eigenen Vorschlags im Vergleich zu den Ausgaben der Regierung.
+- **[57:41](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=57m41s)** - **Abgeordneter Oliver Pöpsel (CDU/CSU)**: Ruft die Frühstartrente "endlich an den Start" und bezeichnet sie als eines der größten Sozialprojekte, das Jugendlichen den Aufbau einer privaten Altersversorgung ermöglicht.
+- **[58:18](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=58m18s)** - **Oliver Pöpsel (CDU/CSU)**: Bezeichnet die Maßnahme als "wirklich breit aufgestellte Kohorte", die rückwirkend mit dem Jahrgang 2020 beginnt und durch die Möglichkeit für Eltern älterer Kinder, Konten einzurichten, ausgeweitet wird.
+- **[59:19](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=59m19s)** - **Oliver Pöpsel (CDU/CSU)**: Betont, dass die Frühstartrente das erste Instrument dieser Art sei, das die Bundesregierung schaffe, und somit Zukunft darstelle.
+- **[01:00:25](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h0m25s)** - **Oliver Pöpsel (CDU/CSU)**: Hebt die Vermögensbildung als zweiten wichtigen Aspekt hervor und verweist auf die Finanzbildungsstrategie des Bundes.
+- **[01:01:18](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h1m18s)** - **Oliver Pöpsel (CDU/CSU)**: Erklärt, dass die Frühstartrente der Motor für finanzielle Bildung sei und 18-Jährige künftig mit Finanzkompetenz und einem eigenen Altersvorsorgedepot ausgerüstet seien.
+- **[01:02:12](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h2m12s)** - **Abgeordnete Ulrike Schielke-Ziesing (AfD)**: Kritisiert die bisherigen Regierungen für die Verschlechterung des Rentensystems und fordert einen Einstieg in die Kapitaldeckung als Ergänzung.
+- **[01:02:35](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h2m35s)** - **Ulrike Schielke-Ziesing (AfD)**: Vergleicht die Situation mit anderen Ländern, wo kapitalgedeckte Systeme stabiler seien, und Deutschland hinterherhinke.
+- **[01:02:57](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h2m57s)** - **Ulrike Schielke-Ziesing (AfD)**: Schlägt vor, 100 Euro monatlich ab Geburt für jedes Kind einzuzahlen und rechnet vor, dass dies zu einem erheblichen Kapitalstock im Alter führen würde.
+- **[01:04:15](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h4m15s)** - **Ulrike Schielke-Ziesing (AfD)**: Kritisiert die Regierung für die geringe Förderung von 10 Euro und die kurze Laufzeit, die nur zu mageren 2.100 Euro führe.
+- **[01:05:24](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h5m24s)** - **Ulrike Schielke-Ziesing (AfD)**: Zitiert den Bundeskanzler, der die Frühstartrente nicht als Vermögensbildung, sondern als Zeigen von Möglichkeiten am Kapitalmarkt bezeichnet, und interpretiert dies als Zeichen, dass die Maßnahme keine wirkliche Rente darstelle.
+- **[01:06:10](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h6m10s)** - **Ulrike Schielke-Ziesing (AfD)**: Erklärt, dass die Rentenreform abgesagt sei und die Koalition "fertig" habe, was die Wähler an der Wahlurne deutlich machten.
+- **[01:06:39](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h6m39s)** - **Abgeordnete Mechthilde Wittmann (CDU/CSU)**: Reagiert auf die Kritik und erklärt, dass die Frühstartrente eine hervorragende Einrichtung sei und die Behauptungen der Gegenseite auf mangelndem Verständnis oder mangelnder Lesekompetenz beruhten.
+- **[01:07:18](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h7m18s)** - **Mechthilde Wittmann (CDU/CSU)**: Klärt auf, dass die Gelder an Kinder ausgezahlt werden, die in Deutschland beschult werden, und dass eine politische und finanzpolitische Bildung einhergehe.
+- **[01:07:53](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h7m53s)** - **Mechthilde Wittmann (CDU/CSU)**: Entkräftet die Behauptung, dass windige Typen ihre Produkte verkaufen würden, und verweist auf die strengen Regulierungen für Berater.
+- **[01:08:21](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h8m21s)** - **Mechthilde Wittmann (CDU/CSU)**: Vergleicht die Frühstartrente mit dem Sparbuch, betont aber, dass sie die Wertentwicklung am Markt mitnähme.
+- **[01:09:10](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h9m10s)** - **Mechthilde Wittmann (CDU/CSU)**: Berechnet bei konservativer Rechnung und zusätzlichen 50 Euro im Monat ein Vermögen von 320.000 Euro im 65. Lebensjahr.
+- **[01:10:00](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h10m0s)** - **Mechthilde Wittmann (CDU/CSU)**: Stellt die Frühstartrente als eine dritte Säule in der Altersvorsorge dar, die einen Systemwechsel einleitet, der jedem Sicherheit gebe.
+- **[01:10:17](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h10m17s)** - **Mechthilde Wittmann (CDU/CSU)**: Beruft sich auf die Idee des Bundeskanzlers und die Einführung der Frühstartrente als "Mehr vom Staat", das den Menschen ein "Viel-mehr" bringen soll.
+- **[01:11:03](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h11m3s)** - **Bundestagspräsidentin**: Schließt die Aussprache und schlägt die Überweisung der Vorlagen an die zuständigen Ausschüsse vor.
+- **[01:11:21](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h11m21s)** - **Bundestagspräsidentin**: Stellt fest, dass keine weiteren Überweisungsvorschläge vorliegen und verfährt wie vorgeschlagen.
+- **[01:11:25](https://www.youtube.com/watch?v=cgsiU72l1Yc&t=1h11m25s)** - **Bundestagspräsidentin**: Ruft den Zusatzpunkt 10 auf.

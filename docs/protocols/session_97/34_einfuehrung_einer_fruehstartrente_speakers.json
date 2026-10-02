@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zur \"Frühstartrente\" spiegelte die unterschiedlichen politischen Ansichten zur Altersvorsorge und finanziellen Bildung wider. Während die Regierungskoalition (SPD, Grüne, FDP) das Gesetz als wichtigen Schritt zur Chancengleichheit und zur frühen Förderung des Sparens lobte, kritisierten Oppositionsparteien (AfD, Die Linke, CDU/CSU in Teilen) die Höhe der Förderung, die Zielgruppen und die Ausgestaltung des Gesetzes. Externe Stellungnahmen zeigten, dass die Debatte über die Höhe der staatlichen Zulage, die mögliche Auswirkungen auf soziale Ungleichheit und die Rolle der Finanzbildung intensiv geführt wurde. Die AfD forderte höhere Beträge und kritisierte die Idee der Linken als \"politische Umerziehung\". Die Grünen bemängelten die Umsetzung, während Die Linke das Gesetz als \"private Kundenakquise auf Staatskosten\" bezeichnete. Die CDU/CSU unterstützte das Gesetz als Meilenstein zur Stärkung der Altersvorsorge und finanziellen Bildung.",
+  "sources": [
+    {
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "found": false,
+      "statement": "Bundesfinanzminister Lars Klingbeil hebt die Frühstartrente als wichtigen Schritt zur Zukunftsfestigkeit der Rente und zur Stärkung der jungen Generation hervor, die Chancengleichheit und den Aufbau von Altersvorsorge-Startkapital für alle Kinder ermögliche.",
+      "source_title": "Finanzminister Lars Klingbeil zur Reform der privaten Altersvorsorge und zur Frühstartrente",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Iris Nieland",
+      "party": "AfD",
+      "found": true,
+      "statement": "Iris Nieland kritisiert die staatliche Förderung von 10 Euro monatlich als zu gering, um einen nennenswerten Kapitalstock für die Altersvorsorge aufzubauen und schlägt stattdessen ein Junior-Spardepot mit 100 Euro monatlich vor. Sie bemängelt zudem die fehlenden Staatsangehörigkeits- und Aufenthaltsregelungen.",
+      "source_title": "AfD: Zehn Euro Sockelbetrag völlig unzureichend",
+      "url": "https://www.bundestag.de/services/soziale_medien/instagram_praesidentin/1-bas-wm-959090",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Mathias Middelberg",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Mathias Middelberg bezeichnet die Frühstartrente als einen Meilenstein für die Stärkung der privaten Altersvorsorge, finanziellen Bildung und Kapitalanlage in Deutschland, die auch Kindern aus einkommensschwächeren Familien zugutekommt.",
+      "source_title": "CDU/CSU: Frühstartrente ein „Meilenstein“",
+      "url": "https://www.bundestag.de/services/soziale_medien/instagram_praesidentin/1-bas-wm-959090",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Stefan Schmidt sieht die Idee der Frühstartrente als gut, kritisiert jedoch die Umsetzung im Gesetzentwurf als mangelhaft. Er bemängelt den Ausschluss älterer Jahrgänge und die Kollektivanlage für Kinder, deren Eltern kein eigenes Depot eröffnen.",
+      "source_title": "Grüne: Eine gute Idee schlecht umgesetzt.",
+      "url": "https://www.bundestag.de/services/soziale_medien/instagram_praesidentin/1-bas-wm-959090",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lisa Schubert",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Lisa Schubert kritisiert die Frühstartrente als \"private Kundenakquise auf Staatskosten\", die primär privaten Anbietern zugutekommt. Sie bemängelt die fehlende Beratungspflicht und die Verantwortung sowie das Risiko bei der Geldanlage, die beim Individuum liege.",
+      "source_title": "Linke: Private Kundenakquise auf Staatskosten.",
+      "url": "https://www.bundestag.de/services/soziale_medien/instagram_praesidentin/1-bas-wm-959090",
+      "platform": "Presse"
+    },
+    {
+      "name": "Michael Thews",
+      "party": "SPD",
+      "found": true,
+      "statement": "Michael Thews bezeichnet die Frühstartrente als nächsten Schritt zur Modernisierung der Altersvorsorge und betont, dass alle jungen Menschen bis zur Volljährigkeit über eine zusätzliche Altersvorsorge verfügen sollen. Er hebt die sozialdemokratische Position hervor, dass bei Nicht-Handeln der Eltern eine öffentlich verwaltete Auffanglösung greift.",
+      "source_title": "SPD: Diese Regierung liefert.",
+      "url": "https://www.bundestag.de/services/soziale_medien/instagram_praesidentin/1-bas-wm-959090",
+      "platform": "Presse"
+    },
+    {
+      "name": "Franke Heiligenstadt",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
