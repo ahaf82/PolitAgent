@@ -1,0 +1,37 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 8160",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Die namentliche Abstimmung zur dritten Beratung und Schlussabstimmung des Gesetzentwurfs zur Modernisierung des Bundespolizeigesetzes fand statt. Das Ergebnis der Abstimmung ist im Protokoll nicht enthalten, aber der Innenausschuss empfahl die Annahme des Gesetzentwurfs.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "SPD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      }
+    ]
+  }
+}

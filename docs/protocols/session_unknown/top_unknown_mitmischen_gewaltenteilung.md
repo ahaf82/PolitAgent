@@ -8,38 +8,19 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=TjMfgue859U)
 
 ## Kurzzusammenfassung
-Die Debatte befasst sich mit dem Grundprinzip der Gewaltenteilung, wie es im deutschen Grundgesetz verankert ist. Erklärt werden die drei staatlichen Gewalten – Legislative, Exekutive und Judikative – sowie ihre jeweiligen Aufgaben und die gegenseitige Kontrolle. Ergänzend wird die Rolle der Medien als "vierte Gewalt" im Hinblick auf ihre Informations- und Kontrollfunktion beleuchtet.
+Die Sitzung widmete sich dem Grundprinzip der Gewaltenteilung in einer Demokratie, wie es im deutschen Grundgesetz verankert ist. Es wurde erläutert, dass die staatliche Macht nicht in einer Hand konzentriert ist, sondern auf Legislative, Exekutive und Judikative aufgeteilt wird, die sich gegenseitig kontrollieren. Des Weiteren wurde die Rolle der Medien als vierte Gewalt thematisiert, die durch Information und Berichterstattung über staatliches Handeln eine weitere Kontrollfunktion ausüben.
 
 ## Kernaussagen und Positionen der Fraktionen
-*Es sind keine expliziten Fraktionspositionen im Transkript erkennbar, da es sich um eine grundsätzliche Erläuterung des Konzepts der Gewaltenteilung handelt.*
-- **Grundlagen des Grundgesetzes**:
-  - Die Gewaltenteilung ist ein unabänderliches Prinzip des Grundgesetzes und bildet eine Grundlage der Demokratie.
-  - Staatsgewalt geht vom Volke aus und wird durch Gesetzgebung (Legislative), vollziehende Gewalt (Exekutive) und Rechtsprechung (Judikative) ausgeübt.
-- **Legislative**:
-  - Verantwortlich für die Gesetzgebung (Verabschiedung neuer Gesetze, Änderung bestehender Gesetze) und die Kontrolle der Regierung.
-  - Auf Bundesebene: Bundestag und Bundesrat; auf Länderebene: Landtage.
-- **Exekutive**:
-  - Setzt Beschlüsse der Legislative um und sorgt für deren Ausführung.
-  - Umfasst die Bundesregierung, Ministerpräsidenten der Länder, Polizei und Stadtverwaltungen.
-- **Judikative**:
-  - Sorgt für die Einhaltung von Gesetzen und bestraft Gesetzesbrüche.
-  - Ausgeübt durch unabhängige Richterinnen und Richter, das Bundesverfassungsgericht, oberste Bundesgerichte und Landesgerichte.
-- **Historische Entwicklung**:
-  - Das Prinzip wurde von John Locke (17. Jh.) und Montisquieu (18. Jh.) beschrieben.
-  - Findet sich in Verfassungen wie der US-amerikanischen (1787) und der französischen (1791).
-- **Die "Vierte Gewalt" (Medien)**:
-  - Journalistische Medien werden als vierte Gewalt bezeichnet.
-  - Sie sollen die Öffentlichkeit über das Handeln des Staates informieren und üben damit eine Kontrollfunktion aus.
-  - Freie Medien sind ein wesentliches Merkmal demokratischer Gesellschaften.
+Da es sich bei dem vorliegenden Transkript um eine Erläuterung des Konzepts der Gewaltenteilung handelt und keine Debatte zwischen Fraktionen stattgefunden hat, werden hier keine Positionen einzelner Fraktionen aufgeführt.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=TjMfgue859U&t=0s)** - **Sitzungsbeginn / Einleitung**: Einführung in das Thema "Gewaltenteilung".
-- **[00:05](https://www.youtube.com/watch?v=TjMfgue859U&t=5s)** - **Definition und Grundlage**: Erklärung, dass die Gewaltenteilung im Grundgesetz verankert und ein unabänderliches Prinzip der Demokratie ist. Verweis auf Artikel 20 des Grundgesetzes.
-- **[00:17](https://www.youtube.com/watch?v=TjMfgue859U&t=17s)** - **Staatsgewalt und ihre Organe**: Ausführung, dass alle Staatsgewalt vom Volke ausgeht und durch Gesetzgebung, vollziehende Gewalt und Rechtsprechung ausgeübt wird (Legislative, Exekutive, Judikative).
-- **[00:39](https://www.youtube.com/watch?v=TjMfgue859U&t=39s)** - **Prinzip der Gewaltenteilung**: Erläuterung, dass staatliche Macht auf unterschiedliche, sich gegenseitig kontrollierende Stellen verteilt ist.
-- **[00:50](https://www.youtube.com/watch?v=TjMfgue859U&t=50s)** - **Legislative**: Beschreibung der Aufgaben der gesetzgebenden Gewalt (Gesetze regeln, Gesetze verabschieden/ändern, Regierung kontrollieren) und Nennung der zuständigen Organe (Bundestag, Bundesrat, Landtage).
-- **[01:15](https://www.youtube.com/watch?v=TjMfgue859U&t=75s)** - **Exekutive**: Beschreibung der Aufgaben der ausführenden Gewalt (Umsetzung von Beschlüssen) und Nennung der zuständigen Organe (Bundesregierung, Ministerpräsidenten, Polizei, Stadtverwaltungen).
-- **[01:38](https://www.youtube.com/watch?v=TjMfgue859U&t=98s)** - **Judikative**: Beschreibung der Aufgaben der rechtsprechenden Gewalt (Gesetzesdurchsetzung, Bestrafung von Gesetzesbrüchen) und Nennung der zuständigen Organe (unabhängige Richter, Bundesverfassungsgericht, oberste Bundesgerichte, Landesgerichte).
-- **[02:02](https://www.youtube.com/watch?v=TjMfgue859U&t=122s)** - **Historische Wurzeln**: Erwähnung der Philosophen John Locke und Montisquieu sowie der Verfassungen der USA (1787) und Frankreichs (1791) als frühe Beispiele des Prinzips.
-- **[02:26](https://www.youtube.com/watch?v=TjMfgue859U&t=146s)** - **Die "Vierte Gewalt"**: Einführung des Begriffs der "vierten Gewalt" im Bezug auf journalistische Medien.
-- **[02:32](https://www.youtube.com/watch?v=TjMfgue859U&t=152s)** - **Rolle der Medien**: Erläuterung, dass unabhängige Medien die Öffentlichkeit informieren und eine Kontrollfunktion gegenüber dem Staat ausüben, was ein Merkmal demokratischer Gesellschaften sei.
+- **[00:00:00](https://www.youtube.com/watch?v=TjMfgue859U&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Erläuterung beginnt mit der Erklärung der Bedeutung der Gewaltenteilung als unabänderliches Prinzip des Grundgesetzes und Grundlage der Demokratie.
+- **[00:05](https://www.youtube.com/watch?v=TjMfgue859U&t=5s)** - **Definition der Gewaltenteilung**: Es wird dargelegt, dass die Gewaltenteilung bedeutet, dass staatliche Macht auf verschiedene Stellen verteilt ist, die sich gegenseitig kontrollieren.
+- **[00:17](https://www.youtube.com/watch?v=TjMfgue859U&t=17s)** - **Artikel 20 des Grundgesetzes**: Es wird auf Artikel 20 des Grundgesetzes verwiesen, der besagt, dass alle Staatsgewalt vom Volke ausgeht und durch die Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtssprechung ausgeübt wird.
+- **[00:33](https://www.youtube.com/watch?v=TjMfgue859U&t=33s)** - **Nennung der drei Gewalten**: Die drei Gewalten werden als Legislative, Exekutive und Judikative bezeichnet.
+- **[00:50](https://www.youtube.com/watch?v=TjMfgue859U&t=50s)** - **Legislative**: Die Legislative wird als gesetzgebende Gewalt beschrieben, die für die Regelung des Zusammenlebens durch Gesetze zuständig ist. Auf Bundesebene werden der Bundestag und der Bundesrat genannt, auf Landesebene die Landtage.
+- **[01:15](https://www.youtube.com/watch?v=TjMfgue859U&t=1m15s)** - **Exekutive**: Die Exekutive wird als ausführende Gewalt erklärt, die die Beschlüsse der Legislative umsetzt. Dazu gehören die Bundesregierung, die Landesregierungen sowie nachgeordnete Behörden wie die Polizei und Stadtverwaltungen.
+- **[01:38](https://www.youtube.com/watch?v=TjMfgue859U&t=1m38s)** - **Judikative**: Die Judikative wird als rechtssprechende Gewalt definiert, die für die Einhaltung von Gesetzen und die Bestrafung von Gesetzesbrüchen zuständig ist. Sie wird durch unabhängige Richterinnen und Richter ausgeübt.
+- **[02:02](https://www.youtube.com/watch?v=TjMfgue859U&t=2m2s)** - **Historische Entwicklung**: Die historischen Wurzeln des Prinzips der Gewaltenteilung werden aufgezeigt, mit Verweisen auf John Locke und Montesque sowie auf die Verfassungen der USA und Frankreichs.
+- **[02:30](https://www.youtube.com/watch?v=TjMfgue859U&t=2m30s)** - **Die Vierte Gewalt**: Es wird auf die Idee einer "vierten Gewalt" eingegangen, die mit den journalistischen Medien gleichgesetzt wird. Diese sollen die Öffentlichkeit informieren und somit eine Kontrollfunktion ausüben.
+- **[02:52](https://www.youtube.com/watch?v=TjMfgue859U&t=2m52s)** - **Kontrolle durch freie Medien**: Die Wichtigkeit der Kontrolle durch freie Medien als Merkmal demokratischer Gesellschaften wird betont.

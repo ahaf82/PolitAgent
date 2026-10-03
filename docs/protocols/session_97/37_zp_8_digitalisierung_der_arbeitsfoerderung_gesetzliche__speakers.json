@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte im Bundestag zur Digitalisierung der Arbeitsförderung und zur gesetzlichen Arbeitslosenversicherung spiegelte sich in den externen Äußerungen der Abgeordneten wider. Die SPD-Abgeordneten Katja Mast und Jens Peick betonten die Notwendigkeit der Digitalisierung zur Vereinfachung von Prozessen und zur Stärkung der Bundesagentur für Arbeit. CDU/CSU-Vertreter wie Dr. Markus Reichel und Peter Aumer hoben die Chance der Digitalisierung zur Prozessoptimierung und die Bedeutung der \"Job-to-Job-Erprobung\" hervor. Die Grünen, vertreten durch Sylvia Rietenberg, forderten eine proaktivere Arbeitsversicherung, die auf den Strukturwandel reagiere, während Die Linke, repräsentiert durch Cem Ince, eine stärkere Ausstattung der Arbeitsagentur und einen Rechtsanspruch auf Qualifizierung forderte. Die AfD, vertreten durch Jan Feser, äußerte Kritik an der Finanzlage und befürchtete Missbrauch durch gelockerte Präsenzpflichten.",
+  "sources": [
+    {
+      "name": "Katja Mast",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Parlamentarische Staatssekretärin im Bundesministerium für Arbeit und Soziales betont sie die Notwendigkeit, Bildungschancen stärker in den Mittelpunkt politischen Handelns zu stellen, und fordert diese stärker zu fördern. Sie wirbt für eine Politik, die auf Zuhören, Verstehen und gemeinsames Handeln setzt, um Respekt und sozialen Zusammenhalt zu fördern.",
+      "source_title": "Über mich (Katja Mast, MdB)",
+      "url": "https://www.katja-mast.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Jan Feser",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Markus Reichel",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Bedeutung der Arbeitslosenversicherung für eine schnelle Rückkehr in Arbeit, da diese Struktur, Zugehörigkeit und Perspektive biete. Fordert, dass Beiträge stabil bleiben und Leistungsausweitungen durch den Steuerzahler finanziert werden, und lobt die \"Job-to-Job-Erprobung\" als wichtigen Aspekt für den Arbeitsplatzwechsel.",
+      "source_title": "Peter Aumer - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "https://www.cducsu.de/abgeordnete/peter-aumer",
+      "platform": "Website"
+    },
+    {
+      "name": "Sylvia Rietenberg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisiert, dass der Gesetzentwurf der Bundesregierung hinter den Erfordernissen einer vorsorgenden Arbeitsmarktpolitik zurückbleibt und die zentralen Herausforderungen nur unzureichend beantworte. Sie fordert eine Weiterentwicklung der Arbeitslosenversicherung zu einer proaktiveren Arbeitsversicherung, die Menschen frühzeitig bei beruflichen Veränderungen unterstützt.",
+      "source_title": "Sicherheit im Wandel – Eine Arbeitsversicherung für die ökologische und digitaleTransformation - Sylvia Rietenberg MdB",
+      "url": "https://sylvia-rietenberg.de/2026/09/25/sicherheit-im-wandel-eine-arbeitsversicherung-fuer-die-oekologische-und-digitaletransformation/",
+      "platform": "Website"
+    },
+    {
+      "name": "Cem Ince",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Fordert eine stärkere Ausstattung der Bundesagentur für Arbeit (personell, finanziell, strukturell) und einen Rechtsanspruch auf Qualifizierung und Weiterbildung. Er betont die Sinnhaftigkeit von Arbeitsmarktdrehscheiben und die Notwendigkeit, Betriebsräte zu informieren sowie die Mitbestimmung der Beschäftigten nicht zu schwächen.",
+      "source_title": "Modernisierung und Digitalisierung der Arbeitsförderung - Democratiq",
+      "url": "https://www.democratiq.de/vorgang/338331",
+      "platform": "Website"
+    },
+    {
+      "name": "Jens Peick",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont, dass das Gesetz bessere Übergänge zwischen Beschäftigungen in einer sich wandelnden Arbeitswelt ermöglicht. Die Arbeitserprobung hilft Beschäftigten und Arbeitgebern, neue berufliche Wege frühzeitig auszuprobieren, und Weiterbildungen geben bedrohten Beschäftigten neue berufliche Perspektiven, was die Bundesagentur handlungsfähig hält.",
+      "source_title": "Modernisierung und Digitalisierung der Arbeitsförderung - Democratiq",
+      "url": "https://www.democratiq.de/vorgang/338331",
+      "platform": "Website"
+    },
+    {
+      "name": "Peter Aumer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Unterstreicht die Bedeutung der Arbeitslosenversicherung für die schnelle Rückkehr in Arbeit, da diese Struktur, Zugehörigkeit und Perspektive biete. Er fordert, dass Beiträge stabil bleiben und Leistungsausweitungen durch den Steuerzahler finanziert werden, und lobt die \"Job-to-Job-Erprobung\" als wichtigen Aspekt für den Arbeitsplatzwechsel.",
+      "source_title": "Peter Aumer - CDU/CSU-Fraktion im Deutschen Bundestag",
+      "url": "https://www.cducsu.de/abgeordnete/peter-aumer",
+      "platform": "Website"
+    }
+  ]
+}

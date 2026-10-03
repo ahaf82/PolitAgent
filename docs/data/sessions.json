@@ -1,5 +1,18 @@
 [
   {
+    "id": "hGDty9lCtts",
+    "title": "97. Sitzung vom 25.09.2026. TOP ZP 9: Aktuelle Stunde: Sicherheit und Kontrolle von KI-Systemen",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "ZP 9",
+    "topic": "Aktuelle Stunde: Sicherheit und Kontrolle von KI-Systemen",
+    "summary_path": "protocols/session_97/zp_9_aktuelle_stunde_sicherheit_und_kontrolle_von_ki_sy.md",
+    "documents_path": "protocols/session_97/zp_9_aktuelle_stunde_sicherheit_und_kontrolle_von_ki_sy_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=hGDty9lCtts",
+    "processed_at": "2026-10-03T08:04:00.346502"
+  },
+  {
     "id": "mNmNOB3MWvQ",
     "title": "97. Sitzung vom 25.09.2026. TOP ZP 11: Bundeszentrale für politische Bildung",
     "session": 97,
@@ -26,6 +39,19 @@
     "processed_at": "2026-10-02T08:05:37.150097"
   },
   {
+    "id": "mjbvSrqnL-U",
+    "title": "97. Sitzung des Bundestages – LIVE",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "N/A",
+    "topic": "97. Sitzung des Bundestages",
+    "summary_path": "protocols/session_97/top_unknown_97_sitzung_des_bundestages_live.md",
+    "documents_path": "protocols/session_97/top_unknown_97_sitzung_des_bundestages_live_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=mjbvSrqnL-U",
+    "processed_at": "2026-10-03T08:03:33.829899"
+  },
+  {
     "id": "RBV8ckaFzME",
     "title": "97. Sitzung vom 25.09.2026. TOP 41a: Sanierung und Abwicklung von Versicherungsunternehmen",
     "session": 97,
@@ -37,6 +63,32 @@
     "speakers_path": "protocols/session_97/41a_sanierung_und_abwicklung_von_versicherungsunterneh_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=RBV8ckaFzME",
     "processed_at": "2026-10-01T08:09:07.001641"
+  },
+  {
+    "id": "yRe8R7M6b9g",
+    "title": "97. Sitzung vom 25.09.2026. TOP 39: Änderung der Verwaltungsgerichtsordnung",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "39",
+    "topic": "Änderung der Verwaltungsgerichtsordnung",
+    "summary_path": "protocols/session_97/39_aenderung_der_verwaltungsgerichtsordnung.md",
+    "documents_path": "protocols/session_97/39_aenderung_der_verwaltungsgerichtsordnung_documents.json",
+    "speakers_path": "protocols/session_97/39_aenderung_der_verwaltungsgerichtsordnung_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=yRe8R7M6b9g",
+    "processed_at": "2026-10-03T08:02:38.066903"
+  },
+  {
+    "id": "BBSiN_zv4mQ",
+    "title": "97. Sitzung vom 25.09.2026. TOP 37, ZP 8: Digitalisierung der Arbeitsförderung, gesetzliche Arbeits",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "37, ZP 8",
+    "topic": "Digitalisierung der Arbeitsförderung und gesetzliche Arbeitslosenversicherung",
+    "summary_path": "protocols/session_97/37_zp_8_digitalisierung_der_arbeitsfoerderung_gesetzliche_.md",
+    "documents_path": "protocols/session_97/37_zp_8_digitalisierung_der_arbeitsfoerderung_gesetzliche__documents.json",
+    "speakers_path": "protocols/session_97/37_zp_8_digitalisierung_der_arbeitsfoerderung_gesetzliche__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=BBSiN_zv4mQ",
+    "processed_at": "2026-10-03T08:04:43.655768"
   },
   {
     "id": "FBo4e1mWHrQ",
@@ -78,6 +130,19 @@
     "processed_at": "2026-10-02T08:06:50.929437"
   },
   {
+    "id": "4Wd2ZqMjl1E",
+    "title": "97. Sitzung, TOP 34: Ein­führung einer Früh­start­rente",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "34",
+    "topic": "Einführung einer Frühstartrente",
+    "summary_path": "protocols/session_97/34_97_sitzung_top_34_ein_fuehrung_einer_frueh_start_r.md",
+    "documents_path": "protocols/session_97/34_97_sitzung_top_34_ein_fuehrung_einer_frueh_start_r_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=4Wd2ZqMjl1E",
+    "processed_at": "2026-10-03T08:01:13.765625"
+  },
+  {
     "id": "qwtQNe55J6Y",
     "title": "97. Sitzung, TOP 33: Modernisierung des Bundes­polizei­gesetzes",
     "session": 97,
@@ -89,6 +154,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=qwtQNe55J6Y",
     "processed_at": "2026-10-02T08:05:57.369369"
+  },
+  {
+    "id": "VygipthE-XE",
+    "title": "97. Sitzung vom 25.09.2026. TOP 19: KI­-Grenzschutz",
+    "session": 97,
+    "date": "2026-09-25",
+    "top": "19",
+    "topic": "KI-gestützter Grenzschutz",
+    "summary_path": "protocols/session_97/19_ki_grenzschutz.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=VygipthE-XE",
+    "processed_at": "2026-10-03T08:01:52.847949"
+  },
+  {
+    "id": "TjMfgue859U",
+    "title": "mitmischen Gewaltenteilung",
+    "session": 0,
+    "date": "2026-09-25",
+    "top": "N/A",
+    "topic": "Mitmischen in der Gewaltenteilung",
+    "summary_path": "protocols/session_unknown/top_unknown_mitmischen_gewaltenteilung.md",
+    "documents_path": "protocols/session_unknown/top_unknown_mitmischen_gewaltenteilung_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=TjMfgue859U",
+    "processed_at": "2026-10-03T08:01:29.752315"
   },
   {
     "id": "3BP6tCT5JUQ",

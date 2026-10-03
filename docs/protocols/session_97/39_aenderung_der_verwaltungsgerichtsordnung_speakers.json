@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die externen Reaktionen der Abgeordneten auf die Änderung der Verwaltungsgerichtsordnung zeigen eine breite Spanne von Zustimmung bis hin zu kritischer Auseinandersetzung. Während die Koalitionsfraktionen und die Bundesregierung die Notwendigkeit der Modernisierung und Effizienzsteigerung betonen, äußern Oppositionsparteien wie die AfD und Die Linke Bedenken hinsichtlich des Rechtsschutzes und der Einschränkung von Bürgerrechten. Die Grünen begrüßen grundsätzlich die Entlastung der Gerichte, warnen jedoch vor gegenläufigen Effekten durch erweiterte Überwachungsbefugnisse. Die Debatte dreht sich primär um die Balance zwischen Verfahrensbeschleunigung und der Wahrung rechtsstaatlicher Prinzipien sowie dem Zugang zum Recht für Bürgerinnen und Bürger.",
+  "sources": [
+    {
+      "name": "Frank Schwabe",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "found": false,
+      "statement": "Rainer Galla äußert Bedenken hinsichtlich der geplanten Stärkung von Einzelrichtern und der Eignung von E-Mail-Widersprüchen zur Verfahrensbeschleunigung. Er sieht in den Maßnahmen keine wesentliche Modernisierung und deutet eine kritische Begleitung im Ausschuss an.",
+      "source_title": "Rainer Galla - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Fabian Jacobi",
+      "party": "AfD",
+      "found": true,
+      "statement": "Fabian Jacobi sieht die Überlastung der Verwaltungsgerichte vor allem durch Asylverfahren bedingt und äußert Bedenken hinsichtlich der Einschränkung des Amtsermittlungsgrundsatzes und der erleichterten Präklusion von Vorbringen, was zu einer Einschränkung des Rechtsschutzes führen könne.",
+      "source_title": "Fabian Jacobi - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/fabian-jacobi",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Johannes Rothenberger",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Johannes Rothenberger betont die Bedeutung der Verwaltungsgerichtsordnung und hebt hervor, dass das Gesetz zuletzt vor 30 Jahren reformiert wurde. Er hebt die Ziele der Koalition hervor: mehr Digitalität, Effizienz, vereinfachte E-Mail-Widersprüche und vermehrter Einsatz von Einzelrichtern.",
+      "source_title": "Johannes Rothenberger - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/johannes-rothenberger",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Tijen Ataoğlu",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Tijen Ataoğlu betont die langen Verfahrensdauern und den damit verbundenen Wertverlust des Rechts für Bürger. Sie führt die Ziele mehr Personal, vollständige Digitalisierung und effizientes Prozessrecht auf den \"Pakt für den Rechtsstaat\" zurück und widerspricht der Darstellung, man spare beim Personal.",
+      "source_title": "Tijen Ataoğlu - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/tijen-ataoglu/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Susanne Hierl unterstreicht, dass Bürger zeitnahe Entscheidungen benötigen. Sie verteidigt die Änderungen, darunter die Möglichkeit, Widersprüche per E-Mail einzulegen, und die Übertragung von Verfahren an Einzelrichter, indem sie auf den Wortlaut des Gesetzes verweist.",
+      "source_title": "Susanne Hierl - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/susanne-hierl/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Helge Limburg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Helge Limburg begrüßt grundsätzlich die Entlastung der Gerichte, warnt jedoch davor, dass dies nicht durch zusätzliche Arbeit konterkariert werden dürfe. Er kritisiert Maßnahmen der Regierung bezüglich Grenzkontrollen, die seiner Meinung nach rechtswidrig seien und zu Klagen führten.",
+      "source_title": "Helge Limburg - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/helge-limburg/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Aaron Valent",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Aaron Valent sieht die Beschleunigung von Gerichtsverfahren als richtiges Ziel, betont aber, dass Bürger nicht den Preis dafür zahlen dürfen, indem ihr Zugang zum Recht eingeschränkt wird. Er kritisiert die geplante Erhöhung der Anforderungen und die Einschränkung des Amtsermittlungsgrundsatzes.",
+      "source_title": "Keine Beschleunigung verwaltungsgerichtlicher Verfahren auf Kosten des Rechtsschutzes",
+      "url": "https://aaron-valent.de/2026/09/keine-beschleunigung-verwaltungsgerichtlicher-verfahren-auf-kosten-des-rechtsschutzes/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Daniel Rinkert",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Rinkert illustriert mit einem Beispiel die oft langen Verfahrensdauern und betont, dass der Gesetzentwurf die Verfahren beschleunigen und nahbarer gestalten soll, auch durch E-Mail-Widersprüche und stärkere Durchsetzungsmittel gegen den Staat.",
+      "source_title": "Daniel Rinkert - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/daniel-rinkert",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}
