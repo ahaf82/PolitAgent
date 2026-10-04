@@ -1,0 +1,95 @@
+{
+  "synthesis": "Die Debatte um KI-Sicherheit und -Kontrolle im Bundestag spiegelte sich in externen Äußerungen der beteiligten Abgeordneten wider. Mehrere Politiker betonten die Notwendigkeit globaler Standards und internationaler Zusammenarbeit, mahnten aber auch vor technologischer Abhängigkeit. Während einige die Chancen von KI hervorhoben und Innovationen vorantreiben wollten, warnten andere eindringlich vor den Risiken, wie autonomen KI-Agenten, Kontrollverlust und Missbrauchspotenzial. Die Debatte um Regulierung und staatliche Schutzverantwortung fand auf verschiedenen Kanälen statt, wobei die Dringlichkeit zur Gestaltung der technologischen Zukunft hervorgehoben wurde.",
+  "sources": [
+    {
+      "name": "Dr. Franziska Brantner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Betont die Notwendigkeit, dass Europa bei KI unabhängiger wird und klare Sicherheitsstandards etabliert, um die technologische Zukunft nicht anderen Mächten zu überlassen. Sie warnt, dass technologische Abhängigkeit die Souveränität gefährdet und fordert eine unabhängige internationale KI-Aufsicht.",
+      "source_title": "AI made in Europe: Instead of dependence on Big Tech. – Franziska Brantner, Bundestag 09/24/26 - YouTube",
+      "url": "https://www.youtube.com/watch?v=l-zF-9xJp9k",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Thomas Jarzombek",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Erklärt, dass es keine einfachen Lösungen für die Gefahren von KI gibt und warnt, dass europäische Gesetze eine Superintelligenz aus den USA nicht aufhalten könnten. Er betont die Notwendigkeit globaler Überwachung und internationaler Regulierung, sowie die Investition in KI-Überwachungssoftware.",
+      "source_title": "rbb-exklusiv: Bundesdigitalministerium: Keine einfachen Lösungen bei Schutz vor KI",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert, dass Deutschland bei der KI-Kontrolle nicht mitreden könne, da die Spitzenforschung verloren gegangen sei und wichtige Entscheidungen in den USA oder China fielen. Er warnt vor einer 'German Angst' und Technologiefeindlichkeit, die Deutschland behindere, und plädiert für einen Einstieg in den Wettbewerb um KI-Lösungen statt Überregulierung.",
+      "source_title": "Systemische KI-Risiken ernst nehmen - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "found": false,
+      "statement": "Erörtert die Notwendigkeit, KI-Systeme sorgfältig zu beobachten und die rechtlichen sowie technischen Rahmenbedingungen weiterzuentwickeln, insbesondere im Hinblick auf Selbstreplikationsfähigkeiten und eigenständiges Zielverhalten von KI. Er betont die Wichtigkeit von klaren Sicherheitsvorgaben und der fortlaufenden Bewertung des europäischen AI Acts.",
+      "source_title": "Sehen Sie erhebliche Risiken, wenn KI-Systeme sich selbst kopieren und Eigeninteresse entwickeln könnten, und halten Sie ein Verbot solcher Entwicklungen für notwendig? | Frage an Johannes Schätzl (SPD) - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisiert, dass die KI-Verordnung nicht weitreichend genug sei und fordert eine Nachschärfung, um Überwachung zu verhindern und eine Ausweitung von Hochrisiko-KIs zu vermeiden. Sie betont die Notwendigkeit, gesellschaftliche Ungleichheiten nicht durch KI zu verschärfen und fordert Entschädigungen für Kreativschaffende und Datenarbeiter.",
+      "source_title": "Gesellschaftliche Risiken von KI ernst nehmen! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Notwendigkeit, dass Deutschland KI-Technologien stärker in seine Strategien integriert und sieht KI als Werkzeug für Disruption und Bürokratieabbau. Er hebt hervor, dass Deutschland eigene KI-Fähigkeiten entwickeln muss, um auf Augenhöhe mit anderen Nationen verhandeln zu können und warnt vor der Abhängigkeit von US-amerikanischen KI-Lösungen.",
+      "source_title": "Von ChatGPT zur europäischen KI-Strategie - Konrad-Adenauer-Stiftung",
+      "url": "https://www.kas.de/web/korea/artikel/detail-korea/von-chatgpt-zur-europaeischen-ki-strategie",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Karl Lauterbach",
+      "party": "SPD",
+      "found": false,
+      "statement": "Warnt vor den Risiken unkontrollierter KI und fordert internationale Regeln sowie unabhängige Prüfungen, insbesondere im Hinblick auf die Gefahr der Entwicklung von Biowaffen durch KI. Er plädiert für eine Verlangsamung der KI-Entwicklung zur Schaffung von Sicherheit und betont die Notwendigkeit, dass Deutschland und Europa KI-Teilnehmer sein müssen, um Abhängigkeit zu vermeiden.",
+      "source_title": "KI-Sicherheit: Lauterbach warnt vor Biowaffen-Risiken durch KI",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Konstantin von Notz",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Fordert eine gesetzliche Regulierung von KI-Anbietern, damit die Funktionsweise von Algorithmen und die Verwendung von Daten transparent und nachvollziehbar werden. Er hält eine Zertifizierung von KI für denkbar und warnt vor den Risiken von Manipulation und Desinformation, wenn die Grundlagen der Informationsverarbeitung unklar bleiben.",
+      "source_title": "KI kontrollieren, Innovation fördern – kann das gelingen?",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-943600",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Thomas Pauls",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Kritisiert die Fokussierung auf Angst bei der KI-Debatte und verweist auf positive Schlagzeilen über KI in verschiedenen Bereichen. Er betont, dass die Bundesregierung aktiv wird und befürwortet eine internationale Kontrollbehörde analog zur Atomenergiebehörde, unter Einbeziehung von China und den USA.",
+      "source_title": "KI-Debatte im Bundestag: Mehr Kontrolle und Souveränität",
+      "url": "https://www.investing.com/news/economy/ki-debatte-im-bundestag-mehr-kontrolle-und-souvereinitaet-3187403",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lars Haise",
+      "party": "AfD",
+      "found": true,
+      "statement": "Stellt fest, dass Deutschland bei der Kontrolle von KI nicht mithalten kann, da die Spitzenforschung verloren gegangen ist und große Entscheidungen in den USA oder China fallen. Er kritisiert die 'German Angst' und Technologiefeindlichkeit, insbesondere von Seiten der Grünen, und argumentiert, dass Deutschland eigene leistungsfähige KI-Modelle entwickeln müsse.",
+      "source_title": "01 Lars Haise AfD TOP ZP 9 Current Affairs Hour - YouTube",
+      "url": "https://www.youtube.com/watch?v=0J5xS_v7n5s",
+      "platform": "Social Media"
+    }
+  ]
+}

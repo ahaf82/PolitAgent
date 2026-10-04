@@ -8,7 +8,7 @@
     "topic": "Aktuelle Stunde: Sicherheit und Kontrolle von KI-Systemen",
     "summary_path": "protocols/session_97/zp_9_aktuelle_stunde_sicherheit_und_kontrolle_von_ki_sy.md",
     "documents_path": "protocols/session_97/zp_9_aktuelle_stunde_sicherheit_und_kontrolle_von_ki_sy_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_97/zp_9_aktuelle_stunde_sicherheit_und_kontrolle_von_ki_sy_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=hGDty9lCtts",
     "processed_at": "2026-10-03T08:04:00.346502"
   },
@@ -59,7 +59,7 @@
     "top": "41a",
     "topic": "Sanierung und Abwicklung von Versicherungsunternehmen",
     "summary_path": "protocols/session_97/41a_sanierung_und_abwicklung_von_versicherungsunterneh.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_97/41a_sanierung_und_abwicklung_von_versicherungsunterneh_documents.json",
     "speakers_path": "protocols/session_97/41a_sanierung_und_abwicklung_von_versicherungsunterneh_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=RBV8ckaFzME",
     "processed_at": "2026-10-01T08:09:07.001641"
