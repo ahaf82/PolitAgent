@@ -20,7 +20,7 @@
     "top": "ZP 11",
     "topic": "Bundeszentrale für politische Bildung",
     "summary_path": "protocols/session_97/zp_11_bundeszentrale_fuer_politische_bildung.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_97/zp_11_bundeszentrale_fuer_politische_bildung_documents.json",
     "speakers_path": "protocols/session_97/zp_11_bundeszentrale_fuer_politische_bildung_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=mNmNOB3MWvQ",
     "processed_at": "2026-10-01T08:08:29.530750"
@@ -34,7 +34,7 @@
     "topic": "97. Sitzung: Beschlussempfehlung des Vermittlungsausschusses",
     "summary_path": "protocols/session_97/top_unknown_97_sitzung_zp_10_beschluss_empfehlung_des_vermittl.md",
     "documents_path": "protocols/session_97/top_unknown_97_sitzung_zp_10_beschluss_empfehlung_des_vermittl_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_97/top_unknown_97_sitzung_zp_10_beschluss_empfehlung_des_vermittl_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=GoXnqDfhC6o",
     "processed_at": "2026-10-02T08:05:37.150097"
   },
@@ -124,7 +124,7 @@
     "top": "34",
     "topic": "Einführung einer Frühstartrente",
     "summary_path": "protocols/session_97/34_einfuehrung_einer_fruehstartrente.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_97/34_einfuehrung_einer_fruehstartrente_documents.json",
     "speakers_path": "protocols/session_97/34_einfuehrung_einer_fruehstartrente_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=cgsiU72l1Yc",
     "processed_at": "2026-10-02T08:06:50.929437"

@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Einführung einer staatlich geförderten Altersvorsorge für Kinder (Frühstartrentengesetz – FrühStartRentG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zur Einführung einer Frühstartrente wurde als erste Beratung durchgeführt. Der Gesetzentwurf wurde zur weiteren Beratung an die zuständigen Ausschüsse überwiesen, ohne dass eine namentliche Abstimmung erfolgte.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

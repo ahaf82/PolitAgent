@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag über die Beschlussempfehlung des Vermittlungsausschusses zum Gesetz über den Zugang zu Schuldnerberatungsdiensten für Verbraucher zeigte deutliche parteipolitische Gräben. Während die Koalitionsfraktionen die Einigung als notwendigen Kompromiss und wichtige Umsetzung einer EU-Richtlinie lobten, kritisierte die Opposition scharf die Einführung von Entgelten, die potenzielle Überlastung der Kommunen und die späte Umsetzung der Richtlinie. Die Abgeordneten äußerten sich außerhalb des Parlaments ähnlich ihren Positionen in der Debatte: Dirk Wiese (SPD) betonte die Wichtigkeit der Richtlinie für Europa und die gute Zusammenarbeit, während Stephan Brandner (AfD) die Intransparenz des Vermittlungsausschusses und eine „deutschlandfeindliche Politik“ anprangerte. Catarina dos Santos-Wintz (CDU/CSU) hob die konstruktive Arbeit und den Interessenausgleich hervor, wohingegen Andreas Audretsch (Bündnis 90/Die Grünen) die Lösung als zynisch und zu Lasten der Betroffenen kritisierte. Christian Görke (Die Linke) nannte die verspätete Umsetzung „unterlassene Hilfeleistung“ und kritisierte die finanzielle Ausgestaltung.",
+  "sources": [
+    {
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "found": false,
+      "statement": "Dirk Wiese hebt hervor, dass die Umsetzung der EU-Richtlinie wichtig sei, um Schuldnerberatungsdienste zu gewährleisten und Europa als handlungsfähig zu präsentieren. Er betont auch die gute Zusammenarbeit zwischen Bund und Ländern bei der Einigung.",
+      "source_title": "Bundestag beschließt neue Regeln für Schuldnerberatung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "found": true,
+      "statement": "Stephan Brandner kritisiert die EU-Richtlinie als überflüssig und bemängelt die verspätete Umsetzung, die zu Millionenstrafen führen könne. Er wirft der Bundesregierung eine \"deutschlandfeindliche Politik\" vor und bezeichnet die Kostenüberwälzung auf die Kommunen als \"erbärmlich\".",
+      "source_title": "EU forces municipalities to pay millions in fines! - Stephan Brandner - AfD parliamentary group i...",
+      "url": "https://www.youtube.com/watch?v=k2xJk4L80Q8",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Catarina dos Santos-Wintz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Catarina dos Santos-Wintz bezeichnet die Einigung als Ergebnis konstruktiver Arbeit im Vermittlungsausschuss, der einen Interessenausgleich zwischen Bund und Ländern ermöglicht.",
+      "source_title": "Personalrochade: Dos Santos-Wintz übernimmt Schlüsselrolle in Unionsfraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Andreas Audretsch",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Andreas Audretsch kritisiert die Einigung als zynische und schlechte Lösung, bei der Betroffene für die Beratung zahlen müssten, und betont, dass in Zeiten steigender Kosten mehr, niedrigschwellige und kostenfreie Angebote benötigt würden.",
+      "source_title": "Andreas Audretsch (Bündnis 90/Die Grünen): Betroffene durch Kürzungen noch mehr unter Druck",
+      "url": "https://www.youtube.com/watch?v=GoXnqDfhC6o&t=598s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Christian Görke bezeichnet die verspätete Umsetzung der EU-Richtlinie als 'unterlassene Hilfeleistung' und kritisiert die Streichung eines Finanzausgleichs, was zu einer 'Schuldner/-innenberatung nach Kassenlage' führe und Betroffene möglicherweise zur Zahlung von Gebühren zwinge.",
+      "source_title": "Rede von Christian Görke am 25.09.2026",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
