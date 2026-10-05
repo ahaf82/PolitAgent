@@ -1,5 +1,18 @@
 [
   {
+    "id": "_02s2E5LLTc",
+    "title": "⏱️ POV: Gleich beginnt die Plenarsitzung.",
+    "session": 0,
+    "date": "2026-10-05",
+    "top": "N/A",
+    "topic": "POV: Plenarsitzung beginnt gleich",
+    "summary_path": "protocols/session_unknown/top_unknown_pov_gleich_beginnt_die_plenarsitzung.md",
+    "documents_path": "protocols/session_unknown/top_unknown_pov_gleich_beginnt_die_plenarsitzung_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=_02s2E5LLTc",
+    "processed_at": "2026-10-05T20:01:10.484101"
+  },
+  {
     "id": "hGDty9lCtts",
     "title": "97. Sitzung vom 25.09.2026. TOP ZP 9: Aktuelle Stunde: Sicherheit und Kontrolle von KI-Systemen",
     "session": 97,
@@ -99,7 +112,7 @@
     "topic": "Das Solidaritätsprinzip stärken",
     "summary_path": "protocols/session_97/35_97_sitzung_top_35_solidar_prinzip.md",
     "documents_path": "protocols/session_97/35_97_sitzung_top_35_solidar_prinzip_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_97/35_97_sitzung_top_35_solidar_prinzip_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ",
     "processed_at": "2026-10-02T08:01:20.619327"
   },
@@ -319,7 +332,7 @@
     "top": "14",
     "topic": "Ausbau Erneuerbarer Energien",
     "summary_path": "protocols/session_96/14_expansion_of_renewable_energy.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_96/14_expansion_of_renewable_energy_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=R8PSOI4_ssA",
     "processed_at": "2026-09-29T08:03:40.809507"
@@ -332,7 +345,7 @@
     "top": "12",
     "topic": "Bekämpfung von Sozialleistungsmissbrauch",
     "summary_path": "protocols/session_96/12_sozialleistungsmissbrauch.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_96/12_sozialleistungsmissbrauch_documents.json",
     "speakers_path": "protocols/session_96/12_sozialleistungsmissbrauch_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=ZC0lT3QPzhM",
     "processed_at": "2026-09-30T08:01:37.027830"

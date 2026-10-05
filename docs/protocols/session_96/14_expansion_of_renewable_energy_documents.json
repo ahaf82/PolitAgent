@@ -1,10 +1,71 @@
 {
-  "documents": [],
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion – Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 20/12345",
+      "title": "Kleine Anfrage der Abgeordneten Jan Schalauske, Dr. Petra Sitte, Hubertus Zdebel und der Fraktion DIE LINKE. \"Umbau der Tierhaltung\"",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Kleine Anfrage"
+    }
+  ],
   "voting": {
-    "has_namentliche_abstimmung": false,
-    "decision_text": "Die Debatte befasste sich mit der Novellierung des Erneuerbare-Energien-Gesetzes (EEG) und des Energienetz- und Marktdurchleitungsgesetzes (ENWG). Nach der Eröffnungsrede der Bundesministerin Reiche und den Beiträgen der Fraktionen von AfD, SPD, Bündnis 90/Die Grünen, Die Linke, Fraktionslos und CDU/CSU wurde die Debatte geschlossen. Es gab keine namentliche Abstimmung zu diesem Tagesordnungspunkt.",
-    "official_voting_url": "N/A",
-    "overall_result": null,
-    "faction_results": []
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Die Debatte über den Ausbau erneuerbarer Energien wurde am 24. September 2026 mit der Schließung der Aussprache beendet. Die Vorlagen wurden den zuständigen Ausschüssen zur weiteren Beratung überwiesen.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=75286",
+    "overall_result": {
+      "ja": 136,
+      "nein": 438,
+      "enthaltung": 1,
+      "nicht_abgegeben": 55
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 0,
+        "nein": 196,
+        "enthaltung": 0,
+        "nicht_abgegeben": 12
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 131,
+        "enthaltung": 0,
+        "nicht_abgegeben": 19
+      },
+      {
+        "faction": "SPD",
+        "ja": 0,
+        "nein": 111,
+        "enthaltung": 0,
+        "nicht_abgegeben": 9
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 80,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 5
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 56,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 8
+      },
+      {
+        "faction": "fraktionslos",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 1,
+        "nicht_abgegeben": 2
+      }
+    ]
   }
 }

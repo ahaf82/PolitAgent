@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Solidaritätsprinzip zeigte eine klare Spaltung der politischen Meinungen. Während Die Linke und Bündnis 90/Die Grünen eine stärkere staatliche Umverteilung und Ausweitung des Sozialstaats forderten, betonten CDU/CSU und AfD die Notwendigkeit von Leistungsgerechtigkeit, Eigenverantwortung und einer klaren Definition der Solidargemeinschaft, wobei die AfD auch nationalistische und fremdenfeindliche Argumente einbrachte. Die SPD verteidigte das Solidaritätsprinzip als Fundament des Sozialstaates, räumte aber die Notwendigkeit von Kompromissen innerhalb der Koalition ein. Externe Äußerungen der beteiligten Abgeordneten spiegelten diese Positionen wider, mit einer Fokussierung auf Kritik an der Regierungspolitik oder Verteidigung der eigenen Standpunkte durch soziale Medien und Pressemitteilungen.",
+  "sources": [
+    {
+      "name": "Heidi Reichinnek",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Reichinnek kritisierte die aktuelle Regierungspolitik als \"sozialen Kahlschlag\" und forderte Maßnahmen wie die Abschaffung der Schuldenbremse und eine stärkere Renten- und Bürgerversicherung. Sie kündigte die Teilnahme an Demonstrationen gegen Kürzungen an.",
+      "source_title": "Debatte im Bundestag und Ankündigung von Demonstrationen",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=43m31s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dr. Ottilie Klein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Klein betonte, dass der Mensch im Mittelpunkt stehe und kritisierte die Forderungen der Linken als reine Umverteilung. Sie argumentierte, dass eine starke Wirtschaft die Grundlage für einen starken Sozialstaat bilde und lehnte die Aussetzung der Schuldenbremse ab.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=3m46s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Robert Teske",
+      "party": "AfD",
+      "found": true,
+      "statement": "Teske definierte Solidarität als ein Verhältnis mit klaren Grenzen und Beiträgen und kritisierte die \"Kosten der Überfremdung\" im Sozialstaat. Er forderte einen \"patriotischen\" Denken des Sozialstaats.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=8m23s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Bernd Rützel",
+      "party": "SPD",
+      "found": true,
+      "statement": "Rützel beschrieb Solidarität als Fundament des Sozialstaates und verteidigte ihn als schützenswertes Gemeinwesen. Er kritisierte den Antrag der Linken als \"über das Ziel hinausgeschossen\".",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=15m30s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dr. Armin Grau",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Grau kritisierte den Abbau des Sozialstaates und die wachsende Ungleichheit. Er unterstützte die Idee der Bürgerversicherung, forderte Reformen im Gesundheitswesen und die Besteuerung hoher Vermögen.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=19m29s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dr. Stefan Nacke",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Nacke betonte die Bedeutung von Gegenseitigkeit in der Solidarität und kritisierte den Antrag der Linken. Er hob die Notwendigkeit ehrlicher Finanzierungsdebatten hervor.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=24m2s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Peter Bohnhof",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bohnhof behauptete, der Antrag der Linken wolle den deutschen Sozialstaat abschaffen und sprach von \"Sozialtourismus\". Er lehnte die Forderungen der Linken als \"gigantische Umverteilungsmaschine\" ab.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=28m35s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dr. Christos Pantazis",
+      "party": "SPD",
+      "found": true,
+      "statement": "Pantazis bekräftigte die sozialdemokratische Leitlinie der Bürgerversicherung und forderte eine gerechtere Verteilung der finanziellen Lasten in der Pflegeversicherung. Er betonte, dass Reformen Vertrauen in den Sozialstaat stärken müssten.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=34m44s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Lisa Paus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Paus kritisierte die Politik als \"Herbst des Kahlschlags\", der Frauen treffe, und warf der Regierung vor, Steuersenkungen für Reiche zu priorisieren. Sie betonte die Notwendigkeit, Gleichberechtigung zu berücksichtigen.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=39m2s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Luigi Pantisano",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Pantisano kritisierte die Politik von Kanzler Merz als \"alles für ihn und seine reichen Freunde, nichts für euch\". Er forderte höhere Beitragsbemessungsgrenzen und ein höheres Rentenniveau.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=43m31s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dr. Hülya Düber",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Düber betonte, dass Solidarität auf Gegenseitigkeit beruhe und wer arbeiten könne, seinen Beitrag leisten müsse. Sie kritisierte die Forderung der Linken nach Abschaffung von Sanktionen und Sperrzeiten als Einbahnstraße.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=47m12s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Rasha Nasr",
+      "party": "SPD",
+      "found": true,
+      "statement": "Nasr erkannte Ähnlichkeiten zwischen dem Antrag der Linken und sozialdemokratischen Positionen, wie der Bürgerversicherung. Sie erklärte, dass Politik ein Kompromiss sei und Koalitionspartner Rücksicht nehmen müssten.",
+      "source_title": "Debatte im Bundestag",
+      "url": "https://www.youtube.com/watch?v=FBo4e1mWHrQ&t=58m58s",
+      "platform": "Plenum"
+    }
+  ]
+}
