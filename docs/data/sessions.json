@@ -163,7 +163,7 @@
     "top": "19",
     "topic": "KI-gestützter Grenzschutz",
     "summary_path": "protocols/session_97/19_ki_grenzschutz.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_97/19_ki_grenzschutz_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=VygipthE-XE",
     "processed_at": "2026-10-03T08:01:52.847949"
@@ -267,7 +267,7 @@
     "top": "24",
     "topic": "Gesetz über eine Investitionsverpflichtung für Mediendiensteanbieter",
     "summary_path": "protocols/session_96/24_media_services_investment_obligation_act.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_96/24_media_services_investment_obligation_act_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=Pgi5FMNinM4",
     "processed_at": "2026-09-27T08:09:03.271078"
@@ -6164,7 +6164,7 @@
     "topic": "Experten: Voraussetzungen für einen wichtigen Raumfahrtstandort gegeben",
     "summary_path": "protocols/session_unknown/top_unknown_experten_voraussetzungen_fuer_einen_wichtigen_raum.md",
     "documents_path": "protocols/session_unknown/top_unknown_experten_voraussetzungen_fuer_einen_wichtigen_raum_documents.json",
-    "speakers_path": "protocols/session_unknown/top_unknown_experten_voraussetzungen_fuer_einen_wichtigen_raum_speakers.json",
+    "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=tZLAR0oZkBQ",
     "processed_at": "2026-07-12T20:09:28.938858"
   },
