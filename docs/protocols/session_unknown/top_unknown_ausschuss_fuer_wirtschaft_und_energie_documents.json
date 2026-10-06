@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "Gesetzentwurf der Bundesregierung zur Beschleunigung der Umsetzung der Energieeffizienzrichtlinie",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Antrag der Fraktion Bündnis 90/Die Grünen zur Energieverschwendung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/XXXXX",
+      "title": "Antrag der Fraktion Die Linke zu Nachhaltigkeitsstandards für Rechenzentren",
+      "url": "N/A",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "In der Sitzung des Ausschusses für Wirtschaft und Energie am 2026-10-06 fand keine namentliche Abstimmung statt. Diskutiert wurden ein Gesetzentwurf zur Beschleunigung der Energieeffizienzrichtlinie, ein Antrag der Grünen zur Energieverschwendung und ein Antrag der Linken zu Nachhaltigkeitsstandards für Rechenzentren. Die Debatte konzentrierte sich auf die Aussagen von Sachverständigen zu den Inhalten und Auswirkungen der Vorlagen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7859",
+      "title": "Gesetzentwurf der Bundesregierung zur Änderung des Tabaksteuergesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7859&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Im vorliegenden Protokoll der Anhörung des Finanzausschusses zum Gesetzentwurf zur Änderung des Tabaksteuergesetzes fand keine namentliche Abstimmung statt. Der Verfahrensstand ist die Anhörung von Sachverständigen, bei der Bedenken hinsichtlich der Einnahmeprognosen, gesundheitspolitischen Auswirkungen und der Gefahr eines Schwarzmarkthandels geäußert wurden. Es wurden auch Forderungen nach einer stärkeren Besteuerung von Nikotinbeuteln und E-Zigaretten sowie nach einer gezielteren Mittelverwendung für Prävention laut.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
