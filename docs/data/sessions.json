@@ -1,5 +1,18 @@
 [
   {
+    "id": "xGCOUq0nVJk",
+    "title": "Anhörung zum Digitale Identitätengesetz",
+    "session": 0,
+    "date": "2026-10-07",
+    "top": "N/A",
+    "topic": "Anhörung zum Digitalen Identitätengesetz",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_zum_digitale_identitaetengesetz.md",
+    "documents_path": "protocols/session_unknown/top_unknown_anhoerung_zum_digitale_identitaetengesetz_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=xGCOUq0nVJk",
+    "processed_at": "2026-10-07T08:07:08.747784"
+  },
+  {
     "id": "CkyjG7c_It4",
     "title": "Ausschuss für Recht und Verbraucherschutz",
     "session": 0,
@@ -76,6 +89,71 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=mfsI91UCi0k",
     "processed_at": "2026-10-06T08:05:21.629179"
+  },
+  {
+    "id": "C-pfBpqUPCQ",
+    "title": "Nachbesserungen am Entwurf zur Änderung des Vereins­gesetzes angemahnt",
+    "session": 0,
+    "date": "2026-10-06",
+    "top": "N/A",
+    "topic": "Nachbesserungen am Entwurf zur Änderung des Vereinsgesetzes angemahnt",
+    "summary_path": "protocols/session_unknown/top_unknown_nachbesserungen_am_entwurf_zur_aenderung_des_verei.md",
+    "documents_path": "protocols/session_unknown/top_unknown_nachbesserungen_am_entwurf_zur_aenderung_des_verei_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=C-pfBpqUPCQ",
+    "processed_at": "2026-10-07T08:01:33.833958"
+  },
+  {
+    "id": "2j4X6jPr6sM",
+    "title": "Experten: Höhere Strafe für Einsatz von K.o.-Tropfen",
+    "session": 0,
+    "date": "2026-10-06",
+    "top": "N/A",
+    "topic": "Experten: Höhere Strafen für den Einsatz von K.o.-Tropfen",
+    "summary_path": "protocols/session_unknown/top_unknown_experten_hoehere_strafe_fuer_einsatz_von_k_o_tropf.md",
+    "documents_path": "protocols/session_unknown/top_unknown_experten_hoehere_strafe_fuer_einsatz_von_k_o_tropf_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=2j4X6jPr6sM",
+    "processed_at": "2026-10-07T08:03:41.106966"
+  },
+  {
+    "id": "ySVZUJIhLd0",
+    "title": "Vorlagen zum Erneuerbare-Energien-Gesetz (EEG 2027)",
+    "session": 0,
+    "date": "2026-10-06",
+    "top": "N/A",
+    "topic": "Novellierung des Erneuerbare-Energien-Gesetzes (EEG 2027)",
+    "summary_path": "protocols/session_unknown/top_unknown_vorlagen_zum_erneuerbare_energien_gesetz_eeg_2027.md",
+    "documents_path": "protocols/session_unknown/top_unknown_vorlagen_zum_erneuerbare_energien_gesetz_eeg_2027_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=ySVZUJIhLd0",
+    "processed_at": "2026-10-07T08:04:10.801893"
+  },
+  {
+    "id": "8SdDWKXAWPI",
+    "title": "Änderung des Allgemeinen Gleichbehandlungsgesetzes",
+    "session": 0,
+    "date": "2026-10-06",
+    "top": "N/A",
+    "topic": "Novellierung des Allgemeinen Gleichbehandlungsgesetzes",
+    "summary_path": "protocols/session_unknown/top_unknown_aenderung_des_allgemeinen_gleichbehandlungsgesetze.md",
+    "documents_path": "protocols/session_unknown/top_unknown_aenderung_des_allgemeinen_gleichbehandlungsgesetze_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=8SdDWKXAWPI",
+    "processed_at": "2026-10-07T08:04:48.212506"
+  },
+  {
+    "id": "4gL4Y_7U6AY",
+    "title": "Anhörung der Präsidenten der Nachrichtendienste des Bundes",
+    "session": 0,
+    "date": "2026-10-06",
+    "top": "N/A",
+    "topic": "Anhörung der Präsidenten der Nachrichtendienste des Bundes",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_der_praesidenten_der_nachrichtendienste_.md",
+    "documents_path": "protocols/session_unknown/top_unknown_anhoerung_der_praesidenten_der_nachrichtendienste__documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_anhoerung_der_praesidenten_der_nachrichtendienste__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=4gL4Y_7U6AY",
+    "processed_at": "2026-10-07T08:05:23.964746"
   },
   {
     "id": "_02s2E5LLTc",

@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Gesetzentwurf der Bundesregierung zur Änderung des Erneuerbare-Energien-Gesetzes 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/XXXXX",
+      "title": "Verordnung zur Änderung der erneuerbarer Energienverordnung und der Marktstammdatenregisterverordnung",
+      "url": "N/A",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/YYYYY",
+      "title": "Gesetzentwurf der AfD zur Abschaffung des Erneuerbare-Energien-Gesetzes",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/ZZZZZ",
+      "title": "Antrag der Fraktion Bündnis 90/Die Grünen zur gemeinsamen Gestaltung der Energiewende",
+      "url": "N/A",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/AAAAA",
+      "title": "Antrag der Fraktion Die Linke zur Beibehaltung von Kürzungen beim Erneuerbare-Energien-Gesetz",
+      "url": "N/A",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte war eine Anhörung im Ausschuss für Wirtschaft und Energie zu verschiedenen Vorlagen zur Novellierung des Erneuerbare-Energien-Gesetzes (EEG 2027). Es wurden Eingangsstatements von Sachverständigen und Vertretern von Verbänden präsentiert, gefolgt von einer Fragerunde mit den Abgeordneten.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

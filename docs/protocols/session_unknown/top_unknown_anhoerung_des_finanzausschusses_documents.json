@@ -1,15 +1,27 @@
 {
   "documents": [
     {
-      "number": "Drucksache 21/7859",
-      "title": "Gesetzentwurf der Bundesregierung zur Änderung des Tabaksteuergesetzes",
-      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7859&rows=25",
+      "number": "Drucksache 21/7864",
+      "title": "Gesetzentwurf der Bundesregierung zur Einführung einer Frühstartrente",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7864&rows=25",
       "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/2163",
+      "title": "Antrag der AfD-Fraktion: Eine sichere Rente unserer Kinder – Juniorspardepot",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2163&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2125",
+      "title": "Antrag der Fraktion Die Linke: Finanzielle Bildung stärken – unabhängig, mehr perspektivisch und für alle jungen Menschen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2125&rows=25",
+      "type": "Antrag"
     }
   ],
   "voting": {
     "has_namentliche_abstimmung": false,
-    "decision_text": "Im vorliegenden Protokoll der Anhörung des Finanzausschusses zum Gesetzentwurf zur Änderung des Tabaksteuergesetzes fand keine namentliche Abstimmung statt. Der Verfahrensstand ist die Anhörung von Sachverständigen, bei der Bedenken hinsichtlich der Einnahmeprognosen, gesundheitspolitischen Auswirkungen und der Gefahr eines Schwarzmarkthandels geäußert wurden. Es wurden auch Forderungen nach einer stärkeren Besteuerung von Nikotinbeuteln und E-Zigaretten sowie nach einer gezielteren Mittelverwendung für Prävention laut.",
+    "decision_text": "Die Anhörung des Finanzausschusses befasste sich mit dem Gesetzentwurf zur Einführung einer Frühstartrente sowie Anträgen der AfD und Die Linke zu finanzieller Bildung und Spardepots. Es fand keine namentliche Abstimmung statt, sondern eine Expertenanhörung zur Beratung der Vorlagen.",
     "official_voting_url": "N/A",
     "overall_result": null,
     "faction_results": []

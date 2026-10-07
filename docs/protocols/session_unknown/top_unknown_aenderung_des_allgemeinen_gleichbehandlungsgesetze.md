@@ -1,0 +1,142 @@
+# Novellierung des Allgemeinen Gleichbehandlungsgesetzes
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** 2026-10-06
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Änderung des Allgemeinen Gleichbehandlungsgesetzes
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=8SdDWKXAWPI)
+
+## Kurzzusammenfassung
+Die Anhörung befasste sich mit dem Gesetzentwurf der Bundesregierung zur Änderung des Allgemeinen Gleichbehandlungsgesetzes (AGG) sowie mit einem Antrag der Fraktion Die Linke zur Stärkung der Antidiskriminierungsstelle des Bundes und Erweiterung des Diskriminierungsschutzes. Kernpunkte der Debatte waren die Umsetzung von EU-Richtlinien, die Schließung von Schutzlücken, die Verbesserung der Rechte von Betroffenen sowie die Bekämpfung struktureller Diskriminierung. Verschiedene Sachverständige stellten ihre Positionen dar und diskutierten über Fristen, die Ausweitung von Diskriminierungsmerkmalen, die Rolle der Antidiskriminierungsstelle und die Problematik des "AGG-Hoppings".
+
+## Kernaussagen und Positionen der Fraktionen
+*Die im Transkript aufgeführten Fraktionsanträge werden hier zusammengefasst. Detaillierte Fraktionspositionen während der Debatte sind aus dem Transkript nicht direkt ersichtlich, da die Beiträge primär von Sachverständigen stammen.*
+- **Bundesregierung (Gesetzentwurf):**
+  - Anpassung des AGG zur Umsetzung von EU-Richtlinien (insbesondere 2013/42/EG, 2014/1499 und 2014/1500).
+  - Klarere und effektivere Ausgestaltung des Diskriminierungsschutzes zur Behebung von Bedenken der Europäischen Kommission.
+  - Konkrete Maßnahmen wie Anpassung des zivilrechtlichen Benachteiligungsverbots in § 19 AGG, Einführung einer Schlichtungsstelle, moderate Verlängerung von Fristen.
+- **Fraktion Die Linke (Antrag):**
+  - Erweiterung der Diskriminierungsmerkmale in § 1 AGG um Merkmale wie Sozialstatus, chronische Erkrankung, Elternschaft, Sprache, geschlechtliche Identität und Körpergewicht.
+  - Stärkung der Antidiskriminierungsstelle des Bundes und Erweiterung des Diskriminierungsschutzes.
+  - Forderung nach Einführung eines Verbandsklagerechts und einer Musterfeststellungsklage zur Schaffung von Präzedenzfällen.
+- **Fraktion Bündnis 90/Die Grünen (Entschließungsantrag):**
+  - (Konkrete Forderungen im Transkript nicht detailliert aufgeführt, aber implizit eine stärkere Reform und Schließung von Schutzlücken).
+
+## Chronologischer Debattenverlauf
+- **[00:00:03](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=3s)** - **Sitzungsbeginn / Einleitung**: Der Ausschussvorsitzende eröffnet die Anhörung und begrüßt die Sachverständigen sowie Vertreter der Bundesregierung.
+- **[00:00:46](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=46s)** - **Vorstellung der Vorlagen**: Der Vorsitzende erläutert den Gesetzentwurf der Bundesregierung zur Änderung des AGG und den Antrag der Fraktion Die Linke zur Stärkung der Antidiskriminierungsstelle und Erweiterung des Diskriminierungsschutzes. Es wird auf das Vertragsverletzungsverfahren der EU gegen Deutschland wegen unzureichender Umsetzung der Gleichbehandlungsrichtlinie hingewiesen.
+- **[00:01:37](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1m37s)** - **Zusätzliche Richtlinien**: Der Gesetzentwurf dient auch der Umsetzung der Richtlinien EU 2024/1499 und EU 2024/1500 zur Konkretisierung der Anforderungen an Gleichbehandlungsstellen.
+- **[00:02:12](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=2m12s)** - **Verfahrenshinweise**: Der Vorsitzende erläutert das Verfahren der Anhörung: Eingangsstatements der Sachverständigen (vier Minuten pro Person), gefolgt von mehreren Fragerunden (abwechselnd umgekehrte und alphabetische Reihenfolge der Redner, zwei Minuten pro Frage/Antwort).
+- **[00:03:15](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=3m15s)** - **Regelungen für Abgeordnete**: Das Fragerecht wird erläutert, wobei die Anzahl der Fragen und die Auswahl der Sachverständigen begrenzt sind.
+- **[00:03:59](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=3m59s)** - **Öffentlichkeit der Anhörung**: Die Anhörung wird live übertragen und aufgezeichnet. Fotografieren und Filmen ist nicht gestattet.
+- **[00:04:25](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=4m25s)** - **Eingangsstatement Frau Andrades (Antidiskriminierungsverband Deutschland)**:
+    - Betroffene sehen das AGG als ersten Anlaufpunkt, der Schutz scheitert jedoch oft in der Praxis.
+    - Der Entwurf bringt Fortschritte (z.B. bei sexueller Belästigung, Schwangerschaft), ist aber nur punktuell und lässt strukturelle Schwächen unangetastet.
+    - **Kritikpunkte:** Ausschlussfrist (vier Monate zu kurz, Forderung nach mindestens einem Jahr), unvollständige Umsetzung der Richtlinien für Gleichbehandlungsstellen, fehlender expliziter Schutz vor Diskriminierung aufgrund von Sorgepflichten, Staatsangehörigkeit, chronischer Erkrankung, Gewicht oder Sozialstatus; Diskriminierung durch Behörden nicht auf AGG berufen, ungleicher Schutz bei Alltagsgeschäften (Beispiel: Vermietung).
+    - **Forderungen:** Einführung einer Verbandsklage und Prozessstandschaft, Stärkung der Antidiskriminierungsstelle (unabhängiger, mit Untersuchungsrechten).
+    - Betonung der zunehmenden Abwertung und Ausgrenzung in der Gesellschaft.
+- **[00:08:59](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=8m59s)** - **Eingangsstatement Frau Dr. Arnade (Netzwerk Artikel 3)**:
+    - Der Gesetzentwurf wird als "schwach" bezeichnet.
+    - Angst bei Menschen mit Behinderungen angesichts der politischen Situation und gruppenbezogener Menschenfeindlichkeit.
+    - **Kritikpunkte/Lücken im AGG:**
+        - Fehlen von Barrierefreiheit und angemessenen Vorkehrungen als explizite Benachteiligung.
+        - Schutz beschränkt auf "Massengeschäfte", muss ausgeweitet werden (auch für Menschen mit Behinderungen).
+        - Chronisch kranke Menschen müssen explizit zu Menschen mit Behinderungen gezählt werden.
+        - Ausschluss von Menschen mit Behinderungen bei Freizeitangeboten, Reisen, Versicherungen muss unterbunden werden.
+        - Diskriminierende Kündigungen müssen in den AGG-Schutzbereich einbezogen werden (§ 2 Abs. 4 AGG streichen).
+        - Präklusionsfrist (vier Monate) zu kurz, Forderung nach mindestens zwölf Monaten.
+        - Rechtsschutz muss durch Verbandsklagerecht und Prozessstandschaft verbessert werden.
+    - Appell, die Demokratie und den Rechtsstaat durch besseren Diskriminierungsschutz zu stärken.
+- **[00:13:10](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=13m10s)** - **Eingangsstatement Frau Professor Baer (Deutscher Juristinnenbund)**:
+    - Begrüßt die Novellierung des AGG als dringend notwendig für die Anpassung an EU-Recht und die Wirksamkeit von Art. 3 Grundgesetz.
+    - Kriterium muss "hinreichend wirksamer Schutz" vor Benachteiligung sein.
+    - Diskriminierungsschutz muss ohne interne Hierarchisierung erfolgen und alle Formen (Rassismus, Sexismus, Behindertenfeindlichkeit etc.) gleichermaßen adressieren.
+    - Benachteiligung ist oft strukturell, routinemäßig und unbewusst.
+    - **Durchsetzungsmechanismen sind entscheidend:**
+        - "AGG-Hopping" als Ausnahmefall, Rechtsprechung hat es im Griff, keine separate Regelung nötig.
+        - Rechtsschutz wird aus Scham, Angst oder sozialen Gründen nicht in Anspruch genommen. Prävention ist zu gering.
+    - **Positiv bewertet:** Ausweitung des Schutzes bei Schwangerschaft, Mutterschaft, geschlechtsbezogener Diskriminierung und sexueller Belästigung; Verlängerung der Geltendmachungsfrist (vier Monate überraschend kurz, da sechs Monate international empfohlen).
+    - **Kritik/Forderungen:** Einrichtung einer fachlich kompetenten Schlichtungsstelle (sachgerechter ausgestalten); Stärkung der Antidiskriminierungsstelle (kleiner Schritt, andere EU-Staaten haben deutlich mehr).
+    - **Weitere Punkte:** Selbstständige und Organmitglieder sollten auch bei Ausübung ihrer Tätigkeit geschützt werden; die Beweislastregelung sollte klarer sein.
+- **[00:17:22](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=17m22s)** - **Eingangsstatement Herr Professor Fuhlrott**:
+    - Das AGG hat seit 20 Jahren positive Auswirkungen auf das Denken und das Wirtschaftsleben.
+    - Der Gesetzentwurf ist insgesamt als gelungen zu bewerten, da er die EU-Vorgaben eins zu eins umsetzt und eine gute Abwägung der Schutzinteressen ermöglicht.
+    - Stärkung der Antidiskriminierungsstelle und Schaffung einer Schlichtungsstelle sind angemessene Schritte.
+    - **Kritik/Hinweise:**
+        - Geltendmachungsfristen (vier Monate) sind im Vergleich zu anderen Rechtsbereichen (z.B. Kündigungsschutz - drei Wochen) vertretbar, aber auch Jahresfristen sind denkbar.
+        - **"AGG-Hopping" / Rechtsmissbrauch:** Fehlt im Entwurf, diskreditiert das Gesetz und belastet Gerichte; eine Regelung hierzu ist notwendig.
+- **[00:21:18](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=21m18s)** - **Eingangsstatement Herr Professor Thüsing**:
+    - Begründet die Weiterentwicklung des AGG als positiv, basierend auf EU-Recht und Koalitionsvertrag (eins-zu-eins-Umsetzung).
+    - **Fristen:** Verlängerung von zwei auf vier Monate ist ein signifikanter Schritt, auch wenn längere Fristen gefordert werden.
+    - **Schlichtungsstelle:** Umsetzung der Richtlinie ist vertretbar, auch wenn weniger weitreichende Lösungen möglich gewesen wären.
+    - **Missbrauch/AGG-Hopper:** Ein wichtiges Thema, das eine Realität für Unternehmen darstellt und nicht nur ein "Phantasmen" ist. Missbrauch des Gesetzes muss verhindert werden, um den rechten Gebrauch zu stützen. Aufnahme eines Ausnahmetatbestandes zur Verdeutlichung des Rechtsmissbrauchs gegen "AGG-Hopper" ist sinnvoll.
+- **[00:25:51](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=25m51s)** - **Eingangsstatement Herr Professor Tischbirek**:
+    - Der Entwurf setzt das Unionsrecht nicht hinreichend um; das deutsche Recht droht wirkungslos gegenüber diskriminierender KI zu sein.
+    - **Unionsrecht:**
+        - Angleichung von § 9 Abs. 1 AGG an EuGH-Vorgaben und Neufassung von § 19 Abs. 2 AGG sind positiv.
+        - Das AGG bleibt im Anwendungsbereich zu eng (schließt bestimmte hoheitliche Handeln nicht ein).
+        - § 2 Abs. 4 und § 19 Abs. 3 AGG sollten gestrichen, angemessene Vorkehrungen in § 3 AGG ergänzt werden.
+    - **Equality Bodies (ADS):** Rolle als Beistand ist gerade noch gedeckt; weitere Beschränkungen sind nicht unionsrechtskonform. Fehlen von Regelungen zu Untersuchungsrechten der ADS.
+    - **KI und Diskriminierung:**
+        - Schutz vor algorithmischer Diskriminierung auf dem Papier vorhanden, aber Nachweis für Betroffene unmöglich (Datenarbeit zu komplex).
+        - Dezentrale Rechtsdurchsetzung stößt an Grenzen gegen hochversierte KI-Unternehmen; Prozessstandschaft/Verbandsklage fehlen.
+        - Stärkung der ADS ist essenziell, auch für KI-Aufsicht in Zusammenarbeit mit Bundesnetzagentur.
+- **[00:30:00](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=30m0s)** - **Eingangsstatement Herr Wolf**:
+    - **Keine überschießende Umsetzung:** Ausdehnung der Klagefristen für das Arbeitsrecht sei verfehlt und nicht von den Richtlinien gefordert. Plädiert für Beibehaltung der zwei Monate.
+    - **AGG-Missbrauch:** Kein "Fantasmen", sondern Realität (Beispiel eines Mitarbeiters, der wusste, die Stelle nie antreten zu wollen). Möglichkeiten zum Ausschluss solcher Missbräuche fehlen im Entwurf (Auskunftsansprüche etc.). Entschädigungen seien oft steuerfrei.
+    - **Verbandsklagerecht:** Positiv, dass der Entwurf sich auf das Notwendige aus EU-Sicht beschränkt und kein Verbandsklagerecht schafft, da dies die Akzeptanz im Arbeitsleben beschädigen könnte.
+    - **Algorithmische Diskriminierung:** AGG erfasst diese bereits über mittelbare Diskriminierung; keine gesonderte Regelung nötig.
+- **[00:34:25](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=34m25s)** - **Fragerunde beginnt**: Abgeordnete stellen Fragen an die Sachverständigen, u.a. zu angemessenen Vorkehrungen, Erweiterung von Diskriminierungskategorien, AGG-Hopping, Verbandsklagerecht und der Rolle der Antidiskriminierungsstelle.
+- **[00:43:31](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=43m31s)** - **Herr Wolf beantwortet Fragen des Vorsitzenden:**
+    - **Verbandsklagerecht:** Lehnt es grundsätzlich ab, da es keine Tradition in Deutschland hat, nicht von den Richtlinien gefordert wird und zu Irritationen führen kann; Missbrauchsgefahr bei Entschädigungsforderungen.
+    - **Barrierefreiheit:** Integration ins AGG sei nicht zielführend, da bestehende Gesetze (z.B. BGG) bereits spezifische Regelungen enthalten; Vermeidung widersprüchlicher Regelungen.
+- **[00:46:41](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=46m41s)** - **Herr Professor Tischbirek beantwortet Fragen:**
+    - **Präklusionsfristen:** AGG als Querschnittsgesetz mit Zivilrechtsteil; kurze Fristen sind Besonderheit des Arbeitsrechts. Drei Jahre Verjährungsfrist für Persönlichkeitsrechtsverletzungen sprechen für längere Fristen im AGG. Berlinische Justiz sei bei Jahresfrist nicht "abgesoffen". Fristbeginn erst mit Kenntnis der Diskriminierung sinnvoll.
+    - **Verbandsklage/Prozessstandschaft:** Gibt es im Berliner Landesgleichbehandlungsrecht und Behindertengleichstellungsrecht, ohne zu Klagewellen zu führen. Wichtig zur Stärkung von Betroffenen gegen KI-Unternehmen.
+    - **KI-Diskriminierung:** Aggressiv diskriminierende KI wird über mittelbare Diskriminierung erfasst. Empirie und Erfassung des Systemverhaltens sind entscheidend. Prüf-, Dokumentations- und Transparenzpflichten sind wichtig, aber Grenzen durch internationale Konzerne. Stärkung der ADS zentral für KI-Aufsicht.
+- **[00:50:54](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=50m54s)** - **Herr Professor Thüsing beantwortet Fragen:**
+    - **Schlichtungsstelle:** Abweichende Ansiedlung außerhalb der ADS möglich (z.B. Güterichterverfahren). Richtlinien lassen breiten Spielraum; politische Entscheidung, nicht europarechtlich zwingend.
+    - **Sexuelle Belästigung:** Ausweitung des Schutzes ist nicht zwingend erforderlich, da bereits zivilrechtliche Instrumente (Delikts-, Vertragsrecht) existieren. Aber nicht schädlich.
+    - **Befugnisse ADS:** Der Entwurf setzt EU-Forderungen um, mehr Befugnisse sind eine politische Entscheidung.
+    - **Fristen:** Hemmung durch Antrag bei ADS ist geregelt; kurze Fristen gibt es auch außerhalb des Arbeitsrechts (z.B. Verwaltungsakt).
+- **[00:53:25](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=53m25s)** - **Herr Professor Fuhlrott beantwortet Fragen:**
+    - **AGG-Hopping:** Regelung zur Abgrenzung von schutzwürdigen Personen und Missbrauchern ist notwendig; Verweis auf DSGVO (Art. 12 Abs. 5) als Beispiel für Ausschluss rechtsmissbräuchlicher Ansprüche.
+    - **Sozialer Status als Diskriminierungsmerkmal:** Problematisch wegen Überschneidung mit beruflicher Erfahrung/Qualifikation; Gefahr sachlich gerechtfertigte Personalentscheidungen als AGG-relevant einzustufen; erhöhter Dokumentationsaufwand für Unternehmen.
+    - **Schlichtungsstelle:** Auswirkungen auf Gerichtsverfahren sind unklar; Güteverhandlung im Arbeitsrecht ist bereits ein schnelles und unkompliziertes Verfahren.
+- **[00:57:04](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=57m4s)** - **Frau Professor Baer beantwortet Fragen:**
+    - **AGG-Hopping:** Quantitatives Ausmaß ist gering, Rechtsprechung hat das Problem im Griff. Aber eine gesetzliche Regelung schafft Klarheit und schützt das Gesetz vor Diskreditierung.
+    - **Wirksamkeit Art. 3 GG:** EU-Recht ist Impuls, aber Wirksamkeit des nationalen Schutzes ist vorrangig. Behindertenrechtskonvention und andere internationale Regeln sind zu beachten. Gesetzgeber sollte Handlungsbedarf selbst aufgreifen, statt auf Karlsruhe zu warten (z.B. Streichung/Ergänzung § 19 Abs. 1 AGG, Einbeziehung angemessener Vorkehrungen in § 3 AGG).
+    - **Standardrichtlinien/ADS:** Ziele sind präventive Wirkung und Stärkung von Betroffenenrechten, nicht nur nachträgliche Schadensersatzansprüche. ADS braucht Informations- und Dokumentationsrechte, ggf. sanktionierbar.
+    - **Sexuelle Belästigung:** Explizite Regelung im AGG ist notwendig, da allgemeine Zivilrechtsregeln nicht greifen; Beschäftigtenschutzgesetz zeigt dies.
+- **[01:01:37](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h1m37s)** - **Frau Dr. Arnade beantwortet Fragen:**
+    - **Angemessene Vorkehrungen:** Das Konzept ist aus der Behindertenrechtskonvention eingeführt und muss ins Zivilrecht (AGG) und ggf. BGB aufgenommen werden. Dies schafft Klarheit und vermeidet Überforderung. Verstoß gegen Barrierefreiheitsnormen muss sanktioniert werden.
+    - **Diskriminierungskategorien:** Forderung nach offenem Katalog; Aufnahme von Sozialstatus wegen beobachteter Diskriminierung und Vererbung von Armut/Ausgrenzung. Chronische Erkrankungen müssen explizit zu Behinderungen gezählt werden.
+- **[01:05:38](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h5m38s)** - **Frau Andrades beantwortet Fragen:**
+    - **Sozialer Status:** Aufnahme gefordert, da aktuelle Regelungen Schutzlücken hinterlassen (z.B. ALG II-Empfänger, Alleinerziehende). Problem der sozialen Ungleichheit erfordert mehr als nur Diskriminierungsansprüche.
+    - **Schutzlücken (allgemein):** Familie/Fürsorgeverantwortung (Benachteiligung von Frauen und Vätern nach Elternzeit), Staatsangehörigkeit (indirekte Diskriminierung, z.B. Bezug auf Pass statt Herkunft), Behandlungsverträge (unklare Abgrenzung Massengeschäft).
+    - **Standardrichtlinien:** Beistandschaft als schwächste Form der Unterstützung; Forderung nach Prozessstandschaft oder Verbandsklagerecht zur effektiven Rechtsdurchsetzung, insbesondere bei KI-Diskriminierung.
+- **[01:18:44](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h18m44s)** - **Dritte Fragerunde beginnt.**
+- **[01:18:47](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h18m47s)** - **Frau Dr. Arnade beantwortet Fragen:**
+    - **Schlichtungsstelle (nach Behindertengleichstellungsgesetz):** Gute Erfahrungen mit Klärung von Streitigkeiten und einvernehmlichen Lösungen. Zwangsvorgeschaltetes Verfahren war nachteilig, was im AGG nicht vorgesehen ist.
+    - **Höheres Diskriminierungsniveau:** Stärkung des Schutzes für Menschen mit Behinderungen und andere benachteiligte Gruppen nützt der gesamten Gesellschaft.
+- **[01:21:18](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h21m18s)** - **Frau Andrades beantwortet Fragen:**
+    - **Erweiterung Diskriminierungsschutz auf staatliche Stellen:** (Frage wurde nicht explizit beantwortet, implizit durch generelle Forderungen zur Schließung von Lücken).
+    - **Schutzlücken (Staatsangehörigkeit, familiäre Fürsorge):** Wie zuvor ausgeführt, sind Schutzlücken bei Staatsangehörigkeit (indirekte Diskriminierung) und familiärer Fürsorge (Benachteiligung nach Elternzeit, Schutz für Väter) signifikant und bedürfen Ergänzung.
+    - **Behandlungsverträge:** BGH-Urteil lässt Fragen offen, ob diese unter das AGG fallen und private Anbieter zu Anpassungsleistungen verpflichtet sind. Gesetzgeberischer Handlungsbedarf ist gegeben, um Klarheit zu schaffen.
+- **[01:25:06](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h25m6s)** - **Frau Professor Baer beantwortet Fragen:**
+    - **Wirtschaftlicher Nutzen gegen Diskriminierung:** Neue OECD-Daten zeigen, dass effektive Maßnahmen gegen Diskriminierung wirtschaftlich nutzen und die Schäden durch fortwährende Diskriminierung größer sind.
+    - **Gesetzgeberischer Handlungsbedarf (Behandlungsverträge):** Nicht auf Urteile aus Karlsruhe warten, sondern selbst aktiv werden (z.B. Streichung/Ergänzung § 19 Abs. 1 AGG, Einbeziehung angemessener Vorkehrungen in § 3 AGG).
+    - **ADS-Befugnisse:** Braucht Zugang zu Informationen und Dokumenten, ggf. sanktionierbar. Präventive Maßnahmen und Stärkung der ADS sind notwendig, um Betroffene nicht mit der Klagelast allein zu lassen.
+- **[01:28:55](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h28m55s)** - **Hinweis des Vorsitzenden zur Begrenzung der Fragerunden.**
+- **[01:29:09](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h29m9s)** - **Herr Professor Fuhlrott beantwortet letzte Fragen:**
+    - **Beweislastregelung:** AGG hat bereits eine angepasste Regelung (§ 22 AGG); weitere Verschiebung hin zu Gegenbeweis durch Arbeitgeber würde erheblichen Dokumentationsaufwand bedeuten.
+    - **Schlichtungsstelle im Arbeitsrecht:** Die bestehende Güteverhandlung im Arbeitsgericht ist ein schnelles Verfahren; eine vorgeschaltete Schlichtungsstelle könnte Verfahren verlängern.
+- **[01:33:01](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h33m1s)** - **Herr Professor Thüsing beantwortet letzte Fragen:**
+    - **Wohnraumvermietung (§ 19 Abs. 5 AGG):** Die Bereichsausnahme ist "grob gestrickt" und bedarf der Modifizierung (nicht ersatzlos Abschaffung); Berücksichtigung von Privatsphäre und Familienleben ist relevant, aber feingliedriger regelbar. Gilt primär für Rasse/ethnische Diskriminierung.
+    - **Sexuelle Belästigung:** Ausweitung des AGG-Schutzes ist nicht zwingend, da bereits Zivilrechtsinstrumente existieren, aber nicht schädlich.
+    - **Befugnisse ADS (Art. 8/10 Gleichbehandlungsrichtlinie):** Der Entwurf setzt EU-Forderungen um; weitere Befugnisse sind politische Entscheidung.
+- **[01:39:38](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h39m38s)** - **Herr Professor Tischbirek beantwortet letzte Fragen:**
+    - **KI-Diskriminierung (Prüf-, Dokumentations-, Auskunftsrechte):** Informationspflichten der KI-Verordnung sind ein wichtiger Schritt, aber Grenzen bei internationaler Durchsetzung. Zentralisierung bei der ADS und deren Stärkung ist notwendig.
+    - **ADS-Rolle/Untersuchungsbefugnisse:** Der Entwurf genügt unionsrechtlichen Vorgaben, aber eine stärkere ADS ist wünschenswert.
+- **[01:43:39](https://www.youtube.com/watch?v=8SdDWKXAWPI&t=1h43m39s)** - **Abschluss der Anhörung:** Der Vorsitzende bedankt sich bei allen Beteiligten.

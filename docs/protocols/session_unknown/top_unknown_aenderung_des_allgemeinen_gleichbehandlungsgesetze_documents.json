@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "Gesetzentwurf der Bundesregierung zur Änderung des Allgemeinen Gleichbehandlungsgesetzes",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Antrag der Fraktion Die Linke: Stärkung der Antidiskriminierungsstelle des Bundes und Erweiterung des Diskriminierungsschutzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte im Ausschuss befasste sich mit einem Gesetzentwurf der Bundesregierung zur Änderung des Allgemeinen Gleichbehandlungsgesetzes (AGG) und einem Antrag der Fraktion Die Linke. Es wurden verschiedene Aspekte wie die Umsetzung von EU-Richtlinien, Schutzlücken und die Stärkung der Antidiskriminierungsstelle diskutiert. Ein Beschluss oder eine Abstimmung fand in diesem Rahmen nicht statt, da es sich um eine Anhörung handelte.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

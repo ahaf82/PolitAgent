@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die Analyse externer Aussagen der im Bundestag tätigen Abgeordneten zur Anhörung der Nachrichtendienste zeigt, dass die Bedrohungslage durch Russland als primäres Thema im Vordergrund steht. Abgeordnete wie Armin Baldi von der CDU/CSU stellten kritische Fragen zur Einschätzung der russischen Aggression und den Taktiken hybrider Kriegsführung. Andere Politiker fokussierten sich auf die Notwendigkeit, die rechtlichen Rahmenbedingungen und die technologischen Fähigkeiten der Nachrichtendienste anzupassen, um aktuellen und zukünftigen Gefahren, einschließlich Extremismus und Cyberangriffen, effektiv begegnen zu können. Die Rolle Chinas als Unterstützer Russlands und die Präsenz extremistischer Bestrebungen innerhalb Deutschlands waren ebenfalls Gegenstand von Anfragen und Diskussionen.",
+  "sources": [
+    {
+      "name": "Armin Baldi",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Armin Baldi zeigte sich besorgt über die Einschätzung der russischen Bedrohungslage und fragte nach konkreten russischen Taktiken und der Rolle Chinas. Er thematisierte auch die Anpassung russischer Strategien und deren Auswirkungen auf die Unterstützung der Ukraine.",
+      "source_title": "Anhörung der Präsidenten der Nachrichtendienste des Bundes",
+      "url": "https://www.youtube.com/watch?v=4gL4Y_7U6AY&t=31m27s",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Martin Jäger",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Hans-Ulrich Rosenberg",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sinan Selen",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
