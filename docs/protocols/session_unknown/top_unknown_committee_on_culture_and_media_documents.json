@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/1596",
+      "title": "Antrag der Fraktionen der CDU/CSU und SPD: Weiterentwicklung der Neuen-Hannoverschen-Strecke. Konvergenz-Kriterium und Maßnahmen zur Beschleunigung des Planungsverfahrens.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1596&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/1594",
+      "title": "Antrag der AfD-Fraktion: Notwendige Beschleunigung des Schienenausbaus durch Abbau bürokratischer Hürden und Stärkung der Planungskapazitäten.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1594&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/1587",
+      "title": "Antrag der Fraktion Bündnis 90/Die Grünen: Beschleunigung von Planungs- und Genehmigungsverfahren im Bahnausbau für eine klimafreundliche Mobilität.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1587&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/5500",
+      "title": "Aufgabenplanung der Deutschen Welle für den Zeitraum 2026-2029",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5500&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/6350",
+      "title": "Stellungnahme der Bundesregierung zur Aufgabenplanung der Deutschen Welle für den Zeitraum 2026-2029",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6350&rows=25",
+      "type": "Unterrichtung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Ausschuss für Kultur und Medien diskutierte die Aufgabenplanung der Deutschen Welle für den Zeitraum 2026-2029 und die Stellungnahme der Bundesregierung hierzu. Es wurden verschiedene Anträge zur Weiterentwicklung der Neubaustrecke Hannover-Hamburg beraten und über diese abgestimmt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

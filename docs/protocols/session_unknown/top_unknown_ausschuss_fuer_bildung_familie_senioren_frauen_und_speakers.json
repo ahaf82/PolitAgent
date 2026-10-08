@@ -1,0 +1,41 @@
+{
+  "synthesis": "Außerhalb des Plenums haben die identifizierten Abgeordneten, die an der Debatte über KI und Berufsbildung teilgenommen haben, verschiedene Aspekte des Themas beleuchtet. Stefan Albani hat sich in seiner Funktion als Obmann im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung mit der Thematik auseinandergesetzt und auch auf externen Plattformen seine Mitgliedschaften in relevanten Gremien hervorgehoben. Dr. Volker Born vom Zentralverband des Deutschen Handwerks (ZDH) betonte die Bedeutung der Berufsbildung für das Handwerk und die Anwendung von KI zur Prozessoptimierung, was er auch in Pressemitteilungen des ZDH sowie in internen Publikationen des Verbandes darlegt. Prof. Dr. Katja Driesel Lange von der Universität Münster hat sich intensiv mit den Herausforderungen der Berufsorientierung im digitalen Wandel beschäftigt und ihre Forschungsergebnisse in zahlreichen Publikationen und Interviews geteilt, darunter auch in Beiträgen, die sich explizit mit KI auseinandersetzen. Dr. Mortimer Schlieer vom Bundesinstitut für Berufsbildung (BIBB) hat sich ebenfalls zu den Auswirkungen von KI auf die Berufsbildung geäußert, insbesondere im Kontext von Weiterbildung und lebenslangem Lernen, und seine Erkenntnisse in Publikationen des BIBB und in Fachartikeln dargelegt.",
+  "sources": [
+    {
+      "name": "Stephan Albani",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Obmann im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung ist er an der inhaltlichen Koordination der Fraktionsarbeit in diesem Bereich beteiligt. Er ist Mitglied des Deutschen Bundestages seit 2013 und hat seine Zuständigkeiten in Ausschüssen extern dokumentiert.",
+      "source_title": "Ausschuss-Mitgliedschaften & Biographie",
+      "url": "https://www.abgeordnetenwatch.de/profile/stephan-albani",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Volker Born",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Als Bereichsleiter Berufliche Bildung im ZDH vertritt er die Positionen des Handwerks zur Bedeutung der Berufsbildung und den Chancen von KI zur Prozessoptimierung und Lernunterstützung.",
+      "source_title": "Bereich Berufliche Bildung | ZDH",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Katja Driesel Lange",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sie betont die Notwendigkeit einer frühzeitigen und ganzheitlichen Berufsorientierung, die durch KI unterstützt werden kann, betont aber auch die essenzielle Rolle menschlicher Begleitung und die Notwendigkeit, Bildungsungleichheiten abzubauen.",
+      "source_title": "Interview: \"Schulen dürfen wir mit dieser Aufgabe nicht allein lassen\"",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mortimer Schlieer",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Er hebt hervor, dass KI vor allem analytische Tätigkeiten verändert und zu einem Umbau von Berufen führt, anstatt zu einer flächendeckenden Verdrängung. Die menschliche Begleitung bei der Berufsorientierung bleibe dabei unerlässlich.",
+      "source_title": "KI in der beruflichen Aus- und Weiterbildung",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
