@@ -1,0 +1,105 @@
+# Experten üben heftige Kritik am Redispatch-Vorbehalt
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** 2026-10-08
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Experten üben heftige Kritik am Redispatch-Vorbehalt
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=TkqdG9yskCU)
+
+## Kurzzusammenfassung
+Die Anhörung im Ausschuss für Wirtschaft und Energie befasste sich mit einem Gesetzentwurf zur Änderung des Energiewirtschaftsrechts, der den Netzausbau mit dem Anlagenzubau synchronisieren und das Netzanschlussverfahren verbessern soll. Kern der Debatte war der geplante „Redispatch-Vorbehalt“, der von vielen Sachverständigen als problematisch und rechtlich unsicher kritisiert wurde. Diskutiert wurden die Auswirkungen auf Investitionen in erneuerbare Energien, die Rolle der Netzbetreiber und die Notwendigkeit klarerer Priorisierungskriterien sowie alternativer Lösungsansätze zur besseren Netzauslastung.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Übertragungsnetzbetreiber (Vertreten durch Transnet BW):**
+  - Hohe Anzahl an Netzanschlussanfragen, insbesondere für Batteriespeicher, die bereits die Szenarien übertreffen.
+  - Notwendigkeit einer Priorisierung durch Politik oder Regulierung aufgrund wirtschaftlicher und industriepolitischer Bedeutung.
+  - Begrüßung des Netzanschlusspakets, aber Nachbesserungsbedarf bei Priorisierung, Mehrfachnutzung von Schaltfeldern und flexiblen Netzanschlussvereinbarungen.
+- **Bundesverband für erneuerbare Energien (BEE):**
+  - Ablehnung des Redispatch-Vorbehalts, da er Finanzierung von PV- und Windprojekten gefährdet und Kosten erhöht.
+  - Notwendigkeit, die eigentlichen Ursachen anzugehen: zügiger Netzausbau, echte Anreize und Sanktionen für Netzbetreiber.
+  - Forderung nach verbindlichen Standards für die Netzauslastung und verbesserte Nutzung bestehender Infrastruktur.
+- **Deutscher Landkreistag, Deutscher Städtetag, Deutscher Städte- und Gemeindebund:**
+  - Grundsätzliche Zustimmung zur Synchronisierung von Netzausbau und erneuerbaren Energien.
+  - Forderung nach verbindlicher Berücksichtigung kommunaler und regionaler Planungsentscheidungen bei der Vergabe von Netzanschlusskapazitäten.
+  - Einbeziehung betroffener Kommunen bei Ausweisung kapazitätslimitierter Netzgebiete.
+  - Kritik am Redispatch-Vorbehalt, da er Investitionsrahmen gefährdet und den Netzausbau verzögern könnte.
+- **Bundesverband Windenergie (BWE):**
+  - Begrüßung der Adressierung des Netzengpasses durch das Netzpaket.
+  - Ablehnung der kumulierenden Wirkung mehrerer Maßnahmen, die den Ausbau erneuerbarer Energien und Arbeitsplätze gefährden.
+  - Ablehnung des Redispatch-Vorbehalts als europarechtswidrig und verfassungsfeindlich.
+  - Forderung nach Klarstellung bezüglich der Abregelung am Netzverknüpfungspunkt statt an der Anlage.
+- **Verband Kommunaler Unternehmen (VKU):**
+  - Zustimmung zur Einführung eines Redispatch-Vorbehalts als Synchronisierungsinstrument.
+  - Forderung nach mehr Transparenz bei Netzbetreibern durch eine "Netzampel".
+  - Betonung der Notwendigkeit des Verteilnetzausbaugesetzes als Voraussetzung zur Auflösung von Netzengpässen.
+- **Stiftung Umwelt Energierecht:**
+  - Feststellung, dass Redispatch-Vorbehalt und Wirkleistungsbegrenzung nicht den Anforderungen des Europarechts entsprechen.
+  - Kritik an unklarer räumlicher und zeitlicher Ausweisung von kapazitätslimitierten Gebieten.
+  - Vorschlag zur Ausgestaltung von Netzanschlussansprüchen zur Senkung von Systemkosten.
+- **Verband der Industriellen Energie- und Kraftwirtschaft (VIK):**
+  - Ablehnung des Gesetzentwurfs aufgrund fehlender Priorisierung industrieller Transformations- und Elektrifizierungsprojekte.
+  - Befürchtung, dass der Redispatch-Vorbehalt zu einer Verschlechterung der Investitionsbedingungen führt.
+  - Forderung nach ausdrücklicher gesetzlicher Ergänzung zur Priorisierung industrieller Projekte.
+- **Bundesverband neue Energiewirtschaft (bne):**
+  - Kritik am Wegfall des gesetzlichen Netzanschlussanspruchs im EEG durch den Redispatch-Vorbehalt.
+  - Forderung nach Verzicht auf den Redispatch-Vorbehalt als beste Wahl.
+  - Vorschlag zur Wirkleistungsbegrenzung und Integration von Speichern.
+- **CDU/CSU-Fraktion:**
+  - Frage nach den Kriterien für die Vergabe knapper Netzanschlüsse und der Einschätzung des Netzanschlusspakets zur Behebung des Engpasses.
+  - Kritik am Fehlen einer klaren politischen Priorisierung durch Netzbetreiber.
+- **AfD-Fraktion:**
+  - Skepsis gegenüber weiterer Regulierung von oben und den Abhängigkeiten von China bei der Herstellung erneuerbarer Technologien.
+  - Infragestellung der Kostenexternalisierung beim Ausbau erneuerbarer Energien.
+- **SPD-Fraktion:**
+  - Fragen zu Rechtsunsicherheiten und EU-rechtlichen Problemen im Gesetzentwurf.
+  - Nachfrage nach positiven systemintegrativen regulatorischen Möglichkeiten.
+- **Bündnis 90/Die Grünen-Fraktion:**
+  - Fragen zur Bewertung des Gesetzentwurfs hinsichtlich Anreizen und Hindernissen für ein flexibles Energiesystem.
+  - Betonung der Bedeutung von Dezentralität und digitalen Netzen für die Energiesouveränität.
+- **Die Linke-Fraktion:**
+  - Fragen zur Bewertung des Gesetzentwurfs hinsichtlich der Begrenzung von Systemkosten und sinnvollen Maßnahmen zur Kostensenkung.
+  - Kritik am Redispatch-Vorbehalt, der keine Kosten spare und den Ausbau bremse.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=TkqdG9yskCU&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Ausschussvorsitzende begrüßt die Sachverständigen und Abgeordneten zur Anhörung. Er erläutert den Gegenstand der Anhörung, der vier Vorlagen zur Änderung des Energiewirtschaftsrechts, zur Synchronisierung von Netzausbau und Anlagenzubau sowie zur Verbesserung des Netzanschlussverfahrens umfasst.
+- **[00:03:06](https://www.youtube.com/watch?v=TkqdG9yskCU&t=3m6s)** - **Dr. Andreas Bublitz (Transnet BW)**: Stellt die Situation im Übertragungsnetz dar, mit einem großen Andrang von Anfragen für Batteriespeicher und andere Großverbraucher. Er betont, dass Netzanschlüsse zum knappsten Gut der Energiewende geworden sind und eine Priorisierung durch die Politik oder Regulierung notwendig ist. Er begrüßt das Netzanschlusspaket, sieht aber Nachbesserungsbedarf bei Priorisierung, Mehrfachnutzung von Schaltfeldern und flexiblen Netzanschlussvereinbarungen.
+- **[00:06:06](https://www.youtube.com/watch?v=TkqdG9yskCU&t=6m6s)** - **Dr. Christiane Falken-Großer (Bundesverband erneuerbare Energien)**: Betont die Einigkeit bei der Synchronisierung von Netzausbau und erneuerbaren Energien sowie Kosteneffizienz. Sie kritisiert, dass das Netzpaket die Energiewende, Arbeitsplätze und Investitionen bremse. Sie lehnt den Redispatch-Vorbehalt vollständig ab und fordert die Adressierung der eigentlichen Ursachen wie zügigen Netzausbau und echte Anreize für Netzbetreiber.
+- **[00:09:13](https://www.youtube.com/watch?v=TkqdG9yskCU&t=9m13s)** - **Johanna Friebell (Deutscher Landkreistag, Deutscher Städtetag, Deutscher Städte- und Gemeindebund)**: Betont die Notwendigkeit, dass kommunale und regionale Planung und Netzausbau Hand in Hand gehen. Sie fordert die verbindliche Berücksichtigung von Raumordnung und Bauleitplänen in der Priorisierung von Netzanschlüssen und plädiert für eine Anhörung der betroffenen Gemeinden bei Ausweisung kapazitätslimitierter Netzgebiete.
+- **[00:12:28](https://www.youtube.com/watch?v=TkqdG9yskCU&t=12m28s)** - **Berbel Heidebrück (Bundesverband Windenergie)**: Begrüßt die Adressierung des Netzengpasses, kritisiert aber die kumulierende Wirkung der Maßnahmen im Netzpaket. Sie lehnt den Redispatch-Vorbehalt als europarechtswidrig und verfassungswidrig ab und fordert eine Klarstellung bei der Abregelung am Netzverknüpfungspunkt.
+- **[00:15:46](https://www.youtube.com/watch?v=TkqdG9yskCU&t=15m46s)** - **Dr. Kai Roger Lobo (VKU)**: Betont die Geschwindigkeit des Ausbaus erneuerbarer Energien im Gegensatz zum langsamen Verteilnetzausbau. Er wirbt für das Verteilnetzausbaugesetz und nennt das Beispiel Nürnberg, wo eine Überspeisung besteht, aber der Strom nicht ins Übertragungsnetz abgeleitet werden kann. Er plädiert für die technologie­scharfe Ausweisung von Umspannwerken.
+- **[00:18:57](https://www.youtube.com/watch?v=TkqdG9yskCU&t=18m57s)** - **Professor Dr. Torsten Müller (Stiftung Umwelt Energierecht)**: Erläutert, dass sowohl die Beschränkung der Netzanschluss­ansprüche als auch der Redispatch-Vorbehalt und die Wirkleistungsbegrenzung unionsrechtswidrig ausgestaltet sind. Er hebt die fehlende Rechtssicherheit und die unklaren Anwendungsbereiche hervor.
+- **[00:22:03](https://www.youtube.com/watch?v=TkqdG9yskCU&t=22m3s)** - **Christian Seifert (VIK)**: Begrüßt das Ziel der Transparenz, Digitalisierung und Effizienz, kritisiert aber die fehlende ausdrückliche Priorisierung industrieller Transformations- und Elektrifizierungsprojekte. Er befürchtet, dass ohne klare Priorisierung industrielle Anfragen nicht zuerst genehmigt werden.
+- **[00:25:11](https://www.youtube.com/watch?v=TkqdG9yskCU&t=25m11s)** - **Bernhard Stromier (bne)**: Kritisiert den Wegfall des gesetzlichen Netzanschlussanspruchs im EEG durch den Redispatch-Vorbehalt, da dies die Investitionssicherheit massiv beschädigt. Er schlägt die Wirkleistungsbegrenzung als besseren Ansatz vor und fordert die Berücksichtigung von Zwischenspeicherung in Batterien.
+- **[00:28:24](https://www.youtube.com/watch?v=TkqdG9yskCU&t=28m24s)** - **Tilmann Kuban (CDU/CSU-Fraktion)**: Fragt Dr. Lobo nach der Begründung des VKU für die Einführung eines Redispatch-Vorbehalts und nach möglichen Erweiterungen zur Transparenz.
+- **[00:31:21](https://www.youtube.com/watch?v=TkqdG9yskCU&t=31m21s)** - **Raimond Schirich (AfD-Fraktion)**: Fragt Dr. Falken-Großer nach der Unabhängigkeit durch erneuerbare Energien im Hinblick auf die Abhängigkeit von China bei deren Herstellung.
+- **[00:34:25](https://www.youtube.com/watch?v=TkqdG9yskCU&t=34m25s)** - **Dr. Scher (SPD-Fraktion)**: Fragt Professor Müller nach den EU-rechtlichen Problematiken und Rechtsunsicherheiten beim Redispatch-Vorbehalt.
+- **[00:37:34](https://www.youtube.com/watch?v=TkqdG9yskCU&t=37m34s)** - **Dr. Hamwe (Bündnis 90/Die Grünen-Fraktion)**: Fragt Dr. Falken-Großer nach der Bewertung des Gesetzentwurfs im Hinblick auf Flexibilitätsoptionen und nach Anreizen oder Hindernissen.
+- **[00:40:44](https://www.youtube.com/watch?v=TkqdG9yskCU&t=40m44s)** - **Jörg Sessan (Die Linke-Fraktion)**: Fragt Berbel Heidebrück nach der Bewertung des Gesetzentwurfs zur Begrenzung von Systemkosten und nach Maßnahmen zur Begrenzung der Netzausbaukosten.
+- **[00:43:52](https://www.youtube.com/watch?v=TkqdG9yskCU&t=43m52s)** - **Fabian Kramling (CDU/CSU-Fraktion)**: Fragt Dr. Bublitz nach der Einschätzung zur Reservierungsgebühr und zur Effektivität der im Gesetzentwurf vorgesehenen Priorisierungsmaßnahmen.
+- **[00:46:42](https://www.youtube.com/watch?v=TkqdG9yskCU&t=46m42s)** - **Dirk Brandes (AfD-Fraktion)**: Fragt Berbel Heidebrück und Dr. Falken-Großer nach der Kosten­ver­teilung bei Engpässen in überlasteten Gebieten und nach alternativen Instrumenten.
+- **[00:49:53](https://www.youtube.com/watch?v=TkqdG9yskCU&t=49m53s)** - **Dr. Andreas Lenz (CDU/CSU-Fraktion)**: Fragt Dr. Lobo und Dr. Seifert nach weiteren Priorisierungsmöglichkeiten und der Situation der Industrie im Hinblick auf die Netzanschlussvergabe.
+- **[00:52:50](https://www.youtube.com/watch?v=TkqdG9yskCU&t=52m50s)** - **Michael Kellner (Bündnis 90/Die Grünen-Fraktion)**: Fragt Dr. Falken-Großer nach der europäischen Rechtskonformität und der Umsetzung der Abregelung am Netz­verknüp­fungs­punkt.
+- **[00:53:02](https://www.youtube.com/watch?v=TkqdG9yskCU&t=53m2s)** - **Dr. Scher (SPD-Fraktion)**: Bittet Herrn Strohmeier um Fortsetzung seiner Erläuterungen zu systemintegrativen regulatorischen Möglichkeiten und zu Veränderungs­bedarfen im Gesetz.
+- **[00:56:40](https://www.youtube.com/watch?v=TkqdG9yskCU&t=56m40s)** - **Raimond Schirich (AfD-Fraktion)**: Fragt Berbel Heidebrück nach der Wertschöpfung erneuerbarer Energien im Hinblick auf die Abhängigkeit von China.
+- **[00:59:00](https://www.youtube.com/watch?v=TkqdG9yskCU&t=59m0s)** - **Fabian Kramling (CDU/CSU-Fraktion)**: Fragt Dr. Bublitz nach der Nutzung von Schaltfeldern und der Berücksichtigung von Flächen, Zeit, Material und Personalkosten im Netzanschlusspaket.
+- **[01:02:08](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h2m8s)** - **Dr. Scher (SPD-Fraktion)**: Fragt Dr. Falken-Großer zur europäischen Rechtskonformität und zur Umsetzung der Abregelung am Netz­verknüp­fungs­punkt.
+- **[01:05:26](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h5m26s)** - **Dr. Scher (SPD-Fraktion)**: Bittet Herrn Strohmeier um Fortsetzung seiner Erläuterungen zu systemintegrativen regulatorischen Möglichkeiten und zu Veränderungs­bedarfen im Gesetz.
+- **[01:08:04](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h8m4s)** - **Dr. Alam (Bündnis 90/Die Grünen-Fraktion)**: Fragt Dr. Falken-Großer zur Energie­souveränität und zur Widerstands­fähigkeit der Netze als kritische Infrastruktur.
+- **[01:11:45](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h11m45s)** - **Raimond Schirich (AfD-Fraktion)**: Fragt Dr. Lobo, ob der Ausbau erneuerbarer Energien auf externalisierten Kosten beruht und wie sich der EU-Emissionshandel auf den Netzausbau auswirken wird.
+- **[01:13:34](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h13m34s)** - **Berbel Heidebrück (Bundesverband Windenergie)**: Antwortet auf die Frage nach der Kostentragung bei Engpässen und schlägt die Nutzung des Stroms anstatt der Abregelung vor.
+- **[01:14:58](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h14m58s)** - **Jörg Sessan (Die Linke-Fraktion)**: Fragt Berbel Heidebrück nach Möglichkeiten zur Förderung von Dezentralität und Flexibilität und nach hinderlichen Regelungen.
+- **[01:18:04](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h18m4s)** - **Kollegin Winkelmeier Becker (CDU/CSU-Fraktion)**: Fragt Professor Müller nach Risiken von Rechtsstreitigkeiten durch die Abschaffung des Windhundprinzips und den Wegfall der Entschädigung beim Redispatch.
+- **[01:21:20](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h21m20s)** - **Dr. Scher (SPD-Fraktion)**: Bittet Professor Müller, seine Ausführungen zur Wirkleistungsbegrenzung fortzuführen und Verbesserungsvorschläge zu machen.
+- **[01:24:35](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h24m35s)** - **Dr. Alam (Bündnis 90/Die Grünen-Fraktion)**: Fragt Dr. Falken-Großer zur Energie­souveränität und zur Widerstands­fähigkeit der Netze als kritische Infrastruktur.
+- **[01:27:41](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h27m41s)** - **Raimond Schirich (AfD-Fraktion)**: Fragt Dr. Lobo, ob der Ausbau erneuerbarer Energien auf externalisierten Kosten beruht und wie sich der EU-Emissionshandel auf den Netzausbau auswirken wird.
+- **[01:30:43](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h30m43s)** - **Tilmann Kuban (CDU/CSU-Fraktion)**: Fragt Dr. Bublitz, ob das Netzanschlusspaket ausreichend Handlungsspielraum zur Behebung des Engpasses gibt.
+- **[01:33:49](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h33m49s)** - **Dirk Brandes (AfD-Fraktion)**: Fragt Frau Friebel und Dr. Bublitz nach den Kriterien für die Vergabe knapper Netzanschlüsse, wenn verschiedene Akteure um diese konkurrieren.
+- **[01:37:04](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h37m4s)** - **Dr. Lenz (CDU/CSU-Fraktion)**: Fragt Dr. Lobo zum Redispatch-Vorbehalt und zur Wirkleistungsbegrenzung.
+- **[01:40:20](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h40m20s)** - **Dr. Scher (SPD-Fraktion)**: Fragt Professor Müller nach dem Verhältnis des Vorrangs erneuerbarer Energien zu den Netzanschlussregelungen und nach Änderungs­bedarfen.
+- **[01:43:33](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h43m33s)** - **Jörg Sessan (Die Linke-Fraktion)**: Fragt Berbel Heidebrück nach der Vereinbarkeit von langen Ausweisungsprozessen für Windvorranggebiete und der Wirtschaftlichkeit von Investitionen in diesen Gebieten angesichts des Redispatch-Vorbehalts.
+- **[01:46:40](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h46m40s)** - **Lars Rober (CDU/CSU-Fraktion)**: Fragt Dr. Lobo nach der Angemessenheit flexibler Netzanschlussvereinbarungen und Dr. Seifert nach der Sinnhaftigkeit einer Anschlussreserve für zukünftige Wirtschaftsansiedlungen.
+- **[01:49:54](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h49m54s)** - **Dr. Alam (Bündnis 90/Die Grünen-Fraktion)**: Fragt die BEE nach den Unterschieden zwischen der Einschätzung des BMWE und der eigenen Analyse bezüglich der Auswirkungen des Redispatch-Vorbehalts.
+- **[01:52:50](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h52m50s)** - **Holm (AfD-Fraktion)**: Fragt Dr. Lobo grundsätzlich, wer die enormen Kosten des Netzausbaus bezahlen soll.
+- **[01:55:34](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h55m34s)** - **Kollegin Winkelmeier Becker (CDU/CSU-Fraktion)**: Spricht das Problem unterschiedlicher Planungsebenen an und fragt Frau Friebel und Dr. Bublitz nach den Ursachen der schlechten Koordination und nach Verbesserungsvorschlägen, insbesondere zur Einbeziehung der Kommunen.
+- **[01:58:41](https://www.youtube.com/watch?v=TkqdG9yskCU&t=1h58m41s)** - **Sitzungsende**: Der Ausschussvorsitzende bedankt sich bei den Sachverständigen und Zuschauern, die Sitzung ist beendet.

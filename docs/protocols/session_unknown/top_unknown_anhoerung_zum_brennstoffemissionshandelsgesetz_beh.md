@@ -1,0 +1,115 @@
+# Anhörung zum Brennstoffemissionshandelsgesetz (BEHG)
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** 2026-10-08
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Anhörung zum Brennstoffemissionshandelsgesetz (BEHG)
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=eiXHv0TwwMU)
+
+## Kurzzusammenfassung
+In der Anhörung zum Entwurf des Dritten Gesetzes zur Änderung des Brennstoffemissionshandelsgesetzes (BEHG) wurden die Meinungen von Sachverständigen aus verschiedenen Verbänden und von einzelnen Experten eingeholt. Kernpunkt der Debatte war die Fortführung des Preiskorridors für CO2-Bepreisung im Jahr 2027, dessen Beibehaltung von den meisten als wichtig für die Planungssicherheit erachtet wurde. Diskutiert wurden jedoch auch die Ausgestaltung des Auktionsdesigns, insbesondere die Überzeichnung der Auktionen, die Sicherheitsleistungen und die Höhe von Überwachungs- und Nachkaufpreisen. Zudem wurden Kritikpunkte wie die Notwendigkeit einer globalen Bepreisung, die soziale Ausgestaltung der CO2-Bepreisung und die Auswirkungen auf die Wettbewerbsfähigkeit der Industrie thematisiert.
+
+## Kernaussagen und Positionen der Fraktionen
+*Stelle die Argumente und Positionen der beteiligten Fraktionen und Redner neutral dar. Gliedere nach Fraktionen (z. B. SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP, AfD, Die Linke, BSW oder fraktionslos), sofern diese im Transkript vorkommen.*
+- **BDW (Bundesverband der Energie- und Wasserwirtschaft) - Dr. Maximilian Ring**:
+  - Begrüßt die Fortführung der Korridorphase für 2027 zur Vermeidung von Systemumstellungen und reduzierten administrativen Aufwand.
+  - Lobt Anpassungen wie die Reduktion der maximalen Gebotsmenge und die Einschränkung der Zertifikateausgabe auf Compliance-Konten, was Stadtwerke entlastet.
+  - Kritisiert, dass das strukturelle Problem der Überzeichnung der Auktionen fortbesteht und sich durch den Abzug von Zertifikaten sogar verschärfen könnte.
+  - Sieht Defizite im Auktionsdesign und fordert Anpassungen bei der Höhe des Überschussmengenpreises und im Veräußerungsdesign.
+- **MEW (Mittelständische Energiewirtschaft Deutschland) - Inga Tölke**:
+  - Begrüßt den Entwurf, da die Beibehaltung des Versteigerungsverfahrens im Preiskorridor Planungssicherheit gibt und bürokratische Belastungen abwendet.
+  - Kritisiert die Versteigerung 2026 aufgrund extremer Überzeichnung und die daraus resultierenden hohen Sicherheitsleistungen, die den Mittelstand benachteiligen.
+  - Begrüßt den Ausschluss reiner Finanzakteure vom Primärmarkt zur Verhinderung spekulativer Blasen.
+  - Fordert regulatorisches Eingreifen bei den Sicherheitsleistungen, um diese an die tatsächliche Zuteilungsquote anzupassen.
+- **VCI (Verband der Chemischen Industrie) - Matthias Belitz**:
+  - Hält die Fortführung des Preiskorridors für 2027 angesichts der Verschiebung des EU ETS2 und der wirtschaftlichen Lage für richtig und wichtig.
+  - Kritisiert die Verschiebung des EU ETS2 auf 2028 als problematisch für den Wettbewerb.
+  - Fordert eine Stärkung des Carbon-Leakage-Schutzes, da Mitgliedsunternehmen derzeit nur geringe CO2-Kosten über die BEHG-Kompensation zurückerhalten.
+  - Plädiert dafür, die Sonderabfallverbrennung aus dem BEHG herauszunehmen, da diese nicht im EU ETS 1 oder 2 enthalten ist.
+- **Einzelsachverständiger - Dr. Bernd Fleischmann (AfD)**:
+  - Stellt die wissenschaftlichen Grundlagen der Klimapolitik in Frage und verweist auf natürliche Ursachen von Temperaturänderungen und die kühlende Wirkung von Aerosolen.
+  - Kritisiert Windkraftanlagen als nicht klimaneutral und potenziell gesundheitsschädlich aufgrund von Infraschall.
+  - Hält die Klimaanpassungsstrategie für unrealistisch.
+  - Argumentiert, dass nationale Emissionsreduktionsziele sinnlos seien, da Deutschland nur einen geringen Anteil an den globalen Emissionen habe.
+  - Fordert die Abschaffung von Emissionshandel und CO2-Bepreisung.
+- **Einzelsachverständiger - Prof. Dr. Fritz Söllner (AfD)**:
+  - Vertritt die ökonomische Auffassung, dass der Klimawandel ein globales Problem ist, das globale Lösungen erfordert.
+  - Hält nationale oder regionale Emissionsreduktionsziele angesichts des geringen Anteils Deutschlands an den globalen Emissionen für sinnlos und Geldverschwendung.
+  - Fordert eine internationale Koordination und Bepreisung von Emissionen.
+  - Sieht den Emissionshandel als prinzipiell sinnvolles Instrument, aber nur, wenn das Ziel der Emissionsreduktion sinnvoll ist.
+  - Kritisiert das BEHG als ökonomisch unsinnig und fordert dessen Abschaffung.
+- **Bundesverband Feuerverzinken - Mark Huxhold**:
+  - Bekennt sich zur Transformation und CO2-Bepreisung als marktwirtschaftliches Instrument, fordert aber die Verbindung von Klimaschutz und industrieller Wettbewerbsfähigkeit.
+  - Begrüßt die Stabilisierung des CO2-Preises im Korridor von 55-65 € für 2027.
+  - Kritisiert zusätzliche Aufschläge beim Überschussmengenpreis und Nachkaufmengenpreis.
+  - Fordert einen wirksamen Carbon-Leakage-Schutz für weitere betroffene Branchen.
+- **EWE AG - Justin Müller**:
+  - Unterstützt die CO2-Bepreisung als marktwirtschaftliches Instrument.
+  - Kritisiert, dass die vorgeschlagenen Änderungen das Beschaffungsrisiko erhöhen, ohne die Knappheit des Systems zu beseitigen.
+  - Hält die Absenkung der Gebotsmenge auf 20% für nicht zielführend, da sie keine zusätzlichen Zertifikate schafft.
+  - Sieht in höheren Nachkaufpreisen keine Lösung für die Knappheit, sondern eine Erhöhung der Risikoprämien.
+  - Warnt vor einer Verknappung durch den Abzug des Zusatzbedarfs 2026 von der Versteigerungsmenge 2027.
+- **Bundesverband Wärmepumpe - Dr. Björn Schreinermacher**:
+  - Sieht die BEHG-Novelle als Berührungspunkt für das Vertrauen in den CO2-Preis und die Finanzierung der Wärmewende.
+  - Hält die Fortführung des Preiskorridors von 55-65 € für falsch und plädiert für eine Anhebung der Obergrenze auf 75 €.
+  - Fordert die frühzeitige Versteigerung von ETS2-Zertifikaten und die Vorlage eines Klimasozialplans.
+  - Bedauert die Begrenzung der Einnahmen im Klima- und Transformationsfonds (KTF) durch das Einfrieren des BEHG.
+- **Forum Ökologisch-Soziale Marktwirtschaft (FÖS) - Florian Zerzari**:
+  - Bewertet die Verlängerung des Preiskorridors von 55-65 € für 2027 kritisch, da sie das CO2-Preissignal schwächt und zu erheblichen Mindereinnahmen im KTF führt.
+  - Begründet dies mit der Abhängigkeit von Emissionsprojektionen, die von höheren CO2-Preisen ausgehen.
+  - Verweist auf die Notwendigkeit gezielter sozialer Entlastungen anstelle von Preisdeckelungen.
+  - Betont die progressive Verteilungswirkung der CO2-Bepreisung und fordert soziale Ausgestaltung.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung beginnt mit der Begrüßung der Teilnehmer und Sachverständigen durch den Vorsitzenden. Er stellt den Tagesordnungspunkt vor: die öffentliche Anhörung zum Entwurf eines Dritten Gesetzes zur Änderung des Brennstoffemissionshandelsgesetzes (BEHG).
+- **[00:01:10](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1m10s)** - **Technische Probleme**: Es treten technische Schwierigkeiten mit der Tonübertragung der zugeschalteten Sachverständigen auf, die jedoch behoben werden können.
+- **[00:02:51](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=2m51s)** - **Organisatorisches zum Ablauf**: Der Vorsitzende erläutert, dass ein Wortprotokoll erstellt wird. Es folgen die Eingangsstatements der Sachverständigen, die jeweils fünf Minuten Redezeit haben, und anschließend Diskussionsrunden.
+- **[00:03:34](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=3m34s)** - **Vorstellung der Sachverständigen**: Die Sachverständigen werden namentlich vorgestellt und ihre Zugehörigkeit zu Fraktionen und Verbänden genannt.
+- **[00:07:37](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=7m37s)** - **Statement Dr. Maximilian Ring (BDW)**: Dr. Ring begrüßt die Fortführung der Korridorphase für 2027 zur Vermeidung von Systemumstellungen. Er kritisiert jedoch, dass das Problem der Überzeichnung von Auktionen fortbesteht und fordert Anpassungen am Auktionsdesign.
+- **[00:10:31](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=10m31s)** - **Statement Inga Tölke (MEW)**: Frau Tölke begrüßt den Entwurf, kritisiert aber die extreme Überzeichnung der Versteigerungen 2026 und die daraus resultierenden Sicherheitsleistungen, die den Mittelstand benachteiligen. Sie fordert regulatorische Eingriffe bei den Sicherheitsleistungen.
+- **[00:13:30](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=13m30s)** - **Statement Matthias Belitz (VCI)**: Herr Belitz hält die Fortführung des Preiskorridors für 2027 für richtig und wichtig. Er kritisiert die Verschiebung des EU ETS2 und fordert eine Stärkung des Carbon-Leakage-Schutzes sowie die Herausnahme der Sonderabfallverbrennung aus dem BEHG.
+- **[00:16:30](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=16m30s)** - **Statement Dr. Bernd Fleischmann (AfD)**: Dr. Fleischmann stellt die wissenschaftlichen Grundlagen der Klimapolitik in Frage und argumentiert, dass natürliche Ursachen und Aerosole eine größere Rolle spielen. Er kritisiert Windkraftanlagen und hält nationale Emissionsreduktionsziele für sinnlos.
+- **[00:20:51](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=20m51s)** - **Statement Prof. Dr. Fritz Söllner (AfD)**: Prof. Söllner betont, dass Klimapolitik globale Lösungen erfordert. Er hält nationale Anstrengungen angesichts des geringen Anteils Deutschlands an den globalen Emissionen für sinnlos und fordert die Abschaffung von BEHG und ETS.
+- **[00:24:49](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=24m49s)** - **Statement Mark Huxhold (Bundesverband Feuerverzinken)**: Herr Huxhold befürwortet die Verbindung von Klimaschutz und industrieller Wettbewerbsfähigkeit. Er kritisiert zusätzliche Aufschläge beim Überschussmengenpreis und fordert einen wirksamen Carbon-Leakage-Schutz.
+- **[00:27:55](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=27m55s)** - **Statement Justin Müller (EWE AG)**: Herr Müller kritisiert, dass die vorgeschlagenen Änderungen das Beschaffungsrisiko erhöhen. Er hält die Absenkung der Gebotsmenge und die Erhöhung der Nachkaufpreise für nicht zielführend und warnt vor Verknappung.
+- **[00:30:35](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=30m35s)** - **Statement Dr. Björn Schreinermacher (Bundesverband Wärmepumpe)**: Dr. Schreinermacher hält die Fortführung des Preiskorridors für falsch und plädiert für eine Anhebung. Er fordert die frühzeitige Versteigerung von ETS2-Zertifikaten und die Einführung eines Klimasozialplans.
+- **[00:33:33](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=33m33s)** - **Statement Florian Zerzari (FÖS)**: Herr Zerzari bewertet die Beibehaltung des Preiskorridors kritisch, da dies zu Mindereinnahmen im Klima- und Transformationsfonds führt und das CO2-Preissignal schwächt. Er fordert gezielte soziale Entlastungen.
+- **[00:36:24](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=36m24s)** - **Erste Fragerunde - CDU/CSU an Dr. Ring (BDW)**: Dr. Geppert (CDU/CSU) fragt Dr. Ring nach den Problemen der Preiserhöhung des Überschussmengenpreises und nach Lösungsvorschlägen zur Erreichung stabiler CO2-Preise.
+- **[00:37:08](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=37m8s)** - **Antwort Dr. Ring (BDW)**: Dr. Ring erklärt, dass die Erhöhung des Überschussmengenpreises kontraproduktiv sei und Anreize für Arbitrage verstärken würde. Er plädiert dafür, den Preis auf 68 € zu belassen.
+- **[00:41:26](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=41m26s)** - **Erste Fragerunde - AfD an Prof. Söllner**: Herr Hilse (AfD) fragt Prof. Söllner, ob das Ziel der Preisstabilisierung im Korridor mit dem Gesetzentwurf erreicht werden könne.
+- **[00:42:00](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=42m0s)** - **Antwort Prof. Söllner (AfD)**: Prof. Söllner verneint dies und erklärt, dass das System eine Fehlkonstruktion sei, da Mengen- und Preisinstrumente inkompatibel seien. Er fordert die Abschaffung des BEHG.
+- **[00:44:09](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=44m9s)** - **Zwischenruf/Klarstellung zur Geschäftsordnung**: Ein Abgeordneter meldet sich zur Geschäftsordnung und kritisiert, dass das Statement von Dr. Fleischmann keinen Bezug zum Thema BEHG gehabt habe.
+- **[00:44:39](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=44m39s)** - **Erste Fragerunde - SPD an Justin Müller (EWE AG)**: Herr Ringard (SPD) fragt Herrn Müller nach den nötigen Änderungen bei der Versteigerungsmenge und der Taktung von Auktionen sowie nach Alternativen für Sicherheitsleistungen.
+- **[00:49:08](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=49m8s)** - **Antwort Justin Müller (EWE AG)**: Herr Müller bejaht die Notwendigkeit alternativer Sicherheitsleistungsinstrumente und betont, dass das Ausfallrisiko abgesichert werden müsse. Er hält die Absenkung der Gebotsmenge auf 20% für abzulehnen.
+- **[00:51:39](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=51m39s)** - **Erste Fragerunde - Grüne an Justin Müller**: Frau Badum (Grüne) fragt Herrn Müller zur 20%-Regelung beim Zugang und zur Versteigerung. Herr Müller lehnt diese Beschränkung ab.
+- **[00:53:09](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=53m9s)** - **Erste Fragerunde - Grüne an Dr. Schreinermacher**: Frau Badum (Grüne) fragt Dr. Schreinermacher nach seiner Einschätzung des Signals der Bundesregierung, Milliardenbeträge aufzugeben, was Öl und Gas verbillige und welche Auswirkungen dies auf die erneuerbaren Energien und die Wärmepumpe habe.
+- **[00:53:33](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=53m33s)** - **Antwort Dr. Schreinermacher**: Dr. Schreinermacher sieht eine falsche Signalwirkung und befürchtet Unsicherheit für Investitionen.
+- **[00:57:03](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=57m3s)** - **Erste Fragerunde - Die Linke an Florian Zerzari**: Dr. Fah (Die Linke) fragt Herrn Zerzari nach der finanziellen Belastung für Haushalte mit geringem Einkommen und dem Stand des sozialen Klimaschutzes.
+- **[00:58:14](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=58m14s)** - **Antwort Florian Zerzari**: Herr Zerzari erklärt, dass die CO2-Bepreisung Haushalte mit niedrigerem Einkommen relativ stärker belastet und fordert gezielte Entlastungen und sozial gestaffelte Förderprogramme.
+- **[01:02:21](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h2m21s)** - **Zweite Fragerunde - CDU/CSU an Inga Tölke (MEW)**: Dr. Geppert (CDU/CSU) fragt Frau Tölke nach der Bewertung der im Gesetzentwurf vorgesehenen Maßnahmen zur Abmilderung des Problems der Sicherheitsleistungen und nach der Ausnahmeregelung für die Landwirtschaft.
+- **[01:03:14](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h3m14s)** - **Antwort Inga Tölke (MEW)**: Frau Tölke begrüßt den Ausschluss von Finanzspekulanten und die Herabsetzung der Gebotsmenge, sieht aber das Thema der Sicherheitsleistung als ungelöst an. Sie fordert eine gesetzliche Regelung zur Anpassung der Sicherheitsleistung an die tatsächliche Zuteilungsquote.
+- **[01:07:23](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h7m23s)** - **Zweite Fragerunde - AfD an Dr. Bernd Fleischmann**: Herr Hannah (AfD) fragt Dr. Fleischmann nach den Ursachen der Temperaturveränderung, anderen Wirkungen von CO2 und der Auswirkung der Netto-Null-Politik.
+- **[01:08:52](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h8m52s)** - **Antwort Dr. Bernd Fleischmann**: Dr. Fleischmann erläutert die Rolle von Schwefeldioxidemissionen und die Auswirkungen von Windparks auf die Temperatur. Er kritisiert das BEHG und ETS als nicht wirksam, solange sie nicht global implementiert seien.
+- **[01:12:31](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h12m31s)** - **Korrektur des Vorsitzenden**: Der Vorsitzende korrigiert sich bezüglich eines Zitats von Friedrich März.
+- **[01:12:39](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h12m39s)** - **Zweite Fragerunde - SPD an Mark Huxhold**: Herr Ringard (SPD) fragt Herrn Huxhold nach der Bedeutung eines Mittelstands-Transformationsfonds und der Planbarkeit des Übergangs zum ETS2.
+- **[01:13:12](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h13m12s)** - **Antwort Mark Huxhold**: Herr Huxhold betont die Notwendigkeit von wirtschaftlichen Rahmenbedingungen für den industriellen Mittelstand und schlägt einen "Mittelstand-Transformationsfonds" vor.
+- **[01:14:39](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h14m39s)** - **Zwischenfrage/Diskussion zur Politik der Bundesregierung**: Frau Badum (Grüne) hinterfragt die Konsistenz der Politik der Bundesregierung, wenn einerseits auf Markt gesetzt werde und andererseits das Marktsignal durch Preisabsenkungen geschwächt werde.
+- **[01:17:31](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h17m31s)** - **Zweite Fragerunde - Grüne an Dr. Schreinermacher**: Frau Badum (Grüne) fragt Dr. Schreinermacher nach der Stimmung in der Wärmepumpenbranche bezüglich des Signals der Bundesregierung und den befürchteten Auswirkungen auf Mitarbeiter.
+- **[01:19:09](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h19m9s)** - **Zweite Fragerunde - Grüne an Florian Zerzari**: Frau Badum (Grüne) fragt Herrn Zerzari, ob die Bundesregierung genug tue, um Mittel für den Klimasozialfonds abzurufen und ob mehr für Menschen aus geringen Einkommensschichten passieren könne.
+- **[01:20:50](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h20m50s)** - **Antwort Florian Zerzari**: Herr Zerzari schlägt eine sozialere Staffelung von Förderprogrammen im KTF vor und kritisiert die hohen Einkommensgrenzen bei der E-Auto-Förderung.
+- **[01:21:11](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h21m11s)** - **Nachfrage zur Politik der Bundesregierung**: Herr Dr. Fah (Die Linke) und Frau Badum (Grüne) erkundigen sich nach den Auswirkungen der 4 Milliarden Euro Mindereinnahmen im KTF.
+- **[01:21:38](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h21m38s)** - **Antwort Dr. Schreinermacher**: Dr. Schreinermacher äußert Sorge, dass die Maßnahmen, die für die soziale Wärmewende entscheidend sind, in Frage gestellt werden könnten.
+- **[01:23:39](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h23m39s)** - **Dritte Fragerunde - Die Linke an Florian Zerzari**: Dr. Fah (Die Linke) fragt Herrn Zerzari, was getan werden müsse, um die Ungerechtigkeit des Systems auszugleichen, z.B. durch Rückvergütungen oder Änderungen im KTF.
+- **[01:24:03](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h24m3s)** - **Antwort Florian Zerzari**: Herr Zerzari schlägt vor, den Ausstieg aus Öl und Gas anzureizen und die Förderung sozial zu staffeln, z.B. durch einen Mietwohnbonus oder ein Klimageld.
+- **[01:28:41](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h28m41s)** - **Dritte Fragerunde - CDU/CSU an Matthias Belitz (VCI)**: Dr. Geppert (CDU/CSU) fragt Herrn Belitz nach notwendigen Maßnahmen für die Wettbewerbsfähigkeit im Zusammenhang mit der Carbon-Leakage-Verordnung, nach der Sachgerechtigkeit der CO2-Bepreisung für Sonderabfallverbrennungsanlagen und nach Gründen gegen die Erhöhung des Überschuss- und Nachkaufmengenpreises.
+- **[01:29:37](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h29m37s)** - **Antwort Matthias Belitz (VCI)**: Herr Belitz fordert eine Erhöhung des Kompensationsgrades im Carbon-Leakage-Schutz und kritisiert die Anwendung der EU ETS-Berechnungslogik auf nationale Gegebenheiten. Er argumentiert, dass Sonderabfallverbrennungsanlagen nicht ins BEHG gehörten.
+- **[01:33:46](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h33m46s)** - **Dritte Fragerunde - AfD an Prof. Söllner**: Herr Hilse (AfD) bittet Prof. Söllner um eine Einschätzung zur Sinnhaftigkeit, einzelne Branchen mit Förderfonds zu entlasten.
+- **[01:35:09](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h35m9s)** - **Antwort Prof. Söllner (AfD)**: Prof. Söllner kritisiert die Messung des Erfolgs des BEHG anhand von Einnahmen und verweist auf steigende globale Emissionen. Er hält die vorgeschlagene Maßnahme für eine Abkehr von der sozialen Marktwirtschaft hin zur Planwirtschaft und fordert die Abschaffung des BEHG.
+- **[01:38:48](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h38m48s)** - **Dritte Fragerunde - SPD an Mark Huxhold**: Herr Ringard (SPD) bittet Herrn Huxhold, die Bedeutung eines Mittelstands-Transformationsfonds nochmals kurz herauszustellen.
+- **[01:39:01](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h39m1s)** - **Antwort Mark Huxhold**: Herr Huxhold betont, dass der vorgeschlagene Fonds für den gesamten Mittelstand gedacht sei und eine Kombination aus Investitionen, Zuschüssen, Bürgschaften und Darlehen beinhalten solle.
+- **[01:43:39](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h43m39s)** - **Dritte Fragerunde - Grüne an Dr. Schreinermacher**: Frau Badum (Grüne) fragt Dr. Schreinermacher nach der Stimmung in der Wärmepumpenbranche bezüglich des Signals der Bundesregierung und den Auswirkungen auf Mitarbeiter.
+- **[01:45:29](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h45m29s)** - **Antwort Dr. Schreinermacher**: Dr. Schreinermacher wiederholt, dass die politischen Eingriffe in den CO2-Preis Unruhe verursachen und die Glaubwürdigkeit der Politik beeinträchtigen.
+- **[01:48:41](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h48m41s)** - **Abschluss der Debatte**: Herr Dr. Fah (Die Linke) fragt Herrn Zerzari nach den negativen Auswirkungen des Gesetzentwurfs auf den KTF und die sozial ausgerichteten Programme.
+- **[01:49:05](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h49m5s)** - **Antwort Florian Zerzari**: Herr Zerzari beziffert die Mindereinnahmen im KTF auf ca. 4 Milliarden Euro und kritisiert die fehlende Transparenz bezüglich der betroffenen Programme.
+- **[01:53:45](https://www.youtube.com/watch?v=eiXHv0TwwMU&t=1h53m45s)** - **Schlusswort**: Der Vorsitzende bedankt sich bei den Sachverständigen und schließt die öffentliche Anhörung. Die Abgeordneten tagen im Anschluss nicht-öffentlich.

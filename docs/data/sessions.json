@@ -1,5 +1,18 @@
 [
   {
+    "id": "XyU_L60A7xA",
+    "title": "98. Sitzung des Bundestages – LIVE",
+    "session": 98,
+    "date": "2026-10-08",
+    "top": "N/A",
+    "topic": "98. Sitzung des Bundestages",
+    "summary_path": "protocols/session_98/top_unknown_98_sitzung_des_bundestages_live.md",
+    "documents_path": "protocols/session_98/top_unknown_98_sitzung_des_bundestages_live_documents.json",
+    "speakers_path": "protocols/session_98/top_unknown_98_sitzung_des_bundestages_live_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=XyU_L60A7xA",
+    "processed_at": "2026-10-09T08:05:38.471772"
+  },
+  {
     "id": "ja7lEpHxcFQ",
     "title": "Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
     "session": 0,
@@ -11,6 +24,58 @@
     "speakers_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_bildung_familie_senioren_frauen_und_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=ja7lEpHxcFQ",
     "processed_at": "2026-10-08T08:05:43.816710"
+  },
+  {
+    "id": "f02wh6fsRpU",
+    "title": "Jüdische Gegenwartsforschung",
+    "session": 0,
+    "date": "2026-10-08",
+    "top": "N/A",
+    "topic": "Jüdische Gegenwartsforschung",
+    "summary_path": "protocols/session_unknown/top_unknown_juedische_gegenwartsforschung.md",
+    "documents_path": "protocols/session_unknown/top_unknown_juedische_gegenwartsforschung_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=f02wh6fsRpU",
+    "processed_at": "2026-10-09T08:02:34.489241"
+  },
+  {
+    "id": "eiXHv0TwwMU",
+    "title": "Anhörung zum Brennstoffemissionshandelsgesetz (BEHG)",
+    "session": 0,
+    "date": "2026-10-08",
+    "top": "N/A",
+    "topic": "Anhörung zum Brennstoffemissionshandelsgesetz (BEHG)",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_zum_brennstoffemissionshandelsgesetz_beh.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=eiXHv0TwwMU",
+    "processed_at": "2026-10-09T08:03:09.415575"
+  },
+  {
+    "id": "TkqdG9yskCU",
+    "title": "Experten üben heftige Kritik am Redispatch-Vorbehalt",
+    "session": 0,
+    "date": "2026-10-08",
+    "top": "N/A",
+    "topic": "Experten üben heftige Kritik am Redispatch-Vorbehalt",
+    "summary_path": "protocols/session_unknown/top_unknown_experten_ueben_heftige_kritik_am_redispatch_vorbeh.md",
+    "documents_path": "protocols/session_unknown/top_unknown_experten_ueben_heftige_kritik_am_redispatch_vorbeh_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_experten_ueben_heftige_kritik_am_redispatch_vorbeh_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=TkqdG9yskCU",
+    "processed_at": "2026-10-09T08:04:34.230582"
+  },
+  {
+    "id": "u6DkmZs2ryw",
+    "title": "Fachgespräch zum Thema \"Zukunft der Arbeit\"",
+    "session": 0,
+    "date": "2026-10-08",
+    "top": "N/A",
+    "topic": "Fachgespräch zur Zukunft der Arbeit",
+    "summary_path": "protocols/session_unknown/top_unknown_fachgespraech_zum_thema_zukunft_der_arbeit.md",
+    "documents_path": "protocols/session_unknown/top_unknown_fachgespraech_zum_thema_zukunft_der_arbeit_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=u6DkmZs2ryw",
+    "processed_at": "2026-10-09T08:06:11.865410"
   },
   {
     "id": "xGCOUq0nVJk",
@@ -6596,6 +6661,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=HRfZduvA8HU",
     "processed_at": "2026-10-08T08:04:44.621450"
+  },
+  {
+    "id": "V-ozlkqDOyM",
+    "title": "Associations praise planned relief in public health insurance austerity package",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Verbände begrüßen geplante Erleichterungen im Spardiktat der gesetzlichen Krankenversicherung",
+    "summary_path": "protocols/session_unknown/top_unknown_associations_praise_planned_relief_in_public_healt.md",
+    "documents_path": "protocols/session_unknown/top_unknown_associations_praise_planned_relief_in_public_healt_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=V-ozlkqDOyM",
+    "processed_at": "2026-10-09T08:01:15.886995"
   },
   {
     "id": "vHNXQug-Frc",

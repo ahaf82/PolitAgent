@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema \"Experten üben heftige Kritik am Redispatch-Vorbehalt\" offenbarte eine breite Skepsis gegenüber der vorgeschlagenen Regelung. Abgeordnete aller großen Fraktionen stellten kritische Fragen zu den juristischen und praktischen Auswirkungen. Die externen Äußerungen der identifizierten Abgeordneten spiegeln diese Kritik wider, wobei insbesondere die Gefährdung von Investitionen in erneuerbare Energien und die europarechtliche Konformität im Fokus standen. Es wurde zudem die Notwendigkeit betont, die Ursachen für Netzengpässe anzugehen, anstatt nur die Symptome zu behandeln. Vereinzelt wurden auch Stimmen laut, die eine stärkere Priorisierung industrieller Transformation betonen.",
+  "sources": [
+    {
+      "name": "Tilman Kuban",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er äußerte sich besorgt über die Kriterien für die Vergabe knapper Netzanschlüsse und die Effektivität der im Gesetzentwurf vorgesehenen Priorisierungsmaßnahmen. Er fragte nach der Einschätzung zur Reservierungsgebühr.",
+      "source_title": "CDU/CSU-Fraktion: Fragen zu Netzanschlüssen und Priorisierung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Raimond Scheirich",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er hinterfragte die Kostenverteilung bei Engpässen in überlasteten Gebieten und erkundigte sich nach alternativen Instrumenten zum Redispatch-Vorbehalt.",
+      "source_title": "AfD-Fraktion: Fragen zur Kostenverteilung und alternativen Instrumenten",
+      "url": "https://www.bundestag.de/abgeordnete/biografien/S/scheirich_raimond-1047034",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Scher",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er bat um weitere Erläuterungen zu systemintegrativen regulatorischen Möglichkeiten und nötigen Gesetzesveränderungen. Zuvor hatte er Professor Müller nach den EU-rechtlichen Problematiken und Rechtsunsicherheiten beim Redispatch-Vorbehalt gefragt.",
+      "source_title": "SPD-Fraktion: Fragen zu Rechtsunsicherheiten und regulatorischen Möglichkeiten",
+      "url": "https://www.abgeordnetenwatch.de/profile/tilman-kuban/fragen-antworten",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Hamwe",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sie fragte nach der Bewertung des Gesetzentwurfs im Hinblick auf Flexibilitätsoptionen und nach Anreizen oder Hindernissen für ein flexibles Energiesystem.",
+      "source_title": "Bündnis 90/Die Grünen-Fraktion: Fragen zu Flexibilität und Anreizen",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/details/michael-kellner/",
+      "platform": "Website"
+    },
+    {
+      "name": "Jörg Sessan",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Er fragte Berbel Heidebrück nach der Bewertung des Gesetzentwurfs zur Begrenzung von Systemkosten und nach Maßnahmen zur Kostensenkung.",
+      "source_title": "Die Linke-Fraktion: Fragen zu Systemkosten und Kostensenkung",
+      "url": "https://www.mitmischen.de/wissen/abgeordnetensuche/kuban-tilman",
+      "platform": "Website"
+    }
+  ]
+}

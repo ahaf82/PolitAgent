@@ -1,0 +1,95 @@
+{
+  "synthesis": "Die analysierten externen Äußerungen der Abgeordneten zum Thema der 98. Bundestagsdebatte zeigen ein breites Spektrum an Positionen. Während die SPD und Bündnis 90/Die Grünen die wirtschaftliche Erholung und die Notwendigkeit von Reformen sowie Klimaschutz betonen, kritisiert die AfD die Regierungspolitik scharf, insbesondere bei Energiepreisen und Steuern. Die CDU/CSU unterstützt die wirtschaftlichen Ziele, fordert aber eine klare Linie bei der Ukraine-Politik. Die Linke kritisiert die Regierungsausgaben und fordert eine stärkere Unterstützung für Arbeitnehmer und Verbraucher.",
+  "sources": [
+    {
+      "name": "Holm",
+      "party": "AfD",
+      "found": false,
+      "statement": "Holm kritisiert die Regierung für neue Steuern und fordert eine Senkung der Energiesteuer sowie die Abschaffung der CO2-Abgabe. Er bezweifelt die Effektivität von Korridorsanierungen bei der Bahn und plädiert für Kernenergie und Kohleverstromung.",
+      "source_title": "Schutz von geheimen Informationen - AfD-Spitzenkandidat Holm tritt Vorwürfen wegen Russland-Nähe entgegen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm fordert einen Neuanfang in der Energie- und Wirtschaftspolitik und kritisiert die aktuelle Politik scharf.",
+      "source_title": "Enough is enough! Leif-Erik Holm demands a fresh start in energy and economic policy! - AfD. @AfDFraktionimBundestag",
+      "url": "https://www.youtube.com/watch?v=fT4qRkX8V6k",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Holm",
+      "party": "AfD",
+      "found": false,
+      "statement": "Holm wird in einem internen Papier seines Wahlkampfmanagements nach der Wahl in Mecklenburg-Vorpommern kritisiert, wobei ihm vorgeworfen wird, sich aus der Wahlkampfplanung zurückgezogen zu haben und unrealistische Ziele ausgegeben zu haben.",
+      "source_title": "„Absolutes Desaster“: Dieses Dokument bringt Holm nach AfD-Sieg in Erklärungsnot",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rolfs",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Brossart",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Victoria Brossart kritisiert die Kürzung von Mitteln für den Nahverkehr bei gleichzeitiger Finanzierung des Tankrabatts und hinterfragt den Widerspruch zwischen Tankrabatt und den Kosten für das Deutschlandticket.",
+      "source_title": "Victoria Brossart MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Lenz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Andreas Lenz betont die Notwendigkeit, die eigene Verteidigungsfähigkeit zu stärken und unterstützt den Ausbau der Elektromobilität sowie die Ladeinfrastruktur, insbesondere für den Schwerlastverkehr.",
+      "source_title": "Dr. Andreas Lenz | CDU·CSU-Fraktion",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Lenz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Andreas Lenz spricht sich gegen staatliche Eingriffe aus und betont die Wichtigkeit von marktwirtschaftlichen Prinzipien.",
+      "source_title": "CSU-Wirtschaftspolitiker Lenz spricht sich gegen staatliche Eingriffe aus - Deutschlandfunk",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Wissler",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Janine Wissler kritisiert die Bundesregierung für die Ausgaben für PR und hinterfragt die Logik der Gasabhängigkeit gegenüber Stromimporten. Sie fordert eine stärkere Förderung von pflanzlichen Proteinen und eine Angleichung der Mehrwertsteuersätze.",
+      "source_title": "Rede von Janine Wissler am 08.09.2026 - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Wissler",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Janine Wissler kritisiert die hohen Energiepreise und die Gewinne der Mineralölkonzerne und fordert eine konsequente Abschöpfung von Übergewinnen, während die Bundesregierung stattdessen den Tankrabatt neu auflege.",
+      "source_title": "Rede von Janine Wissler am 24.09.2026 - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Wele",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
