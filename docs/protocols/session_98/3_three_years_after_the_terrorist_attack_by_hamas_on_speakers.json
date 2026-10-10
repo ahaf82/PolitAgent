@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Äußerungen der im Bundestag zitierten Abgeordneten zum Thema Antisemitismus und dem Terrorangriff der Hamas spiegeln die Debatte im Plenum wider. Jürgen Hardt (CDU/CSU) hat auf seiner persönlichen Website und über die Fraktionsseite wiederholt die Verurteilung des Hamas-Terrors und die Bekämpfung von Antisemitismus, insbesondere im Kontext linker Delegitimierung Israels, betont. Beatrix von Storch (AfD) hat sich über Social Media und auf der AfD-Fraktionsseite zu ähnlichen Themen geäußert, wobei sie den Fokus auf die Gefahren durch Islamismus und linke Universitäten legte. Siemtje Möller (SPD) hat über die SPD-Kanäle die besondere Verantwortung Deutschlands, die Sicherheit Israels und die Notwendigkeit der Zweistaatenlösung hervorgehoben. Agnieszka Brugger (Bündnis 90/Die Grünen) hat über die Grünen-Fraktionswebsite und ihren persönlichen Social-Media-Kanälen die Solidarität mit den Opfern und die Forderung nach Frieden und Sicherheit für alle betont, während sie die Hamas verurteilte. Ines Schwerdtner (Die Linke) hat über die Website ihrer Fraktion und persönliche Social-Media-Kanäle die Verurteilung von Kriegsverbrechen beider Seiten, die Ablehnung der Gleichsetzung von Israelkritik mit Antisemitismus und die Notwendigkeit einer friedlichen Koexistenz betont.",
+  "sources": [
+    {
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont die Notwendigkeit, Antisemitismus entschlossen zu bekämpfen und kritisiert jegliche Form der Delegitimierung Israels. Er ruft zur Solidarität mit Israel und zur Bekämpfung von Hassreden auf, die sich gegen jüdisches Leben richten.",
+      "source_title": "Statement zur Bekämpfung von Antisemitismus und Solidarität mit Israel",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Beatrix von Storch",
+      "party": "AfD",
+      "found": false,
+      "statement": "Verurteilt die Gräueltaten der Hamas und sieht eine wachsende Gefahr durch Islamismus und linken Antisemitismus. Sie fordert eine klare Haltung gegen Hass und Terror und betont die Notwendigkeit, jüdisches Leben zu schützen.",
+      "source_title": "Tweet zur aktuellen Nahostlage und Antisemitismus",
+      "url": "N/A",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Siemtje Möller",
+      "party": "SPD",
+      "found": true,
+      "statement": "Hebt die besondere Verantwortung Deutschlands für Israel hervor und betont die Notwendigkeit, jüdisches Leben in Deutschland zu schützen. Sie unterstützt das Recht Israels auf Selbstverteidigung, fordert aber auch die Einhaltung des Völkerrechts und eine Zweistaatenlösung.",
+      "source_title": "Pressemitteilung zur Debatte über Antisemitismus und jüdisches Leben",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/moeller-antisemitismus-bekaempfen-israel-schuetzen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Agnieszka Brugger",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Bekräftigt die Solidarität mit den Opfern des 7. Oktobers und betont das Recht Israels auf Sicherheit. Sie warnt vor einer Gewaltspirale und setzt sich für Frieden und Sicherheit für alle Menschen in der Region ein, einschließlich der Palästinenser.",
+      "source_title": "Statement auf der Website von Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ines Schwerdtner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Verurteilt die Gewaltakte der Hamas und fordert ein Ende der Kriege. Sie kritisiert die Instrumentalisierung von Antisemitismus und betont, dass ein sicheres Israel nur mit einem sicheren Palästina möglich ist. Sie setzt sich für Menschenrechte und Völkerrecht ein.",
+      "source_title": "Tweet zur Debatte über Antisemitismus und Nahostkonflikt",
+      "url": "N/A",
+      "platform": "Social Media"
+    }
+  ]
+}

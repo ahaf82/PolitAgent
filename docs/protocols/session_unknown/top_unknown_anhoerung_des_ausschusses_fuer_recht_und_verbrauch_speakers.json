@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Analyse der externen Äußerungen der in der Anhörung identifizierten Abgeordneten zum Thema IP-Adressenspeicherung und Datenerhebung im Strafverfahren zeigt unterschiedliche Schwerpunkte und Bedenken. Während einige Abgeordnete die Notwendigkeit für die Strafverfolgung betonen und Erleichterungen bei der Gefahrenabwehr fordern, äußern andere Bedenken hinsichtlich des Grundrechtsschutzes, der technischen Machbarkeit und der unionsrechtlichen Konformität. Insbesondere die Auswirkungen auf Berufsgeheimnisse und die Gefahr der Datenverknüpfung werden von mehreren Seiten kritisch beleuchtet, was auf einen fortwährenden Diskussionsbedarf hindeutet.",
+  "sources": [
+    {
+      "name": "Dr. Sebastian Schäfer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Schäfer äußerte sich kritisch zur IP-Speicherung und betonte die Notwendigkeit von Grundrechtsschutz. Er verknüpfte die Debatte mit der Notwendigkeit, die Rechte von Journalisten und Informanten im digitalen Raum zu stärken. Er vertrat die Ansicht, dass der aktuelle Entwurf die Anforderungen des EuGH an klare Regeln und wirksame Garantien nicht erfülle.",
+      "source_title": "Anhörung des Ausschusses für Recht und Verbraucherschutz: Gesetzentwurf zur IP-Adressenspeicherung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Alexandra Fiedler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Frau Fiedler stellte gezielte Fragen zu den Auswirkungen des Entwurfs auf Berufsgeheimnisträger und die Vereinbarkeit der Sicherungsanordnung mit der EMFA. Sie erkundigte sich nach der Relevanz des Berufsgeheimnisschutzes bei der Sicherungsanordnung und der Einbeziehung des gewerblichen Betrugs in die Neuregelung.",
+      "source_title": "Anhörung des Ausschusses für Recht und Verbraucherschutz: Protokoll",
+      "url": "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/F/funke_fabian-861290",
+      "platform": "Presse"
+    },
+    {
+      "name": "Till Steffen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Herr Steffen thematisierte die Problematik der eigenständigen Grundrechtsabwägung im Entwurf und die Gefahr der Datenverknüpfung, die sensible Lebensumstände offenlegen könne. Er hob hervor, dass der Entwurf über die IP-Adressenspeicherung hinausgehe und insbesondere bei Funkzellen- und Standortabfragen kritisch zu betrachten sei.",
+      "source_title": "Anhörung des Ausschusses für Recht und Verbraucherschutz: Gesetzentwurf zur IP-Adressenspeicherung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jürgen Müller",
+      "party": "SPD",
+      "found": true,
+      "statement": "Herr Müller fragte nach der Notwendigkeit der Länderöffnungsklausel für die Gefahrenabwehr im Zusammenspiel mit dem Bund und zur Unbestimmtheit des Begriffs \"Rechtsgut von erheblichem Gewicht\" im Entwurf. Seine Fragen zielten auf die praktische Umsetzbarkeit und die Abgrenzung von Zuständigkeiten ab.",
+      "source_title": "Anhörung des Ausschusses für Recht und Verbraucherschutz: Protokoll",
+      "url": "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/F/funke_fabian-861290",
+      "platform": "Presse"
+    },
+    {
+      "name": "Renata Alt",
+      "party": "FDP",
+      "found": true,
+      "statement": "Frau Alt erkundigte sich nach der Vereinbarkeit der Sicherungsanordnung mit der EMFA und forderte einen Richtervorbehalt zur Gewährleistung wirksamer gerichtlicher Kontrolle. Sie äußerte Bedenken hinsichtlich der Öffnung der Sicherungsanordnung für Verfassungsschutzbehörden.",
+      "source_title": "Anhörung des Ausschusses für Recht und Verbraucherschutz: Gesetzentwurf zur IP-Adressenspeicherung",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

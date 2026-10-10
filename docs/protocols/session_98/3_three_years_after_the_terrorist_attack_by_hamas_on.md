@@ -1,0 +1,69 @@
+# Drei Jahre nach dem Terrorangriff der Hamas auf Israel: Antisemitismus entschlossen bekämpfen, jüdisches Leben in Deutschland schützen
+
+## Sitzungs-Metadaten
+- **Sitzung:** 98. Sitzung
+- **Datum:** 2026-10-07
+- **Tagesordnungspunkt (TOP):** 3
+- **Originaltitel:** 98th Session on 10/07/2026. Agenda Item 3: Three years after the terrorist attack by Hamas on Israel
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=sC5SJyORmAw)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag drei Jahre nach dem Terrorangriff der Hamas auf Israel thematisierte die anhaltende Bedrohung durch Antisemitismus und die Notwendigkeit, jüdisches Leben in Deutschland zu schützen. Die Fraktionen bekräftigten die Verpflichtung Deutschlands aus der historischen Verantwortung für den Holocaust und betonten das Recht Israels auf Selbstverteidigung. Ein zentraler Streitpunkt war die Interpretation von Kritik an der israelischen Regierung und die Abgrenzung zu antisemitischen Aussagen. Die Debatte umfasste auch die humanitäre Lage in Gaza und die Forderung nach einer politischen Lösung, die beiden Völkern ein friedliches Leben ermöglicht.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Unionsfraktion (CDU/CSU)**:
+  - Der 7. Oktober 2023 wird als größtes Massaker an jüdischen Menschen seit dem Holocaust bezeichnet; das Gedenken an die Opfer und Solidarität mit ihren Angehörigen stehen im Vordergrund.
+  - Die Botschaft dieses Tages ist "Nie wieder!", verbunden mit der Forderung, dass Jüdinnen und Juden in Israel und Deutschland keine Angst mehr haben müssen.
+  - Äußerungen, die den Staat Israel als "genozidalen Apartheidsstaat" bezeichnen, werden als klar antisemitisch und als moralische Rechtfertigung für die Vernichtung Israels verurteilt.
+  - Es wird eine klare Trennung von legitimer Kritik an der israelischen Politik und antisemitischen Äußerungen gefordert.
+  - Die Unionsfraktion betont die Notwendigkeit, den importierten Antisemitismus, insbesondere im Zusammenhang mit Migration, anzugehen und klare Grenzen zu ziehen.
+  - Die Koalition mit Parteien, die den Hamas-Freunden nahestehen, wird als Verlust des moralischen Kompasses betrachtet.
+  - Die Union betont, dass ein Besuch in Israel für diejenigen, die islamistische Organisationen verharmlosen, empfehlenswert sei.
+
+- **AfD-Fraktion**:
+  - Der 7. Oktober wird als furchtbarer Massenmord an Juden seit dem Holocaust eingestuft.
+  - Es wird argumentiert, dass Muslime im Westen oft nicht gegen den Missbrauch ihres Glaubens protestierten, sondern sich mit der Hamas solidarisierten.
+  - Die AfD sieht die Brutstätten des neuen Antisemitismus an linken Universitäten und kündigt Maßnahmen an, um dies zu ändern.
+  - Die Ablehnung der Militäroperation in Gaza aus humanitären oder pazifistischen Gründen wird als nicht antisemitisch eingestuft, im Gegensatz zur Politik der Linken, die mit Gazaprotesten den "islamischen Mob" mobilisiere.
+  - Die AfD wirft der Linken vor, auf eine "judenfeindliche Welle" zu setzen und dass dort, wo die Linke gewinne, Juden Angst haben müssten.
+  - Die AfD sieht sich als Teil eines "rechtskonservativen Blocks" in Europa, der sich dem "islamo-sozialistischen Block" entgegenstelle und durch dessen Machtübernahme jüdisches Leben wieder sicher sei.
+
+- **SPD-Fraktion**:
+  - Der 7. Oktober 2023 wird als Zäsur in der Geschichte Israels und Europas beschrieben, die die Zeit in ein Davor und Danach teilt.
+  - Die israelische Bevölkerung habe nach dem Angriff und der Geiselhaft das Gefühl von Sicherheit und Unverletzlichkeit verloren.
+  - Deutschland sei dem Schutz Israels aufgrund der kollektiven Verantwortung für den Holocaust besonders verpflichtet.
+  - Das Völkerrecht gewährt Israel das Recht auf Selbstverteidigung, setzt aber auch humanitäre Grenzen, deren Verletzung energisch bekämpft werden müsse, auch gegenüber der israelischen Regierung.
+  - Die Zweistaatenlösung wird als einziger Weg für Israels dauerhafte Sicherheit und ein Leben in Freiheit für Palästinenser betrachtet.
+  - Die SPD äußert Sorge über die Zunahme antisemitischer Vorfälle in Deutschland seit dem 7. Oktober und betont, dass Deutschland ein Ort sein müsse, an dem jüdisches Leben sicher, frei und sichtbar sein könne.
+  - Die Sicherheit Israels und der Schutz des Staates, der jüdisches Leben schütze, seien maßgeblich.
+
+- **Bündnis 90/Die Grünen**:
+  - Der 7. Oktober 2023 wird als Tag der Verbrechen der Hamas bezeichnet, dessen Schmerz nicht relativiert werden dürfe, insbesondere im Land der Shoah.
+  - Die Debatte wird teilweise als verstörend und unpassend empfunden, da das Gedenken an die Opfer im Vordergrund stehen solle.
+  - Die Empathie mit den Opfern und das Bekenntnis zur Sicherheit Israels als Heimstätte für Jüdinnen und Juden werden betont.
+  - Das eiskalte Kalkül der Hamas, eine Gewaltspirale auszulösen, um Israel zu isolieren und Gesellschaften zu spalten, wird kritisiert.
+  - Das unermessliche Leid in Gaza wird thematisiert und mit der Verantwortung für die Menschen dort verbunden.
+  - Es wird klargestellt, dass die Sicherheit der einen Seite nicht ohne die Sicherheit der anderen geben kann und Leid nicht aufgewogen werden dürfe.
+  - Die Verherrlichung von Terror und antisemitische Flammen, die Deutschland und Europa in Brand gesetzt haben, werden scharf verurteilt.
+  - Hinter den Opferzahlen stehen Menschen, und alle Kinder in Israel und Palästina hätten ein Recht auf ein Leben in Frieden, Würde und Sicherheit.
+
+- **Die Linke**:
+  - Die Aussagen von Abgeordneten werden als Verpflichtung zur Verteidigung der Verfassung, Menschenrechte und des Völkerrechts interpretiert.
+  - Es wird kritisiert, dass die israelische Regierung den Genozid an Palästinensern nicht thematisiere.
+  - Die Gleichsetzung des israelischen Staates mit dem Judentum wird als antisemitisch zurückgewiesen.
+  - Es wird betont, dass das Massaker der Hamas vom 7. Oktober ein Kriegsverbrechen und Verbrechen gegen die Menschlichkeit sei, das nichts rechtfertige.
+  - Gleichzeitig wird betont, dass Netanjahus Kriegsverbrechen und der Völkermord in Gaza ebenso nicht gerechtfertigt seien.
+  - Die Instrumentalisierung von Antisemitismus als politische Waffe wird kritisiert und als Schutz für keine Jüdin und keinen Juden in Deutschland betrachtet.
+  - Ein sicheres, freies Israel könne es nur geben, wenn es auch ein sicheres, freies Palästina gebe.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=sC5SJyORmAw&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Vizepräsidentin eröffnet die 98. Sitzung des Deutschen Bundestages und die Aussprache zum TOP 3: "Drei Jahre nach dem terroristischen Überfall der Hamas auf Israel – Antisemitismus entschlossen bekämpfen, jüdisches Leben in Deutschland schützen." Die Dauer der Aussprache wird auf 30 Minuten festgelegt. Sie begrüßt den israelischen Botschafter Ron Prosor.
+- **[01:25](https://www.youtube.com/watch?v=sC5SJyORmAw&t=1m25s)** - **Jürgen Hardt (CDU/CSU)**: Er bezeichnet den 7. Oktober 2023 als größtes Massaker an jüdischen Menschen seit dem Holocaust, bei dem mindestens 1.200 Menschen ihr Leben verloren. Er berichtet von Gesprächen mit Angehörigen von Überlebenden und Opfern, die extreme Strapazen erlitten haben. Er betont die Botschaft "Nie wieder!" und kritisiert eine Abgeordnete der Linken für ihre Aussagen, die er als antiisraelisch und antisemitisch einstuft, insbesondere die Bezeichnung Israels als "genozidalen Apartheidsstaat". Er fordert die Linkenfraktion auf, sich von dieser Abgeordneten zu distanzieren und sie aus ihren Reihen auszuschließen.
+- **[05:55](https://www.youtube.com/watch?v=sC5SJyORmAw&t=5m55s)** - **Julia Köktürk (Die Linke) - Kurzintervention**: Sie verteidigt ihre Position, indem sie auf ihre Verpflichtung, sich hinter Verfassung, Menschenrechte und Völkerrecht zu stellen, verweist. Sie wirft Hardt vor, den Genozid der israelischen Regierung an Palästinensern nicht zu erwähnen und lehnt dessen Vorwürfe der Antisemitismus ab. Sie kritisiert die Gleichsetzung mit der AfD.
+- **[07:25](https://www.youtube.com/watch?v=sC5SJyORmAw&t=7m25s)** - **Jürgen Hardt (CDU/CSU) - Antwort auf Kurzintervention**: Er wiederholt seine Kritik und spricht von einem wiederkehrenden Muster, bei dem Antisemitismus als legitime Kritik an der israelischen Politik verkleidet werde. Er verweist auf einen Anschlag auf eine Synagoge in Wuppertal als Beispiel für die Verknüpfung von Kritik an Israel mit der Wendung gegen Juden. Er bekräftigt das Recht Israels auf ein freies Leben in einem durch Völkerrecht abgesicherten Staat und sieht in der Infragestellung des Existenzrechts Israels einen Verstoß gegen Recht und Gesetz.
+- **[08:31](https://www.youtube.com/watch?v=sC5SJyORmAw&t=8m31s)** - **Beatrix von Storch (AfD)**: Sie beschreibt die Hamas-Massaker als schlimmsten Mord an Juden seit dem Holocaust. Sie nennt drei Punkte: die Notwendigkeit militärischer Grenzsicherung Israels, die Solidarisierung vieler Muslime im Westen mit der Hamas und die Brutstätten des neuen Antisemitismus an linken Universitäten. Sie kündigt an, dass die AfD, falls sie Bildungsminister stelle, "diesen Sumpf trockenlegen" werde. Sie unterscheidet legitime Kritik an der Militäroperation in Gaza von der Politik der Linken, die sie als "abschaulich" bezeichnet und der sie vorwirft, den islamischen Mob zu mobilisieren und damit Judenfeindlichkeit zu fördern. Sie zitiert Äußerungen von Abgeordneter Köktürk als Beleg für die Nähe der Linken zu Terroristen.
+- **[16:10](https://www.youtube.com/watch?v=sC5SJyORmAw&t=16m10s)** - **Siemtje Möller (SPD)**: Sie schildert die Ereignisse des 7. Oktober 2023 mit dem Beginn von Raketenalarmen und dem Überfall auf Kibbuzim als "Hölle auf Erden". Sie thematisiert die Massaker, Vergewaltigungen, Morde und die Verschleppung von Geiseln. Sie betont die besondere Verpflichtung Deutschlands für den Schutz Israels, gewachsen aus der Verantwortung für den Holocaust, und die universelle Geltung des Völkerrechts. Sie bekräftigt das Recht Israels auf Selbstverteidigung, aber auch die Notwendigkeit humanitärer Grenzen und die Forderung nach einer Zweistaatenlösung. Sie beklagt die Zunahme antisemitischer Vorfälle in Deutschland und fordert, dass Deutschland ein Ort jüdischen Lebens sein müsse.
+- **[22:31](https://www.youtube.com/watch?v=sC5SJyORmAw&t=22m31s)** - **Agnieszka Brugger (Bündnis 90/Die Grünen)**: Sie gedenkt der Opfer des 7. Oktober und betont, dass der Schmerz niemals relativiert werden dürfe, besonders in Deutschland. Sie kritisiert Teile der Debatte als unpassend, da das Gedenken im Mittelpunkt stehen solle. Sie bekräftigt die Solidarität mit den Opfern und das Bekenntnis zur Sicherheit Israels. Sie kritisiert das eiskalte Kalkül der Hamas, eine Gewaltspirale auszulösen, und bedauert, dass dieser Plan aufzugehen drohe. Sie thematisiert das Leid in Gaza und die Notwendigkeit, auch für die Sicherheit der Menschen dort einzutreten. Sie warnt davor, mit antisemitischen Flammen zu spielen und betont, dass Sicherheit für die eine Seite nicht ohne die Sicherheit der anderen existieren könne.
+- **[27:28](https://www.youtube.com/watch?v=sC5SJyORmAw&t=27m28s)** - **Ines Schwerdtner (Die Linke)**: Sie berichtet von einem persönlichen Gespräch mit Noy Katsman, dessen Bruder Hayim am 7. Oktober sein Leben opferte, um seine Nachbarin zu schützen. Sie betont, dass niemand sein Leben verdient habe. Sie verurteilt das Massaker der Hamas als Kriegsverbrechen und Verbrechen gegen die Menschlichkeit, stellt aber gleichzeitig fest, dass auch Netanjahus Kriegsverbrechen und der Völkermord in Gaza nicht gerechtfertigt seien. Sie kritisiert die Instrumentalisierung von Antisemitismus und die Täter-Opfer-Umkehr. Sie bekräftigt die Angst jüdischer Menschen in Deutschland und die Aufgabe, sich gegen jeden Antisemitismus zu stellen. Ein sicheres Israel könne es nur mit einem sicheren Palästina geben.
+- **[30:26](https://www.youtube.com/watch?v=sC5SJyORmAw&t=30m26s)** - **Caroline Bosbach (CDU/CSU)**: Sie beschreibt den 7. Oktober als Tag des Grauens und als Anlass für offen gezeigten Hass, Terrorfantasien und Antisemitismus. Sie berichtet von ihren Eindrücken aus Israel, den Überresten des Nova-Musikfestivals und der Militärbasis in Nahal Oz, wo Verbrechen gegen die Menschlichkeit stattgefunden hätten. Sie empfiehlt einen Besuch in Israel jedem, der in Deutschland mit Islamisten demonstriere. Sie kritisiert die Verharmlosung von Terrororganisationen als Widerstandskämpfer und die Feier der Ereignisse vom 7. Oktober mit Musik und Süßigkeiten. Sie kritisiert die SPD und Grünen dafür, Judenhassern zur Macht verhelfen zu wollen, und mahnt einen gesellschaftlichen und politischen Schulterschluss gegen Antisemitismus an.
+- **[33:44](https://www.youtube.com/watch?v=sC5SJyORmAw&t=33m44s)** - **Siegfried Walch (CDU/CSU)**: Er bezeichnet den 7. Oktober als Tag der Barbarei gegen Zivilisten. Er lehnt jede Form der Täter-Opfer-Umkehr ab und betont, dass es sich um eine Attacke der Hamas auf Zivilisten in Israel handelte. Er hebt hervor, dass Jüdinnen und Juden in Deutschland wieder Angst hätten und sich frei bewegen könnten. Antisemitismus sei in allen Schichten vorhanden (rechts, links, Mitte). Er bezeichnet die AfD als unglaubwürdig im Kampf gegen Antisemitismus, wenn sie sich nicht klar von Rechtsextremen abgrenze. Er betont, dass die Kritik an israelischer Politik legitim sei, die Infragestellung des Existenzrechts Israels oder Parolen wie "From the River to the Sea" jedoch nicht. Er kritisiert die Linke für die Koalition mit Islamisten und den Umgang mit Antisemitismus als politische Waffe. Er spricht von "importiertem Antisemitismus" im Zusammenhang mit Migration und fordert klare Botschaften an Zuwanderer, dass Extremismus und Antisemitismus in Deutschland keinen Platz hätten.

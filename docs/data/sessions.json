@@ -78,6 +78,71 @@
     "processed_at": "2026-10-09T08:06:11.865410"
   },
   {
+    "id": "h9G2swBmEu0",
+    "title": "98th Session on 10/07/2026. TOP ZP 1: Current Affairs Debate: Financial Support for Ukraine",
+    "session": 98,
+    "date": "2026-10-07",
+    "top": "ZP 1",
+    "topic": "Debatte über aktuelle Angelegenheiten: Finanzielle Unterstützung der Ukraine",
+    "summary_path": "protocols/session_98/zp_1_current_affairs_debate_financial_support_for_ukrai.md",
+    "documents_path": "protocols/session_98/zp_1_current_affairs_debate_financial_support_for_ukrai_documents.json",
+    "speakers_path": "protocols/session_98/zp_1_current_affairs_debate_financial_support_for_ukrai_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=h9G2swBmEu0",
+    "processed_at": "2026-10-10T08:04:50.922295"
+  },
+  {
+    "id": "RPqdrrggUk4",
+    "title": "98th Session on 10/07/2026. Agenda Item 6: Federal Memorial Concept",
+    "session": 98,
+    "date": "2026-10-07",
+    "top": "6",
+    "topic": "Bundeskonzeption Gedenkstätten",
+    "summary_path": "protocols/session_98/6_federal_memorial_concept.md",
+    "documents_path": "protocols/session_98/6_federal_memorial_concept_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=RPqdrrggUk4",
+    "processed_at": "2026-10-10T08:02:46.155431"
+  },
+  {
+    "id": "9qB-Y7aLQbI",
+    "title": "98th Session on 10/07/2026. Agenda Item 4: Organized Crime",
+    "session": 98,
+    "date": "2026-10-07",
+    "top": "4",
+    "topic": "Organisierte Kriminalität",
+    "summary_path": "protocols/session_98/4_organized_crime.md",
+    "documents_path": "protocols/session_98/4_organized_crime_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=9qB-Y7aLQbI",
+    "processed_at": "2026-10-10T08:03:13.205608"
+  },
+  {
+    "id": "sC5SJyORmAw",
+    "title": "98th Session on 10/07/2026. Agenda Item 3: Three years after the terrorist attack by Hamas on Israel",
+    "session": 98,
+    "date": "2026-10-07",
+    "top": "3",
+    "topic": "Drei Jahre nach dem Terrorangriff der Hamas auf Israel: Antisemitismus entschlossen bekämpfen, jüdisches Leben in Deutschland schützen",
+    "summary_path": "protocols/session_98/3_three_years_after_the_terrorist_attack_by_hamas_on.md",
+    "documents_path": "protocols/session_98/3_three_years_after_the_terrorist_attack_by_hamas_on_documents.json",
+    "speakers_path": "protocols/session_98/3_three_years_after_the_terrorist_attack_by_hamas_on_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=sC5SJyORmAw",
+    "processed_at": "2026-10-10T08:04:19.216489"
+  },
+  {
+    "id": "gJPq1q3pHV0",
+    "title": "98th Session on 10/07/2026. Agenda Item 2: Question Time",
+    "session": 98,
+    "date": "2026-10-07",
+    "top": "2",
+    "topic": "Fragestunde",
+    "summary_path": "protocols/session_98/2_question_time.md",
+    "documents_path": "protocols/session_98/2_question_time_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=gJPq1q3pHV0",
+    "processed_at": "2026-10-10T08:06:02.845531"
+  },
+  {
     "id": "xGCOUq0nVJk",
     "title": "Anhörung zum Digitale Identitätengesetz",
     "session": 0,
@@ -6674,6 +6739,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=V-ozlkqDOyM",
     "processed_at": "2026-10-09T08:01:15.886995"
+  },
+  {
+    "id": "LhV28IHy-4s",
+    "title": "Anhörung des Ausschusses für Recht und Verbraucherschutz",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung des Ausschusses für Recht und Verbraucherschutz",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_des_ausschusses_fuer_recht_und_verbrauch.md",
+    "documents_path": "protocols/session_unknown/top_unknown_anhoerung_des_ausschusses_fuer_recht_und_verbrauch_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_anhoerung_des_ausschusses_fuer_recht_und_verbrauch_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=LhV28IHy-4s",
+    "processed_at": "2026-10-10T08:01:43.805080"
   },
   {
     "id": "vHNXQug-Frc",

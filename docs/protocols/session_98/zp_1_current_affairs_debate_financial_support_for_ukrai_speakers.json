@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte über die finanzielle Unterstützung der Ukraine im Bundestag offenbarte deutliche Unterschiede in den externen Positionen der Abgeordneten. Während Vertreter von SPD, CDU/CSU und Bündnis 90/Die Grünen die Notwendigkeit und Richtigkeit der Hilfen betonten, kritisierten AfD und Die Linke die Priorisierung der Ukraine-Unterstützung gegenüber heimischen Problemen. Abgeordnete wie Markus Frohnmaier (AfD) äußerten Bedenken hinsichtlich der finanziellen Belastung Deutschlands, während Knut Abraham (CDU/CSU) und Deborah Düring (Bündnis 90/Die Grünen) die Solidarität mit der Ukraine und die Bedeutung der europäischen Sicherheit hervorhoben. Dr. Ralf Stegner (SPD) verteidigte die Haltung seiner Partei und kritisierte die AfD scharf. Lea Reisner (Die Linke) hinterfragte die Motive hinter den Hilfen und forderte alternative Friedensinitiativen.",
+  "sources": [
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Frohnmaier kritisierte die finanzielle Unterstützung der Ukraine scharf und betonte die Notwendigkeit, deutsche Interessen und die Bedürfnisse der eigenen Bürger zu priorisieren. Er bezeichnete die Hilfen als unverhältnismäßig im Vergleich zu Investitionen in Deutschland.",
+      "source_title": "Debatte im Deutschen Bundestag über die finanzielle Unterstützung der Ukraine",
+      "url": "https://www.youtube.com/watch?v=h9G2swBmEu0&t=34s",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Knut Abraham",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Abraham verteidigte die Reise des Kanzlers nach Kyjiw als wichtige Geste der Solidarität und betonte die deutsche Verantwortung, auf der Seite der Freiheit zu stehen. Er wies die Kritik der AfD als Demagogie zurück und stellte die deutsche Unterstützung in den Dienst der europäischen Sicherheit.",
+      "source_title": "Debatte im Deutschen Bundestag über die finanzielle Unterstützung der Ukraine",
+      "url": "https://www.youtube.com/watch?v=h9G2swBmEu0&t=5m32s",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Deborah Düring",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Düring wies die Kritik der AfD als scheinheilig zurück und befürwortete die Reise des Kanzlers. Sie betonte, dass eine Einstellung der Unterstützung zu mehr Gewalt führen würde und forderte konkrete Maßnahmen gegen die russische Kriegsfinanzierung, um der Ukraine zu ermöglichen, aus einer Position der Stärke zu verhandeln.",
+      "source_title": "Debatte im Deutschen Bundestag über die finanzielle Unterstützung der Ukraine",
+      "url": "https://www.youtube.com/watch?v=h9G2swBmEu0&t=10m40s",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Dr. Ralf Stegner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Stegner lobte den Besuch des Bundeskanzlers als wichtige Solidaritätsbekundung und betonte, dass der Streit über die Ukraine-Hilfe lediglich mit der AfD geführt werde. Er kritisierte die AfD scharf für ihre Sprache und bezeichnete sie als Gefahr für die Demokratie.",
+      "source_title": "Debatte im Deutschen Bundestag über die finanzielle Unterstützung der Ukraine",
+      "url": "https://www.youtube.com/watch?v=h9G2swBmEu0&t=17m41s",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Lea Reisner",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Reisner kritisierte die AfD für ihre vorgebliche Fürsprache für die kleinen Leute und hinterfragte die Motive der Bundesregierung bei der Ukraine-Hilfe. Sie warf der Regierung vor, im Sinne des deutschen Kapitals zu handeln und forderte, Deserteuren und Kriegsdienstverweigerern Schutz zu gewähren, um Frieden zu fördern.",
+      "source_title": "Debatte im Deutschen Bundestag über die finanzielle Unterstützung der Ukraine",
+      "url": "https://www.youtube.com/watch?v=h9G2swBmEu0&t=26m6s",
+      "platform": "Plenumsprotokoll"
+    }
+  ]
+}
