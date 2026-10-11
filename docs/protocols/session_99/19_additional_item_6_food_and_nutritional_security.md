@@ -1,0 +1,71 @@
+# Ernährungssicherheit und Nährstoffversorgung
+
+## Sitzungs-Metadaten
+- **Sitzung:** 99. Sitzung
+- **Datum:** 2026-10-08
+- **Tagesordnungspunkt (TOP):** 19, Additional Item 6
+- **Originaltitel:** 99th Session on 10/08/2026. Agenda Item 19, Additional Item 6: Food and Nutritional Security
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=1xDVYyPkDBo)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag befasste sich mit mehreren Anträgen der Fraktion Bündnis 90/Die Grünen zur Ernährungssicherheit, zur Stärkung des Lebensmittelhandwerks, zur nationalen Ernährungssicherung in Zivilschutzfällen und zum Wasserrückhalt sowie Moorschutz. Kritisiert wurden die Vorschläge der Grünen von nahezu allen Fraktionen für ihre angebliche Bürokratielastigkeit und mangelnde Praxistauglichkeit. Die Koalitionsfraktionen (SPD, CDU/CSU) und die AfD legten eigene Ansätze dar, die auf bestehende Strukturen, Entlastung von Betrieben und marktwirtschaftliche Prinzipien setzen. Die Linke forderte eine Vergesellschaftung der Moore zur effektiveren CO2-Speicherung.
+
+## Kernaussagen und Positionen der Fraktionen
+- **CDU/CSU**:
+  - Die Anträge der Grünen beschreiben bekannte Probleme, deren Lösungsansätze jedoch bürokratielastig und verteuernd seien.
+  - Die Produktion für Biogasanlagen stelle eine krisenfeste Lebensmittelversorgung dar, da sie in Krisenzeiten auch für Ernährung genutzt werden könne.
+  - Die Stärkung des Lebensmittelhandwerks erfolge durch Berufsausbildung und Bürokratieentlastung, nicht durch Förderprogramme der Grünen.
+  - Staatliche Lagerhaltung und Einbindung bestehender Strukturen seien Teil des Konzepts für die Ernährungsnotfallvorsorge, ein bundesweiter Übungstag sei volkswirtschaftlich schädlich.
+  - Der Weg sei die nationale Moorschutzstrategie und das Klimaschutzprogramm, nicht starre Flächenziele aus Berlin.
+  - Die Bekämpfung von Markkonzentrationen geschehe durch eine unabhängige Stelle gegen unfaire Handelspraktiken, nicht durch neue Berichtspflichten, die kleine Betriebe belasteten.
+- **AfD**:
+  - Die Anträge der Grünen seien ideologisch und würden Bäuer:innen und Handwerker:innen durch Auflagenpolitik belasten.
+  - Die Marktmacht von vier großen Handelsgruppen sei zwar ein Problem, aber die Hauptbelastung für heimische Betriebe sei die verfehlte Politik der Regierung mit teurer Energie und grünen Auflagen.
+  - Die Grünen wollten die Macht der Konzerne durch mehr Macht für Behörden ersetzen und schafften einen Regelungsdschungel.
+  - Das Gegenkonzept beinhalte verbindliche Regeln gegen unfaire Handelspraktiken, Untersuchung der Nachfragemacht und eine Ombudsstelle, aber kein neues Behördennetz.
+  - Ein Wettbewerbsnachteil bestehe durch günstigere Agrarprodukte aus Drittstaaten mit niedrigeren Standards; gleiche Standards und Herkunftskennzeichnung seien nötig.
+  - Eine vollständige Renationalisierung der Agrarförderung sei zur Entscheidung nach deutschen Interessen erforderlich.
+  - Faire Preise entstünden durch fairen Wettbewerb und Verhandlungsmacht der Erzeuger, nicht durch mehr Verwaltung.
+- **SPD**:
+  - Ziele wie krisenfeste Lebensmittelversorgung, starke regionale Strukturen und Perspektiven für das Lebensmittelhandwerk seien unstrittig, aber die Umsetzung durch die Grünen sei fragwürdig.
+  - Der Antrag zur Ernährungssicherheit setze auf zusätzliche Koordinierungsstrukturen und Bürokratie statt auf klare Zuständigkeiten und eingeübte Abläufe.
+  - Staatliche Notfallreserven seien nötig, aber die gesamte Kette von Feld bis Regal müsse resilienter gemacht werden.
+  - Das Lebensmittelhandwerk leiste einen wichtigen Beitrag zur regionalen Wertschöpfung und müsse gestärkt werden, jedoch nicht durch ein Sammelsurium an Prüf- und Förderaufträgen.
+  - Bürokratieentlastung dürfe nicht zu Lasten von Gesundheits-, Verbraucher- oder Arbeitsschutz gehen; Förderung müsse gezielt und verlässlich sein.
+  - Die SPD wolle einen handlungsfähigen Staat statt mehr Bürokratie, konkrete Entlastungen, starke regionale Betriebe und faire Wettbewerbsbedingungen.
+  - Der Moorschutz und Wasserrückhalt seien wichtig, da Niederschläge ungleicher verteilt seien. Nassem Mooren komme eine Schlüsselrolle als Wasserspeicher und Kohlenstoffsenken zu.
+  - Die SPD habe bereits eine Moorschutzstrategie verabschiedet und das Aktionsprogramm "Natürlicher Klimaschutz" weiterentwickelt, um Paludikultur zu integrieren.
+  - Die Prüfung einer neuen Gemeinschaftsaufgabe Naturschutz und Klimaanpassung sowie die Stärkung der Moorforschung seien wichtige Anliegen.
+- **Bündnis 90/Die Grünen**:
+  - Die Anträge zielten auf die Gestaltung von Landschaften, die Wasser speichern, um Dürre und Hochwasser entgegenzuwirken (Moorerhaltung, Renaturierung von Flüssen, Baumpflanzungen).
+  - Die Landwirtschaft müsse von teuren Abhängigkeiten (Dünger, Futtermittel, Energie, Chemikalien) befreit und in Kreisläufe geführt werden.
+  - Das Lebensmittelhandwerk müsse von kleinen Betrieben her gedacht und gestärkt werden, da viele kleine Einheiten Stabilität und Unabhängigkeit schafften.
+  - Schulen, Behörden, Kasernen, Kindergärten und Krankenhäuser sollten Absatzmärkte für regionale und ökologische Lebensmittel sein, um eine stabile Landwirtschaft und gutes Essen zu gewährleisten.
+  - Es fehle an Konzepten und Plänen für die Versorgung von Großküchen im Notfall.
+  - Ein Update für den Zivil- und Katastrophenschutz sei nötig, einschließlich eines bundesweiten Übungstages und eines Operationsplans für zivile Verteidigung.
+  - Die Wiedervernässung von Mooren sei ein zentraler Punkt des Klimaschutzes, da trockengelegte Moore viel CO2 ausstießen.
+  - Eine rein marktorientierte und freiwillige Wiedervernässung sei unzureichend; der Bund sei zuständig, ökologisch zusammengehöriges gemeinsam zu organisieren.
+  - Die Vergesellschaftung der Moore und ihre Wiedervernässung sei der einzige Weg zu echtem Klimaschutz.
+- **Die Linke**:
+  - Echte Sicherheit bedeutet den Erhalt natürlicher Lebensgrundlagen; Klimaerhitzung und Wasserrückhalt sind Schlüssel zur Nahrungsmittelproduktion.
+  - Moore seien Wollmigsau des Klimaschutzes; ihre Wiedervernässung spare signifikant CO2.
+  - Die Pläne der Bundesregierung und der Grünen seien unzureichend, da sie auf Freiwilligkeit und Marktmechanismen setzten, während Landwirt:innen im Konkurrenzsystem stünden.
+  - Die Entscheidung über die Wiedervernässung dürfe nicht einzelnen Eigentümer:innen überlassen werden, da der Bund zuständig sei und Artikel 20a zur Erhaltung der natürlichen Lebensgrundlagen verpflichte.
+  - Die Vergesellschaftung der Moore und ihre Wiedervernässung sei der einzige Weg zu echtem Klimaschutz.
+  - Die Linke stimme den Anträgen der Grünen nicht zu, da sie nicht weit genug gingen.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Sitzungspräsident eröffnet die 99. Sitzung des Bundestags zur Beratung von Vorlagen der Fraktion Bündnis 90/Die Grünen zur Sicherung der Ernährungsversorgung und ruft TOP 19a bis 19D sowie Zusatzpunkt 6 auf. Eine Dauer von 30 Minuten für die Aussprache wird vereinbart.
+- **[00:00:30](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=30s)** - **Alexander Engelhart (CDU/CSU)**: Eröffnet die Debatte aus Sicht der CDU/CSU. Er kritisiert die fünf Anträge der Grünen als Muster, das bekannte Probleme aufgreift, aber mit bürokratischen und verteuernden Lösungsvorschlägen daherkommt. Er hebt die Bedeutung der Biogasproduktion als Resilienzfaktor hervor und betont, dass die Stärkung des Lebensmittelhandwerks durch Berufsausbildung und Bürokratieentlastung erfolge, nicht durch Förderprogramme. Ein bundesweiter Übungstag für Zivilschutzfälle sei volkswirtschaftlich schädlich. Für Wasserrückhalt und Moorschutz setze die CDU/CSU auf Praxistauglichkeit statt auf starre Flächenziele und verweist auf die nationale Moorschutzstrategie. Die Bekämpfung von Markkonzentrationen erfolge durch eine unabhängige Stelle, nicht durch zusätzliche Berichtspflichten. Alle Anträge der Grünen werden abgelehnt.
+- **[00:04:48](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=4m48s)** - **Peter Feer (AfD)**: Er kritisiert die Grünen dafür, sich als Retter von Bäuer:innen und Handwerker:innen aufzuspielen, obwohl ihre Politik die Betriebe belaste. Er sieht die Hauptbelastung für heimische Betriebe in teurer Energie und grünen Auflagen, nicht in der Marktmacht der Handelskonzerne allein. Die Vorschläge der Grünen würden Bürokratie fördern und die Macht von Konzernen nur durch mehr Behördenmacht ersetzen. Die AfD fordert verbindliche Regeln gegen unfaire Handelspraktiken, eine Untersuchung der Nachfragemacht und eine Ombudsstelle. Gleiche Standards für Produkte aus Drittstaaten und eine verbindliche Herkunftskennzeichnung seien notwendig. Die vollständige Renationalisierung der Agrarförderung wird gefordert.
+- **[00:08:03](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=8m3s)** - **Fenja Statler (SPD)**: Sie bekräftigt die Ziele der SPD für eine krisenfeste Lebensmittelversorgung, starke regionale Strukturen und eine Perspektive für das Lebensmittelhandwerk. Sie kritisiert, dass die Anträge der Grünen auf zusätzliche Bürokratie, neue Lagebilder und Prüfaufträge setzen. Die SPD wolle bestehende Strukturen stärken und keine Parallelstrukturen schaffen. Staatliche Notfallreserven seien notwendig, aber die gesamte Lebensmittelkette müsse resilienter gemacht werden. Die Stärkung des Lebensmittelhandwerks erfolge durch Bürokratieabbau, ohne Abstriche beim Gesundheits- und Verbraucherschutz zu machen, und durch gezielte Förderung.
+- **[00:11:19](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=11m19s)** - **Karl Berg (Bündnis 90/Die Grünen)**: Er hebt die Notwendigkeit hervor, die Landwirtschaft auf die Klimakrise vorzubereiten und systemisch anzugehen. Er kritisiert die Regierungspolitik als "nichts tun" und betont die Abhängigkeit von fossilen Energien und importierten Futtermitteln. Vorschläge der Grünen umfassen die Gestaltung von Landschaften zur Wasserspeicherung, die Befreiung der Landwirtschaft von Abhängigkeiten und die Förderung von Kreisläufen sowie die Stärkung des Lebensmittelhandwerks von kleinen Betrieben aus. Er plädiert dafür, Schulen, Behörden und Krankenhäuser als Absatzmärkte für regionale und ökologische Lebensmittel zu nutzen und fordert einen Plan für die Versorgung von Großküchen im Notfall. Ein Update für den Zivil- und Katastrophenschutz, inklusive eines bundesweiten Übungstages, wird gefordert.
+- **[00:15:31](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=15m31s)** - **Marcel Bauer (Die Linke)**: Er betont, dass echte Sicherheit den Erhalt der natürlichen Lebensgrundlagen bedeute und Klimaerhitzung sowie Wasserrückhalt entscheidend für die Nahrungsmittelproduktion seien. Moore seien essenziell für den Klimaschutz. Er kritisiert die Pläne der Grünen und der Bundesregierung als unzureichend, da sie auf Freiwilligkeit und Markt setzen. Er fordert die Vergesellschaftung der Moore und ihre Wiedervernässung als einzigen Weg zu echtem Klimaschutz und kritisiert, dass die Linke den Anträgen der Grünen nicht zustimme, da sie nicht weit genug gingen.
+- **[00:19:11](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=19m11s)** - **Bernt Schumann (AfD)**: Er kritisiert die Grünen erneut dafür, Probleme aufzugreifen, aber die Ursachenanalyse zu verfehlen und ihre "Lieblingsinstrumente" Ökovorgaben und Bürokratie aufzufahren. Er argumentiert, dass die Politik der Grünen, SPD und Union eine Entwicklung hin zu billiger Massenware begünstigt habe, da die Kaufkraft der Bürger:innen durch Steuern und hohe Energiepreise sinke. Er fordert, die Handlungsfreiheit für Bäuer:innen und Mittelstand zurückzugeben und kritisiert Importe aus dem Ausland, die heimische Landwirt:innen mit Umweltauflagen und Mindestlöhnen benachteiligen.
+- **[00:23:19](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=23m19s)** - **Dr. Franziska Kersten (SPD)**: Sie spricht die Themen Moorschutz und Wasserrückhalt an und erklärt, dass die Niederschläge zwar nicht massiv zurückgegangen seien, aber ungleicher verteilt. Sie betont die Bedeutung von Niedermooren als Wasserspeicher und Kohlenstoffsenken. Die SPD habe sich bereits für eine Moorschutzstrategie eingesetzt und das Aktionsprogramm "Natürlicher Klimaschutz" weiterentwickelt, um Paludikultur zu integrieren. Die Prüfung einer neuen Gemeinschaftsaufgabe Naturschutz und Klimaanpassung sowie die Förderung der Moorforschung seien wichtige Anliegen. Daher lehnten die SPD-Anträge ab.
+- **[00:26:25](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=26m25s)** - **Abstimmung über TOP 19a**: Der Antrag der Grünen zur krisenfesten und unabhängigen Lebensmittelversorgung wird mit Stimmen der AfD, CDU/CSU und SPD bei Gegenstimmen der Linken und Bündnis 90/Die Grünen abgelehnt.
+- **[00:27:13](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=27m13s)** - **Abstimmung über TOP 19b**: Der Antrag der Grünen zur Erhaltung des Lebensmittelhandwerks und Sicherstellung einer vielfältigen und krisenfesten Ernährungsversorgung wird mit Stimmen der AfD, CDU/CSU und SPD bei Gegenstimmen der Bündnis 90/Die Grünen und Stimmenthaltung der Linken abgelehnt.
+- **[00:27:59](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=27m59s)** - **Abstimmung über TOP 19c**: Der Antrag der Grünen zur nationalen Ernährungssicherheit in Zivilschutz- und Katastrophenschutzfällen wird mit Stimmen der AfD, CDU/CSU und SPD bei Gegenstimmen der Bündnis 90/Die Grünen und der Linken abgelehnt.
+- **[00:28:45](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=28m45s)** - **Abstimmung über TOP 19d**: Der Antrag der Grünen zu Wasserrückhalt, Resilienz und Moorschutz wird mit Stimmen der AfD, CDU/CSU und SPD sowie der Linken bei Gegenstimmen der Bündnis 90/Die Grünen abgelehnt.
+- **[00:29:36](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=29m36s)** - **Zusatzpunkt 6**: Interfraktioneller Vorschlag zur Überweisung einer Vorlage an die Ausschüsse wird angenommen.
+- **[00:29:51](https://www.youtube.com/watch?v=1xDVYyPkDBo&t=29m51s)** - **Sitzungsfortgang**: Der Sitzungspräsident ruft die Tagesordnungspunkte 20a und 20b zur ersten Beratung auf.

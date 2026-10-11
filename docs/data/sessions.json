@@ -1,5 +1,57 @@
 [
   {
+    "id": "ZhsKshvsVzM",
+    "title": "100th Session on 10/09/2026. Agenda Item 38: Pension Policy",
+    "session": 100,
+    "date": "2026-10-09",
+    "top": "38",
+    "topic": "Rentenpolitik",
+    "summary_path": "protocols/session_100/38_pension_policy.md",
+    "documents_path": "protocols/session_100/38_pension_policy_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=ZhsKshvsVzM",
+    "processed_at": "2026-10-11T08:03:53.632176"
+  },
+  {
+    "id": "DqxE0GNXT0o",
+    "title": "100th Session on 10/09/2026. Agenda Item 37, Add. Item 9: Start Opportunities and Quality Develop...",
+    "session": 100,
+    "date": "2026-10-09",
+    "top": "37, Add. Item 9",
+    "topic": "Startchancen und Qualitätsentwicklung in der Kindertagesbetreuung",
+    "summary_path": "protocols/session_100/37_add_item_9_start_opportunities_and_quality_develop.md",
+    "documents_path": "protocols/session_100/37_add_item_9_start_opportunities_and_quality_develop_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=DqxE0GNXT0o",
+    "processed_at": "2026-10-11T08:04:17.086901"
+  },
+  {
+    "id": "FE2S9YwfiVI",
+    "title": "100th Session on 10/09/2026. Agenda Item 36: Measures for a Migration Turnaround",
+    "session": 100,
+    "date": "2026-10-09",
+    "top": "36",
+    "topic": "Maßnahmen für eine Migrationswende",
+    "summary_path": "protocols/session_100/36_measures_for_a_migration_turnaround.md",
+    "documents_path": "protocols/session_100/36_measures_for_a_migration_turnaround_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=FE2S9YwfiVI",
+    "processed_at": "2026-10-11T08:05:24.783836"
+  },
+  {
+    "id": "1xDVYyPkDBo",
+    "title": "99th Session on 10/08/2026. Agenda Item 19, Additional Item 6: Food and Nutritional Security",
+    "session": 99,
+    "date": "2026-10-08",
+    "top": "19, Additional Item 6",
+    "topic": "Ernährungssicherheit und Nährstoffversorgung",
+    "summary_path": "protocols/session_99/19_additional_item_6_food_and_nutritional_security.md",
+    "documents_path": "protocols/session_99/19_additional_item_6_food_and_nutritional_security_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=1xDVYyPkDBo",
+    "processed_at": "2026-10-11T08:03:23.906143"
+  },
+  {
     "id": "XyU_L60A7xA",
     "title": "98. Sitzung des Bundestages – LIVE",
     "session": 98,
@@ -141,6 +193,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=gJPq1q3pHV0",
     "processed_at": "2026-10-10T08:06:02.845531"
+  },
+  {
+    "id": "jgp7xBKELz0",
+    "title": "98th Session on 10/07/2026. Agenda Item 1: Questioning of the Federal Government (BMWE and BMV)",
+    "session": 98,
+    "date": "2026-10-07",
+    "top": "1",
+    "topic": "Befragung der Bundesregierung (BMWE und BMV)",
+    "summary_path": "protocols/session_98/1_questioning_of_the_federal_government_bmwe_and_bmv.md",
+    "documents_path": "protocols/session_98/1_questioning_of_the_federal_government_bmwe_and_bmv_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=jgp7xBKELz0",
+    "processed_at": "2026-10-11T08:02:36.467156"
   },
   {
     "id": "xGCOUq0nVJk",
@@ -6752,6 +6817,19 @@
     "speakers_path": "protocols/session_unknown/top_unknown_anhoerung_des_ausschusses_fuer_recht_und_verbrauch_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=LhV28IHy-4s",
     "processed_at": "2026-10-10T08:01:43.805080"
+  },
+  {
+    "id": "NNYZMKEAidQ",
+    "title": "Exhibition on Israel 2026",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Ausstellung zu Israel 2026",
+    "summary_path": "protocols/session_unknown/top_unknown_exhibition_on_israel_2026.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=NNYZMKEAidQ",
+    "processed_at": "2026-10-11T08:02:53.421249"
   },
   {
     "id": "vHNXQug-Frc",

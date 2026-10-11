@@ -8,176 +8,305 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=jgp7xBKELz0)
 
 ## Kurzzusammenfassung
-In der 98. Sitzung des Deutschen Bundestages wurde die Bundesregierung zu wirtschafts- und verkehrspolitischen Themen befragt. Bundesministerin Katherina Reiche berichtete über die Stabilisierung der Wirtschaft, die angekündigten Entlastungs- und Stärkungsmaßnahmen sowie die Energiepolitik. Bundesminister Steffen Bilger legte dar, wie die Regierung die Verlässlichkeit und Planbarkeit der Mobilität durch verbesserte Finanzierung und Planung der Verkehrsinfrastruktur sicherstellen will. Im Anschluss folgten zahlreiche Fragen und Nachfragen von Abgeordneten aller Fraktionen zu spezifischen Aspekten der Wirtschafts- und Verkehrspolitik, darunter Energiepreise, Handelsschutz, ÖPNV-Finanzierung, Schieneninfrastruktur, Elektromobilität, die Situation der Automobilindustrie und die Unterstützung von Start-ups.
+In der 98. Sitzung des Deutschen Bundestages fand die Befragung der Bundesregierung statt, bei der die Bundesministerin für Wirtschaft und Energie sowie der Bundesminister für Verkehr ihre einleitenden Berichte erstatteten. Die Debatte konzentrierte sich auf die wirtschaftliche Lage, die Energiepolitik, die Stärkung der Wettbewerbsfähigkeit, Investitionsförderung und die Infrastruktur im Verkehrssektor. Fragen der Fraktionen betrafen unter anderem Steuerentlastungen, Handelsschutz, die Finanzierung des Nahverkehrs, die Sanierung der Bahn, die Förderung der Elektromobilität und die Unterstützung von Start-ups.
 
 ## Kernaussagen und Positionen der Fraktionen
 
-- **Bundesregierung (BMWE, BMV):**
-  - **Wirtschaftsministerin Reiche:** Die Bundesregierung hat die Wirtschaft in einem schwierigen Zustand übernommen, aber erste Erfolge bei der Stabilisierung erzielt. Die Herbstprojektionen zeigen ein gestiegenes Wirtschaftswachstum. Maßnahmen wie die Senkung der Stromsteuer, Absenkung der Netzentgelte, Industriestrompreis und Strompreiskompensation (über 8 Mrd. €) dienen der Entlastung. Der Ausbau erneuerbarer Energien (Ziel: 80% bis 2030) wird vorangetrieben, ebenso wie die Genehmigungs- und Netzausbauverfahren. Der Deutschlandfonds soll private Investitionen mobilisieren. Stärken der deutschen Wirtschaft liegen in Technologie, Talent und Export.
-  - **Verkehrsminister Bilger:** Ziel ist Verlässlichkeit und Planbarkeit der Mobilität durch langfristige Infrastrukturinvestitionen. Die Finanzierung der Autobahngesellschaft wird durch die Lkw-Maut gestärkt. Ein Eisenbahninfrastrukturfonds ist in Planung. Das Konzept der Korridorsanierungen wird überarbeitet, um die Zuverlässigkeit der Schiene zu verbessern. Der neue Infraplan dient der strategischen Steuerung des Schienennetzes.
+- **Bundesregierung (vertreten durch BMWE und BMV):**
+  - Die wirtschaftliche Lage hat sich trotz externer Belastungen verbessert, das Wirtschaftswachstum wurde prognostiziert.
+  - Maßnahmen zur Entlastung von Unternehmen und Verbrauchern wurden umgesetzt (z.B. Stromsteuer, Industriestrompreis).
+  - Der Ausbau erneuerbarer Energien wird vorangetrieben, gleichzeitig wird auf Markt und Wettbewerb gesetzt.
+  - Die Wettbewerbsfähigkeit der Wirtschaft wird durch "Entfesseln" (Bürokratieabbau, Genehmigungsbeschleunigung) und Anwerbung privater Investitionen gestärkt.
+  - Im Verkehrsbereich liegt der Fokus auf Verlässlichkeit und Planbarkeit der Mobilität durch langfristige Finanzierung von Infrastrukturprojekten, unter anderem durch die Kreditfähigkeit der Autobahngesellschaft und einen Eisenbahninfrastrukturfonds.
+  - Die Förderung der Elektromobilität und der Ausbau der Ladeinfrastruktur sind zentrale Anliegen.
+  - Die Reform der Fahrschulausbildung zielt auf Kostenreduzierung und Modernisierung bei gleichzeitiger Wahrung der Verkehrssicherheit.
 
 - **AfD-Fraktion:**
-  - **Holm:** Kritisiert geplante neue Steuern (Zucker-, Verpackungssteuer) und fordert eine dauerhafte Senkung der Energiesteuer, Abschaffung der CO2-Abgabe und Senkung der Mehrwertsteuer auf Sprit.
-  - **Wiehle:** Kritisiert die Unzuverlässigkeit der Deutschen Bahn und fordert, bei Korridorsanierungen mindestens ein Gleis in Betrieb zu lassen.
-  - **Hahn:** Weist auf den Investitionsstau bei der Infrastruktur und die zusätzliche Belastung durch Nettozuwanderung hin.
-  - **Kraft:** Stellt die Kosten und die Wettbewerbsfähigkeit von Elektroautos in Frage, kritisiert die Subventionierung chinesischer Autos und fordert die Abschaffung von Flottengrenzwerten für Verbrenner. Schlägt die Rückkehr zur Kernenergie und Kohleverstromung vor.
-  - **Kotré:** Sieht Kernenergie und Kohleverstromung als Lösung für niedrige Stromkosten und kritisiert die Abhängigkeit von teurem Gas.
-  - **Seifert:** Fragt nach konkreten Maßnahmen zur Ermöglichung von Urlaubsreisen für Geringverdiener und kritisiert die Regierung für das Aussetzen von Reformen.
+  - Forderung nach dauerhafter Senkung der Energiesteuer, Abschaffung der CO2-Abgabe und Reduzierung der Mehrwertsteuer auf Sprit.
+  - Kritik an geplanten neuen Steuern (Zucker-, Verpackungssteuer) und der angeblichen Einkommensteuererhöhung durch kalte Progression.
+  - Kritik an den Korridorsanierungen der Deutschen Bahn und Forderung nach Beibehaltung eines Gleises während der Bauarbeiten.
+  - Befürwortung von Kernenergie und Kohleverstromung zur Senkung der Stromkosten und Kritik an den Kosten für erneuerbare Energien.
+  - Forderung nach Abschaffung der CO2-Flottengrenzwerte für Verbrenner.
+  - Skepsis gegenüber den Kosten und der Wettbewerbsfähigkeit von Elektroautos.
 
 - **SPD-Fraktion:**
-  - **Roloff:** Fragt nach Maßnahmen zur Reduzierung des Handelsdefizits mit China und dem Schutz heimischer Wirtschaft vor unfairen Handelspraktiken.
-  - **Reichardt:** Kritisiert, dass der Bund bei den Nahverkehrsmitteln nicht mehr Geld bereitstellt, während gleichzeitig der Tankrabatt finanziert wird, der vor allem Ölkonzernen zugutekomme.
-  - **Wiese:** Fragt nach der Haltung der Regierung zur geplanten Fusion von BASF und Evonik und möglichen Strukturbrüchen im Ruhrgebiet.
-  - **Kreiser:** Fragt nach Maßnahmen zur Senkung der Strompreise und kritisiert das Stromversorgungssicherheits- und Kapazitätsgesetz.
-  - **Ramelow:** Fragt nach der Berücksichtigung von Leitungsfunktionen des Strommarktes für erneuerbare Energien und die Steigerung der Resilienz und Wertschöpfung.
+  - Sorge über wegbrechende Absatzmärkte (insb. China) und Forderung nach effektiveren Handelsschutzinstrumenten.
+  - Betonung der Notwendigkeit, Bus und Bahn finanziell zu unterstützen und die Schieneninfrastruktur auszubauen.
+  - Hinweis auf die Bedeutung von fairen Löhnen und Tarifbindung zur Stärkung der Binnennachfrage.
+  - Unterstützung der Energiekostenentlastung für energieintensive Industrien.
 
-- **Bündnis 90/Die Grünen-Fraktion:**
-  - **Broßart:** Kritisiert, dass der Bund trotz steigender Trassenpreise nicht mehr Geld für den Nahverkehr gibt und fragt nach der Erklärung für den Widerspruch zwischen Tankrabatt und Verteuerung des Deutschlandtickets.
-  - **Gastel:** Kritisiert, dass bei Generalsanierungen von der Koalition beschlossen wurde, nicht mehr investiert zu haben, und streicht die Streichung von Leitstellen und Digitalisierung.
-  - **Joswig:** Fragt nach der Rechtfertigung der Förderung chinesischer Elektroautos und kritisiert die aktuelle Politik, die die deutsche Wärmepumpenindustrie unter Druck setze. Fragt nach der Verfassungskonformität des Netzanschlusspakets.
-  - **Kellner:** Kritisiert die Politik der Ministerin, die zu Stellenabbau in der Erneuerbaren-Branche führe, und fragt, wann die Regierung ihren Kurs ändere.
-  - **Alhamwi:** Fragt nach dem Schutz der deutschen und europäischen Wärmepumpenindustrie vor chinesischem Druck.
-  - **Beck:** Fragt nach der Rolle von Venture Capital und Altersvorsorge für die Skalierungsfinanzierung.
-  - **Verlinden:** Fragt, ob die beabsichtigte Reduzierung von Investitionen in Solaranlagen auf Dächern Ziel der Politik sei und wie der Koalitionspartner dazu stehe.
-  - **Bär:** Fragt nach der Streichung der Förderung von Agri-PV-Anlagen und der fehlenden Verlässlichkeit für investierende Unternehmen.
+- **Bündnis 90/Die Grünen:**
+  - Kritik an der Nichtanhebung der Mittel für den Nahverkehr trotz steigender Kosten.
+  - Sorge, dass die Politik der Bundesregierung zu einem Rückgang von Investitionen in Solaranlagen führt.
+  - Kritik an der Streichung der Förderung für Agri-PV-Anlagen.
+  - Kritik an der Einleitung von Gesetzen, die als verfassungswidrig oder nicht rechtssicher eingestuft werden.
+  - Kritik an Stellenabbau in der erneuerbaren Energiebranche und Forderung nach Kurskorrektur.
 
 - **CDU/CSU-Fraktion:**
-  - **Lenz:** Fragt nach den besonderen Stärken der deutschen Wirtschaft und den Schwerpunkten der Regierungspolitik.
-  - **Donth:** Fragt nach der Position zur Digitalisierung von Bahnstrecken, um mehr Verkehr auf sanierte Strecken zu bekommen. Fragt nach der Finanzierung der Deutschen Zentrale für Tourismus.
-  - **Wiener:** Fragt nach der Begründung für "made with Europe" statt "made in Europe".
-  - **Kölbl:** Fragt nach dem größten Handlungsbedarf beim Hochlauf der Elektromobilität (Netzanschluss, Flächenbereitstellung, Wirtschaftlichkeit).
-  - **Jordan:** Fragt, was die Bundesregierung tut, um die Elektromobilität zum Durchbruch zu verhelfen.
-  - **Rehbaum:** Fragt nach den Verbesserungen für Fahrschulen durch die Reform und wie die Lkw-Maut zur Förderung klimafreundlicher Antriebe genutzt wird.
-  - **Kappe:** Fragt nach konkreten Maßnahmen zur Stärkung des Gründungs- und Scale-up-Umfelds in Deutschland.
+  - Anerkennung der positiven Wachstumsprognosen trotz geopolitischer Herausforderungen und Hervorhebung der Stärken der deutschen Wirtschaft.
+  - Frage nach den Schwerpunkten der Wirtschaftspolitik.
+  - Nachfrage zur Digitalisierung der Bahnstrecken im Rahmen von Korridorsanierungen.
+  - Betonung der Wichtigkeit des Incoming-Tourismus und der Finanzierung der Deutschen Zentrale für Tourismus.
+  - Fragen zur Förderung der Elektromobilität und zum Handlungsbedarf beim Hochlauf.
+  - Betonung der Wichtigkeit von "made with Europe" und der Unterstützung von Start-ups und Scale-ups.
 
-- **Die Linke-Fraktion:**
-  - **Wissler:** Kritisiert die Regierung für die Abhängigkeit von Gasimporten und fragt nach der Logik, dauerhaften Gasimport zu befürworten, aber Stromimport abzulehnen. Fragt nach konkreten Maßnahmen zum Schutz vor hohen Heizkosten und nach Maßnahmen zur Entlastung von Menschen, die sich Restaurantbesuche oder Urlaub nicht leisten können.
-  - **Conrad:** Fragt nach Maßnahmen zur Verhinderung des Stellenabbaus bei Volkswagen und zur Sicherung der Beschäftigung.
-  - **Genburg:** Fragt, ob ein Mietendeckel und die Förderung alternativen Reisens sinnvoll wären, um Menschen mehr Geld in der Tasche zu lassen.
+- **Die Linke:**
+  - Kritik an den Kosten für Gasimporte im Vergleich zu Stromimporten aus Nachbarländern.
+  - Forderung nach konkreten Maßnahmen zum Schutz von Verbrauchern vor hohen Heizkosten.
+  - Kritik am Stellenabbau bei Volkswagen und Forderung nach Sicherung von Arbeitsplätzen an deutschen Standorten.
+  - Kritik an den hohen Strompreisen und deren Auswirkung auf die Schließung von Betrieben.
+  - Frage nach der Rolle des Staates bei der Stützung strategisch wichtiger ziviler Industrien im Vergleich zur Rüstungsindustrie.
+  - Kritik an der Verteilungsfrage bei Wirtschaftswachstum und Forderung nach Entlastung der unteren Einkommensschichten.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung beginnt mit der Ankündigung des ersten Tagesordnungspunktes: Befragung der Bundesregierung. Die Bundesministerin für Wirtschaft und Energie, Frau Katherina Reiche, und der Bundesminister für Verkehr, Herr Steffen Bilger, werden benannt, um ihre einleitenden Berichte abzugeben. Es werden acht Minuten für diese Berichte angesetzt, mit einer farblichen Anzeige zur Zeitkontrolle.
-- **[00:00:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=35s)** - **Bundesministerin Katherina Reiche (BMWE)**: Ministerin Reiche berichtet, dass die Bundesregierung die Wirtschaft in einem beklagenswerten Zustand übernommen habe und ihr Ziel sei, diese wieder zu stärken. Sie verweist auf gestiegene Wirtschaftsprognosen und einen ansteigenden ifo-Geschäftsklimaindex, betont jedoch, dass die Lage fragil bleibe und externe Krisen sowie interne Hausaufgaben bestünden. Maßnahmen wie Entlastungen durch Stromsteuersenkung, Absenkung der Übertragungsnetzentgelte, Industriestrompreis und Strompreiskompensation (über 8 Mrd. €) wurden umgesetzt. Der Ausbau erneuerbarer Energien (80%-Ziel) wird vorangetrieben, ebenso wie der Netzausbau und die Digitalisierung der Netze. Genehmigungen werden beschleunigt, und der Deutschlandfonds soll private Investitionen mobilisieren. Stärken liegen in Technologie, Talent und Kapital.
-- **[00:53:46](https://www.youtube.com/watch?v=jgp7xBKELz0&t=53m46s)** - **Bundesminister Steffen Bilger (BMV)**: Minister Bilger betont die Notwendigkeit von Verlässlichkeit und Planbarkeit für die Mobilität. Er stellt den Gesetzentwurf zur Kreditfähigkeit der Autobahngesellschaft vor, der Einnahmen aus der Lkw-Maut direkt an die Gesellschaft fließen lässt, um Kredite aufzunehmen und privates Kapital zu nutzen. Dies soll die Finanzierung von Baumaßnahmen und Investitionen in Rastanlagen sichern. Für die Schiene wird an einem Eisenbahninfrastrukturfonds gearbeitet. Das Konzept der Korridorsanierungen wird überarbeitet, um die Umsetzung zu verbessern. Der neue Infraplan soll die Priorisierung von Schienennetzausbauprojekten transparent machen.
-- **[00:09:19](https://www.youtube.com/watch?v=jgp7xBKELz0&t=9m19s)** - **Frage von Leif-Erik Holm (AfD)**: Holm fragt Wirtschaftsministerin Reiche, warum die Regierung neue Steuern plane und stattdessen keine dauerhafte Entlastung bei Energie- und Spritpreisen biete, da die Preise in Deutschland im Vergleich zu anderen Ländern deutlich höher seien.
-- **[00:10:27](https://www.youtube.com/watch?v=jgp7xBKELz0&t=10m27s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche verweist auf die Wiedereinführung des Tankrabatts (14 Cent Steuersenkung) und betont die Bedeutung der Wettbewerbsfähigkeit der Raffinerien, die sie durch eine Raffineriestrategie stärken will, um eine Versorgungssicherheit zu gewährleisten.
-- **[00:11:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=11m36s)** - **Nachfrage von Leif-Erik Holm (AfD)**: Holm kritisiert geplante neue Steuern und die Einkommensteuerreform als Belastung und fragt, ob Ministerin Reiche eine Reform ohne Ausgleich der kalten Progression mittragen würde.
-- **[00:12:04](https://www.youtube.com/watch?v=jgp7xBKELz0&t=12m4s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass die Einkommensteuerreform einen Ausgleich für kleine und mittlere Einkommen vorsieht, aber höhere Einkommen einen Beitrag leisten müssten. Andere Steuern werden derzeit beraten.
-- **[00:12:31](https://www.youtube.com/watch?v=jgp7xBKELz0&t=12m31s)** - **Frage von Sebastian Roloff (SPD)**: Roloff fragt Ministerin Reiche, ob sie es nicht für geboten halte, einen grundsätzlichen Basiszollsatz und darauf aufbauend Antisubventionszölle für Einfuhren aus China einzuführen, um künstlich erzeugte Währungsvorteile auszugleichen.
-- **[00:13:38](https://www.youtube.com/watch?v=jgp7xBKELz0&t=13m38s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont die Notwendigkeit offener Märkte für Deutschland als Exportnation, teilt aber die Sorge vor unfairen Handelspraktiken. Sie verweist auf verschärfte EU-Instrumente wie die Foreign Subsidies Regulation, Beschränkungen bei Vergaben und das Anti-Coercion-Instrument.
-- **[00:14:47](https://www.youtube.com/watch?v=jgp7xBKELz0&t=14m47s)** - **Nachfrage von Sebastian Roloff (SPD)**: Roloff fragt nach weiteren konkreten Maßnahmen zur Reduzierung des Handelsdefizits und zum Schutz vor unfairen Handelspraktiken.
-- **[00:15:02](https://www.youtube.com/watch?v=jgp7xBKELz0&t=15m2s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt durchgesetzte Beschränkungen, insbesondere bei Stahl und laufende Verfahren bei Chemieprodukten, und betont die Notwendigkeit schnellerer Überprüfungsverfahren.
-- **[00:15:51](https://www.youtube.com/watch?v=jgp7xBKELz0&t=15m51s)** - **Frage von Victoria Broßart (Bündnis 90/Die Grünen)**: Broßart fragt Verkehrsminister Bilger, wie er den Pendlerinnen und Pendler im Nahverkehr erklären wolle, dass nicht genügend Geld für das bestehende Angebot vorhanden sei, während gleichzeitig 4 Mrd. Euro für einen Tankrabatt gefunden wurden, der vor allem bei Ölkonzernen lande.
-- **[00:16:48](https://www.youtube.com/watch?v=jgp7xBKELz0&t=16m48s)** - **Antwort von Steffen Bilger (BMV)**: Bilger verweist auf die Förderung des Deutschlandtickets (3 Mrd. €) und Milliarden für Regionalisierungsmittel sowie Rekordinvestitionen in die Schieneninfrastruktur, um Bus und Bahn zu unterstützen.
-- **[00:17:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=17m36s)** - **Nachfrage von Victoria Broßart (Bündnis 90/Die Grünen)**: Broßart hinterfragt den Widerspruch, dass bei steigenden Spritpreisen der Tankrabatt eingeführt, das Deutschlandticket aber verteuert werde, und fragt, ob dies sozial gerechte Politik sei.
-- **[00:18:16](https://www.youtube.com/watch?v=jgp7xBKELz0&t=18m16s)** - **Antwort von Steffen Bilger (BMV)**: Bilger sieht keinen Widerspruch, da der Tankrabatt auch Busunternehmen nütze. Er betont die hohen Investitionen in Bus und Bahn sowie das attraktive Deutschlandticket trotz Preiserhöhung.
-- **[00:18:54](https://www.youtube.com/watch?v=jgp7xBKELz0&t=18m54s)** - **Frage von Dr. Andreas Lenz (CDU/CSU)**: Lenz fragt Wirtschaftsministerin Reiche nach den besonderen Stärken und Fähigkeiten der deutschen Wirtschaft und den Schwerpunkten der Koalition in der Wirtschaftspolitik.
-- **[00:20:03](https://www.youtube.com/watch?v=jgp7xBKELz0&t=20m3s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt den Export, das Investitionspaket Klima und Infrastruktur sowie das Paket des Bundesverteidigungsministers als Treiber des Wachstums. Potenzialwachstum entsteht durch flexible Arbeitsmärkte, niedrigere Abgaben, weniger Bürokratie, wettbewerbsfähige Energiepreise und Technologie.
-- **[00:21:13](https://www.youtube.com/watch?v=jgp7xBKELz0&t=21m13s)** - **Nachfrage von Dr. Andreas Lenz (CDU/CSU)**: Lenz fragt nach konkreten Maßnahmen, um Potenziale weiter zu heben und Investitionen sowie Wachstum zu etablieren.
-- **[00:21:29](https://www.youtube.com/watch?v=jgp7xBKELz0&t=21m29s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt den Abbau von Bürokratie, Flexibilisierung des Arbeitsmarktes und das Setzen auf Technologie wie industrielle KI.
-- **[00:22:04](https://www.youtube.com/watch?v=jgp7xBKELz0&t=22m4s)** - **Frage von Janine Wissler (Die Linke)**: Wissler kritisiert die Ministerin wegen der Argumentation, dass Gaskraftwerke aufgrund von wenigen Tagen im Jahr ohne Sonne und Wind notwendig seien, um Stromimporte zu vermeiden. Sie fragt, warum dauerhafter Gasimport gut, kurzfristiger Stromimport aber schlecht sei.
-- **[00:23:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=23m23s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont, dass das 80%-Ziel für Erneuerbare gilt und beide, erneuerbare Energien und gesicherte Leistung (auch durch Gaskraftwerke), notwendig sind, um den steigenden Strombedarf (Elektrifizierung von Wärme und Mobilität, Rechenzentren) jederzeit zu decken. Sie betont die Bedeutung der europäischen Integration, aber auch der Eigenversorgung.
-- **[00:24:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=24m41s)** - **Nachfrage von Janine Wissler (Die Linke)**: Wissler kritisiert, dass der Zubau von Erneuerbaren nicht auf die Entscheidungen der Ministerin zurückgehe und die Abhängigkeit von Öl und Gas zementiert werde, was zu steigenden Energiepreisen führe. Sie fragt nach konkreten Maßnahmen zum Schutz vor hohen Heizkosten.
-- **[00:25:17](https://www.youtube.com/watch?v=jgp7xBKELz0&t=25m17s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt Investitionen in Wärmepumpen und den Ausbau von Fernwärme als Maßnahmen, betont aber auch, dass der Umstieg von Gasheizungen schrittweise erfolgen müsse.
-- **[00:26:22](https://www.youtube.com/watch?v=jgp7xBKELz0&t=26m22s)** - **Frage von Wolfgang Wiehle (AfD)**: Wiehle fragt Verkehrsminister Bilger, ob die Bahn künftig bei Korridorsanierungen wenigstens ein Gleis in Betrieb lassen werde, da Totalsperrungen zu gewaltigen Engpässen und Problemen führten.
-- **[00:27:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=27m33s)** - **Antwort von Steffen Bilger (BMV)**: Bilger räumt ein, dass das Konzept der Korridorsanierungen überarbeitet werden muss, da die bisherigen Sanierungen nicht immer zu deutlichen Verbesserungen geführt hätten. Ein neues Konzept soll zeitnah vorgestellt werden.
-- **[00:28:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=28m36s)** - **Nachfrage von Wolfgang Wiehle (AfD)**: Wiehle fragt, ob Totalsperrungen künftig gewartet werden, bis Umleitungsstrecken ordentlich ausgebaut sind, und verweist auf mangelhaft ausgebaute Umleitungsstrecken.
-- **[00:29:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=29m14s)** - **Antwort von Steffen Bilger (BMV)**: Bilger betont die Notwendigkeit hoher Investitionen in die Schiene, um das Netz instand zu setzen und den Personen- und Güterverkehr besser bewältigen zu können.
-- **[00:30:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=30m1s)** - **Frage von Matthias Gastel (Bündnis 90/Die Grünen)**: Gastel kritisiert, dass bei Generalsanierungen nicht mehr investiert wurde und Leitstellen sowie Digitalisierung gestrichen wurden, und fragt, welchen Sinn die Sanierung ohne Ausbau mache.
-- **[00:30:49](https://www.youtube.com/watch?v=jgp7xBKELz0&t=30m49s)** - **Antwort von Steffen Bilger (BMV)**: Bilger bittet darum, anzuerkennen, dass das bisherige Konzept nicht funktionierte und Nachsteuerungen notwendig seien. Man setze weiter auf Korridorsanierungen, aber so, dass sie funktionierten.
-- **[00:31:30](https://www.youtube.com/watch?v=jgp7xBKELz0&t=31m30s)** - **Frage von Michael Donth (CDU/CSU)**: Donth fragt nach der Position zur Digitalisierung der Strecken, um mehr Verkehr auf sanierte Bahnstrecken zu bekommen.
-- **[00:32:07](https://www.youtube.com/watch?v=jgp7xBKELz0&t=32m7s)** - **Antwort von Steffen Bilger (BMV)**: Bilger nennt die Digitalisierung als Chance zur effizienteren Nutzung von Schienenstrecken und verweist auf Milliardeninvestitionen in die Digitalisierung der Schiene.
-- **[00:32:45](https://www.youtube.com/watch?v=jgp7xBKELz0&t=32m45s)** - **Frage von Julian Joswig (Bündnis 90/Die Grünen)**: Joswig fragt Minister Bilger, ob die Generalsanierung der Strecke zwischen Köln, Bonn, Koblenz und Mainz 2028 durchgeführt wird, da eine Warnung von Landesverkehrsministern eingegangen sei.
-- **[00:33:26](https://www.youtube.com/watch?v=jgp7xBKELz0&t=33m26s)** - **Antwort von Steffen Bilger (BMV)**: Bilger bestätigt, dass das bisherige Konzept nicht wie geplant funktioniert hat und Änderungen notwendig seien. Er stehe in Kontakt mit den betroffenen Ministerien, um eine gute Lösung zu finden.
-- **[00:33:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=33m57s)** - **Frage von Dr. Ingo Hahn (AfD)**: Hahn fragt nach der Rolle der Nettozuwanderung von 6 Millionen Menschen seit 2015 bei der Überlastung des Verkehrssystems.
-- **[00:34:37](https://www.youtube.com/watch?v=jgp7xBKELz0&t=34m37s)** - **Antwort von Steffen Bilger (BMV)**: Bilger betont sein Ziel, ein attraktives Angebot auf der Schiene für Personen- und Güterverkehr zu schaffen, und dass mehr Menschen die Bahn nutzen sollen.
-- **[00:35:03](https://www.youtube.com/watch?v=jgp7xBKELz0&t=35m3s)** - **Frage von Truels Reichardt (SPD)**: Reichardt fragt Minister Bilger, wie sichergestellt werde, dass mehr Flexibilität für Fahrschüler nicht zulasten der Qualität und Sicherheit auf den Straßen gehe.
-- **[00:36:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=36m0s)** - **Antwort von Steffen Bilger (BMV)**: Bilger betont den hohen Stellenwert der Verkehrssicherheit und dass die Reform der Fahrschulausbildung berechtigt sei, um Kosten zu senken und die Digitalisierung zu nutzen. Er versichert, dass die Reform den hohen Ansprüchen an die Verkehrssicherheit gerecht werde.
-- **[00:36:53](https://www.youtube.com/watch?v=jgp7xBKELz0&t=36m53s)** - **Nachfrage von Truels Reichardt (SPD)**: Reichardt fragt nach konkreten Kriterien und Zeiträumen für die Überprüfung der Ziele der Reform.
-- **[00:37:09](https://www.youtube.com/watch?v=jgp7xBKELz0&t=37m9s)** - **Antwort von Steffen Bilger (BMV)**: Bilger verweist darauf, dass das Parlament nun am Zug sei und eine Evaluierung nach Verabschiedung des Gesetzentwurfs selbstverständlich sei.
-- **[00:37:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=37m41s)** - **Nachfrage von Swantje Henrike Michaelsen (Bündnis 90/Die Grünen)**: Michaelsen fragt, wie im Falle einer brenzligen Situation bei der Laienausbildung reagiert werden solle, wenn das Auto nicht über zusätzliche Spiegel oder Bremspedal verfüge und ein Eingreifen strafrechtlich verboten sei.
-- **[00:38:28](https://www.youtube.com/watch?v=jgp7xBKELz0&t=38m28s)** - **Antwort von Steffen Bilger (BMV)**: Bilger vergleicht die Situation mit dem begleiteten Fahren mit 17 und erklärt, dass junge Menschen mit einer Vertrauensperson im eigenen Auto besser lernen, mit schwierigen Situationen umzugehen.
-- **[00:39:05](https://www.youtube.com/watch?v=jgp7xBKELz0&t=39m5s)** - **Nachfrage von Henning Rehbaum (CDU/CSU)**: Rehbaum fragt, welche Verbesserungen Fahrschulen durch die Reform erwarten können, die auch den Abbau von Bürokratie zum Ziel habe.
-- **[00:39:30](https://www.youtube.com/watch?v=jgp7xBKELz0&t=39m30s)** - **Antwort von Steffen Bilger (BMV)**: Bilger betont die Rolle der Fahrschulen als Partner und nennt Beispiele wie die Umstellung auf Digitalisierung in der theoretischen Ausbildung, die den Bedarf an Unterrichtsräumen reduziere.
-- **[00:40:11](https://www.youtube.com/watch?v=jgp7xBKELz0&t=40m11s)** - **Nachfrage von Michael Donth (CDU/CSU)**: Donth fragt, ob die Führerscheinreform auch Kosten für Bus- und Lkw-Fahrer senken könne, um Fahrpersonal zu gewinnen.
-- **[00:40:45](https://www.youtube.com/watch?v=jgp7xBKELz0&t=40m45s)** - **Antwort von Steffen Bilger (BMV)**: Bilger erklärt, dass Vorschläge für die Fahrschulausbildung im Lkw- und Busbereich geprüft werden, um Kosten zu reduzieren und den Fachkräftemangel zu bekämpfen.
-- **[00:41:25](https://www.youtube.com/watch?v=jgp7xBKELz0&t=41m25s)** - **Frage von Sandra Detzer (Bündnis 90/Die Grünen)**: Detzer fragt Wirtschaftsministerin Reiche, ob sie mit den Maßnahmen im Rahmen der Initiative von Bundeskanzler und französischem Präsidenten für effektiven Handelsschutz einverstanden sei, insbesondere mit dem "Kill Switch" und Diversifizierungsinstrumenten.
-- **[00:42:48](https://www.youtube.com/watch?v=jgp7xBKELz0&t=42m48s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche weist die Behauptung zurück, sie sei nicht beteiligt, und betont die gemeinsame Arbeit mit Frankreich und die Beteiligung an den Gesprächen im Handelsministerrat. Sie verweist auf den Rohstofffonds und durchgesetzte Schutzmaßnahmen wie bei Korund und Flachstahl.
-- **[00:44:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=44m1s)** - **Nachfrage von Sandra Detzer (Bündnis 90/Die Grünen)**: Detzer fragt, wie die Ministerin zur Initiative des Bundeskanzlers stehe und ob sie diese im Rahmen des Industrial Accelerator Act aktiv vertreten werde.
-- **[00:44:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=44m35s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass der Industrial Accelerator Act nicht nur verfolgt, sondern aktiv mitverhandelt werde und dazu diene, Unternehmen zu schützen und neue Chancen zu eröffnen.
-- **[00:45:17](https://www.youtube.com/watch?v=jgp7xBKELz0&t=45m17s)** - **Nachfrage von Julian Joswig (Bündnis 90/Die Grünen)**: Joswig fragt Ministerin Reiche, wie sie die Förderung chinesischer Autos mit der deutschen E-Auto-Prämie rechtfertigen könne, und kritisiert, dass Plug-in-Hybride aus China den Markt überschwemmten.
-- **[00:46:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=46m0s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass es schwierig sei, Förderungen gezielt auszuschließen, und dass die Unterstützung eigener Hersteller von E-Fahrzeugen ein Ziel sei, das gemeinsam mit Frankreich umgesetzt werde.
-- **[00:46:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=46m36s)** - **Nachfrage von Dr. Alaa Alhamwi (Bündnis 90/Die Grünen)**: Alhamwi fragt, was die Ministerin zum Schutz der deutschen und europäischen Wärmepumpenindustrie vor chinesischem Druck unternehme.
-- **[00:47:22](https://www.youtube.com/watch?v=jgp7xBKELz0&t=47m22s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche verweist auf die angepasste Förderung für Wärmepumpen mit einem Local-Content-Element und betont, dass bei der Förderung von Commodities derjenige gewinne, der am billigsten produzieren könne.
-- **[00:47:59](https://www.youtube.com/watch?v=jgp7xBKELz0&t=47m59s)** - **Nachfrage von Dr. Klaus Wiener (CDU/CSU)**: Wiener bittet Ministerin Reiche um Erläuterung, warum "made with Europe" wichtiger sei als "made in Europe".
-- **[00:48:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=48m23s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass das Ziel sei, Handelspartnern zu ermöglichen, sich an gemeinsamer Beschaffung in Europa zu beteiligen, um große Handelsräume zu schaffen und zu sichern.
-- **[00:49:12](https://www.youtube.com/watch?v=jgp7xBKELz0&t=49m12s)** - **Nachfrage von Dr. Rainer Kraft (AfD)**: Kraft fragt Ministerin Reiche, ob sie sich auf europäischer Ebene für die Abschaffung der Flottengrenzwerte einsetzen werde, um die Preisdifferenz zwischen Verbrennern und E-Autos wiederherzustellen.
-- **[00:49:54](https://www.youtube.com/watch?v=jgp7xBKELz0&t=49m54s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass die Koalition für eine Flexibilisierung der CO2-Flottengrenzwerte eintritt und dies mit der Kommission verhandle, um der Automobilindustrie den Übergang zu ermöglichen.
-- **[00:50:28](https://www.youtube.com/watch?v=jgp7xBKELz0&t=50m28s)** - **Frage von Alexander Jordan (CDU/CSU)**: Jordan fragt die Bundesregierung, was sie tue, um der Elektromobilität zum endgültigen Durchbruch zu verhelfen.
-- **[00:51:26](https://www.youtube.com/watch?v=jgp7xBKELz0&t=51m26s)** - **Antwort von Steffen Bilger (BMV)**: Bilger verweist auf den Hochlauf der Elektromobilität, insbesondere im Lkw-Bereich zur Erreichung der Klimaziele, und auf den Ausbau der Ladeinfrastruktur für Pkw und Lkw.
-- **[00:52:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=52m33s)** - **Nachfrage von Alexander Jordan (CDU/CSU)**: Jordan fragt nach dem Ausbau des Schnellladenetzes für Lkw, wann und wo dieser stattfinden werde.
-- **[00:52:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=52m57s)** - **Antwort von Steffen Bilger (BMV)**: Bilger erklärt, dass das Schnellladenetz für Lkw entlang der Autobahnen konsequent aufgebaut werde, ebenso wie das Schnellladenetz für Pkw.
-- **[00:53:43](https://www.youtube.com/watch?v=jgp7xBKELz0&t=53m43s)** - **Nachfrage von Daniel Kölbl (CDU/CSU)**: Kölbl fragt, wo der größte Handlungsbedarf beim Hochlauf der Elektromobilität gesehen werde (Netzanschluss, Flächenbereitstellung, Wirtschaftlichkeit).
-- **[00:54:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=54m1s)** - **Antwort von Steffen Bilger (BMV)**: Bilger nennt die Förderung von Mehrparteienhäusern zur Installation von Ladeinfrastruktur als Herausforderung, für die 500 Mio. Euro zur Verfügung stünden.
-- **[00:54:44](https://www.youtube.com/watch?v=jgp7xBKELz0&t=54m44s)** - **Nachfrage von Swantje Henrike Michaelsen (Bündnis 90/Die Grünen)**: Michaelsen fragt, warum im Haushalt die Förderung für die Anschaffung von Elektrobussen gekürzt werde, obwohl dies ein wichtiger Baustein für die Elektromobilität in Kommunen sei.
-- **[00:55:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=55m23s)** - **Antwort von Steffen Bilger (BMV)**: Bilger betont die Technologieoffenheit und die fortlaufende Förderung von Elektrobussen (und Wasserstoffbussen) mit bisher über 5.300 Fahrzeugen.
-- **[00:56:09](https://www.youtube.com/watch?v=jgp7xBKELz0&t=56m9s)** - **Nachfrage von Henning Rehbaum (CDU/CSU)**: Rehbaum fragt, inwieweit die Lkw-Maut zur Förderung emissionsfreier Antriebe genutzt wird.
-- **[00:56:40](https://www.youtube.com/watch?v=jgp7xBKELz0&t=56m40s)** - **Antwort von Steffen Bilger (BMV)**: Bilger erklärt, dass die Befreiung von der Lkw-Maut bis 2031 ein wesentliches Argument für die Entscheidung für Elektro-Lkw sei. Zudem unterstütze man die Ladeinfrastruktur in Depots.
-- **[00:57:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=57m41s)** - **Frage von Agnes Conrad (Die Linke)**: Conrad fragt Ministerin Reiche nach konkreten Maßnahmen zur Verhinderung des Stellenabbaus bei Volkswagen und zur Sicherung der Beschäftigung an deutschen Standorten.
-- **[00:58:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=58m41s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche kann einzelne Maßnahmen des Managements nicht kommentieren, nimmt aber die Gespräche zwischen Gewerkschaften und Vorstand wahr. Sie betont die Tarifautonomie, erwähnt aber auch die geplante Umnutzung eines Standorts in Osnabrück für die Verteidigungsgüterproduktion.
-- **[00:59:53](https://www.youtube.com/watch?v=jgp7xBKELz0&t=59m53s)** - **Nachfrage von Agnes Conrad (Die Linke)**: Conrad fragt, wie die Regierung sich konkret dafür einsetzen wolle, dass die von Volkswagen gekündigten Tarifverträge mit aktuellen Konditionen bestehen bleiben, da die Bundesregierung Fördergelder an VW gezahlt habe.
-- **[01:00:07](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h0m7s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche bekräftigt die Tarifautonomie und erwähnt die Umnutzung eines Standorts in Osnabrück für die Verteidigungsgüterproduktion als aktive Unterstützung.
-- **[01:00:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h0m41s)** - **Nachfrage von Dr. Paul Schmidt (CDU/CSU)**: Schmidt fragt Ministerin Reiche, wie sie die Strompreise drücken wolle, da das Stromversorgungssicherheits- und Kapazitätsgesetz den Strompreis erhöhen werde, während 190.000 Betriebe ihre Geschäftstätigkeit einstellten.
-- **[01:01:37](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h1m37s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass das Instrument im Markt geschaffen werde, um Investitionen in gesicherte Leistung abzusichern und die Versorgung jederzeit zu sichern. Dies geschehe kosteneffizient.
-- **[01:02:13](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h2m13s)** - **Nachfrage von Dr. Blos (AfD)**: Blos fragt Ministerin Reiche konkret, welche Maßnahme sie ergreifen wolle, um die Kosten für Redispatch- und Netzengpassmaßnahmen in Milliardenhöhe schnell zu senken.
-- **[01:02:46](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h2m46s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt den Netzausbau als beste Maßnahme zum Abtransport von Strom und betont, dass die Netze schnell und digital ausgebaut werden müssten.
-- **[01:03:17](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h3m17s)** - **Nachfrage von Dr. Rainer Kraft (AfD)**: Kraft fragt Ministerin Reiche, warum Deutschland nicht zur Kernenergie und Kohleverstromung zurückkehre und russische Gas- und Öllieferungen wieder aufnehme.
-- **[01:04:26](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h4m26s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche lehnt die Abhängigkeit von russischem Gas ab und verweist auf die Entscheidung, auf erneuerbare Energie und flexible Gaskraftwerke zu setzen.
-- **[01:05:09](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h5m9s)** - **Nachfrage von Dr. Alaa Alhamwi (Bündnis 90/Die Grünen)**: Alhamwi fragt Ministerin Reiche, ob ihr Gesetzentwurf unionsrechtskonform sei, da er im Gegensatz zum European Grids Package stehe.
-- **[01:06:07](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h6m7s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont, dass Gesetzentwürfe dem Unionsrecht und der deutschen Verfassung entsprechen müssten und die Synchronisierung von Netzausbau und Anlagenzubau bei den Erneuerbaren umgesetzt werde.
-- **[01:07:07](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h7m7s)** - **Nachfrage von Michael Kellner (Bündnis 90/Die Grünen)**: Kellner fragt Ministerin Reiche, wie viele Menschen noch auf die Straße gesetzt werden müssten, bevor sie ihren Kurs ändere, da zahlreiche Unternehmen der Erneuerbaren-Branche Stellen abbauten oder insolvent seien.
-- **[01:08:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h8m14s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche bekräftigt die Ausbauziele für Erneuerbare, betont aber die Notwendigkeit einer kosteneffizienteren Umsetzung und die Förderung energieintensiver Unternehmen zur Sicherung von Arbeitsplätzen.
-- **[01:09:06](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h9m6s)** - **Nachfrage von Michael Kellner (Bündnis 90/Die Grünen)**: Kellner kritisiert die Gesetzentwürfe der Ministerin und fragt, ob sie auf die Kritik höre und ihren Kurs ändere.
-- **[01:09:27](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h9m27s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont, dass der Entwurf auf Nachhaltigkeit, Sicherheit und Bezahlbarkeit der Energie abziele und eine Kurskorrektur notwendig sei, um Systemkosten zu vermeiden.
-- **[01:09:32](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h9m32s)** - **Nachfrage von Dirk Wiese (SPD)**: Wiese fragt nach der Haltung des Hauses zu den Gesprächen zwischen BASF und Evonik und möglichen Strukturbrüchen im Ruhrgebiet.
-- **[01:09:40](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h9m40s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont die Bedeutung der Chemiekompetenz in NRW und verweist auf Bemühungen, den Industriestrompreis über 2030 hinaus zu verlängern.
-- **[01:10:16](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h10m16s)** - **Nachfrage von Lorenz Gösta Beutin (Bündnis 90/Die Grünen)**: Beutin fragt Ministerin Reiche, ob sie die Kritik von Ministerpräsident Daniel Günther teile und die Reform grundlegend überdenke, da Unternehmen Unsicherheit und Angst vor Arbeitsplatzverlust hätten.
-- **[01:11:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h11m1s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont die Notwendigkeit, den Ausbau der Erneuerbaren und gesicherte Leistung zusammenzudenken und die Stromkosten in den Griff zu bekommen sowie europäisch zu denken.
-- **[01:11:55](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h11m55s)** - **Nachfrage von Dr. Julia Verlinden (Bündnis 90/Die Grünen)**: Verlinden fragt Ministerin Reiche, ob die beabsichtigte Reduzierung von Investitionen in Solaranlagen auf Dächern Ziel der Politik sei und wie der Koalitionspartner dazu stehe.
-- **[01:12:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h12m36s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass der Gesetzentwurf gemeinsam beschlossen wurde und die Unterstützung für Dach-PV durch Boni, Übergangszahlungen sowie Steuerbefreiungen fortbestehe.
-- **[01:13:20](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h13m20s)** - **Nachfrage von Bär (Bündnis 90/Die Grünen)**: Bär fragt, warum die Förderung von Agri-PV-Anlagen gestrichen werde, und kritisiert die fehlende Verlässlichkeit für Unternehmen.
-- **[01:13:59](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h13m59s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass das Ziel sei, die Kosten der Förderung zu senken und mehr Marktnähe, Effizienz und Wettbewerb im Sektor der Erneuerbaren zu erreichen.
-- **[01:14:34](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h14m34s)** - **Frage von Nicklas Kappe (CDU/CSU)**: Kappe fragt Ministerin Reiche nach konkreten Maßnahmen zur Stärkung des Gründungs- und Scale-up-Umfelds und zur Generierung von Wertschöpfung.
-- **[01:15:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h15m35s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt die Öffnung der Kapitalmarktregeln für Altersvorsorge, die Möglichkeit für Stiftungen als VC-Geber, steuerliche Erleichterungen und die Neustrukturierung von Fonds zur Unterstützung von Deep Tech und Scale-ups.
-- **[01:17:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h17m1s)** - **Nachfrage von Katharina Beck (Bündnis 90/Die Grünen)**: Beck fragt nach den Möglichkeiten zur Skalierungsfinanzierung im Bereich der betrieblichen Altersvorsorge und Reformen der ersten Säule.
-- **[01:17:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h17m14s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont die Bedeutung der Öffnung der Renten im Kapitalbereich für Investitionen in Wachstumsunternehmen und verweist auf die bereits erreichten Fortschritte.
-- **[01:17:46](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h17m46s)** - **Frage von Dunja Kreiser (SPD)**: Kreiser fragt Ministerin Reiche, ob sie zustimme, dass der Ausbau erneuerbarer Energien gewünscht sei, und ob zu hohe Hürden für Speicherung und Nutzung von Überschussstrom bestünden.
-- **[01:19:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h19m0s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche bekräftigt die Erneuerbaren-Ausbauziele, die schnellere Synchronisierung von Netzausbau und Anlagenzubau und die Möglichkeit der Nutzung von Überschussstrom, betont aber die Notwendigkeit, die Kosten in den Griff zu bekommen.
-- **[01:19:59](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h19m59s)** - **Nachfrage von Dunja Kreiser (SPD)**: Kreiser fragt, ob sie der Ministerin zustimme, dass der Vergleich mit überschüssigen Brötchen beim Bäcker nichts mit Energieinfrastruktur zu tun habe.
-- **[01:20:21](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h20m21s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont, dass geförderter erneuerbarer Strom unmittelbar genutzt werden müsse, was entsprechende Stromnetze erfordere, und dass die Genehmigungszeiten für PV-Anlagen und Stromnetze harmonisiert werden müssten.
-- **[01:20:31](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h20m31s)** - **Nachfrage von Dr. Blos (AfD)**: Blos fragt Ministerin Reiche konkret nach Maßnahmen zur schnellen Senkung der Kosten für Redispatch- und Netzengpassmaßnahmen.
-- **[01:20:47](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h20m47s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt den Netzausbau als beste Maßnahme und verweist auf die hohen Kosten für Redispatch, die zu viel seien.
-- **[01:21:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h21m1s)** - **Nachfrage von Kotré (AfD)**: Kotré fragt Ministerin Reiche, warum Deutschland nicht zur Kernenergie und Kohleverstromung zurückkehre und russische Gas- und Öllieferungen wieder aufnehme.
-- **[01:21:24](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h21m24s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche lehnt die Abhängigkeit von russischem Gas ab und verweist auf die Entscheidung, auf erneuerbare Energie und flexible Gaskraftwerke zu setzen.
-- **[01:22:15](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h22m15s)** - **Nachfrage von Dr. Rainer Kraft (AfD)**: Kraft fragt Ministerin Reiche, wie ein Ausbau der Netze dazu helfen solle, Überschussstrom im Sommer in die kalten Winternächte zu bekommen.
-- **[01:22:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h22m35s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche verweist auf das Erneuerbare-Energien-Gesetz, das auf Speicher, darunter Batteriespeicher, und einen Ausbau des Strommarktes zu einem Flexibilitätsmarkt setzt.
-- **[01:23:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h23m33s)** - **Nachfrage von Dr. Alaa Alhamwi (Bündnis 90/Die Grünen)**: Alhamwi fragt Ministerin Reiche, ob ihr Gesetzentwurf unionsrechtskonform sei, da er im Gegensatz zum European Grids Package stehe.
-- **[01:24:18](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h24m18s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont, dass die Gesetzentwürfe dem Unionsrecht und der deutschen Verfassung entsprechen müssten und die Synchronisierung von Netzausbau und Anlagenzubau bei den Erneuerbaren umgesetzt werde.
-- **[01:24:56](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h24m56s)** - **Frage von Michael Kellner (Bündnis 90/Die Grünen)**: Kellner fragt Ministerin Reiche, wie viele Menschen noch auf die Straße gesetzt werden müssten, bevor sie ihren Kurs ändere, da zahlreiche Unternehmen der Erneuerbaren-Branche Stellen abbauten oder insolvent seien.
-- **[01:26:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h26m14s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche bekräftigt die Ausbauziele für Erneuerbare, betont aber die Notwendigkeit einer kosteneffizienteren Umsetzung und die Förderung energieintensiver Unternehmen zur Sicherung von Arbeitsplätzen.
-- **[01:27:24](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h27m24s)** - **Nachfrage von Michael Kellner (Bündnis 90/Die Grünen)**: Kellner kritisiert die Gesetzentwürfe der Ministerin und fragt, ob sie auf die Kritik höre und ihren Kurs ändere.
-- **[01:27:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h27m57s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont, dass der Entwurf auf Nachhaltigkeit, Sicherheit und Bezahlbarkeit der Energie abziele und eine Kurskorrektur notwendig sei, um Systemkosten zu vermeiden.
-- **[01:28:32](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h28m32s)** - **Nachfrage von Dirk Wiese (SPD)**: Wiese fragt nach der Haltung des Hauses zu den Gesprächen zwischen BASF und Evonik und möglichen Strukturbrüchen im Ruhrgebiet.
-- **[01:29:12](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h29m12s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont die Bedeutung der Chemiekompetenz in NRW und verweist auf Bemühungen, den Industriestrompreis über 2030 hinaus zu verlängern.
-- **[01:30:16](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h30m16s)** - **Nachfrage von Lorenz Gösta Beutin (Bündnis 90/Die Grünen)**: Beutin fragt Ministerin Reiche, ob sie die Kritik von Ministerpräsident Daniel Günther teile und die Reform grundlegend überdenke, da Unternehmen Unsicherheit und Angst vor Arbeitsplatzverlust hätten.
-- **[01:31:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h31m1s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont die Notwendigkeit, den Ausbau der Erneuerbaren und gesicherte Leistung zusammenzudenken und die Stromkosten in den Griff zu bekommen sowie europäisch zu denken.
-- **[01:31:55](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h31m55s)** - **Nachfrage von Dr. Julia Verlinden (Bündnis 90/Die Grünen)**: Verlinden fragt Ministerin Reiche, ob die beabsichtigte Reduzierung von Investitionen in Solaranlagen auf Dächern Ziel der Politik sei und wie der Koalitionspartner dazu stehe.
-- **[01:32:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h32m36s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass der Gesetzentwurf gemeinsam beschlossen wurde und die Unterstützung für Dach-PV durch Boni, Übergangszahlungen sowie Steuerbefreiungen fortbestehe.
-- **[01:33:20](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h33m20s)** - **Nachfrage von Bär (Bündnis 90/Die Grünen)**: Bär fragt, warum die Förderung von Agri-PV-Anlagen gestrichen werde, und kritisiert die fehlende Verlässlichkeit für Unternehmen.
-- **[01:33:59](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h33m59s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche erklärt, dass das Ziel sei, die Kosten der Förderung zu senken und mehr Marktnähe, Effizienz und Wettbewerb im Sektor der Erneuerbaren zu erreichen.
-- **[01:34:34](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h34m34s)** - **Frage von Nicklas Kappe (CDU/CSU)**: Kappe fragt Ministerin Reiche nach konkreten Maßnahmen zur Stärkung des Gründungs- und Scale-up-Umfelds und zur Generierung von Wertschöpfung.
-- **[01:35:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h35m35s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche nennt die Öffnung der Kapitalmarktregeln für Altersvorsorge, die Möglichkeit für Stiftungen als VC-Geber, steuerliche Erleichterungen und die Neustrukturierung von Fonds zur Unterstützung von Deep Tech und Scale-ups.
-- **[01:37:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h37m1s)** - **Nachfrage von Katharina Beck (Bündnis 90/Die Grünen)**: Beck fragt nach den Möglichkeiten zur Skalierungsfinanzierung im Bereich der betrieblichen Altersvorsorge und Reformen der ersten Säule.
-- **[01:37:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h37m14s)** - **Antwort von Katherina Reiche (BMWE)**: Reiche betont die Bedeutung der Öffnung der Renten im Kapitalbereich für Investitionen in Wachstumsunternehmen und verweist auf die bereits erreichten Fortschritte.
-- **[01:38:12](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h38m12s)** - **Ende der Befragung**: Die Befragung der Bundesregierung wird beendet.
-- **[01:39:46](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1h39m46s)** - **Aufruf zur Fragestunde**: Der nächste Tagesordnungspunkt, die Fragestunde, wird aufgerufen.
+- **[00:00:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=0s)** - **Sitzungsbeginn / Einleitung**: Präsidentin eröffnet die 98. Sitzung und ruft den Tagesordnungspunkt 1 auf: Befragung der Bundesregierung. Benannt sind die Bundesministerin für Wirtschaft und Energie, Frau Katherina Reiche, und der Bundesminister für Verkehr, Herr Steffen Bilger. Ihnen wird jeweils eine Redezeit von acht Minuten zugestanden.
+
+- **[00:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=35s)** - **Bundesministerin für Wirtschaft und Energie, Frau Katherina Reiche**: Stellt die wirtschaftliche Lage dar, die die Regierung übernommen habe. Sie betont, dass trotz anfänglich beklagenswertem Zustand die Wirtschaft wieder auf die Beine gestellt worden sei. Sie kündigt die Vorstellung der Herbstprojektion an und verweist auf gestiegene Wachstumsprognosen von Wirtschaftsinstituten. Sie nennt externe Krisen (Golf, Krieg in Europa, Zollstreitigkeiten) als Belastung, betont aber auch die Notwendigkeit interner "Hausaufgaben" zur Stärkung der Wettbewerbsfähigkeit und für nachhaltiges Wachstum. Ihre Leitlinie sei "Entlasten, entfesseln, erneuern – Deutschland zurück an die Spitze bringen". Sie stellt die Energiepolitik als eng mit der Wirtschaftspolitik verbunden dar und erläutert ihren Zehn-Punkte-Plan zur Wettbewerbsfähigkeit, Bezahlbarkeit, Sicherheit und Nachhaltigkeit der Energiepolitik. Sie hebt Entlastungen von über 8 Milliarden Euro hervor, den Ausbau erneuerbarer Energien (Ziel 80% bis 2030) sowie die Notwendigkeit, die Systemkosten anzugehen und Erneuerbare mit dem Netzausbau zu synchronisieren. "Entfesseln" bedeute auch, private Investitionen zu werben, und nennt hierfür den Deutschlandfonds (30 Mrd. € öffentliche Mittel mobilisieren 130 Mrd. € private). Sie hebt Deutschlands Stärken in Technologie, Talent und Kapital hervor und die Bedeutung von Reformen als "Reaktionsbeschleuniger".
+
+- **[05:46](https://www.youtube.com/watch?v=jgp7xBKELz0&t=346s)** - **Bundesminister für Verkehr, Herr Steffen Bilger**: Spricht über Verlässlichkeit und Planbarkeit für die Mobilität und das Ziel, dass Menschen zuverlässig und sicher von A nach B kommen. Er betont die Notwendigkeit einer leistungsfähigen Infrastruktur, die über Legislaturperioden hinaus wirkt, und nennt Instrumente zur langfristigen Sicherung von Investitionen. Er kündigt den Gesetzentwurf zur Kreditfähigkeit der Autobahngesellschaft des Bundes an, der eine Finanzierung über Lkw-Maut-Einnahmen und die Nutzung privaten Kapitals ermöglicht, um Baumaßnahmen und Investitionen in Rastanlagen und Lkw-Stellplätze zu sichern. Für die Schiene wird an einem Eisenbahninfrastrukturfonds gearbeitet, um die Finanzierung und Planung überjährig, flexibel und verlässlich zu gestalten. Er spricht die Notwendigkeit an, das Konzept der Korridorsanierungen anzupassen und erwähnt den neuen Infraplan als verbindliches Steuerungsinstrument für Schienennetzprojekte.
+
+- **[09:19](https://www.youtube.com/watch?v=jgp7xBKELz0&t=559s)** - **AfD (Leif-Erik Holm)**: Fragt die Wirtschaftsministerin Reiche nach Entlastungen bei Steuern und Energiepreisen, kritisiert die Pläne für neue Steuern (Zucker-, Verpackungssteuer) und die geringe Entlastung bei Spritpreisen im Vergleich zu Polen oder Österreich. Er fordert eine dauerhafte Senkung der Energiesteuer, die Abschaffung der CO2-Abgabe und eine Reduzierung der Mehrwertsteuer. Er fragt, ob Bürger und Unternehmen nach 100% Steueraufschlägen eine deutliche und dauerhafte Entlastung verdient hätten.
+
+- **[10:27](https://www.youtube.com/watch?v=jgp7xBKELz0&t=627s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Erklärt, dass die Regierung reagiert habe und den "Tankrabatt" (Senkung der Steuerbelastungen um 14 Cent) eingeführt habe, was zu einer Senkung der Spritpreise um 17 Cent führte. Sie räumt ein, dass hohe Spritpreise belasten, betont aber auch die Wettbewerbsfähigkeit der Raffinerien als wichtiges Gut für die Versorgungssicherheit. Sie kündigt Gespräche mit Raffinerien an, um diese dauerhaft wettbewerbsfähig zu halten.
+
+- **[11:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=756s)** - **AfD (Leif-Erik Holm, Nachfrage)**: Hakt nach bezüglich Steuern, kritisiert die Zucker- und Verpackungssteuer und fragt, ob Ministerin Reiche eine Einkommensteuerreform ohne Ausgleich der kalten Progression mittragen würde.
+
+- **[12:04](https://www.youtube.com/watch?v=jgp7xBKELz0&t=724s)** - **Bundesministerin Reiche (Antwort auf Nachfrage)**: Stellt klar, dass die geplante Einkommensteuerreform sehr wohl einen Ausgleich für kleine und mittlere Einkommen beinhalten wird, wobei bei hohen Einkommen ein Beitrag zu leisten sei. Weitere Steuern würden im Kabinett und in der Koalition beraten.
+
+- **[12:31](https://www.youtube.com/watch?v=jgp7xBKELz0&t=751s)** - **SPD (Sebastian Roloff)**: Fragt die Wirtschaftsministerin bezüglich wegbrechender Absatzmärkte in China und des Außenhandelsdefizits. Er verweist auf Forderungen nach effektiven Handelsschutzinstrumenten und fragt, ob die Einführung eines grundsätzlichen Basiszollsatzes für Einfuhren aus China zur Ausgleichung künstlicher Währungsvorteile und darauf aufbauender Antisubventionszölle geboten sei.
+
+- **[13:38](https://www.youtube.com/watch?v=jgp7xBKELz0&t=818s)** - **Bundesministerin Reiche (Antwort auf SPD)**: Betont die Notwendigkeit offener Märkte für eine exportorientierte Nation, teilt aber die Sorge bezüglich unfairer Handelspraktiken. Sie verweist auf das verschärfte EU-Instrumentarium gegen unfaire Handelspraktiken, die Foreign Subsidies Regulation, Beschränkungen bei Vergaben und das Anti Coercion Instrument.
+
+- **[14:47](https://www.youtube.com/watch?v=jgp7xBKELz0&t=887s)** - **SPD (Sebastian Roloff, Nachfrage)**: Fragt nach konkreten weiteren Maßnahmen zur Senkung des Handelsdefizits und zum Schutz heimischer Wirtschaft vor unfairen Handelspraktiken.
+
+- **[15:02](https://www.youtube.com/watch?v=jgp7xBKELz0&t=902s)** - **Bundesministerin Reiche (Antwort auf SPD-Nachfrage)**: Nennt durchgesetzte Beschränkungen, insbesondere bei Stahl (Flachstahl), sowie laufende Verfahren im Bereich Chemie (Epoxidharze, Polyethylen). Sie betont die Notwendigkeit schnellerer Überprüfungsverfahren und Einigungen auf Einfuhrbeschränkungen.
+
+- **[15:51](https://www.youtube.com/watch?v=jgp7xBKELz0&t=951s)** - **Bündnis 90/Die Grünen (Victoria Broßart)**: Fragt den Verkehrsminister Bilger, wie er den Pendlerinnen und Pendler erklären werde, dass trotz 4 Mrd. Euro für einen Tankrabatt nicht genügend Geld für den Nahverkehr auf der Schiene vorhanden sei, was zur Ausdünnung von Fahrplänen führe. Sie kritisiert, dass der Tankrabatt primär Ölkonzernen zugutekomme.
+
+- **[16:48](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1008s)** - **Bundesminister Bilger (Antwort auf Grüne)**: Verweist auf die Förderung von Bus und Bahn, darunter das Deutschlandticket (3 Mrd. €) und Regionalisierungsmittel, sowie Rekordinvestitionen in die Schieneninfrastruktur. Er bekräftigt, dass die Bundesregierung hinter den Angeboten von Bus und Bahn stehe.
+
+- **[17:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1056s)** - **Bündnis 90/Die Grünen (Victoria Broßart, Nachfrage)**: Hakt nach dem Widerspruch, dass bei steigenden Spritpreisen einerseits der Tankrabatt eingeführt, andererseits das Deutschlandticket verteuert wird, da der Bund nicht mehr Geld bereitstelle. Sie fragt, ob dies sozial gerechte Politik sei.
+
+- **[18:16](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1096s)** - **Bundesminister Bilger (Antwort auf Grüne-Nachfrage)**: Sieht keinen Widerspruch, da der Tankrabatt auch Busunternehmen und ÖPNV-Anbieter zugutekomme. Er betont die fortlaufende finanzielle und infrastrukturelle Unterstützung für Bus und Bahn, einschließlich des Deutschlandtickets.
+
+- **[18:54](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1134s)** - **CDU/CSU (Dr. Andreas Lenz)**: Fragt die Wirtschaftsministerin nach den besonderen Stärken und Fähigkeiten der deutschen Wirtschaft und nach den Schwerpunkten der Wirtschaftspolitik der Koalition, angesichts der erhöhten Wachstumsprognosen trotz geopolitischer Unwägbarkeiten.
+
+- **[20:03](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1203s)** - **Bundesministerin Reiche (Antwort auf CDU/CSU)**: Nennt Export und das Investitionspaket Klima und Infrastruktur als Treiber des Wachstums. Sie betont die Notwendigkeit, das Potenzialwachstum zu stärken durch flexiblem Arbeitsmarkt, niedrigeren Abgaben für soziale Sicherungssysteme, weniger Bürokratie und wettbewerbsfähige Energiepreise sowie Technologie.
+
+- **[21:13](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1273s)** - **CDU/CSU (Dr. Andreas Lenz, Nachfrage)**: Fragt nach konkreten Maßnahmen zur weiteren Potenzialhebung, zur Förderung von Investitionen und zur Etablierung von Wachstum, insbesondere durch Technologie.
+
+- **[21:29](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1289s)** - **Bundesministerin Reiche (Antwort auf CDU/CSU-Nachfrage)**: Nennt den Abbau von Bürokratie, die Flexibilisierung des Arbeitsmarkts und das Setzen auf Technologie wie industrielle KI, Biotechnologie und autonomes Fahren.
+
+- **[22:10](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1330s)** - **Die Linke (Janine Wissler)**: Fragt die Wirtschaftsministerin nach ihrer Argumentation bezüglich Gaskraftwerken zur Netzstabilität, obwohl nur wenige Tage im Jahr Sonne und Wind ausfallen. Sie kritisiert die Abhängigkeit von Gasimporten und fragt, warum Stromimporte aus Nachbarländern schlecht seien, aber dauerhafter Gasimport gut.
+
+- **[23:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1403s)** - **Bundesministerin Reiche (Antwort auf Die Linke)**: Erklärt, dass neben dem Ausbau erneuerbarer Energien (Ziel 80% bis 2030) auch gesicherte Leistung benötigt wird, insbesondere angesichts von Elektrifizierung (Wärme, Mobilität) und steigendem Strombedarf (Rechenzentren). Sie betont die Notwendigkeit der Eigenversorgung in Phasen der Unterversorgung und die Integration in den europäischen Markt.
+
+- **[24:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1481s)** - **Die Linke (Janine Wissler, Nachfrage)**: Kritisiert, dass der Zubau bei Erneuerbaren nicht auf die Entscheidungen der Ministerin zurückgehe und sie die Abhängigkeit von Öl und Gas zementiere. Sie fragt nach konkreten Maßnahmen zum Schutz der Verbraucher vor zu hohen Heizkosten bei Öl und Gas.
+
+- **[25:17](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1517s)** - **Bundesministerin Reiche (Antwort auf Die Linke-Nachfrage)**: Nennt Investitionen in Wärmepumpen, angehobene Fördermittel und die Fortsetzung des Programms für den Ausbau von Fernwärme. Sie betont, dass der Umstieg von Gasheizungen schrittweise erfolgen müsse.
+
+- **[26:22](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1582s)** - **AfD (Wolfgang Wiehle)**: Fragt den Verkehrsminister Bilger, ob die Bahn bei ihren Sanierungsarbeiten zukünftig wenigstens ein Gleis in Betrieb lassen werde, angesichts der Unzuverlässigkeit und der gravierenden Engpässe durch Totalsperrungen.
+
+- **[27:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1653s)** - **Bundesminister Bilger (Antwort auf AfD)**: Stellt fest, dass das Konzept der Korridorsanierungen überarbeitet werden müsse, da die Zusagen von deutlichen Verbesserungen nach den Sanierungen nicht immer eingehalten wurden. Ein neues Konzept soll vorgestellt werden, das sicherstellt, dass es danach zu einer Verbesserung kommt.
+
+- **[28:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1716s)** - **AfD (Wolfgang Wiehle, Nachfrage)**: Fragt, ob Totalsperrungen fortgesetzt würden und ob diese erst durchgeführt würden, wenn die Umleitungsstrecken ordentlich ausgebaut seien.
+
+- **[29:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1754s)** - **Bundesminister Bilger (Antwort auf AfD-Nachfrage)**: Betont die Notwendigkeit von hohen Investitionen in die Schiene zur Instandsetzung des Netzes für Güter- und Personenverkehr und zur Erreichung von mehr Pünktlichkeit und Zuverlässigkeit.
+
+- **[30:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1801s)** - **Bündnis 90/Die Grünen (Matthias Gastel)**: Kritisiert, dass bei Generalsanierungen der Bahn keine Investitionen in Leitstellen oder Digitalisierung erfolgten und fragt, welchen Sinn das Ganze habe, wenn nur saniert werde.
+
+- **[30:49](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1849s)** - **Bundesminister Bilger (Antwort auf Grüne)**: Fordert die Anerkennung, dass das bisherige Konzept nicht funktioniert habe, und betont die Notwendigkeit, nachzusteuern. Er versichert, dass Korridorsanierungen fortgesetzt würden, aber so, dass sie funktionieren.
+
+- **[31:30](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1890s)** - **CDU/CSU (Michael Donth)**: Fragt zur Digitalisierung der Bahnstrecken im Rahmen von Korridorsanierungen, um mehr Verkehr auf sanierte Strecken zu bekommen.
+
+- **[32:07](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1927s)** - **Bundesminister Bilger (Antwort auf CDU/CSU)**: Betont die Chance durch Digitalisierung zur effizienteren Nutzung von Schienenstrecken und kündigt Milliardeninvestitionen in die Digitalisierung der Schiene an.
+
+- **[32:45](https://www.youtube.com/watch?v=jgp7xBKELz0&t=1965s)** - **Bündnis 90/Die Grünen (Julian Joswig)**: Fragt den Verkehrsminister, ob er den Menschen im Rheinland versprechen könne, dass die Generalsanierung auf der linken Rheinseite 2028 planmäßig durchgeführt wird, angesichts eines Briefes der Landesverkehrsminister von NRW und RLP.
+
+- **[33:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2003s)** - **Bundesminister Bilger (Antwort auf Grüne)**: Bestätigt, dass die Korridorsanierungen bisher nicht wie geplant funktioniert hätten und Änderungen im Konzept nötig seien. Er steht in Kontakt mit den betroffenen Ministerien, um eine gute Lösung zu finden.
+
+- **[33:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2037s)** - **AfD (Dr. Ingo Hahn)**: Fragt den Verkehrsminister, welche Rolle die Nettozuwanderung von 6 Millionen Menschen seit 2015 bei der Überlastung des Verkehrssystems spiele.
+
+- **[34:37](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2077s)** - **Bundesminister Bilger (Antwort auf AfD)**: Konzentriert sich auf die Schaffung eines attraktiven Angebots auf der Schiene für Personen- und Güterverkehr, um mehr Menschen zur Nutzung der Bahn zu bewegen.
+
+- **[35:03](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2103s)** - **SPD (Truels Reichardt)**: Fragt den Verkehrsminister, wie sichergestellt werde, dass mehr Flexibilität für Fahrschüler nicht zulasten der Qualität und Sicherheit auf den Straßen gehe, angesichts der Führerscheinreform, die den Zugang zur Mobilität erleichtern und Verfahren modernisieren soll.
+
+- **[36:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2160s)** - **Bundesminister Bilger (Antwort auf SPD)**: Betont die Wichtigkeit der Verkehrssicherheit und die Berechtigung der Reform der Fahrschulausbildung zur Kostensenkung für junge Menschen. Er versichert, dass die Reform den hohen Ansprüchen an die Verkehrssicherheit gerecht werde.
+
+- **[36:53](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2213s)** - **SPD (Truels Reichardt, Nachfrage)**: Fragt nach konkreten Kriterien und Zeiträumen für die Überprüfung der Ziele der Führerscheinreform.
+
+- **[37:09](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2229s)** - **Bundesminister Bilger (Antwort auf SPD-Nachfrage)**: Verweist auf die Zuständigkeit des Bundestages und eine spätere Evaluierung nach Verabschiedung des Gesetzentwurfs und Gesprächen auf der Verkehrsministerkonferenz.
+
+- **[37:45](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2265s)** - **Bündnis 90/Die Grünen (Swantje Henrike Michaelsen)**: Fragt den Verkehrsminister, wie die Laienausbildung im Falle einer brenzligen Situation gelöst werden solle, da das Elternauto nicht über zusätzliche Spiegel oder Bremspedale verfüge.
+
+- **[38:28](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2308s)** - **Bundesminister Bilger (Antwort auf Grüne)**: Verweist auf die Erfahrungen mit dem begleiteten Fahren mit 17 Jahren und stellt fest, dass dies ein Vorteil für die Verkehrssicherheit sei, da junge Menschen mit einer Vertrauensperson besser lernen.
+
+- **[39:05](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2345s)** - **CDU/CSU (Henning Rehbaum)**: Fragt nach konkreten Verbesserungen für Fahrschulen durch die Führerscheinreform, die auf Bürokratieabbau und Erleichterung abzielt.
+
+- **[39:30](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2370s)** - **Bundesminister Bilger (Antwort auf CDU/CSU)**: Nennt die Reduzierung von Kosten, stärkere Digitalisierung und Effizienzsteigerung als Auswirkungen der Reform für Fahrschulen, z.B. die Nutzung von digitalen Medien in der theoretischen Ausbildung.
+
+- **[40:11](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2411s)** - **CDU/CSU (Michael Donth)**: Fragt, ob die Führerscheinreform auch die hohen Kosten für Führerscheine im Bus- und Lkw-Bereich abdecke und Hoffnung auf Besserung mache.
+
+- **[40:45](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2445s)** - **Bundesminister Bilger (Antwort auf CDU/CSU)**: Bestätigt, dass auch für den wichtigen Bereich der Lkws und Busse eine Rolle spiele, wie die Kosten für Führerscheine reduziert werden können, um den Fachkräftemangel zu bekämpfen.
+
+- **[41:27](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2487s)** - **Bündnis 90/Die Grünen (Sandra Detzer)**: Fragt die Wirtschaftsministerin, ob sie mit den Maßnahmen im Rahmen der Initiative für effektiven Handelsschutz (z.B. "Kill Switch", Diversifizierungsinstrument, europäische Präferenz) einverstanden sei, da diese Initiative weder in ihrem Statement noch auf Nachfrage gewürdigt worden sei.
+
+- **[42:48](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2568s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Weist die Behauptung zurück, die Initiative sei nicht gewürdigt worden. Sie betont die Beteiligung an Gesprächen und die Rolle des BMWi bei der Durchsetzung von Schutzmaßnahmen (z.B. für Korund und Flachstahl) sowie die Auflegung eines Rohstofffonds zur Diversifizierung.
+
+- **[44:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2641s)** - **Bündnis 90/Die Grünen (Sandra Detzer, Nachfrage)**: Hält daran fest, dass das Diversifizierungsinstrument abgelehnt worden sei und fragt, wie die Ministerin zur Initiative des Bundeskanzlers stehe und ob sie diese aktiv vertreten werde.
+
+- **[44:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2675s)** - **Bundesministerin Reiche (Antwort auf Grüne-Nachfrage)**: Erklärt, dass der Industrial Accelerator Act aktiv verfolgt und verhandelt werde. Sie weist die Darstellung von Differenzen zurück und betont, dass der Act Unternehmen schützen und Partnern Chancen eröffnen solle.
+
+- **[45:17](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2717s)** - **Bündnis 90/Die Grünen (Julian Joswig)**: Fragt die Wirtschaftsministerin, wie sie die Subventionierung chinesischer Autos (insb. Plug-in-Hybride) durch die E-Auto-Prämie rechtfertigen könne, während deutsche Hersteller Probleme hätten.
+
+- **[46:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2760s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Erklärt, dass die Förderung zielgerichtet eingesetzt werde und es schwer sei, Märkte explizit auszuschließen. Das Ziel sei die Unterstützung eigener Hersteller von E-Fahrzeugen.
+
+- **[46:36](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2800s)** - **Bündnis 90/Die Grünen (Dr. Alaa Alhamwi)**: Fragt, was die Ministerin zum Schutz der deutschen und europäischen Wärmepumpenindustrie vor dem chinesischen Marktdruck unternehme.
+
+- **[47:22](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2842s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Nennt den Einbau eines "Local Content"-Elements in die Wärmepumpenförderung, das die vorrangige Absetzung von in Europa produzierten Wärmepumpen ermöglicht. Sie merkt an, dass bei der Förderung von Commodities derjenige gewinne, der am billigsten produzieren könne.
+
+- **[47:59](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2879s)** - **CDU/CSU (Dr. Klaus Wiener)**: Bittet die Ministerin um Erläuterung, warum "made with Europe" wichtiger sei als "made in Europe".
+
+- **[48:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2903s)** - **Bundesministerin Reiche (Antwort auf CDU/CSU)**: Erklärt, dass bei Freihandelsabkommen das Ziel sei, Handelspartnern die Beteiligung an gemeinsamer Beschaffung in Europa zu ermöglichen, um große Handelsräume zu schaffen und zu sichern.
+
+- **[49:12](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2952s)** - **AfD (Dr. Rainer Kraft)**: Fragt die Ministerin, ob sie sich auf europäischer Ebene für die Abschaffung der Flottengrenzwerte einsetzen werde, um die Preisdifferenz zwischen Verbrennern und E-Autos wiederherzustellen.
+
+- **[49:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=2997s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Gibt an, dass die Koalition sich für eine Flexibilisierung der CO2-Flottengrenzwerte eingesetzt habe und dies mit der Kommission verhandelt werde, um der Automobilindustrie den Übergang zu erleichtern.
+
+- **[50:28](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3028s)** - **CDU/CSU (Alexander Jordan)**: Fragt die Bundesregierung, was getan werde, um der Elektromobilität zum Durchbruch zu verhelfen, angesichts positiver Marktdaten und der Tatsache, dass deutsche Hersteller profitieren.
+
+- **[51:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3101s)** - **Bundesminister Bilger (Antwort auf CDU/CSU)**: Nennt den Hochlauf der Elektromobilität, den Fokus auf Ladeinfrastruktur (Schnellladenetz für Lkw, 210.000 öffentliche Ladepunkte für Pkw) als wichtige Maßnahmen.
+
+- **[52:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3153s)** - **CDU/CSU (Alexander Jordan, Nachfrage)**: Fragt nach konkreten Zeitpunkten und Orten für den Ausbau der Ladeinfrastruktur für den Schwerlastverkehr.
+
+- **[52:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3177s)** - **Bundesminister Bilger (Antwort auf CDU/CSU-Nachfrage)**: Beschreibt den Aufbau des Schnellladenetzes für Lkw entlang der Autobahnen und die Bereitstellung zuverlässiger Lademöglichkeiten.
+
+- **[53:43](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3223s)** - **CDU/CSU (Daniel Kölbl)**: Fragt, wo der größte Handlungsbedarf beim Hochlauf der Elektromobilität liege (Netzanschluss, Flächenbereitstellung, Wirtschaftlichkeit).
+
+- **[54:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3241s)** - **Bundesminister Bilger (Antwort auf CDU/CSU)**: Nennt die besondere Berücksichtigung von Mehrparteienhäusern bei der Ladeinfrastrukturförderung als eine Herausforderung.
+
+- **[54:44](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3284s)** - **Bündnis 90/Die Grünen (Swantje Henrike Michaelsen)**: Fragt, warum die Förderung der Anschaffung von Elektrobussen gekürzt werde, obwohl Elektromobilität die Zukunft sei.
+
+- **[55:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3323s)** - **Bundesminister Bilger (Antwort auf Grüne)**: Betont den Grundsatz der Technologieoffenheit und die fortlaufende Förderung von Elektrobussen (und Wasserstoffbussen), sowie die Ankündigung eines neuen Programms nach Abschluss des laufenden.
+
+- **[56:09](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3369s)** - **CDU/CSU (Henning Rehbaum)**: Fragt, inwieweit die Lkw-Maut zur Förderung emissionsfreier Antriebe genutzt werde.
+
+- **[56:40](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3400s)** - **Bundesminister Bilger (Antwort auf CDU/CSU)**: Nennt die Befreiung von der Lkw-Maut bis 2031 als wesentliches Argument für die Entscheidung für Elektro-Lkw und die Unterstützung der Ladeinfrastruktur in Depots.
+
+- **[57:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3461s)** - **Die Linke (Agnes Conrad)**: Fragt die Wirtschaftsministerin nach konkreten Maßnahmen zur Verhinderung des Stellenabbaus bei Volkswagen und zur Sicherung der Beschäftigung an deutschen Standorten, angesichts der Kündigung von Tarifverträgen.
+
+- **[58:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3521s)** - **Bundesministerin Reiche (Antwort auf Die Linke)**: Kann die Maßnahmen des Managements von Volkswagen nicht kommentieren, verweist aber auf Gespräche zwischen Gewerkschaften und Konzernvorstand zur Sicherung von Arbeitsplätzen.
+
+- **[59:32](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3572s)** - **Die Linke (Agnes Conrad, Nachfrage)**: Fragt nach der Verantwortung der Bundesregierung angesichts von Fördergeldern an Volkswagen, keinen sozialen Kahlschlag zu fördern.
+
+- **[01:00:07](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3607s)** - **Bundesministerin Reiche (Antwort auf Die Linke-Nachfrage)**: Betont die Autonomie von Tarifparteien und verweist auf die geplante Umnutzung eines VW-Standorts in Osnabrück für die Produktion von Verteidigungsgütern als aktive Unterstützung.
+
+- **[01:00:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3641s)** - **AfD (Dr. Paul Schmidt)**: Fragt die Ministerin, wie sie die Strompreise drücken wolle, angesichts des erwarteten Anstiegs durch das Strom-Versorgungssicherheits- und-Kapazitätengesetz und der hohen Strompreise im Vergleich zu anderen Ländern.
+
+- **[01:01:37](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3697s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Erklärt, dass im Energy-only-Markt ein Instrument zur Absicherung von Investitionen in gesicherte Leistung geschaffen werden müsse, um die Energieversorgung durch erneuerbare Energien zu gewährleisten, und dies kosteneffizient geschehe.
+
+- **[01:02:13](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3733s)** - **AfD (Kotré)**: Fragt die Ministerin, warum keine Kernenergie und Kohleverstromung zur Senkung der Stromkosten eingesetzt würden und warum kein russisches Gas importiert werde.
+
+- **[01:03:17](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3797s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Betont die Abhängigkeit von russischem Gas und die damit verbundenen Risiken. Sie nennt die Entscheidung der Koalition, auf erneuerbare Energie und Gaskraftwerke zu setzen.
+
+- **[01:02:23](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3743s)** - **AfD (Dr. Rainer Kraft)**: Fragt, wie der Ausbau der Netze den Überschuss an Photovoltaikstrom in die Winternächte bringen solle.
+
+- **[01:02:50](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3770s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Verweist auf den Ausbau des Strommarktes zu einem Flexibilitätsmarkt mit temporären Speichern (Biogasanlagen, Wasserstoffanlagen, Hydroelektrolyseure) zur Nutzung von Überschussstrom.
+
+- **[01:03:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3813s)** - **Bündnis 90/Die Grünen (Dr. Alaa Alhamwi)**: Fragt die Ministerin, ob ihr Gesetzentwurf zur Synchronisierung von Netzausbau und Anlagenzubau unionsrechtskonform sei.
+
+- **[01:04:18](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3858s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Bekräftigt, dass Gesetzentwürfe dem Unionsrecht und der deutschen Verfassung entsprechen. Sie betont die Notwendigkeit, die unterschiedlichen Geschwindigkeiten beim Genehmigen von Anlagen und Netzausbau zu überbrücken.
+
+- **[01:04:59](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3899s)** - **Bündnis 90/Die Grünen (Michael Kellner)**: Fragt die Ministerin, wie viele Menschen noch auf die Straße gesetzt werden müssten, bevor sie ihren Kurs ändere, angesichts des Stellenabbaus in der erneuerbaren Energiebranche.
+
+- **[01:06:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3974s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Betont, dass die Ausbauziele für Erneuerbare beibehalten werden, der Ausbau jedoch kosteneffizienter erfolgen müsse. Sie verweist auf hohe Kosten des Erneuerbare-Energien-Gesetzes und die Subventionierung hoher Strompreise für energieintensive Unternehmen.
+
+- **[01:07:30](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4050s)** - **SPD (Dirk Wiese)**: Fragt die Ministerin, wie ihr Haus auf die Gespräche zwischen BASF und Evonik blicke, insbesondere auf mögliche Strukturbrüche im Ruhrgebiet.
+
+- **[01:09:12](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4152s)** - **Bundesministerin Reiche (Antwort auf SPD)**: Betont die Wichtigkeit der Erhaltung der Chemiekompetenz im Ruhrgebiet und die Arbeit an der Verlängerung des Industriestrompreises über 2030 hinaus.
+
+- **[01:06:35](https://www.youtube.com/watch?v=jgp7xBKELz0&t=3995s)** - **CDU/CSU (Nicklas Kappe)**: Fragt die Ministerin nach konkreten Maßnahmen zur Stärkung des Gründungsökosystems und zur Generierung von Wertschöpfung.
+
+- **[01:07:30](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4050s)** - **Bundesministerin Reiche (Antwort auf CDU/CSU)**: Nennt die Möglichkeit für Kapitalsammelstellen, in Start-up-Unternehmen zu investieren, steuerliche Erleichterungen für Mitarbeiterkapital und die Umstrukturierung von Fonds zur Förderung von Deep Tech und Scale-ups.
+
+- **[01:07:09](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4029s)** - **AfD (Dario Seifert)**: Fragt die Wirtschaftsministerin, wann die Bundesregierung aufhöre, den "Herbst der Reformen" anzukündigen, und stattdessen dazu beitrage, dass sich Menschen ihren Urlaub leisten können.
+
+- **[01:07:48](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4068s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Wiederholt die Notwendigkeit von Reformen zur Stärkung der Wettbewerbsfähigkeit durch Flexibilisierung des Arbeitsmarkts, Bürokratieabbau und Anpassungen bei Energiepreisen. Sie verweist auf Maßnahmen wie die Senkung der Stromsteuer und der Übertragungsnetzentgelte sowie die Unterstützung des Tourismus durch Senkung der Mehrwertsteuer auf Speisen.
+
+- **[01:09:50](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4190s)** - **AfD (Dario Seifert, Nachfrage)**: Fragt nach konkreten Maßnahmen für Gastronomen und Hoteliers zur Preissenkung und Ermöglichung von Urlaub für hart arbeitende Menschen.
+
+- **[01:09:52](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4192s)** - **Bundesministerin Reiche (Antwort auf AfD-Nachfrage)**: Nennt die Tourismusstrategie mit Themen wie Arbeitszeitflexibilisierung und Unterstützung der Digitalisierung. Sie betont, dass gutes Wachstum zu guten Löhnen führe.
+
+- **[01:10:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4201s)** - **CDU/CSU (Michael Donth)**: Fragt nach der Perspektive für die Finanzierung der Deutschen Zentrale für Tourismus.
+
+- **[01:10:42](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4242s)** - **Bundesministerin Reiche (Antwort auf CDU/CSU)**: Bestätigt die weitere Unterstützung der Deutschen Zentrale für Tourismus mit rund 40 Millionen Euro im Haushalt.
+
+- **[01:11:12](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4272s)** - **Bündnis 90/Die Grünen (Katharina Beck)**: Fragt, ob ein Mietendeckel und die Förderung alternativen Reisens Maßnahmen seien, um Menschen mehr Geld in der Tasche zu lassen und Reisen günstiger zu machen.
+
+- **[01:11:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4317s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Betont die Notwendigkeit von Wirtschaftswachstum, um Arbeit gut entlohnen zu können. Sie verweist auf die Steuerreform, die untere Einkommensgruppen entlaste und die Stabilisierung der GKV-Beiträge.
+
+- **[01:13:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4413s)** - **Bündnis 90/Die Grünen (Katharina Beck, Nachfrage)**: Fragt, warum bei der Einkommensteuer nur diejenigen entlastet würden, die bereits Steuern zahlen, und wann eine wirkliche Senkung der Sozialversicherungsbeiträge erfolge.
+
+- **[01:14:48](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4488s)** - **Bundesministerin Reiche (Antwort auf Grüne-Nachfrage)**: Erklärt, dass die Steuerreform untere Einkommensgruppen entlaste, die unter kalter Progression leiden, und die GKV-Beiträge stabilisiert würden.
+
+- **[01:15:39](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4539s)** - **SPD (Dunja Kreiser)**: Fragt die Wirtschaftsministerin, ob sie zustimme, dass bisher zu hohe Hürden für den Ausbau erneuerbarer Energien bestanden hätten und ob die Speicherung oder Nutzung von überschüssigem Strom (z.B. für Wärmegewinnung) gefördert werden müsse.
+
+- **[01:16:40](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4600s)** - **Bundesministerin Reiche (Antwort auf SPD)**: Bekräftigt die Ausbauziele für erneuerbare Energien und betont die Notwendigkeit des schnelleren Ausbaus von Stromleitungen im Übertragungs- und Verteilnetzbereich. Sie erwähnt die Möglichkeit der Nutzung von überschüssigem Strom für Wärmegewinnung und die Notwendigkeit, die Netze und den Ausbau der Erneuerbaren synchron zu gestalten.
+
+- **[01:17:50](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4670s)** - **SPD (Dunja Kreiser, Nachfrage)**: Fragt, ob ein Vergleich von überschüssigem Strom mit überschüssigen Brötchen beim Bäcker, wie in einem Social-Media-Beitrag der Ministerin, angemessen sei.
+
+- **[01:18:21](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4701s)** - **Bundesministerin Reiche (Antwort auf SPD-Nachfrage)**: Betont, dass geförderter erneuerbarer Strom nicht abgeregelt, sondern genutzt werden müsse, was entsprechende Stromnetze erfordere. Sie verweist auf die unterschiedlichen Genehmigungsdauern für PV-Anlagen und Stromnetze.
+
+- **[01:19:00](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4740s)** - **AfD (Dr. Blos)**: Fragt die Ministerin nach konkreten Maßnahmen zur schnellen Senkung der Kosten für Redispatch-Maßnahmen und Netzengpassmaßnahmen.
+
+- **[01:19:47](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4787s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Nennt den Netzausbau als beste Maßnahme zur Abtransportierung von Strom. Sie verweist auf die hohen Kosten für Redispatch und die Notwendigkeit des schnellen und digitalen Netzausbaus.
+
+- **[01:20:31](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4831s)** - **AfD (Kotré)**: Fragt, warum Kernenergie und Kohleverstromung nicht zur Kostensenkung eingesetzt würden und warum kein russisches Gas importiert werde.
+
+- **[01:21:24](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4884s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Erinnert an die Abhängigkeit von russischem Gas und die damit verbundene Abhängigkeit von einem Regime, das Krieg führe. Sie betont die Entscheidung für erneuerbare Energien und Gaskraftwerke.
+
+- **[01:22:15](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4935s)** - **AfD (Dr. Rainer Kraft)**: Fragt, wie der Ausbau der Netze helfen solle, den Überschuss an Photovoltaikstrom des Sommers in die kalten Winternächte zu bekommen.
+
+- **[01:22:50](https://www.youtube.com/watch?v=jgp7xBKELz0&t=4970s)** - **Bundesministerin Reiche (Antwort auf AfD)**: Verweist auf den Ausbau des Strommarktes zu einem Flexibilitätsmarkt mit temporären Speichern (Batteriespeicher, Biogasanlagen, Wasserstoffanlagen) zur Nutzung von Überschussstrom.
+
+- **[01:23:33](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5013s)** - **Bündnis 90/Die Grünen (Dr. Alaa Alhamwi)**: Fragt die Ministerin, ob ihr Gesetzentwurf zum Netzanschlusspaket unionsrechtskonform sei.
+
+- **[01:24:18](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5058s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Bekräftigt die Verfassungskonformität der Gesetzentwürfe und die Notwendigkeit der Synchronisierung von Netzausbau und Anlagenzubau bei Erneuerbaren.
+
+- **[01:24:56](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5096s)** - **Bündnis 90/Die Grünen (Michael Kellner)**: Fragt die Ministerin, wie viele Menschen noch auf die Straße gesetzt werden müssten, bevor sie ihren Kurs ändere, angesichts des Stellenabbaus in der erneuerbaren Energiebranche.
+
+- **[01:26:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5174s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Wiederholt, dass die Ausbauziele für Erneuerbare bleiben, aber der Ausbau kosteneffizienter erfolgen müsse. Sie verweist auf die Kosten des EEG und die Subventionierung hoher Strompreise für energieintensive Unternehmen.
+
+- **[01:27:24](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5244s)** - **Bündnis 90/Die Grünen (Michael Kellner, Nachfrage)**: Kritisiert die Gesetzentwürfe und fragt, ob die Ministerin auf die Kritik höre und ihren Kurs ändere.
+
+- **[01:27:57](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5277s)** - **Bundesministerin Reiche (Antwort auf Grüne-Nachfrage)**: Erklärt, dass der Gesetzentwurf drei Ziele erreichen müsse: Nachhaltigkeit, Sicherheit und Bezahlbarkeit der Energie. Sie betont, dass die Akzeptanz der erneuerbaren Energien nicht darunter leiden dürfe, dass das Gesamtsystem unbezahlbar werde.
+
+- **[01:28:32](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5312s)** - **SPD (Dirk Wiese)**: Fragt die Ministerin, wie ihr Haus auf die Gespräche zwischen BASF und Evonik blicke, insbesondere auf mögliche Strukturbrüche im Ruhrgebiet.
+
+- **[01:29:12](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5352s)** - **Bundesministerin Reiche (Antwort auf SPD)**: Betont die Wichtigkeit der Erhaltung der Chemiekompetenz im Ruhrgebiet und die Arbeit an der Verlängerung des Industriestrompreises über 2030 hinaus.
+
+- **[01:30:16](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5416s)** - **Bündnis 90/Die Grünen (Lorenz Gösta Beutin)**: Fragt die Ministerin, ob sie die Kritik von Daniel Günther teile und den Reformkurs überdenken wolle, angesichts der Unsicherheit und Angst vor Arbeitsplatzverlust in der erneuerbaren Energiebranche.
+
+- **[01:31:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5461s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Verweist auf die Strombedarfe von Bundesländern und betont die Notwendigkeit, den Ausbau der Erneuerbaren und gesicherte Leistung zusammenzudenken und die Stromkosten in den Griff zu bekommen.
+
+- **[01:31:55](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5515s)** - **Bündnis 90/Die Grünen (Dr. Julia Verlinden)**: Fragt, ob die sinkenden Investitionen in Solaranlagen ab Januar beabsichtigt seien und wie der Koalitionspartner dazu stehe.
+
+- **[01:32:41](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5561s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Erklärt, dass die Unterstützung von Dach-PV durch einen Bonus auf Direktvermarktung, eine Übergangszahlung und die Beibehaltung der Mehrwertsteuer- und Einkommensteuerbefreiung weiter bestehe.
+
+- **[01:33:20](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5590s)** - **Bündnis 90/Die Grünen (Bär)**: Fragt, warum die Förderung von Agri-PV-Anlagen gestrichen werde und insbesondere für Projekte, in die bereits investiert wurde.
+
+- **[01:33:59](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5639s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Erklärt, dass das Ziel sei, die Kosten der Förderung zu senken und mehr Marktnähe, Effizienz und Wettbewerb im Sektor der erneuerbaren Energien zu erreichen.
+
+- **[01:34:34](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5674s)** - **CDU/CSU (Nicklas Kappe)**: Fragt die Ministerin nach konkreten Maßnahmen zur Stärkung des Gründungsökosystems und zur Generierung von Wertschöpfung.
+
+- **[01:35:38](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5738s)** - **Bundesministerin Reiche (Antwort auf CDU/CSU)**: Nennt die Möglichkeit für Kapitalsammelstellen, in Start-up-Unternehmen zu investieren, steuerliche Erleichterungen für Mitarbeiterkapital und die Umstrukturierung von Fonds zur Förderung von Deep Tech und Scale-ups.
+
+- **[01:37:01](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5821s)** - **CDU/CSU (Nicklas Kappe, Nachfrage)**: Fragt nach einer Konkretisierung der Förderung des Scale-up-Bereichs und dem Abbau von Hemmnissen.
+
+- **[01:37:27](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5847s)** - **Bundesministerin Reiche (Antwort auf CDU/CSU-Nachfrage)**: Nennt die direktere Unterstützung der Finanzkraft öffentlicher Institutionen (KfW) und die Öffnung der Rente im Kapitalbereich als wichtige Hebel.
+
+- **[01:38:19](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5900s)** - **Bündnis 90/Die Grünen (Katharina Beck)**: Fragt nach Möglichkeiten in der ersten und zweiten Säule der Altersvorsorge, um bei der Skalierungsfinanzierung voranzukommen.
+
+- **[01:39:14](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5954s)** - **Bundesministerin Reiche (Antwort auf Grüne)**: Zeigt sich froh über die erfolgte Öffnung der Renten für Kapitalmarktinvestitionen und verweist auf die Werbung von Fintechs für private Altersvorsorge.
+
+- **[01:39:46](https://www.youtube.com/watch?v=jgp7xBKELz0&t=5986s)** - **Schluss der Befragung**: Der Präsident beendet die Befragung der Bundesregierung und ruft den Tagesordnungspunkt 2 (Fragestunde) auf.
