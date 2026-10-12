@@ -39,6 +39,32 @@
     "processed_at": "2026-10-11T08:05:24.783836"
   },
   {
+    "id": "8KEBfdUYwnA",
+    "title": "100th Session on 10/09/2026. Agenda Item 36: Measures for a Real Migration Turnaround",
+    "session": 100,
+    "date": "2026-10-09",
+    "top": "36",
+    "topic": "Maßnahmen für eine wirkliche Migrationswende",
+    "summary_path": "protocols/session_100/36_measures_for_a_real_migration_turnaround.md",
+    "documents_path": "protocols/session_100/36_measures_for_a_real_migration_turnaround_documents.json",
+    "speakers_path": "protocols/session_100/36_measures_for_a_real_migration_turnaround_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=8KEBfdUYwnA",
+    "processed_at": "2026-10-12T08:03:34.521599"
+  },
+  {
+    "id": "6EEQWsHVVjE",
+    "title": "100th Session on 10/09/2026. Agenda Item 35: Amendment to the Telecommunications Act",
+    "session": 100,
+    "date": "2026-10-09",
+    "top": "35",
+    "topic": "Änderung des Telekommunikationsgesetzes",
+    "summary_path": "protocols/session_100/35_amendment_to_the_telecommunications_act.md",
+    "documents_path": "protocols/session_100/35_amendment_to_the_telecommunications_act_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=6EEQWsHVVjE",
+    "processed_at": "2026-10-12T08:02:22.610669"
+  },
+  {
     "id": "1xDVYyPkDBo",
     "title": "99th Session on 10/08/2026. Agenda Item 19, Additional Item 6: Food and Nutritional Security",
     "session": 99,
@@ -3402,6 +3428,19 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "c2n-si-MoOE",
+    "title": "100th Session of 10/09/2026. Agenda Item 35: Amendment to the Telecommunications Act",
+    "session": 100,
+    "date": "N/A",
+    "top": "35",
+    "topic": "Änderung des Telekommunikationsgesetzes",
+    "summary_path": "protocols/session_100/35_100th_session_of_10_09_2026_agenda_item_35_amendme.md",
+    "documents_path": "protocols/session_100/35_100th_session_of_10_09_2026_agenda_item_35_amendme_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=c2n-si-MoOE",
+    "processed_at": "2026-10-12T08:04:01.196133"
   },
   {
     "id": "PIuRgq6eq6s",
@@ -6830,6 +6869,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=NNYZMKEAidQ",
     "processed_at": "2026-10-11T08:02:53.421249"
+  },
+  {
+    "id": "3PmUVil85FI",
+    "title": "Hearing on Compulsory Medical Measures in Guardianship Law",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zu zwangsweise medizinischen Maßnahmen im Betreuungsrecht",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_on_compulsory_medical_measures_in_guardian.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=3PmUVil85FI",
+    "processed_at": "2026-10-12T08:01:57.194927"
+  },
+  {
+    "id": "qL8EvSkoKB0",
+    "title": "PISA Study: A Plea for Early Childhood Education Processes",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "PISA-Studie: Ein Plädoyer für frühkindliche Bildungsprozesse",
+    "summary_path": "protocols/session_unknown/top_unknown_pisa_study_a_plea_for_early_childhood_education_pr.md",
+    "documents_path": "protocols/session_unknown/top_unknown_pisa_study_a_plea_for_early_childhood_education_pr_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_pisa_study_a_plea_for_early_childhood_education_pr_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=qL8EvSkoKB0",
+    "processed_at": "2026-10-12T08:03:03.508547"
+  },
+  {
+    "id": "ZlHOD0P26zE",
+    "title": "Expert Discussion on AI Safety",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Fachgespräch zur Sicherheit von KI-Agenten",
+    "summary_path": "protocols/session_unknown/top_unknown_expert_discussion_on_ai_safety.md",
+    "documents_path": null,
+    "speakers_path": "protocols/session_unknown/top_unknown_expert_discussion_on_ai_safety_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=ZlHOD0P26zE",
+    "processed_at": "2026-10-12T08:04:33.957428"
   },
   {
     "id": "vHNXQug-Frc",

@@ -1,4 +1,4 @@
-# Gesetzentwurf zur Änderung des Telekommunikationsgesetzes
+# Änderung des Telekommunikationsgesetzes
 
 ## Sitzungs-Metadaten
 - **Sitzung:** 100. Sitzung
@@ -8,72 +8,67 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=6EEQWsHVVjE)
 
 ## Kurzzusammenfassung
-Die 100. Sitzung des Deutschen Bundestages befasste sich mit der ersten Beratung eines Gesetzentwurfs zur Änderung des Telekommunikationsgesetzes. Ziel der Novelle ist die Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen. Kernpunkte des Gesetzesentwurfs sind die Beschleunigung von Genehmigungsverfahren, die Erleichterung des Ausbaus von Glasfaseranschlüssen in Gebäuden und die Schaffung fairer Wettbewerbsbedingungen. Die Debatte zeigte unterschiedliche Ansichten bezüglich des Tempos, der Effektivität der Maßnahmen und der Berücksichtigung aller Stakeholder.
+Der Deutsche Bundestag berät einen Gesetzentwurf zur Änderung des Telekommunikationsgesetzes mit dem Ziel, den Ausbau von Telekommunikationsnetzen zu beschleunigen und die Rahmenbedingungen zu verbessern. Die Debatte dreht sich um die Verkürzung von Genehmigungsfristen, die Erleichterung des Ausbaus in Gebäuden, den Übergang von Kupfer- zu Glasfasernetzen sowie die Gewährleistung von fairem Wettbewerb und Verbraucherschutz. Verschiedene Fraktionen äußern sich zu den vorgeschlagenen Maßnahmen, wobei die einen die Notwendigkeit der Beschleunigung betonen, während andere auf Defizite in Bezug auf Verbraucherschutz, ländliche Versorgung oder die Effektivität der Bürokratieentlastung hinweisen.
 
 ## Kernaussagen und Positionen der Fraktionen
-- **Bundesregierung (vertreten durch Dr. Karsten Wildberger, Bundesminister für Digitales und Staatsmodernisierung):**
-  - Der Ausbau von Glasfaser und Mobilfunk liegt im überragenden öffentlichen Interesse.
-  - Die Novelle soll den Netzausbau beschleunigen, indem Genehmigungsverfahren verkürzt und Hürden abgebaut werden.
-  - Ziel ist eine Ausbauquote von 75% Glasfaser bis zum Ende der Legislatur.
-  - Der Ausbau innerhalb von Gebäuden bis in jede Wohnung soll erleichtert werden.
-  - Der Wechsel von Kupfer zu Glasfaser soll durch mehr Transparenz und faire Regeln vorangetrieben werden.
-  - Niemand soll ohne Anschluss dastehen; für unwirtschaftliche Gebiete sind staatliche Mittel vorgesehen.
+- **Bundesregierung (Vertreten durch Dr. Karsten Wildberger, Bundesminister für Digitales und Staatsmodernisierung):**
+  - Der Ausbau von Glasfaser und Mobilfunk liegt im überragenden öffentlichen Interesse und hat Vorrang.
+  - Ziel ist es, die Ausbauquote auf 75% bis Ende der Legislatur zu steigern.
+  - Maßnahmen beinhalten die Verkürzung von Genehmigungsfristen auf in der Regel 2 Monate, die Vereinfachung des Ausbaus bis in jede Wohnung und die Schaffung fairer Regeln für den Wechsel von Kupfer zu Glasfaser.
+  - Es wird zugesichert, dass niemand ohne Anschluss bleibt und Mittel für den Breitbandausbau in dünnbesiedelten Regionen zur Verfügung gestellt werden.
+  - Die Initiative "Bestes Netz für Deutschland" zielt auf die Reduzierung von Baukosten durch schlankere Bauweisen ab.
 - **AfD:**
-  - Kritik an der Notwendigkeit einer erneuten Gesetzesänderung und Frage nach der Effektivität der Maßnahmen.
-  - Bemängelung der Regelungswut des Gesetzes, z.B. bei nicht mehr angebotenen Diensten (R-Gespräche).
-  - Kritik an der geringen tatsächlichen Beschleunigung der Genehmigungsprozesse.
-  - Forderung nach verbindlichen Mindeststandards für die Resilienz der Kommunikationsnetze im Krisenfall.
-  - Ablehnung der bundesregierungseitigen Haltung bezüglich Notstromversorgung und Redundanz von Netzkomponenten.
-  - Kritik an der mangelnden Verbesserung der Mobilfunkversorgung, insbesondere im ländlichen Raum, und Forderung nach Nutzung vorhandener Infrastruktur durch Roaming-Regelungen.
-  - Befürwortung der Verbesserung der Informationslage über Bauvorhaben.
+  - Kritik an der Notwendigkeit einer zweiten Novelle, da die erste als "dünn" und "für das Schaufenster" bezeichnet wird.
+  - Zweifel an der Substanz des vorliegenden Gesetzentwurfs, der als "Regelungswut" wahrgenommen wird.
+  - Infragestellung der Relevanz von Regelungen zu "R-Gesprächen" für den Netzausbau.
+  - Kritik an der geringen Beschleunigungswirkung der vorgeschlagenen Fristverkürzungen.
+  - Forderung nach verbindlichen Mindeststandards für Resilienz und Notstromversorgung von Kommunikationsnetzen im Krisenfall, was die Bundesregierung ablehne.
+  - Kritik an der mangelnden Nutzung vorhandener Infrastruktur durch Roaming-Regelungen.
+  - Lob für die Verbesserung der Informationslage zum Ausbau, aber Kritik am späten Angehen dieses Problems.
 - **SPD:**
-  - Die digitale Infrastruktur muss bei den Menschen ankommen, verlässlich sein und Wahlfreiheit bei bezahlbaren Angeboten ermöglichen.
-  - Die Novelle ist eine konsequente Fortführung der bisherigen Bemühungen, insbesondere der Erklärung des überragenden öffentlichen Interesses.
-  - Betonung der Notwendigkeit, Regeln im Alltag praktikabel zu gestalten und die Interessen aller Beteiligten (Mieter, Eigentümer, Netzbetreiber) abzuwägen.
-  - Die Frage des Open Access und eines diskriminierungsfreien Netzzugangs wird als wichtig erachtet.
-  - Der Übergang von Kupfer zu Glasfaser muss transparent und fair gestaltet sein, ohne dass jemand seinen Anschluss verliert.
-  - Unterstützung für die Vereinfachung von Verfahren, den Glasfaserausbau in Gebäuden und die Schaffung von Planungssicherheit.
-  - Hervorhebung der Wichtigkeit von wettbewerbsfähigen Preisen und Verbraucherrechten.
+  - Notwendigkeit einer funktionierenden Verbindung für alle, unabhängig vom Wohnort.
+  - Die drei Grundsätze der Digitalpolitik sind: Anschluss bei den Menschen, Verlässlichkeit und Wahlfreiheit.
+  - Die Novelle ist ein konsequenter nächster Schritt nach der Festlegung des überragenden öffentlichen Interesses.
+  - Wichtigkeit der parlamentarischen Prüfung, ob der Ausbau innerhalb von Gebäuden besser funktioniert und ob praktikable Regeln für gemeinsame technische Mindeststandards existieren.
+  - Notwendigkeit transparenter Regeln für den Übergang von Kupfer zu Glasfaser und die Gewährleistung, dass niemand seinen Anschluss verliert.
+  - Forderung nach einfacheren Verfahren für Kommunen bei der Umsetzung.
+  - Ziel: Investitionen, die sich lohnen, und funktionierender Wettbewerb.
 - **Bündnis 90/Die Grünen:**
-  - Deutschland braucht eine moderne, sichere und zukunftsfeste digitale Infrastruktur.
-  - Kritik an der Art und Weise, wie die Union im Fall des Gebäudeenergiegesetzes Stimmung gegen wichtige Vorhaben gemacht hat.
-  - Die größten Gefahren für die Akzeptanz seien steigende Preise und Verunsicherung, nicht die Technik selbst.
-  - Forderung nach Schutz vor Abzocke bei Internetverträgen (z.B. durch klare Bestätigungsregeln nach Telefonaten).
-  - Vorschlag eines bürokratiearmen pauschalen Schadensersatzes bei Minderleistung.
-  - Betonung, dass Sondervermögen in Kabel und Masten investiert werden müssen.
+  - Deutschland braucht ein Update zu einer modernen, sicheren und zukunftsfesten digitalen Infrastruktur.
+  - Kritik an der politischen Kampagne der Union bezüglich des Gebäudeenergiegesetzes, die zu Verunsicherung geführt habe.
+  - Die größten Gefahren für die Akzeptanz seien steigende Preise, nicht die Technik.
+  - Forderung nach Maßnahmen zum Schutz vor "Abgezocktwerden" beim Internetvertrag, z.B. durch obligatorische schriftliche Bestätigungen nach Telefonaten und bürokratiearmen pauschalen Schadensersatz bei Minderleistung.
+  - Investitionen aus dem Sondervermögen müssen in Kabel und Masten fließen.
 - **Die Linke:**
-  - Grundsätzliche Zustimmung zum schnellen und flächendeckenden Ausbau des Glasfasernetzes.
-  - Kritik an den katastrophalen Arbeitsbedingungen im Glasfaserausbau (Schwarzarbeit, Lohnzahlungen, fehlender Arbeitsschutz).
-  - Mangelhafter Verbraucherschutz bei der Weitergabe von Ausbaukosten an Mieter, die den Anschluss nicht nutzen müssen.
-  - Unzureichende Versorgung im ländlichen Raum trotz Erklärungen zum überragenden öffentlichen Interesse.
-  - Forderung nach Digitaler Infrastruktur als Teil der öffentlichen Daseinsvorsorge und nach verbindlichen Vorgaben und Kontrollen statt reinem Wettbewerb.
+  - Grundsätzlich für einen schnellen und flächendeckenden Ausbau des Glasfasernetzes.
+  - Kritik an katastrophalen Arbeitsbedingungen im Glasfaserausbau (Schwarzarbeit, Lohnzahlungen, fehlender Arbeitsschutz).
+  - Kritik an Lücken im Verbraucherschutz, insbesondere bei der Umlage von Ausbaukosten auf Mieter.
+  - Kritik an der mangelhaften Versorgung im ländlichen Raum.
+  - Forderung nach Digitaler Infrastruktur als Teil der öffentlichen Daseinsfürsorge.
 - **CDU/CSU:**
-  - Anerkennung der Fortschritte beim Glasfaserausbau, aber auch Notwendigkeit, im europäischen Vergleich aufzuholen.
-  - Unterstützung der Novelle zur Beschleunigung des Glasfaserausbaus.
-  - Der Ausbau soll bis in die Wohnung erfolgen, um Doppelbaumaßnahmen zu vermeiden.
-  - Der Ausbau der Mobilfunknetze und die Schließung von Funklöchern sind wichtig.
-  - Die Novelle soll ein Gleichgewicht zwischen Regulierung und Ausbau sowie zwischen Investitionsanreizen und Wettbewerb schaffen.
-  - Ermutigung zur Nutzung von Glasfaser als Grundlage für zukünftige Dienste.
+  - Deutschland hat beim Glasfaserausbau aufgeholt, aber im europäischen Vergleich gibt es Nachholbedarf.
+  - Das Gesetz setzt an den entscheidenden Stellen an, wo es hakt (z.B. im Mehrfamilienhaus, in der Wohnung).
+  - Zustimmung zum Recht auf Vollausbau und zur Beschleunigung der Genehmigung im Mobilfunk.
+  - Glasfaser ist das Rückgrat des Mobilfunks und ermöglicht hohe Bandbreiten und geringe Latenzen.
+  - Ziel ist der Eintritt in die Gigabitgesellschaft mit gleichen Bedingungen für Stadt und Land.
+  - Die Union lobt den Gesetzentwurf und hebt dessen Bedeutung für die Modernisierung hervor.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:34](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=0m34s)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die 100. Sitzung des Deutschen Bundestages und gibt die Tagesordnung bekannt, inklusive einer aktuellen Stunde auf Verlangen der Fraktion Die Linke und der zusätzlichen Überweisung eines Gesetzentwurfs zur Notfallversorgung.
-- **[00:01:24](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1m24s)** - **Aufruf TOP 35**: Der Präsident ruft den Tagesordnungspunkt 35 auf: Erste Beratung des von der Bundesregierung eingebrachten Gesetzentwurfs zur Änderung des Telekommunikationsgesetzes und zur Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen.
-- **[00:01:47](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1m47s)** - **Eröffnungsrede Bundesminister Dr. Karsten Wildberger (Digitales und Staatsmodernisierung)**: Der Minister betont die Wichtigkeit einer verbundenen Welt unabhängig vom Wohnort. Er stellt den Gesetzentwurf vor, der den Netzausbau beschleunigen soll. Die Glasfaserausbauquote sei gestiegen, müsse aber weiter zunehmen. Kernpunkte sind die Verkürzung von Genehmigungsfristen (z.B. 2 Monate statt 3 für Leitungen), die Vereinfachung für den Ausbau bis in die Wohnung, die Erleichterung des Wechsels von Kupfer zu Glasfaser und die Zusicherung, dass niemand ohne Anschluss bleibe. Staatliche Förderung für unwirtschaftliche Gebiete wird zugesagt.
-- **[00:09:30](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=9m30s)** - **Rede Alexander Apaschi (AfD)**: Apaschi kritisiert die Notwendigkeit einer erneuten Gesetzesänderung und hinterfragt die Effektivität. Er bemängelt die Aufnahme nicht mehr relevanter Regelungen (R-Gespräche) und die geringe tatsächliche Beschleunigung durch die Fristenverkürzung. Er fordert eine Überarbeitung des Gesetzentwurfs.
-- **[00:12:26](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=12m26s)** - **Zwischenfrage Dirk Wiese (SPD)**: Wiese stellt eine kritische Zwischenfrage an Apaschi bezüglich einer Anfrage seiner Fraktion zu UFOs und interplanetarer Kommunikation, während irdische Probleme im Gesetzentwurf behandelt werden.
-- **[00:14:46](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=14m46s)** - **Fortsetzung Rede Alexander Apaschi (AfD)**: Apaschi antwortet kurz auf Wieses Zwischenfrage und verteidigt die Aufnahme von Regelungen zu R-Gesprächen, indem er sie als Teil des Verbraucherschutzes darstellt und die Zuständigkeiten im Ministerium hinterfragt.
-- **[00:17:07](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=17m7s)** - **Rede Johannes Schätzel (SPD)**: Schätzel betont die Notwendigkeit einer funktionierenden Verbindung für alle Lebensbereiche und nennt drei Leitsätze für digitalpolitische Entscheidungen: Ankommen der Verbindung, Verlässlichkeit und Wahlfreiheit. Er unterstützt die Vereinfachung von Verfahren und den Ausbau bis in die Wohnung, betont aber auch die Notwendigkeit der Prüfung aller Punkte im parlamentarischen Verfahren.
-- **[00:22:17](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=22m17s)** - **Rede Rebecca Lenhard (Bündnis 90/Die Grünen)**: Lenhard fordert ein "Update" der digitalen Infrastruktur und kritisiert die von der Union im Zusammenhang mit dem Gebäudeenergiegesetz genutzte Verunsicherungstaktik. Sie hebt die Sorgen der Menschen vor steigenden Preisen hervor und fordert Schutzmaßnahmen, insbesondere gegen Druck beim Abschluss von Handyverträgen und für einen pauschalen Schadensersatz bei Minderleistung.
-- **[00:26:07](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=26m7s)** - **Rede Annemarie Mike Bremer (Die Linke)**: Bremer bekräftigt die Unterstützung der Linken für den Glasfaserausbau, kritisiert aber das Gesetz für seine Unzulänglichkeit in drei Punkten: Arbeitsbedingungen im Ausbau, Verbraucherschutz und ländliche Versorgung. Sie kritisiert skandalöse Arbeitsrechtsverletzungen und fordert wirksamere Maßnahmen. Zudem bemängelt sie die Kostenumlage an Mieter und die unzureichende Versorgung im ländlichen Raum.
-- **[00:30:45](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=30m45s)** - **Rede Hansjörg Kurz (CDU/CSU)**: Kurz stellt fest, dass Deutschland beim digitalen Ausbau aufgeholt hat, aber im europäischen Vergleich noch nicht spitze ist. Er befürwortet die Novelle zur Beschleunigung des Glasfaserausbaus, insbesondere für den Ausbau bis in die Wohnung und die Förderung des Wettbewerbs durch Open Access.
-- **[00:35:04](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=35m4s)** - **Rede Robin Jünger (AfD)**: Jünger kritisiert die Regierung für eine vermeintlich wirkungslose Novelle, die die Bürger mit Augenwischerei abspeise. Er bemängelt mangelnde Entscheidungsfreude in den Behörden und die Nichteinbeziehung von Länderforderungen. Besonders kritisch sieht er die mangelnde Berücksichtigung von Resilienz und Notfallvorsorge bei Kommunikationsnetzen im Krisenfall.
-- **[00:39:55](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=39m55s)** - **Rede Pascal Marvi (SPD)**: Marvi erklärt, dass das Gesetz auf die Lösungsfindung für Dilemmata abzielt, z.B. zwischen verlegter Leitung und funktionierendem Anschluss. Er betont die Bedeutung des Rechts auf Vollausbau in Gebäuden und die Notwendigkeit, die Stromanschlüsse für Mobilfunkstandorte zu beschleunigen. Die Fragen des Open Access und des fairen Zugangs zu Glasfasernetzen werden als wichtig erachtet.
-- **[00:43:33](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=43m33s)** - **Rede Caroline Otte (Bündnis 90/Die Grünen)**: Otte betont die Unverzichtbarkeit von schnellem Internet und gutem Mobilfunkempfang. Sie kritisiert die geplanten Fristenverkürzungen, die in der Summe keine Beschleunigung bringen, und die Belastung für Bauämter. Sie fordert eine bessere Abstimmung von Baumaßnahmen und kritisiert die aktuelle Ausgestaltung des Anzeigeverfahrens als potenziell wettbewerbsverzerrend. Sie verknüpft den Netzausbau mit gleichwertigen Lebensverhältnissen und fordert auch eine Sanierung der Kommunalfinanzen.
-- **[00:47:28](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=47m28s)** - **Rede Joachim Maertens (CDU/CSU)**: Maertens teilt persönliche Erfahrungen mit dem schlechten Breitbandausbau auf dem Land und lobt die Fortschritte durch Glasfaser. Er erklärt die technologischen Vorteile von Glasfaser gegenüber Kabelnetzen und betont die Bedeutung der Glasfaser als Rückgrat des Mobilfunks. Er begrüßt den Gesetzentwurf, der den Ausbau in Wohnungen und die Beschleunigung beim Mobilfunk angeht.
-- **[00:52:04](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=52m4s)** - **Rede Ruben Rup (AfD)**: Rup kritisiert die Regierung für ein "Rumdoktorn" an Gesetzen statt für pragmatische Lösungen. Er unterstützt grundsätzlich die Idee schnellerer Genehmigungen und einfacheren Ausbaus in Gebäuden, bemängelt aber, dass dies nicht zu einem besseren Mobilfunknetz führt. Er kritisiert die Ablehnung des AfD-Antrags zur nationalen Netzabdeckung durch die etablierten Parteien.
-- **[00:56:25](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=56m25s)** - **Kurze Intervention Dirk Wiese (SPD)**: Wiese reagiert erneut auf die AfD, kritisiert deren Verharmlosung von Frauenfeindlichkeit, die Forderung nach einem Austritt aus dem Euro und die Migrationspolitik. Er verteidigt die Investitionen in Bildung und Infrastruktur und weist Vorwürfe bezüglich der Erbschaftssteuer zurück.
-- **[00:58:51](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=58m51s)** - **Antwort des AfD-Redners (nicht namentlich genannt, aber wahrscheinlich Robin Jünger)**: Der Redner weist die Vorwürfe von Wiese zurück, kontert mit einer Generaldebatte durch die SPD und bestreitet, jemals den Austritt aus dem EU-Binnenmarkt gefordert zu haben. Er stellt die von der AfD geforderten Bedingungen für Fachkräfte dar.
-- **[00:59:46](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=59m46s)** - **Rede Daniel Bettermann (SPD)**: Bettermann spricht über die Digitalisierung vor Ort und die Notwendigkeit einer besseren Abstimmung von Baumaßnahmen (Stichwort Baukoordinierung). Er hebt den Mehrwert des Gigabit-Grundbuchs als Informationsportal und von Open Access hervor. Das Recht auf Vollausbau in Mehrfamilienhäusern wird als wichtiger Fortschritt bewertet.
-- **[01:02:33](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1h2m33s)** - **Rede Dr. Ing. Gräfe (CDU/CSU)**: Gräfe lobt das Gesetz als wesentlichen Beitrag zur Modernisierung und als Startsignal für neue Dienste wie Robotik und KI. Sie ermutigt zur Nutzung von Glasfaser und verteidigt die Aufnahme von Regelungen zu R-Gesprächen und die Bedeutung des Begriffs "überragendes öffentliches Interesse".
-- **[01:05:58](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1h5m58s)** - **Schluss der Aussprache und Überweisung**: Der Präsident schließt die Aussprache zum TOP 35 und schlägt die interfraktionelle Überweisung des Gesetzentwurfs an die zuständigen Ausschüsse vor, was dementsprechend beschlossen wird.
-- **[01:06:13](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1h6m13s)** - **Aufruf TOP 36**: Der Präsident ruft den Tagesordnungspunkt 36 auf: Beratung des Antrags der AfD-Fraktion mit dem Titel "Maßnahmen für eine wirkliche Migrationswende".
+- **[00:00:34](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=0m34s)** - **Sitzungsbeginn / Einleitung**: Der Vizepräsident eröffnet die 100. Sitzung des Deutschen Bundestages und ruft den Tagesordnungspunkt 35 zur ersten Beratung des Gesetzentwurfs zur Änderung des Telekommunikationsgesetzes auf.
+- **[00:01:53](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1m53s)** - **Dr. Karsten Wildberger (Bundesminister für Digitales und Staatsmodernisierung, über die Bundesregierung)**: Erläutert das Ziel des Gesetzes, die digitale Infrastruktur zu verbessern und den Netzausbau zu beschleunigen. Er hebt den Fortschritt im Glasfaserausbau hervor und nennt als Hauptziele die Verkürzung von Genehmigungsfristen, die Erleichterung des Ausbaus in Gebäuden und die Schaffung fairer Regeln für den Wechsel von Kupfer zu Glasfaser. Er sichert zu, dass niemand ohne Anschluss bleibt und Mittel für den Breitbandausbau in dünnbesiedelten Regionen bereitgestellt werden.
+- **[00:09:30](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=9m30s)** - **Alexander Apaschi (AfD)**: Kritisiert die Notwendigkeit einer zweiten Novelle und stellt die Relevanz von Regelungen zu "R-Gesprächen" in Frage. Er bemängelt die geringe Beschleunigungswirkung der vorgeschlagenen Fristenverkürzungen und fordert verbindliche Mindeststandards für die Resilienz der Kommunikationsnetze.
+- **[00:12:26](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=12m26s)** - **Dirk Wiese (SPD)**: Stellt eine Zwischenfrage und kritisiert die AfD für ihre Fragestellung bezüglich UFOs, anstatt sich auf irdische Telekommunikationsprobleme zu konzentrieren. Er verteidigt die Arbeit der SPD und kritisiert Forderungen der AfD nach einem Austritt aus dem Euro und der Ablehnung von Zuwanderung.
+- **[00:14:28](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=14m28s)** - **Alexander Apaschi (AfD)**: Reagiert auf die Zwischenfrage und verweist auf die Antwort der Bundesregierung zu den UFO-Fragen. Er setzt seine Rede fort und kritisiert die geringen prozentualen Beschleunigungen durch den Gesetzentwurf.
+- **[00:17:12](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=17m12s)** - **Johannes Schätzel (SPD)**: Betont die Notwendigkeit einer funktionierenden Verbindung für alle und hebt die drei Grundsätze der Digitalpolitik hervor: Anschluss bei den Menschen, Verlässlichkeit und Wahlfreiheit. Er kündigt an, dass die SPD die Punkte im parlamentarischen Verfahren genau prüfen wird, insbesondere im Hinblick auf den Ausbau innerhalb von Gebäuden, Fristen, Open Access und den Übergang von Kupfer zu Glasfaser.
+- **[00:22:17](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=22m17s)** - **Rebecca Lenhard (Bündnis 90/Die Grünen)**: Kritisiert die Union für ihre Verunsicherungstaktik bezüglich des Gebäudeenergiegesetzes und fordert einen sachlicheren Stil. Sie betont, dass steigende Preise die größte Gefahr für die Akzeptanz seien und fordert Maßnahmen zum Schutz vor Abzocke bei Internetverträgen sowie einen bürokratiearmen Schadensersatz bei Minderleistung.
+- **[00:26:07](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=26m7s)** - **Anneemike Bremer (Die Linke)**: Bekundet grundsätzlich die Unterstützung für den Ausbau, kritisiert jedoch den Gesetzentwurf für seine Unzulänglichkeit bei den Arbeitsbedingungen im Glasfaserausbau, im Verbraucherschutz und bei der Versorgung im ländlichen Raum. Sie fordert Maßnahmen gegen Schwarzarbeit und Lohnwucher und schlägt vor, digitale Infrastruktur als Teil der öffentlichen Daseinsfürsorge zu betrachten.
+- **[00:30:45](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=30m45s)** - **Hansjörg Kurz (CDU/CSU)**: Beschreibt die Notwendigkeit schnellerer Verfahren, um im internationalen Vergleich nicht abgehängt zu werden. Er betont die Wichtigkeit des Vollausbaus bis in jede Wohnung und die Schaffung fairer Open-Access-Bedingungen zur Förderung des Wettbewerbs.
+- **[00:35:04](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=35m4s)** - **Robin Jünger (AfD)**: Kritisierte die Regierung für ihre vermeintliche Scheinpolitik und mangelnde Umsetzung. Er bemängelt die fehlende Synchronisation zwischen Bund und Ländern und die Ablehnung von Forderungen des Bundesrates nach verbindlichen Mindeststandards für die Krisenresilienz. Er wirft der Regierung vor, aus Krisen nicht zu lernen.
+- **[00:39:55](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=39m55s)** - **Pia Zimmermann (SPD)**: Betont die Notwendigkeit, die Lücke zwischen verlegter Leitung und funktionierendem Anschluss zu schließen. Sie hebt die Bedeutung des Rechts auf Vollausbau hervor und fordert eine Prüfung der Möglichkeiten zur Beschleunigung der Stromanschlüsse für Mobilfunkstandorte sowie faire Regeln für den Übergang von Kupfer zu Glasfaser und Open Access.
+- **[00:43:16](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=43m16s)** - **Caroline Otte (Bündnis 90/Die Grünen)**: Vergleicht die aktuelle Situation mit der Zeit der Telefonzellen und betont die Unverzichtbarkeit von schnellem Internet. Sie kritisiert die geplanten Fristenverkürzungen als nicht praxistauglich und befürchtet, dass sie keine Beschleunigung bringen, sondern die Bauämter unter Druck setzen. Sie fordert eine Stärkung der Kommunalfinanzen.
+- **[00:47:13](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=47m13s)** - **Joachim Meer (CDU/CSU)**: Schildert persönliche Erfahrungen mit schlechter Internetversorgung auf einem Bauernhof und betont die Bedeutung von Glasfaser für das Gigabit-Zeitalter. Er lobt den Gesetzentwurf für seine Adressierung von Problemen im Mehrfamilienhaus und bei der Mobilfunkgenehmigung und betont die Notwendigkeit, Stromanschlüsse für Mobilfunkmasten zügig bereitzustellen.
+- **[00:51:45](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=51m45s)** - **Ruben Rup (AfD)**: Kritisiert die Regierung für ihre "Rumdoktorerei" und mangelnde Umsetzung. Er betont die Notwendigkeit eines besseren Mobilfunknetzes und kritisiert die Ablehnung von AfD-Anträgen zur Verbesserung der Netzabdeckung durch Roaming. Er lobt die Verbesserung der Informationslage, bemängelt aber das späte angehen dieses Problems.
+- **[00:56:25](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=56m25s)** - **Dirk Wiese (SPD)**: Reagiert erneut auf die Ausführungen von Robin Jünger (AfD), kritisiert dessen Aussage zur Frauen-IQ und die Behauptung, die SPD würde nur Genderpolitik betreiben. Er verteidigt die Zuwanderungspolitik und die Investitionen in Bildung und Infrastruktur durch das Sondervermögen.
+- **[00:58:47](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=58m47s)** - **Daniel Bettermann (SPD)**: Betont die Bedeutung des Gigabit-Grundbuchs als Informationsportal und die Vorteile von Open Access. Er hebt das Recht auf Vollausbau in Mehrfamilienhäusern hervor und betont die Rolle von Glasfasernetzen für Wirtschaftswachstum und Wettbewerbsfähigkeit.
+- **[01:02:33](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1h2m33s)** - **Dr. Ing. Gräfe (CDU/CSU)**: Lobt den Gesetzentwurf als wichtig für die Modernisierung des Landes und betont die Bedeutung von Glasfaser für Robotik und KI. Er ermutigt zur Nutzung von Glasfaser und verteidigt die Regelungen zu "R-Gesprächen" und dem "überragenden öffentlichen Interesse" als Entscheidungshilfen für die Verwaltung.
+- **[01:06:00](https://www.youtube.com/watch?v=6EEQWsHVVjE&t=1h6m0s)** - **Abschluss der Debatte**: Der Vizepräsident schließt die Aussprache zum Tagesordnungspunkt 35 und schlägt die Überweisung des Gesetzentwurfs an die zuständigen Ausschüsse vor. Anschließend wird der nächste Tagesordnungspunkt aufgerufen.

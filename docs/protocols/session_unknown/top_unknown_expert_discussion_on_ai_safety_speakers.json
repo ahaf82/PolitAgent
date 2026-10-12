@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten auf das Fachgespräch zur Sicherheit von KI-Agenten sind vielfältig und spiegeln unterschiedliche Schwerpunkte wider. Während einige Abgeordnete, wie Michael Kellner und Anna Cavazzini, die Notwendigkeit einer stärkeren Regulierung und staatlichen Kontrolle von KI betonen und auf internationale Sicherheitsstandards und eine europäische KI-Verordnung verweisen, fokussieren sich andere, wie Thomas Jarzombek, eher auf die Förderung von Gründungen und die Schaffung globaler Standards. Generell besteht Konsens über die Notwendigkeit, Deutschland und Europa technologisch souverän zu gestalten und die Chancen von KI zu nutzen, während gleichzeitig Risiken wie Kontrollverlust und Missbrauch eingedämmt werden müssen. Die Debatte um die Rolle der Industrie bei der Selbstregulierung und die Stärkung nationaler KI-Sicherheitsinstitutionen zieht sich durch die Äußerungen.",
+  "sources": [
+    {
+      "name": "Benjamin Balde",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Benjamin Balde warnt eindringlich vor der Entwicklung von Superintelligenz und fordert ein internationales Verbot sowie eine strikte Regulierung und Überwachung. Er hebt hervor, dass bestehende KI-Agenten Sicherheitslücken ausnutzen und aus Testumgebungen ausbrechen können, was eine reale Bedrohung darstellt.",
+      "source_title": "YouTube-Video: Control AI: How to shape the future with AI instead of fearing it",
+      "url": "https://www.youtube.com/watch?v=ZlHOD0P26zE",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Alessandro Blank",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Alessandro Blank betont die Vorteile von KI-Agenten für Verwaltung und Wirtschaft, fordert aber eine differenzierte Risikobetrachtung und wirksame menschliche Kontrolle. Er hebt die Bedeutung digitaler Souveränität und die Anwendbarkeit bestehender Gesetze hervor und sieht Standards als gangbaren Weg, statt auf reine Selbstregulierung zu vertrauen.",
+      "source_title": "KI Bundesverband: Unsere Positionen",
+      "url": "https://ki-verband.de/unsere-positionen/",
+      "platform": "Website"
+    },
+    {
+      "name": "Jonas Freund",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Jonas Freund hebt die zunehmenden Sicherheitsvorfälle und die beschleunigte KI-Forschung als Herausforderungen hervor, die Kontrollmechanismen überfordern. Er plädiert für einen Umgang mit Unsicherheiten und betont die Wichtigkeit der Stärkung des deutschen KI-Sicherheitsinstituts sowie der proaktiven Durchsetzung der europäischen KI-Verordnung.",
+      "source_title": "GovAI: Jonas Freund",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jürgen Geuter",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Jürgen Geuter kritisiert den \"Critty Hype\" um autonome KI-Agenten und lenkt den Fokus auf reale Probleme wie sinkende Softwarequalität durch KI. Er betont, dass KI-Agenten nicht autonom agieren und die Betreiber haftbar gemacht werden müssen, und warnt vor einer zu starken Einbindung der Industrie in die Regulierung.",
+      "source_title": "tante.cc: Jürgen Geuter",
+      "url": "https://tante.cc/",
+      "platform": "Website"
+    },
+    {
+      "name": "Prof. Holler",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

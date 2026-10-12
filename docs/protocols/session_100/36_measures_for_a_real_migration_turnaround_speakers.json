@@ -1,0 +1,95 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema 'Maßnahmen für eine wirkliche Migrationswende' spiegelte die tiefen Gräben zwischen den Parteien wider. Während die AfD eine radikale Abkehr von der aktuellen Politik forderte und von \"Zerstörung\" Deutschlands sprach, verteidigten die Regierungsparteien ihre Bemühungen zur Steuerung und Begrenzung der Migration. Externe Aussagen der identifizierten Abgeordneten bestätigen ihre im Plenum geäußerten Positionen. Dr. Gottfried Curio (AfD) beharrt auf strengen Grenzschutzmaßnahmen und kritisiert die Einbürgerungspolitik. Dr. Detleff Seif (CDU/CSU) betont die Erfolge der Regierung bei der Reduzierung von Anträgen, sieht aber weiterhin Handlungsbedarf im Asylsystem. Hakan Demir (SPD) hebt die Bedeutung von Menschen mit Migrationsgeschichte hervor und fordert eine \"Respektwende\". Filiz Polat (Bündnis 90/Die Grünen) kritisiert die AfD für die Diffamierung von Migration und plädiert für Fachkräfteeinwanderung und Integration. Lea Reisener (Die Linke) wirft der AfD \"perfiden Rassismus\" vor und kritisiert die Regierung für Abschiebepraxis.",
+  "sources": [
+    {
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Curio vertritt weiterhin die Haltung, dass die aktuelle Migrationspolitik gescheitert sei und zu negativen Folgen für Deutschland führe. Er fordert eine drastische Reduzierung der Zuwanderung und eine strengere Grenzpolitik.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=13m0s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dr. Detleff Seif",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Seif unterstreicht die Position der CDU/CSU, dass die Regierung eine Kehrtwende in der Migrationspolitik eingeleitet hat, was sich in sinkenden Antragszahlen widerspiegelt. Er betont jedoch die Notwendigkeit weiterer Reformen im Asylsystem.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=7m39s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Frau Lemke verurteilt die Rhetorik der AfD als \"menschenfeindlich\" und \"rassistisch\" und verteidigt das Grundrecht auf Asyl. Sie lehnt die Abwertung ganzer Menschengruppen ab.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=13m25s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Filiz Polat",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Frau Polat kritisiert die AfD für die Diskreditierung von Migration als \"Bevölkerungsaustausch\" und betont die Notwendigkeit von Fachkräfteeinwanderung und Integration. Sie warnt vor der Normalisierung von rechtsextremen Narrativen.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=19m48s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "found": true,
+      "statement": "Herr Demir kritisiert die AfD scharf für ihre Forderungen und betont die Bedeutung von Menschen mit Migrationshintergrund für Deutschland. Er fordert eine \"Respektwende\" und lehnt die pauschale Diffamierung von Migranten ab.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=25m22s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Martin Hess",
+      "party": "AfD",
+      "found": true,
+      "statement": "Herr Hess grenzt die Position der AfD zur \"Remigration\" ab und betont, dass willkommen seien, wer sich integriert und die Werte teilt. Er kritisiert eine Migration in die \"soziale Hängematte\" und die Bildung von Parallelgesellschaften.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=30m33s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Lea Reisener",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Frau Reisener bezeichnet den Antrag der AfD als \"perfiden Rassismus\", der Geflüchtete für soziale Probleme verantwortlich mache. Sie warnt davor, dass die AfD die Politik der Regierung normalisiere.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=34m48s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Florian Oßner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Herr Oßner stellt fest, dass die Migrationswende stattfindet und sich in sinkenden Zahlen manifestiert. Er nennt konkrete Maßnahmen der Regierung und betont die Notwendigkeit europäischer Zusammenarbeit.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=37m48s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dr. Christian Wirt",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Wirt zweifelt an der Wirksamkeit der Migrationswende und kritisiert hohe Einbürgerungszahlen sowie niedrige Abschiebungszahlen. Er fordert wirksame Grenzkontrollen und die Beendigung von Abschiebehindernissen.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=42m48s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Rascha Nasre",
+      "party": "SPD",
+      "found": true,
+      "statement": "Frau Nasre konfrontiert die AfD mit ihrer Infragestellung der Zugehörigkeit von Menschen zu Deutschland und schildert persönliche Erfahrungen mit Rassismus. Sie kritisiert die AfD für die Verursachung von rassistischer Anfeindung.",
+      "source_title": "Maßnahmen für eine wirkliche Migrationswende – Debatte im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=8KEBfdUYwnA&t=46m30s",
+      "platform": "Plenum"
+    }
+  ]
+}

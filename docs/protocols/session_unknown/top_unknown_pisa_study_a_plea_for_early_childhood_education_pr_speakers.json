@@ -1,0 +1,95 @@
+{
+  "synthesis": "Die PISA-Studie 2025 hat in Deutschland zu erheblicher Besorgnis geführt, insbesondere aufgrund sinkender Kompetenzen bei Schülerinnen und Schülern sowie zunehmender Bildungsungerechtigkeit. Außerhalb des Plenums haben sich die beteiligten Politiker dieser Problematik angenommen. Die Bundesregierung und die Kultusministerkonferenz betonten die Notwendigkeit gemeinsamer Anstrengungen von Bund und Ländern, um frühkindliche Bildung zu stärken und datengestützte Qualitätsentwicklung zu fördern. Einzelne Abgeordnete thematisierten spezifische Aspekte wie die Rolle sozialer Medien, die Sprachförderung oder die strukturellen Herausforderungen im Bildungssystem. Es wurde deutlich, dass die Debatte über die Verbesserung der Bildungschancen und -ergebnisse in Deutschland auf verschiedenen Ebenen und mit unterschiedlichen Schwerpunkten geführt wird.",
+  "sources": [
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend bezeichnete sie die PISA-Ergebnisse als dramatisch und nicht hinnehmbar, betonte aber die Möglichkeit einer Trendwende durch strategisches Vorgehen und frühzeitige, chancengerechte Bildung.",
+      "source_title": "Fachgespräch zur PISA-Studie 2025 im Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+      "url": "https://www.youtube.com/watch?v=qL8EvSkoKB0&t=196s",
+      "platform": "Website"
+    },
+    {
+      "name": "Anna Stolz",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Staatsministerin und Präsidentin der Kultusministerkonferenz äußerte sie, dass die PISA-Ergebnisse nicht überraschend seien und bereits Maßnahmen auf den Weg gebracht wurden. Sie hob die Priorisierung von datengestützter Entwicklung und der Professionalisierung von Lehrkräften hervor.",
+      "source_title": "Fachgespräch zur PISA-Studie 2025 im Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+      "url": "https://www.youtube.com/watch?v=qL8EvSkoKB0&t=196s",
+      "platform": "Website"
+    },
+    {
+      "name": "Jessica Heide",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Staatssekretärin für das Saarland bestätigte sie die Herausforderungen der PISA-Ergebnisse, hob die Wichtigkeit des Bund-Länder-Prozesses hervor und betonte die Notwendigkeit, Erkenntnisse aus der Bildungsforschung schneller in die Schulen zu bringen.",
+      "source_title": "Fachgespräch zur PISA-Studie 2025 im Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+      "url": "https://www.youtube.com/watch?v=qL8EvSkoKB0&t=196s",
+      "platform": "Website"
+    },
+    {
+      "name": "Anja Weißgabe",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Frömming",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Binn",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Katrin Cau",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Anja Reinalter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Denise Lob",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Nicole Gulk",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
