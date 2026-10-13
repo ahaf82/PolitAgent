@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Änderung des Behindertengleichstellungsgesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Da es sich um eine Anhörung im Ausschuss für Arbeit und Soziales handelte und keine Plenardebatte mit Abstimmung vorliegt, gibt es keine Entscheidung oder keinen Verfahrensstand im Sinne einer Abstimmung im Bundestag. Das Protokoll dokumentiert die Anhörung von Sachverständigen zum Gesetzentwurf.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

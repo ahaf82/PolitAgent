@@ -1,0 +1,72 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (13. Ausschuss) zu dem Antrag der Abgeordneten Michael Brand, Dr. Paula Pierchotter, Dr. Stefan Pilsinger, weiterer Abgeordneter und der Fraktion der CDU/CSU – Drucksache 21/3100",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Deutsche Bundestag hat den gemeinsamen Änderungsantrag zu dem Antrag der Fraktionen der CDU/CSU, SPD und Bündnis 90/Die Grünen sowie der Abgeordneten Dr. Stefan Pilsinger, Michael Brand, Dr. Paula Pierchotter und weiterer Abgeordneter (Drucksache 21/3100) in namentlicher Abstimmung angenommen. Der ursprüngliche Antrag der Fraktionen der CDU/CSU, SPD und Bündnis 90/Die Grünen sowie der Abgeordneten Dr. Stefan Pilsinger, Michael Brand, Dr. Paula Pierchotter und weiterer Abgeordneter (Drucksache 21/3100) in der Fassung des vom Ausschuss für Gesundheit vorgeschlagenen Änderungsantrags (Beschlussempfehlung und Bericht Drucksache 21/4463) gilt als angenommen.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=623760",
+    "overall_result": {
+      "ja": 496,
+      "nein": 99,
+      "enthaltung": 3,
+      "nicht_abgegeben": 4
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 146,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 148,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 103,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 99,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 46,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "FDP",
+        "ja": 53,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 49,
+        "nein": 0,
+        "enthaltung": 3,
+        "nicht_abgegeben": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten auf den Bundeswehreinsatz im Südsudan (UNMISS) spiegeln die Debatten im Bundestag wider. Während die Union und die SPD die Notwendigkeit des Einsatzes zur Stabilisierung und humanitären Unterstützung betonen, äußert die AfD zwar Zustimmung zur Mandatsverlängerung, warnt jedoch vor unrealistischen Erwartungen und fordert eine klare Exitstrategie. Die Grünen, vertreten durch Anja Müller, kritisieren scharf die Kürzung der humanitären Hilfe seitens der Bundesregierung, während Die Linke den Einsatz pauschal als teure Symbolpolitik ablehnt und eine Umschichtung der Mittel fordert. Über alle Fraktionen hinweg besteht die Sorge um die angespannte humanitäre und politische Lage im Südsudan, jedoch unterscheiden sich die Ansichten über die Wirksamkeit und die strategische Ausrichtung der UNMISS-Mission.",
+  "sources": [
+    {
+      "name": "Anja Müller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Anja Müller kritisiert die Bundesregierung scharf dafür, das Mandat für UNMISS zu verlängern, aber gleichzeitig die humanitäre Hilfe für den Südsudan auf einen Rekordtiefstand zu kürzen. Sie bezeichnet dies als fatal und sicherheitspolitisch falsch und fordert eine Beendigung der Kürzungen.",
+      "source_title": "Redebeitrag im Deutschen Bundestag zum Bundeswehreinsatz im Südsudan (UNMISS)",
+      "url": "https://www.youtube.com/watch?v=GJCB77GQlX8&t=11m50s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Dessker",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Dessker bezeichnet die Mandatsverlängerung für UNMISS als teure Symbolpolitik und fordert, dass das Geld stattdessen in lebensrettende Maßnahmen investiert wird. Sie argumentiert, dass UNMISS dem Südsudan nicht geholfen habe und der Einsatz beendet werden müsse.",
+      "source_title": "Redebeitrag im Deutschen Bundestag zum Bundeswehreinsatz im Südsudan (UNMISS)",
+      "url": "https://www.youtube.com/watch?v=GJCB77GQlX8&t=16m22s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Jan Pölhmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Jan Pölhmann betont die Pflicht Deutschlands zur Teilnahme an UNMISS und hebt hervor, dass ein Abzug das Land in ein Bürgerkriegschaos stürzen würde. Er unterstreicht, dass die deutsche Beteiligung ein wichtiger Beitrag für die Zivilbevölkerung sei und Deutschlands Verlässlichkeit auf internationaler Ebene zeige.",
+      "source_title": "Redebeitrag im Deutschen Bundestag zum Bundeswehreinsatz im Südsudan (UNMISS)",
+      "url": "https://www.youtube.com/watch?v=GJCB77GQlX8&t=19m31s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Jürgen K.",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jürgen K. hebt hervor, dass es um das Schicksal der Menschen im Südsudan gehe und nichts zu tun das Leid vergrößern würde. Er appelliert an die Notwendigkeit, zu helfen und nicht wegzuschauen, und warnt vor einer Ausweitung von Konflikten in Ostafrika.",
+      "source_title": "Redebeitrag im Deutschen Bundestag zum Bundeswehreinsatz im Südsudan (UNMISS)",
+      "url": "https://www.youtube.com/watch?v=GJCB77GQlX8&t=27m09s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Gerold Oen",
+      "party": "AfD",
+      "found": true,
+      "statement": "Gerold Oen stimmt der Mandatsverlängerung zu, warnt jedoch, dass UNMISS nur punktuell helfen könne und keinen gescheiterten Staat beleben könne. Er kritisiert die mangelnde Umsetzung des Friedensabkommens und die unsicheren Wahlbedingungen.",
+      "source_title": "Redebeitrag im Deutschen Bundestag zum Bundeswehreinsatz im Südsudan (UNMISS)",
+      "url": "https://www.youtube.com/watch?v=GJCB77GQlX8&t=51m13s",
+      "platform": "Plenum"
+    },
+    {
+      "name": "Heinrich Koch",
+      "party": "AfD",
+      "found": true,
+      "statement": "Heinrich Koch spricht sich dafür aus, das Mandat an die Realität anzupassen und klar zwischen Zielen, Auftrag, Methoden und Mitteln zu trennen. Er kritisiert die pauschale Abstimmung über Einsätze und die mangelnden strategischen Ansätze der Regierung.",
+      "source_title": "Redebeitrag im Deutschen Bundestag zum Bundeswehreinsatz im Irak (UNMISS)",
+      "url": "https://www.youtube.com/watch?v=GJCB77GQlX8&t=51m13s",
+      "platform": "Plenum"
+    }
+  ]
+}

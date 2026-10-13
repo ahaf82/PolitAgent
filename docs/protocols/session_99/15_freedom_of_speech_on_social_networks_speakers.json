@@ -1,0 +1,140 @@
+{
+  "synthesis": "Die Debatte im Bundestag über Meinungsfreiheit in sozialen Netzwerken spiegelte sich in den externen Äußerungen der Abgeordneten wider. Die AfD-Fraktion, vertreten durch Stefan Brandner und Tobias Matthias Pitker, betonte die Notwendigkeit, die Meinungsfreiheit zu schützen und kritisierte die Inhaltsmoderation durch Plattformen sowie den Digital Services Act (DSA) als einschränkend. Die CDU/CSU, mit Dr. Konrad Körner und Henry Schmidt, wies die Kritik der AfD zurück und hob die bereits im DSA verankerten Grundrechte hervor, während sie die Handwerklichkeit des AfD-Entwurfs bemängelte. Bündnis 90/Die Grünen, vertreten durch Dr. Anna Lürmann, warfen der AfD vor, kein Interesse an Meinungsfreiheit zu haben und eine Allianz mit Tech-Konzernen einzugehen. Die SPD, repräsentiert durch Maja Walstein, positionierte sich für klare Regeln zum Schutz, insbesondere von Jugendlichen, und betonte die Rolle des DSA. Die Linke, mit Donata Vogtschmidt, kritisierte die AfD scharf für die Verbreitung von Hass und Hetze und sah in deren Forderungen eine Verharmlosung von Desinformation.",
+  "sources": [
+    {
+      "name": "Stefan Brandner",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert die als schrumpfende Meinungsfreiheit in Deutschland und verweist auf Berichte von Irene Kahn. Er bemängelt die Anwendung des Politikerbeleidigungsparagraphen und die Absicht, die stärkste Partei verbieten zu wollen. Er spricht von Ermittlungsverfahren, Hausdurchsuchungen und dem Löschen unliebsamer Veröffentlichungen.",
+      "source_title": "Protokoll der 99. Sitzung des Deutschen Bundestages, TOP 15",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Kritisiert den Gesetzentwurf der AfD als handwerklich und inhaltlich schlecht. Er verweist auf den Digital Services Act (DSA), der Plattformen zur Berücksichtigung von Grundrechten, insbesondere der Meinungsfreiheit, verpflichte. Er erklärt, dass der AfD-Entwurf in den EU-Recht eingreifen wolle und die unternehmerische Freiheit von Plattformen einschränke.",
+      "source_title": "Protokoll der 99. Sitzung des Deutschen Bundestages, TOP 15",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Dr. Anna Lürmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Hinterfragt das Interesse der AfD an Meinungsfreiheit und spricht von einer unheiligen Allianz zwischen AfD und BigTech. Sie argumentiert, dass Algorithmen Hass und Hetze bevorzugten, da dies Aufmerksamkeit erregt und Geld einbringt.",
+      "source_title": "Protokoll der 99. Sitzung des Deutschen Bundestages, TOP 15",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Maja Walstein",
+      "party": "SPD",
+      "found": false,
+      "statement": "Hält es für falsch, wenn Beiträge im Netz Menschen bewusst verletzen, zu selbstverletzenden Taten motivieren oder strafbare Inhalte tagelang online bleiben. Sie lehnt den Gesetzentwurf der AfD ab, versteht aber die Argumente dafür.",
+      "source_title": "Protokoll der 99. Sitzung des Deutschen Bundestages, TOP 15",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Wirft der AfD vor, Hass und Hetze zu verbreiten und Kritik als Zensur zu bezeichnen. Sie betont, dass Meinungsfreiheit nicht unwidersprochen bleiben bedeute und niemand Desinformation kommentarlos hinnehmen müsse.",
+      "source_title": "Protokoll der 99. Sitzung des Deutschen Bundestages, TOP 15",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Henry Schmidt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Stellt fest, dass es keine Belege für eine abgeschaffte Meinungsfreiheit in Deutschland gibt und Deutschland in internationalen Rankings gut abschneidet. Er kritisiert, dass die AfD trotz ihres Gesetzentwurfs die Realität verkenne und sich als Opfer darstelle.",
+      "source_title": "Protokoll der 99. Sitzung des Deutschen Bundestages, TOP 15",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Tobias Matthias Pitker",
+      "party": "AfD",
+      "found": false,
+      "statement": "Verteidigt die Zusammenarbeit mit Plattformen wie X und Facebook und kritisiert die Zusammenarbeit der Regierungsparteien mit der Hamas und dem Remoclan. Er argumentiert, dass soziale Medien Meinungsfreiheit bräuchten und die Regierungsparteien dies nicht verstünden.",
+      "source_title": "Protokoll der 99. Sitzung des Deutschen Bundestages, TOP 15",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Stefan Brandner",
+      "party": "AfD",
+      "found": true,
+      "statement": "Die AfD-Fraktion fordert die Gewährleistung der Meinungsfreiheit in sozialen Netzwerken durch Gesetzesänderungen am Digitale-Dienste-Gesetz (DDG). Sie kritisieren den Begriff der „Hassrede“ als zu unkonkret und fordern, dass Haftungsausschlüsse nicht gelten sollen, wenn Plattformen Inhalte nach eigenen Wertungen überprüfen.",
+      "source_title": "Entwurf eines Gesetzes zur Gewährleistung der Meinungsfreiheit in den sozialen Netzwerken - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2023/974030-974030",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Kritisiert den Gesetzentwurf der AfD als handwerklich und inhaltlich mangelhaft, da er bereits ungültige Gesetze zitiere und in EU-Recht eingreifen wolle. Er betont, dass der Digital Services Act (DSA) bereits Grundrechte wie die Meinungsfreiheit berücksichtige.",
+      "source_title": "Rede von Dr. Konrad Körner (CDU/CSU) – Gesetzes zur Gewährleistung der Meinungsfreiheit in den sozialen Netzwerken",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Anna Lürmann",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Die Grünen werfen der AfD vor, kein Interesse an Meinungsfreiheit zu haben und stattdessen eine \"unheilige Allianz\" mit BigTech einzugehen, da deren Algorithmen Hass und Hetze fördern. Sie verweisen auf die Notwendigkeit dezentraler sozialer Netzwerke und freier Software.",
+      "source_title": "Das Internet befreien und Freiheit im Internet garantieren.",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Maja Walstein",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont die Notwendigkeit klarer Regeln für soziale Medien zum Schutz von Kindern und Jugendlichen. Sie verweist auf das SPD-Konzept für sichere soziale Medien, das eine altersgestufte Regelung vorsieht und Algorithmenkritik übt.",
+      "source_title": "Sichere Soziale Medien - SPD.de",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisiert die AfD scharf dafür, Hass und Hetze zu verbreiten und dies als Kampf für Meinungsfreiheit zu verkaufen. Sie betont, dass Meinungsfreiheit nicht bedeute, unwidersprochen zu bleiben und dass der Digital Services Act (DSA) gegen Fake Accounts und Bot-Netzwerke helfe.",
+      "source_title": "Rede von Donata Vogtschmidt (DIE LINKE) – Gesetzes zur Gewährleistung der Meinungsfreiheit in den sozialen Netzwerken",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Henry Schmidt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Vertritt die Ansicht, dass es keine Belege für eine systematisch unterdrückte Meinungsfreiheit in Deutschland gibt und Deutschland in internationalen Rankings gut abschneidet. Er kritisiert die AfD dafür, die Realität zu verkennen und sich als Opfer darzustellen.",
+      "source_title": "Rede von Henry Schmidt (CDU/CSU) – Gesetzes zur Gewährleistung der Meinungsfreiheit in den sozialen Netzwerken",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tobias Matthias Pitker",
+      "party": "AfD",
+      "found": true,
+      "statement": "Fordert, dass Haftungsprivilegien für soziale Netzwerke nur gelten sollten, wenn keine politische Moderation stattfindet. Die AfD kritisiert, dass große, marktbeherrschende Plattformen Nutzerbeiträge nach eigenen Richtlinien bewerten, löschen oder sperren dürfen.",
+      "source_title": "Entwurf eines Gesetzes zur Gewährleistung der Meinungsfreiheit in den sozialen Netzwerken - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2023/974030-974030",
+      "platform": "Presse"
+    },
+    {
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisiert, dass die Bundesregierung den Ausverkauf der Privatsphäre aller Europäer an KI-Unternehmen und Werbetreibende unterstützt. Sie fordert klare Kante gegen die profitorientierte Online-Werbeindustrie, die soziale Netzwerke in asoziale verwandelt.",
+      "source_title": "UnplugAds! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}
