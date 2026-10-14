@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag am 8. Oktober 2026, die sich auf \"Abschließende Beratungen ohne Aussprache\" konzentrierte, umfasste die Abstimmung über mehrere Gesetzentwürfe und Beschlussempfehlungen. Insbesondere die AfD-Fraktion zeigte eine klare Opposition zu den meisten Vorlagen, die von der Regierung und den etablierten Fraktionen getragen wurden. Externe Aussagen zeigen, dass die AfD sich gegen die Maßnahmen zur Informationsaustausch über digitale Plattformen und Finanzkonten aussprach und eigene Anträge zu Impfschäden, Fluorchinolon-Antibiotika und Infektionskrankheiten bei Asylsuchenden einbrachte, die jedoch abgelehnt wurden. Die Grünen und Die Linke positionierten sich in der Debatte vor allem durch Enthaltungen und Gegenstimmen bei bestimmten Beschlussempfehlungen, was sich auch in ihren externen Forderungen widerspiegelt, wie beispielsweise eine Digitalabgabe oder eine stärkere Regulierung digitaler Plattformen.",
+  "sources": [
+    {
+      "name": "Dr. Michael Arndt",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Dr. Michael Arndt ist ein Abgeordneter der Fraktion Die Linke und Mitglied im Petitionsausschuss sowie stellvertretendes Mitglied im Ausschuss für Gesundheit. Seine externen Äußerungen beziehen sich auf seine Rolle als Sprecher für Arzneimittelpolitik und Arzneimittelverfügbarkeit, insbesondere im Hinblick auf die E-Rezept-Übermittlung zur Verbesserung der Gesundheitsversorgung für mobilitätseingeschränkte Personen.",
+      "source_title": "Profil - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/abgeordnete/profil/dr-michael-arndt/",
+      "platform": "Website"
+    },
+    {
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Sichert ist ein Abgeordneter der AfD-Fraktion. Er war an einem Antrag zur Überprüfung von COVID-19-Impfschäden beteiligt, der eine ernsthafte Auseinandersetzung und medizinische Behandlung für Betroffene forderte, jedoch von den anderen Fraktionen abgelehnt wurde.",
+      "source_title": "Deutscher Bundestag Drucksache 21/8428",
+      "url": "https://dserver.bundestag.de/btd/21/084/2108428.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Christina Baum",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Christina Baum, AfD-Bundestagsabgeordnete und Mitglied des Gesundheitsausschusses, fordert die Offenlegung und Auswertung von Daten zu Corona-Impffolgen. Sie kritisiert, dass staatliche Stellen Daten zurückhalten, was sie als Verletzung der Fürsorgepflicht und Vertuschungstaktik bezeichnet.",
+      "source_title": "Daten zu Impfschäden müssen veröffentlicht und ausgewertet werden - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/daten-zu-impfschaeden-muessen-veroeffentlicht-und-ausgewertet-werden/",
+      "platform": "Website"
+    },
+    {
+      "name": "Carina Schießl",
+      "party": "AfD",
+      "found": true,
+      "statement": "Carina Schießl ist eine Abgeordnete der AfD-Fraktion. Sie war an einem Antrag zur Überprüfung von COVID-19-Impfschäden beteiligt, der eine ernsthafte Auseinandersetzung und medizinische Behandlung für Betroffene forderte, jedoch von den anderen Fraktionen abgelehnt wurde.",
+      "source_title": "Deutscher Bundestag Drucksache 21/8428",
+      "url": "https://dserver.bundestag.de/btd/21/084/2108428.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jörn König",
+      "party": "AfD",
+      "found": true,
+      "statement": "Jörn König, AfD-Abgeordneter, hält eine Rede, in der er die Meldepflicht und den Datenaustausch bezüglich Kryptoanlagen kritisiert. Er fordert eine Streichung des entsprechenden Gesetzesartikels, um die Bürger vor übermäßiger Datenerfassung zu schützen und kritisiert die Behandlung deutscher Kryptoanleger.",
+      "source_title": "56 countries get access to your crypto data! - Jörn König - AfD parliamentary group in the Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=N5PVbnCSMUI",
+      "platform": "Social Media"
+    }
+  ]
+}

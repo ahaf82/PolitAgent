@@ -65,6 +65,45 @@
     "processed_at": "2026-10-12T08:02:22.610669"
   },
   {
+    "id": "_wp3E-JGER0",
+    "title": "99. Sitzung vom 08.10.2026. TOP 9: Nachhaltigkeit und Zukunftsfragen",
+    "session": 99,
+    "date": "2026-10-08",
+    "top": "9",
+    "topic": "Nachhaltigkeit als Gestaltungsaufgabe für die Zukunft",
+    "summary_path": "protocols/session_99/9_nachhaltigkeit_und_zukunftsfragen.md",
+    "documents_path": "protocols/session_99/9_nachhaltigkeit_und_zukunftsfragen_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=_wp3E-JGER0",
+    "processed_at": "2026-10-14T08:06:54.474338"
+  },
+  {
+    "id": "iA8d5FTNqPA",
+    "title": "99th Session on 10/08/2026. Agenda Item 5: Current Affairs Debate: Economic Forecasts 2027",
+    "session": 99,
+    "date": "2026-10-08",
+    "top": "5",
+    "topic": "Debatte zur aktuellen Lage: Wirtschaftsprognosen 2027",
+    "summary_path": "protocols/session_99/5_current_affairs_debate_economic_forecasts_2027.md",
+    "documents_path": "protocols/session_99/5_current_affairs_debate_economic_forecasts_2027_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=iA8d5FTNqPA",
+    "processed_at": "2026-10-14T08:02:22.677795"
+  },
+  {
+    "id": "CTxwACAs5BM",
+    "title": "99th Session on 10/08/2026. Agenda Item 43: Final Deliberations without Debate",
+    "session": 99,
+    "date": "2026-10-08",
+    "top": "43",
+    "topic": "Abschließende Beratungen ohne Aussprache",
+    "summary_path": "protocols/session_99/43_final_deliberations_without_debate.md",
+    "documents_path": "protocols/session_99/43_final_deliberations_without_debate_documents.json",
+    "speakers_path": "protocols/session_99/43_final_deliberations_without_debate_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=CTxwACAs5BM",
+    "processed_at": "2026-10-14T08:03:21.594620"
+  },
+  {
     "id": "1xDVYyPkDBo",
     "title": "99th Session on 10/08/2026. Agenda Item 19, Additional Item 6: Food and Nutritional Security",
     "session": 99,
@@ -141,6 +180,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=lLO7ZCKrMIk",
     "processed_at": "2026-10-13T08:04:48.938844"
+  },
+  {
+    "id": "y5CS_3t6EbM",
+    "title": "99th Session on 10/08/2026. Agenda Item 13: Energy Supply",
+    "session": 99,
+    "date": "2026-10-08",
+    "top": "13",
+    "topic": "Energieversorgung",
+    "summary_path": "protocols/session_99/13_energy_supply.md",
+    "documents_path": "protocols/session_99/13_energy_supply_documents.json",
+    "speakers_path": "protocols/session_99/13_energy_supply_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=y5CS_3t6EbM",
+    "processed_at": "2026-10-14T08:01:20.585238"
+  },
+  {
+    "id": "cc5cGpGqn7c",
+    "title": "99th Session on 10/08/2026. Agenda Item 12: Report of the Federal Government Commissioner for Eas...",
+    "session": 99,
+    "date": "2026-10-08",
+    "top": "12",
+    "topic": "Bericht der Bundesbeauftragten der Bundesregierung für Ostdeutschland 2026",
+    "summary_path": "protocols/session_99/12_report_of_the_federal_government_commissioner_for_.md",
+    "documents_path": "protocols/session_99/12_report_of_the_federal_government_commissioner_for__documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=cc5cGpGqn7c",
+    "processed_at": "2026-10-14T08:01:44.140807"
+  },
+  {
+    "id": "moyLbvqdYmE",
+    "title": "99th Session on 10/08/2026. Agenda Item 10: Left-wing extremism, critical infrastructure",
+    "session": 99,
+    "date": "2026-10-08",
+    "top": "10",
+    "topic": "Linksextremismus und kritische Infrastruktur",
+    "summary_path": "protocols/session_99/10_left_wing_extremism_critical_infrastructure.md",
+    "documents_path": "protocols/session_99/10_left_wing_extremism_critical_infrastructure_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=moyLbvqdYmE",
+    "processed_at": "2026-10-14T08:06:09.536045"
   },
   {
     "id": "XyU_L60A7xA",

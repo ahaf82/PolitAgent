@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/8380",
+      "title": "24 Maßnahmen gegen linksextremistische Gewalt und Terror - Jetzt entschlossen handeln zum Schutz von Demokratie, Rechtsstaat und kritischer Infrastruktur, insbesondere unter der Berücksichtigung der Ergebnisse der Berliner Abgeordnetenhauswahl",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8380&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/8381",
+      "title": "Sachbeschädigungen von kritischen Infrastrukturen (KRITIS) in der polizeilichen Kriminalstatistik gesondert abbilden",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8381&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/2510",
+      "title": "Gesetz zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2510&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/3855",
+      "title": "Gesetz zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3855&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/3906",
+      "title": "Entschließung zu Drucksachen 21/2510, 21/3855",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3906&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zu den Anträgen der AfD-Fraktion über linksextremistische Gewalt und den Schutz kritischer Infrastruktur endete mit der Überweisung beider Anträge an den Innenausschuss zur federführenden Beratung. Es gab keine namentliche Abstimmung zu diesen Themen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

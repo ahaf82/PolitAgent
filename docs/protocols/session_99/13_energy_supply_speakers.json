@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Äußerungen der analysierten Abgeordneten zur Energieversorgung spiegeln die im Bundestag geführte Debatte wider. Lorenz Gösta Beutin (Die Linke) äußert sich auf Abgeordnetenwatch kritisch zur Privatisierung von Energieinfrastruktur. Steffen Kotré (AfD) positioniert sich auf seiner Fraktionswebsite und in Videos klar gegen die aktuelle Energiepolitik, kritisiert die Energiewende und fordert Kernkraft sowie den Ausbau heimischer fossiler Energien. Michael Kellner (Bündnis 90/Die Grünen) ist auf Abgeordnetenwatch präsent, wobei die gefundenen Antworten sich eher auf allgemeine politische Themen beziehen als spezifisch auf die Debatte zur Energieversorgung. Für Fabian Gramling (CDU/CSU), Karl-Heinz Sassenrath (CDU/CSU) und Raimond Schirach (AfD) konnten keine externen Aussagen zu diesem spezifischen Thema in der kurzen Zeit gefunden werden.",
+  "sources": [
+    {
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Auf Abgeordnetenwatch kritisiert Beutin die Pläne zum Verkauf von Uniper und SEFE und argumentiert, dass Energieinfrastruktur in öffentlicher Hand bleiben müsse, um bezahlbare Preise zu sichern.",
+      "source_title": "Lorenz Gösta Beutin - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/lorenz-goesta-beutin",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Fabian Gramling",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Steffen Kotré",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kotré kritisiert die Energiepolitik der Bundesregierung, die er als Ursache für steigende Preise und mangelnde Versorgungssicherheit ansieht. Er plädiert für den Erhalt der Kernkraft und den Ausbau heimischer fossiler Energien.",
+      "source_title": "Policy makes energy expensive and destroys competitiveness! - Steffen Kotré - AfD Parliamentary G... - YouTube",
+      "url": "https://www.youtube.com/watch?v=URe8yp-VPkU",
+      "platform": "Presse"
+    },
+    {
+      "name": "Mahmut Özdemir",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Michael Kellner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Auf Abgeordnetenwatch finden sich Antworten von Michael Kellner zu verschiedenen politischen Themen, jedoch keine spezifischen externen Aussagen zur Energieversorgung und den Unternehmen Uniper und SEFE im Kontext der aktuellen Debatte.",
+      "source_title": "Michael Kellner - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/michael-kellner/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Karl-Heinz Sassenrath",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Raimond Schirach",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
