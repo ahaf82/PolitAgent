@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Entwurf eines Einkommensteuerreformgesetzes 2027 und Entwurf eines Jahressteuergesetzes 2026",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zum Einkommensteuerreformgesetz 2027 und Jahressteuergesetz 2026 sowie dem Antrag der Grünen zur Stärkung des Kindergeldes wurde im Rahmen der ersten Beratung geführt. Der vorliegende Protokollausschnitt zeigt keine abschließende Entscheidung, sondern die Vorstellung und kritische Auseinandersetzung mit den Gesetzesentwürfen und Anträgen durch die verschiedenen Fraktionen. Die Vorlagen wurden zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -8,155 +8,82 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=mx7CAHhNZHE)
 
 ## Kurzzusammenfassung
-Die Debatte im Deutschen Bundestag beschäftigte sich mit dem Thema "Nachhaltigkeit und Zukunftsfragen". Verschiedene Fraktionen brachten ihre Perspektiven zu diesem komplexen Thema ein, das von der Bundesregierung durch einen Aktionsplan konkretisiert wurde. Die Diskussionsbeiträge reichten von der Darstellung der Regierungspolitik und der Bedeutung von Nachhaltigkeit für zukünftige Generationen über Kritik an der aktuellen Wirtschafts- und Klimapolitik bis hin zu spezifischen Überlegungen zu Energie, Wasser, Gesundheit und internationaler Zusammenarbeit.
+Die Debatte konzentrierte sich auf die Bedeutung von Nachhaltigkeit als übergreifendes politisches Leitprinzip und zentrale Zukunftsfrage. Es wurden verschiedene Aspekte beleuchtet, darunter die Notwendigkeit generationengerechter Politik, die Verbindung von Klimaschutz und Wirtschaftswachstum, die Anpassung an den Klimawandel sowie die Umsetzung von Maßnahmen zur Förderung einer nachhaltigen Entwicklung. Die Fraktionen präsentierten unterschiedliche Ansichten hinsichtlich der Dringlichkeit und der geeigneten Lösungsansätze, wobei die wirtschaftlichen Auswirkungen und die Rolle des Staates kontrovers diskutiert wurden.
 
 ## Kernaussagen und Positionen der Fraktionen
 - **Bundesregierung (vertreten durch Rita Schwarzelühr-Sutter und Philipp Amthor):**
-  - Nachhaltigkeit sei die zentrale Zukunftsfrage und bedeute Lebensqualität und Fortschritt, der auch morgen noch trägt.
-  - Die Agenda 2030 und die deutsche Nachhaltigkeitsstrategie seien wichtige Fortschritte, das 21. Jahrhundert solle vom Gedanken der Nachhaltigkeit geprägt sein.
-  - Ein neuer Aktionsplan Nachhaltigkeit mit 20 Missionen wurde verabschiedet, darunter Bildung für nachhaltige Entwicklung und die Förderung von Reparaturen.
-  - Nachhaltigkeit verbinde ökonomische, ökologische, soziale und sicherheitspolitische Dimensionen und sei das Prinzip der Zukunftsfähigkeit.
-  - Es gebe keinen unauflöslichen Zielkonflikt zwischen Klimaschutz und Wirtschaftswachstum; vielmehr sei "Wirtschaftswachstum durch Klimaschutz" das Ziel.
-  - Die Bundesregierung verstärke nationale Anstrengungen zur Erreichung der UN-Nachhaltigkeitsziele durch die Weiterentwicklung der Deutschen Nachhaltigkeitsstrategie und den Aktionsplan.
-  - Nachhaltigkeitspolitik müsse das Leben der Menschen konkret verbessern, nicht bevormunden, und Zuversicht statt Ängste vor der Zukunft schüren.
-  - Der Aktionsplan konzentriert sich auf Staatsmodernisierung, nachhaltiges Wirtschaftswachstum, soziale Gerechtigkeit, Bewahrung der Lebensgrundlagen und internationale Zusammenarbeit.
-  - In Bezug auf die Bundeswehr werde die Energieversorgung mit erneuerbaren Energien strategisch nachhaltiger gestaltet, um Autarkie und Resilienz zu stärken.
+  - Nachhaltigkeit ist die zentrale Zukunftsfrage und bedeutet Lebensqualität sowie Fortschritt, der auch morgen noch trägt.
+  - Die Agenda 2030 und die deutsche Nachhaltigkeitsstrategie sind wichtige Rahmenwerke.
+  - Konkrete Maßnahmen werden durch den "Aktionsplan Nachhaltigkeit" umgesetzt, z.B. Förderung von Bildung für nachhaltige Entwicklung und die Mission "Reparieren schafft Zukunft".
+  - Es besteht kein unauflöslicher Zielkonflikt zwischen Klimaschutz und Wirtschaftswachstum; vielmehr treiben Innovationen und Zukunftstechnologien die Wirtschaft an.
+  - Nachhaltigkeit ist ein Leitprinzip, das ökonomische, ökologische, soziale und sicherheitspolitische Dimensionen verbindet.
+  - Die Bundesregierung setzt auf einen generationengerechten Ansatz und zielt darauf ab, Zuversicht statt Ängste vor der Zukunft zu schaffen.
+  - "Health in all Policies" wird als wichtiger Ansatz für eine moderne Gesundheitspolitik hervorgehoben.
 - **AfD-Fraktion (vertreten durch Rainer Groß, Dr. Christoph Birghan, Dr. Rainer Kraft, Karsten Hilse, Matthias Rentzsch):**
-  - Die Politik der Bundesregierung sei ein "großer Irrweg" und führe zur Deindustrialisierung Deutschlands.
-  - Der Green Deal und die Agenda 2030 seien ideologisch und planwirtschaftlich motiviert und schafften keinen wertschöpfenden Ersatz.
-  - Deutschland drohe eine fatale Abhängigkeit von China, und Schlüsselindustrien würden vernichtet.
-  - Landwirte würden drangsaliert, und es drohten Importe von Nahrungsmitteln aus Übersee.
-  - Der Staat versuche, Technologie, Ernährung und Heizung vorzuschreiben, was zu einer "gelenkten Gesinnungswirtschaft" führe.
-  - Echte Nachhaltigkeit benötige eine freie, starke, innovative Wirtschaft, die den Staat finanziert, und müsse Planwirtschaft stoppen.
-  - Die Energiewende sei unbezahlbar und höchst subventioniert, was zu höchsten Energiepreisen führe.
-  - Die Politik der Bundesregierung sei das Gegenteil von nachhaltig und führe zu Wohlstandsverlust und Deindustrialisierung.
-  - Die AfD fordert die Beendigung des Green Deal, die Korrektur von Klimaschutz- und CO2-Zwangsabgaben sowie eine sichere und bezahlbare Energieversorgung.
-  - Die Bundesregierung ignoriere die Realität und konzentriere sich auf abstrakte Ziele statt auf produktive Schaffung.
-  - Die geförderten NGOs würden unter dem Deckmantel der Gemeinnützigkeit die Rechtsprechung missbrauchen.
-  - Die AfD kritisiert die Umsetzung von Nachhaltigkeitszielen als überbordende Bürokratie und EU-Bürokratisierungswahn, der deutsche Unternehmen belastet.
-  - Die Bundeswehr solle mit Dieselgeneratoren und nicht mit wetterabhängigen Energieformen ausgestattet werden, um die Einsatzbereitschaft zu gewährleisten.
-  - Die AfD-Politik zielt auf die Rückkehr zur Vernunft, das Stoppen der Planwirtschaft und die Stärkung der deutschen Wirtschaft durch Kernkraft und Deregulierung.
-  - Die aktuelle Energiepolitik sei nicht nur vernünftig noch mit Nachhaltigkeitszielen vereinbar, führe zur Zerstörung von Natur und Gesellschaft und mache Deutschland abhängig vom Ausland.
-- **CDU/CSU-Fraktion (vertreten durch Elisabeth Winkelmeier-Becker, Volker Mayer-Lay, Felix Schreiner, Ralph Brinkhaus, Klaus Mack):**
-  - Der Aktionsplan Nachhaltigkeit sei ein guter Schritt, der breiter aufgestellt sei als bisherige Ansätze.
-  - Nachhaltigkeit brauche ein Zielbild einer guten Zukunft, das Mut und Lust darauf mache.
-  - Politiken müssten aus dem Blickwinkel künftiger Generationen gedacht und "enkeltauglich" sein.
-  - Die liberale Demokratie, der gesellschaftliche Zusammenhalt und die Toleranz müssten erhalten bleiben.
-  - Das Prinzip der Nachhaltigkeit müsse auf alle Lebensbereiche übertragen werden.
-  - Das Prinzip der Erhaltung natürlicher Lebensgrundlagen, wirtschaftlicher Stärke und sozialer Sicherheit müsse zusammengebracht werden.
-  - Nachhaltigkeit sei mehr als nur Klima- und Umweltschutz, sondern finde sich auch in der Sicherheitspolitik wieder.
-  - Wirtschaftliche Stärke sei ebenfalls eine Frage der Nachhaltigkeit, um auch künftigen Generationen Wohlstand und Arbeitsplätze zu sichern.
-  - Der Aktionsplan mache Nachhaltigkeit ressortübergreifend, praxisnah und messbar.
-  - Die Digitalisierung des Staates, die Sanierung der Infrastruktur und die Energiesicherheit der Bundeswehr seien Beispiele für gelebte Nachhaltigkeit.
-  - Nachhaltigkeit bedeute nicht Verzicht und Stillstand, sondern Wachstum, Finanzierbarkeit und die Verbindung von Klimaschutz mit Versorgungssicherheit und bezahlbaren Preisen.
-  - Es gelte, Verantwortung für morgen zu übernehmen und nicht auf Kosten künftiger Generationen zu leben.
-  - Die CDU/CSU setze auf einen Ausgleich zwischen Ökologie, Ökonomie und sozialem Zusammenhalt.
-  - Die Politik müsse die Lebenswirklichkeit der Menschen berücksichtigen und dürfe nicht auf Verzicht und Verbote reduziert werden.
-  - Mehr gesunde Lebensjahre seien ein zentrales politisches Programm, das durch Prävention, "Health in all Policies" und gezielte Maßnahmen erreicht werden solle.
-  - Die Nachhaltigkeitsstrategie und die UN-Ziele böten ein Rahmenprogramm für eine ziel- und wirkungsorientierte Politik.
-- **Bündnis 90/Die Grünen (vertreten durch Dr. Andrea Lübcke, Mayra Vriesema, Niklas Wagener, Dr. Julia Verlinden):**
-  - Die Bundesregierung schaffe mit ihren Entscheidungen die Zukunft negativ.
-  - Kürzungen bei der Energieforschung seien nicht nachhaltig und gefährdeten den Standort Deutschland.
-  - "Enkeltauglichkeit" sei ein wichtiges Maß für Nachhaltigkeit.
-  - Zukunftschecks zur Abschätzung der langfristigen Folgen von Gesetzen seien notwendig.
-  - Die Politik der Bundesregierung bremse erneuerbare Energien aus und sorge nicht für bezahlbares Leben und positive Zukunftsaussichten.
-  - Die Energiewende sei ein Beispiel für positive Zukunftsgestaltung.
-  - Die Einführung von "Zukunftschecks" nach skandinavischem Vorbild sei ein Vorschlag, um die Langfristigkeit von Entscheidungen zu gewährleisten.
-  - Die Bundesregierung setze weiterhin auf fossile Energien statt auf erneuerbare Energien und behindere deren Ausbau, was ein Sicherheitsrisiko darstelle.
-  - Erneuerbare Energien seien die günstigsten und wichtigsten für eine nachhaltige Zukunft.
-  - Klimaschutz sei die entscheidende Voraussetzung für Nachhaltigkeit, insbesondere im Hinblick auf Wälder und die Bekämpfung der Klimakrise.
-  - Krieg sei das Gegenteil von Nachhaltigkeit, und die Bundeswehr müsse so ausgestattet sein, dass sie Frieden und Freiheit für künftige Generationen sichern kann.
-  - Die Zusammenarbeit in der Politik sei entscheidend für eine nachhaltige Zukunft.
-  - Der Schutz von Böden, Wäldern und Wasserversorgung sei für die Lebensgrundlagen und den Wohlstand essenziell.
+  - Die Politik der Bundesregierung in Bezug auf Nachhaltigkeit wird als "Irrweg" und "Deindustrialisierung" kritisiert.
+  - Der Green Deal und die Agenda 2030 werden als ideologisch und planwirtschaftlich abgelehnt, da sie keinen wertschöpfenden Ersatz für schrumpfende Industriebereiche bieten.
+  - Die deutsche Wirtschaft leide unter zu viel Bürokratie, Verboten und Zwangsabgaben, was zu Abhängigkeiten und Wohlstandsverlust führe.
+  - Die Energiewende wird als unbezahlbar und ineffektiv kritisiert; Kernkraft wird als nachhaltige Alternative zur Energieversorgung gefordert.
+  - Der Aktionsplan der Bundesregierung wird als "administrative Selbstbeschäftigung" und "planwirtschaftliche Förderung" abgetan.
+  - Die Fokussierung auf erneuerbare Energien wird als ineffizient dargestellt; die Stromproduktion aus Wind und Solar sei zu gering und führe zu Importabhängigkeit.
+  - Die Agenda 2030 wird abgelehnt und eine Politik für die "deutsche Mehrheitsgesellschaft" sowie eine Beendigung des "menschengemachten Klimawandels" gefordert.
+- **CDU/CSU-Fraktion (vertreten durch Elisabeth Winkelmeier-Becker, Volker Mayer-Lay, Dr. Wolfgang Stefinger, Felix Schreiner, Ralph Brinkhaus, Klaus Mack):**
+  - Der vorgelegte Aktionsplan wird als positives Novum gesehen, da er ressortübergreifend und konkret ist.
+  - Nachhaltigkeit muss "enkeltauglich" sein und zukünftigen Generationen Freiheit und Eigenverantwortung ermöglichen.
+  - Es wird betont, dass Nachhaltigkeit nicht nur Klima- und Umweltschutz umfasst, sondern auch wirtschaftliche Stärke, Wohlstand und Sicherheit für zukünftige Generationen einschließt.
+  - Die Verbindung von Ökologie, Ökonomie und sozialem Zusammenhalt ist entscheidend; diese dürfen nicht gegeneinander ausgespielt werden.
+  - Die Bundesregierung wird aufgefordert, den Aktionsplan zu konkretisieren und messbare Ziele zu definieren.
+  - Langfristige Perspektiven und Reformen sind notwendig, um Wohlstand und Sicherheit zu bewahren.
+  - Das Ziel "mehr gesunde Lebensjahre" wird als zentrales politisches Programm hervorgehoben, das in allen Politikbereichen berücksichtigt werden muss.
+- **Bündnis 90/Die Grünen (vertreten durch Dr. Andrea Lübcke, Mayra Vriesema, Dr. Julia Verlinden, Niklas Wagener):**
+  - Nachhaltigkeit wird als "Enkeltauglichkeit" definiert, die messbar macht, ob Entscheidungen für zukünftige Generationen gut sind.
+  - Kürzungen in der Energieforschung werden kritisiert, da sie die Innovationskraft und zukünftige Wertschöpfung gefährden.
+  - Die Einführung von "Zukunftschecks" bei Gesetzesvorhaben wird vorgeschlagen, um langfristige und generationengerechte Folgen abzuschätzen.
+  - Die Politik der Bundesregierung wird als nicht nachhaltig kritisiert, da sie Erneuerbare ausbremst und die Klimakrise nicht ausreichend adressiert.
+  - Klimaschutz wird als entscheidende Voraussetzung für Nachhaltigkeit betrachtet; Krieg wird als Gegenteil von Nachhaltigkeit gesehen.
+  - Es wird eine stärkere Zusammenarbeit und ein Umdenken in der politischen Kultur gefordert.
+  - Die Energiegesetze werden kritisiert, da sie auf fossile Energien statt auf erneuerbare setzen und die Menschen belasteten.
+- **SPD-Fraktion (vertreten durch Dunja Kreiser, Helmut Kleebank):**
+  - Die Wasserknappheit und die Folgen des Klimawandels werden als zentrale Herausforderungen hervorgehoben, die ein neues, effizienteres und vorausschauendes Wassermanagement erfordern.
+  - Das Verursacherprinzip soll angewendet werden, um die Kosten für die Abwasserreinigung auf die Verursacher umzulegen.
+  - Resilienz und Nachhaltigkeit werden als zwei Seiten derselben Medaille betrachtet, die Sicherheit für die Bevölkerung und Handlungsfähigkeit des Staates gewährleisten sollen.
+  - Die Kreislaufwirtschaft und die Sicherung von Rohstoffen werden als wichtige Beiträge zur Nachhaltigkeit und zur Stärkung der Volkswirtschaft betrachtet.
+  - Die Diversifizierung von Handelsbeziehungen und die Umsetzung von Handelsabkommen auf Augenhöhe werden als wichtig erachtet.
 - **Die Linke (vertreten durch Violetta Bock, Marcel Bauer, Dr. Fabian Fahl):**
-  - Nachhaltigkeit bedeute heute schon an morgen zu denken und Entscheidungen nicht aufzuschieben.
-  - Die Politik der Bundesregierung sei kurzsichtig und verschärfe die Ursachen von Krisen.
-  - Der Tankrabatt und die Verteuerung des Deutschlandtickets seien nicht nachhaltig.
-  - Milliarden für Militär statt für Schulen seien ebenfalls nicht nachhaltig.
-  - Die Koalition denke nur bis zur nächsten Wahl und sei gefährlich für die Zukunft.
-  - Zukunftsfragen seien Machtfragen, und wer eine gute Zukunft wolle, müsse sich gegen diejenigen wenden, die an der schlechten Gegenwart verdienen.
-  - Nachhaltig sei, was den vielen gehöre.
-  - Der Aktionsplan der Regierung reiche nicht aus, und ihre Politik sei unterlassene Hilfeleistung angesichts der Klimakrise.
-  - Die Politik von Friedrich Merz stelle sicher, dass Industriebarone weiterhin Umweltzerstörung für Profite betreiben können.
-  - Konzerne müssten gestoppt werden, um Bauern und Bäuerinnen vor Preissdruck zu schützen und ökologische Landwirtschaft zu fördern.
-  - Eine Offensive der sozialen Gerechtigkeit sei notwendig, damit sich alle gesunde Lebensmittel leisten können.
-  - Der Zwang zum Profit sei der Kern des Problems, und die Linke kämpfe für ökologischen und demokratischen Sozialismus.
-  - Der Klimaschutz müsse radikal und sozial angepackt werden.
-  - Die Klimakrise koste bereits jetzt Milliarden und mache den Zusammenbruch der Zivilisation wahrscheinlicher.
-  - Die Bundesregierung verspiele die Zukunft leichtsinnig, da Klimaschutz nicht gesamtstaatlich gedacht werde.
-  - Der Parlamentarische Beirat für nachhaltige Entwicklung sei ein "zahnloser Tiger".
-  - Die Linke kritisiert, dass die Regierung von den Problemen profitiere und die Mitte apathisch sei.
+  - Der Aktionsplan der Bundesregierung wird als unzureichend kritisiert; die Politik der Regierung liefere der Klima- und Umweltkatastrophe Vorschub.
+  - Die Politik der Bundesregierung wird als "unterlassene Hilfeleistung" und als "Verbrechen an der Zukunft" bezeichnet.
+  - Der Fokus liegt auf einer radikalen, sozialen Klimapolitik und einem Stopp von Konzernmacht, um Lebensgrundlagen zu schützen.
+  - Es wird eine Offensive für Ökolandwirte und ein Schutzschirm für normale Höfe gefordert, um Bäuerinnen und Bauern vor Preisdruck zu schützen.
+  - Nachhaltigkeit wird mit "ökologischem und demokratischem Sozialismus" verbunden.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=0s)** - **Sitzungsbeginn / Einleitung**: Präsident ruft Tagesordnungspunkt 9 auf und kündigt an, keine Zwischenfragen oder Kurzinterventionen zuzulassen, um eine lange Sitzungsdauer zu vermeiden und Mitarbeitern Ruhe zu gönnen.
-- **[01:04](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1m4s)** - **Rita Schwarzelühr-Sutter (SPD)**: Eröffnet die Debatte und betont, dass Nachhaltigkeit die Zukunftsfrage sei. Sie hebt die Bedeutung der Agenda 2030 und der deutschen Nachhaltigkeitsstrategie hervor und dankt Bundeskanzler Merz für seine Aussage zur Prägung des 21. Jahrhunderts durch Nachhaltigkeit. Sie stellt den "Aktionsplan Nachhaltigkeit" vor, der konkrete Maßnahmen wie die Förderung von Bildung für nachhaltige Entwicklung und die Mission "Reparieren schafft Zukunft" beinhaltet.
-- **[08:50](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=8m50s)** - **Rainer Groß (AfD)**: Kritisiert die Regierungspolitik als "Irrweg" und "Deindustrialisierung". Er stellt Zahlen zum Verlust an Bruttowertschöpfung und Arbeitsplätzen dar und bezeichnet den Green Deal und die Agenda 2030 als ideologisch und planwirtschaftlich. Er kritisiert Berichtspflichten, Taxonomieverordnungen und Lieferkettengesetze, die den Mittelstand erstickten. Energiepreise seien hoch, und Deutschland drohe eine Abhängigkeit von China.
-- **[15:55](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=15m55s)** - **Philipp Amthor (CDU/CSU)**: Unterstreicht, dass das Jahrhundert vom Gedanken der Nachhaltigkeit geprägt sein müsse und dies die Aufgabe der gesamten Gesellschaft sei. Er betont, dass Nachhaltigkeit ein Leitprinzip moderner Politik sei, das ökonomische, ökologische, soziale und sicherheitspolitische Dimensionen verbinde. Er spricht sich gegen einen Zielkonflikt zwischen Klimaschutz und Wirtschaftswachstum aus und betont die Notwendigkeit von Klimaanpassung.
-- **[23:58](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=23m58s)** - **Dr. Andrea Lübcke (Bündnis 90/Die Grünen)**: Kritisert die geplanten Kürzungen bei der Energieforschung und bezeichnet diese als "nicht nachhaltig" und "nicht enkeltauglich". Sie hebt die Bedeutung von Energieforschung für Innovationen und Wertschöpfung hervor und warnt vor einem Standortrisiko durch Personalabbau und fehlenden Wissenstransfer.
-- **[28:20](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=28m20s)** - **Violetta Bock (BSW/Die Linke)**: Beschreibt eine utopische Zukunft, in der Wohnraum bezahlbar ist, der Nahverkehr kostenlos und die Wälder sich erholen. Sie kritisiert die aktuelle Politik als "kurzsichtig" und "gefährlich für die Zukunft", die nicht über die Legislatur hinausdenke. Sie betont, dass Zukunftsfragen Machtfragen seien und dass nachhaltig sei, was den vielen gehöre.
-- **[34:36](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=34m36s)** - **Dr. Bärbel Kofler (SPD)**: Betont, dass Nachhaltigkeit im Interesse aller sei und die Agenda 2030 Grundlage für Stabilität und Wohlstand darstelle. Sie hebt den Dreiklang aus wirtschaftlicher Entwicklung, intakten natürlichen Lebensgrundlagen und sozialer Gerechtigkeit hervor. Sie betont die Notwendigkeit internationaler Zusammenarbeit und kritisiert die wachsende Ungleichheit weltweit.
-- **[42:06](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=42m6s)** - **Dr. Christoph Birghan (AfD)**: Bezeichnet die Debatte als "Late Stage BRD" und kritisiert den Aktionsplan der Regierung als "Realsatire". Er kritisiert die Politik als Gegenteil von nachhaltig, führt zu Deindustrialisierung, Masseneinbürgerung und Wohlstandsverlust. Er tadelt die Regierung für die Ausrichtung der Forschung auf "alte weiße Männer" und die Vernachlässigung von Leistungsträgern.
-- **[47:18](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=47m18s)** - **Elisabeth Winkelmeier-Becker (CDU/CSU)**: Begrüßt den Aktionsplan Nachhaltigkeit als Novum, da alle Ressorts einbezogen seien. Sie betont die Notwendigkeit, an Bewährtem festzuhalten und es für die Zukunft starkzumachen, und nennt Stefan Zweigs "Die Welt von Gestern" als Mahnung. Sie hebt hervor, dass Nachhaltigkeit auch wirtschaftliche Stärke und die Erhaltung der liberalen Demokratie einschließe.
-- **[54:49](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=54m49s)** - **Mayra Vriesema (Bündnis 90/Die Grünen)**: Fordert die Einführung von "Zukunftschecks" für Gesetze, um deren Auswirkungen auf künftige Generationen abzuschätzen. Sie kritisiert, dass die Bundesregierung erneuerbare Energien ausbremse und das Deutschlandticket verteuere, während sie Milliarden für einen Tankrabatt ausgebe. Sie betont, dass Nachhaltigkeit sich in der Verbesserung des Lebens der Menschen zeigen müsse.
-- **[58:08](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=58m8s)** - **Dr. Fabian Fahl (Die Linke)**: Kritisiert die Regierungspolitik als "unterlassene Hilfeleistung" angesichts der Klimakrise und des Hitzesommers, der Tausende Menschen getötet habe. Er wirft der Regierung vor, die Umweltzerstörung durch Konzerne zu ermöglichen und die Arbeiterklasse zu vernachlässigen. Er fordert eine Abkehr von fossilen Brennstoffen und eine Stärkung der ökologischen Landwirtschaft.
-- **[01:02:44](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h2m44s)** - **Dunja Kreiser (SPD)**: Beschreibt die zunehmende Wasserknappheit in Deutschland als Folge des Klimawandels und fordert einen neuen Umgang mit Wasser: effizienter, vorausschauender und gerechter. Sie betont die Notwendigkeit von Investitionen in Wasservorsorge und -qualität, die Anwendung des Verursacherprinzips für Schadstoffe und die Einbeziehung von Großverbrauchern wie Rechenzentren.
-- **[01:08:54](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h8m54s)** - **Dr. Rainer Kraft (AfD)**: Kritisiert den Aktionsplan der Bundesregierung als administrative Selbstbeschäftigung und als Förderung der Planwirtschaft. Er beanstandet die Priorisierung der "klimaneutralen Transformation" über andere Umweltschutzaspekte und die Ignoranz gegenüber Problemen des Wirtschaftsstandortes wie Energiekosten. Er wirft der Regierung vor, das Wirtschaftswachstum zu sabotieren und auf eine "Klima-Voodoo"-Politik zu setzen.
-- **[01:14:13](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h14m13s)** - **Dr. Wolfgang Stefinger (CDU/CSU)**: Nutzt Beispiele aus der Sicherheitspolitik (Dieselaggregat, Elektro-Militärmotorrad), um die ökologische, ökonomische und soziale Dimension von Nachhaltigkeit zu verdeutlichen. Er betont, dass Nachhaltigkeit Generationengerechtigkeit bedeute und wirtschaftliche Stärke für künftige Generationen ebenso wichtig sei wie eine intakte Umwelt.
-- **[01:42:53](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h42m53s)** - **Dr. Julia Verlinden (Bündnis 90/Die Grünen)**: Kritisiert das Gebäudemodernisierungsgesetz und die Energiegesetze der Regierung als Fehler, die fossile Abhängigkeiten zementieren und den Ausbau erneuerbarer Energien bremsen. Sie betont, dass erneuerbare Energien die günstigsten seien und dass Fossile teuer, naturzerstörend und unsozial seien. Sie ruft zu einer Demonstration für mehr Tempo bei der Energiewende auf.
-- **[01:46:21](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h46m21s)** - **Felix Schreiner (CDU/CSU)**: Betont, dass Nachhaltigkeit kein parteipolitisches Thema sei, sondern Verantwortung für morgen übernehme. Er hebt die Notwendigkeit von wirtschaftlicher Stärke für Wohlstand, sozialen Zusammenhalt und Klimaschutz hervor. Er fordert zielorientiertes Arbeiten und betont, dass Nachhaltigkeit sich lohnen müsse, um ein Exportschlager "made in Germany" zu werden.
-- **[01:50:31](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h50m31s)** - **Karsten Hilse (AfD)**: Kritisert die aktuelle Politik als "nachhaltige Zerstörung" von Wirtschaft, Natur und Gesellschaft. Er stellt Zahlen zur Stromproduktion aus erneuerbaren Energien dar, um deren geringe Effizienz zu belegen, und kritisiert die Abhängigkeit von Importen. Er nennt die Behauptung der menschengemachten CO2-Emissionen als Betrug und fordert eine Rückkehr zu einer vernünftigen Stromversorgung mit Kernkraft.
-- **[01:54:54](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h54m54s)** - **Johannes Wagner (Bündnis 90/Die Grünen)**: Kritisiert die Regierung für die Fortführung des Tankrabatts, der vor allem große Autos bevorzuge, während das Deutschlandticket verteuert werde. Er bemängelt, dass die Regierung bei den Schwächsten kürze und die Lebensgrundlagen ignoriere. Er fordert eine Politik, die sozial gerecht, ökonomisch vernünftig und ökologisch nachhaltig sei.
-- **[01:58:24](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h58m24s)** - **Sascha van Beek (CDU/CSU)**: Setzt einen Schwerpunkt auf Gesundheit als Dimension von Nachhaltigkeit. Er betont die Wichtigkeit von "mehr gesunden Lebensjahren" und "Health in all Policies" und lobt die Bundesregierung für die Konkretisierung dieser Ziele im Aktionsplan. Er fordert, Nachhaltigkeit an konkreten Ergebnissen für die Menschen zu messen.
-- **[02:03:19](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h3m19s)** - **Matthias Rentzsch (AfD)**: Bezeichnet die Debatte als "Trauerspiel" und die Regierung als "Drama ohne klare Ziele". Er kritisiert die Entwicklungspolitik der Bundesregierung, die hohe Summen für andere Länder ausgebe, während Deutschland stagniere. Er kündigt an, dass unter einer AfD-geführten Regierung die Agenda 2030 nicht fortgeführt und die Klimapolitik bedeutungslos werde.
-- **[02:06:44](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h6m44s)** - **Ralph Brinkhaus (CDU/CSU)**: Greift das Thema "mehr gesunde Lebensjahre" auf und betont, dass dies ein zentrales politisches Versprechen sei, das im Aktionsplan verankert ist. Er kritisiert die mangelnde Zielorientierung in der Politik und fordert, die Festlegung der Nachhaltigkeitsstrategie dem Bundestag zu übertragen, um eine systematische Auseinandersetzung mit dem Thema zu ermöglichen.
-- **[02:12:12](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h12m12s)** - **Klaus Mack (CDU/CSU)**: Vergleicht Nachhaltigkeit mit der Forstwirtschaft im Schwarzwald, die auf Schutz und verantwortungsvolle Nutzung setze. Er betont, dass Ökologie, Ökonomie und Soziales zusammengehören und dass Nachhaltigkeit nicht auf Verzicht und Verbote reduziert werden dürfe. Er warnt vor dem kleinreden oder leugnen des Klimawandels und kritisiert gute Absichten allein als unzureichend.
-- **[02:17:24](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h17m24s)** - **Schluss des Präsidenten**: Präsident schließt die Aussprache zum Tagesordnungspunkt 9 und ruft die Tagesordnungspunkte 10a und 10b auf.
+- **[00:00:00](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Präsident ruft den Tagesordnungspunkt 9 zur Debatte über Nachhaltigkeit und Zukunftsfragen auf. Er kündigt an, dass weder Zwischenfragen noch Kurzinterventionen zugelassen werden, um die Sitzung zeitlich zu straffen. Er dankt den Mitarbeitern für ihre Arbeit.
+- **[01:04](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1m4s)** - **Rita Schwarzelühr-Sutter (Parlamentarische Staatssekretärin beim Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit)**: Eröffnet die Debatte und betont die Wichtigkeit von Nachhaltigkeit als Zukunftsfrage. Sie hebt die Agenda 2030 und die deutsche Nachhaltigkeitsstrategie hervor und dankt Bundeskanzler Merz für seine Äußerungen zur Nachhaltigkeit. Sie betont, dass Zukunftsfähigkeit Lebensqualität bedeutet und Fortschritt so gestaltet werden muss, dass er auch morgen noch trägt. Konkrete Maßnahmen wie die Kreislaufwirtschaft, der Schutz von Wasserressourcen und Klimaschutz werden genannt. Sie stellt den "Aktionsplan Nachhaltigkeit" vor, der 20 Missionen enthält, und hebt die Missionen zur Förderung von Bildung für nachhaltige Entwicklung und zur Förderung von Reparaturen hervor. Sie erläutert die potenziellen Einsparungen durch langlebigere Produkte und die Notwendigkeit, Ersatzteile und Reparaturmöglichkeiten zu stärken.
+- **[08:50](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=8m50s)** - **Rainer Groß (AfD-Fraktion)**: Kritisert die Politik der Bundesregierung als "Irrweg" und Ursache für Deindustrialisierung. Er legt Zahlen zur Minderwertschöpfung und zum Verlust von Arbeitsplätzen vor und bezeichnet den Green Deal und die Agenda 2030 als planwirtschaftlichen Größenwahn. Er bemängelt bürokratische Belastungen für den Mittelstand und die Abhängigkeit von China. Die Energiewende wird als unbezahlbar und die Abschaltung von Kernkraftwerken als Fehler bezeichnet. Er fordert die Beendigung des Green Deal und die Korrektur von Klimaschutzzielen.
+- **[15:55](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=15m55s)** - **Philipp Amthor (Staatsminister beim Bundeskanzler)**: Unterstreicht die Bedeutung von Nachhaltigkeit als Leitprinzip für die Bundesregierung und betont die Notwendigkeit, die Grundlagen für ein lebenswertes Deutschland im 21. Jahrhundert zu legen. Er hebt den generationengerechten Ansatz und die Verbindung von ökonomischen, ökologischen und sozialen Dimensionen hervor. Er betont, dass es keinen Zielkonflikt zwischen Klimaschutz und Wirtschaftswachstum gibt, sondern diese sich gegenseitig bedingen. Er erwähnt die Notwendigkeit der Klimaanpassung und den weiterentwickelten Aktionsplan "Nachhaltigkeit".
+- **[23:58](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=23m58s)** - **Dr. Andrea Lübcke (Bündnis 90/Die Grünen)**: Kritisert die Kürzungen in der Energieforschung und betont die Bedeutung von "Enkeltauglichkeit" als Maßstab für Nachhaltigkeit. Sie hebt die Erfolge der Energieforschung in Deutschland hervor und warnt vor den dramatischen Auswirkungen der geplanten Kürzungen für den Standort Deutschland.
+- **[28:20](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=28m20s)** - **Violetta Bock (fraktionslos, ehemals Die Linke)**: Beschreibt eine positive Zukunftsvision mit bezahlbarem Wohnraum, kostenfreiem Nahverkehr und einer erholten Natur. Sie kritisiert die aktuelle Politik der Regierung als kurzsichtig und als "Floskel". Sie betont, dass Zukunftsfragen Machtfragen sind und dass man sich mit denen anlegen muss, die an der schlechten Gegenwart verdienen.
+- **[34:36](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=34m36s)** - **Dr. Bärbel Kofler (Parlamentarische Staatssekretärin bei der Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung)**: Betont, dass Nachhaltigkeit im Interesse aller liegt und die Agenda 2030 Grundlage für Stabilität und Wohlstand ist. Sie hebt den Dreiklang aus wirtschaftlicher Entwicklung, intakten natürlichen Lebensgrundlagen und sozialer Gerechtigkeit hervor. Sie betont die globale Dimension der Nachhaltigkeit und die Notwendigkeit internationaler Zusammenarbeit. Sie stellt die wachsende Ungleichheit weltweit fest und fordert gerechte Finanzierung und starke Vereinte Nationen.
+- **[42:06](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=42m6s)** - **Dr. Christoph Birghan (AfD-Fraktion)**: Bezeichnet die Debatte als "Late Stage BRD" und kritisiert den Aktionsplan der Bundesregierung als ideologisch und lebensfern. Er bemängelt die Diskrepanz zwischen den Zielen der Regierung und der Realität (marode Infrastruktur, Wohlstandsverlust). Er zitiert Carl von Carlowitz zur ursprünglichen Bedeutung von Nachhaltigkeit und kritisiert die heutige Auslegung als "ideologische Verirrung". Er moniert die überbordende Bürokratie und die Belastung deutscher Unternehmen für globale Verfehlungen.
+- **[47:18](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=47m18s)** - **Elisabeth Winkelmeier-Becker (CDU/CSU-Fraktion)**: Begrüßt den Aktionsplan als Ergänzung zur Nachhaltigkeitsstrategie und lobt die ressortübergreifende Einbeziehung. Sie betont die Notwendigkeit eines Zielbildes für eine gute Zukunft, das "enkeltauglich" ist und die Freiheit zukünftiger Generationen erhält. Sie hebt die Erhaltung der natürlichen Lebensgrundlagen und die Stärkung der liberalen Demokratie hervor. Sie betont die Bedeutung von Investitionen in Infrastruktur und Digitalisierung sowie die Notwendigkeit eines Monitoring-Prozesses für das Sondervermögen.
+- **[54:49](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=54m49s)** - **Mayra Vriesema (Bündnis 90/Die Grünen)**: Betrachtet Nachhaltigkeit als Frage der politischen Machart und betont die Bedeutung von Folgenabschätzungen für Gesetzesvorhaben. Sie schlägt die Einführung von "Zukunftschecks" vor, um die langfristigen Kosten und Chancen von Entscheidungen zu bewerten. Sie kritisiert die Bundesregierung dafür, Erneuerbare Energien auszubremsen und die Klimakrise nicht ausreichend zu adressieren. Sie verurteilt die Pläne zur Erhöhung des Deutschlandtickets und die dafür veranschlagten Mittel.
+- **[58:08](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=58m8s)** - **Dr. Fabian Fahl (Die Linke)**: Bemängelt, dass die Politik der Regierung die Klima- und Umweltkatastrophe befördere. Er kritisiert Bundeskanzler Merz' Aussage zur Priorisierung der Industrie gegenüber dem Klimaschutz. Er fordert, Konzerne zu stoppen und Bäuerinnen und Bauern zu schützen. Er spricht sich für eine offensive für Ökolandwirte und eine Offensive der sozialen Gerechtigkeit aus. Er sieht den Kern des Problems im Zwang zum Profit und kämpft für "ökologischen und demokratischen Sozialismus".
+- **[01:02:44](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h2m44s)** - **Dunja Kreiser (SPD-Fraktion)**: Schildert die zunehmende Trockenheit und die Wasserknappheit in Deutschland als Folge des Klimawandels. Sie betont die Notwendigkeit eines effizienteren, vorausschauenderen und gerechteren Umgangs mit Wasser. Sie fordert Investitionen in Wasservorsorge und -qualität, die Einführung einer vierten Reinigungsstufe in Kläranlagen und die Anwendung des Verursacherprinzips. Sie betont die Notwendigkeit von Speichern und einem "Pakt für die Wasservorsorge".
+- **[01:08:54](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h8m54s)** - **Dr. Rainer Kraft (AfD-Fraktion)**: Kritisiert die Digitalisierungspläne der Regierung als nicht neu und das Management von Identitäten als mangelhaft. Er bemängelt, dass Wirtschaftswachstum nicht zu den Zielen des Sondervermögens gehört und die Regierung das Land für "Klima-Voodoo" verschulde. Er kritisiert die Umstellung der Energieversorgung der Bundeswehr auf erneuerbare Energien als absurd und als Sabotage der Einsatzbereitschaft. Er kritisiert die Unternehmen mit Nachhaltigkeitsberichterstattung zu quälen und die Verantwortung für globale Verfehlungen auf sie abzuwälzen.
+- **[01:14:13](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h14m13s)** - **Volker Mayer-Lay (CDU/CSU-Fraktion)**: Nutzt Beispiele aus dem militärischen Bereich, um zu zeigen, dass Energieverbrauch, Ressourcenschonung und Sicherheit miteinander verbunden sind. Er betont, dass Nachhaltigkeit über Klima- und Umweltschutz hinausgeht und auch wirtschaftliche Stärke und Wohlstand für zukünftige Generationen einschließt. Er lobt den Aktionsplan der Bundesregierung für seine ressortübergreifenden und praxisnahen Missionen.
+- **[01:19:36](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h19m36s)** - **Niklas Wagener (Bündnis 90/Die Grünen)**: Knüpft an die ursprüngliche Bedeutung von Nachhaltigkeit in der Forstwirtschaft an und betont, dass die Klimakrise die Arbeit von Generationen zunichtemacht. Er kritisiert die politische Kultur im Parlament und fordert Demut, Zuhören und die richtige Haltung für eine nachhaltige Zukunft. Er zieht eine Parallele zwischen der Brandbekämpfung und der Notwendigkeit, "Feuerwehrleute zu stärken und nicht die Brandstifter".
+- **[01:23:00](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h23m0s)** - **Dr. Fabian Fahl (Die Linke)**: Wiederholt die Kritik an der Politik der Bundesregierung, die nicht ausreichend auf den Klimawandel reagiere. Er wirft der CDU und SPD vor, Natur und Sozialsysteme zu zerstören und dem Geld der Lobbyisten den Vorzug zu geben. Er bezeichnet die aktuelle Politik als "Verbrechen an der Zukunft" und betont, dass nur eine ambitionierte Klimapolitik eine gute Wirtschaftspolitik und ein Antidot gegen Rechts sei.
+- **[01:29:02](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h29m2s)** - **Helmut Kleebank (SPD-Fraktion)**: Greift den Begriff der Resilienz auf und setzt ihn mit Nachhaltigkeit gleich. Er betont die Notwendigkeit von Stabilität, Handlungsfähigkeit des Staates und Sicherung von Daseinsvorsorge. Er diskutiert die Anfälligkeit von Lieferketten und die Notwendigkeit der Diversifizierung von Handelsbeziehungen. Er hebt die Bedeutung der Kreislaufwirtschaft für die Sicherung von Wertstoffen und Rohstoffen hervor.
+- **[01:33:09](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h33m9s)** - **Dr. Paul Schmidt (AfD-Fraktion)**: Kritisiert die Subventionsabhängigkeit der Energieversorger und die hohen Strompreise in Deutschland. Er fordert die Rückkehr zur Kernkraft als zuverlässige und wirtschaftliche Energiequelle. Er bemängelt die Komplexität von Förderprogrammen und den damit verbundenen bürokratischen Aufwand. Er sieht den Staat als "Subventionsmonster" und warnt vor steigenden Schuldenlasten.
+- **[01:38:26](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h38m26s)** - **Dr. Wolfgang Stefinger (CDU/CSU-Fraktion)**: Zieht Parallelen zwischen der heutigen Zeit und Stefan Zweigs "Welt von Gestern", um die Notwendigkeit von Reformen trotz Wohlstand und Sicherheit zu betonen. Er betont, dass Nachhaltigkeit nicht nur Ökologie, sondern auch wirtschaftliche Stärke und Wohlstand für zukünftige Generationen umfasst. Er kritisiert die Fokussierung auf Nebensächlichkeiten und die Ablehnung von Reformen, die einen selbst betreffen. Er plädiert für internationale Zusammenarbeit statt Abschottung.
+- **[01:42:53](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h42m53s)** - **Dr. Julia Verlinden (Bündnis 90/Die Grünen)**: Kritisert das Gebäudemodernisierungsgesetz und die Energiegesetze als Fehler, die fossile Abhängigkeiten zementieren. Sie kritisiert die Bundesregierung für die Bremse des Ausbaus erneuerbarer Energien und die Verteuerung des Deutschlandtickets. Sie betont, dass Kohle, Öl und Erdgas teuer, naturzerstörend und unsozial sind und dass nur erneuerbare Energien Frieden, Sicherheit und günstige Energiepreise garantieren.
+- **[01:46:21](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h46m21s)** - **Felix Schreiner (CDU/CSU-Fraktion)**: Betont, dass Nachhaltigkeit kein parteipolitisches Thema ist, sondern Verantwortung für morgen übernimmt. Er hebt die Notwendigkeit wirtschaftlicher Stärke für Wohlstand, sozialen Zusammenhalt und Klimaschutz hervor. Er spricht sich für die Modernisierung des Staates und die Verbesserung der Infrastruktur aus. Er fordert, dass Nachhaltigkeit nicht als Verbot, sondern als Versprechen für eine intakte Zukunft verstanden wird.
+- **[01:50:31](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h50m31s)** - **Karsten Hilse (AfD-Fraktion)**: Kritisiert die Energiepolitik der Bundesregierung als nicht vernünftig und nicht mit Nachhaltigkeitszielen vereinbar. Er liefert Zahlen zur geringen Leistung von Windkraft- und Solaranlagen und zur Abhängigkeit von Importen. Er bezeichnet die Politik als "nachhaltige Zerstörung" und die Behauptung des menschengemachten Klimawandels als Betrug. Er kündigt eine Rückkehr zu einer vernünftigen Stromversorgung unter einer AfD-geführten Regierung an.
+- **[01:54:54](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h54m54s)** - **Johannes Wagner (Bündnis 90/Die Grünen)**: Kritisert die Koalition für die Fortführung unsinniger Maßnahmen wie den Tankrabatt, der von denjenigen profitiere, die viel Auto fahren. Er beklagt die Kürzungen bei Sozialleistungen und die mangelnde Berücksichtigung der Lebensgrundlagen in der Wirtschaftspolitik der Union. Er warnt vor den Umweltrisiken, die die größte Gefahr für die Weltwirtschaft darstellen.
+- **[01:58:24](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=1h58m24s)** - **Sascha van Beek (CDU/CSU-Fraktion)**: Setzt den Schwerpunkt auf Gesundheit als konkretes Beispiel für Nachhaltigkeit. Er hebt die Mission "Mehr gesunde Lebensjahre" im Aktionsplan hervor und betont den Ansatz "Health in all Policies". Er lobt die Bundesregierung für die Ausarbeitung konkreter Missionen und messbarer Ziele. Er betont, dass Nachhaltigkeit an den Ergebnissen für die Menschen gemessen werden muss.
+- **[02:03:19](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h3m19s)** - **Matthias Rentzsch (AfD-Fraktion)**: Stellt die heutige Debatte als "Trauerspiel" dar und kritisiert die Bundesregierung als "Drama ohne klare Ziele". Er vergleicht die Entwicklungshilfe für andere Länder mit der wirtschaftlichen Situation in Deutschland und kritisiert die Politik als "Bankrotterklärung". Er fordert eine Politik für die deutsche Mehrheitsgesellschaft und die Abkehr von der Agenda 2030.
+- **[02:06:44](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h6m44s)** - **Ralph Brinkhaus (CDU/CSU-Fraktion)**: Greift das Thema "mehr gesunde Lebensjahre" auf und betont, dass dies das schönste politische Programm sei. Er kritisiert, dass dieses Ziel in Wahlprogrammen und Debatten selten explizit genannt wird. Er fordert eine ziel- und wirkungsorientierte Politik und die Festlegung der deutschen Nachhaltigkeitsstrategie im Deutschen Bundestag. Er schlägt mehr Nachhaltigkeitstage vor, um das Thema intensiv zu behandeln.
+- **[02:12:12](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h12m12s)** - **Klaus Mack (CDU/CSU-Fraktion)**: Vergleicht Nachhaltigkeit mit der Bewirtschaftung eines Waldes im Schwarzwald, wo seit Jahrhunderten nach dem Prinzip der Weitergabe an zukünftige Generationen gewirtschaftet wird. Er betont, dass Nachhaltigkeit bedeutet, nicht auf Kosten von morgen zu leben, und dass Ökologie, Ökonomie und Soziales zusammengehören. Er unterscheidet sich von linken und rechten Konzepten, indem er auf Verantwortung, Maß und Mitte sowie Freiheit setzt. Er kritisiert die Reduzierung von Nachhaltigkeit auf Verzicht und Verbote.
+- **[02:17:24](https://www.youtube.com/watch?v=mx7CAHhNZHE&t=2h17m24s)** - **Abschluss der Aussprache zu TOP 9**: Der Präsident schließt die Aussprache und ruft die Tagesordnungspunkte 10a und 10b auf.
 
-## Abstimmungsergebnisse
-*Hinweis: Die Abstimmungsergebnisse zu den Gesetzentwürfen zu Immobilien- und Kryptobesteuerung (TOP 8a, 8d, 8f) sowie der ersten Block der namentlichen Abstimmungen (TOP 8b, 8c, 8e) wurden während der Debatte zu TOP 9 verlesen.*
-
-**Ergebnisse der namentlichen Abstimmung über Gesetzentwürfe der Fraktion Bündnis 90/Die Grünen (TOP 8b, 8c, 8e):**
-- **Gesetzentwurf zur Schließung einer Gerechtigkeitslücke bei der Besteuerung von Kryptowerten (Drucksachen 21/5752 und 21/6112):**
-    - Abgegebene Stimmkarten: 577
-    - Ja: 132
-    - Nein: 445
-    - Enthaltungen: 0
-    - **Ergebnis: Abgelehnt**
-- **Gesetzentwurf zum Schließen einer Gerechtigkeitslücke bei der Besteuerung von Immobilienveräußerungen (Drucksachen 21/6637 und 21/7081, Buchstabe a):**
-    - Abgegebene Stimmkarten: 577
-    - Ja: 131
-    - Nein: 446
-    - Enthaltungen: 0
-    - **Ergebnis: Abgelehnt**
-- **Gesetzentwurf zum Schließen einer Gerechtigkeitslücke in der Immobilienbesteuerung (Drucksachen 21/4745 und 21/5199):**
-    - Abgegebene Stimmkarten: 577
-    - Ja: 131
-    - Nein: 446
-    - Enthaltungen: 0
-    - **Ergebnis: Abgelehnt**
-
-**Ergebnisse der Abstimmungen über Beschlussempfehlungen des Finanzausschusses (verlesen zwischen TOP 9 Beiträgen):**
-- **Beschlussempfehlung zu Antrag der Fraktion Bündnis 90/Die Grünen (Drucksachen 21/7081 Buchstabe b und 21/6646):**
-    - Abgegebene Stimmkarten: 580
-    - Ja: 445
-    - Nein: 132
-    - Enthaltungen: 3
-    - **Ergebnis: Angenommen**
-- **Beschlussempfehlung zu Drucksache 21/7081 Buchstabe c und 21/6647:**
-    - Abgegebene Stimmkarten: 579
-    - Ja: 446
-    - Nein: 132
-    - Enthaltungen: 1
-    - **Ergebnis: Angenommen**
-- **Abstimmung über Drucksachen 21/7070 und 21/6656:**
-    - Abgegebene Stimmkarten: 579
-    - Ja: 446
-    - Nein: 132
-    - Enthaltungen: 1
-    - **Ergebnis: Angenommen**
-- **Abstimmung über Drucksachen 21/4892 und 21/4456:**
-    - Abgegebene Stimmkarten: 579
-    - Ja: 446
-    - Nein: 132
-    - Enthaltungen: 1
-    - **Ergebnis: Angenommen**
+---

@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "N/A",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "In der Sitzung wurde über mehrere Vorlagen zur Steuerpolitik debattiert. Es fanden sieben namentliche Abstimmungen statt, deren Ergebnisse jedoch nicht im bereitgestellten Protokoll enthalten sind.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

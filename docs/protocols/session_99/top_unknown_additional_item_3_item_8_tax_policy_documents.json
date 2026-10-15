@@ -1,0 +1,51 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Die Debatte um Steuerpolitik wurde mit mehreren namentlichen Abstimmungen fortgesetzt. Die genauen Beschlüsse und Abstimmungsergebnisse sind im Folgenden aufgeführt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung",
+    "overall_result": {
+      "ja": 350,
+      "nein": 330,
+      "enthaltung": 20,
+      "nicht_abgegeben": 5
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 150,
+        "nein": 40,
+        "enthaltung": 5,
+        "nicht_abgegeben": 1
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 100,
+        "nein": 150,
+        "enthaltung": 10,
+        "nicht_abgegeben": 2
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 90,
+        "nein": 20,
+        "enthaltung": 3,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 5,
+        "nein": 80,
+        "enthaltung": 1,
+        "nicht_abgegeben": 1
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 5,
+        "nein": 40,
+        "enthaltung": 1,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}
