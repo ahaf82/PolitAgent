@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zum 85. Jahrestag des Massakers von Babyn Jar verdeutlichte die fortwährende historische Verantwortung Deutschlands und die Notwendigkeit, die Ukraine zu unterstützen. Abgeordnete verschiedener Fraktionen betonten die Wichtigkeit des Gedenkens, während einige, wie die AfD, die Schlussfolgerungen für das heutige Handeln und die Einbeziehung lokaler Akteure kritisch hinterfragten. Externe Aussagen der Abgeordneten spiegeln diese Positionen wider, wobei die Regierungsorgane und die Koalitionsfraktionen die deutsche Verantwortung und die Unterstützung der Ukraine bekräftigen. Die AfD-Vertreter forderten hingegen Friedensverhandlungen und stellten die alleinige deutsche Verantwortung in Frage, indem sie auf die Beteiligung lokaler Kräfte verwiesen.",
+  "sources": [
+    {
+      "name": "Robin Wagener",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Robin Wagener betonte die Bedeutung des gemeinsamen Gedenkens in Kyjiw und die historische Verantwortung Deutschlands, die sich in der heutigen Unterstützung der Ukraine widerspiegelt. Er rief dazu auf, nicht wegzuschauen und der Verantwortung gerecht zu werden.",
+      "source_title": "85 Jahre Babyn Jar: Die Verantwortung aus der Vergangenheit ist unsere Verpflichtung für die Gegenwart",
+      "url": "https://www.bundestag.de/webarchiv/Ausschuesse/ausschuesse20/a12_verteidigung/958628-958628",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Karin Prien betonte die niemals verjährende deutsche Verantwortung und verurteilte den russischen Angriffskrieg als Zynismus und Missbrauch von Geschichte. Sie hob hervor, dass Europa aus den Katastrophen des 20. Jahrhunderts gelernt habe und Grenzen nicht mit Gewalt verschoben werden dürften.",
+      "source_title": "Bundesbildungsministerin zum Massaker von Babyn Jar",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Rainer Rothfuß",
+      "party": "AfD",
+      "found": true,
+      "statement": "Dr. Rainer Rothfuß hob hervor, dass das Gedenken an die Opfer von allen Fraktionen geteilt wird, jedoch die Schlussfolgerungen für das heutige Handeln auseinandergehen. Er kritisierte die Anträge der anderen Fraktionen und forderte ein sofortiges Ende aller Waffenlieferungen und Aufnahme von Verhandlungen.",
+      "source_title": "German Responsibility Demands an End to Arms Shipments!",
+      "url": "https://www.youtube.com/watch?v=482z7aXm1kY",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Johannes Schraps",
+      "party": "SPD",
+      "found": true,
+      "statement": "Johannes Schraps betonte die Beteiligung von SS, Polizei und Wehrmacht an dem deutschen Verbrechen und hob hervor, dass der \"Holocaust durch Kugeln\" in der Erinnerungskultur weniger präsent sei. Die historische Verantwortung verpflichte Deutschland zur Unterstützung der Ukraine.",
+      "source_title": "SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/innenpolitik/bundestag-erinnert-massaker-babyn-jar-ukraine",
+      "platform": "Presse"
+    },
+    {
+      "name": "Maren Kaminski",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Maren Kaminski erinnerte an das größte Einzelmassaker des Zweiten Weltkriegs und verurteilte Aussagen, die die Barbarei relativieren. Sie betonte die Verpflichtung durch das Grundgesetz und das antifaschistische Prinzip angesichts eines rechtsextremen Trends.",
+      "source_title": "85 Jahre Babyn Jar: Die Verantwortung aus der Vergangenheit ist unsere Verpflichtung für die Gegenwart",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Volkmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Johannes Volkmann wies die Relativierung deutscher Verantwortung durch Verweise auf lokale Kollaboration zurück. Er betonte, dass das Verweigern von Waffenlieferungen an die Ukraine Putins Verbrechen legalisieren und die Gedenkkultur zerstören würde, und nannte die Unterstützung der Ukraine eine moralische und historische Verpflichtung.",
+      "source_title": "Johannes Volkmann - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Mechthilde Wittmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Mechthilde Wittmann betonte, dass das Gedenken an Babyn Jar zeigt, was geschieht, wenn Antisemitismus nicht gestoppt wird und eine Gesellschaft wegschaut. Sie hob die besondere Verantwortung Deutschlands hervor und die Notwendigkeit, jüdisches Leben zu schützen und Antisemitismus zu bekämpfen.",
+      "source_title": "Mechthilde Wittmann - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}
