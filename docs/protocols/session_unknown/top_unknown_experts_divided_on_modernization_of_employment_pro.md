@@ -1,4 +1,4 @@
-# Sachverständige uneins über Modernisierung der Arbeitsförderung
+# Experten uneins zur Modernisierung der Arbeitsförderung
 
 ## Sitzungs-Metadaten
 - **Sitzung:** 0. Sitzung
@@ -8,199 +8,180 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=i1fKB-UzxJk)
 
 ## Kurzzusammenfassung
-Die öffentliche Anhörung im Ausschuss für Arbeit und Soziales zum Gesetzentwurf zur Modernisierung und Digitalisierung der Arbeitsförderung (SGB III) zeigte unterschiedliche Auffassungen unter den Sachverständigen. Diskutiert wurden unter anderem die Verbindlichkeit von Kooperationsplänen, die Rolle von Fristenregelungen bei Qualifizierungsmaßnahmen, die Auswirkungen der Digitalisierung auf die Arbeitsverwaltung sowie die Finanzierung der Arbeitslosenversicherung. Einigkeit herrschte in der Notwendigkeit digitaler Weiterentwicklung, jedoch bestanden Bedenken hinsichtlich des Umfangs und der Umsetzung.
+Die Anhörung im Ausschuss für Arbeit und Soziales befasste sich mit dem Gesetzentwurf zur Modernisierung und Digitalisierung der Arbeitsförderung (SGB III). Diskutiert wurden insbesondere die Ausgestaltung des Kooperationsplans, die Digitalisierung der Arbeitsverwaltung, die Folgen von befristeten Beschäftigungsverhältnissen sowie die Finanzierung und die Rolle der Arbeitslosenversicherung. Es zeigten sich deutliche Unterschiede in den Einschätzungen der Sachverständigen bezüglich der Effektivität und Zweckmäßigkeit der vorgeschlagenen Maßnahmen.
 
 ## Kernaussagen und Positionen der Fraktionen
-*Die Fraktionen haben im Rahmen der Anhörung durch ihre Fragen und die Benennung der Sachverständigen indirekt ihre Positionen deutlich gemacht. Die Zusammenfassung konzentriert sich auf die Aussagen der Sachverständigen, die von den Fraktionen eingeladen oder befragt wurden.*
+*Diese Zusammenfassung basiert auf dem Transkript der Sachverständigenanhörung und gibt die darin geäußerten Positionen wieder. Die spezifischen Positionen der im Bundestag vertretenen Fraktionen sind nicht explizit aus dem Transkript ableitbar, da es sich um eine Sachverständigenanhörung handelt.*
 
-- **CDU/CSU (vertreten durch Peter Aumer und Dr. Reichel)**:
-  - Kritisierte die Trennung von unverbindlichem Kooperationsplan und verbindlichem Verwaltungsakt als unnötige Verfahrensschritte, die den Prozess verlängern und die Eigenverantwortung schwächen.
-  - Sah die Beibehaltung der Einigungsverträge als sinnvoll an, da sie gemeinsame Zielsetzung und Verbindlichkeit verbinden.
-  - Bezweifelte die Sinnhaftigkeit der Streichung der Fristen für Transfer-Kurzarbeitergeld und betonte die Notwendigkeit eines zügigen Beginns von Qualifizierungsmaßnahmen.
-  - Forderte eine gesetzliche Konkretisierung der digitalen Erreichbarkeit, um sicherzustellen, dass Nachrichten gelesen werden und Termine wahrgenommen werden können.
-  - Plädierte für die Streichung der neuen Experimentierklausel und die Ergänzung von Paragraph 135 SGB3, da der Verwaltungsrat zwingend eingebunden werden müsse.
-  - Unterstützte die erweiterte Nutzung der Identifikationsnummer zur Hebung von Einsparpotenzialen.
-  - Sah die elektronische Abwicklung des Kurzarbeitergeldes als noch nicht vollständig enddigitalisiert und rechtssicher an.
-  - Hielt die Verlängerung der Befreiungsmöglichkeit für Arbeitgeber von der elektronischen Datenübermittlung für notwendig, da die elektronische Betriebsprüfung noch nicht stabil funktioniere.
-  - Bezweifelte die Sinnhaftigkeit einer Sondernorm für Digitalisierung im SGB III und forderte die Beibehaltung der Kompetenzen des Verwaltungsrats.
+*   **Bundesagentur für Arbeit (BA)** (vertreten durch Frau Anke Eitner): Befürwortet die Digitalisierung und erweiterte Nutzung der Identifikationsnummer zur Effizienzsteigerung. Sieht den Zeitpunkt für die verpflichtende elektronische Abwicklung des Kurzarbeitergeldes als machbar an, mahnt jedoch an, dass weitere Digitalisierungsschritte (z.B. Bescheide, Abschlussprüfungen) notwendig sind. Die BA ist offen für Gesetzesanpassungen im Bereich der Arbeitnehmerüberlassung und im Arbeitssicherstellungsgesetz.
 
-- **AfD (vertreten durch Frau Hui)**:
-  - Fragte nach Nachweisen für die Erfolgsquote externer Bildungsträger bei Qualifizierungsmaßnahmen.
-  - Hinterfragte die Rolle von Ausbildungsständen, die vom Arbeitsmarkt verlangt werden.
-  - Erkundigte sich nach dem Umfang der Überprüfung von einzelnen Mitarbeitern von Bildungsträgern.
-  - Bemängelte die Messung des Vermittlungserfolgs unmittelbar nach Berufseinstieg und forderte eine Messung nach 12 Monaten.
-  - Kritisierte das Anwachsen des Defizits der Bundesagentur für Arbeit und hinterfragte die Einsparpotenziale des Gesetzes.
-  - Fragte nach den Gefahren der Videotelefonie für die Arbeitsloseneigenschaft und den Bezug von ALG I Leistungen.
+*   **Bundesvereinigung der deutschen Arbeitgeberverbände (BDA)** (vertreten durch Frau Dr. Anna Rober): Kritisiert den im Gesetzentwurf vorgesehenen Kooperationsplan als unverbindlich und schwächend für die Eigenverantwortung der Arbeitssuchenden. Bevorzugt eine verbindliche Eingliederungsvereinbarung. Sieht die Ausweitung sachgrundloser Befristungen als förderlich für den Einstieg in Beschäftigung. Plädiert für die Beibehaltung der Fristenregelungen beim Transfer-Kurzarbeitergeld, da diese eine zügige Qualifizierung sicherstellen sollen. Befürwortet die Digitalisierung der Kommunikation, fordert aber eine gesetzliche Konkretisierung der Reaktionspflichten. Sie plädiert dafür, die neue Experimentierklausel zu streichen und stattdessen Paragraph 135 SGB III zu ergänzen.
 
-- **Bündnis 90/Die Grünen (vertreten durch Frau Rietenberg)**:
-  - Erkundigte sich nach notwendigen Veränderungen der Arbeitslosenversicherung für die Zukunft und Handlungsbedarfen bei veränderten Erwerbsverläufen.
-  - Fragte nach der Verbesserung der Qualifizierungsmöglichkeiten für Beschäftigte und KMUs.
-  - Hinterfragte die Bewertung der Streichung von Fristen bei der Weiterbildung.
-  - Bewertete die Regelung zur Verknüpfung des Förderzugangs zur BAE mit einer Erfolgsprognose kritisch und lehnte die Verpflichtungslogik ab.
+*   **Arbeitnehmerkammer Bremen** (vertreten durch Frau Dr. Alexandra Krause): Hält die Ansätze der Arbeitsmarktpolitik zur Unterstützung der Beschäftigten bei der Transformation für grundsätzlich geeignet, fordert aber eine Stärkung der Instrumente des Transfers. Begrüßt die Fristenregelung für Qualifizierungen im Gesetzentwurf. Sieht in den Arbeitsmarktdrehscheiben eine gute Plattform zur Verbesserung und Beschleunigung der Vermittlung und fordert, dass diese auch individuelle Übergänge gestalten.
 
-- **FDP (vertreten durch Herr Peike)**:
-  - Erkundigte sich nach der Eignung bestehender Ansätze der Arbeitsmarktpolitik zur Unterstützung von Beschäftigten in der Transformation und bewertete die Maßnahmen des Gesetzentwurfs, insbesondere die Arbeitsmarktdrehscheiben.
-  - Fragte nach den notwendigen Änderungen im Arbeitnehmerüberlassungsgesetz und Arbeitssicherstellungsgesetz angesichts internationaler Sicherheitslagen.
-  - Erkundigte sich nach der Bewertung der Einführung der Experimentierklausel durch den DGB.
+*   **Deutscher Gewerkschaftsbund (DGB)** (vertreten durch Herr Alexander Fischer): Warnt vor negativen Auswirkungen von Stellenkürzungen beim Bund auf die Funktionsweise der Arbeitsvermittlung. Erläutert die Ursachen des Defizits der BA (Nachwirkungen Corona, Aufgabenübertragung durch Bund, konjunkturelle Lage). Sieht die Ausweitung sachgrundloser Befristungen als kritisch an, da sie insbesondere junge Menschen und junge Familien belastet. Kritisiert die Abschaffung der Schriftform-Erfordernis bei der privaten Arbeitsvermittlung als Risiko für Arbeitnehmer.
 
-- **BSW (nicht im Transkript aufgetreten)**
+*   **Institut für Arbeitsmarkt- und Berufsforschung (IAB)** (vertreten durch Herr Prof. Dr. Bernt Fitzenberger): Sieht eine "Digitalisierungsdividende" als vorstellbar an, deren Ausmaß jedoch umstritten ist. Betont die Notwendigkeit der Anpassung der Arbeitslosenversicherung an massive Transformationen, Digitalisierung und demografischen Wandel. Sieht Handlungsbedarf bei der Einbeziehung verschiedener Erwerbsformen, der Förderung von Teilzeitbeschäftigung, der Unterstützung von Selbstständigen und der Stärkung der beruflichen Weiterbildung, insbesondere für Menschen mit geringerem Bildungsgrad.
 
-- **Die Linke (vertreten durch Frau Köckdörk)**:
-  - Fragte nach der Beurteilung der Digitalisierung im SGB III und der konkreten Regelungen im Gesetzentwurf durch den Kooperationsverbund Jugendsozialarbeit.
-  - Erkundigte sich nach den Auswirkungen der geforderten konkreten Abschlussprognose für die außerbetriebliche Berufsausbildung.
-  - Fragte nach der Bewertung der Regelung zur Verknüpfung des Förderzugangs zur BAE mit einer Erfolgsprognose aus Sicht der Jugendsozialarbeit.
-
-- **Fraktionslos / Sachverständige (ohne direkte Fraktionszugehörigkeit im Beitrag)**:
-  - **Bundesagentur für Arbeit (Frau Anke Eitner)**:
-    - Kritisierte eine generelle Festlegung von Vermittlungsquoten, da diese vom lokalen Arbeitsmarkt und Potenzial der Kunden abhängt.
-    - Betonte, dass für eine Förderung der Bedarf der Kunden und die Erforderlichkeit von Qualifikationen für den Arbeitsmarkt entscheidend sind.
-    - Erklärte, dass die Anerkennung von Maßnahmen durch externe Zertifizierung über die AZAV erfolgt.
-    - Bestätigte, dass die Digitalisierung der Kommunikation sinnvoll ist, aber die Pflicht zur unverzüglichen Reaktion bestehen bleiben muss.
-    - Gab an, dass eine konkrete Zahl zur Digitalisierungsdividende schwer zu benennen ist.
-    - Stimmte der Verbesserung der Arbeitsvermittlung zu und sah Anpassungen im Arbeitnehmerüberlassungsgesetz und Arbeitssicherstellungsgesetz als wünschenswert an.
-    - Hielt die erweiterte Nutzung der Identifikationsnummer für geboten, um Einsparpotenziale zu heben.
-    - Sah das Datum für die elektronische Abwicklung des Kurzarbeitergeldes nicht kritisch.
-    - Sah den Verzicht auf die Fristenregelung als kritisch im Hinblick auf das Kostenrisiko.
-    - Begrüßte die Prüfung von weiteren Einsparmaßnahmen durch Digitalisierung und Automatisierung.
-    - Betonte, dass keine Leistung ohne Anwesenheit besteht und die Beantragung persönlich oder über die BundID erfolgen muss.
-    - Hielt die Fristenregelung für Transfer-Kurzarbeitergeld für sinnvoll.
-
-  - **Bundesvereinigung der Deutschen Arbeitgeberverbände (Frau Dr. Anna Rober)**:
-    - Hielt den Kooperationsplan für überflüssig, da er weder Rechte noch Pflichten begründe und die Eigenverantwortung schwäche.
-    - Plädierte für die Beibehaltung der bisherigen Einigungsverträge, da diese Zielsetzung und Verbindlichkeit vereinen.
-    - Sah in der Ausweitung sachgrundloser Befristungen eine Erleichterung für den Einstieg in Beschäftigung.
-    - Hielt die Fristenregelung für Transfer-Kurzarbeitergeld für sinnvoll und betonte die Notwendigkeit zügiger Qualifizierung.
-    - Empfahl eine gesetzliche Konkretisierung der digitalen Erreichbarkeit nach dem Vorbild von § 7b Abs. 1 SGB II.
-    - Plädierte für die Streichung der neuen Experimentierklausel und die Ergänzung von § 135 SGB III.
-    - Kritisierte die Verknüpfung des Förderzugangs zur BAE mit einer Erfolgsprognose.
-    - Hielt die Übertragung von Aufgaben auf die Arbeitslosenversicherung, die versicherungsfremde Leistungen sind, für problematisch und forderte eine Finanzierung aus Steuermitteln.
-    - Forderte weitere grundlegende Reformen der Arbeitslosenversicherung, um die Kernaufgabe der Arbeitsmarktintegration zu stärken.
-
-  - **Arbeitnehmerkammer Bremen (Frau Dr. Alexandra Krause)**:
-    - Sah im Gesetzentwurf positive Ansätze zur Stärkung der Instrumente des Transfers und zur Fristenregelung für Qualifizierungen.
-    - Betonte die Notwendigkeit besserer Angebote für Beschäftigte, die arbeitgeberunabhängig den Beruf wechseln wollen.
-    - Hielt Arbeitsmarktdrehscheiben für gut, sollten aber eine Plattform für individuelle Übergänge und den Zugang zur Beratungs- und Förderkulisse sein.
-    - Stimmte dem Verzicht auf die Fristregelung bei § 111a SGB III zu, um längere Weiterbildungsmaßnahmen zu ermöglichen.
-
-  - **Institut für Arbeitsmarkt und Berufsforschung (Prof. Bernt Fitzenberger)**:
-    - Sah eine Digitalisierungsdividende als vorstellbar an, betonte aber die Notwendigkeit entsprechender Tools und geschulter Mitarbeiter.
-    - Konnte keine konkrete Zahl für die Digitalisierungsdividende nennen und wies auf aktuelle Rückschritte bei der Weiterentwicklung von Digitalisierungsinnovationen hin.
-    - Führte die Herausforderungen des Arbeitsmarktes auf Transformation, Digitalisierung und Demografie zurück.
-    - Sah einen zunehmenden Missmatch zwischen Arbeitssuchenden und offenen Stellen.
-    - Betonte, dass die Arbeitslosenversicherung präventiv und vorausschauend tätig sein muss und nicht nur Leistungen administrieren darf.
-    - Sah die Notwendigkeit, dass die Bundesagentur für Arbeit eine attraktive Arbeitsvermittlerin wird und digitale Tools einsetzt.
-    - Sah einen Rückgang der Selbstständigkeit und eine geringe freiwillige Arbeitslosenversicherung von Selbstständigen.
-    - Betonte die Notwendigkeit, Minijobber als Zielgruppe für die Arbeitslosenversicherung und Vermittlung einzubeziehen.
-    - Hielt die OECD-Bewertung des deutschen Weiterbildungsmarktes für kritisch, insbesondere für Menschen mit niedrigem Bildungshintergrund.
-
-  - **Deutscher Gewerkschaftsbund (Herr Alexander Fischer)**:
-    - Erklärte, dass das Defizit der BA aus Nachwirkungen der Coronakrise, Aufgabenübertragung durch den Bund und der konjunkturellen Lage resultiert.
-    - Kritisierte Stellenkürzungen und deren Auswirkungen auf die Bearbeitungsdauer von Anträgen und die Kontaktdichte in der Arbeitsvermittlung.
-    - Betonte, dass der Kern der Arbeit der BA die Arbeit von Menschen für Menschen ist.
-    - Lehnte eine Ausweitung der sachgrundlosen Befristung ab und verwies auf die Risiken für Berufseinsteiger und junge Menschen.
-    - Sah die Änderung der Schriftformerfordernis auf Textformerfordernis bei der privaten Arbeitsvermittlung kritisch und verwies auf wachsende Risiken für Beschäftigte.
-    - Hielt die finanzielle Ausstattung des Beratungsnetzwerks Fair-Mobilität für nicht ausreichend zur Qualitätssicherung.
-    - Bewertete die Einführung der Experimentierklausel positiv, forderte aber die Zustimmung des Verwaltungsrats.
-    - Sah die Verknüpfung von Förderberechtigung mit Erfolgsprognose kritisch und lehnte eine zusätzliche Hürde für geförderte Berufsausbildungen ab.
-
-  - **Kooperationsverbund Jugendsozialarbeit (Frau Susanne Novak)**:
-    - Begrüßte die Weiterentwicklung digitaler Verwaltungsangebote, forderte aber, dass diese niedrigschwellig, barrierefrei und Smartphone-nutzbar sind.
-    - Forderte, dass analoge Angebote verlässlich erhalten bleiben.
-    - Betonte die Notwendigkeit, dass digitale und analoge Angebote bedarfsgerecht zusammenspielen und die Perspektiven freier Träger berücksichtigt werden.
-    - Kritisierte die geplante Erfolgsprognose als Gefahr eines "Streaming-Effects", der gerade benachteiligte junge Menschen ausschließe.
-    - Lehnte die Verpflichtungslogik in Paragraph 37b ab und forderte die Ausklammerung bestimmter Zielgruppen.
+*   **Kooperationsverbund Jugendsozialarbeit** (vertreten durch Frau Susanne Novak): Begrüßt die Weiterentwicklung digitaler Verwaltungsangebote, fordert jedoch, dass diese niedrigschwellig, barrierefrei und smartphone-nutzbar sein müssen und analoge Angebote parallel erhalten bleiben. Sieht die geplante Verknüpfung des Förderzugangs zur BA mit einer Erfolgsprognose für die außerbetriebliche Berufsausbildung kritisch, da dies benachteiligte junge Menschen ausschließen könnte. Lehnt einseitige Verpflichtungen junger Menschen ab.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:10](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=10s)** - **Eröffnung der Anhörung**: Der Vorsitzende begrüßte die Anwesenden und stellte die zu beratenden Gesetzentwürfe vor: den Gesetzentwurf der Bundesregierung zur Modernisierung und Digitalisierung der Arbeitsförderung (SGB III) sowie Anträge der AfD und Bündnis 90/Die Grünen.
-- **[00:02:25](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=2m25s)** - **Vorstellung der Sachverständigen**: Der Vorsitzende begrüßte die anwesenden und zugeschalteten Sachverständigen von der Bundesagentur für Arbeit, den Arbeitgeberverbänden, der Arbeitnehmerkammer Bremen, dem Institut für Arbeitsmarkt und Berufsforschung, dem Deutschen Gewerkschaftsbund, und dem Kooperationsverbund Jugendsozialarbeit.
-- **[00:04:21](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=4m21s)** - **Fragerunde CDU/CSU**: Peter Aumer befragte Frau Dr. Rober (BDA) zu den Nachteilen des Kooperationsplans und zur Ausweitung sachgrundloser Befristungen.
-- **[00:05:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=5m54s)** - **Antwort Dr. Rober (BDA) zum Kooperationsplan**: Sie erklärte, dass der Kooperationsplan weder Rechte noch Pflichten begründet und die Steuerungsfunktion im Vermittlungsprozess schwäche. Sie verwies auf negative Erfahrungen mit dem Kooperationsplan im SGB II und plädierte für die Beibehaltung der Einigungsverträge.
-- **[00:07:40](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=7m40s)** - **Antwort Dr. Rober (BDA) zur sachgrundlosen Befristung**: Sie sah in der Ausweitung sachgrundloser Befristungen eine Erleichterung für den Einstieg in Beschäftigung, da der Arbeitsmarkt derzeit "festgefahren" sei.
-- **[00:08:16](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=8m16s)** - **Frage CDU/CSU zu Transfer-Kurzarbeitergeld**: Peter Aumer fragte Frau Dr. Rober zu den Folgen einer vollständigen Streichung der Fristenregelungen (§ 111a SGB III).
-- **[00:08:50](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=8m50s)** - **Antwort Dr. Rober (BDA) zu Fristenregelungen**: Sie hielt die Fristenregelung für sinnvoll, um eine zügige Qualifizierung zu gewährleisten und Kosten für die Bundesagentur für Arbeit zu vermeiden.
-- **[00:10:07](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=10m7s)** - **Frage CDU/CSU zur digitalen Erreichbarkeit**: Peter Aumer fragte Frau Dr. Rober zur Konkretisierung der digitalen Erreichbarkeit (§ 138 SGB III).
-- **[00:10:35](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=10m35s)** - **Antwort Dr. Rober (BDA) zur digitalen Erreichbarkeit**: Sie begrüßte die Digitalisierung, betonte aber die Notwendigkeit der Beibehaltung der Pflicht zur unverzüglichen Reaktion auf Meldungen und Vermittlungsvorschläge, die gesetzlich verankert sein sollte.
-- **[00:11:25](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=11m25s)** - **Frage CDU/CSU zur Experimentierklausel**: Peter Aumer fragte Frau Dr. Rober zur Sinnhaftigkeit der Experimentierklausel und zur Veränderung von Paragraph 408 SGB III.
-- **[00:11:47](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=11m47s)** - **Antwort Dr. Rober (BDA) zur Experimentierklausel**: Sie plädierte für die Streichung der neuen Experimentierklausel und die Ergänzung von Paragraph 135 SGB III. Sie kritisierte den Ausschluss des Verwaltungsrats und die Verletzung des Selbstverwaltungsprinzips durch die Regelung in Paragraph 408.
-- **[00:13:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=13m24s)** - **Fragerunde AfD**: Frau Hui fragte Frau Eitner (BA) nach Nachweisen zur Erfolgsquote von Bildungsträgern.
-- **[00:14:07](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=14m7s)** - **Antwort Eitner (BA) zu Bildungsträgern**: Sie gab an, keine Zahlen zur Erfolgsquote zu haben und sah eine generelle Festlegung von 40% kritisch, da dies vom lokalen Arbeitsmarkt und dem Potenzial der Kunden abhänge.
-- **[00:15:36](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=15m36s)** - **Nachfrage AfD zu Bildungsträgern**: Frau Hui fragte Frau Eitner nach den Kriterien der Trägerzertifizierung.
-- **[00:16:00](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=16m0s)** - **Antwort Eitner (BA) zu Trägerzertifizierung**: Sie erklärte, dass die Anerkennung von Maßnahmen durch externe Stellen über die AZAV erfolgt.
-- **[00:16:53](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=16m53s)** - **Frage AfD an Dr. Rober zum Kooperationsplan**: Frau Hui fragte Frau Dr. Rober, ob ein ausführliches Profiling ausreicht, um den Kooperationsplan zu ersetzen.
-- **[00:17:18](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=17m18s)** - **Antwort Dr. Rober (BDA) zum Kooperationsplan**: Sie erklärte, dass der Kooperationsplan Gegenstand eines gemeinsamen Gesprächs sei und vom Einzelfall abhänge. Eine "OnefitsAll"-Lösung sei nicht möglich.
-- **[00:18:11](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=18m11s)** - **Nachfrage AfD zum Kooperationsplan**: Frau Hui präzisierte ihre Frage, ob das Kooperationsgespräch durch eine ausführliche Erstaufnahme ersetzt werden könne.
-- **[00:18:11](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=18m11s)** - **Antwort Dr. Rober (BDA) zur Potenzialanalyse**: Sie erklärte, dass eine Potenzialanalyse etwas anderes sei, prüft, was die Person kann und welche Anforderungen der Arbeitsmarkt stellt. Der Vermittlung sollte Priorität eingeräumt werden.
-- **[00:18:53](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=18m53s)** - **Frage AfD an Prof. Fitzenberger zur Digitalisierungsdividende**: Frau Hui fragte nach möglichen Einsparungen durch Digitalisierungsmaßnahmen.
-- **[00:19:11](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=19m11s)** - **Antwort Prof. Fitzenberger zur Digitalisierungsdividende**: Er hielt eine Digitalisierungsdividende für vorstellbar, betonte aber die Notwendigkeit datenschutzkonformer und sicherer Tools sowie geschulter Mitarbeiter. Die genaue Höhe sei noch umstritten.
-- **[00:20:07](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=20m7s)** - **Nachfrage AfD zur Messung des Vermittlungserfolgs**: Frau Hui fragte nach einer Messung des Vermittlungserfolgs nach 12 Monaten, um den "Drehtüreffekt" zu vermeiden.
-- **[00:20:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=20m37s)** - **Antwort Prof. Fitzenberger zur Messung**: Er konnte keine konkrete Zahl nennen und wies darauf hin, dass Quoten keine Erfolgsindikatoren im wissenschaftlichen Sinn seien.
-- **[00:21:32](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=21m32s)** - **Fragerunde SPD**: Herr Peike fragte Frau Dr. Krause (Arbeitnehmerkammer Bremen) zur Eignung bestehender Ansätze der Arbeitsmarktpolitik zur Unterstützung von Beschäftigten in der Transformation.
-- **[00:22:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=22m24s)** - **Antwort Dr. Krause (Arbeitnehmerkammer) zur Transformation**: Sie betonte die Risiken für Beschäftigte und die Notwendigkeit finanzieller Absicherung und Qualifizierung. Der Gesetzentwurf gehe in die richtige Richtung, aber Transfergesellschaften bräuchten fundiertere Profile.
-- **[00:24:20](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=24m20s)** - **Frage SPD an Frau Eitner (BA) zu Arbeitnehmerüberlassung**: Herr Peike fragte nach notwendigen Änderungen im Arbeitnehmerüberlassungsgesetz und Arbeitssicherstellungsgesetz.
-- **[00:24:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=24m54s)** - **Antwort Eitner (BA) zu Arbeitnehmerüberlassung**: Sie begrüßte Gesetzesanpassungen im Arbeitnehmerüberlassungsgesetz zur Förderung der Digitalisierung und zum Bürokratieabbau. Sie betonte die Notwendigkeit einer Anpassung des Arbeitssicherstellungsgesetzes an heutige sicherheitspolitische Anforderungen.
-- **[00:25:59](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=25m59s)** - **Frage SPD an Herrn Fischer (DGB) zu Haushaltslage der BA**: Herr Peike fragte nach den Auswirkungen von Stellenkürzungen auf die Arbeitsvermittlung und der Funktion der Arbeitsvermittlung für den Haushalt der BA.
-- **[00:26:45](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=26m45s)** - **Antwort Fischer (DGB) zur Haushaltslage der BA**: Er erläuterte die Ursachen des Defizits (Coronakrise, Aufgabenübertragung, Konjunktur) und warnte vor den negativen Folgen von Stellenkürzungen für die Bearbeitungsdauer und die Servicequalität. Er betonte, dass die Vermittlung von Arbeitslosen mehr zur Haushaltskonsolidierung beiträgt als Personalabbau.
-- **[00:29:44](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=29m44s)** - **Fragerunde Bündnis 90/Die Grünen**: Frau Rietenberg fragte Prof. Fitzenberger nach notwendigen Veränderungen der Arbeitslosenversicherung und Handlungsbedarfen bei unterschiedlichen Erwerbsformen.
-- **[00:30:58](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=30m58s)** - **Antwort Prof. Fitzenberger zur Zukunft der Arbeitslosenversicherung**: Er nannte Transformation, Digitalisierung, Demografie und den Missmatch zwischen Angebot und Nachfrage als Herausforderungen. Er betonte die Notwendigkeit präventiver und vorausschauender Tätigkeit der Arbeitslosenversicherung, auch für Selbstständige und zur Ausweitung von Teilzeit.
-- **[00:36:02](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=36m2s)** - **Nachfrage Grüne zu Weiterbildung**: Frau Rietenberg fragte Prof. Fitzenberger nach notwendigen Veränderungen, damit Qualifizierungsmöglichkeiten besser bei KMUs ankommen.
-- **[00:36:21](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=36m21s)** - **Antwort Prof. Fitzenberger zu Weiterbildung**: Er nannte niederschwelligere und flexiblere Angebote als notwendig und kritisierte die Bürokratie im Bildungsgutscheinsystem. Er verwies auf die schlechte OECD-Bewertung des deutschen Weiterbildungsmarktes.
-- **[00:37:45](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=37m45s)** - **Fragerunde Die Linke**: Frau Köckdörk fragte Frau Novak (Kooperationsverbund Jugendsozialarbeit) nach der Beurteilung der Digitalisierung im SGB III.
-- **[00:38:08](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=38m8s)** - **Antwort Novak (Kooperationsverbund) zur Digitalisierung**: Sie begrüßte die Weiterentwicklung digitaler Angebote, forderte aber, dass diese niedrigschwellig, barrierefrei und Smartphone-nutzbar sein müssen, und analoge Angebote erhalten bleiben.
-- **[00:39:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=39m24s)** - **Frage Linke an Frau Novak zur Abschlussprognose**: Frau Köckdörk fragte nach den Auswirkungen der konkreten Abschlussprognose für die außerbetriebliche Berufsausbildung.
-- **[00:39:39](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=39m39s)** - **Antwort Novak (Kooperationsverbund) zur Abschlussprognose**: Sie bewertete die Verknüpfung des Förderzugangs mit einer Erfolgsprognose kritisch, da dies die BA zu einem Instrument der Benachteiligung machen könne und gerade benachteiligte junge Menschen ausschließe.
-- **[00:43:42](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=43m42s)** - **Frage Linke an Herrn Fischer (DGB) zur privaten Arbeitsvermittlung**: Frau Köckdörk fragte nach dem Stellenwert der Schriftformerfordernis und der Verhinderung ausbeuterischer Verhältnisse.
-- **[00:44:07](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=44m7s)** - **Antwort Fischer (DGB) zur privaten Arbeitsvermittlung**: Er sah die Änderung von Schriftform auf Textform kritisch, da dies Schutzfunktionen außer Kraft setze und Risiken für Beschäftigte, insbesondere im grenzüberschreitenden Bereich, erhöhe.
-- **[00:46:04](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=46m4s)** - **Fragerunde CDU/CSU**: Dr. Reichel fragte Frau Eitner (BA) zur Nutzung der Identifikationsnummer.
-- **[00:46:49](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=46m49s)** - **Antwort Eitner (BA) zur Identifikationsnummer**: Sie hielt die erweiterte Nutzung der Identifikationsnummer für erforderlich, um Einsparpotenziale zu heben und Rechtssicherheit zu schaffen.
-- **[00:47:36](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=47m36s)** - **Frage CDU/CSU an Dr. Rober zur digitalen Abwicklung von Kurzarbeitergeld**: Dr. Reichel fragte, ob die Abwicklung des Kurzarbeitergeldes Ende-zu-Ende digital möglich sei.
-- **[00:48:08](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=48m8s)** - **Antwort Dr. Rober (BDA) zur digitalen Abwicklung von Kurzarbeitergeld**: Sie hielt die elektronische Antragstellung für richtig, betonte aber, dass Bescheide, Nachfolgungen und Abschlussprüfungen noch nicht medienbruchfrei abgewickelt werden könnten. Sie warnte vor rückwirkenden Änderungen.
-- **[00:49:27](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=49m27s)** - **Frage CDU/CSU an Dr. Rober zu § 111a SGB III**: Dr. Reichel fragte nach der Gestaltung von § 111a, damit er Sinn mache.
-- **[00:49:44](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=49m44s)** - **Antwort Dr. Rober (BDA) zu § 111a**: Sie hinterfragte den Regelungsgehalt der Norm und befürchtete einen Eingriff in die Selbstverwaltung der BA. Sie plädierte dafür, dass die Festlegung der Digitalisierungsstrategie in den Händen des Verwaltungsrats und Vorstands bleibt.
-- **[00:51:15](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=51m15s)** - **Frage CDU/CSU an Dr. Rober zu § 126 SGB III**: Dr. Reichel fragte nach der Verlängerung der Befreiungsmöglichkeit für Arbeitgeber von der elektronischen Datenübermittlung.
-- **[00:51:49](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=51m49s)** - **Antwort Dr. Rober (BDA) zu § 126**: Sie hielt die Verlängerung für erforderlich und sinnvoll, da die elektronische Betriebsprüfung noch nicht stabil funktioniere.
-- **[00:52:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=52m37s)** - **Frage CDU/CSU an Prof. Fitzenberger zu § 111a**: Dr. Reichel fragte nach dem Verzicht auf die Fristregelung.
-- **[00:52:56](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=52m56s)** - **Antwort Prof. Fitzenberger zu § 111a**: Er gab an, sich nicht präzise dazu äußern zu können.
-- **[00:53:12](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=53m12s)** - **Fragerunde AfD**: Herr Feser fragte Frau Eitner (BA) nach den Einsparpotenzialen des Gesetzes und weiteren Maßnahmen zur Konsolidierung der BA.
-- **[00:54:05](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=54m5s)** - **Antwort Eitner (BA) zu Einsparpotenzialen**: Sie nannte eine Mehrbelastung durch das Gesetz und einen einmaligen Erfüllungsaufwand, die angesichts der Finanzsituation der BA kritisch gesehen würden.
-- **[00:54:34](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=54m34s)** - **Nachfrage AfD zu weiteren Maßnahmen**: Herr Feser fragte nach weiteren Maßnahmen zur Konsolidierung der BA.
-- **[00:54:56](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=54m56s)** - **Antwort Eitner (BA) zu weiteren Maßnahmen**: Sie nannte die Prüfung von Digitalisierung und Automatisierung zur Prozessoptimierung.
-- **[00:55:28](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=55m28s)** - **Frage AfD zur Videotelefonie**: Herr Feser fragte nach der Gefahr, dass die Videotelefonie die Arbeitsloseneigenschaft und den Anspruch auf ALG I untergräbt.
-- **[00:56:35](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=56m35s)** - **Antwort Eitner (BA) zur Videotelefonie**: Sie erklärte, dass die Beantragung von ALG I persönlich oder über die BundID erfolgen müsse. Folgende Gespräche könnten per Videotelefonie geführt werden, es bestehe aber kein Anspruch darauf. Eine Identifizierung vor dem Videogespräch sei erforderlich.
-- **[00:57:17](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=57m17s)** - **Letzte Frage AfD an Dr. Rober zum Kooperationsplan**: Herr Feser fragte, ob Paragraph 37b SGB III die Unverbindlichkeiten des Kooperationsplans beheben könne.
-- **[00:58:00](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=58m0s)** - **Antwort Dr. Rober (BDA) zum Kooperationsplan**: Sie hielt die Unterscheidung zwischen Kooperationsplan und § 37b für nicht zielführend und plädierte für die Beibehaltung der ursprünglichen Einigungsvereinbarung mit verbindlichen Rechten und Pflichten.
-- **[00:58:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=58m37s)** - **Frage AfD an Dr. Rober zu versicherungsfremden Leistungen**: Herr Feser fragte nach der Forderung nach Finanzierung versicherungsfremder Leistungen aus Steuermitteln.
-- **[00:59:16](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=59m16s)** - **Antwort Dr. Rober (BDA) zu versicherungsfremden Leistungen**: Sie sprach sich dafür aus, dass versicherungsfremde Leistungen aus Steuermitteln finanziert werden und forderte einen Begründungszwang für die Übertragung von Aufgaben auf die Arbeitslosenversicherung.
-- **[01:00:30](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h0m30s)** - **Frage AfD an Prof. Fitzenberger zu Mischfinanzierung**: Herr Feser fragte nach vulnerablen Bereichen der Mischfinanzierung zwischen SGB II und SGB III.
-- **[01:00:58](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h1m0s)** - **Antwort Prof. Fitzenberger zu Mischfinanzierung**: Er nannte die Übertragung der beruflichen Weiterbildung als bedenkenswert, sah aber keine eindeutige Abgrenzung.
-- **[01:01:41](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h1m41s)** - **Fragerunde SPD**: Frau Nassach fragte Herrn Fischer (DGB) nach der Eignung der finanziellen Mittel für die Qualitätssicherung des Beratungsangebots Fair-Mobilität.
-- **[01:02:13](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h2m13s)** - **Antwort Fischer (DGB) zu Fair-Mobilität**: Er verneinte dies und erklärte, dass der Mitteldeckel für Fair-Mobilität nicht ausreicht, um die steigenden Personalkosten aufgrund der Professionalisierung zu decken. Er forderte eine Dynamisierung der Mittel.
-- **[01:04:43](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h4m43s)** - **Frage SPD an Dr. Krause (Arbeitnehmerkammer) zu § 111a SGB III**: Frau Nassach fragte nach den Hemmnissen bei der Inanspruchnahme längerer Weiterbildungsmaßnahmen und ob die Streichung der Fristen dies erleichtere.
-- **[01:05:13](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h5m13s)** - **Antwort Dr. Krause (Arbeitnehmerkammer) zu § 111a**: Sie sah die drei Monate Laufzeit von Transfergesellschaften als zu kurz an und ging davon aus, dass der Verzicht auf die Frist die Qualifizierungen erleichtern würde. Sie betonte, dass nachhaltige Vermittlung mehr Qualifizierung erfordert.
-- **[01:06:46](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h6m46s)** - **Frage SPD an Frau Eitner (BA) zur Umsetzbarkeit**: Frau Nassach fragte Frau Eitner, ob die Aufgabenübertragung bis 2028 bewältigt werden könne.
-- **[01:07:08](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h7m8s)** - **Antwort Eitner (BA) zur Umsetzbarkeit**: Sie sah das Datum für die elektronische Abwicklung des Kurzarbeitergeldes nicht kritisch und ging davon aus, dass die IT-Umsetzung bis Ende 2027 abgeschlossen sein wird.
-- **[01:07:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h7m54s)** - **Letzte Frage SPD an Herrn Fischer (DGB) zur Weiterbildung junger Menschen**: Frau Nassach fragte nach der Bewertung der Ergänzung in § 76 Abs. 1 SGB III um eine Prognose für die außerbetriebliche Berufsausbildung.
-- **[01:08:21](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h8m21s)** - **Antwort Fischer (DGB) zur Weiterbildung junger Menschen**: Er sah die Regelung kritisch, da sie eine zusätzliche Hürde darstelle und gegen Maßnahmen wie die Ausbildungsgarantie verstoße.
-- **[01:09:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h9m37s)** - **Fragerunde CDU/CSU**: Dr. Reichel fragte Prof. Fitzenberger erneut zu § 111a und der Fristenregelung bei Transfer-Kurzarbeitergeld.
-- **[01:10:23](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h10m23s)** - **Antwort Prof. Fitzenberger zu § 111a**: Er gab an, sich nicht präzise dazu äußern zu können.
-- **[01:11:39](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h11m39s)** - **Frage CDU/CSU an Frau Eitner (BA) zum Datenaustausch**: Dr. Reichel fragte zum elektronischen Datenaustausch mit berufständischen Versorgungseinrichtungen.
-- **[01:12:03](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h12m3s)** - **Antwort Eitner (BA) zum Datenaustausch**: Sie ging davon aus, dass das Verfahren planmäßig zum 1.1.2027 in Betrieb gehen wird.
-- **[01:12:32](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h12m32s)** - **Frage CDU/CSU an Dr. Rober zur Arbeitsvermittlung**: Dr. Reichel fragte Frau Dr. Rober, inwieweit das Gesetz die Arbeitsvermittlung auf ihre Kernaufgaben konzentriert.
-- **[01:13:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h13m24s)** - **Antwort Dr. Rober (BDA) zur Arbeitsvermittlung**: Sie sah das Gesetz als kleinteilig an und forderte grundlegende Reformen für die Kernaufgabe der Arbeitsmarktintegration. Sie schlug eine Vereinheitlichung der Bezugsdauer für Arbeitslosengeld und die Abschaffung der Anrechnung von Weiterbildungskosten vor.
-- **[01:16:08](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h16m8s)** - **Letzte Frage CDU/CSU an Frau Eitner (BA) zu effizienteren Prozessen**: Dr. Reichel fragte nach nicht berücksichtigten Ansätzen zur Effizienzsteigerung.
-- **[01:16:25](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h16m25s)** - **Antwort Eitner (BA) zu effizienteren Prozessen**: Sie schlug vor zu prüfen, ob durch vergleichbare Regelungen wie während der COVID-19 Pandemie Verwaltungsaufwände bei Abschlussprüfungen für Kurzarbeitergeld minimiert werden können.
-- **[01:17:22](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m22s)** - **Nachfrage CDU/CSU an Frau Eitner zu § 111a**: Dr. Reichel fragte nach der Einschätzung der BA zum Wegfall der Fristen.
-- **[01:17:28](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m28s)** - **Antwort Eitner (BA) zu § 111a**: Sie sah den Wegfall der Fristen kritisch im Hinblick auf das Kostenrisiko.
-- **[01:17:44](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m44s)** - **Freie Runde**: Beginn der freien Runde.
-- **[01:17:53](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m53s)** - **Frage AfD an Dr. Rober zu Job-to-Job-Erprobung**: Herr Feser fragte nach der Erfolgsbilanz der Job-to-Job-Erprobung.
-- **[01:18:18](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h18m18s)** - **Antwort Dr. Rober (BDA) zu Job-to-Job-Erprobung**: Sie erklärte, dass die Erprobungsphase von bis zu sechs Wochen dazu dienen soll, Job-to-Job-Wechsel ohne Eintritt der Arbeitslosigkeit zu erleichtern.
-- **[01:20:25](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h20m25s)** - **Frage SPD an Herrn Fischer (DGB) zur Experimentierklausel**: Herr Peike fragte nach der Bewertung der Einführung der Experimentierklausel.
-- **[01:21:00](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h21m0s)** - **Antwort Fischer (DGB) zur Experimentierklausel**: Er bewertete sie nicht so kritisch wie die Arbeitgeber, forderte aber die Zustimmung des Verwaltungsrats.
-- **[01:21:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h21m54s)** - **Frage Linke an Frau Novak zu Kooperationsplan und Verpflichtung**: Frau Köckdörk fragte nach der Bewertung der Regelungen zu Kooperationsplan und Verpflichtung aus Sicht der Jugendsozialarbeit.
-- **[01:22:13](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h22m13s)** - **Antwort Novak (Kooperationsverbund) zu Kooperationsplan und Verpflichtung**: Sie begrüßte die Potenzialanalyse, sah die geplante einseitige Verpflichtung junger Menschen jedoch kritisch und lehnte die Verpflichtungslogik ab.
-- **[01:24:58](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h24m58s)** - **Letzte Frage Grüne an Herrn Fischer (DGB) zur sachgrundlosen Befristung**: Frau Rietenberg fragte nach der Bewertung der Ausweitung sachgrundloser Befristungen und deren Risiken für junge Menschen.
-- **[01:25:40](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h25m40s)** - **Antwort Fischer (DGB) zur sachgrundlosen Befristung**: Er sah die geplante Ausweitung kritisch und verwies auf die negativen Folgen für Berufseinsteiger und die Lebensplanung.
-- **[01:27:40](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h27m40s)** - **Letzte Frage CDU/CSU an Dr. Rober zu § 45a**: Dr. Reichel fragte nach der Praktikabilität der Entgeltregelung beim § 45a.
-- **[01:27:53](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h27m53s)** - **Antwort Dr. Rober (BDA) zu § 45a**: Sie hielt es für geboten, dass das Entgelt vom Arbeitgeber gezahlt wird und keine Belastung der Arbeitslosenversicherung entsteht.
-- **[01:28:11](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h28m11s)** - **Abschluss der Anhörung**: Der Vorsitzende bedankte sich bei den Sachverständigen und dem Ausschusssekretariat und schloss die Sitzung.
+- **[00:00:10](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=10s)** - **Eröffnung und Begrüßung**: Der Vorsitzende eröffnet die öffentliche Anhörung des Ausschusses für Arbeit und Soziales zum SGB III Modernisierungsgesetz. Staatssekretärin Katja Mast und weitere Abgeordnete werden begrüßt. Es werden drei Gesetzentwürfe und ein Antrag aufgerufen. Die Stellungnahmen der eingeladenen Verbände liegen vor.
 
----
+- **[00:02:25](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=2m25s)** - **Vorstellung der Sachverständigen**: Die Sachverständigen von der Bundesagentur für Arbeit (Frau Eitner), den Arbeitgeberverbänden (Frau Dr. Rober), der Arbeitnehmerkammer Bremen (Frau Dr. Krause), dem Institut für Arbeitsmarkt- und Berufsforschung (Herr Prof. Fitzenberger), dem Deutschen Gewerkschaftsbund (Herr Fischer) und dem Kooperationsverbund Jugendsozialarbeit (Frau Novak) werden vorgestellt.
+
+- **[00:04:21](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=4m21s)** - **Fragen der CDU/CSU-Fraktion**: Herr Aumer fragt Frau Dr. Rober nach den Nachteilen der Trennung von Kooperationsplan und Verwaltungsakt sowie nach den Auswirkungen einer Ausweitung sachgrundloser Befristungen.
+
+- **[00:05:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=5m54s)** - **Antwort von Frau Dr. Rober (BDA) zum Kooperationsplan und Befristungen**: Frau Dr. Rober erklärt, dass der Kooperationsplan keine Rechte und Pflichten begründet und die zentrale Steuerungsfunktion im Vermittlungsprozess schwächt. Sie verweist auf negative Erfahrungen mit dem Kooperationsplan im SGB II. Zur Befristung meint sie, dass deren Ausweitung den Einstieg in Beschäftigung erleichtern kann.
+
+- **[00:08:16](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=8m16s)** - **Weitere Fragen der CDU/CSU-Fraktion**: Herr Aumer erkundigt sich nach der Funktion der Fristenregelungen beim Transfer-Kurzarbeitergeld und den Folgen ihrer Streichung. Er fragt auch nach der Konkretisierung der digitalen Erreichbarkeit und der Rolle der Experimentierklausel.
+
+- **[00:08:50](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=8m50s)** - **Antworten von Frau Dr. Rober (BDA) zu Transfer-Kurzarbeitergeld, digitaler Erreichbarkeit und Experimentierklausel**: Frau Dr. Rober verteidigt die Fristenregelungen beim Transfer-Kurzarbeitergeld zur Sicherstellung zügiger Qualifizierung. Bezüglich der digitalen Erreichbarkeit betont sie die Notwendigkeit der Beibehaltung der Pflicht zur unverzüglichen Reaktion. Sie plädiert dafür, die neue Experimentierklausel zu streichen und stattdessen Paragraph 135 SGB III zu ergänzen, um das Selbstverwaltungsprinzip zu wahren.
+
+- **[00:13:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=13m24s)** - **Fragen der AfD-Fraktion**: Frau Hui fragt Frau Eitner (BA) nach Nachweisen für die Erfolgsquote von externen Bildungsträgern.
+
+- **[00:14:07](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=14m7s)** - **Antwort von Frau Eitner (BA) zu Bildungsträgern**: Frau Eitner hat keine Zahlen zur Erfolgsquote von Bildungsträgern vorliegen. Sie erklärt, dass eine generelle Vermittlungsquote von 40% kritisch gesehen wird, da diese stark vom lokalen Arbeitsmarkt und dem Potenzial der Kunden abhängt.
+
+- **[00:15:36](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=15m36s)** - **Weitere Fragen der AfD-Fraktion**: Frau Hui erkundigt sich nach der Berücksichtigung von Ausbildungsständen und der Trägerzertifizierung.
+
+- **[00:16:00](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=16m0s)** - **Antwort von Frau Eitner (BA) zu Trägerzertifizierung**: Frau Eitner erklärt, dass die Anerkennung von Maßnahmen durch externe Stellen (AZAV) erfolgt und nicht die einzelnen Mitarbeiter, sondern die Maßnahmen und Träger selbst zertifiziert werden.
+
+- **[00:16:53](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=16m53s)** - **Weitere Fragen der AfD-Fraktion**: Frau Hui fragt Frau Dr. Rober (BDA), ob eine ausführliche Erstaufnahme von Fähigkeiten und Wünschen die Kooperationsgespräche und Pläne ersetzen kann.
+
+- **[00:18:11](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=18m11s)** - **Antwort von Frau Dr. Rober (BDA) zum Kooperationsplan**: Frau Dr. Rober unterscheidet zwischen Potenzialanalyse und Kooperationsplan. Sie betont, dass der Kooperationsplan auf dem Einzelfall beruht und verschiedene Vereinbarungen treffen kann.
+
+- **[00:18:53](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=18m53s)** - **Frage der AfD-Fraktion an Prof. Fitzenberger**: Frau Hui fragt nach einer "Digitalisierungsdividende" und möglichen Einsparungen.
+
+- **[00:19:11](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=19m11s)** - **Antwort von Prof. Fitzenberger (IAB) zur Digitalisierungsdividende**: Prof. Fitzenberger bejaht die Möglichkeit einer "Digitalisierungsdividende", betont aber, dass die konkrete Umsetzung entsprechende Tools, Datenschutz und geschultes Personal erfordert. Eine konkrete Zahl könne er nicht nennen. Er äußert sich kritisch zur Messung von Vermittlungserfolgen nach kurzer Zeit und betont die Notwendigkeit einer kausalen Analyse.
+
+- **[00:21:36](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=21m36s)** - **Fragen der SPD-Fraktion**: Herr Peike fragt Frau Dr. Krause (Arbeitnehmerkammer Bremen) nach der Eignung bestehender Ansätze der Arbeitsmarktpolitik zur Unterstützung bei der Transformation und wie die Maßnahmen des Gesetzentwurfs, insbesondere Arbeitsmarktdrehscheiben, eingeschätzt werden.
+
+- **[00:22:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=22m24s)** - **Antwort von Frau Dr. Krause (Arbeitnehmerkammer Bremen) zur Transformation und Arbeitsmarktdrehscheiben**: Frau Dr. Krause sieht die Transformation als Risiko für Beschäftigte und fordert eine Stärkung der Transferinstrumente. Sie bewertet die Fristenregelung für Qualifizierungen positiv. Sie sieht die Arbeitsmarktdrehscheiben als Plattform zur Verbesserung der Vermittlung, fordert aber eine stärkere Einbeziehung individueller Übergänge und eine enge Zusammenarbeit der regionalen Akteure.
+
+- **[00:24:20](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=24m20s)** - **Weitere Fragen der SPD-Fraktion**: Herr Peike fragt Frau Eitner (BA) nach möglichen Änderungen im Arbeitnehmerüberlassungsgesetz und Arbeitssicherstellungsgesetz angesichts der aktuellen Herausforderungen.
+
+- **[00:24:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=24m54s)** - **Antwort von Frau Eitner (BA) zu Arbeitnehmerüberlassung und Arbeitssicherstellung**: Frau Eitner begrüßt Gesetzesanpassungen im Arbeitnehmerüberlassungsgesetz zur Förderung der Digitalisierung und zum Bürokratieabbau. Sie bestätigt den Anpassungsbedarf des Arbeitssicherstellungsgesetzes an heutige sicherheitspolitische Anforderungen und die Notwendigkeit einer Überprüfung der Zumutbarkeitsregelungen.
+
+- **[00:25:59](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=25m59s)** - **Fragen der SPD-Fraktion an den DGB**: Herr Peike fragt Herrn Fischer (DGB) nach den Auswirkungen von Stellenkürzungen auf die Arbeitsvermittlung und dem Beitrag einer funktionierenden Arbeitsvermittlung zum Haushalt der BA.
+
+- **[00:26:45](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=26m45s)** - **Antwort von Herrn Fischer (DGB) zu Stellenkürzungen und Haushalt der BA**: Herr Fischer erläutert die Gründe für das Defizit der BA und warnt davor, dass Stellenkürzungen die Bearbeitungszeiten verlängern und die Dienstleistungen reduzieren. Er stellt die Einsparungen durch Personalabbau (86 Mio. € pro 1000 Stellen) den Einnahmen durch Vermittlung (2,9 Mrd. € pro 100.000 Vermittelten) gegenüber.
+
+- **[00:29:44](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=29m44s)** - **Fragen von Bündnis 90/Die Grünen**: Frau Rittenberg fragt Prof. Fitzenberger (IAB) nach notwendigen Veränderungen der Arbeitslosenversicherung in den nächsten 5-10 Jahren und Handlungsbedarfen für verschiedene Erwerbsformen.
+
+- **[00:30:58](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=30m58s)** - **Antwort von Prof. Fitzenberger (IAB) zur Zukunft der Arbeitslosenversicherung**: Prof. Fitzenberger nennt die Transformation, Digitalisierung, demografischen Wandel und den Missmatch auf dem Arbeitsmarkt als Herausforderungen. Er fordert eine stärkere Rolle der BA bei der Besetzung von Stellen, der Aktivierung von Erwerbspersonen und der Förderung von Job-to-Job-Mobilität. Er sieht Potenzial bei der Ausweitung von Teilzeitbeschäftigung und der Abfederung von Risiken der Selbstständigkeit. Er betont die Bedeutung lebenslangen Lernens und betriebsnaher Anschlussmöglichkeiten für Jugendliche.
+
+- **[00:36:02](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=36m2s)** - **Weitere Fragen von Bündnis 90/Die Grünen**: Frau Rittenberg fragt Prof. Fitzenberger nach notwendigen Veränderungen, damit Qualifizierungsmöglichkeiten stärker bei KMUs und Handwerk ankommen.
+
+- **[00:36:21](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=36m21s)** - **Antwort von Prof. Fitzenberger (IAB) zu Weiterbildung**: Prof. Fitzenberger sieht Bedarf an niederschwelligere und flexiblere Angebote. Er kritisiert bürokratische Verfahren bei Bildungsgutscheinen und AzAV und verweist auf die schlechte Bewertung des Weiterbildungsmarktes durch die OECD, insbesondere für Menschen mit geringem Bildungsgrad.
+
+- **[00:37:45](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=37m45s)** - **Fragen der Linken-Fraktion**: Frau Köckdörk fragt Frau Novak (Kooperationsverbund Jugendsozialarbeit) nach der Beurteilung der Digitalisierung im SGB III und im Gesetzentwurf.
+
+- **[00:38:12](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=38m12s)** - **Antwort von Frau Novak (Kooperationsverbund Jugendsozialarbeit) zur Digitalisierung**: Frau Novak begrüßt digitale Angebote, betont aber die Notwendigkeit von Niederschwelligkeit, Barrierefreiheit und Smartphone-Nutzbarkeit. Sie fordert den Erhalt analoger Angebote und funktionierende digitale Schnittstellen zwischen BA und Trägern.
+
+- **[00:39:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=39m24s)** - **Weitere Fragen der Linken-Fraktion**: Frau Köckdörk fragt Frau Novak zur geplanten Verknüpfung des Förderzugangs zur BA mit einer konkreten Abschlussprognose für die außerbetriebliche Berufsausbildung.
+
+- **[00:39:39](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=39m39s)** - **Antwort von Frau Novak (Kooperationsverbund Jugendsozialarbeit) zur Erfolgsprognose**: Frau Novak bewertet die Erfolgsprognose kritisch, da sie die BA vom Instrument zur individuellen Benachteiligung entfremden und benachteiligte junge Menschen ausschließen könnte. Sie betont, dass Motivation und Kompetenzen sich entwickeln können und fordert die Streichung der Regelung.
+
+- **[00:43:42](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=43m42s)** - **Weitere Fragen der Linken-Fraktion an den DGB**: Frau Köckdörk fragt Herrn Fischer (DGB) zum Stellenwert der Schriftformerfordernis bei der privaten Arbeitsvermittlung und zur Verhinderung ausbeuterischer Verhältnisse.
+
+- **[00:44:07](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=44m7s)** - **Antwort von Herrn Fischer (DGB) zur privaten Arbeitsvermittlung**: Herr Fischer sieht die Änderung von Schriftform zu Textform bei der privaten Arbeitsvermittlung kritisch, da sie Schutzfunktionen schwächt und die Risiken für Beschäftigte erhöht, insbesondere bei grenzüberschreitender Vermittlung.
+
+- **[00:46:10](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=46m10s)** - **Fragen der CDU/CSU-Fraktion**: Herr Dr. Reichel fragt Frau Eitner (BA) nach der erweiterten Nutzung der Identifikationsnummer und ob diese mit dem Gesetz ermöglicht wird.
+
+- **[00:46:49](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=46m49s)** - **Antwort von Frau Eitner (BA) zur Identifikationsnummer**: Frau Eitner hält die erweiterte Nutzung der Identifikationsnummer für erforderlich, um Einsparpotenziale zu heben und Rechtssicherheit zu schaffen.
+
+- **[00:47:36](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=47m36s)** - **Weitere Fragen der CDU/CSU-Fraktion**: Herr Dr. Reichel fragt Frau Dr. Rober (BDA) zur digitalen Abwicklung des Kurzarbeitergeldes und ob diese Ende-zu-Ende digital, rechtssicher und automatisierbar möglich sei.
+
+- **[00:48:08](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=48m8s)** - **Antwort von Frau Dr. Rober (BDA) zur digitalen Abwicklung des Kurzarbeitergeldes**: Frau Dr. Rober hält die verpflichtende elektronische Antragstellung für richtig, sieht aber noch keinen vollständigen End-to-End-Prozess. Sie fordert die Vermeidung rückwirkender Änderungen bei der Cook-Berechnung.
+
+- **[00:49:27](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=49m27s)** - **Weitere Fragen der CDU/CSU-Fraktion**: Herr Dr. Reichel fragt Frau Dr. Rober, wie Paragraph 111a gestaltet sein müsste, damit er Sinn macht.
+
+- **[00:49:44](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=49m44s)** - **Antwort von Frau Dr. Rober (BDA) zu Paragraph 111a**: Frau Dr. Rober versteht die Norm eher als Signalwirkung. Sie befürchtet einen Eingriff in die Selbstverwaltung und fordert die Einbindung des Verwaltungsrats. Sie hinterfragt die Notwendigkeit einer Sondernorm zur Digitalisierung.
+
+- **[00:51:15](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=51m15s)** - **Weitere Fragen der CDU/CSU-Fraktion**: Herr Dr. Reichel fragt Frau Dr. Rober zur Verlängerung der Befreiungsmöglichkeit für Arbeitgeber von der elektronischen Datenübermittlung zur Betriebsprüfung.
+
+- **[00:51:49](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=51m49s)** - **Antwort von Frau Dr. Rober (BDA) zur elektronischen Betriebsprüfung**: Frau Dr. Rober hält die Verlängerung der Befreiungsmöglichkeit für erforderlich, da die elektronische Betriebsprüfung noch nicht stabil und flächendeckend funktioniere.
+
+- **[00:52:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=52m37s)** - **Weitere Fragen der CDU/CSU-Fraktion**: Herr Dr. Reichel fragt Prof. Fitzenberger (IAB) zum Verzicht auf die Fristregelung bei 111a.
+
+- **[00:52:56](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=52m56s)** - **Antwort von Prof. Fitzenberger (IAB) zu Paragraph 111a**: Prof. Fitzenberger ist sich bezüglich Paragraph 111a unsicher und kann keine präzise Antwort geben.
+
+- **[00:53:10](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=53m10s)** - **Fragen der AfD-Fraktion**: Herr Feser fragt Frau Eitner (BA) nach den Einsparungen durch das Modernisierungsgesetz und weiteren Maßnahmen zur Konsolidierung der BA-Finanzen.
+
+- **[00:54:05](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=54m5s)** - **Antwort von Frau Eitner (BA) zu Einsparungen und Konsolidierung**: Frau Eitner nennt eine Mehrbelastung von bis zu 11 Mio. € pro Jahr und einen einmaligen Erfüllungsaufwand von 7,9 Mio. €. Sie sieht die Notwendigkeit von Digitalisierung und Automatisierung zur Prozessoptimierung.
+
+- **[00:55:28](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=55m28s)** - **Weitere Fragen der AfD-Fraktion**: Herr Feser fragt Frau Eitner nach der Gefahr, dass die Videotelefonie das Tatbestandsmerkmal der Verfügbarkeit hintertreibt und nach Maßnahmen der BA zur Abhilfe.
+
+- **[00:56:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=56m37s)** - **Antwort von Frau Eitner (BA) zur Videotelefonie**: Frau Eitner erklärt, dass die Beantragung von Arbeitslosengeld persönlich erfolgen muss, spätere Gespräche aber per Videotelefonie geführt werden können, wobei die Identifizierung sichergestellt wird.
+
+- **[00:57:17](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=57m17s)** - **Weitere Fragen der AfD-Fraktion an Frau Dr. Rober**: Herr Feser fragt Frau Dr. Rober, ob Paragraph 37b geeignet ist, Unverbindlichkeiten aus dem Kooperationsplan zu bannen.
+
+- **[00:58:00](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=58m0s)** - **Antwort von Frau Dr. Rober (BDA) zu Paragraph 37b**: Frau Dr. Rober hält die Unterscheidung zwischen Kooperationsplan und Paragraph 37b (wie frühere Eingliederungsvereinbarung) für nicht sinnvoll und plädiert für die Beibehaltung der ursprünglichen, verbindlichen Eingliederungsvereinbarung.
+
+- **[00:58:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=58m37s)** - **Weitere Fragen der AfD-Fraktion an Frau Dr. Rober**: Herr Feser fragt nach der Finanzierung versicherungsfremder Leistungen und deren gesetzlicher Definition.
+
+- **[00:59:14](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=59m14s)** - **Antwort von Frau Dr. Rober (BDA) zu versicherungsfremden Leistungen**: Frau Dr. Rober befürwortet die Finanzierung versicherungsfremder Leistungen aus Steuermitteln und nennt die Übertragung der Weiterbildungsförderung für Jobcenterkunden als Beispiel. Sie fordert einen Begründungszwang für die Übertragung von Aufgaben auf die Arbeitslosenversicherung.
+
+- **[01:00:30](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h0m30s)** - **Weitere Fragen der AfD-Fraktion an Prof. Fitzenberger**: Herr Feser fragt nach vulnerablen Bereichen der Mischfinanzierung zwischen SGB II und SGB III.
+
+- **[01:00:58](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h1m58s)** - **Antwort von Prof. Fitzenberger (IAB) zu Mischfinanzierung**: Prof. Fitzenberger nennt die Übertragung der beruflichen Weiterbildung als bedenkenswert, sieht aber keine 100% eindeutige Abgrenzung.
+
+- **[01:01:41](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h1m41s)** - **Fragen der SPD-Fraktion**: Frau Nassach fragt Herrn Fischer (DGB) nach der Eignung der finanziellen Mittel zur Qualitätssicherung des Beratungsangebots von "Fairer Mobilität".
+
+- **[01:02:13](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h2m13s)** - **Antwort von Herrn Fischer (DGB) zu "Fairer Mobilität"**: Herr Fischer verneint die Eignung der Mittel. Er erklärt, dass die Mittelbegrenzung (Mitteldeckel) und steigende Personalkosten zu einem Rückbau im Personal geführt haben. Er fordert eine Dynamisierung der Mittel.
+
+- **[01:04:43](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h4m43s)** - **Weitere Fragen der SPD-Fraktion an Frau Dr. Krause**: Frau Nassach fragt Frau Dr. Krause (Arbeitnehmerkammer Bremen) nach den Hemmnissen bei der Inanspruchnahme längerer Weiterbildungsmaßnahmen und ob die Streichung der Fristen diese erleichtert.
+
+- **[01:05:13](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h5m13s)** - **Antwort von Frau Dr. Krause (Arbeitnehmerkammer Bremen) zu Weiterbildungsfristen**: Frau Dr. Krause sieht die kurze Laufzeit von Transfergesellschaften als Hemmnis. Sie geht davon aus, dass der Verzicht auf die Frist die erforderlichen Qualifizierungen erleichtern würde und dass dies zu höherer Weiterbildungsteilnahme führen kann.
+
+- **[01:06:46](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h6m46s)** - **Weitere Fragen der SPD-Fraktion an Frau Eitner**: Frau Nassach fragt Frau Eitner (BA) zur Umsetzbarkeit der Aufgabenübertragung bis 2028 (bezüglich Kurzarbeit).
+
+- **[01:07:08](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h7m8s)** - **Antwort von Frau Eitner (BA) zur Umsetzbarkeit der Kurzarbeitsregelung**: Frau Eitner sieht das Datum nicht kritisch und geht davon aus, dass die IT-Umsetzung bis Ende 2027 abgeschlossen sein wird.
+
+- **[01:07:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h7m54s)** - **Weitere Fragen der SPD-Fraktion an Herrn Fischer**: Frau Nassach fragt Herrn Fischer (DGB) zur Bewertung der Ergänzung in § 76 Abs. 1 SGB III bezüglich der Erfolgsprognose bei außerbetrieblicher Berufsausbildung.
+
+- **[01:08:19](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h8m19s)** - **Antwort von Herrn Fischer (DGB) zur Erfolgsprognose bei Berufsausbildung**: Herr Fischer bewertet die Regelung kritisch, da sie eine zusätzliche Hürde darstellt und gegen das Ziel der Ausbildungsgarantie verstößt. Er sieht damit eine Verschärfung der Zugangskriterien.
+
+- **[01:09:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h9m37s)** - **Fragen der CDU/CSU-Fraktion an Prof. Fitzenberger**: Herr Dr. Reichel fragt Prof. Fitzenberger (IAB) erneut nach der Funktion der Fristregelung bei 111a und möglichen Empfehlungen.
+
+- **[01:10:23](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h10m23s)** - **Antwort von Prof. Fitzenberger (IAB) zu Paragraph 111a**: Prof. Fitzenberger ist weiterhin unsicher und kann keine präzise Antwort geben, da er Paragraph 111a in seiner Stellungnahme nicht explizit behandelt sieht.
+
+- **[01:11:39](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h11m39s)** - **Weitere Fragen der CDU/CSU-Fraktion an Frau Eitner**: Herr Dr. Reichel fragt Frau Eitner (BA) zur planmäßigen Inbetriebnahme des Datenaustauschverfahrens mit berufständischen Versorgungseinrichtungen zum 1. Januar 2027.
+
+- **[01:12:03](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h12m3s)** - **Antwort von Frau Eitner (BA) zum Datenaustauschverfahren**: Frau Eitner geht davon aus, dass das Verfahren planmäßig in Betrieb gehen wird, da die Softwareentwicklung weitgehend abgeschlossen ist und eine Testphase im Oktober vorgesehen ist.
+
+- **[01:12:41](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h12m41s)** - **Weitere Fragen der CDU/CSU-Fraktion an Frau Dr. Rober**: Herr Dr. Reichel fragt Frau Dr. Rober (BDA) nach Ansatzpunkten, wie das SGB3 Modernisierungsgesetz die Arbeitsvermittlung stärker auf ihre Kernaufgaben konzentriert.
+
+- **[01:13:24](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h13m24s)** - **Antwort von Frau Dr. Rober (BDA) zur Arbeitsvermittlung**: Frau Dr. Rober fordert grundlegende Reformen der Arbeitslosenversicherung, um die Konzentration auf Kernaufgaben wie Vermittlung, Ausbildung und Beschäftigung zu ermöglichen. Sie schlägt die Vereinheitlichung von Bezugsdauern, die Verkürzung der Rahmenfrist und die Abschaffung der Anrechnung von Weiterbildung auf den Arbeitslosengeldanspruch vor. Sie betont die Notwendigkeit, versicherungsfremde Aufgaben aus Steuermitteln zu finanzieren und kritisiert die aktuelle Instrumentenstruktur.
+
+- **[01:16:08](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h16m8s)** - **Weitere Fragen der CDU/CSU-Fraktion an Frau Eitner**: Herr Dr. Reichel fragt Frau Eitner (BA) nach weiteren Ansätzen zur Effizienzsteigerung von Prozessen.
+
+- **[01:16:25](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h16m25s)** - **Antwort von Frau Eitner (BA) zu Effizienzsteigerung**: Frau Eitner schlägt vor zu prüfen, ob durch vergleichbare Regelungen wie bei der Corona-Pandemie (nichtprüfung von geringen Arbeitsausfällen) Verwaltungsaufwände minimiert werden können. Sie sieht Potenzial in der Bereitstellung digitaler Datenquellen zur Unterstützung automatisierter Prozesse.
+
+- **[01:17:22](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m22s)** - **Letzte Frage der CDU/CSU-Fraktion an Frau Eitner zu Paragraph 111a**: Herr Dr. Reichel fragt Frau Eitner (BA) zur Beurteilung des Wegfalls der Fristenregelung in Paragraph 111a mit Blick auf das Kostenrisiko.
+
+- **[01:17:37](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m37s)** - **Antwort von Frau Eitner (BA) zu Paragraph 111a**: Frau Eitner sieht den Wegfall der Fristen kritisch mit Blick auf das Kostenrisiko.
+
+- **[01:17:46](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m46s)** - **Freie Runde**: Beginn der freien Runde.
+
+- **[01:17:56](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h17m56s)** - **Frage der AfD-Fraktion an Frau Dr. Rober**: Herr Feser fragt Frau Dr. Rober (BDA) nach dem Instrument der Job-to-Job-Erprobung und dessen Erfolgsbilanzen.
+
+- **[01:18:18](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h18m18s)** - **Antwort von Frau Dr. Rober (BDA) zur Job-to-Job-Erprobung**: Frau Dr. Rober erklärt die Funktionsweise der Erprobungsphase zur Erleichterung von Job-to-Job-Wechseln ohne Eintritt von Arbeitslosigkeit. Sie betont, dass dies im Interesse aller Beteiligten liegt.
+
+- **[01:20:25](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h20m25s)** - **Frage der SPD-Fraktion an Herrn Fischer**: Herr Peike fragt Herrn Fischer (DGB) nach der Bewertung der Einführung einer Experimentierklausel in der Arbeitslosenversicherung und der Beteiligung der Selbstverwaltung.
+
+- **[01:21:00](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h21m0s)** - **Antwort von Herrn Fischer (DGB) zur Experimentierklausel**: Herr Fischer schließt sich der Kritik bezüglich der Beteiligung der Selbstverwaltung an und fordert die Bindung der Durchführung von Erprobungen an die Zustimmung des Verwaltungsrats, um das Mitbestimmungsrecht der Versicherten und Arbeitgeber zu wahren.
+
+- **[01:21:54](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h21m54s)** - **Frage der Linken-Fraktion an Frau Novak**: Frau Köckdörk fragt Frau Novak (Kooperationsverbund Jugendsozialarbeit) nach der Beurteilung der Regelungen zum Kooperationsplan, Potenzialanalyse und Verpflichtungsermächtigung aus Sicht der Jugendsozialarbeit.
+
+- **[01:22:13](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h22m13s)** - **Antwort von Frau Novak (Kooperationsverbund Jugendsozialarbeit) zu Kooperationsplan und Verpflichtung**: Frau Novak begrüßt die Potenzialanalyse und den Kooperationsplan zur Stärkung einer partnerschaftlichen Zusammenarbeit. Sie lehnt jedoch einseitige Verpflichtungen junger Menschen ab und fordert Ausnahmen für junge Menschen mit komplexen Problemlagen.
+
+- **[01:24:58](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h24m58s)** - **Frage der Grünen-Fraktion an Herrn Fischer**: Frau Rietenberg fragt Herrn Fischer (DGB) nach der Bewertung der Ausweitung sachgrundloser Befristungen und deren Risiken für Berufseinsteiger und junge Familien.
+
+- **[01:25:40](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h25m40s)** - **Antwort von Herrn Fischer (DGB) zur sachgrundlosen Befristung**: Herr Fischer bewertet die Ausweitung kritisch, da sie den Anteil befristeter Beschäftigungsverhältnisse erhöht und Risiken für die Lebensplanung, Familienplanung und Gesundheit birgt.
+
+- **[01:27:39](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h27m39s)** - **Frage der CDU/CSU-Fraktion an Frau Dr. Rober**: Herr Dr. Reichel fragt Frau Dr. Rober (BDA) zur Praktikabilität der Arbeitsentgeltregelung beim § 45a.
+
+- **[01:27:53](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h27m53s)** - **Antwort von Frau Dr. Rober (BDA) zur Arbeitsentgeltregelung**: Frau Dr. Rober fordert, dass das Entgelt vom Arbeitgeber gezahlt wird, um eine Belastung der Arbeitslosenversicherung zu vermeiden.
+
+- **[01:28:11](https://www.youtube.com/watch?v=i1fKB-UzxJk&t=1h28m11s)** - **Schlussworte und Beendigung der Sitzung**: Der Vorsitzende bedankt sich bei den Sachverständigen und dem Ausschusssekretariat. Die Sitzung wird geschlossen.
