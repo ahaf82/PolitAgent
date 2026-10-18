@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Aussagen der identifizierten Abgeordneten zum Thema Mietrecht spiegeln die breite politische Spaltung wider. Während die SPD und Bündnis 90/Die Grünen sich für stärkere Mieterrechte, die Entfristung und Ausweitung der Mietpreisbremse sowie strengere Regulierungen bei möblierten Wohnungen und Indexmieten einsetzen, betont die CDU/CSU die Notwendigkeit des Wohnungsbaus und warnt vor übermäßiger Regulierung, die zu einem Rückzug privater Vermieter führen könnte. Die AfD lehnt die Mietpreisbremse grundsätzlich ab und plädiert für eine Deregulierung des Mietmarktes. Die FDP setzt auf Vereinfachung und lässt die Mietpreisbremse auslaufen, um Anreize für den Neubau zu schaffen.",
+  "sources": [
+    {
+      "name": "Jan-Marco Luczak",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er betont die Notwendigkeit von mehr Wohnungsbau und warnt, dass übermäßige Regulierung zu weniger Angebot führt und somit den Mietern schadet. Luczak sieht die Mietpreisbremse als zeitlich begrenztes Instrument, das verfassungsrechtliche Grenzen austeste und die soziale Steuerungswirkung fehle. Er fordert eine zielgenauere Regelung für die Zeit nach 2029, die gezielt Menschen schützt, die wirtschaftlich überfordert sind.",
+      "source_title": "Sicherheit für Mieter – Mietpreisbremse wird bis 2029 verlängert | CDU·CSU-Fraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Florian Post",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er kritisiert die Mietpreisbremse als \"politisches Feigenblatt\" und stellt die Wirksamkeit von Mietpreisbindungen generell in Frage. Post argumentiert, dass die Mietpreisbremse kein Problem löse, sondern eher Teil des Problems sei, da sie den Wohnungsbau behindere.",
+      "source_title": "Mietpreisbremse soll verlängert werden - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-943618",
+      "platform": "Presse"
+    },
+    {
+      "name": "Caren Lay",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sie kritisiert die Mietpreisbremse als \"politische Mogelpackung\" und fordert einen wirksamen Mieterschutz mit einem bundesweiten Mietendeckel. Lay argumentiert, dass nur durch starke Regulierungen Mieter vor steigenden Mieten und Verdrängung geschützt werden können.",
+      "source_title": "Mieten und Wohnen - Die Linke Fraktion im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Martin Häublein",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Er äußerte Bedenken, dass ein Teil der vorgeschlagenen Änderungen, insbesondere im Bereich möbliertes und Kurzzeitwohnen, eine Reaktion auf die Überregulierung gewöhnlicher Wohnraummietverhältnisse sei. Häublein sieht die Probleme am Wohnungsmarkt eher in der falschen Verteilung von Wohnraum als in dessen generellem Mangel.",
+      "source_title": "Sachverständige bewerten Änderungen im Mietrecht unterschiedlich - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Steineke",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

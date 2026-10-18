@@ -1,5 +1,18 @@
 [
   {
+    "id": "UlYFOex6Bco",
+    "title": "101. Sitzung vom 14.10.2026. TOP 1: Regierungserklärung zum Europäischen Rat",
+    "session": 101,
+    "date": "2026-10-14",
+    "top": "1",
+    "topic": "Regierungserklärung zum Europäischen Rat",
+    "summary_path": "protocols/session_101/1_regierungserklaerung_zum_europaeischen_rat.md",
+    "documents_path": "protocols/session_101/1_regierungserklaerung_zum_europaeischen_rat_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=UlYFOex6Bco",
+    "processed_at": "2026-10-18T08:04:56.713029"
+  },
+  {
     "id": "zHa7RoVecck",
     "title": "100th Session on 10/09/2026. Agenda Item ZP 12: Current Affairs Debate: Watershed moment in Saxon...",
     "session": 100,
@@ -7311,6 +7324,71 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=6sDEDiH0QKI",
     "processed_at": "2026-10-17T08:05:34.057940"
+  },
+  {
+    "id": "sYNWJ2ZlJ20",
+    "title": "Diverging views on the antitrust law amendment",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Divergierende Ansichten zur Novellierung des Kartellrechts",
+    "summary_path": "protocols/session_unknown/top_unknown_diverging_views_on_the_antitrust_law_amendment.md",
+    "documents_path": "protocols/session_unknown/top_unknown_diverging_views_on_the_antitrust_law_amendment_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=sYNWJ2ZlJ20",
+    "processed_at": "2026-10-18T08:01:25.679221"
+  },
+  {
+    "id": "CQ4YBTcnK7w",
+    "title": "32nd Meeting of the Committee on Sports and Volunteering",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "32. Sitzung des Ausschusses für Sport und Ehrenamt",
+    "summary_path": "protocols/session_unknown/top_unknown_32nd_meeting_of_the_committee_on_sports_and_volunt.md",
+    "documents_path": "protocols/session_unknown/top_unknown_32nd_meeting_of_the_committee_on_sports_and_volunt_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=CQ4YBTcnK7w",
+    "processed_at": "2026-10-18T08:02:01.327657"
+  },
+  {
+    "id": "STloI8bRzDk",
+    "title": "Anhörung zur Reform der Verwaltungsgerichtsordnung",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung zur Reform der Verwaltungsgerichtsordnung",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_zur_reform_der_verwaltungsgerichtsordnun.md",
+    "documents_path": "protocols/session_unknown/top_unknown_anhoerung_zur_reform_der_verwaltungsgerichtsordnun_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=STloI8bRzDk",
+    "processed_at": "2026-10-18T08:02:31.023877"
+  },
+  {
+    "id": "U0msChVZPRM",
+    "title": "Committee on Digital Affairs and State Modernization",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Ausschuss für Digitales und Modernisierung der Verwaltung",
+    "summary_path": "protocols/session_unknown/top_unknown_committee_on_digital_affairs_and_state_modernizati.md",
+    "documents_path": "protocols/session_unknown/top_unknown_committee_on_digital_affairs_and_state_modernizati_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=U0msChVZPRM",
+    "processed_at": "2026-10-18T08:03:00.119001"
+  },
+  {
+    "id": "3wYooM5tvXQ",
+    "title": "Hearing of the Committee on Legal Affairs and Consumer Protection",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Anhörung des Ausschusses für Recht und Verbraucherschutz",
+    "summary_path": "protocols/session_unknown/top_unknown_hearing_of_the_committee_on_legal_affairs_and_cons.md",
+    "documents_path": "protocols/session_unknown/top_unknown_hearing_of_the_committee_on_legal_affairs_and_cons_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_hearing_of_the_committee_on_legal_affairs_and_cons_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=3wYooM5tvXQ",
+    "processed_at": "2026-10-18T08:04:06.350552"
   },
   {
     "id": "vHNXQug-Frc",

@@ -1,21 +1,21 @@
 {
   "documents": [
     {
-      "number": "Drucksache 20/XXXXX",
-      "title": "Gesetzentwurf der Bundesregierung zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (12. GWB-Novelle)",
-      "url": "N/A",
-      "type": "Gesetzentwurf"
+      "number": "Drucksache 20/12345",
+      "title": "N/A",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Anderes"
     },
     {
       "number": "Drucksache 21/4463",
-      "title": "Antrag der Fraktion Bündnis 90/Die Grünen: Den Wettbewerb stärken – Kartellrecht modernisieren",
+      "title": "N/A",
       "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
-      "type": "Antrag"
+      "type": "Anderes"
     }
   ],
   "voting": {
     "has_namentliche_abstimmung": false,
-    "decision_text": "Die Anhörung befasste sich mit einem Gesetzentwurf der Bundesregierung und einem Antrag der Fraktion Bündnis 90/Die Grünen zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen. Es wurden unterschiedliche Ansichten zu Aspekten wie Fusionskontrolle, Transaktionswertschwelle und Vergabescreening diskutiert.",
+    "decision_text": "Die Anhörung befasste sich mit der geplanten zwölften Novelle des Gesetzes gegen Wettbewerbsbeschränkungen (GWB). Es wurden der Regierungsentwurf sowie ein Antrag der Fraktion Bündnis 90/Die Grünen diskutiert, wobei unterschiedliche Auffassungen zu Umsatzschwellen, Fusionskontrolle und der Stärkung des Bundeskartellamts deutlich wurden. Es fand keine namentliche Abstimmung statt.",
     "official_voting_url": "N/A",
     "overall_result": null,
     "faction_results": []

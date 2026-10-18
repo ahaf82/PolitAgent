@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "N/A",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Anhörung diente der Beratung des Gesetzentwurfs der Bundesregierung zur Änderung des Wohn- und Geschäftsraummietrechts sowie entsprechender Anträge der Fraktionen. Die Sachverständigen erörterten die Entwürfe aus verschiedenen Perspektiven und äußerten Zustimmung, Kritik sowie Verbesserungsvorschläge. Das genaue Ergebnis der Debatte bzw. der weitere Verfahrensstand nach der Anhörung ist in diesem Protokoll nicht ersichtlich.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
