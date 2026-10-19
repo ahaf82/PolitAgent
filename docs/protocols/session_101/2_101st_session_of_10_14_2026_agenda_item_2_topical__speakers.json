@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Debatte im Bundestag zur Klimapolitik und zum Umweltschutz offenbarte unterschiedliche Ansichten über die Dringlichkeit und die Methoden des Klimaschutzes. Während Bündnis 90/Die Grünen auf regulatorische Vorgaben und Investitionen drängen, fordert die Unionsfraktion eine Atempause und Anpassungen der Regulierung. Die AfD stellte die Existenz des menschengemachten Klimawandels in Frage und kritisierte die Energiewende. SPD und Die Linke betonten die Notwendigkeit eines Ausgleichs zwischen ökologischen und ökonomischen Interessen sowie sozialverträgliche Maßnahmen. Außerhalb des Plenums bekräftigen die Abgeordneten ihre Positionen. Carsten Schneider (SPD) hebt die Notwendigkeit eines Ausgleichs zwischen ökologischen und ökonomischen Interessen hervor und betont die Rolle der E-Auto-Förderung. Christian Moser (CSU) fokussiert auf einen Interessensausgleich zwischen Umweltschutz und landwirtschaftlichen Belangen und betont die Bedeutung von Resilienz. Karsten Hilse (AfD) äußert sich kritisch zur Klimapolitik und stellt die wissenschaftliche Basis des menschengemachten Klimawandels in Frage. Dr. Fabian Fahl (Die Linke) kritisiert die bisherige Klimapolitik als unzureichend und unsozial und fordert radikalen, sozialen Klimaschutz. Anna Aeikens (CDU/CSU) betont die Notwendigkeit einer pragmatischen Umsetzung des Klimaschutzes mit stabilen Rahmenbedingungen. Dr. Jan-Niclas Gesenhues (Bündnis 90/Die Grünen) verweist auf die Dringlichkeit des Klimaschutzes angesichts der Gletscherschmelze und fordert eine Stärkung internationaler Zusammenarbeit und Artenschutz.",
+  "sources": [
+    {
+      "name": "Carsten Schneider",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont die Notwendigkeit eines Ausgleichs zwischen ökologischen und ökonomischen Interessen für eine gute Klimaschutzpolitik und hebt die E-Auto-Förderung als wichtiges Instrument hervor.",
+      "source_title": "Rede von Carsten Schneider im Deutschen Bundestag: \"Versagen in der Klima- und Umweltpolitik verhindern\"",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Fokus auf Interessenausgleich zwischen Umweltschutz und Landwirtschaft sowie die Bedeutung von Resilienz im Klimawandel. Betont, dass Klimaschutz nur mit wirtschaftlicher Stärke und sozialem Ausgleich gelingen kann.",
+      "source_title": "Christian Moser: „Es fehlt die Umsetzung“",
+      "url": "https://www.ihk-muenchen.de/fehler.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karsten Hilse",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert die bisherige Klimapolitik als \"planlos und verschwenderisch\" und fordert die Streichung von Klimaschutzzielen. Stellt die wissenschaftliche Grundlage des menschengemachten Klimawandels in Frage und lehnt Klimaschutzmaßnahmen ab.",
+      "source_title": "Karsten Hilse: Planlose und verschwenderische Klimapolitik von der Agenda streichen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Fabian Fahl",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Bezeichnet die deutsche Klimapolitik als \"Chronologie des Versagens\" und fordert einen radikalen, sozialen Klimaschutz. Kritisiert den CO2-Preis ohne soziale Abfederung und fehlende Konzepte für den Gebäudesektor.",
+      "source_title": "Hitzige Debatte zur deutschen Klima- und Umweltpolitik",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anna Aeikens",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Spricht über die Messbarkeit von Versagen in der Klimapolitik und betont die Notwendigkeit einer pragmatischen Umsetzung mit stabilen und verlässlichen Rahmenbedingungen, um Klimaschutz, wirtschaftliche Stärke und sozialen Ausgleich zu verbinden.",
+      "source_title": "Neuer Schwung für den internationalen Klimaschutz",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Jan-Niclas Gesenhues",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Betont die Dringlichkeit des Klimaschutzes angesichts der Gletscherschmelze und deren Folgen. Fordert eine Stärkung internationaler Zusammenarbeit und den Schutz der natürlichen Infrastruktur.",
+      "source_title": "Klimaschutz stärken: Die Linke Fraktion im Abgeordnetenhaus von Berlin",
+      "url": "https://www.gruene-bundestag.de/unsere-politik/unsere-ziele/klimaschutz-und-energie/",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,5 +1,31 @@
 [
   {
+    "id": "b2vNfkiwdC0",
+    "title": "102nd Session on 10/15/2026. Agenda Item 8: Emergency Care Reform",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "8",
+    "topic": "Reform der Notfallversorgung",
+    "summary_path": "protocols/session_102/8_emergency_care_reform.md",
+    "documents_path": "protocols/session_102/8_emergency_care_reform_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=b2vNfkiwdC0",
+    "processed_at": "2026-10-19T08:05:06.872290"
+  },
+  {
+    "id": "JcXIyGe5TN0",
+    "title": "102nd Session on 10/15/2026. Agenda Item 18: Reserve Strengthening Act",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "18",
+    "topic": "Gesetz zur Stärkung der Reserve",
+    "summary_path": "protocols/session_102/18_reserve_strengthening_act.md",
+    "documents_path": "protocols/session_102/18_reserve_strengthening_act_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=JcXIyGe5TN0",
+    "processed_at": "2026-10-19T08:05:39.697879"
+  },
+  {
     "id": "UlYFOex6Bco",
     "title": "101. Sitzung vom 14.10.2026. TOP 1: Regierungserklärung zum Europäischen Rat",
     "session": 101,
@@ -3636,6 +3662,45 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "fe3XXpZJsSw",
+    "title": "101st Session of 10/14/2026. Agenda Item 3: Question Time",
+    "session": 101,
+    "date": "N/A",
+    "top": "3",
+    "topic": "101. Sitzung: Fragestunde",
+    "summary_path": "protocols/session_101/3_101st_session_of_10_14_2026_agenda_item_3_question.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=fe3XXpZJsSw",
+    "processed_at": "2026-10-19T08:02:09.568843"
+  },
+  {
+    "id": "fi07GZ6NyLI",
+    "title": "101st Session of 10/14/2026. Agenda Item 2: Topical Debate: Climate and Environmental Policy",
+    "session": 101,
+    "date": "N/A",
+    "top": "2",
+    "topic": "Topthema: Klimapolitik und Umweltschutz in Deutschland",
+    "summary_path": "protocols/session_101/2_101st_session_of_10_14_2026_agenda_item_2_topical_.md",
+    "documents_path": "protocols/session_101/2_101st_session_of_10_14_2026_agenda_item_2_topical__documents.json",
+    "speakers_path": "protocols/session_101/2_101st_session_of_10_14_2026_agenda_item_2_topical__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=fi07GZ6NyLI",
+    "processed_at": "2026-10-19T08:01:34.942525"
+  },
+  {
+    "id": "wMhUzF7UUZA",
+    "title": "101st Session of 10/14/2026. Agenda Item 2: Questioning of the Federal Government (BMFTR and BMDS)",
+    "session": 101,
+    "date": "N/A",
+    "top": "2",
+    "topic": "Befragung der Bundesregierung zu Forschung, Technologie und Digitalem",
+    "summary_path": "protocols/session_101/2_101st_session_of_10_14_2026_agenda_item_2_question.md",
+    "documents_path": "protocols/session_101/2_101st_session_of_10_14_2026_agenda_item_2_question_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=wMhUzF7UUZA",
+    "processed_at": "2026-10-19T08:04:02.769900"
   },
   {
     "id": "oS4QUDw9MCg",
@@ -7389,6 +7454,19 @@
     "speakers_path": "protocols/session_unknown/top_unknown_hearing_of_the_committee_on_legal_affairs_and_cons_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=3wYooM5tvXQ",
     "processed_at": "2026-10-18T08:04:06.350552"
+  },
+  {
+    "id": "P871Zj2ECL4",
+    "title": "Parliamentary Advisory Council for Sustainable Development and Future Affairs",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen",
+    "summary_path": "protocols/session_unknown/top_unknown_parliamentary_advisory_council_for_sustainable_dev.md",
+    "documents_path": "protocols/session_unknown/top_unknown_parliamentary_advisory_council_for_sustainable_dev_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=P871Zj2ECL4",
+    "processed_at": "2026-10-19T08:04:39.108484"
   },
   {
     "id": "vHNXQug-Frc",

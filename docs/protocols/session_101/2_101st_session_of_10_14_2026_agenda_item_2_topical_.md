@@ -1,4 +1,4 @@
-# Debatte: Klimaschutz- und Umweltpolitik
+# Topthema: Klimapolitik und Umweltschutz in Deutschland
 
 ## Sitzungs-Metadaten
 - **Sitzung:** 101. Sitzung
@@ -8,166 +8,123 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=fi07GZ6NyLI)
 
 ## Kurzzusammenfassung
-Die Debatte im Deutschen Bundestag befasste sich mit der deutschen Klima- und Umweltpolitik. Im Zentrum standen die Auswirkungen des Klimawandels auf Wirtschaft und Gesellschaft, die notwendigen politischen Maßnahmen sowie die Kritik an bisherigen und aktuellen Ansätzen. Verschiedene Fraktionen präsentierten unterschiedliche Perspektiven, von der Notwendigkeit radikaler Maßnahmen bis hin zur Betonung wirtschaftlicher Machbarkeit und internationaler Vergleiche.
+Die Debatte im Deutschen Bundestag befasste sich mit der Klimapolitik und dem Umweltschutz in Deutschland. Verschiedene Fraktionen brachten ihre Positionen zur Dringlichkeit von Klimaschutzmaßnahmen, den wirtschaftlichen Auswirkungen und der Rolle von Technologie und Regulierung ein. Diskutiert wurden die Herausforderungen durch die Klimakrise, die Notwendigkeit internationaler Zusammenarbeit und die konkreten Maßnahmen zur Erreichung von Klimazielen. Die Debatte zeigte unterschiedliche Ansichten über die Geschwindigkeit, die Methoden und die Priorisierung von Klimaschutzbemühungen.
 
 ## Kernaussagen und Positionen der Fraktionen
-- **Bündnis 90/Die Grünen (Dr. Gesenhues, Frau Badum):**
-  - Die Klimakrise, symbolisiert durch Gletscherschmelze, bedroht Lebensgrundlagen und die Wirtschaft (z.B. durch Niedrigwasser auf Flüssen).
-  - Klimaschutz ist auch ein Wirtschaftsfaktor, der neue Arbeitsplätze schafft, erfordert jedoch eine klare regulatorische Rahmensetzung.
-  - Die Bundesregierung müsse Zusagen für Klimaschutz und Biodiversität einhalten und das Renaturierungsgesetz konsequent umsetzen.
-  - Die Ablehnung von Forschung zur Klimawandelleugnung, stattdessen Verweis auf wissenschaftlichen Konsens.
-  - Kritik an der Praxis, Wirtschaft und Klimaschutz gegeneinander auszuspielen.
-  - Verweis auf die Bedeutung internationaler Zusammenarbeit und die Notwendigkeit, die Versprechen der Weltklimakonferenz und der Biodiversitätskonferenz zu erfüllen.
-  - Kritisieren Sie die Verschiebung von Klimazielen durch Rot-Rot in Mecklenburg-Vorpommern.
-  - Die deutsche Klimapolitik hat die Europäische Wettbewerbsfähigkeit durch Hitzesommer und Todesfälle gefährdet.
-  - Öl- und Gaskonzerne machen immense Gewinne, während die Energiewende lokal bedroht wird.
-  - Die Pläne der Regierung zur Energiewende sind zu langsam und vernachlässigen Bürgerenergie und dezentrale Lösungen.
-- **CDU/CSU (Christian Moser, Anna Aeikens, Klaus Mack, Hans Koller):**
-  - Die AfD wird als größter Feind des Klimaschutzes bezeichnet, da sie Ängste schüre und reale Probleme fehladressiere.
-  - Klimaschutz muss wirtschaftlich tragfähig sein, um Akzeptanz zu gewährleisten; Produktions- und Wettbewerbsfähigkeit von Unternehmen dürfen nicht überstrapaziert werden.
-  - Es bedarf einer "Atempause" und "Akklimatisierung" für die Wirtschaft, z.B. bei ETS 1 und 2, um einen deutschen Sonderweg zu beenden und Vorbild zu werden.
-  - Die Branche der Kalk- und Tonhersteller will klimaneutral werden, benötigt aber Planungsbeschleunigung und verbesserte Umweltrechte.
-  - Die Bundesregierung investiert in Klimaanpassung, z.B. durch Hochwasserschutzgesetze.
-  - Kritik an pauschalen Verurteilungen und Verweis auf den Klimaschutzindex (Platz 22) und Environmental Performance Index (Platz 6).
-  - Deutschland hat im letzten Jahr die Klimaziele unterschritten; der Weg sei nicht leichter, aber die Koalition arbeite offen daran.
-  - Ab 2028 soll der europäische Emissionshandel für Heizen und Verkehr gelten (ETS 2).
-  - Der KTF investiert 40 Milliarden Euro in Programme zur Gebäudeförderung.
-  - Neue Projekte wie die Munitionsbergung in Nord- und Ostsee und die Abscheidung von CO2 zeigen positive Entwicklungen.
-  - Deutschland hat einen Fahrplan zur Abkehr von fossilen Energieträgern vorgelegt und ein Verhandlungsmandat für die Klimakonferenz erreicht.
-  - Klimaschutz und Umweltschutz sollten weniger durch Verbote, sondern durch partnerschaftliche Zusammenarbeit und Technologieoffenheit erfolgen.
-  - Unternehmen sollen in Deutschland bleiben, anstatt ins Ausland abzuwandern, wo Umweltauflagen schlechter sind.
-  - Es braucht eine Balance zwischen Klimaschutz, Versorgungssicherheit und Bezahlbarkeit.
-  - Kritik an überzogenen Naturschutzauflagen, die Projekte verteuern und das Vertrauen in den Naturschutz beschädigen.
-  - Die Bundesregierung schafft mit dem Infrastruktur-Zukunftsgesetz schnellere Genehmigungsverfahren.
-  - Die Mär, dass Kernenergie die Wirtschaft retten kann, ist falsch und unrealistisch.
-  - Erneuerbare Energien sind ein Konjunkturprogramm und schaffen Arbeitsplätze.
-  - Die Bundesregierung arbeitet mit Augenmaß, Technologieoffenheit und im Sinne des Menschen- und Ressourcenschutzes.
-  - Die Dreieinigkeit von Ökonomie, Ökologie und sozialer Komponente ist zentral für Nachhaltigkeit.
-- **AfD (Karsten Hilse, Dr. Kraft, Dr. Blos, Dirk Brandes, Herr Schmidt):**
-  - Klimapolitik der Grünen und vorheriger Regierungen wird als Versagen bezeichnet, ebenso wie Migrations-, Wirtschafts- und Energiepolitik.
-  - Angela Merkel wird für die Grundsteine der Klimapolitik und den Ausstieg aus Kernenergie und Kohle kritisiert.
-  - Es wird eine Parallele zwischen Corona-Politik und Klimapolitik gezogen; beide basierten auf angeblich gesicherten wissenschaftlichen Erkenntnissen, die angeblich einen Konsens darstellten, obwohl es andere Ansichten gab.
-  - Der behauptete wissenschaftliche Konsens zum Klimawandel sei eine Lüge.
-  - Die Industriestaaten bekennen sich zur Kernenergie; Deutschland gehe als "globaler Geisterfahrer" einen Sonderweg.
-  - Kernenergie sei notwendig, da Länder wie Belgien, Italien, Polen und Taiwan auf sie setzen.
-  - Der Zubau erneuerbarer Energien sei geringer als behauptet; Kernenergie sei eine Technologie, deren Zeit vorbei sei.
-  - Kritik an der grünen Ideologie und deren massiven Eingriffen in Natur und Umwelt (Rodung von Wäldern für Windkraftanlagen, Bodenversiegelung, Zerschneidung von Lebensräumen).
-  - Der Ausbau erneuerbarer Energien könne lokale Auswirkungen auf den Wasserhaushalt haben, wofür es keine auf Deutschland übertragbaren Studien gebe.
-  - Artenschutzregeln würden bei eigenen Energieprojekten nicht angewendet.
-  - Die Bergung von Munitionsaltlasten in Nord- und Ostsee sei eine dringende Aufgabe, für die im Vergleich zu "Klimaschutz"-Milliarden zu wenig Geld vorhanden sei.
-  - Massiver Ausbau von Offshore-Windkraft könne Niederschlagsverteilung verändern.
-  - Windkraftanlagen setzen Kunststoffpartikel frei.
-  - Forderung nach wirtschaftlicher Vernunft, bezahlbarer Energie und Schutz der deutschen Wirtschaft.
-  - E-Mobilität werde nur durch Subventionen vorangetrieben.
-  - Wenn Produktion ins Ausland abwandere, entstehe Dreck woanders.
-  - Die Ära grüner Politik und linker Deutungshoheit werde nicht ewig dauern.
-- **Die Linke (Dr. Fabian Fahl):**
-  - Die deutsche Klima- und Umweltpolitik sei eine Chronologie des Versagens und verletze das Grundgesetz.
-  - Heizungstausch bräuchte 100% Förderung, nicht Gesetze, die durch "Hetzkampagnen" aufgeweicht würden.
-  - Das 9-Euro-Ticket sei unwahrhaftig und ignoriere die Anregung der Wirtschaft durch mobile, klimafreundliche Gesellschaften.
-  - Gelder für umweltzerstörende Industrien (Tankrabatte) seien um ein Vielfaches höher als für Klima, Natur und Umwelt.
-  - Kritik am Dienstwagenprivileg und an Enteignungen für Autobahnen und fossile Energie.
-  - Kriegseuphorie und Aufrüstung seien mit dem Klimaschutz unvereinbar und würden Klimaziele ad absurdum führen.
-  - Militärausgaben hätten hohe Emissionen zur Folge.
-  - Kritik an klimaschädlichen Subventionen für die Landwirtschaft, Aufweichen von Sektorziele, Laufzeitverlängerungen für Kohlekraftwerke, LNG-Terminals und Fracking-Gas.
-  - Gaslieferverträge mit Diktaturen und die Politik von Katherina Reiche seien abzulehnen.
-  - SPD und Union könnten keine Klimapolitik betreiben, da sie sich für fossile Industrien interessierten.
-  - Konservativ sei es, die Natur zu erhalten.
-  - Grüne scheiterten daran, Kapitalismus "grün" anzumalen; unbegrenztes Wachstum auf begrenztem Planeten sei unmöglich.
-  - Linke Politik brauche keinen Wachstumsfetisch, sondern Umverteilung und Konfrontation mit Mächtigen.
-- **Bundesregierung (Carsten Schneider):**
-  - Die Bundesregierung verfolgt eine Politik des klugen Ausgleichs zwischen ökologischen und ökonomischen Interessen und vermeidet gesellschaftliche Polarisierung.
-  - Schutz der natürlichen Lebensgrundlagen ist Voraussetzung für eine dynamische Wirtschaft.
-  - Investitionen in saubere Technologien und soziale Gerechtigkeit sind zentral.
-  - Das Aktionsprogramm "Natürlicher Klimaschutz" ist eines der größten Programme zur Naturinstandsetzung.
-  - Die Bundesregierung investiert in den Erhalt natürlicher Lebensgrundlagen weltweit (z.B. tropischer Regenwald).
-  - Deutschland hat die Ratifizierungsurkunde für das Hochseeschutzabkommen hinterlegt und die deutsche Roadmap zur Abkehr von fossilen Energien vorgelegt.
-  - Zusätzliche Ausschreibung von 12 Gigawatt Windenergie an Land geplant.
-  - Das Gebäudemodernisierungsgesetz ermöglicht Wahlfreiheit und Unterstützung für Haushalte mit mittleren und niedrigen Einkommen.
-  - Rekordabsätze bei Wärmepumpen und Elektroautos zeigen Akzeptanz der Politik.
-  - Die Förderung von Elektroautos konzentriert sich auf Menschen mit geringem Einkommen.
-  - Das Ziel sei Unabhängigkeit, Energieversorgung aus Deutschland und Mobilität mit europäischen Autos.
-  - Kernenergie sei keine Lösung, da der Ausbau teuer und langwierig sei; 90% des weltweiten Zubaus an Energieproduktion seien erneuerbare Energien.
-  - Kein Land der Welt schreibe anderen vor, wie sie ihre Energieversorgung gestalten sollen.
-  - Der Weg zur Klimaneutralität durch erneuerbare Energien, Kluge Netze, Energieeinsparung und Speicherung sei klar.
-  - Die Entscheidungen im Koalitionsvertrag seien kein Versagen, sondern ein aktiver Schritt in die richtige Richtung.
-  - Das Gesetz zur Stärkung der natürlichen Infrastruktur ist noch nicht kabinettsreif, ein Ausgleich für Eingriffe in die Natur ist notwendig.
+- **Bündnis 90/Die Grünen**:
+  - Die Klimakrise bedroht Lebensgrundlagen, Wasserversorgung und die Wirtschaft.
+  - Generationengerechtigkeit erfordert sofortiges Handeln für lebenswerte Zukunft und Umweltschutz.
+  - Es besteht dringender Bedarf an regulatorischen Vorgaben und Investitionen in Klimaschutz und Biodiversität.
+  - Die Bundesregierung muss Versprechen zur Klimafinanzierung einhalten und das Renaturierungsgesetz konsequent umsetzen.
+- **Unionsfraktion (CDU/CSU)**:
+  - Klimaschutz ist wirtschaftlich relevant und wichtig für Arbeitsplätze in der Green-Tech-Branche.
+  - Die Akzeptanz für Klimaschutzmaßnahmen ist gefährdet, und Unternehmen sehen ihre Wettbewerbsfähigkeit bedroht.
+  - Es bedarf einer "Atempause" und Anpassungen der Regulierung, um der Wirtschaft mehr Luft zu verschaffen, ohne Vorreiter zu bestrafen.
+  - Die Kernenergie wird als eine von mehreren Technologien zur Erreichung der Klimaneutralität betrachtet.
+- **AfD-Fraktion**:
+  - Die Klimapolitik der Bundesregierung wird als Versagen betrachtet und mit der Coronapolitik verglichen.
+  - Es wird die Existenz eines menschengemachten Klimawandels in Frage gestellt und auf wissenschaftliche Debatten verwiesen.
+  - Die Energiewende wird kritisiert, da sie zu Umweltschäden führe und die Wirtschaft belaste.
+  - Die Kernenergie wird als notwendige und kostengünstigere Alternative zu erneuerbaren Energien angeführt.
+- **SPD-Fraktion**:
+  - Klimaschutz ist eine Gemeinschaftsaufgabe, die Verbündete und lange Linien benötigt.
+  - Es wird ein Ausgleich zwischen ökologischen und ökonomischen Interessen angestrebt, um gesellschaftliche Polarisierung zu vermeiden.
+  - Programme wie das Aktionsprogramm "Natürlicher Klimaschutz" und der Schutz der Hochsee werden als positive Schritte hervorgehoben.
+  - Die Umstellung auf erneuerbare Energien und Elektromobilität wird als wichtiger sozialpolitischer Erfolg betrachtet.
+- **Die Linke**:
+  - Die deutsche Klima- und Umweltpolitik wird als Chronologie des Versagens bezeichnet.
+  - Es wird kritisiert, dass Verfassungsziele zum Schutz der natürlichen Lebensgrundlagen missachtet werden.
+  - Subventionen für umweltschädliche Industrien und die Militarisierung werden bemängelt.
+  - Eine Umverteilung und das Anlegen mit den Mächtigen werden als notwendige Schritte für einen radikalen und sozialen Klimaschutz gefordert.
+- **Bundesregierung (vertreten durch den Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit)**:
+  - Die Bundesregierung verfolgt einen klugen Ausgleich zwischen ökologischen und ökonomischen Interessen und vermeidet gesellschaftliche Polarisierung.
+  - Der Schutz natürlicher Lebensgrundlagen und eine dynamische Wirtschaft bedingen sich gegenseitig.
+  - Es werden positive Entwicklungen wie das Aktionsprogramm "Natürlicher Klimaschutz", der Schutz der Hochsee und die Ratifizierung des BBNJ-Abkommens hervorgehoben.
+  - Die Abkehr von fossilen Energien und der Ausbau erneuerbarer Energien werden als zentrale Säulen der Klimapolitik betont.
 
 ## Chronologischer Debattenverlauf
-- **[00:08](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=8s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Sitzung und verweist auf die Regierungserklärung des Bundeskanzlers.
-- **[00:08](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=8s)** - **Dr. Gesenhues (Bündnis 90/Die Grünen)**: Spricht über Generationengerechtigkeit, die über finanzielle Aspekte hinausgeht und die Sicherung eines lebenswerten Planeten für zukünftige Generationen einschließt. Er erläutert die Folgen der Gletscherschmelze für die Wasserversorgung und die Wirtschaft.
-- **[03:00](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=180s)** - **Zwischenfrage (AfD)**: Stellt die These in den Raum, dass Gletscher erst später kamen und es auch Alpen ohne Gletscher gab, basierend auf der Entdeckung eines römischen Weges.
-- **[03:34](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=214s)** - **Dr. Gesenhues (Bündnis 90/Die Grünen)**: Entgegnet, dass aktuelle Gletscherschmelze historisch beispiellos sei und auf menschengemachten Klimawandel zurückzuführen sei. Er kritisiert die AfD für das Leugnen der wissenschaftlichen Erkenntnisse.
-- **[04:31](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=271s)** - **Dr. Gesenhues (Bündnis 90/Die Grünen)**: Betont die ökologische und ökonomische Dimension des Klimaschutzes und die Bedeutung der Umweltbranche für Arbeitsplätze in Nordrhein-Westfalen. Er warnt vor dem Zurückdrehen von Umweltregulatorik und kritisiert die Politik der Bundesregierung.
-- **[05:50](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=350s)** - **Dr. Gesenhues (Bündnis 90/Die Grünen)**: Fordert die Einhaltung von Zusagen für Klimaschutz, Biodiversität und Entwicklungshilfe sowie die konsequente Umsetzung des Renaturierungsgesetzes und die Beendigung der Zweckentfremdung von Mitteln.
-- **[06:38](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=398s)** - **Christian Moser (CDU/CSU)**: Zitiert Michael Vassiliadis, der die AfD als größten Feind des Klimaschutzes bezeichnete. Er betont die wirtschaftliche Bedeutung des Klimaschutzes und die Gefährdung der Akzeptanz durch Desinformation. Er fordert, der Wirtschaft mehr "Luft" zu verschaffen und kritisiert die Umweltregulatorik.
-- **[10:02](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=602s)** - **Zwischenfrage (Bündnis 90/Die Grünen)**: Fragt, ob das Handelsdefizit mit China auf zu viel Klimaschutz oder auf andere Faktoren wie Handelskriege, Digitalisierung und Lohnnebenkosten zurückzuführen sei.
-- **[10:45](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=645s)** - **Christian Moser (CDU/CSU)**: Antwortet, dass Carbon Leakage ein Kostenfaktor sei und verweist auf die Notwendigkeit von Planungsbeschleunigung und Verbesserungen im Umweltrecht.
-- **[13:39](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=819s)** - **Karsten Hilse (AfD)**: Kritisiert das "Versagen" der Regierung in der Klima- und Umweltpolitik, vergleicht es mit dem Versagen in anderen Politikbereichen und greift die Politik von Angela Merkel an, die aus Sicht der AfD die CDU zu einer sozialistischen Partei deformiert habe.
-- **[17:08](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1028s)** - **Karsten Hilse (AfD)**: Zieht Parallelen zwischen der Corona- und Klimapolitik, spricht von erzwungenen Gentherapien und vermeintlich gesicherten wissenschaftlichen Erkenntnissen, die nicht dem Narrativ entsprächen. Er bezeichnet den wissenschaftlichen Konsens zum Klimawandel als Lüge.
-- **[19:22](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1162s)** - **Carsten Schneider (Bundesregierung)**: Eröffnet die Rede der Bundesregierung und betont die Notwendigkeit langer Linien in der Umwelt- und Klimaschutzpolitik. Er hebt die Überwindung der gesellschaftlichen Polarisierung durch die aktuelle Koalition hervor.
-- **[22:03](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1323s)** - **Carsten Schneider (Bundesregierung)**: Stellt das Aktionsprogramm "Natürlicher Klimaschutz" vor, betont die Sicherung der Finanzierung und die Bedeutung der Zusammenarbeit.
-- **[23:02](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1382s)** - **Carsten Schneider (Bundesregierung)**: Betont die internationale Dimension der Klimaschutzpolitik und die Bedeutung des Schutzes von Tropenwäldern.
-- **[24:01](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1441s)** - **Carsten Schneider (Bundesregierung)**: Kündigt die Vertretung bei der Weltnaturkonferenz an und spricht die zusätzliche Investition in Kernlandschaftsschutzgebiete in Afrika an.
-- **[24:43](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1483s)** - **Carsten Schneider (Bundesregierung)**: Erläutert die Hinterlegung der Ratifizierungsurkunde für das Hochseeschutzabkommen BBNJ und die deutsche Roadmap zur Abkehr von fossilen Energien.
-- **[26:34](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1594s)** - **Carsten Schneider (Bundesregierung)**: Stellt die zusätzliche Ausschreibung von 12 Gigawatt Windenergie an Land vor und spricht die Bedeutung von Gebäuden und Wärmepumpen an.
-- **[27:32](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1652s)** - **Carsten Schneider (Bundesregierung)**: Verweist auf die Rekordabsätze bei Elektroautos und die gezielte Förderung für Menschen mit geringem Einkommen.
-- **[29:22](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1762s)** - **Kurzintervention (Dr. Kraft, AfD)**: Stellt die Frage, warum Deutschland trotz internationaler Partnerschaft bei Kernenergie einen Sonderweg gehe und die Expertise der Regierung höher einschätze als die anderer Länder.
-- **[31:04](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1864s)** - **Carsten Schneider (Bundesregierung)**: Widerlegt die These vom Revival der Kernenergie und verweist auf den hohen Zubau erneuerbarer Energien und die Kosten von Kernkraftwerken.
-- **[33:21](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1993s)** - **Kurzintervention (Dr. Gesenhues, Bündnis 90/Die Grünen)**: Bedankt sich für das klare Statement zur Atomkraft und betont die Notwendigkeit, Gesetze zur Stärkung der natürlichen Infrastruktur zu verabschieden.
-- **[35:03](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2103s)** - **Carsten Schneider (Bundesregierung)**: Erklärt, dass das Gesetz zur Stärkung der natürlichen Infrastruktur noch nicht kabinettsreif sei, betont aber die Notwendigkeit eines Ausgleichs für Eingriffe in die Natur.
-- **[36:51](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2211s)** - **Dr. Fabian Fahl (Die Linke)**: Beschreibt die deutsche Klima- und Umweltpolitik als Chronologie des Versagens und kritisiert die Regierung für die Nichteinhaltung verfassungsmäßiger Pflichten.
-- **[37:27](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2247s)** - **Dr. Fabian Fahl (Die Linke)**: Kritisiert die Aufweichung des Heizungsgesetzes und die kurzfristige Natur des 9-Euro-Tickets, während Gelder für umweltschädliche Industrien fließen.
-- **[38:48](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2328s)** - **Dr. Fabian Fahl (Die Linke)**: Verurteilt die "wiedererwachte Kriegseuphorie" und die hohen Rüstungsausgaben, die Klimaziele ad absurdum führen.
-- **[39:44](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2384s)** - **Dr. Fabian Fahl (Die Linke)**: Listet weitere Versäumnisse auf, darunter klimaschädliche Subventionen, Aufweichen von Sektorziele, Barrieren für Erneuerbare und die Förderung fossiler Energieträger.
-- **[41:42](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2502s)** - **Anna Aeikens (CDU/CSU)**: Hinterfragt die Messbarkeit von Versagen in der Klimapolitik und verweist auf internationale Rankings. Sie betont die Erfolge Deutschlands im Klimaschutzgesetz und zeigt sich zuversichtlich für die Zukunft.
-- **[43:35](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2615s)** - **Anna Aeikens (CDU/CSU)**: Erklärt, dass der europäische Emissionshandel ab 2028 auch für Heizen und Verkehr gelten wird und dies europäisches Recht sei.
-- **[44:11](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2651s)** - **Anna Aeikens (CDU/CSU)**: Verteidigt den Klimaschutz- und Investitionsfonds (KTF) und weist die Bezeichnung als "Versagen" zurück.
-- **[44:51](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2691s)** - **Anna Aeikens (CDU/CSU)**: Nennt zwei Projekte: die Entwicklung einer schwimmenden Entsorgungsplattform für Munition in Nord- und Ostsee und die rechtliche Möglichkeit der Abscheidung und Speicherung von CO2.
-- **[46:03](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2763s)** - **Anna Aeikens (CDU/CSU)**: Betont die Bedeutung der globalen Rolle Deutschlands und die Notwendigkeit, auf europäischer Ebene stark zu bleiben.
-- **[47:10](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2830s)** - **Dr. Michael Blos (AfD)**: Kritisiert die Grünen für ideologiegetriebene Energiepolitik, die das Land wirtschaftlich an die Wand fahre und massive Eingriffe in Natur und Umwelt bedeute.
-- **[48:38](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2918s)** - **Dr. Michael Blos (AfD)**: Kritisiert den Bau von Windkraftanlagen, der Wälder rodet und Lebensräume zerstört, sowie die fehlende Berücksichtigung lokaler Auswirkungen auf den Wasserhaushalt.
-- **[49:57](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=2997s)** - **Dr. Michael Blos (AfD)**: Bemängelt, dass die Grünen bei eigenen Energieprojekten andere Maßstäbe anlegen als bei anderen Bauvorhaben.
-- **[50:27](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3027s)** - **Dr. Michael Blos (AfD)**: Kritisiert die CDU, da die links-grüne Politik unter ihrer Führung ungebremst weitergehe.
-- **[50:58](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3058s)** - **Dr. Michael Blos (AfD)**: Weist auf die Munitionsaltlasten in Nord- und Ostsee hin und kritisiert das Verhältnis von Ausgaben für "Klimaschutz" zu denen für die Küste.
-- **[51:33](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3093s)** - **Dr. Michael Blos (AfD)**: Präsentiert eine Studie, die besagt, dass ein massiver Ausbau der Offshore-Windkraft die Niederschlagsverteilung verändern könnte.
-- **[52:01](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3121s)** - **Dr. Michael Blos (AfD)**: Spricht die Freisetzung von Kunststoffpartikeln durch Rotorblätter und die damit verbundenen Wissenslücken an.
-- **[52:27](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3147s)** - **Dr. Michael Blos (AfD)**: Fordert die systematische Untersuchung dieser Umweltfragen.
-- **[52:46](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3166s)** - **Jakob Blankenburg (SPD)**: Weist die Argumentation der AfD zurück und betont die wissenschaftlichen Erkenntnisse zum Zusammenhang von fossilen Energien und Klimawandel, die bereits von Exxon Mobil erkannt wurden.
-- **[54:48](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3288s)** - **Jakob Blankenburg (SPD)**: Kritisiert die Grünen für das Wort "Versagen" und betont, dass die Fragen der Bezahlbarkeit und Bürgerbeteiligung im Vordergrund stünden. Er gesteht ein, dass der Klimaschutz noch nicht ausreicht, aber das Wort "Versagen" übersehe, was Bürger bereits tun.
-- **[55:45](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3345s)** - **Jakob Blankenburg (SPD)**: Verweist auf den hohen Anteil erneuerbarer Energien am Strommix und die Energiewende durch Bürger.
-- **[56:06](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3366s)** - **Zwischenfrage (Bündnis 90/Die Grünen)**: Stellt die Frage, ob der Bau der A39 wertvolle Naturflächen zerstört und ob die unbegrenzte Finanzierung der Autobahn GmbH die Republik zubetonieren würde.
-- **[58:16](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3496s)** - **Jakob Blankenburg (SPD)**: Antwortet auf die Zwischenfrage und betont, dass Schwarz-Weiß-Denken nicht helfe; Straßenbau sei für den Transport von Windkraftanlagenkomponenten notwendig.
-- **[59:43](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3583s)** - **Jakob Blankenburg (SPD)**: Betont die Frage der Bezahlbarkeit und nennt die steigenden Verkaufszahlen von Wärmepumpen und Elektroautos, die auch von Menschen mit geringem Einkommen genutzt würden.
-- **[01:01:49](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3709s)** - **Kurzintervention (Hahn)**: Fragt nach den Umweltopfern durch Windkraft (Fledermäuse, Insekten, Vögel) und kritisiert den Vergleich mit Autoscheiben.
-- **[01:03:41](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3821s)** - **Jakob Blankenburg (SPD)**: Richtigstellung, dass Klimaneutralität keine politische Entscheidung, sondern eine Verpflichtung gegenüber zukünftigen Generationen sei.
-- **[01:05:16](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3916s)** - **Lisa Badum (Bündnis 90/Die Grünen)**: Nennt die Klimapolitik als kriselnden Bereich und kritisiert die Entscheidung Rot-Rots in Mecklenburg-Vorpommern zur Verschiebung von Klimazielen.
-- **[01:05:43](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3943s)** - **Lisa Badum (Bündnis 90/Die Grünen)**: Kritisiert die Aussage, die europäische Wettbewerbsfähigkeit leide unter Klimaschutz, angesichts der Hitzewelle und Todesfälle in Europa.
-- **[01:07:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4034s)** - **Lisa Badum (Bündnis 90/Die Grünen)**: Nennt Öl- und Gaskonzerne als einzigen Bereich, in dem es gute Nachrichten gebe (Umsatzsteigerungen).
-- **[01:07:31](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4051s)** - **Lisa Badum (Bündnis 90/Die Grünen)**: Kritisiert Katherina Reiche für die nachträgliche Bearbeitung von Studien zur Diskreditierung Erneuerbarer und zur Schönung von Gaskraftwerken.
-- **[01:08:19](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4099s)** - **Lisa Badum (Bündnis 90/Die Grünen)**: Nennt ein Beispiel eines großen Windparkprojekts in Bayern, das durch Gesetzespläne der Regierung gefährdet werde.
-- **[01:10:38](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4238s)** - **Klaus Mack (CDU/CSU)**: Erklärt, dass Klima- und Umweltschutz weniger erhobenen Zeigefinger, sondern eine ausgestreckte Hand brauche. Er betont die Notwendigkeit, die Fragen der Menschen nach Arbeitsplatz, Stromrechnung und Bezahlbarkeit zu beantworten.
-- **[01:11:55](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4315s)** - **Klaus Mack (CDU/CSU)**: Betont, dass die Koalition zum Ziel der Klimaneutralität stehe, aber auch ein Industrieland bleiben wolle.
-- **[01:12:26](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4346s)** - **Klaus Mack (CDU/CSU)**: Setzt auf Innovationen statt Vorschriften und Investitionen statt Verunsicherung.
-- **[01:13:33](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4413s)** - **Klaus Mack (CDU/CSU)**: Kritisiert die Grünen dafür, dass sie Gaskraftwerke planten, während sie Katherina Reiches Pläne für Kraftwerksleistung als Angriff auf den Klimaschutz bezeichneten.
-- **[01:14:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4454s)** - **Klaus Mack (CDU/CSU)**: Gibt ein Beispiel aus seinem Wahlkreis, wo die Kosten für die Reaktivierung einer Schienenverbindung aufgrund von Fledermäusen in alten Tunneln verdreifacht wurden, und hinterfragt das Verhältnis von Aufwand und Nutzen.
-- **[01:15:18](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4518s)** - **Klaus Mack (CDU/CSU)**: Kritisiert die Grünen, die gegen das Infrastruktur-Zukunftsgesetz gestimmt hätten, obwohl sie vom Fortschritt redeten.
-- **[01:16:10](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4570s)** - **Kurzintervention (Schmidt, AfD)**: Fragt Klaus Mack, warum die CDU sich gegen die Wiederinbetriebnahme von Kernkraftwerken weigere, obwohl diese kostengünstiger seien als Reservekraftwerke auf Erdgasbasis.
-- **[01:17:49](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4669s)** - **Klaus Mack (CDU/CSU)**: Antwortet auf die Kurzintervention und erklärt, dass Deutschland auf dem Weg der regenerativen Energien sei und ein Rückschritt Milliardeninvestitionen zunichte machen würde.
-- **[01:18:37](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4717s)** - **Dirk Brandes (AfD)**: Kritisiert die Grün-Politik für die Belastung der Natur, die Behinderung von Innovationen und die Gefährdung der deutschen Zukunft.
-- **[01:19:18](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4758s)** - **Dirk Brandes (AfD)**: Kritisiert die Windpolitik, die Wälder rodet und Lebensräume zerschneidet, und die Fokussierung auf Verbote, Belastungen und Subventionen.
-- **[01:20:05](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4805s)** - **Dirk Brandes (AfD)**: Bemängelt, dass Benziner und Diesel politisch zurückgedrängt werden, obwohl sie Gewinne erwirtschaften, die für Forschung und Arbeitsplätze notwendig sind.
-- **[01:21:01](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4861s)** - **Dirk Brandes (AfD)**: Erklärt, dass bei Abwanderung der Industrie Emissionen nicht verschwänden, sondern woanders entstehen würden, wahrscheinlich dreckiger.
-- **[01:22:20](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4940s)** - **Dirk Brandes (AfD)**: Stellt drei Fragen: Wer bestimmt die Regeln, wer profitiert und warum sollen Bürger Geschäftsmodelle finanzieren, die sich am Markt nicht durchsetzen.
-- **[01:23:17](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4997s)** - **Dirk Brandes (AfD)**: Sagt voraus, dass die Ära grüner Politik und linker Deutungshoheit nicht ewig dauern werde und die AfD für wirtschaftliche Vernunft, bezahlbare Energie und den Schutz der deutschen Wirtschaft eintrete.
-- **[01:23:43](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5023s)** - **Esra Limbacher (SPD)**: Greift die AfD wegen ihrer Aussage an, der Sommer sei "ganz normal" gewesen, und betont die Respektlosigkeit gegenüber den Opfern von Hitze.
-- **[01:25:23](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5123s)** - **Esra Limbacher (SPD)**: Widerlegt die Aussage, Klimaschutz fahre die Wirtschaft gegen die Wand, und verweist auf das Wachstum im Greentech-Bereich.
-- **[01:25:51](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5151s)** - **Esra Limbacher (SPD)**: Erklärt, dass hohe Energiepreise auf den Krieg in der Ukraine und Zölle von Donald Trump zurückzuführen seien.
-- **[01:26:28](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4000s)** - **Esra Limbacher (SPD)**: Kritisiert die Grünen für das Wort "Versagen" und fordert Selbstkritik; er verweist auf Klimaschutzmaßnahmen in Baden-Württemberg, die vom Klimasachverständigenrat kritisiert würden.
-- **[01:27:45](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5265s)** - **Esra Limbacher (SPD)**: Nennt die Fortsetzung des E-Auto-Förderprogramms als Beispiel für wirksame Klimapolitik, die auch von Menschen mit geringem Einkommen in Anspruch genommen werde.
-- **[01:28:51](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5331s)** - **Hans Koller (CDU/CSU)**: Kritisiert die Wortwahl im Parlament, die das Land spalte. Er stellt fest, dass Deutschland in einer massiven Klimaveränderung steckt und die Verantwortung habe, gegenzusteuern und als Vorbild voranzugehen.
-- **[01:30:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5414s)** - **Hans Koller (CDU/CSU)**: Bezeichnet die Mär, dass Kernenergie die Wirtschaft retten könne, als falsch und unrealistisch.
-- **[01:30:30](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5430s)** - **Hans Koller (CDU/CSU)**: Betont, dass die Bundesregierung die Menschen mit Klimaschutzprogrammen durch Technologieoffenheit und im Dialog mit Bürgern und Wirtschaft wieder abgeholt habe.
-- **[01:31:05](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5465s)** - **Hans Koller (CDU/CSU)**: Fasst zusammen, dass die Aktuelle Stunde zu einer zweistündigen Debatte geworden sei, in der versucht werde, die Regierung anzugreifen, die mit Augenmaß, Technologieoffenheit und im Sinne des Klima-, Menschen- und Ressourcenschutzes arbeite.
-- **[01:31:31](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5491s)** - **Hans Koller (CDU/CSU)**: Verweist auf die Dreieinigkeit von Ökonomie, Ökologie und sozialer Komponente als Kern der Nachhaltigkeit.
-- **[01:31:56](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5516s)** - **Sitzungsende**: Die Präsidentin beendet die Aktuelle Stunde.
+- **[00:08](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=8s)** - **Eröffnung der Debatte**: Die erste Rednerin betont die Notwendigkeit, über Generationengerechtigkeit hinauszudenken und für einen lebenswerten Planeten zu kämpfen, angesichts der Gletscherschmelze und deren Folgen für die Wasserversorgung und die Wirtschaft.
+- **[03:00](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3m0s)** - **Zwischenfrage der AfD**: Eine Zwischenfrage zur Interpretation von Gletscherfunden in den Alpen wird gestellt.
+- **[03:34](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=3m34s)** - **Antwort des ersten Redners**: Der Redner antwortet, dass er sich auf wissenschaftliche Erkenntnisse stütze und die aktuelle Gletscherschmelze beispiellos seit der letzten Eiszeit sei, bedingt durch den menschengemachten Klimawandel.
+- **[04:31](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=4m31s)** - **Wirtschaftliche Dimension**: Es wird die Bedeutung der Umweltbranche für Arbeitsplätze und die Notwendigkeit einer fortlaufenden Politik für Klimaschutz hervorgehoben, um die deutsche Autoindustrie zu stärken.
+- **[05:50](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=5m50s)** - **Forderungen der Grünen**: Die Grünen fordern die Einhaltung von Finanzierungszusagen für Klimaschutz und Biodiversität sowie die konsequente Umsetzung des Renaturierungsgesetzes.
+- **[06:38](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=6m38s)** - **Nächster Redner (Union)**: Christian Moser von der Unionsfraktion spricht über die Gefährdung der Akzeptanz des Klimaschutzes und die Belastung für die Wirtschaft.
+- **[09:49](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=9m49s)** - **Beispiel Kalk- und Tonhersteller**: Ein Beispiel eines Kalk- und Tonherstellers wird genannt, der klimaneutral werden will, aber auf regulatorische Erleichterungen bei CO2-Speicherungen angewiesen ist.
+- **[10:02](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=10m2s)** - **Zwischenfrage der Grünen**: Eine Zwischenfrage zur Ursache des Handelsdefizits mit China und der Rolle des Klimaschutzes wird gestellt.
+- **[11:52](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=11m52s)** - **Notwendigkeit einer Atempause**: Es wird eine Atempause für die Wirtschaft gefordert, um mehr Luft für Transformationen zu schaffen.
+- **[13:12](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=13m12s)** - **Klimaanpassung als Gemeinschaftsaufgabe**: Die Frage, ob Klimaanpassung eine Gemeinschaftsaufgabe sein sollte, wird aufgeworfen.
+- **[13:39](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=13m39s)** - **Nächster Redner (AfD)**: Karsten Hilse von der AfD kritisiert die Klima- und Umweltpolitik als Versagen und sieht Versager auf den Regierungsbänken.
+- **[14:44](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=14m44s)** - **Angela Merkel und Klimapolitik**: Angela Merkels Rolle bei der Gestaltung der Klimapolitik und deren angebliche negativen Folgen für Deutschland werden kritisiert.
+- **[17:03](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=17m3s)** - **Parallelen Corona und Umweltpolitik**: Der Redner zieht Parallelen zwischen der Corona- und der Umweltpolitik, insbesondere im Hinblick auf wissenschaftliche Diskurse und deren Darstellung.
+- **[19:22](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=19m22s)** - **Rede des Bundesumweltministers**: Carsten Schneider (SPD) nimmt Stellung zu aktuellen Entscheidungen und betont die Notwendigkeit langer Linien in der Umwelt- und Klimaschutzpolitik.
+- **[20:48](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=20m48s)** - **Klimaschutz mit klugem Ausgleich**: Es wird betont, dass Klimaschutzpolitik mit einem klugen Ausgleich zwischen ökologischen und ökonomischen Interessen betrieben wird, um gesellschaftliche Polarisierung zu vermeiden.
+- **[22:03](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=22m3s)** - **Aktionsprogramm Natürlicher Klimaschutz**: Das Aktionsprogramm Natürlicher Klimaschutz als eines der größten Programme zur Wiederherstellung der Natur wird hervorgehoben.
+- **[23:02](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=23m2s)** - **Internationale Zusammenarbeit**: Die Bedeutung internationaler Zusammenarbeit für die Umwelt- und Klimaschutzpolitik wird betont.
+- **[24:43](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=24m43s)** - **Hochseeschutzabkommen BBNJ**: Die Ratifizierung des Hochseeschutzabkommens BBNJ als wichtiger Fortschritt im internationalen Umweltschutz wird verkündet.
+- **[25:38](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=25m38s)** - **Roadmap zur Energiewende**: Die deutsche Roadmap zur Abkehr von fossilen Energien und zur Nutzung erneuerbarer Energien wird vorgestellt.
+- **[26:34](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=26m34s)** - **Ausbau von Windenergie**: Der zusätzliche Ausbau von Windenergie an Land wird als Beitrag zur Unabhängigkeit und zur Elektrifizierung genannt.
+- **[27:04](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=27m4s)** - **Gebäudemodernisierung und Wärmepumpen**: Trotz Änderungen am Gebäudemodernisierungsgesetz gibt es Rekordabsätze bei Wärmepumpen.
+- **[27:32](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=27m32s)** - **Elektromobilität**: Die Zahl der Zulassungen von Elektroautos ist so hoch wie nie zuvor, begünstigt durch Förderprogramme für Menschen mit geringerem Einkommen.
+- **[29:22](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=29m22s)** - **Kurzintervention (AfD)**: Dr. Kraft von der AfD fragt nach der Rolle der Kernenergie angesichts internationaler Entwicklungen.
+- **[31:08](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=31m8s)** - **Antwort des Ministers zur Kernenergie**: Der Minister widerspricht der These eines Revivals der Kernenergie und betont den Zuwachs erneuerbarer Energien weltweit.
+- **[33:21](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=33m21s)** - **Kurzintervention (Grüne)**: Dr. Gesenhues dankt dem Minister für seine klare Haltung zur Atomkraft und betont die Bedeutung von Gesetzen zur Stärkung der natürlichen Infrastruktur.
+- **[35:10](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=35m10s)** - **Gesetz zur Stärkung der natürlichen Infrastruktur**: Das Gesetz ist noch nicht kabinettsreif; es wird über Ausgleichsmaßnahmen für Eingriffe in die Natur verhandelt.
+- **[36:51](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=36m51s)** - **Nächster Redner (Die Linke)**: Dr. Fabian Fahl kritisiert die deutsche Klima- und Umweltpolitik als Chronologie des Versagens und fordert radikalen, sozialen Klimaschutz.
+- **[37:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=37m14s)** - **Verstoß gegen Grundgesetz**: Es wird behauptet, dass gegen das Grundgesetz zum Schutz der natürlichen Lebensgrundlagen verstoßen wird.
+- **[37:39](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=37m39s)** - **Kritik an Heizungstausch und 9-Euro-Ticket**: Die Förderung des Heizungstauschs und das 9-Euro-Ticket werden kritisiert.
+- **[38:01](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=38m1s)** - **Kosten von Tankrabatten**: Die Kosten von Tankrabatten werden mit Ausgaben für Klima, Natur und Umwelt verglichen.
+- **[38:23](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=38m23s)** - **Autobahnbau und Kriegseuphorie**: Der Bau von Autobahnen und die Militarisierung werden kritisiert.
+- **[39:44](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=39m44s)** - **Klimaschädliche Subventionen und Fracking-Gas**: Klimaschädliche Subventionen für die Landwirtschaft und die Akzeptanz von Fracking-Gas werden bemängelt.
+- **[41:42](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=41m42s)** - **Nächster Redner (Union)**: Anna Aeikens von der Union spricht über die Messbarkeit von Versagen in der Klimapolitik und die Rolle von Rankings.
+- **[43:35](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=43m35s)** - **Europäischer Emissionshandel (ETS 2)**: Der europäische Emissionshandel für Heizen und Verkehr wird als wichtiger Hebel für die Klimaziele genannt.
+- **[44:51](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=44m51s)** - **Munitionsentsorgung und CO2-Abscheidung**: Projekte zur Entsorgung von Weltkriegsmunition und zur Abscheidung und Speicherung von CO2 werden als wichtige, nicht in Rankings erfasste Maßnahmen genannt.
+- **[46:03](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=46m3s)** - **Abkehr von fossilen Energieträgern**: Der Fahrplan für die Abkehr von fossilen Energieträgern und das europäische Verhandlungsmandat für die Klimakonferenz werden hervorgehoben.
+- **[47:10](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=47m10s)** - **Nächster Redner (AfD)**: Dr. Michael Blos kritisiert die Grünen für ihre Ideologie und deren Umweltauswirkungen.
+- **[48:38](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=48m38s)** - **Bodenschutz und Windkraft**: Die Rodung von Wäldern und die Verdichtung von Waldböden für Windkraftanlagen werden kritisiert.
+- **[49:02](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=49m2s)** - **Auswirkungen auf lokalen Wasserhaushalt**: Es wird auf fehlende, auf Deutschland übertragbare Studien zu den Auswirkungen des Ausbaus erneuerbarer Energien auf den lokalen Landschaftswasserhaushalt verwiesen.
+- **[49:57](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=49m57s)** - **Artenschutz und Windkraft**: Der Schutz von Rotmilanen, Greifvögeln und Fledermäusen im Kontext des Windkraftausbaus wird thematisiert.
+- **[50:27](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=50m27s)** - **Kritik an der Union**: Die Union wird kritisiert, dass sie den links-grünen Kurs fortsetzt.
+- **[50:58](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=50m58s)** - **Kernenergie als Alternative**: Die AfD bietet sich als Alternative für einen Politikwechsel an.
+- **[51:04](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=51m4s)** - **Munitionsaltlasten und Offshore-Windkraft**: Die Bergung von Munitionsaltlasten und der Ausbau der Offshore-Windkraft werden verglichen.
+- **[51:33](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=51m33s)** - **Modellstudie zu Offshore-Windkraft**: Eine Studie des Helmholtz-Zentrums Hereon, die eine Veränderung der Niederschlagsverteilung durch Offshore-Windkraft prognostiziert, wird erwähnt.
+- **[52:01](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=52m1s)** - **Luftreinhaltung und Windkraft**: Mögliche Emissionen von Kunststoffpartikeln durch Rotorblattabrieb werden thematisiert.
+- **[52:46](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=52m46s)** - **Nächster Redner (SPD)**: Jakob Blankenburg von der SPD kontert die Argumente der AfD und spricht über die Akzeptanz von Klimaschutzmaßnahmen durch die Bevölkerung.
+- **[53:55](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=53m55s)** - **Ursprünge der Klimaschutz-Erkenntnisse**: Die Erkenntnisse über den Zusammenhang von fossilen Energien und Klimawandel werden auf das Jahr 1970 und Exxon Mobil zurückgeführt.
+- **[54:51](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=54m51s)** - **Kritik an den Grünen**: Die SPD kritisiert die Grünen für ihre als "Versagen" bezeichnete Politik und betont die Fragen der Bezahlbarkeit und Akzeptanz.
+- **[55:45](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=55m45s)** - **Erneuerbare Energien durch Bürger**: Mehr als 60% des Stroms kommen aus erneuerbaren Energien, die oft von Bürgern erzeugt werden.
+- **[56:03](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=56m3s)** - **Energiewende über den Gartenzaun**: Die Möglichkeit für Nachbarn, Strom zu teilen, wird als "Energiewende über den Gartenzaun" bezeichnet.
+- **[56:06](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=56m6s)** - **Zwischenfrage der Grünen**: Eine Zwischenfrage zu Autobahnbau und Naturzerstörung wird gestellt.
+- **[58:16](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=58m16s)** - **Antwort des SPD-Redners**: Straßenbau und Schienenausbau werden als notwendig für den Transport von Komponenten für erneuerbare Energien betrachtet.
+- **[59:52](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=59m52s)** - **Heizungskeller und Wärmepumpen**: Die Zunahme von Wärmepumpenverkäufen wird als Antwort der Bürger auf hohe Kosten und die Abhängigkeit von fossilen Energien gesehen.
+- **[01:00:26](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h0m26s)** - **Elektroautos und E-Prämie**: Die Zulassungszahlen von Elektroautos und die Inanspruchnahme der E-Prämie durch Menschen mit geringerem Einkommen werden positiv hervorgehoben.
+- **[01:01:49](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h1m49s)** - **Kurzintervention (CDU/CSU)**: Herr Hahn fragt nach den Umweltopfern durch Windkraft.
+- **[01:03:41](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h3m41s)** - **Antwort des SPD-Redners**: Klimaneutralität wird als Verfassungsauftrag und nicht als politische Entscheidung betrachtet.
+- **[01:05:16](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h5m16s)** - **Nächster Redner (Grüne)**: Lisa Badum kritisiert die Klimapolitik in Mecklenburg-Vorpommern und den als zynisch bezeichneten Standpunkt zur europäischen Wettbewerbsfähigkeit.
+- **[01:06:04](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h6m4s)** - **Folgen der Hitze**: Die extremen Folgen der Hitze im Sommer werden geschildert.
+- **[01:07:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h7m14s)** - **Gewinne der Öl- und Gaskonzerne**: Die hohen Gewinne von Öl- und Gaskonzernen werden hervorgehoben.
+- **[01:07:31](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h7m31s)** - **Kritik an Katherina Reiche**: Katherina Reiche wird vorgeworfen, Studien nachträglich bearbeiten zu lassen, um Erneuerbare schlechtzureden.
+- **[01:08:31](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h8m31s)** - **Beispiel Windparkprojekt**: Ein großes Windparkprojekt in Bayern wird als Beispiel für Bürgerenergie und lokale Wertschöpfung genannt.
+- **[01:09:54](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h9m54s)** - **Entscheidung zwischen fossilen Konzernen und lokaler Wertschöpfung**: Es wird die Entscheidung zwischen der Unterstützung fossiler Gaskonzerne und lokaler Wertschöpfung durch Erneuerbare thematisiert.
+- **[01:10:38](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h10m38s)** - **Nächster Redner (Union)**: Klaus Mack betont die Notwendigkeit von Klimaschutz, der mit den Sorgen der Menschen und der wirtschaftlichen Stärke des Landes vereinbar ist.
+- **[01:11:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h11m14s)** - **Ausgestreckte Hand statt erhobener Zeigefinger**: Klimaschutz sollte weniger durch Vorschriften, sondern durch eine ausgestreckte Hand erfolgen.
+- **[01:11:55](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h11m55s)** - **Ziel Klimaneutralität und Industrieland**: Die Koalition steht zum Ziel der Klimaneutralität, will aber auch ein Industrieland bleiben.
+- **[01:12:26](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h12m26s)** - **Innovationen statt Vorschriften**: Es wird auf Innovationen und Investitionen statt auf Verunsicherung gesetzt.
+- **[01:13:16](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h13m16s)** - **Energiewende: Erneuerbare, Netze, Speicher, gesicherte Kraftwerksleistungen**: Die Energiewende erfordert ein Zusammenspiel verschiedener Elemente.
+- **[01:14:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h14m14s)** - **Aufwand und Nutzen im Naturschutz**: Die Notwendigkeit, Aufwand und Nutzen bei Naturschutzprojekten abzuwägen, wird anhand eines Beispiels von Fledermäusen und Schienenverbindungen diskutiert.
+- **[01:15:18](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h15m18s)** - **Kritik an den Grünen (Infrastruktur-Zukunftsgesetz)**: Die Grünen werden kritisiert, gegen das Infrastruktur-Zukunftsgesetz gestimmt zu haben.
+- **[01:16:10](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h16m10s)** - **Kurzintervention (AfD)**: Herr Schmidt fragt erneut nach der Kernkraft als Alternative.
+- **[01:17:49](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h17m49s)** - **Antwort des CDU-Redners**: Die Energiewende mit erneuerbaren Energien ist auf dem Weg, und eine Rückkehr zur Kernkraft wäre ein Rückschritt.
+- **[01:18:37](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h18m37s)** - **Nächster Redner (AfD)**: Dirk Brandes kritisiert die Windpolitik der Grünen und die Auswirkungen auf die deutsche Automobilindustrie.
+- **[01:20:01](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h20m1s)** - **Verbote, Belastungen, Subventionen**: Die Politik der Grünen wird als von Verboten, Belastungen und Subventionen geprägt beschrieben.
+- **[01:21:01](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h21m1s)** - **Abwanderung von Industrie und Emissionen**: Die Verlagerung von Produktion ins Ausland führe nicht zu einer Verringerung der Emissionen, sondern zu einer Verlagerung mit wahrscheinlich höheren Emissionen.
+- **[01:22:20](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h22m20s)** - **Drei Fragen zur Politik**: Wer bestimmt die Regeln? Wer profitiert davon? Warum sollen Bürger Geschäftsmodelle finanzieren, die sich am Markt nicht durchsetzen?
+- **[01:23:17](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h23m17s)** - **Ende der grünen Deutungshoheit**: Die AfD prognostiziert ein Ende der Ära grüner Politik und setzt sich für wirtschaftliche Vernunft ein.
+- **[01:23:43](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h23m43s)** - **Nächster Redner (SPD)**: Esra Limbacher geht auf die Aussagen der AfD ein und kritisiert deren Verharmlosung des Sommers.
+- **[01:25:29](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h25m29s)** - **Hohe Energiepreise und internationale Konflikte**: Die hohen Energiepreise werden auf Kriege und Zölle zurückgeführt, was die AfD-Freunde betrifft.
+- **[01:26:28](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h26m28s)** - **Selbstkritik der Grünen**: Ein wenig Selbstkritik der Grünen wird gefordert, insbesondere angesichts der Kritik am Klimaschutz in Baden-Württemberg.
+- **[01:27:45](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h27m45s)** - **Erfolg des E-Auto-Förderprogramms**: Das E-Auto-Förderprogramm wird als Erfolg hervorgehoben, da es auch von Menschen mit geringem Einkommen genutzt wird.
+- **[01:28:47](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h28m47s)** - **Letzter Redner (Union)**: Hans Koller kritisiert die Spaltung im Parlament und betont die Notwendigkeit, die Klimaveränderung anzuerkennen und gegenzusteuern.
+- **[01:30:14](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h30m14s)** - **Kernenergie als unrealistische Mär**: Der Wiedereinstieg in die Kernenergie wird als unrealistische Mär bezeichnet.
+- **[01:30:30](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h30m30s)** - **Klimaschutzprogramme mit Technologieoffenheit**: Die Bundesregierung holt die Menschen mit Technologieoffenheit und im Dialog mit Wirtschaft und Bürgern ab.
+- **[01:31:31](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h31m31s)** - **Nachhaltigkeit aus der Landwirtschaft**: Die drei Säulen der Nachhaltigkeit (Ökonomie, Ökologie, Soziales) werden betont.
+- **[01:31:56](https://www.youtube.com/watch?v=fi07GZ6NyLI&t=1h31m56s)** - **Ende der Aktuellen Stunde**: Die Debatte wird beendet.
