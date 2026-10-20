@@ -1,4 +1,4 @@
-# Reform der Pflegeversicherung
+# Reform der Langzeitpflegeversicherung
 
 ## Sitzungs-Metadaten
 - **Sitzung:** 102. Sitzung
@@ -8,53 +8,48 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=P53fWTcVNsw)
 
 ## Kurzzusammenfassung
-Die Sitzung befasste sich mit Anträgen der AfD zur Strukturreform der Pflegeversicherung, zur Finanzierung der Pflege und zur Entlastung von Familien sowie mit einer Beschlussempfehlung des Ausschusses für Gesundheit zu einem weiteren AfD-Antrag. Die Debatte spiegelte unterschiedliche Auffassungen zur Finanzierung, zur Rolle von Familien und Kommunen sowie zur Ausbildung von Pflegekräften wider. Während die Oppositionsparteien, insbesondere die AfD, eine grundlegende Umstrukturierung und finanzielle Entlastung forderten, betonten die Regierungsparteien die Notwendigkeit einer stabilen Finanzierung und gezielter Reformen zur Sicherung des Systems.
+In der 102. Sitzung des Deutschen Bundestages am 15. Oktober 2026 fand eine Debatte über die Reform der Langzeitpflegeversicherung statt. Im Mittelpunkt standen zwei Anträge der AfD-Fraktion, die eine strukturelle Reform, eine familienfreundlichere Finanzierung und eine Verbesserung der Arbeitsbedingungen in der Pflege forderten. Die Koalitionsfraktionen und die Oppositionsparteien kritisierten die Anträge der AfD scharf für ihre Widersprüchlichkeit, mangelnde Finanzierungskonzepte und teilweise ausländerfeindliche Rhetorik. Es wurde die Notwendigkeit betont, das Pflegesystem finanziell zu stabilisieren und die Versorgung pflegebedürftiger Menschen sowie die Unterstützung pflegender Angehöriger zu verbessern.
 
 ## Kernaussagen und Positionen der Fraktionen
 - **AfD**:
-  - Forderung nach struktureller Reform der Pflegeversicherung zur Sicherung der Bezahlbarkeit und zur Entlastung von Familien.
-  - Kritik an bisherigen Regierungsbemühungen als unzureichend und rein verwaltend.
-  - Betonung der Notwendigkeit, häusliche Pflege stärker zu unterstützen (finanzielle Entlastung, Kurzzeitpflege, Unterstützung bei eigener Krankheit/Auszeit der Pflegenden).
-  - Verlangt weniger Bürokratie, einfachere Abrechnung und bessere Arbeitsbedingungen für Pflegekräfte, sowie eine praxisnahe Ausbildung getrennt nach Fachrichtungen.
-  - Fordert ehrliche Finanzierung mit stabilen Beiträgen und die Finanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt.
-  - Kritisiert, dass Pflegebedürftigkeit zur Armutsfalle werde und Angehörige sowie Pflegekräfte überfordert seien.
+  - Forderung nach struktureller Reform der Pflegeversicherung, um sie bezahlbar und zukunftssicher zu machen.
+  - Stärkere Unterstützung der häuslichen Pflege durch finanzielle Entlastung und verlässliche Kurzzeitpflege für Angehörige.
+  - Bürokratieabbau, einfachere Abrechnung und bessere Arbeitsbedingungen für Pflegekräfte, sowie eine praxisnahe, getrennte Ausbildung.
+  - Ehrlichkeit bei der Finanzierung, mit stabilen Beiträgen und Finanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt.
+  - Kritik an bisherigen Regierungszeiten von SPD, Union und Grünen für Versäumnisse im Pflegebereich.
 - **CDU/CSU**:
-  - Kritisiert die Anträge der AfD als inkonsistent und mangelhaft in der Finanzierung.
-  - Bemängelt, dass die AfD von einer Finanzierung durch Kommunen übergeht zu deren Überlastung, und dass die Rechnung nur verschoben wird.
-  - Stellt die Lernfähigkeit der AfD in Frage, betont aber einen gewissen Erkenntnisgewinn bezüglich der Komplexität von Pflegepolitik.
-  - Verteidigt die Generalistik in der Pflegeausbildung und kritisiert die AfD für deren Abschaffungsvorschläge.
-  - Betont, dass politische Verantwortung die Analyse von Problemen und das Durchdenken von Konsequenzen erfordert, nicht nur Forderungen.
-  - Verweist auf das Pflegeneuordnungsgesetz zur Stabilisierung des Systems und auf weitere Strukturreformen.
-  - Sieht die Not pflegebedürftiger Menschen nicht als Rohstoff für falsche Versprechen.
+  - Kritik an der AfD für widersprüchliche Anträge und das Fehlen schlüssiger Linien in der Pflegepolitik.
+  - Hervorhebung der politischen Verantwortung, die über das bloße Benennen von Problemen hinausgeht und konsequentes Handeln erfordert.
+  - Bekräftigung des Koalitionsvertrags zur Stabilisierung des Pflegesystems und Vorbereitung auf Strukturreformen.
+  - Ablehnung populistischer Versprechen und Hervorhebung der Ernsthaftigkeit der Finanzierungsprobleme.
 - **Bündnis 90/Die Grünen**:
-  - Hebt die Belastung pflegender Angehöriger hervor und fordert Entlastung, soziale Absicherung und die Gewissheit, dass ein Heimplatz nicht zum Sozialamt führt.
-  - Kritisiert die Anträge der AfD für ihre Widersprüche bei der Rolle von Familien und Kommunen sowie für die Forderung nach Leistungskürzungen bei gleichzeitiger Beitragsstabilisierung.
-  - Positioniert sich für die Begrenzung von Eigenanteilen im Pflegeheim, bessere Absicherung pflegender Angehöriger (Pflegezeit mit Lohnersatz), Stärkung der Pflege vor Ort und eine gerechte Finanzierung, bei der starke Schultern mehr tragen.
-  - Betont, dass gute Pflege eine Frage der Würde ist.
+  - Betonung der Notwendigkeit, pflegende Angehörige, insbesondere Frauen, durch Entlastung, soziale Absicherung und die Gewissheit eines Heimplatzes zu unterstützen.
+  - Kritik an den AfD-Anträgen wegen Widersprüchen und der Ausrichtung auf Leistungskürzungen, Beitragseinfrieren und die Abschaffung von Schutzmaßnahmen für Minderheiten.
+  - Forderung nach verlässlicher Begrenzung von Eigenanteilen im Pflegeheim, besserer Absicherung pflegender Angehöriger und gerechter Finanzierung mit stärkeren Schultern.
 - **SPD**:
-  - Erklärt, dass die Verantwortung für die Versorgung und die Handlungsfähigkeit der Pflegekassen bei den Regierungsparteien liege.
-  - Kritisiert die AfD dafür, bessere Leistungen bei gleichzeitigem Einfrieren von Beiträgen zu fordern und die Finanzierung auf Kommunen abwälzen zu wollen, was die Haushaltslage vieler Städte und Gemeinden nicht zulasse.
-  - Verweist auf bereits zurückgenommene oder geänderte Maßnahmen (Halbierung des Pflegegeldes, Rentenbeiträge, Zuschüsse zu Eigenanteilen, Refinanzierung von Tariflöhnen) im Rahmen der Regierungspolitik.
-  - Betont, dass die Hilfe für Pflegebedürftige und ihre Angehörigen sofort da sein muss und es gelte, funktionierende Angebote zu erhalten und die Selbstbestimmung zu stärken.
-  - Benennt das Finanzierungsproblem als gewaltig und fordert Verantwortung der Länder bei Investitionskosten.
+  - Hervorhebung der Verantwortung der Regierung für die praktische Umsetzung und die Handlungsfähigkeit der Pflegekassen sowie die Stabilität der Beiträge.
+  - Kritik an der AfD für Forderungen nach Leistungserhöhungen bei gleichzeitiger Beitragseinfrierung und der Verlagerung von Finanzierungslasten auf Kommunen.
+  - Aufzählung bereits umgesetzter Maßnahmen zur Stabilisierung, wie die Beibehaltung von Pflegegeld und Rentenbeiträgen für pflegende Angehörige.
+  - Anerkennung des weiterhin bestehenden Finanzierungsproblems und der Notwendigkeit weiterer Anstrengungen.
 - **Die Linke**:
-  - Starke Kritik an den AfD-Anträgen aus Sicht einer Pflegefachkraft, bezeichnet sie als "Hohn" und als Aufforderung, "noch mehr" zu leisten, ohne dies angemessen zu honorieren.
-  - Kritisiert die AfD-Vorschläge zu Steuererleichterungen und privaten Zusatzversicherungen als unzureichend für Menschen mit geringem Einkommen.
-  - Bemängelt die widersprüchlichen Aussagen der AfD zur Rolle von Kommunen und die Sündenbock-Politik gegenüber Gleichstellungs- und Diversitätsstrukturen.
-  - Fordert eine gerechte Finanzierung, die auch hohe Einkommen und Kapitaleinkünfte heranzieht.
-- **FDP**: (Nicht im Transkript vertreten)
-- **BSW**: (Nicht im Transkript vertreten)
-- **Fraktionslos**: (Nicht im Transkript vertreten)
+  - Scharfe Ablehnung der AfD-Vorschläge aus Sicht einer Pflegefachkraft, insbesondere der Forderung nach mehr familiärer Verantwortung ohne ausreichende Unterstützung und der Idee von Steuererleichterungen für Geringverdiener.
+  - Kritik an der Finanzierung durch private Zusatzversicherungen und der Verlagerung von Lasten auf Kommunen.
+  - Kritik an der AfD für das Ausspielen von Unterstützung für Pflegebedürftige gegen den Schutz vor Diskriminierung und das Suchen von Sündenböcken.
+  - Forderung nach Entlastung von Angehörigen und Heranziehung hoher Einkommen und Kapitaleinkünfte zur Finanzierung.
+- **CDU/CSU (zweiter Redebeitrag)**:
+  - Bestätigung der Kritik an den AfD-Anträgen als "wort Hülsen, populistische Phrasen" und "Allround Lösung: Ausländerfeindlichkeit".
+  - Verteidigung der generalistischen Pflegeausbildung und der Bedeutung von Pflegekräften mit ausländischer Staatsangehörigkeit.
+  - Ablehnung der Abschaffung der Akademisierung der Pflege als veraltetes Frauenbild.
+  - Kritik an der Forderung nach Abschaffung der Pflegekammern als Angriff auf die Selbstbestimmung der Profession Pflege.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Sitzung und kündigt die Beratung von Anträgen der AfD zur Pflegeversicherung an.
-- **[00:00:34](https://www.youtube.com/watch?v=P53fWTcVNsw&t=34s)** - **Birgit Bessin (AfD)**: Eröffnet die Aussprache mit Kritik an den bisherigen Regierungen von SPD, Union und Grünen, die in der Pflege versagt hätten. Stellt zwei Anträge der AfD vor, die auf die Unterstützung häuslicher Pflege, Entlastung von Pflegekräften durch Bürokratieabbau und eine ehrliche Finanzierung mit stabilen Beiträgen und Finanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt abzielen.
-- **[00:38:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=38m0s)** - **Dr. Hendrik Streeck (CDU/CSU)**: Kritisiert die Anträge der AfD als inkonsistent und mangelhaft in der Finanzierung. Weist auf Widersprüche in den AfD-Anträgen bezüglich der Rolle der Kommunen und der Pflegeausbildung hin. Betont, dass politische Verantwortung mehr erfordert als nur das Benennen von Problemen und dass die Regierung mit dem Pflegeneuordnungsgesetz das System stabilisiert.
-- **[00:48:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=48m0s)** - **Simone Fischer (Bündnis 90/Die Grünen)**: Beschreibt die Belastung pflegender Angehöriger und fordert Entlastung und soziale Absicherung. Kritisiert die AfD-Anträge für ihre Widersprüche und die Forderung nach Leistungskürzungen. Stellt die grünen Positionen vor: Begrenzung von Eigenanteilen, bessere Absicherung pflegender Angehöriger, Stärkung der Pflege vor Ort und gerechte Finanzierung.
-- **[01:08:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=1h8m0s)** - **Claudia Moll (SPD)**: Erläutert, dass die Verantwortung für die Versorgung bei der Regierung liege. Kritisiert die AfD für ihre Forderungen nach besseren Leistungen bei gleichzeitiger Beitragsstabilisierung und der Abwälzung auf Kommunen. Verweist auf bereits erfolgte Anpassungen der Regierungspolitik und betont die Notwendigkeit funktionierender Angebote und die Stärkung der Selbstbestimmung.
-- **[01:46:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=1h46m0s)** - **Evelyn Schörz (Die Linke)**: Äußert starke Kritik an den AfD-Anträgen aus Sicht einer Pflegefachkraft. Bemängelt die Fokussierung auf Familienleistung, kritisiert Steuererleichterungen und private Zusatzversicherungen als unzureichend und weist auf die Sündenbock-Politik der AfD gegenüber Diversitätsstrukturen hin. Fordert eine gerechte Finanzierung, die auch hohe Einkommen und Kapitaleinkünfte berücksichtigt.
-- **[02:07:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=2h7m0s)** - **Dr. Paul Schmidt (AfD)**: Verweist auf einen Zeitungsartikel, der die Pflegestärkungsgesetze von Union und SPD für die explodierenden Kosten verantwortlich macht. Fordert stabile Beiträge und die Finanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt. Betont die Stärkung häuslicher Pflege und die Befreiung von unnötiger Bürokratie.
-- **[02:37:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=2h37m0s)** - **Emilia Söllner (CDU/CSU)**: Stellt die AfD-Anträge als inhaltlich flach und widersprüchlich dar. Kritisiert die Idee, Kranken- und Pflegeversicherung zusammenzulegen, als unsinnig. Bemängelt die Forderung der AfD nach Abschaffung der Akademisierung der Pflege als Rückschritt und als negatives Frauenbild.
-- **[03:22:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=3h22m0s)** - **Überweisung der Vorlage**: Interfraktionell wird die Überweisung der Vorlage an die zuständigen Ausschüsse vorgeschlagen und angenommen.
-- **[03:37:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=3h37m0s)** - **Abstimmung zu TOP 17b**: Der Ausschuss empfiehlt die Ablehnung des AfD-Antrags. Die Beschlussempfehlung wird mit Stimmen von CDU/CSU, Bündnis 90/Die Grünen, SPD und Die Linke angenommen; die AfD stimmt dagegen.
-- **[03:46:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=3h46m0s)** - **Ergebnis der namentlichen Abstimmung**: Das Ergebnis einer namentlichen Abstimmung zu einem anderen Tagesordnungspunkt (Mission in Südsudan) wird bekannt gegeben.
+- **[00:00:00](https://www.youtube.com/watch?v=P53fWTcVNsw&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Beratung der Anträge der AfD-Fraktion zur Reform der Pflegeversicherung und der Beschlussempfehlung des Gesundheitsausschusses. Birgit Bessin (AfD) eröffnet die Aussprache für ihre Fraktion.
+- **[00:47](https://www.youtube.com/watch?v=P53fWTcVNsw&t=47s)** - **Birgit Bessin (AfD)**: Kritisiert, dass die Regierungsparteien in der Pflege versagt hätten und die Zustände unhaltbar seien. Sie fordert finanzielle Entlastung, verlässliche Kurzzeitpflege und Unterstützung für Angehörige, weniger Bürokratie und bessere Arbeitsbedingungen für Pflegekräfte sowie eine ehrliche Finanzierung mit stabilen Beiträgen.
+- **[05:12](https://www.youtube.com/watch?v=P53fWTcVNsw&t=5m12s)** - **Dr. Hendrik Streeck (CDU/CSU)**: Kritisiert die AfD für inkonsistente und unzureichend finanzierte Anträge und hebt hervor, dass politische Verantwortung über das bloße Problembenennen hinausgeht. Er verweist auf das Pflegeneuordnungsgesetz zur Stabilisierung des Systems.
+- **[09:48](https://www.youtube.com/watch?v=P53fWTcVNsw&t=9m48s)** - **Simone Fischer (Bündnis 90/Die Grünen)**: Beschreibt die Belastung pflegender Angehöriger und fordert Entlastung, soziale Absicherung und die Begrenzung von Eigenanteilen. Sie kritisiert die AfD-Anträge als inkonsistent und auf Leistungskürzungen ausgerichtet.
+- **[14:08](https://www.youtube.com/watch?v=P53fWTcVNsw&t=14m8s)** - **Claudia Moll (SPD)**: Entgegnet der AfD, dass Opposition zwar Forderungen aufstellen könne, die Regierung jedoch die Verantwortung für die Versorgung und die Handlungsfähigkeit der Pflegekassen trage. Sie kritisiert die AfD für die unzureichende Finanzierung und die Verlagerung von Lasten auf Kommunen.
+- **[18:46](https://www.youtube.com/watch?v=P53fWTcVNsw&t=18m46s)** - **Evelyn Schörz (Die Linke)**: Äußert sich empört über die AfD-Vorschläge, die ihrer Meinung nach die pflegenden Angehörigen weiter belasten würden. Sie kritisiert die AfD für die vorgeschlagenen Steuererleichterungen und die Fokussierung auf private Zusatzversicherungen sowie für die Ausspielung von Unterstützung für Pflegebedürftige gegen Minderheitenschutz.
+- **[22:24](https://www.youtube.com/watch?v=P53fWTcVNsw&t=22m24s)** - **Katrin Staffler (CDU/CSU)**: Bezeichnet die AfD-Anträge als populistische Phrasen und kritisiert die ausländerfeindliche Rhetorik. Sie verteidigt die generalistische Pflegeausbildung und die Bedeutung ausländischer Pflegekräfte.
+- **[26:07](https://www.youtube.com/watch?v=P53fWTcVNsw&t=26m7s)** - **Dr. Paul Schmidt (AfD)**: Zitiert einen Zeitungsartikel, der die Pflegestärkungsgesetze der CDU/CSU und SPD für explodierende Pflegekosten verantwortlich macht. Er fordert stabile Beiträge und die Finanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt. Er plädiert für die Stärkung häuslicher Pflege und die Befreiung von Bürokratie.
+- **[29:37](https://www.youtube.com/watch?v=P53fWTcVNsw&t=29m37s)** - **Emilia Söllner (CDU/CSU)**: Kritisiert Dr. Schmidt für widersprüchliche Aussagen zwischen den AfD-Anträgen und dem Redebeitrag. Sie betont die Unterstützung der sozialen Pflegeversicherung und kritisiert die Idee, diese mit der Krankenversicherung zusammenzulegen. Sie verteidigt die Akademisierung der Pflege und die Rolle der Pflegekammern.
+- **[33:22](https://www.youtube.com/watch?v=P53fWTcVNsw&t=33m22s)** - **Sitzungsleitung / Abstimmung**: Die Überweisung der Vorlage wird angenommen. Anschließend wird die Beschlussempfehlung des Gesundheitsausschusses, den Antrag der AfD abzulehnen, mit den Stimmen von CDU/CSU, Bündnis 90/Die Grünen, SPD und Die Linke angenommen. Die namentliche Abstimmung zu einem anderen TOP wird verkündet.

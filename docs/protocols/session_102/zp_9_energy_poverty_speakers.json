@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum Thema Energiearmut am 15. Oktober 2026 offenbarte unterschiedliche Ansätze und Prioritäten der Fraktionen. Während Die Linke auf einen starken staatlichen Eingriff zur Abschaffung von Energiearmut drängte, betonten CDU/CSU und AfD die Notwendigkeit wirtschaftlicher Vernunft und gezielter Hilfen statt pauschaler Verbote. Die SPD unterstützte zwar das Anliegen, kritisierte jedoch die konkrete Ausgestaltung des linken Antrags bezüglich Finanzierung und Umsetzung. Bündnis 90/Die Grünen schlossen sich der Notwendigkeit des Schutzes Schwächerer an und brachten eigene Modelle für Sanierungen ins Spiel. Externe Stellungsnahmen der identifizierten Abgeordneten konnten für die meisten nur sehr begrenzt oder gar nicht gefunden werden, was auf eine starke Fokussierung der externen Kommunikation auf die parlamentarische Arbeit oder auf andere Themen hindeutet.",
+  "sources": [
+    {
+      "name": "Dr. Fabian Fahl",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Dr. Fabian Fahl, als Sprecher für Klimapolitik der Fraktion Die Linke, äußert sich kritisch zu Investitionen in fossile Projekte und betont die ökologischen Schäden, die dadurch entstehen. Er positioniert sich auch gegen CO2-Entfernungstechnologien und Atomtransporte, was auf eine breitere klimapolitische Agenda hindeutet, die auch soziale Aspekte wie Energiearmut einschließt.",
+      "source_title": "Energie - Dr. Fabian Fahl",
+      "url": "https://fabian-fahl.de/tag/energie",
+      "platform": "Website"
+    },
+    {
+      "name": "Erik Bodin",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Hans-Jürgen Gossner",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dunja Kreiser, Mitglied des Deutschen Bundestages, hat sich auch außerhalb des Plenums mit Themen wie Energieeffizienz und Preisstabilität auseinandergesetzt. Ihre Arbeit als direkt gewählte Abgeordnete und ihre Mitgliedschaften in verschiedenen Ausschüssen, darunter der Ausschuss für Inneres und Heimat sowie der Wirtschaftsausschuss, deuten auf eine breite politische Agenda hin, die auch soziale Aspekte wie Energiearmut berühren kann.",
+      "source_title": "Sie hat gelernt, zu klären: Dunja Kreiser",
+      "url": "https://www.das-parlament.de/panorama/personalia/sie-hat-gelernt-zu-klaeren-dunja-kreiser",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lisa Badum",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Lisa Badum engagiert sich seit vielen Jahren für Klimaschutz und soziale Gerechtigkeit, wobei sie die Untrennbarkeit dieser beiden Bereiche betont. Sie setzt sich für einen schnellen Ausbau erneuerbarer Energien, eine gerechte Wärmewende und gute Mobilität für alle ein, mit dem Ziel, dass niemand zurückgelassen wird. Als Sprecherin für Klimapolitik ihrer Fraktion und Leiterin der Koordinations-AG Klima im Deutschen Bundestag zeigt sie eine klare Fokussierung auf diese Themen, die auch Aspekte der Energiearmut einschließen.",
+      "source_title": "Menschenrechte und Sicherheit - SSOAR: Social Science Open",
+      "url": "https://www.ssoar.info/ssoar/bitstream/document/100245/1/100245_1.pdf",
+      "platform": "Website"
+    },
+    {
+      "name": "Hans Koller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Thomas Stefan",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

@@ -1,5 +1,18 @@
 [
   {
+    "id": "EhBwEj1XfFk",
+    "title": "102nd Session on 10/15/2026. Agenda Item ZP 9: Energy Poverty",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "ZP 9",
+    "topic": "Energiearmut",
+    "summary_path": "protocols/session_102/zp_9_energy_poverty.md",
+    "documents_path": "protocols/session_102/zp_9_energy_poverty_documents.json",
+    "speakers_path": "protocols/session_102/zp_9_energy_poverty_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=EhBwEj1XfFk",
+    "processed_at": "2026-10-20T08:03:51.852677"
+  },
+  {
     "id": "b2vNfkiwdC0",
     "title": "102nd Session on 10/15/2026. Agenda Item 8: Emergency Care Reform",
     "session": 102,
@@ -24,6 +37,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=JcXIyGe5TN0",
     "processed_at": "2026-10-19T08:05:39.697879"
+  },
+  {
+    "id": "P53fWTcVNsw",
+    "title": "102nd Session on 10/15/2026. Agenda Item 17: Reform of Long-Term Care Insurance",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "17",
+    "topic": "Reform der Langzeitpflegeversicherung",
+    "summary_path": "protocols/session_102/17_reform_of_long_term_care_insurance.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=P53fWTcVNsw",
+    "processed_at": "2026-10-20T08:01:09.384559"
+  },
+  {
+    "id": "QJcPo07k-Z4",
+    "title": "102nd Session on 10/15/2026. Agenda Item 13: Digital Identity Act",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "13",
+    "topic": "Gesetz zur Einführung der Europäischen digitalen Identität",
+    "summary_path": "protocols/session_102/13_digital_identity_act.md",
+    "documents_path": "protocols/session_102/13_digital_identity_act_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=QJcPo07k-Z4",
+    "processed_at": "2026-10-20T08:04:58.661934"
   },
   {
     "id": "UlYFOex6Bco",
@@ -3662,6 +3701,32 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "CAD6QMgcJuA",
+    "title": "102nd Session of 10/15/2026. Agenda Item 8: Urgent Debate: Espionage, Sabotage, Hybrid Attacks – ...",
+    "session": 102,
+    "date": "N/A",
+    "top": "8",
+    "topic": "Spionage, Sabotage, hybride Angriffe – Deutschlands Abwehr und Resilienz stärken",
+    "summary_path": "protocols/session_102/8_102nd_session_of_10_15_2026_agenda_item_8_urgent_d.md",
+    "documents_path": "protocols/session_102/8_102nd_session_of_10_15_2026_agenda_item_8_urgent_d_documents.json",
+    "speakers_path": "protocols/session_102/8_102nd_session_of_10_15_2026_agenda_item_8_urgent_d_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=CAD6QMgcJuA",
+    "processed_at": "2026-10-20T08:05:41.465734"
+  },
+  {
+    "id": "7D4C6BBooUM",
+    "title": "102nd Session of 10/15/2026. Agenda Item 14: Energy Policy, Security of Supply",
+    "session": 102,
+    "date": "N/A",
+    "top": "14",
+    "topic": "Energiepolitik, Versorgungssicherheit",
+    "summary_path": "protocols/session_102/14_102nd_session_of_10_15_2026_agenda_item_14_energy_.md",
+    "documents_path": "protocols/session_102/14_102nd_session_of_10_15_2026_agenda_item_14_energy__documents.json",
+    "speakers_path": "protocols/session_102/14_102nd_session_of_10_15_2026_agenda_item_14_energy__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=7D4C6BBooUM",
+    "processed_at": "2026-10-20T08:04:35.893107"
   },
   {
     "id": "fe3XXpZJsSw",

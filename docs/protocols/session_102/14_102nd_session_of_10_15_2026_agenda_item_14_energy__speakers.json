@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte um Energiepolitik und Versorgungssicherheit im Bundestag offenbarte deutliche Gräben zwischen den Fraktionen. Während die AfD eine Kehrtwende hin zu Kohle und Kernkraft sowie günstigerem Gas aus Russland fordert, betonen die Grünen und die SPD den Ausbau erneuerbarer Energien und die Notwendigkeit klimaneutraler Lösungen. Die CDU/CSU plädiert für eine ausgewogene Strategie mit Speichern und Brückentechnologien, wobei die Finanzierung von Energiereserven kontrovers diskutiert wird. Externe Aussagen der Abgeordneten spiegeln diese Positionen wider, mit Schwerpunkten auf Versorgungssicherheit, bezahlbaren Preisen und der Abhängigkeit von externen Energiequellen.",
+  "sources": [
+    {
+      "name": "Reimund Scheerich",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die niedrigen Speicherstände und die späte Reaktion der Regierung, fordert eine strategische Gasreserve aus dem Bundeshaushalt und einen Wiedereinstieg in die Kernenergie. Er betont die Notwendigkeit von bezahlbarer und sicherer Energieversorgung sowie den Import von günstigem russischen Gas und die Legalisierung von Kernenergie. Scheerich sieht die Abhängigkeit von Gas als kritisch für die industrielle Produktion.",
+      "source_title": "Energiepolitik, Versorgungssicherheit (Protokoll der 102. Sitzung)",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Dr. Andreas Lenz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Notwendigkeit von Gasspeichern für die Versorgungssicherheit und die Reduzierung von Abhängigkeiten. Er befürwortet die Einführung einer strategischen Gasreserve, deren Finanzierung primär über Umlagen erfolgen soll, und hebt die Bedeutung von heimischen Erdgasvorkommen und die Nutzung von Biomethan hervor. Lenz kritisiert, dass die Union für eine realistische, nachhaltige, planbare und bezahlbare Energieversorgung steht.",
+      "source_title": "Versorgungssicherheit stärken – Zukunft der Biomasse sichern! / Gegen Energieversorgungsnotstand technologieoffen vorgehen",
+      "url": "https://www.csu-landesgruppe.de/themen/wirtschaft-und-energie-verkehr-bildung-und-forschung/andreas-lenz-versorgungssicherheit-staerken-zukunft-der-biomasse-sichern",
+      "platform": "Website"
+    },
+    {
+      "name": "Michael Kellner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Greift die AfD scharf an und wirft ihr Landesverrat vor, da sie russisches Gas zurückhaben wolle. Er kritisiert die AfD dafür, die Politik von Trump zu unterstützen, die Deutschland erpresst. Kellner befürwortet die Gasreserve und deren Finanzierung als Umlage und fordert eine Übergewinnsteuer. Er betont auch die Wichtigkeit der Speicherung von Energie und kritisiert die Energiepolitik der Regierung als unzureichend für die Klimaziele.",
+      "source_title": "Energiepolitik, Versorgungssicherheit (Protokoll der 102. Sitzung) / Gasspeicher: Grüne fordern Gasgipfel wegen niedriger Speicherstände",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/gasspeicher-fuellstaende-gruene-michael-kellner-fluessiggas-gxe",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Mahmut Özdemir",
+      "party": "SPD",
+      "found": true,
+      "statement": "Kritisiert die AfD für ihre Widersprüchlichkeit und rückwärtsgewandte Politik und betont die Notwendigkeit, klimaneutral zu werden. Er hebt die Verbreitung von Wärmepumpen und PV-Anlagen hervor und fordert die AfD auf zu erklären, wer sie finanziere. Özdemir kritisiert auch die Energiepolitik der AfD als Angstpolitik und eine Rückkehr zur fossilen Abhängigkeit.",
+      "source_title": "Energiepolitik, Versorgungssicherheit (Protokoll der 102. Sitzung) / AfD-Fraktion fordert realistische Energiepolitik, um Versorgungssicherheit zu gewährleisten",
+      "url": "https://www.oezdemir-fuer-duisburg.de/2026/10/16/afd-antrag-zur-energieversorgung/",
+      "platform": "Website"
+    },
+    {
+      "name": "Lorenz Göster Beutin",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Kritisiert die AfD für ihre Pläne zu Kohle, Gas und Atomkraft, die das Leben teurer machten und Lebensgrundlagen zerstörten. Er wirft der Wirtschaftsministerin vor, das Programm der AfD in Teilen umzusetzen und plädiert für den Ausbau erneuerbarer Energien und eine Politik, die Klima, Geldbeutel und Unabhängigkeit diene. Beutin fordert eine planbare Politik und den gesetzlichen Kohleausstieg.",
+      "source_title": "Energiepolitik, Versorgungssicherheit (Protokoll der 102. Sitzung) / Energie ist Daseinsvorsorge – keine Ware",
+      "url": "https://www.neueenergie.net/artikel/menschen/interviews/energie-ist-daseinsvorsorge",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Saskia Ludwig",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Bedeutung der Versorgungssicherheit für die Industrie und den Wohlstand. Sie kritisiert die Anträge der Opposition als flächendeckende staatliche Bewirtschaftung und verweist auf den Referentenentwurf zur strategischen Gasreserve. Ludwig setzt sich für eine realistische, nachhaltige, planbare und bezahlbare Energieversorgung ein und unterstützt die Nutzung von industrieller Abwärme zur Wärmeversorgung.",
+      "source_title": "Energiepolitik, Versorgungssicherheit (Protokoll der 102. Sitzung) / Gegen Energieversorgungsnotstand technologieoffen vorgehen",
+      "url": "https://cdu-fraktion-brandenburg.de/presse/lokal/130/Gegen-Energieversorgungsnotstand-technologieoffen-vorgehen-.html",
+      "platform": "Website"
+    },
+    {
+      "name": "Adam Balken",
+      "party": "AfD",
+      "found": true,
+      "statement": "Fordert die Reaktivierung von Kohlekraftwerken und einen Ausstieg aus dem Kohleausstieg zur Gewährleistung der Versorgungssicherheit. Er plädiert für den Import von günstigem Gas aus Russland und die Legalisierung von Strom aus Kernenergie, um Strompreise zu senken und Gas zu schonen. Balken argumentiert, dass 87% der industriellen Produktion von Gas als Vorprodukt abhänge und ein Ausfall katastrophale Folgen hätte.",
+      "source_title": "Energiepolitik, Versorgungssicherheit (Protokoll der 102. Sitzung)",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    }
+  ]
+}

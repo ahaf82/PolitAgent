@@ -1,0 +1,41 @@
+{
+  "synthesis": "Die Abgeordneten Marc Henrichmann (CDU/CSU), Sebastian Fiedler (SPD), Dr. Irene Mihalic (Bündnis 90/Die Grünen) und Dr. Amira Mohamed Ali (Die Linke/BSW) haben sich in und außerhalb des Bundestages intensiv mit den Themen Spionage, Sabotage und hybride Angriffe auseinandergesetzt. Henrichmann und Fiedler betonten die gestiegene Bedrohungslage, insbesondere durch Russland, und forderten robustere Gegenmaßnahmen und eine Stärkung der Sicherheitsbehörden. Dr. Mihalic hob die Notwendigkeit hervor, auch den 'Angriff auf die Köpfe' – also Desinformationskampagnen – zu bekämpfen und kritisierte die AfD. Dr. Mohamed Ali erkannte die Bedrohungen an, mahnte jedoch, dass 'Resilienz' allein keine Sicherheit schaffe und forderte konkrete Standards und Mittel für Unternehmen und Kommunen, während sie gleichzeitig vor vermehrter Überwachung warnte.",
+  "sources": [
+    {
+      "name": "Marc Henrichmann",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Marc Henrichmann betonte die Verschärfung der sicherheitspolitischen Lage und forderte robuste Maßnahmen gegen 'Feinde unserer Demokratie'. Er verwies auf die Notwendigkeit, die Abwehrbefugnisse der Nachrichtendienste zu stärken und Deutschland widerstandsfähiger zu machen. Henrichmann warb für ein starkes nationales Selbstbewusstsein und sieht die Koalition auf gutem Wege.",
+      "source_title": "Hybride Attacken: Deutschland muss Schutzlücken schließen | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/aktuelles/hybride-attacken-deutschland-muss-schutzluecken-schliessen",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sebastian Fiedler erklärte, dass die Lage bezüglich der hybriden Kriegsführung Russlands ernst sei und es Zeit werde, dass Putin spüre, dass seine Aggressionen Konsequenzen haben. Er nannte die AfD den 'verlängerten Arm Putins' und forderte Maßnahmen gegen das Treiben russischer Schattenflotten.",
+      "source_title": "Nach neuer Welle hybrider Angriffe: Innenpolitiker fordern Konsequenzen für Russland - RND",
+      "url": "https://regionalheute.de/innenpolitiker-fordern-konsequenzen-fuer-russland-1787494922/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Irene Mihalic betonte die reale Bedrohung durch Spionage, Sabotage und hybride Angriffe und hob hervor, dass Russland nicht nur Infrastruktur, sondern auch Vertrauen sabotiere. Sie kritisierte die AfD scharf und forderte, dass auch der 'Angriff auf die Köpfe' bekämpft werden müsse.",
+      "source_title": "Spionage, Sabotage, hybride Angriffe – Deutschlands Abwehr und Resilienz stärken",
+      "url": "https://irene-mihalic.de/medien/videos/spionage-sabotage-hybride-angriffe-deutschlands-abwehr-und-resilienz-staerken/",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Amira Mohamed Ali",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Dr. Amira Mohamed Ali nahm die Bedrohungen durch Spionage und Sabotage ernst, betonte jedoch, dass 'Resilienz' allein keine Sicherheit schaffe und Unternehmen sowie Kommunen Standards und Mittel benötigten. Sie warnte zudem vor vermehrter Überwachung und Eingriffen in Grundrechte.",
+      "source_title": "Spionage, Sabotage, hybride Angriffe – Deutschlands Abwehr und Resilienz stärken",
+      "url": "https://dip.bundestag.de/vorgang/spionage-sabotage-hybride-angriffe-deutschlands-abwehr-und-resilienz-st%C3%A4rken/340516",
+      "platform": "Presse"
+    }
+  ]
+}
