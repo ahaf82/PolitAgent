@@ -1,0 +1,151 @@
+# 103. Sitzung des Bundestages – Debatten zu Frührente, Pflege und Verkehr
+
+## Sitzungs-Metadaten
+- **Sitzung:** 103. Sitzung
+- **Datum:** 2026-10-16
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** 103. Sitzung des Bundestages – LIVE
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=Iuvo6lyIwWg)
+
+## Kurzzusammenfassung
+In der 103. Sitzung des Deutschen Bundestages am 16. Oktober 2026 wurde die Einführung einer "Frühstartrente" zur Altersvorsorge für Kinder debattiert. Des Weiteren standen Anträge zur Zukunft der Pflegeversicherung und zum Bürokratieabbau im Verkehrssektor im Fokus. Die Sitzung endete mit der Beratung eines Antrags zum Schutz der Biodiversität und zur Modernisierung des Schiedsverfahrensrechts.
+
+## Kernaussagen und Positionen der Fraktionen
+
+- **SPD**:
+  - Die Frühstartrente sei ein historischer Beschluss zur Modernisierung der Altersvorsorge, der vielen helfen und eine vernünftige Altersvorsorge fördern werde.
+  - Die Koalition funktioniere, wie die gemeinsame Umsetzung der Frühstartrente zeige.
+  - Die Frühstartrente sei ein Baustein der Finanzbildungsstrategie und fördere das Verständnis für Kapitalmärkte.
+  - Die Koalition habe bereits bedeutende Reformen in der Altersvorsorge umgesetzt und liefere Ergebnisse.
+  - Es wurde auf die Wichtigkeit der Prävention und der frühzeitigen Einbeziehung in die Altersvorsorge hingewiesen.
+  - Die Einführung der Frühstartrente sei ein erster Schritt zu einer lebensbegleitenden Altersvorsorge und trage zur Generationengerechtigkeit bei.
+  - Es sei wichtig, die Rentenversicherung zukunftsfest zu gestalten und auf Prävention statt reine Finanzierung von Pflegebedürftigkeit zu setzen.
+  - Die Regierung liefere Reformschritte in der Altersvorsorge und Rente.
+
+- **AfD**:
+  - Die Rentenreform der Koalition sei unzureichend und eine schlechte Nachricht für die junge Generation.
+  - Das Junior Spardepot der AfD biete eine bessere und langfristig ausgerichtete kapitalgedeckte Ergänzung der gesetzlichen Rente.
+  - Die Frühstartrente der Koalition sei weder früh noch Rente und werde ohne eigene Einzahlung der Eltern nicht funktionieren.
+  - Die AfD kritisiert, dass linke und grüne Parteien die Vorstellung privater Vermögensbildung ablehnen.
+  - Die AfD setze auf Aufbruch und Eigenverantwortung und lehne einen "Bildungsplanspiel" zugunsten einer soliden Altersversorgung ab.
+  - Die Frühstartrente sei ein "Ungerechtigkeitsbarometer" und campe mit dem Junior Spardepot einen substanziellen Kapitalstock.
+  - Die AfD lehnt den Gesetzentwurf zur Frühstartrente ab und kritisiert das Verfehlern der Regierung beim Bürokratieabbau.
+  - Die AfD fordert eine Neuausrichtung der Rentenpolitik, eine Stärkung der Eigenverantwortung und einen Abbau der Bürokratie durch EU-Austritt und Streichung von Abgaben wie CO2-Preis und THG-Quote.
+  - Die AfD lehnt die Privilegierung der Elektromobilität ab und fordert Technologieoffenheit.
+  - Die AfD wirft der Regierung vor, an den falschen Stellen zu sparen und die Zukunft der Kinder zu gefährden.
+
+- **CDU/CSU**:
+  - Die Schaffung der gesetzlichen Grundlage für die Frühstartrente sei ein historischer Erfolg und ein zentrales Vorhaben der Koalition.
+  - Die Koalition funktioniere und liefere Ergebnisse, wie die gemeinsame Umsetzung der Frühstartrente zeige.
+  - Die Frühstartrente sei ein wichtiger Baustein der Altersvorsorgereform, der eine Vernetzung zwischen privater Altersvorsorge und Frühstartrente schaffe.
+  - Die Koalition werde weitere Bausteine zur Altersvorsorge liefern.
+  - Die Frühstartrente schaffe den Einstieg in die kapitalgedeckte private Altersvorsorge und stärke die finanzielle Bildung.
+  - Es wurde die Bedeutung des Zinseszinseffekts und der Langfristigkeit betont.
+  - Die Frühstartrente sei ein wichtiges Signal zur Stärkung des Standorts Deutschland und eine Win-Win-Situation.
+  - Die Koalition habe durch die Frühstartrente einen wichtigen Beitrag zur Generationengerechtigkeit geleistet.
+  - Das Pflegeneuordnungsgesetz ziele auf eine verantwortungsvolle Stabilisierung der sozialen Pflegeversicherung ab.
+  - Prävention und Rehabilitation sollen gestärkt werden, um Pflegebedürftigkeit hinauszuzögern.
+  - Die CDU/CSU will eine kontinuierliche Stabilisierung und Reform der Pflegeversicherung.
+  - Der Bürokratieabbau im Verkehrssektor sei eine zentrale Aufgabe der Koalition und ein wichtiger Beitrag zur Stärkung des Standorts Deutschland.
+  - Deutschland übernehme internationale Verantwortung im Naturschutz, was auch durch den Schutz des Regenwaldes gezeigt werde.
+  - Es wurde die Wichtigkeit eines ausgewogenen Naturschutzes betont, der auch die Belange von Land- und Forstwirtschaft berücksichtige.
+  - Die Modernisierung des Schiedsverfahrensrechts sei wichtig für die internationale Wettbewerbsfähigkeit und den Rechtsstandort Deutschland.
+
+- **Bündnis 90/Die Grünen**:
+  - Die Frühstartrente hätte zu mehr Chancengleichheit beitragen können, aber die Koalition habe Schwachstellen nicht behoben, wodurch sie eine "Kröcke" bleibe.
+  - Die Grünen lehnen den Gesetzentwurf ab, da er Finanzlobbyismus in der Finanzbildung legitimiere und kritisieren den "harten Cut" beim Jahrgang 2020.
+  - Die Grünen fordern eine echte Chancengleichheit, die nicht vom Geldbeutel der Eltern abhänge, und lehnen die Frühstartrente ab.
+  - Es wurde die Bedeutung des öffentlichen Standarddepots betont und die Regierung aufgefordert, es unverzüglich an den Start zu bringen.
+  - Die Grünen lehnen die Frühstartrente ab und werben für ihren Entschließungsantrag, der mehr Chancengleichheit für alle Kinder gewährleisten soll.
+  - Die Grünen kritisieren die Einschränkung der Verhinderungspflege und fordern eine bessere Finanzierung und mehr Unterstützung für pflegende Angehörige.
+  - Die Grünen wollen die Rentenbeiträge für pflegende Angehörige dauerhaft aus dem Bundeshaushalt finanzieren und betonen die Notwendigkeit von Prävention und Reha.
+  - Der Gesetzentwurf zum Bürokratieabbau im Verkehrssektor geht nicht weit genug und die Grüne haben über 100 Vorschläge für Entbürokratisierung im Bahnbereich gesammelt.
+  - Die Grünen fordern eine neue verbindliche Frist für vollumfängliche Barrierefreiheit im Nahverkehr und mehr Geld vom Bund.
+  - Der Antrag zum Schutz der Biodiversität wurde abgelehnt, da er nicht ausreichend Finanzierungsmittel vorsieht und auf Marktanreize statt Schutzflächen setze.
+  - Die Grünen betonen die dringende Notwendigkeit des Schutzes der Biodiversität und fordern eine konsequente Umsetzung internationaler Ziele und zusätzliche Maßnahmen.
+
+- **Die Linke**:
+  - Die Frühstartrente sorge nicht für Chancengleichheit, da wohlhabende Eltern durch zusätzliche Einzahlungen ihre Kinder benachteiligen könnten.
+  - Die Linke kritisiert die Kürzungen bei Elterngeld, Unterhaltsvorschuss und Kinderzuschlag und fordert Investitionen in Kitas und Sozialarbeit.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen eine stärkere gesetzliche Rente und sofortige Armutsbekämpfung.
+  - Die Linke lehnt die Frühstartrente ab und fordert eine gerechte Finanzierung durch höhere Einkommen und Kapitalerträge.
+  - Die Linke lehnt die Frühstartrente ab, da sie die Ungleichheit verschärfe und die Kinder zu Kunden für Finanzunternehmen mache.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen mehr Investitionen in eine gesetzliche Rente, die vor Armut schützt und die sofortige Armutsbekämpfung.
+  - Die Linke fordert eine Pflegevollversicherung, die von allen getragen wird, sowie bessere Löhne und Arbeitsbedingungen in der Pflege.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen eine gerechte Finanzierung, die die Armut wirksam bekämpft.
+  - Die Linke lehnt die Frühstartrente ab und fordert, dass Kinder und ihre Familien jetzt aus der Armut geholt werden.
+  - Die Linke lehnt die Frühstartrente ab und fordert eine gerechte Finanzierung durch höhere Einkommen, die Stärkung der gesetzlichen Rente und die sofortige Armutsbekämpfung.
+  - Die Linke lehnt das Pflegeneuordnungsgesetz ab und kritisiert die Streichung des Entlastungsbeitrags für Pflegegrad 1 sowie die Anhebung der Schwellenwerte für die Anerkennung von Pflegebedürftigkeit.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen eine Stärkung der gesetzlichen Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke lehnt die Frühstartrente ab und fordert eine gerechte Finanzierung, eine Stärkung der gesetzlichen Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke lehnt die Frühstartrente ab und fordert eine gerechte Finanzierung, eine Stärkung der gesetzlichen Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke kritisiert, dass die Regierung durch Bürokratieabbau im Verkehrssektor die Barrierefreiheit einschränke und fordert eine neue Frist für vollumfängliche Barrierefreiheit.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen eine gerechte Finanzierung, eine Stärkung der gesetzlichen Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen eine gerechte Finanzierung, eine Stärkung der gesetzlichen Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke kritisiert die Frühstartrente als ungerecht und fordert stattdessen Investitionen in die gesetzliche Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke fordert eine Pflegevollversicherung, bei der hohe Einkommen stärker beteiligt werden und Kapital- und Mieteinkünfte mitzählen.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen eine gerechte Finanzierung, eine Stärkung der gesetzlichen Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke lehnt die Frühstartrente ab und fordert stattdessen eine gerechte Finanzierung, eine Stärkung der gesetzlichen Rente und Maßnahmen zur Armutsbekämpfung.
+  - Die Linke kritisiert die Regierung für ihre Politik im Bereich Biodiversität und fordert zusätzliche Finanzierungsmittel und klare Prioritäten.
+  - Die Linke kritisiert die Frühstartrente als ungerecht und fordert stattdessen Investitionen in die gesetzliche Rente und Maßnahmen zur Armutsbekämpfung.
+
+## Chronologischer Debattenverlauf
+- **[00:31:16](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=31m16s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet, die Tagesordnungspunkte 32a und 32b zur Frühstartrente und Anträgen der AfD und Linken zur Rente werden aufgerufen.
+- **[00:32:16](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=32m16s)** - **Michael Thews (SPD)**: Eröffnet die Debatte und lobt die Frühstartrente als historischen Beschluss zur Modernisierung der Altersvorsorge. Er erläutert die Förderung von 10 Euro pro Kind, die Auswirkungen des Zinseszinseffekts und die Vorteile des Standarddepots mit Kostendeckel.
+- **[00:38:45](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=38m45s)** - **Ulrike Schielke-Ziesing (AfD)**: Kritisiert die Frühstartrente als unzureichend und weit hinter den eigenen Vorschlägen der AfD zurückbleibend. Sie bemängelt, dass die Förderung zu gering sei und nicht zu einem signifikanten Vermögensaufbau führe.
+- **[00:43:08](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=43m08s)** - **Fritz Güntzler (CDU/CSU)**: Betont die erfolgreiche Kooperation von CDU/CSU und SPD bei der Frühstartrente und der Altersvorsorgereform. Er hebt die Bedeutung der Vernetzung zwischen privater Altersvorsorge und Frühstartrente hervor.
+- **[00:48:45](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=48m45s)** - **Stefan Schmidt (Bündnis 90/Die Grünen)**: Kritisiert die Frühstartrente als "Kröcke", die finanzielle Wissenslücken und soziale Ungleichheit zementiere. Er bemängelt, dass private Anbieter in die Finanzbildung einbezogen werden und lehnt die Ausgestaltung der kollektiven Anlage ab.
+- **[00:58:52](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=58m52s)** - **Sara Vollath (Die Linke)**: Spricht aus ihrer Erfahrung als Leiterin einer Einrichtung mit Grundschulkindern und kritisiert die Frühstartrente als ungerecht. Sie betont, dass das Einkommen der Eltern über die Chancen der Kinder entscheide und fordert stattdessen Investitionen in Kitas und den Sozialstaat.
+- **[01:02:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h2m05s)** - **Frauke Heiligenstadt (SPD)**: Wehrt sich gegen die Kritik der Grünen und Linken und verteidigt die Frühstartrente als Chancengleichheit für alle Kinder. Sie betont die bereits erzielten Fortschritte der Koalition in der Rentenpolitik.
+- **[01:08:26](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h8m26s)** - **Iris Nieland (AfD)**: Kritisiert, dass der Gesetzentwurf zu viele Ziele gleichzeitig verfolge und die Schwächen des Systems gravierend seien. Sie betont die Notwendigkeit eines klaren Fokus auf den langfristigen Vermögensaufbau.
+- **[01:12:37](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h12m37s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Hebt die Modernisierung der privaten Altersvorsorge und die Einführung der Frühstartrente als wichtige Reformvorhaben der Koalition hervor. Er betont die Bedeutung des frühen Einstiegs in die kapitalgedeckte Altersvorsorge und die Stärkung der finanziellen Bildung.
+- **[01:18:11](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h18m11s)** - **Isabel Wandler (Die Linke)**: Kritisiert die Frühstartrente als Subventionierung von Ungerechtigkeit und fordert, dass das Geld stattdessen in die gesetzliche Rente und die Armutsbekämpfung investiert werden solle.
+- **[01:21:33](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h21m33s)** - **Dr. Stefan Kowba (CDU/CSU)**: Betont die Bedeutung des richtigen Umgangs mit Geld und die Lücken in der finanziellen Bildung. Er lobt die Frühstartrente als wichtigen Baustein für finanzielle Bildung und Chancengerechtigkeit.
+- **[01:26:07](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h26m7s)** - **Torben Braga (AfD)**: Hebt die positiven Korrekturen im Gesetzentwurf hervor, kritisiert aber weiterhin die geringe Förderhöhe und den Stichtag. Er betont die Notwendigkeit einer höheren Förderung und eines klaren Fokus auf Vermögensaufbau.
+- **[01:29:59](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h29m59s)** - **Sören Pellmann (Die Linke)**: Kritisiert die Regierung für ihre Politik im Bereich der Pflegeversicherung und fordert eine sofortige Beantragung von Pflegegraden nach alten Regelungen.
+- **[01:45:15](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h45m15s)** - **Axel Müller (CDU/CSU)**: Beschreibt die Entwicklung der Pflegeversicherung und die Herausforderungen durch die demografische Entwicklung. Er lehnt einen Systemwechsel ab und betont die Notwendigkeit einer verantwortungsvollen Stabilisierung.
+- **[01:50:48](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h50m48s)** - **Tobias Ebenberger (AfD)**: Kritisiert die Regierung für Leistungskürzungen und mangelnde Unterstützung für pflegende Angehörige. Er fordert eine andere Ausbildungsform in der Pflege und eine Entlastung der Beitragssätze.
+- **[01:56:18](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=1h56m18s)** - **Claudia Moll (SPD)**: Stimmt der Notwendigkeit von Maßnahmen zur Sicherung der Pflegeversicherung zu, lehnt aber die Vorschläge der Linken ab. Sie betont die Notwendigkeit, Pflegebedürftige finanziell zu entlasten und gleichzeitig die Bezahlbarkeit der Versicherung zu gewährleisten.
+- **[02:03:00](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h3m0s)** - **Simone Fischer (Bündnis 90/Die Grünen)**: Betont die Notwendigkeit von Verlässlichkeit und Unterstützung für pflegende Angehörige. Sie kritisiert die Einschränkung der Verhinderungspflege und fordert eine stärkere finanzielle Beteiligung der Bürger an der Pflegeversicherung.
+- **[02:08:32](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h8m32s)** - **Dr. Hendrik Streeck (CDU/CSU)**: Hebt die Bedeutung der Prävention und Früherkennung von Pflegebedürftigkeit hervor. Er betont die Notwendigkeit, das Pflegesystem langfristig zu stabilisieren und die Lebensqualität der Betroffenen zu erhalten.
+- **[02:14:01](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h14m1s)** - **Nicole Hester (AfD)**: Kritisiert die "Neuordnung" der Pflege als Leistungskürzungen und beklagt die zusätzlichen Belastungen für pflegende Angehörige. Sie fordert eine Vereinfachung der Verfahren und eine Stärkung der Familienarbeit.
+- **[02:19:19](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h19m19s)** - **Seder Yüksel (SPD)**: Betont die Wichtigkeit der Pflegeversicherung als fünfte Säule des Sozialstaates und die Notwendigkeit, sie zukunftsfest aufzustellen. Er hebt die Bedeutung von Prävention und Reha hervor.
+- **[02:27:12](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h27m12s)** - **Mich Pa Khan (Bündnis 90/Die Grünen)**: Schildert eine beispielhafte Pflegesituation und kritisiert die Einschränkung der Verhinderungspflege. Sie fordert eine feinfühlige und weitsichtige Pflegereform.
+- **[02:30:00](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h30m0s)** - **Evelyn Schätz (Die Linke)**: Kritisiert die Regierung für ihre Sparpolitik im Bereich der Pflege und fordert eine gerechte Finanzierung, die höhere Einkommen stärker beteiligt.
+- **[02:34:30](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h34m30s)** - **Katrin Staffler (CDU/CSU)**: Bestätigt die Errungenschaft der sozialen Pflegeversicherung, betont aber die Notwendigkeit, sie zukunftsfest zu gestalten. Sie kritisiert die Forderung nach einer Vollversicherung als nicht finanzierbar.
+- **[02:42:40](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h42m40s)** - **Dr. Kristina Baum (AfD)**: Kritisiert die geplante Reform der Pflegeversicherung als politisches Versagen und beklagt die mangelnde Unterstützung für die eigene Bevölkerung, während Milliarden für Auslandsprojekte ausgegeben werden.
+- **[02:46:42](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h46m42s)** - **Emmi Zeulner (CDU/CSU)**: Betont die Wichtigkeit der häuslichen Pflege und fordert eine geteilte Verantwortung zwischen Staat und Familien. Sie lobt die Einführung der Pflegebegleitung als Errungenschaft.
+- **[02:57:58](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=2h57m58s)** - **Steffen Bilger (Bundesminister für Verkehr)**: Stellt den Gesetzentwurf zum Bürokratieabbau im Verkehrsbereich vor und hebt die erzielten Entlastungen für Wirtschaft und Bürger hervor. Er betont die Bedeutung der Digitalisierung und die fortlaufenden Bemühungen zur Vereinfachung von Verfahren.
+- **[03:01:40](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h1m40s)** - **Wolfgang Wiehle (AfD)**: Kritisiert das Gesetz als unzureichend und fordert einen radikalen Abbau von Bürokratie, insbesondere durch die Neuaushandlung europäischer Verträge und die Abschaffung von CO2-Preis und THG-Quote.
+- **[03:06:06](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h6m6s)** - **Dirk Föpel (SPD)**: Betont die Bedeutung des Bürokratieabbaus für einen modernen und handlungsfähigen Staat. Er hebt die positiven Auswirkungen des Gesetzentwurfs auf die Schiene, Luftfahrt und den Personenverkehr hervor.
+- **[03:09:08](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h9m8s)** - **Matthias Gastel (Bündnis 90/Die Grünen)**: Unterstützt den Gesetzentwurf, fordert aber gleichzeitig eine konsequentere Umsetzung der Elektrifizierung der Schiene und einen umfassenderen Bürokratieabbau im Bahnbereich.
+- **[03:13:39](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h13m39s)** - **Aaron Balend (Die Linke)**: Kritisiert das Gesetz für die Abschaffung der Frist für Barrierefreiheit im Nahverkehr und die Ausweitung von Ausnahmeregelungen. Er fordert eine neue Frist und mehr Geld vom Bund für die Umsetzung von Barrierefreiheit.
+- **[03:17:10](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h17m10s)** - **Daniel Kölbel (CDU/CSU)**: Betont die Bedeutung des Bürokratieabbaus für den Wirtschaftsstandort Deutschland und die Stärkung von Vertrauen in Unternehmen und Verwaltung. Er hebt die Bedeutung der internationalen Ebene für Bürokratieabbau hervor.
+- **[03:20:08](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h20m8s)** - **Maximilian Kneller (AfD)**: Kritisiert die geringe finanzielle Wirkung des Gesetzes und fordert die Abschaffung der 12-Uhr-Tankregel, des CO2-Preises und der THG-Quote, um den Spritpreis zu senken.
+- **[03:26:14](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h26m14s)** - **Dr. Klaus Wiener (AfD)**: Leugnet den Einfluss des Menschen auf das Klima und kritisiert die Elektromobilität als schmutzige und moralisch verwerfliche Technologie, die die deutsche Automobilindustrie zerstöre. Er fordert Kernkraft und niedrigere Strompreise.
+- **[03:30:00](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h30m0s)** - **Harald Ebner (Bündnis 90/Die Grünen)**: Betont die Dringlichkeit des Schutzes der Biodiversität und kritisiert die Bundesregierung für ihre Politik im Naturschutz. Er fordert eine konsequente Umsetzung internationaler Ziele und zusätzliche Finanzierungsmittel.
+- **[03:34:50](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h34m50s)** - **Christian Moser (CDU/CSU)**: Stimmt der Bedeutung des Artenschutzes zu, betont aber die Notwendigkeit eines ausgewogenen Ansatzes, der auch die Belange der Land- und Forstwirtschaft berücksichtigt. Er lobt die internationalen Bemühungen Deutschlands im Regenwaldschutz.
+- **[03:43:25](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h43m25s)** - **Andreas Bleck (AfD)**: Kritisiert die Forderungen der Grünen nach internationalen Finanzhilfen und lehnt diese als "Sozialismus in Reinkultur" ab. Er fordert eine Priorisierung der heimischen Bevölkerung und eine Reduzierung der Ausgaben für internationale Projekte und Waffenlieferungen.
+- **[03:49:25](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h49m25s)** - **Karsten Schneider (Bundesminister für Umweltschutz, Klimaschutz, Naturschutz und nukleare Sicherheit)**: Betont die Notwendigkeit der internationalen Zusammenarbeit zum Schutz der Natur und der Biodiversität. Er hebt die deutschen Bemühungen im Regenwaldschutz und bei der Bewahrung der Hochsee hervor.
+- **[03:52:52](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h52m52s)** - **Violetta Bock (Die Linke)**: Kritisiert die Regierung für ihre Politik im Bereich Biodiversität und fordert zusätzliche Finanzierungsmittel und eine gerechte Verteilung der Lasten. Sie lehnt Marktanreize ab und fordert stattdessen Schutzflächen und direkte Zuwendungen.
+- **[03:57:31](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=3h57m31s)** - **Dr. Kristina Baum (AfD)**: Kritisiert die Forderungen der Grünen nach internationalen Finanzhilfen und lehnt diese als "Sozialismus in Reinkultur" ab. Sie fordert eine Priorisierung der heimischen Bevölkerung und eine Reduzierung der Ausgaben für internationale Projekte und Waffenlieferungen.
+- **[04:04:09](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h4m9s)** - **Dr. Stephanie Hubig (Bundesministerin der Justiz und Verbraucherschutz)**: Stellt den Gesetzentwurf zur Modernisierung des Schiedsverfahrensrechts vor und hebt die Vorteile für Unternehmen durch schnellere, digitalere und international wettbewerbsfähigere Verfahren hervor.
+- **[04:06:38](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h6m38s)** - **Fabian Jacobi (AfD)**: Bewertet den Gesetzentwurf als überwiegend sinnvoll, kritisiert aber die Rücknahme von Punkten im Vergleich zur Vorgängerversion. Er betont die Bedeutung der Sprache im Recht und lehnt die Zulassung der englischen Sprache vor deutschen Gerichten ab.
+- **[04:12:40](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h12m40s)** - **Karl Philipp Sassenrath (CDU/CSU)**: Betont die Bedeutung eines verlässlichen Rechtsrahmens für Schiedsverfahren und die Stärkung des Rechtsstandorts Deutschland. Er hebt die Vorteile von Videoverhandlungen und elektronischen Schiedssprüchen hervor.
+- **[04:20:49](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h20m49s)** - **Dr. Till Steffen (Bündnis 90/Die Grünen)**: Kritisiert die mangelnde Ambition des Gesetzentwurfs und fordert eine umfassendere Strategie für den internationalen Rechtsstandort Deutschland, einschließlich der Übersetzung von Gesetzen ins Englische.
+- **[04:26:07](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h26m7s)** - **Daniel Rinkert (SPD)**: Betont die Bedeutung der Modernisierung des Schiedsverfahrensrechts für Unternehmen und die Stärkung Deutschlands als Standort für internationale Streitbeilegung.
+- **[04:28:50](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h28m50s)** - **Adam Balten (AfD)**: Kritisiert die Elektromobilität als schmutzige und moralisch verwerfliche Technologie, die die deutsche Automobilindustrie zerstöre. Er fordert die Abschaffung von Subventionen und Technologieoffenheit.
+- **[04:36:30](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h36m30s)** - **Dr. Klaus Wiener (CDU/CSU)**: Wehrt sich gegen die Kritik der AfD an der Elektromobilität und betont deren Effizienz und steigende Akzeptanz. Er kritisiert die AfD für ihre Leugnung des Klimawandels und ihre einseitige Fokussierung auf Kosten.
+- **[04:49:43](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=4h49m43s)** - **Dunja Kreiser (SPD)**: Kritisiert den Antrag der AfD als ideologisch und zukunftsfeindlich. Sie hebt die Chancen der Elektromobilität für Arbeitsplätze und Wertschöpfung hervor und betont die Notwendigkeit von Investitionen in Zukunftstechnologien.
+- **[05:00:34](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h0m34s)** - **Agnes Conrad (Die Linke)**: Kritisiert die AfD für ihre technologische Rückwärtsgewandtheit und ihre mangelnde Unterstützung für die Beschäftigten der Automobilindustrie. Sie fordert zukunftsfähige Lösungen, die auch bezahlbare Elektroautos und sichere Arbeitsplätze umfassen.
+- **[05:08:45](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h8m45s)** - **Marc Bernhard (AfD)**: Beschreibt die negativen Umweltauswirkungen der Elektromobilität und die Zerstörung der deutschen Automobilindustrie. Er fordert ein Ende der Subventionierung und eine Rückkehr zu Technologieoffenheit.
+- **[05:18:18](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h18m18s)** - **Alexander Jordan (CDU/CSU)**: Kritisiert die AfD für ihre einseitige und unvollständige Darstellung der Kosten und Vorteile der Elektromobilität. Er betont die wachsende Akzeptanz von E-Autos und die Notwendigkeit, die deutsche Automobilindustrie zukunftsfähig zu machen.
+- **[05:40:03](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m3s)** - **Abstimmung über den Antrag der Grünen zum Naturschutz**: Der Antrag wird abgelehnt.
+- **[05:40:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m5s)** - **Abstimmung über den Gesetzentwurf zur Frühstartrente**: Der Gesetzentwurf wird in zweiter und dritter Beratung angenommen.
+- **[05:40:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m5s)** - **Abstimmung über den Entschließungsantrag der Grünen**: Der Entschließungsantrag wird abgelehnt.
+- **[05:40:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m5s)** - **Abstimmung über Anträge zur Pflegeversicherung**: Die Beschlussempfehlung des Ausschusses zur Ablehnung des Antrags der Linken wird angenommen.
+- **[05:40:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m5s)** - **Abstimmung über den Einspruch von Martin Reichardt**: Der Einspruch wird zurückgewiesen.
+- **[05:40:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m5s)** - **Debatte über Bürokratieabbau im Verkehrssektor**: Verschiedene Fraktionen diskutieren den Gesetzentwurf und äußern ihre Positionen.
+- **[05:40:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m5s)** - **Debatte über Modernisierung des Schiedsverfahrensrechts**: Verschiedene Fraktionen diskutieren den Gesetzentwurf und äußern ihre Positionen.
+- **[05:40:05](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h40m5s)** - **Debatte über Technologieoffenheit im Verkehrssektor**: Verschiedene Fraktionen diskutieren den Antrag der AfD und äußern ihre Positionen.
+- **[05:12:18](https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=5h12m18s)** - **Sitzungsende**: Die Sitzung wird geschlossen.

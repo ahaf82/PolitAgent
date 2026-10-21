@@ -1,0 +1,122 @@
+{
+  "synthesis": "Die Abgeordneten verschiedener Fraktionen zeigten sich generell offen für die Digitalisierung des Gesundheitswesens, äußerten jedoch auch spezifische Bedenken und Verbesserungsvorschläge. Die SPD betont die Notwendigkeit einer umfassenden Digitalisierung für ein krisenfestes Gesundheitswesen und lobt Fortschritte wie das E-Rezept und die digitale Patientenakte. Die CDU/CSU-Fraktion, vertreten durch Abgeordnete wie Dr. Paul und Herr Ziegler, hinterfragte kritisch die Rolle der Gematik und forderte mehr Transparenz und Bürokratieabbau. Die Grünen brachten Änderungsanträge zur gezielteren Datennutzung ein und forderten mehr Tempo. Die FDP, repräsentiert durch Prof. Dr. Andrew Ullmann, unterstützte grundsätzlich die Digitalisierung und datenbasierte Medizin, betonte aber auch die Notwendigkeit praxisnaher und patientenorientierter Lösungen. Die AfD fokussierte sich auf den Bürokratieabbau und die Vereinfachung von Prozessen. Die Linke äußerte Kritik an der langsamen Umsetzung und forderte Unabhängigkeit bei der Entscheidung über die Sekundärnutzung von Gesundheitsdaten.",
+  "sources": [
+    {
+      "name": "Dr. Alexander Paul",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Ziegler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Heike Merendino",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Frau Schießl",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Ziegler",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christos Pantazis",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dr. Christos Pantazis von der SPD äußerte sich sehr erfreut über die Verabschiedung des Gesetzes für Daten und digitale Innovation im Gesundheitswesen, da digitale Technologien als Grundpfeiler für ein krisenfestes Gesundheitswesen gelten. Er hob hervor, dass die Ausweitung der Telemedizin, die Einführung des E-Rezepts und die Nutzung der digitalen Patientenakte enorme Fortschritte darstellen. Im Kontext der Gesundheitsreform betonte Pantazis die Übernahme von Verantwortung in einer schwierigen Situation und die Notwendigkeit weiterer Maßnahmen zum Schutz von Beschäftigten im Gesundheitswesen vor Gewalt.",
+      "source_title": "Für mehr Digitalisierung und Nachhaltigkeit im Gesundheitswesen: Dr. Pantazis zu den Digitalisierungsgesetzen",
+      "url": "https://christos-pantazis.spd.de/news/detailseite/news/fuer-mehr-digitalisierung-und-nachhaltigkeit-im-gesundheitswesen-dr-pantazis-zu-den-digitalisierungsgesetzen/14/12/2023",
+      "platform": "Presse"
+    },
+    {
+      "name": "Herr Meves",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Yüksel",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Bündnis 90/Die Grünen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Konstantin von Notz",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Konstantin von Notz, stellvertretender Fraktionsvorsitzender der Grünen und netzpolitischer Sprecher, war in der Vergangenheit stark in netzpolitischen Themen aktiv und setzte sich für den Schutz und Ausbau digitaler Bürgerrechte ein. Er hat sich für eine Aufklärung von Überwachungs- und Geheimdienstskandalen stark gemacht und die Digitalisierung als Schwerpunkt der Arbeit seiner Fraktion bezeichnet.",
+      "source_title": "Konstantin von Notz MdB – Bundestagsabgeordneter von Bündnis 90/Die Grünen",
+      "url": "https://von-notz.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Aminata Touré",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Aminata Touré wurde als Ministerin für Soziales, Jugend, ... in Schleswig-Holstein für Bündnis 90/Die Grünen genannt, was auf ihre politische Beteiligung in relevanten Bereichen hindeutet, auch wenn keine direkte Aussage zum Gesetzesentwurf gefunden wurde.",
+      "source_title": "Plenarprotokoll 20/129 Schleswig-Holstein - Landtag SH",
+      "url": "https://www.landtag.ltsh.de/export/sites/ltsh/infothek/wahl20/plenum/plenprot/2026/20-129_10-26.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Prof. Dr. Andrew Ullmann",
+      "party": "FDP",
+      "found": true,
+      "statement": "Prof. Dr. Andrew Ullmann von der FDP betont die Notwendigkeit einer schnellen Reform des Gesundheitssystems, um eine 'Sogwirkung' zu vermeiden und Deutschland als 'geriatrischen Fall' zu verhindern. Er fordert einen 'Lightspeed-Turbo' für das Gesundheitssystem und hebt die Bedeutung von Effizienzsteigerungen, Prävention und Gesundheitskompetenz hervor. Ullmann sieht die elektronische Patientenakte (ePA) als einen wichtigen Schritt zur Digitalisierung, der auch für die Versorgungsforschung und zur Datenspende auf freiwilliger Basis genutzt werden kann. Er war auch an Debatten zur Digitalisierung des Gesundheitswesens beteiligt.",
+      "source_title": "Prof. Dr. Andrew Ullmann MdB, Projekt Lightspeed für die Gesundheitspolitik",
+      "url": "https://arbeitgeber.de/prof-dr-andrew-ullmann-mdb-projekt-lightspeed-fuer-die-gesundheitspolitik/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

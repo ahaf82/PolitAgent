@@ -1,0 +1,77 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/8293",
+      "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8293&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Antrag Fraktion der AfD: Schlanker Staat statt Kostenexplosion – Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/8613",
+      "title": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8613&rows=25",
+      "type": "Beschlussempfehlung"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Deutsche Bundestag hat am 15. Oktober 2026 in namentlicher Abstimmung der Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen im Südsudan (UNMISS) zugestimmt. Die Beschlussempfehlung des Auswärtigen Ausschusses wurde mit einer deutlichen Mehrheit angenommen.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=103053",
+    "overall_result": {
+      "ja": 496,
+      "nein": 73,
+      "enthaltung": 4,
+      "nicht_abgegeben": 57
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 196,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 12
+      },
+      {
+        "faction": "AfD",
+        "ja": 109,
+        "nein": 21,
+        "enthaltung": 4,
+        "nicht_abgegeben": 16
+      },
+      {
+        "faction": "SPD",
+        "ja": 107,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 13
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 81,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 4
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 52,
+        "enthaltung": 0,
+        "nicht_abgegeben": 12
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 3,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

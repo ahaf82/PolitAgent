@@ -1,5 +1,31 @@
 [
   {
+    "id": "Iuvo6lyIwWg",
+    "title": "103. Sitzung des Bundestages – LIVE",
+    "session": 103,
+    "date": "2026-10-16",
+    "top": "N/A",
+    "topic": "103. Sitzung des Bundestages – Debatten zu Frührente, Pflege und Verkehr",
+    "summary_path": "protocols/session_103/top_unknown_103_sitzung_des_bundestages_live.md",
+    "documents_path": "protocols/session_103/top_unknown_103_sitzung_des_bundestages_live_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=Iuvo6lyIwWg",
+    "processed_at": "2026-10-21T08:05:01.016085"
+  },
+  {
+    "id": "Wt2B2NkH1dQ",
+    "title": "Gesetz für Daten & digitale Innovation im Gesundheitswesen",
+    "session": 0,
+    "date": "2026-10-16",
+    "top": "N/A",
+    "topic": "Gesetz für Daten und digitale Innovationen im Gesundheitswesen",
+    "summary_path": "protocols/session_unknown/top_unknown_gesetz_fuer_daten_digitale_innovation_im_gesundhei.md",
+    "documents_path": "protocols/session_unknown/top_unknown_gesetz_fuer_daten_digitale_innovation_im_gesundhei_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_gesetz_fuer_daten_digitale_innovation_im_gesundhei_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=Wt2B2NkH1dQ",
+    "processed_at": "2026-10-21T08:04:26.537795"
+  },
+  {
     "id": "EhBwEj1XfFk",
     "title": "102nd Session on 10/15/2026. Agenda Item ZP 9: Energy Poverty",
     "session": 102,
@@ -11,6 +37,19 @@
     "speakers_path": "protocols/session_102/zp_9_energy_poverty_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=EhBwEj1XfFk",
     "processed_at": "2026-10-20T08:03:51.852677"
+  },
+  {
+    "id": "_rCQyAdd8uI",
+    "title": "102. Sitzung vom 15.10.2026. TOP 9: Kosten und Nutzen der Zuwanderung",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "9",
+    "topic": "Kosten und Nutzen der Zuwanderung",
+    "summary_path": "protocols/session_102/9_kosten_und_nutzen_der_zuwanderung.md",
+    "documents_path": "protocols/session_102/9_kosten_und_nutzen_der_zuwanderung_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=_rCQyAdd8uI",
+    "processed_at": "2026-10-21T08:03:17.592307"
   },
   {
     "id": "b2vNfkiwdC0",
@@ -52,6 +91,19 @@
     "processed_at": "2026-10-20T08:01:09.384559"
   },
   {
+    "id": "zRc7dW1_P7Y",
+    "title": "102nd Session on 10/15/2026. Agenda Item 16: Bundeswehr Mission in South Sudan (UNMISS)",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "16",
+    "topic": "Bundeswehreinsatz im Südsudan (UNMISS)",
+    "summary_path": "protocols/session_102/16_bundeswehr_mission_in_south_sudan_unmiss.md",
+    "documents_path": "protocols/session_102/16_bundeswehr_mission_in_south_sudan_unmiss_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=zRc7dW1_P7Y",
+    "processed_at": "2026-10-21T08:01:14.100263"
+  },
+  {
     "id": "QJcPo07k-Z4",
     "title": "102nd Session on 10/15/2026. Agenda Item 13: Digital Identity Act",
     "session": 102,
@@ -63,6 +115,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=QJcPo07k-Z4",
     "processed_at": "2026-10-20T08:04:58.661934"
+  },
+  {
+    "id": "TgbDqVp_cTM",
+    "title": "102. Sitzung vom 15.10.2026. TOP 11: Familienpolitik, Mutterschutz für Selbstständige",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "11",
+    "topic": "Familienpolitik, Mutterschutz für Selbstständige",
+    "summary_path": "protocols/session_102/11_familienpolitik_mutterschutz_fuer_selbststaendige.md",
+    "documents_path": "protocols/session_102/11_familienpolitik_mutterschutz_fuer_selbststaendige_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=TgbDqVp_cTM",
+    "processed_at": "2026-10-21T08:01:46.189623"
+  },
+  {
+    "id": "OhVNplrKHn0",
+    "title": "102. Sitzung vom 15.10.2026. TOP 10: Bundesausbildungsförderungsgesetz",
+    "session": 102,
+    "date": "2026-10-15",
+    "top": "10",
+    "topic": "Bundesausbildungsförderungsgesetz",
+    "summary_path": "protocols/session_102/10_bundesausbildungsfoerderungsgesetz.md",
+    "documents_path": "protocols/session_102/10_bundesausbildungsfoerderungsgesetz_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=OhVNplrKHn0",
+    "processed_at": "2026-10-21T08:02:48.082586"
   },
   {
     "id": "UlYFOex6Bco",

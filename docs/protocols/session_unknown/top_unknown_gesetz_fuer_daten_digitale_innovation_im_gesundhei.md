@@ -1,0 +1,288 @@
+# Gesetz für Daten und digitale Innovationen im Gesundheitswesen
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** 2026-10-16
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Gesetz für Daten & digitale Innovation im Gesundheitswesen
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=Wt2B2NkH1dQ)
+
+## Kurzzusammenfassung
+Die öffentliche Anhörung des Gesundheitsausschusses befasste sich mit dem Gesetzentwurf der Bundesregierung für Daten und digitale Innovationen im Gesundheitswesen sowie mit einer Reihe von Änderungsanträgen von Bündnis 90/Die Grünen und der AfD-Fraktion. Kern der Debatte war die Stärkung der Primär- und Sekundärnutzung von Gesundheitsdaten für Versorgung, Forschung und Innovation. Diskutiert wurden die erweiterte Rolle der Gematik, die Notwendigkeit von Transparenz und Wettbewerb, die Beschleunigung digitaler Prozesse, der Abbau von Bürokratie sowie die Qualität und Nutzbarkeit von Gesundheitsdaten und digitalen Anwendungen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch Staatssekretär Kippels):**
+  - Die konsequente, nutzerorientierte Digitalisierung des Gesundheitswesens ist entscheidend für eine moderne, effiziente und zukunftsfähige Versorgung.
+  - Die Primär- und Sekundärnutzung von Gesundheitsdaten muss für Versorgung, Forschung und Innovation gestärkt werden.
+  - Digitale Anwendungen und Versorgungsprozesse sollen einen Mehrwert generieren.
+- **Bündnis 90/Die Grünen:**
+  - Haben Änderungsanträge eingebracht, um die zielgerichtetere Nutzung von Gesundheitsdaten zu verbessern.
+  - Fordern mehr Tempo bei der Digitalisierung und betonen die Notwendigkeit disruptiver Lösungen.
+- **AfD-Fraktion:**
+  - Hat Anträge zum Bürokratieabbau im Gesundheitssektor vorgelegt.
+  - Fordert die Vereinfachung von Prozessen und die Streichung unnötiger formalitycher Pflichtangaben.
+- **CDU/CSU-Fraktion (vertreten durch Dr. Paul, Herr Ziegler):**
+  - Hinterfragt die Rolle der Gematik als "Spieler und Schiedsrichter" und fordert Transparenz, Rechenschaft und Messbarkeit der Zielerreichung.
+  - Kritisiert mögliche Interessenkonflikte und Wettbewerbsgefährdung durch die erweiterte Rolle der Gematik.
+  - Fragt nach der Notwendigkeit von Fristenverkürzungen für EBA-Funktionen.
+  - Fordert die Entbürokratisierung des E-Rezepts und die Streichung formalitycher Pflichtangaben.
+  - Hinterfragt, welche Erleichterungen durch frühere Bürokratieabbau-Ankündigungen in Apotheken spürbar wurden und ob das neue Gesetz zusätzliche Bürokratie schafft.
+  - Fordert die Verankerung der Terminhoheit der Praxen im SGB V und hinterfragt das Spannungsfeld zwischen zentralem System und Praxisterminhoheit.
+  - Fragt nach der digitalen Reife von Krankenhäusern und dem Fortschritt der KHZG-Projekte.
+- **SPD-Fraktion (vertreten durch Herr Pantazis, Herr Meves, Herr Yüksel):**
+  - Fragt nach der ausreichenden Konsolidierung der GKV durch die vorgeschlagenen Regelungen zur GAS.
+  - Fragt nach den Informationen, die Hausärzte für eine digitale Ersteinschätzung benötigen.
+  - Kritisiert die Kleinteiligkeit der Diskussion und die Langsamkeit der Digitalisierung im Gesundheitswesen.
+  - Fragt nach der Integration des digitalen Impfausweises in die EPA und den Voraussetzungen dafür.
+  - Fragt nach der Verknüpfung von Gesundheitsdaten aus unterschiedlichen Quellen für die Forschung.
+- **FDP-Fraktion (nicht explizit im Transkript vertreten, aber implizit durch die Debatte um Digitalisierung und Innovation):**
+  - (Implizit durch generelles Thema) Befürwortet die Förderung von Daten und digitaler Innovation im Gesundheitswesen.
+- **Die Linke (vertreten durch Frau Merendino):**
+  - Kritisiert, dass sich trotz jahrzehntelanger Initiativen wenig in der Versorgung durch die EPA getan hat.
+  - Fragt nach der Unabhängigkeit von Stellen, die über die Sekundärnutzung sensibler Gesundheitsdaten entscheiden.
+  - Fragt nach der Ausgestaltung der EPA für Menschen mit seltenen Erkrankungen und dem Schutz vor Re-Identifizierung.
+- **AfD-Fraktion (vertreten durch Frau Schießl, Herr Ziegler):**
+  - Fragt nach nachweisbaren Entlastungen durch ein vereinfachtes Pflegedokumentationsmodell und den dafür notwendigen Voraussetzungen.
+  - Fragt nach dem Spannungsfeld zwischen Arzt-Patienten-Verhältnis und dem erweiterten Zugriff der Krankenkassen auf EPA-Daten.
+  - Fragt nach der Wirksamkeit des Widerspruchsrechts gegen Datenauswertung und nach gezielten Kontrollmöglichkeiten für Versicherte.
+- **Fraktionslos / Sachverständige:**
+  - **Gematik (Dr. Florian Hartdecke, Herr Hartge):**
+    - Veröffentlicht regelmäßig Nutzungskennzahlen (Tieatlas, Roadmap) und Betriebskennzahlen zur Telematikinfrastruktur zur Sicherung von Transparenz.
+    - Sieht das Plattformkonzept als Treiber für stärkeren Wettbewerb und mehr Innovationen.
+    - Das TI-Plattform-Konzept soll zu erhöhter Geschwindigkeit bei der Entwicklung von EPA-Funktionen führen.
+  - **Bundesverband der Gesundheits-IT (BVITG, Sascha Raddatz):**
+    - Teilt das Ziel einer stabilen Telematikinfrastruktur und die Stärkung der Gematik bei Standardisierung, Zulassung und Betriebsaufsicht.
+    - Kritisiert die geplante Ausweitung der Gematik wegen Interessenkonflikten und Gefährdung der Wettbewerbsneutralität.
+    - Sieht vergaberechtliche Risiken und Benachteiligung kleiner Anbieter.
+    - Empfiehlt die Streichung der erweiterten Vergabekompetenz in §311.
+    - Braucht eine starke Gematik, die Wettbewerb ermöglicht, nicht ersetzt.
+  - **Bitkom (Dr. Verena Benz):**
+    - Die EPA sollte eine offene Infrastruktur sein, kein geschlossenes Kassensystem.
+    - Unabhängige Anbieter könnten durch Schnittstellen mehr Wahlfreiheit und Innovation fördern.
+    - Fordert diskriminierungsfreien Zugang für qualifizierte Drittanbieter über offene und interoperable Schnittstellen.
+    - Gleiche Anforderungen an Datenschutz, Datensicherheit und Interoperabilität müssen für alle gelten.
+  - **Praxisdigital.info (Dr. Annette Rennert):**
+    - Das E-Rezept funktioniert gut und schafft Mehrwert durch einfache Integration in bestehende Prozesse.
+    - KIM funktioniert aktuell noch nicht gut als Faxersatz, da nicht alle Partner angebunden sind.
+    - Wünscht sich eine Nutzungsverpflichtung für KIM und die Möglichkeit für alle Leistungserbringer, mitzumachen.
+  - **Charité (Prof. Dr. Sylvia Thun):**
+    - Das Gedeck schafft wichtige Voraussetzungen für Datenzugang und Interoperabilität.
+    - Die Qualität der dokumentierten Daten muss verbessert werden (mehr als nur Abrechnungsdaten).
+    - Die EPA muss sich schneller zu einer intelligenten Versorgungsplattform entwickeln.
+    - KI-Algorithmen müssen transparent und gemeinschaftlich mit Fachgesellschaften entwickelt werden.
+    - Vertrauen in KI-Algorithmen ist essenziell ("trustworthy AI").
+  - **Deutsche Krankenhausgesellschaft (Prof. Neumeier):**
+    - Fordert praxistaugliche Gateways und verpflichtende Pilotierung bei Umstellungsprozessen für Krankenhausprozesse.
+    - Braucht eine klare Reflexion von Migrationsprozessen, um funktionstüchtige Ersatzlösungen zu gewährleisten.
+  - **ABDA (Thomas Preiß):**
+    - Digitalisierung muss Prozesse vereinfachen; das E-Rezept hat hier bereits einen Mehrwert gezeigt.
+    - Fordert, dass nur ordnungsgemäße Verschreibungen in Rezeptfachdienste gelangen, um unnötigen bürokratischen Aufwand und Retaxationen zu vermeiden.
+    - Forderte die Streichung der verpflichtenden Chargenübermittlung bei Verblisterung.
+    - Fordert die konsequente Umsetzung des ersetzenden Scannens.
+    - Fordert die verpflichtende Anbindung der Kommunikation mit Krankenkassen über KIM.
+  - **Verband innovativer Apotheken (Benedikt Bühler):**
+    - Das E-Rezept wurde so umgesetzt, dass Ärzte "wie sie möchten" reinschreiben können, was zu Problemen führt.
+    - Fordert strukturierte Datenweiterverwendung und eine klare Regelung der Dosierungsangabe.
+    - Wünscht sich Echtzeitkommunikation mit Krankenkassen bei Einlösen von E-Rezepten (Versichertenstatus, Zuzahlungsbefreiung).
+    - Fordert, dass Krankenkassen in Echtzeit den Prüfkatalog mitteilen, um Erstattungsfähigkeit zu klären.
+    - Fordert die verbindliche Integration des digitalen Impfausweises in die EPA und ein Dashboard zur Erfassung von Impfdaten.
+  - **GKV-Spitzenverband (Frau Stoffanis):**
+    - Ist von der Wirkung der Regelungen zur GAS nicht überzeugt; keine Einsparungen zu erwarten.
+    - Sieht Risiken, dass Hersteller Anreize für Weiternutzung von Anwendungen schaffen.
+    - Definiert qualitativ Mehrwert als Endpunkt (medizinische Endpunkte, Patientenberichte).
+    - Lehnt die alleinige Zuständigkeit der KBV für die technische Umsetzung der digitalen Bedarfseinschätzung ab, da dies eine neutrale Governance-Struktur erfordert.
+    - Lehnt die erweiterten Befugnisse der Krankenkassen zum Datenzugriff nach §25B ab, da kein Nutzenachweis vorliegt; fordert informierte Einwilligung des Versicherten.
+    - Kann keine konkreten Zahlen zur Zustimmung digitaler Kommunikation liefern, bietet aber die Übermittlung nachgeliefert an.
+  - **Hausärztliche Praxis (Dr. Fröhlich):**
+    - Digitale Ersteinschätzung ist sinnvoll zur Verbesserung der Versorgung und Effizienzsteigerung des Personals.
+    - Benötigt klare Patientenidentifikation, Informationen zu Beschwerden, Vorerkrankungen, Vorbehandlung und Erwartungen des Patienten.
+    - KI-gestützte Einschätzung der Dringlichkeit wäre wünschenswert.
+    - Wünscht sich Informationen zur Zugehörigkeit zu Hausarztverträgen.
+    - Bemängelt die unvollständige Bereitstellung von Arztbriefen (Papier/Fax) von Krankenhäusern.
+    - Fordert Volltextsuche und standardisierte Laborbefunde in der EPA, nicht nur PDF-Dokumente.
+    - Benötigt Informationen zu durchgeführten Vorsorgeuntersuchungen und Impfungen.
+    - Bemängelt, dass Privatversicherte weitgehend keine EPA haben.
+  - **Bundesärztekammer (Prof. Dr. Sylvia Thun):**
+    - (Siehe Charité)
+  - **Bundesverband der Gesundheits-IT (BVITG, Sascha Raddatz):**
+    - EPA bietet Potenzial für sektorenübergreifende Versorgung.
+    - Braucht eine gemeinsame Informationsgrundlage, insbesondere Nachbesserungsbedarf bei der Pflege (Pflegeüberleitung, Wundversorgung, Medikation).
+    - Systeme müssen Befunde in die EPA einstellen können; Nachsteuerung im Gesetz erforderlich.
+  - **Techniker Krankenkasse (Jens Baas):**
+    - Würdigt den Gesetzentwurf als Schritt, aber die Fristen sind unambitioniert.
+    - Braucht mehr Tempo; der Rückstand in der Digitalisierung wird größer.
+    - Fordert die Überarbeitung der strukturellen Rahmenbedingungen und Neuausrichtung von Prozessen.
+    - Kritisierte langsame Zertifizierungsprozesse und Bürokratie.
+    - Braucht offene Schnittstellen und einheitliche Datenstandards.
+    - Braucht Anreizsysteme, die die Nutzung digitaler Systeme attraktiv machen.
+    - Schlägt Trennung von Basisfunktionalität der EPA und Mehrwertanwendungen vor.
+    - Braucht echte Innovationsräume für Wettbewerb.
+    - Die Gematik sollte sich von einem IT-Verwalter zu einem Plattformanbieter entwickeln.
+    - Die Übertragung von Medizinprodukten/Implantaten an Krankenkassen zur Information bei Rückrufaktionen wird als sinnvoll erachtet.
+  - **Bundesarbeitsgemeinschaft Selbsthilfe von Menschen mit Behinderung, chronischer Erkrankungen und ihren Angehörigen (Jana Hassel):**
+    - Der Nutzen der EPA für Gesunde ist begrenzt; eine App reicht aus.
+    - Die EPA ist sinnvoll für chronisch Kranke und Menschen mit Behinderungen, muss deren Bedürfnisse widerspiegeln.
+    - Verantwortlichkeiten und Frontendlösungen müssen klar definiert werden.
+    - Es fehlen qualitätsgesicherte Daten und digitale Koordinierungsmechanismen für reale Anwendungsfälle.
+    - Die Tools müssen patientengerecht gestaltet sein, da Menschen mit chronischen Erkrankungen und Behinderungen ein besonderes Diskriminierungsrisiko haben.
+    - Patientenautonomie muss gestärkt werden; das Vertrauen in die Zugriffskontrolle ist entscheidend.
+  - **Digitalcourage (Dr. Thilo Weichert):**
+    - Sekundärnutzung von Gesundheitsdaten ist für wissenschaftliche Forschung wichtig, aber der Prozess muss transparent sein.
+    - Kritisiert, dass die Regelungen zur Sekundärnutzung nicht unabhängig sind und die Kommerzialisierung öffnet.
+    - Die DSGVO und Grundrechtecharta fordern Transparenz und Auskunft über Datenverwendung; dies ist im Gesetzentwurf nicht ausreichend umgesetzt.
+    - Fordert ein "Datencockpit" für Betroffene.
+  - **Verbraucherzentrale Bundesverband (VZBV, Lucas Auer):**
+    - Die Bewertung von Gesundheitsrisiken gehört in die Hände der Leistungserbringer, nicht der Krankenkassen, die im Wettbewerb stehen.
+    - Krankenkassen dürfen Versicherte nicht unzulässig benachteiligen.
+    - Die Absenkung von Transparenz- und Informationspflichten im §25B ist falsch.
+    - Es fehlen verbindliche Standards für Risikohinweise; Patient*innenorganisationen müssen eingebunden werden.
+    - Die datengestützte Erkennung individueller Gesundheitsrisiken durch Krankenkassen braucht informierte Zustimmung.
+    - Öffentliche Hinweise sind ungeeignet, über Widerspruchslösungen zu informieren; individuelle Information ist nötig.
+    - Eine Einwilligungslösung für §25B SGB 5 wäre besser.
+    - Fordert ein feingranulares Berechtigungsmanagement für die EPA, damit Versicherte steuern können, welche Daten sie mit wem teilen.
+  - **Verband der Universitätsklinika Deutschlands (Herr Bussmann):**
+    - Plädiert für einen breiteren Scope an Reallaboren, insbesondere in der Universitätsmedizin.
+  - **AOK-Bundesverband (Dr. Sabine Richard):**
+    - Braucht eine pragmatischere Vorgehensweise bei Authentifizierung und Identifizierung, um den Einstieg in die EPA zu erleichtern.
+  - **Kassenärztliche Bundesvereinigung (KBV, Frau Steiner):**
+    - Lehnt die alleinige Zuständigkeit der KBV für die technische Umsetzung der digitalen Bedarfseinschätzung ab.
+    - Sieht die erweiterte Auswertungsmöglichkeit der Krankenkassen kritisch als Eingriff in die Arzt-Patienten-Beziehung.
+    - Die Terminvergabe muss standardisierte Regeln haben, die medizinische Ersteinschätzung ist eine zutiefst medizinische Frage.
+    - Die Terminorganisation und Terminhoheit liegt weiterhin bei den Praxen.
+    - Der digitale Versorgungseinstieg soll gleichberechtigt über die +116 117 erfolgen.
+    - Die Anbindung von Krankenkassen-Apps und Drittanbietern ist vorgesehen.
+  - **Bundesbeauftragter für den Datenschutz und die Informationsfreiheit (Andreas Hartl):**
+    - Die Wahrscheinlichkeit der Identifizierung von Personen muss minimiert werden; KI verschärft das Problem.
+    - Es braucht laufende Beobachtung und Nachschärfung; Gespräche mit Regierung und Gesetzgeber laufen.
+    - Begrüßt feingranulares Rechtemanagement für die EPA.
+  - **Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG, Prof. Matthes):**
+    - Digitale Gesundheitsanwendungen (DiGA) sollten generell einer Nutzenbewertung unterzogen werden.
+    - Genaue Zahlen zu Kosten für nicht nachgewiesene DiGA liegen nicht vor, da keine Nutzenbewertung erfolgte.
+  - **TMF e.V. (Herr Semmler):**
+    - Forschungskennziffer ist ein wichtiges Instrument für die Durchsetzung von Rechten und für die Forschung insgesamt.
+    - Braucht eine sektorenübergreifend wirksame Forschungskennziffer, die auch Reha-, Unfall-, ÖGD- und sozialwissenschaftliche Daten einschließt.
+    - Braucht ein durchgängiges wissenschaftliches Konzept mit Beteiligung von Wissenschaft und Patientenverbänden.
+  - **Spitzenverband Digitale Gesundheitsversorgung (SVDGV, Dr. Geyer):**
+    - Nur 14% der verordneten DiGA führen zu Therapiebeginn.
+    - Fordert automatisierten Einlöseprozess für DiGA: direkte Weiterleitung an Krankenkasse, Freischaltcode innerhalb von zwei Arbeitstagen.
+    - Perspektivisch unmittelbare Nutzung der DiGA nach dem Arztbesuch.
+    - Konkrete Umsetzungsfrist von wenigen Monaten für DiGA ist nötig.
+  - **Medizinischer Dienst "Bund" (Dr. Stefan Gronemeyer):**
+    - Begrüßt die Stärkung der Steuerungskompetenz für digitale Architektur und Zusammenarbeit von Systemen, inklusive KI-gestützter Anwendungen.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Ausschussvorsitzende eröffnet die öffentliche Anhörung des Ausschusses für Gesundheit zum Gesetzentwurf der Bundesregierung für Daten und digitale Innovationen im Gesundheitswesen sowie zu dazugehörigen Änderungsanträgen.
+- **[00:44](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=44s)** - **Vorstellung des Gesetzentwurfs**: Der Gesetzentwurf der Bundesregierung zielt darauf ab, die Digitalisierung im Gesundheitswesen voranzutreiben, um eine moderne und effiziente Versorgung zu gewährleisten. Die Primär- und Sekundärnutzung von Gesundheitsdaten soll gestärkt werden.
+- **[00:51](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=51s)** - **Thema des Gesetzentwurfs**: Gesetz für Daten und digitale Innovationen im Gesundheitswesen (DIG).
+- **[01:00](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1m0s)** - **Vorstellung von Änderungsanträgen**: 17 Änderungsanträge von Bündnis 90/Die Grünen sowie vier Anträge der AfD-Fraktion zu digitalen Gesundheitsanwendungen, Bürokratieabbau und Digitalisierung werden vorgestellt.
+- **[03:04](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=3m4s)** - **Ablauf der Anhörung**: Die Anhörung dauert 90 Minuten und ist in Frageblöcke unterteilt, die entsprechend der Stärke der Fraktionen aufgeteilt sind (CDU/CSU: 30 Min., AfD: 22 Min., SPD: 17 Min., Grüne: 12 Min., Linke: 9 Min.).
+- **[05:02](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=5m2s)** - **Frage der CDU/CSU an die Gematik**: Die Rolle der Gematik als "Spieler und Schiedsrichter" wird hinterfragt. Es wird nach Transparenz, Rechenschaft, Wettbewerb und Messkennzahlen gefragt.
+- **[05:38](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=5m38s)** - **Antwort der Gematik**: Die Gematik verweist auf die Veröffentlichung von Nutzungs- und Betriebskennzahlen zur Sicherung der Transparenz und sieht das Plattformkonzept als Treiber für stärkeren Wettbewerb.
+- **[07:07](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=7m7s)** - **Frage des BVITG**: Die erweiterte Rolle der Gematik wird kritisch gesehen, da sie Interessenkonflikte und Wettbewerbsneutralität gefährde. Es werden vergaberechtliche Risiken und Benachteiligung kleiner Anbieter genannt.
+- **[08:31](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=8m31s)** - **Frage der CDU/CSU an die Gematik zur EBA**: Es wird gefragt, was für schnellere EBA-Funktionen und mögliche Fristenverkürzungen benötigt wird.
+- **[08:46](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=8m46s)** - **Antwort der Gematik zur EBA-Geschwindigkeit**: Das TI-Plattform-Konzept soll durch einfachere und schnellere Entwicklung von Funktionen die Umsetzungszeiten für EBA-Funktionen verkürzen.
+- **[09:56](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=9m56s)** - **Frage der CDU/CSU an Bitkom zur EPA**: Es wird nach dem Nutzen für Versicherte gefragt, wenn auch unabhängige Anbieter über Schnittstellen Zugang zur EPA hätten und welche Anforderungen diese erfüllen müssten.
+- **[10:18](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=10m18s)** - **Antwort Bitkom**: Die EPA sollte eine offene Infrastruktur sein; unabhängige Anbieter können durch Schnittstellen Wahlfreiheit und Innovation fördern, wenn gleiche Anforderungen an Datenschutz und Sicherheit gelten.
+- **[11:30](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=11m30s)** - **Frage der CDU/CSU an Praxisdigital.info**: Es wird nach bereits funktionierenden digitalen Lösungen im Praxisalltag, zeitaufwändigen Abläufen und gewünschten Verbesserungen gefragt.
+- **[11:54](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=11m54s)** - **Antwort Praxisdigital.info**: Das E-Rezept funktioniert gut. KIM ist als Faxersatz noch problematisch. Es wird eine Nutzungsverpflichtung und breitere Anwendbarkeit von KIM gewünscht.
+- **[14:05](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=14m5s)** - **Frage der CDU/CSU an Charité**: Es wird gefragt, ob das Gesetz die Weichen für ein ideales, digital gestütztes Gesundheitssystem stellt oder noch Dinge fehlen.
+- **[14:29](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=14m29s)** - **Antwort Charité**: Das Gesetz schafft Voraussetzungen für Datenzugang und Interoperabilität, aber die Qualität der Daten und die Geschwindigkeit der Entwicklung müssen verbessert werden.
+- **[16:02](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=16m2s)** - **Frage der CDU/CSU an Deutsche Krankenhausgesellschaft**: Es wird nach dem größten Nutzen des GMIK für Krankenhäuser und notwendigen Änderungen gefragt.
+- **[16:19](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=16m19s)** - **Antwort Deutsche Krankenhausgesellschaft**: Es werden praxistaugliche Gateways und eine verpflichtende Pilotierung gefordert.
+- **[17:11](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=17m11s)** - **Frage der AfD an ABDA/Verband innovativer Apotheken**: Es wird nach dem aktuellen Aufwand für Prüf-, Klärungs- und Rückspracheaufwand in Apotheken aufgrund formalitycher Fehler im E-Rezept gefragt und ob hier Reaktionssicherheit bei Formfehlern geschaffen werden muss.
+- **[18:13](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=18m13s)** - **Antwort ABDA**: Digitalisierung muss Prozesse vereinfachen; nur ordnungsgemäße Verschreibungen sollten ins System gelangen.
+- **[19:32](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=19m32s)** - **Antwort Verband innovativer Apotheken**: Das E-Rezept wurde zu sehr an Papierbelege angelehnt; Echtzeitdaten von Krankenkassen wären für Versicherungsstatus und Zuzahlungsbefreiung hilfreich.
+- **[21:53](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=21m53s)** - **Doppelfrage der AfD an ABDA/Verband innovativer Apotheken**: Welche angekündigten Erleichterungen zur Bürokratieabbau sind spürbar geworden, droht das neue Gesetz zusätzliche Bürokratie zu schaffen, und welche drei Pflichten sollten sofort gestrichen werden?
+- **[22:43](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=22m43s)** - **Antwort ABDA zur Bürokratie**: Nur zulässige Verschreibungen sollten ins System; die Apothekenreform hat bereits Erleichterungen gebracht.
+- **[24:08](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=24m8s)** - **Antwort Verband innovativer Apotheken zur Bürokratie**: Abschaffung der Präqualifizierung war positiv. Die verpflichtende Chargenübermittlung bei Verblisterung ist ein Bürokratieaufwand. Es braucht konsequent ersetzendes Scannen und verpflichtende Kommunikation über KIM.
+- **[26:36](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=26m36s)** - **Frage der SPD an GKV-Spitzenverband**: Sind die Vorschläge zur Anpassung der GAS angesichts des Konsolidierungsbedarfs in der GKV ausreichend?
+- **[26:55](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=26m55s)** - **Antwort GKV-Spitzenverband**: Von der Wirkung der Regelung wird nicht überzeugt; keine Einsparungen erwartet.
+- **[28:11](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=28m11s)** - **Frage der SPD an Hausarzt Dr. Fröhlich**: Welche Informationen aus der digitalen Ersteinschätzung benötigt ein Hausarzt für die bestmögliche Behandlung?
+- **[28:38](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=28m38s)** - **Antwort Hausarzt Dr. Fröhlich**: Benötigt Patientenidentifikation, Art/Schwere/Dauer der Beschwerden, Vorerkrankungen, Vorbehandlung und Patientenwünsche.
+- **[30:02](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=30m2s)** - **Frage der SPD an GKV-Spitzenverband zur digitalen Bedarfseinschätzung**: Welche Rolle sollte der GKV-Spitzenverband übernehmen, damit ein einheitliches und praxistaugliches System entsteht?
+- **[30:22](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=30m22s)** - **Antwort GKV-Spitzenverband zur digitalen Bedarfseinschätzung**: Lehnt die alleinige Zuständigkeit der KBV ab, da die Steuerungsfunktion nicht einseitig bei einer Interessenvertretung liegen darf.
+- **[31:05](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=31m5s)** - **Frage der SPD an Hausarzt Dr. Fröhlich zur EPA**: Welche weiteren medizinischen Informationen und Funktionen fehlen aus hausärztlicher Sicht in der EPA?
+- **[31:33](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=31m33s)** - **Antwort Hausarzt Dr. Fröhlich zur EPA**: Arztbriefe in Papierform, Volltextsuche, standardisierte Laborbefunde und Informationen zu Vorsorgeuntersuchungen fehlen.
+- **[32:31](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=32m31s)** - **Frage der SPD an BVITG zur EPA-Plattform**: Welche Voraussetzungen braucht es, damit die Vision einer digitalen Plattform für die Gesundheitsversorgung Wirklichkeit wird und was sollte im GDK geregelt werden?
+- **[32:59](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=32m59s)** - **Antwort BVITG zur EPA-Plattform**: Braucht eine gemeinsame Informationsgrundlage, insbesondere bei der Pflege; Systeme müssen Befunde in die EPA einstellen können.
+- **[33:58](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=33m58s)** - **Frage der Grünen an Jens Baas (TK)**: Was braucht es für mehr Tempo bei der Digitalisierung und wie kann der Rückstand aufgeholt werden?
+- **[34:57](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=34m57s)** - **Antwort Jens Baas (TK)**: Die Fristen sind unambitioniert; es braucht eine Überarbeitung der strukturellen Rahmenbedingungen und eine Neuausrichtung von Prozessen.
+- **[37:21](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=37m21s)** - **Nachfrage der Grünen an Jens Baas**: Welche rechtlichen Änderungen bräuchte es für mehr Tempo, z.B. vorgezogene Fristen oder weitere Befugnisse für Krankenkassen?
+- **[37:48](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=37m48s)** - **Antwort Jens Baas**: Trennung von Basisfunktionalität der EPA und Mehrwertanwendungen; einheitliche Schnittstellen und Innovationsräume sind nötig.
+- **[39:22](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=39m22s)** - **Frage der Linken an Jana Hassel (BAG Selbsthilfe)**: Warum hat sich in der Versorgung mit der EPA wenig getan und wie ist die Datenbereitstellung einzuschätzen?
+- **[40:05](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=40m5s)** - **Antwort Jana Hassel**: Der Nutzen der EPA für Gesunde ist begrenzt; sie ist primär für chronisch Kranke und Menschen mit Behinderungen sinnvoll und muss deren Bedürfnisse widerspiegeln.
+- **[43:07](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=43m7s)** - **Frage der CDU/CSU an SPIFA**: Wie lässt sich das Spannungsfeld zwischen zentraler Terminvergabe und Terminhoheit der Praxen auflösen?
+- **[43:41](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=43m41s)** - **Antwort SPIFA**: Die Terminvergabe muss auf verbindlichen medizinischen Kriterien basieren und die Terminhoheit der Praxen muss gesichert werden.
+- **[45:59](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=45m59s)** - **Frage der CDU/CSU an ABDA zum EU-Pharmapaket**: Sollte von der Ausnahmemöglichkeit bei Meldepflichten für Arzneimittel zur militärischen Verteidigung Gebrauch gemacht werden?
+- **[46:31](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=46m31s)** - **Antwort ABDA**: Zustimmung zum Vorschlag.
+- **[46:42](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=46m42s)** - **Frage der AfD an Deutschen Pflegerat/BAG Freie Wohlfahrtspflege**: Welche Entlastungen kann ein vereinfachtes Pflegedokumentationsmodell ermöglichen und welche Voraussetzungen sind nötig?
+- **[47:34](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=47m34s)** - **Antwort BAG Freie Wohlfahrtspflege**: Die Pflegefachlichkeit muss gewahrt bleiben; die Prozesssteuerung muss bei Pflegepersonen liegen.
+- **[48:08](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=48m8s)** - **Antwort Deutscher Pflegerat**: Das vereinfachte Strukturmodell muss zukünftig auch Daten für Sekundärnutzung (Personalbemessung, Vergütung) bereitstellen.
+- **[48:51](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=48m51s)** - **Nachfrage der AfD an beide zur Pflegedokumentation**: Welche zusätzlichen Dokumentationsanforderungen müssten entfallen, damit keine neuen Parallelpflichten entstehen?
+- **[49:24](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=49m24s)** - **Antwort BAG Freie Wohlfahrtspflege**: Schnittstellen zur EPA müssen verpflichtend umgesetzt werden, um Doppelaufwand zu reduzieren.
+- **[49:49](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=49m49s)** - **Antwort Deutscher Pflegerat zur Pflegedokumentation**: Pflegerische Kerndatensätze müssen semantisch interoperabel entwickelt werden.
+- **[50:19](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=50m19s)** - **Frage der SPD an Benedikt Bühler (Verband innovativer Apotheken)**: Wann kommt der digitale Impfausweis in die EPA und welche Voraussetzungen müssen geschaffen werden?
+- **[51:38](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=51m38s)** - **Antwort Benedikt Bühler**: Ein Fachdienst für Impfungen, analog zum E-Rezept, wird benötigt. Eine Erinnerungsfunktion in der EPA wäre wünschenswert.
+- **[52:54](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=52m54s)** - **Frage der SPD an Gematik zur TI-Betriebsstabilität**: Was braucht es darüber hinaus, um die Betriebsstabilität der TI deutlich zu verbessern?
+- **[53:09](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=53m9s)** - **Antwort Gematik zur TI-Betriebsstabilität**: Das GDIG mit seinen Regelungen ist ein gutes Instrument für die Stabilisierung und Verbesserung der Telematikinfrastruktur.
+- **[53:32](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=53m32s)** - **Frage der SPD an KBV zur Datennutzung der Krankenkassen**: Die KBV unterstützt die erweiterte Befugnis der Krankenkassen zur Datennutzung für Prävention, wünscht sich aber auch, dass behandelnde Ärzte passende Infos erhalten. Welchen Weg sehen Sie?
+- **[54:02](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=54m2s)** - **Antwort KBV zur Datennutzung der Krankenkassen**: Lehnt die erweiterten Befugnisse der Krankenkassen zum Datenzugriff nach §25B ab, da kein Nutzenachweis vorliegt; fordert informierte Einwilligung des Versicherten.
+- **[55:19](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=55m19s)** - **Frage der Grünen an Gematik zum Tempo der Digitalisierung**: Was muss der Gesetzgeber konkret tun, damit mehr Tempo bei der Digitalisierung erzielt wird?
+- **[55:58](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=55m58s)** - **Antwort Gematik zum Tempo der Digitalisierung**: Das Plattformkonzept soll Geschwindigkeit bringen; die Fristen im Gesetz sind noch abzuwarten.
+- **[57:37](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=57m37s)** - **Frage der Grünen an KBV zu nicht-EPA-Teilnehmern**: Wie wird mit Privatversicherten umgegangen, die nicht Teil der EPA-Struktur sind, und was braucht es für eine digitale Lösung, um sie anzubinden?
+- **[58:12](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=58m12s)** - **Antwort KBV zu nicht-EPA-Teilnehmern**: Fordert einen Versorgungsfachdienst für sichere und schnelle Informationsübergabe, auch für Patienten.
+- **[59:25](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=59m25s)** - **Frage der Linken an Dr. Thilo Weichert (Digitalcourage) zur Sekundärnutzung**: Warum müssen Stellen, die über Sekundärnutzung entscheiden, unabhängig sein, und ist die Unabhängigkeit gewährleistet?
+- **[59:47](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=59m47s)** - **Antwort Dr. Thilo Weichert**: Kritisiert fehlende Unabhängigkeit der entscheidenden Stellen und die Gefahr der Kommerzialisierung. Die Transparenz für Betroffene ist nicht gewährleistet.
+- **[01:01:22](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h1m22s)** - **Nachfrage der Linken an Dr. Thilo Weichert zur DSGVO**: Wird das Auskunftsrecht nach DSGVO mit dem neuen Rechtsrahmen umgesetzt?
+- **[01:01:55](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h1m55s)** - **Antwort Dr. Thilo Weichert zur DSGVO**: Die Transparenz ist nicht gewährleistet; ein "Datencockpit" wird vorgeschlagen.
+- **[01:03:10](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h3m10s)** - **Frage der Linken an Lucas Auer (VZBV) zu Krankenkassenzugriff**: Welche gesetzlichen Grenzen sind für Prävention als Instrument zur Verhaltenssteuerung oder Benachteiligung chronisch Kranker notwendig?
+- **[01:03:34](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h3m34s)** - **Antwort Lucas Auer (VZBV)**: Die Bewertung von Risiken gehört zu den Leistungserbringern, nicht zu Krankenkassen. Eine informierte Zustimmung der Versicherten ist nötig.
+- **[01:05:01](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h5m1s)** - **Frage der CDU/CSU an Deutsche Krankenhausgesellschaft zur digitalen Reife**: Wie kann digitale Reife zur Weiterentwicklung der Krankenhausdigitalisierung beitragen, und wann sind KHZG-Projekte abgeschlossen?
+- **[01:05:35](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h5m35s)** - **Antwort Deutsche Krankenhausgesellschaft**: Digitale Reife ist ein wesentlicher Punkt zur Überwachung des Fortschritts; mehr Mut bei Pilotierungen ist notwendig.
+- **[01:07:40](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h7m40s)** - **Frage der CDU/CSU an AOK/VZBV zur Praxistauglichkeit von Apps**: Woran liegt die schlechte Bewertung von Gesundheits-Apps, und muss mehr auf Praxistauglichkeit geachtet werden?
+- **[01:08:25](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h8m25s)** - **Antwort AOK zur Praxistauglichkeit**: Pragmatischere Vorgehensweise bei Authentifizierung und Identifizierung ist nötig, um den Einstieg zu erleichtern.
+- **[01:09:21](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h9m21s)** - **Antwort VZBV zur Praxistauglichkeit**: Nicht an Datenschutz sparen; alternative Nutzungsmöglichkeiten unabhängig von Endgeräten und verbesserte Supportangebote sind nötig.
+- **[01:10:35](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h10m35s)** - **Frage der CDU/CSU an Charité zur Innovationsfähigkeit des Gesundheitsrechts**: Wie kann das Gesundheitsrecht innovationsfähig bleiben und welche Schutzvorkehrungen sind nötig?
+- **[01:10:51](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h10m51s)** - **Antwort Charité**: Das Gesetz sollte technologieneutral sein und die Governance auf Organisationen übertragen.
+- **[01:11:47](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h11m47s)** - **Frage der CDU/CSU an KBV zur digitalen Terminvergabe**: Wie kann die künftige digitale Terminvergabe aussehen und mit privaten Plattformen zusammenarbeiten? Wie geht man damit um, dass EPA-Apps nur bei ca. 5% der Versicherten installiert sind?
+- **[01:12:23](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h12m23s)** - **Antwort KBV zur digitalen Terminvergabe**: Ein gleichberechtigter Einstieg über +116 117 in die medizinische Ersteinschätzung und Terminvermittlung ist nötig. Die Terminorganisation liegt bei den Praxen.
+- **[01:13:41](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h13m41s)** - **Frage der CDU/CSU an PKV zum Einbinden privater Patienten**: Wie sieht die Einbindung privater Patienten aus und wo besteht Regelungsbedarf?
+- **[01:13:59](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h13m59s)** - **Antwort PKV**: Gesetzliche Verpflichtung für Primärversorgungssysteme, Gematik-Spezifikationen vollständig umzusetzen, ist erforderlich.
+- **[01:14:44](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h14m44s)** - **Frage der AfD an SPIFA zum Arzt-Patienten-Verhältnis und Krankenkassenzugriff**: Wie wird das Spannungsfeld zwischen Arzt-Patienten-Verhältnis und erweitertem Zugriff der Krankenkassen auf EPA-Daten bewertet?
+- **[01:15:19](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h15m19s)** - **Antwort SPIFA zum Arzt-Patienten-Verhältnis**: Erweiterter Krankenkassenzugriff kann zu zurückhaltender Dokumentation und Widerspruch zur guten Versorgung führen.
+- **[01:16:28](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h16m28s)** - **Frage der AfD an Bundesbeauftragten für Datenschutz (Andreas Hartl) zum Widerspruchsrecht**: Wie kann ein Versicherter sein Widerspruchsrecht wirksam wahrnehmen, und welche Ergänzungen braucht der Entwurf für gezielte Begrenzung des Zugriffs?
+- **[01:17:12](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h17m12s)** - **Antwort Bundesbeauftragter für Datenschutz**: Begrüßt feingranulares Rechtemanagement; es braucht laufende Beobachtung und Nachschärfung.
+- **[01:18:41](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h18m41s)** - **Frage der AfD an IQWiG (Prof. Matthes) zu Gesundheitsapps auf Rezept**: Sollten DiGA erst erstattet werden, wenn ihr Nutzen eindeutig belegt ist?
+- **[01:19:15](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h19m15s)** - **Antwort IQWiG**: DiGA sollten generell einer Nutzenbewertung unterzogen werden.
+- **[01:19:56](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h19m56s)** - **Nachfrage der AfD an Prof. Matthes zu Kosten für nicht nachgewiesene DiGA**: Wie viele Millionen Euro wurden für Apps bezahlt, die später gestrichen wurden?
+- **[01:20:19](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h20m19s)** - **Antwort IQWiG**: Genaue Zahlen liegen nicht vor, da keine Nutzenbewertung erfolgte.
+- **[01:20:42](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h20m42s)** - **Frage der AfD an Praxisdigital.info (Dr. Rennert) zu Entlastungen**: Welche Entlastungen könnten sich aus der Einbeziehung von Formularen der Selbstverwaltung in die Überprüfung von Berichtspflichten ergeben?
+- **[01:21:14](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h21m14s)** - **Antwort Praxisdigital.info**: Guter Informationsaustausch zwischen allen Beteiligten ist wichtig.
+- **[01:21:49](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h21m49s)** - **Letzte Frage der AfD an Bundesbeauftragten für Datenschutz (Andreas Hartl) zur Sekundärnutzung**: Wie groß ist das Risiko der Re-Identifizierung von Patienten über verknüpfte Datensätze, und welche Sicherheitsvorgaben sind nötig?
+- **[01:24:43](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h24m43s)** - **Antwort Bundesbeauftragter für Datenschutz zur Sekundärnutzung**: KI verschärft das Problem der Re-Identifizierung; es braucht laufende Beobachtung und Nachschärfung.
+- **[01:25:44](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h25m44s)** - **Frage der AfD an KBV zum Arzt-Patienten-Geheimnis und Online-Daten**: Wie sehen Sie die Diskrepanz zwischen dem Arzt-Patienten-Geheimnis und der Online-Verfügbarkeit von Daten?
+- **[01:26:19](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h26m19s)** - **Antwort KBV zum Arzt-Patienten-Geheimnis**: Erweiterte Auswertungsmöglichkeiten der Krankenkassen kritisch gesehen als Eingriff in die Arzt-Patienten-Beziehung.
+- **[01:27:02](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h27m2s)** - **Frage der SPD an TMF (Herr Semmler) zur Datenverknüpfung für Forschung**: Reichen die Regelungen zur Forschungskennziffer aus, oder welche Voraussetzungen braucht es für eine sichere Datenverknüpfung?
+- **[01:27:31](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h27m31s)** - **Antwort TMF**: Braucht eine sektorenübergreifend wirksame Forschungskennziffer mit Beteiligung von Wissenschaft und Patientenverbänden.
+- **[01:28:50](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h28m50s)** - **Frage der SPD an SVDGV (Dr. Geyer) zur Einlösung von DiGA**: Was sind die größten Hürden bei der Einlösung von DiGA, und wie können diese mit dem GDIG beseitigt werden?
+- **[01:29:14](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h29m14s)** - **Antwort SVDGV**: Braucht dringend einen automatisierten Einlöseprozess für DiGA mit konkreter Umsetzungsfrist.
+- **[01:30:22](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h30m22s)** - **Frage der SPD an Medizinischer Dienst Bund (Dr. Gronemeyer) zu digitalen Standards**: Braucht der Medizinische Dienst Bund zusätzliche gesetzliche Befugnisse, um digitale Standards verbindlich vorzugeben?
+- **[01:30:45](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h30m45s)** - **Antwort Medizinischer Dienst Bund**: Begrüßt die Stärkung der Steuerungskompetenzen für die digitale Architektur.
+- **[01:31:42](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h31m42s)** - **Letzte Frage an VZBV (Lucas Auer) zur EPA**: Was ist Ihr größter Wunsch in Bezug auf die EPA, der noch ins GDIG aufgenommen werden sollte?
+- **[01:31:54](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h31m54s)** - **Antwort VZBV zur EPA**: Feingranulares Berechtigungsmanagement für die EPA, damit Versicherte steuern können, welche Informationen sie teilen.
+- **[01:32:11](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h32m11s)** - **Frage der Grünen an VZBV zu Informationspflichten der Krankenkassen**: Welche konkreten gesetzlichen Mindestanforderungen wünschen Sie sich, damit Versicherte individuell erreicht werden?
+- **[01:32:51](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h32m51s)** - **Antwort VZBV zu Informationspflichten**: Öffentliche Hinweise sind ungeeignet; individuelle Information ist nötig, eine Einwilligungslösung wäre ideal.
+- **[01:34:08](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h34m8s)** - **Frage der Grünen an GKV-Spitzenverband zu digitalen Kommunikationszustimmungen**: Wie viele Versicherte haben einer rein digitalen Kommunikation zugestimmt?
+- **[01:34:31](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h34m31s)** - **Antwort GKV-Spitzenverband zu digitalen Kommunikationszustimmungen**: Konkrete Zahlen können nicht genannt werden, werden aber nachgereicht.
+- **[01:34:49](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h34m49s)** - **Letzte Frage an Jens Baas (TK) zu Medizinprodukten/Implantaten**: Wäre die Meldung von Medizinprodukten/Implantaten an Krankenkassen zur Information bei Rückrufaktionen sachgerecht?
+- **[01:35:13](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h35m13s)** - **Antwort Jens Baas**: Ja, eine sinnvolle Vorgehensweise, die relativ bürokratiearm umzusetzen wäre.
+- **[01:35:45](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h35m45s)** - **Frage der CDU/CSU an Jens Baas/Bitkom zu disruptiven Lösungen**: Was wäre im GEDIG enthalten, um neben inkrementellen Verbesserungen auch disruptive Lösungen für die bestmögliche medizinische Qualität zu niedrigen Kosten zu ermöglichen?
+- **[01:36:56](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h36m56s)** - **Antwort Jens Baas**: Fokus auf Primärversorgung, Aufbau von Prozessen aus Patientensicht, nicht nur Digitalisierung alter Prozesse.
+- **[01:37:53](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h37m53s)** - **Antwort Bitkom**: Weiterdenken in der Sekundärdatennutzung, Strukturen schaffen, die Vorbild für andere Mitgliedstaaten sind.
+- **[01:38:50](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h38m50s)** - **Frage der CDU/CSU an Verband der Universitätsklinika zu Reallaboren**: Wie sinnvoll ist die aktuelle Regelung, dass nur Krankenkassen Reallabore beantragen dürfen, und würden Sie eine Erweiterung wünschen?
+- **[01:39:09](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h39m9s)** - **Antwort Verband der Universitätsklinika**: Plädiert für breiteren Scope an Reallaboren, da in der Universitätsmedizin viel Potenzial liegt.
+- **[01:39:25](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h39m25s)** - **Letzte Frage der CDU/CSU an Praxisdigital.info (Dr. Rennert) zu älteren PVS-Systemen**: Was muss getan werden, um modernere PVS-Systeme in der Breite zu bekommen?
+- **[01:39:45](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h39m45s)** - **Antwort Praxisdigital.info**: Praxen brauchen Unterstützung bei der Umstellung auf modernere Systeme, die KVen sind in der Pflicht, Beratungsangebote zu schaffen.
+- **[01:40:40](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h40m40s)** - **Letzte Ja/Nein-Frage der CDU/CSU an GKV-Spitzenverband/KBV zur digitalen Ersteinschätzung**: Was kann technisch/organisatorisch verhindert werden, damit es keine "Klick-und-Krank"-Systeme gibt?
+- **[01:40:56](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h40m56s)** - **Antwort KBV zur digitalen Ersteinschätzung**: Braucht Patienten-ID und eine gute wissenschaftliche Fundierung des Systems.
+- **[01:41:21](https://www.youtube.com/watch?v=Wt2B2NkH1dQ&t=1h41m21s)** - **Schlussbemerkung des Vorsitzenden**: Dank an alle für den disziplinierten Sitzungsablauf.
