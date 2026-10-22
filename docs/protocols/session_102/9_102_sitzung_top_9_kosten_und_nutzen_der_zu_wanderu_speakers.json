@@ -1,0 +1,122 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum Thema \"Bilanz der Zuwanderung in Deutschland: Kosten und Nutzen\" spiegeln die im Bundestag geführte Debatte wider. Während Abgeordnete der AfD auf angebliche hohe Kosten und die Notwendigkeit einer detaillierten finanziellen Erfassung verweisen, betonen Abgeordnete von SPD, Bündnis 90/Die Grünen und Die Linke die soziale und wirtschaftliche Bereicherung durch Zuwanderung und kritisieren die ökonomisierende Betrachtung von Menschen. Die CDU/CSU versucht, eine differenzierte Sichtweise einzunehmen, die sowohl Chancen als auch Belastungen anerkennt.",
+  "sources": [
+    {
+      "name": "Hans-Jürgen Goßner",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er fordert eine umfassende und transparente Erfassung der Kosten und Nutzen von Zuwanderung, vergleichbar mit Studien in Dänemark und den Niederlanden, um die finanziellen Belastungen für den deutschen Sozialstaat offenzulegen. Er verweist auf Medienberichte, die von extrem hohen Kosten ausgehen.",
+      "source_title": "AfD fordert Bilanz der Migrationskosten",
+      "url": "https://www.bundestag.de/abgeordnete/1052452-1052452",
+      "platform": "Presse"
+    },
+    {
+      "name": "Detlef Seif",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Er kritisiert den AfD-Antrag als einseitig, da er nur negative Aspekte beleuchte und positive Beiträge ignoriere. Er betont, dass bereits Daten erhoben würden und die Forderung der AfD populistische Symbolpolitik sei. Er hebt hervor, dass Deutschland sowohl Chancen nutzen als auch schädliche Zuwanderung verhindern wolle.",
+      "source_title": "Hitzige Debatte über Kosten und Nutzen der Zuwanderung",
+      "url": "https://www.bundestag.de/abgeordnete/1052452-1052452",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ingo Hahn",
+      "party": "AfD",
+      "found": false,
+      "statement": "Er räumt ein, dass Zuwanderung Produktivität bringen könne, fokussiert sich aber auf die Probleme, die durch \"illegale Masseneinwanderung\" seit 2015 entstünden, wie Wohnraumknappheit. Er fordert erneut eine Kosten-Nutzen-Analyse und die Rückführung illegal aufhältiger Personen.",
+      "source_title": "Ingo Hahn - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Timon Dzienus",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Er kritisiert den Titel des AfD-Antrags scharf als menschenverachtend und eine Erinnerung an dunkle Zeiten der Geschichte. Er betont die Bereicherung durch Migration und bezeichnet die AfD als rechtsextreme Partei, die Deutschland spalten wolle. Er fordert Demokraten auf, sich der AfD entgegenzustellen.",
+      "source_title": "Hitzige Debatte über Kosten und Nutzen der Zuwanderung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rasha Nasr",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sie äußert Frustration über die ständige Debatte über Kosten von Menschen und betont, dass der Wert eines Menschen nicht von seinem Beitrag zum Staat abhänge. Sie spricht zuhörenden Menschen Mut zu und drückt ihren Wunsch nach einer sachlicheren und weniger ausgrenzenden Debatte aus.",
+      "source_title": "Rasha Nasr - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sie kritisiert, dass die AfD statt über reale Probleme lieber Sündenböcke präsentiere und lehnt die Kosten-Nutzen-Bewertung von Menschen ab, da diese diskriminiere und zu gefährlicher Instrumentalisierung historischer Argumente führe. Sie betont die unantastbare Würde des Menschen.",
+      "source_title": "Clara Bünger - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Markus Reichel",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Jan Feser",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Daniela Rump",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sie betont, dass Deutschland ein Einwanderungsland sei und Menschen mit Migrationshintergrund beitragen. Sie kritisiert die AfD-Berechnungen als wissenschaftlich nicht belastbar und absurd, da sie dänische Modellrechnungen auf Deutschland übertrage. Sie hebt die positiven Beiträge ausländischer Beschäftigter zur Wirtschaft hervor.",
+      "source_title": "Daniela Rump - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Schahina Gambir",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Cansin Köktürk",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sie äußert Frust über die politische Prioritätensetzung der AfD und lehnt die Diskussion über den Kosten-Nutzen-Wert von Menschen kategorisch ab, da sie dies mit historischen Ausgrenzungsmechanismen vergleicht. Sie betont die Bedeutung von Mitgefühl und Solidarität.",
+      "source_title": "Cansın Köktürk – Abgeordneter im Bundestag (Die Linke)",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Florian Oest",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er argumentiert, dass eine ehrliche Bilanz sowohl Chancen als auch Belastungen berücksichtigen müsse und eine klare Unterscheidung zwischen Fachkräftemigration und Asylmigration erfordere. Er betont, dass Solidarität keine Einbahnstraße sei und Zuwanderer zum Sozialsystem beitragen müssten.",
+      "source_title": "Florian Oest - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "René Springer",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

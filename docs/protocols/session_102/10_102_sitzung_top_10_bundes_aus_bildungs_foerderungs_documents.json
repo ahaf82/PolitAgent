@@ -1,0 +1,65 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion – Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Antrag der Fraktion Bündnis 90/Die Grünen zur grundlegenden Reform des Bundesausbildungsförderungsgesetzes (BAföG) wurde in einer namentlichen Abstimmung mit 442 Ja-Stimmen, 141 Nein-Stimmen und 0 Enthaltungen abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=726100",
+    "overall_result": {
+      "ja": 442,
+      "nein": 141,
+      "enthaltung": 0,
+      "nicht_abgegeben": 47
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 208,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "SPD",
+        "ja": 0,
+        "nein": 120,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 150,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 141,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 64,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 0,
+        "nein": 3,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

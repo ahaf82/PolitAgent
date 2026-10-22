@@ -8,86 +8,80 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=M0mavtw-HLU)
 
 ## Kurzzusammenfassung
-Die Sitzung des Deutschen Bundestages befasste sich mit der Einführung einer Frühstartrente, einem Gesetzentwurf der Bundesregierung zur Förderung der Altersvorsorge junger Menschen. Diskutiert wurden die Chancen und Risiken, die Höhe der staatlichen Förderung sowie die Rolle von Finanzbildung. Während die Koalitionsfraktionen die Frühstartrente als wichtigen Schritt zur Stärkung der Altersvorsorge und finanziellen Bildung lobten, kritisierten Oppositionsparteien die Höhe der Förderung und die Ungleichbehandlung bestimmter Kinderjahrgänge. Zudem wurden Anträge der AfD und Die Linke zur Stärkung der Altersvorsorge und Finanzbildung beraten und abgestimmt.
+Die Debatte im Deutschen Bundestag befasste sich mit dem Gesetzentwurf der Bundesregierung zur Einführung einer Frühstartrente. Ziel des Gesetzes ist es, Kindern und Jugendlichen frühzeitig den Einstieg in die kapitalgedeckte Altersvorsorge zu ermöglichen und die finanzielle Bildung zu stärken. Diskutiert wurden die Höhe der staatlichen Förderung, die Anlagemöglichkeiten, die Rolle der Eltern sowie die potenziellen Auswirkungen auf soziale Ungleichheit. Die Fraktionen vertraten unterschiedliche Positionen hinsichtlich der Angemessenheit der Förderung und der Zielerreichung des Gesetzes.
 
 ## Kernaussagen und Positionen der Fraktionen
 - **SPD**:
-  - Die Frühstartrente ist ein historischer Schritt zur Modernisierung der Altersvorsorge und wird vielen helfen, eine vernünftige Altersvorsorge aufzubauen.
-  - Die Förderung von 10 Euro pro Kind pro Monat, beginnend ab dem 6. Lebensjahr, nutzt den Zinseszinseffekt für langfristigen Vermögensaufbau.
-  - Das staatlich organisierte Standarddepot bietet eine sichere Alternative für diejenigen, die sich nicht am freien Markt orientieren möchten.
-  - Die Frühstartrente beinhaltet einen Bildungsaspekt und soll die Auseinandersetzung mit dem Kapitalmarkt fördern.
-  - Die Anbindung an die Digitale Rentenübersicht soll Transparenz schaffen.
-  - Die Koalition liefert mit diesem Gesetz und der Altersvorsorgereform gute Ergebnisse für die Bürger.
+  - Die Frühstartrente ist ein historischer Schritt zur Modernisierung der Altersvorsorge und wird vielen Menschen beim Aufbau einer vernünftigen Altersvorsorge helfen.
+  - Die Förderung von 10 Euro pro Kind pro Monat, beginnend ab dem 6. Lebensjahr, nutzt den Zinseszinseffekt für einen langfristigen Vermögensaufbau.
+  - Ein staatlich organisiertes Standarddepot soll zusätzliche Sicherheit bieten und die Kosten auf 1 Prozent deckeln, um hohe Gebühren zu vermeiden.
+  - Auch Kinder, deren Eltern keinen Vertrag abschließen, werden durch eine staatliche Auffanglösung bei der Bundesbank berücksichtigt.
+  - Das Gesetz hat einen wichtigen Bildungsaspekt und soll die Menschen stärker mit dem Kapitalmarkt beschäftigen und in die Digitale Rentenübersicht integriert werden.
 - **AfD**:
-  - Die Frühstartrente ist weder "früh" noch "Rente" und reicht nicht aus, um einen substanziellen Beitrag zur Altersvorsorge zu leisten.
-  - Die Koalition habe das Rentenniveau von 70% nicht eingelöst und stattdessen eine "Finanzbildung" als Alibi eingeführt.
-  - Die AfD fordert ein "Junior-Spardepot" mit 100 Euro monatlicher Förderung ab Geburt, um langfristig ein sechsstelliger Vermögen für jedes Kind zu schaffen.
-  - Kritisiert wird, dass die Frühstartrente die soziale Ungleichheit zementiert, da wohlhabende Eltern zusätzlich einzahlen und Steuern sparen können.
-  - Die staatliche Förderung sei zu gering und die Gelder fielen bei Nichtabruf bis 35 Jahre an den Bund zurück.
+  - Die Frühstartrente sei weder "früh" noch "Rente" und biete ohne konsequente eigene Einzahlungen keine ausreichende Vorsorge.
+  - Das Junior-Spardepot der AfD sieht 100 Euro pro Monat für 18 Jahre vor, um langfristig ein sechsstellige Vermögen für jedes Kind zu schaffen.
+  - Das Problem sei nicht mangelnde Finanzkompetenz, sondern ein "heruntergewirtschaftetes Rentensystem", das seine Zusagen nicht mehr erfüllen könne.
+  - Die Frühstartrente zementiere finanzielle Wissenslücken und soziale Ungleichheit, da sie private Anbieter zulasse, die primär an ihren eigenen Profiten interessiert seien.
+  - Die Koalition legitimiere Finanzlobbyismus in der Finanzbildung, während die AfD auf Aufbruch und Eigenverantwortung setze.
 - **CDU/CSU**:
-  - Die Frühstartrente ist ein wichtiger Mosaikstein nach der großen Reform der privaten Altersvorsorge im März.
-  - Die Vernetzung zwischen Frühstartrente und privater Altersvorsorge ist nahtlos und schlüssig.
-  - Das Gesetz ermöglicht den Einstieg in die kapitalgedeckte private Altersvorsorge bereits ab dem sechsten Lebensjahr.
-  - Die finanzielle Bildung wird gestärkt, indem die Menschen positive Erfahrungen am Kapitalmarkt sammeln können.
-  - Es wird eine Win-Win-Situation für den Einzelnen und den Kapitalmarkt geschaffen.
-  - Die Frühstartrente ist ein Teil der generationengerechten Politik.
+  - Die Frühstartrente sei ein wichtiger Mosaikstein der Altersvorsorgereform und funktioniere gut in Kooperation mit der SPD.
+  - Die Vernetzung mit der privaten Altersvorsorge sei durch die Reform der privaten Altersvorsorge im März dieses Jahres geschaffen worden und biete einen nahtlosen Übergang.
+  - Ziel sei es, den Einstieg in die kapitalgedeckte private Altersvorsorge bereits ab dem sechsten Lebensjahr zu ermöglichen.
+  - Die finanzielle Bildung sei ein wichtiger Aspekt, und der Kapitalmarkt biete trotz Risiken überwiegenende Chancen.
+  - Die Frühstartrente sei ein Baustein zur Stärkung des Kapitalmarkts und schaffe eine Win-Win-Situation für Sparer und Unternehmen.
 - **Bündnis 90/Die Grünen**:
-  - Die Frühstartrente bleibt eine Krücke und zementiert finanzielle Wissenslücken und soziale Ungleichheit.
-  - Die Zulassung privater Anbieter zur Finanzbildung wird kritisiert, da diese kommerzielle Interessen verfolgen.
-  - Die Koalition hat die Chance verstreichen lassen, unabhängige und hochwertige Bildungsangebote zu schaffen.
-  - Die pauschale Kürzung beim Jahrgang 2020 wird als ungerecht kritisiert, da alle Kinder bis zur Volljährigkeit einbezogen werden könnten.
-  - Die Prioritäten der Koalition werden hinterfragt, da Gelder für Mineralölkonzerne vorhanden seien, aber nicht für Kinder.
-  - Die Ausgestaltung der Kollektivanlage führt dazu, dass Kinder aus finanziell schwächeren Häusern benachteiligt werden und das Vermögen verfallen könnte.
-  - Die Umsetzung des staatlich verwalteten Standarddepots wird verzögert.
+  - Die Frühstartrente bleibe eine Krücke, die finanzielle Wissenslücken und soziale Ungleichheit von Kindesbeinen an zementiere, da sie privaten Anbietern erlaube, bei der Finanzbildung mitzumischen.
+  - Es sei absurd, Finanzprodukthersteller über gesunde Ernährung zu informieren zu lassen.
+  - Die Koalition hätte die Chance verstreichen lassen, unabhängige und hochwertige Bildungsangebote zu schaffen.
+  - Die harte Stichtagsregelung für die Jahrgänge sei ungerecht, und es sei politisch gewollt, dass die Koalition dafür kein Geld bereitstelle.
+  - Die Kollektivanlage bei der Bundesbank führe dazu, dass Kinder nicht erfahren, wie sich ihr Vermögen entwickelt und dass das Vermögen nach dem 18. Geburtstag verfalle oder in teuren Verträgen lande.
+  - Die Lösung sei ein öffentliches Standardprodukt, das unverzüglich an den Start gebracht werden müsse.
 - **Die Linke**:
-  - Die Frühstartrente ist kein Mittel zur Bekämpfung von Altersarmut oder Ungerechtigkeiten, sondern subventioniert Ungleichheit.
-  - Es gibt einen Unterschied zwischen Gleichheit und Gerechtigkeit; gleiche Beträge führen nicht zu gerechten Ergebnissen.
-  - Kinder aus wohlhabenden Elternhäusern profitieren unverhältnismäßig stärker von Steuerfreiheiten und zusätzlichen Einzahlungen.
-  - Die Frühstartrente wird als "neues Ungerechtigkeitsbarometer auf den Schulhöfen" kritisiert.
-  - Stattdessen sollen die Mittel in die gesetzliche Rente, Kitas, Sozialarbeit und die Unterstützung benachteiligter Kinder investiert werden.
-  - Die Förderung der finanziellen Bildung muss multiperspektivisch und unabhängig von Anlageklassen erfolgen und die Lebensrealität der Schüler berücksichtigen.
+  - Die Frühstartrente sei kein Mittel zur Bekämpfung von Altersarmut, sondern subventioniere Ungerechtigkeit.
+  - Es gebe einen Unterschied zwischen Gleichheit und Gerechtigkeit; 10 Euro Förderung pro Kind seien nicht gerecht, da reiche Eltern dadurch Steuern sparen könnten.
+  - Die Kinder würden ihre Depots auf dem Schulhof vergleichen und das sei ein neues Ungerechtigkeitsbarometer.
+  - Die Priorität sollte auf Investitionen in Kitas, Sozialarbeit und die Unterstützung benachteiligter Kinder gelegt werden.
+  - Finanzielle Bildung müsse multiperspektivisch, unabhängig und an der Lebensrealität der Schüler ansetzen, was in der Frühstartrente fehle.
 - **SPD (Frauke Heiligenstadt)**:
-  - Die Beispiele von Kai und Greta werden als übertriebene Gegenargumente zurückgewiesen.
-  - Alle Kinder erhalten monatlich 10 Euro, unabhängig vom Einkommen der Eltern.
-  - Die Kollektivanlage ist eine Lösung für Eltern, die keinen Vertrag abschließen können, und die Linke sollte dies begrüßen.
-  - Die Frühstartrente ist eine sinnvolle Ergänzung zur lebensstandardsichernden Rente und stärkt die finanzpolitische Bildung.
-  - Frühere Reformen der Koalition (Haltelinie, Betriebsrentenstärkungsgesetz, Altersvorsorgereformgesetz, Aktivrente) werden aufgeführt.
-- **CDU/CSU (Dr. Florian Dorn)**:
-  - Die finanzielle Bildung kommt in der Schule zu kurz, was zu Lücken bei Themen wie Zinseszinseffekt führt.
-  - Deutschland ist Weltmeister im Sparen, nutzt aber die Chancen des Kapitalmarkts zu wenig.
-  - Die Frühstartrente ermöglicht den frühzeitigen Aufbau einer kapitalgedeckten Altersvorsorge und fördert die finanzielle Bildung durch Erfahrung.
-  - Sie adressiert alle Kinder, unabhängig von ihren materiellen Voraussetzungen.
-  - Die Frühstartrente dient als Anschauungsobjekt für Anlageverhalten und Eigenverantwortung.
+  - Die Kritik der Grünen am Beispiel Kai und Greta sei überzogen, da die 10 Euro für alle Kinder gleich seien und die Möglichkeit freiwilliger Zuzahlungen bestehe.
+  - Die Linke betreibe Populismus, da die Kollektivanlage für alle Kinder eine Form der Altersvorsorge darstelle.
+  - Die Frühstartrente sei Teil einer umfassenden Finanzbildungsstrategie und diene der lebensstandardsichernden Rente.
+  - Die Koalition habe bereits wichtige Reformen wie die Haltelinie, das Betriebsrentenstärkungsgesetz und die Altersvorsorgereform beschlossen.
+- **CDU/CSU (Dr. Carsten Brodesser)**:
+  - Die Frühstartrente sei ein weiteres wichtiges Reformvorhaben und diene der Generationengerechtigkeit.
+  - Junge Menschen sollen früh in die kapitalgedeckte Altersvorsorge einsteigen, und die finanzielle Bildung soll durch positive Erfahrungen gestärkt werden.
+  - Die 10 Euro seien ein Impuls, der die Eltern zu einer aufgeklärten und mündigen Entscheidung anrege.
+  - Verbesserungen im parlamentarischen Verfahren umfassten die Kosten, die Anlageklassen der Kollektivanlage, die Anerkennung des öffentlichen Standarddepots und die steuerliche Behandlung.
+  - Das Gesetz schaffe eine neue Kultur des Sparens und mache Sparer zu Investoren.
 - **AfD (Torben Braga)**:
-  - Verbesserungen im Ausschuss (Kostenbegrenzung, Anlageklassen, Rückzahlung bei Tod) werden anerkannt, aber als unzureichend betrachtet.
-  - Die Förderung sei weiterhin zu gering (10 Euro), beginne zu spät (6. Lebensjahr) und schaffe kein Vermögen, sondern nur eine Aussicht.
-  - Es bestehe die Gefahr, dass die Gelder an den Bund zurückfallen.
-  - Stichtagsregelungen führen zu Ungerechtigkeiten, die nicht behoben wurden.
-  - Die Ablehnung des Junior-Spardepots der AfD wird kritisiert; das Geld wäre vorhanden, werde aber anders ausgegeben (Verteidigung, Ukraine).
+  - Positive Korrekturen im Ausschuss seien die Gültigkeit des Kostenverbots bis zur Auszahlungsphase und die Festlegung auf globale Aktienfonds für die Kollektivanlage.
+  - Wesentliche Kritikpunkte wie der Förderbetrag von 10 Euro, der Beginn ab dem sechsten Lebensjahr und die unzureichende Vermögensbildung blieben bestehen.
+  - Die Gelder aus der Kollektivanlage fielen weiterhin an den Bundeshaushalt an, wenn sie nicht abgerufen würden.
+  - Stichtagsregelungen schafften Ungerechtigkeiten, und die AfD fordert 100 Euro monatlich ab Geburt.
+- **CDU/CSU (Dr. Florian Dorn)**:
+  - Der Umgang mit Geld müsse thematisiert werden, da die finanzielle Bildung in Schulen zu kurz komme.
+  - Die Frühstartrente sei ein Leuchtturmprojekt der Finanzbildungsstrategie, das Chancengerechtigkeit fördere und erfahrungsbasiertes Wissen ermögliche.
+  - Persönliche Erfahrungen mit dem Kapitalmarkt prägten das Anlageverhalten und förderten die Eigenverantwortung in der Altersvorsorge.
 - **AfD (Diana Zimmer)**:
-  - Die Frühstartrente ist ein "Impuls" im Vergleich zu den 100 Euro des AfD-Vorschlags.
-  - Der Unterschied bei der Rentenphase (12.500 Euro vs. 214.000 Euro) sei enorm dank des Zinseszinseffekts.
-  - Das AfD-Konzept ermöglicht einen substanziellen Kapitalstock unabhängig von der finanziellen Kraft der Eltern.
-  - Steuern wie CO2-Preis und Zuckersteuer verringern die finanziellen Spielräume der Familien.
-  - Die Finanzierbarkeit des AfD-Vorschlags sei durch Einsparungen in anderen Bereichen belegt.
+  - Die Frühstartrente sei nicht für die Zukunft der Kinder wertvoll genug und biete im Vergleich zum AfD-Vorschlag von 100 Euro monatlich nur geringe staatliche Einzahlungen.
+  - Die finanziellen Spielräume der Familien würden durch CO2-Bepreisung und weitere Steuern verringert.
+  - Die Finanzierbarkeit des AfD-Vorschlags sei durch Einsparungen in anderen Haushaltsbereichen möglich.
+  - Die Frühstartrente sei angesichts der geringen staatlichen Beiträge keine neue Säule der Altersversicherung.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=M0mavtw-HLU&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung beginnt mit der Ankündigung der Beratung des Gesetzentwurfs zur Einführung einer Frühstartrente sowie von Anträgen der AfD und der Linken zu Junior-Spardepots und finanzieller Bildung.
-- **[00:37](https://www.youtube.com/watch?v=M0mavtw-HLU&t=37s)** - **Eröffnung der Debatte durch Michael Thews (SPD)**: Er bezeichnet die Frühstartrente als "historisch" und als Teil zwei der Modernisierung der Altersvorsorge. Ab dem 1. Januar 2027 soll die Förderung starten, rückwirkend ab dem 1. Januar 2026 für den Jahrgang 2020. Pro Kind gibt es 10 Euro Förderung. Die Wirkung des Zinseszins wird betont, was bis ins Rentenalter zu einer erheblichen Summe und zusätzlichen monatlichen Renten führen kann. Ein Standarddepot mit gedeckelten Kosten von 1 Prozent wird als sicher hervorgehoben. Es wird ein staatlich organisiertes Standarddepot eingeführt. Die Frühstartrente ist mit der privaten Altersvorsorge abgestimmt, um einen nahtlosen Übergang zu gewährleisten. Auch Kinder, deren Eltern keinen Vertrag abschließen, werden durch eine staatliche Auffanglösung bei der Bundesbank berücksichtigt. Die Frühstartrente soll zudem die Beschäftigung mit dem Kapitalmarkt fördern und wird in die Digitale Rentenübersicht integriert.
-- **[07:14](https://www.youtube.com/watch?v=M0mavtw-HLU&t=7m14s)** - **Redebeitrag von Ulrike Schielke-Ziesing (AfD)**: Sie kritisiert die Rentenreform der Koalition als gescheitert und die Frühstartrente als unzureichend. Die AfD schlägt ein "Junior-Spardepot" mit 100 Euro monatlicher Förderung vor, um langfristig ein sechsstelliger Vermögen zu schaffen. Die Frühstartrente sei weder "früh" noch "Rente" und setze auf Finanzbildung statt auf substanzielle Rentenpolitik. Sie kritisiert, dass die Koalition die Vorstellung privater Vermögensbildung als "Teufelswerk" betrachte und die Frühstartrente eher zu Ungleichheit führe, da wohlhabende Eltern zusätzlich einzahlen könnten.
-- **[11:37](https://www.youtube.com/watch?v=M0mavtw-HLU&t=11m37s)** - **Redebeitrag von Fritz Güntzler (CDU/CSU)**: Er betont die gemeinsame Umsetzung der Frühstartrente durch die Koalition und hebt die Reform der privaten Altersvorsorge hervor. Die Frühstartrente sei ein Baustein, der nahtlos in die private Altersvorsorge übergeht. Er betont die Wichtigkeit der Langfristigkeit und des Zinseszinseffekts. Die finanzielle Bildung wird als wichtiger Aspekt hervorgehoben, da der Kapitalmarkt Chancen biete und die Menschen daran teilhaben sollten.
-- **[17:14](https://www.youtube.com/watch?v=M0mavtw-HLU&t=17m14s)** - **Redebeitrag von Stefan Schmidt (Bündnis 90/Die Grünen)**: Er kritisiert, dass die Frühstartrente die Chancenungleichheit zementiere. Die Zulassung privater Anbieter zur Finanzbildung sei problematisch. Er bemängelt den harten Stichtag beim Jahrgang 2020 und die damit verbundene Ausgrenzung anderer Jahrgänge. Die Koalition würde Milliarden für Mineralölkonzerne ausgeben, aber nicht für Kinder. Die Ausgestaltung der Kollektivanlage benachteilige Kinder aus finanziell schwächeren Familien.
-- **[27:21](https://www.youtube.com/watch?v=M0mavtw-HLU&t=27m21s)** - **Redebeitrag von Sarah Vollath (Die Linke)**: Sie schildert die Lebensrealitäten von Kindern aus benachteiligten Familien und kritisiert, dass die Frühstartrente die Ungleichheit verstärke. Die 10 Euro Förderung würden nicht die gleichen Perspektiven schaffen wie die zusätzlichen Einzahlungen wohlhabender Eltern. Sie fordert Investitionen in die gesetzliche Rente, Kitas und Sozialarbeit anstelle der Frühstartrente.
-- **[30:34](https://www.youtube.com/watch?v=M0mavtw-HLU&t=30m34s)** - **Redebeitrag von Frauke Heiligenstadt (SPD)**: Sie verteidigt die Frühstartrente gegen die Kritik der Grünen und Linken und betont, dass alle Kinder 10 Euro erhalten, unabhängig vom Einkommen der Eltern. Die Kollektivanlage sei eine Lösung für Eltern, die keinen Vertrag abschließen können. Sie zählt frühere Rentenreformen der Koalition auf und hebt die Bedeutung der finanziellen Bildung hervor.
-- **[36:55](https://www.youtube.com/watch?v=M0mavtw-HLU&t=36m55s)** - **Redebeitrag von Iris Nieland (AfD)**: Sie wiederholt die Kritik an der unzureichenden Höhe der Förderung und der mangelnden Klarheit bei der Zielerreichung. Die AfD bekräftigt ihren Vorschlag eines Junior-Spardepots mit höherer Förderung.
-- **[41:06](https://www.youtube.com/watch?v=M0mavtw-HLU&t=41m6s)** - **Redebeitrag von Dr. Carsten Brodesser (CDU/CSU)**: Er hebt die Bedeutung der Frühstartrente für junge Menschen und die Generationengerechtigkeit hervor. Die Förderung diene dazu, junge Menschen früh in die kapitalgedeckte Altersvorsorge einzubinden und die finanzielle Bildung durch positive Erfahrungen zu stärken. Das Standardprodukt mit Kostendeckel von 1 Prozent und die kollektive Anlage in globalen Aktienfonds werden als Verbesserungen hervorgehoben.
-- **[46:37](https://www.youtube.com/watch?v=M0mavtw-HLU&t=46m37s)** - **Redebeitrag von Isabelle Vandre (Die Linke)**: Sie lehnt die Frühstartrente ab und kritisiert erneut die Ungleichheit, die sie schaffe. Sie verweist auf die Unterschiede im Wert der Depots bei Kindern mit und ohne zusätzliche Einzahlungen der Eltern und bezeichnet dies als "neues Ungerechtigkeitsbarometer".
-- **[50:01](https://www.youtube.com/watch?v=M0mavtw-HLU&t=50m1s)** - **Redebeitrag von Dr. Stefan Korbach (CDU/CSU)**: Er betont die Notwendigkeit, über Geld zu sprechen und die finanzielle Bildung zu stärken, da in Deutschland die Chancen des Kapitalmarkts zu wenig genutzt werden. Die Frühstartrente sei ein Leuchtturmprojekt der Finanzbildungsstrategie, das durch erfahrungsbasiertes Wissen die Eigenverantwortung fördert.
-- **[54:36](https://www.youtube.com/watch?v=M0mavtw-HLU&t=54m36s)** - **Redebeitrag von Torben Braga (AfD)**: Er nennt positive Korrekturen im Gesetzentwurf, kritisiert aber weiterhin die geringe Förderung und die Stichtagsregelungen. Die AfD wiederholt die Forderung nach dem Junior-Spardepot und verweist auf finanzielle Spielräume in anderen Haushaltsbereichen. Die Inflationsrate werde die Kaufkraft der 10-Euro-Förderung weiter mindern.
-- **[58:31](https://www.youtube.com/watch?v=M0mavtw-HLU&t=58m31s)** - **Redebeitrag von Dr. Florian Dorn (CDU/CSU)**: Er wiederholt die Vorteile der Frühstartrente als Startkapital und zur Heranführung an die private Altersvorsorge und finanzielle Bildung. Die lange Spar- und Investitionsphase und der Zinseszinseffekt werden hervorgehoben.
-- **[1:03:39](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h3m39s)** - **Redebeitrag von Diana Zimmer (AfD)**: Sie vergleicht die Förderungshöhe der Frühstartrente mit dem Junior-Spardepot der AfD und betont den riesigen Unterschied im möglichen Vermögensaufbau. Sie kritisiert, dass Steuern und Abgaben die finanziellen Spielräume der Familien verringern.
-- **[1:06:49](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h6m49s)** - **Schluss der Aussprache und Abstimmung**: Nach Abschluss der Debatte stimmen die Fraktionen über den Gesetzentwurf und die Anträge ab.
-- **[1:07:55](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h7m55s)** - **Annahme des Gesetzentwurfs**: Der Gesetzentwurf zur Einführung der Frühstartrente wird in zweiter und dritter Beratung mit den Stimmen der Koalitionsfraktionen gegen die Stimmen von Bündnis 90/Die Grünen und Die Linke bei Enthaltung der AfD angenommen.
-- **[1:09:02](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h9m2s)** - **Ablehnung des Entschließungsantrags der Grünen**: Der Entschließungsantrag von Bündnis 90/Die Grünen wird abgelehnt.
-- **[1:09:22](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h9m22s)** - **Ablehnung des Antrags der AfD**: Der Antrag der AfD zum Junior-Spardepot wird abgelehnt.
-- **[1:10:00](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h10m0s)** - **Ablehnung des Antrags der Linken**: Der Antrag der Linken zur finanziellen Bildung wird angenommen mit den Stimmen von SPD, CDU/CSU, AfD und Ablehnung von Bündnis 90/Die Grünen und Die Linken.
+- **[00:00:00](https://www.youtube.com/watch?v=M0mavtw-HLU&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wurde mit der Eröffnung der Debatte zum TOP 32, der Einführung einer Frühstartrente, durch den Abgeordneten Michael Thews (SPD) begonnen.
+- **[00:52](https://www.youtube.com/watch?v=M0mavtw-HLU&t=0m52s)** - **Michael Thews (SPD)**: Erklärt, dass die Frühstartrente eine historische Entscheidung sei, die vielen beim Aufbau einer Altersvorsorge helfen werde. Die Förderung beginne ab 2027 mit 10 Euro pro Kind und Jahrgang, was durch den Zinseszinseffekt zu einem nennenswerten Vermögen führen könne. Er betont die Sicherheit des Standarddepots mit Kostendeckel von 1 Prozent und die Möglichkeit, auch staatlich organisierte Standarddepots abzuschließen. Die Förderung fließe bei fehlendem Elternvertrag in eine staatliche Auffanglösung bei der Bundesbank.
+- **[07:14](https://www.youtube.com/watch?v=M0mavtw-HLU&t=7m14s)** - **Ulrike Schielke-Ziesing (AfD)**: Kritisiert die Frühstartrente als unzureichend und nicht "früh" oder "Rente" genug. Sie verweist auf das Rentenniveauziel von 70 Prozent und stellt den AfD-Vorschlag eines Junior-Spardepots mit 100 Euro monatlicher Förderung vor. Sie wirft der Koalition vor, die Frühstartrente als "Finanzbildung" zu verkaufen, während das eigentliche Problem ein "heruntergewirtschaftetes Rentensystem" sei.
+- **[11:37](https://www.youtube.com/watch?v=M0mavtw-HLU&t=11m37s)** - **Fritz Güntzler (CDU/CSU)**: Betont, dass mit der Frühstartrente ein weiteres zentrales Vorhaben der Koalition umgesetzt werde und dies zeige, dass die Koalition funktioniere. Er hebt die Vernetzung mit der privaten Altersvorsorge hervor und betont die Bedeutung des Zinseszinseffekts sowie die Notwendigkeit, die finanzielle Bildung zu stärken.
+- **[17:14](https://www.youtube.com/watch?v=M0mavtw-HLU&t=17m14s)** - **Stefan Schmidt (Bündnis 90/Die Grünen)**: Kritisiert, dass die Frühstartrente zu wenig zur Chancengleichheit beitrage und finanzielle Wissenslücken sowie soziale Ungleichheit zementiere. Er moniert die Zulassung privater Anbieter und vergleicht die Situation mit der Beauftragung von Süßigkeitenherstellern zur Gesundheitsaufklärung. Er kritisiert zudem die Stichtagsregelung und die Priorisierung von Ausgaben.
+- **[27:21](https://www.youtube.com/watch?v=M0mavtw-HLU&t=27m21s)** - **Sarah Vollath (Die Linke)**: Stellt die Chancengleichheit der Frühstartrente in Frage und kritisiert, dass reiche Eltern Steuern vermeiden könnten. Sie betont die Notwendigkeit von Investitionen in Kitas, Sozialarbeit und die Unterstützung benachteiligter Kinder anstelle von Finanzprodukten.
+- **[30:34](https://www.youtube.com/watch?v=M0mavtw-HLU&t=30m34s)** - **Frauke Heiligenstadt (SPD)**: Entgegnet den Kritikern der Grünen und Linken, dass die 10 Euro für alle Kinder gleich seien und auch Kinder, deren Eltern keinen Vertrag abschließen, durch eine Kollektivanlage berücksichtigt würden. Sie verteidigt die Frühstartrente als Teil einer umfassenden Finanzbildungsstrategie und listet bereits beschlossene Rentenreformen auf.
+- **[36:55](https://www.youtube.com/watch?v=M0mavtw-HLU&t=36m55s)** - **Iris Nieland (AfD)**: Führt die gravierenden Schwächen des Gesetzentwurfs an, darunter die zu vielen Ziele, die unzureichende Vorsorgewirkung der 10 Euro und den zusätzlichen Verwaltungsaufwand. Sie wiederholt das AfD-Konzept des Junior-Spardepots mit 100 Euro monatlich als schlüssigeren Ansatz.
+- **[41:09](https://www.youtube.com/watch?v=M0mavtw-HLU&t=41m9s)** - **Dr. Carsten Brodesser (CDU/CSU)**: Erinnert an die Altersvorsorgereform im März und bezeichnet die Frühstartrente als weiteres wichtiges Reformvorhaben. Er betont die Stärkung junger Menschen, die Generationengerechtigkeit und die Verbesserung der Finanzbildung durch praktische Erfahrungen. Er erläutert die Details des Gesetzes, einschließlich der Kostenbegrenzung und der Anlageklassen.
+- **[46:41](https://www.youtube.com/watch?v=M0mavtw-HLU&t=46m41s)** - **Isabelle Vandre (Die Linke)**: Wiederholt die Kritik, dass die Frühstartrente Ungerechtigkeit subventioniere und Kinder ihre Depots vergleichen würden. Sie fordert Investitionen in die gesetzliche Rente und direkte Hilfen für arme Familien. Sie kritisiert die Fixierung auf eine Anlageklasse und fordert eine Bildung, die an der Lebensrealität ansetzt.
+- **[50:01](https://www.youtube.com/watch?v=M0mavtw-HLU&t=50m1s)** - **Dr. Stefan Korbach (CDU/CSU)**: Betont die Notwendigkeit, über Geld zu sprechen und kritisiert die unzureichende finanzielle Bildung in Schulen. Er hebt hervor, dass die Frühstartrente den frühzeitigen Aufbau einer kapitalgedeckten Altersvorsorge ermöglicht, die finanzielle Bildung verbessert und Chancengerechtigkeit fördert.
+- **[54:36](https://www.youtube.com/watch?v=M0mavtw-HLU&t=54m36s)** - **Torben Braga (AfD)**: Benennt positive Korrekturen im Ausschuss, kritisiert aber weiterhin die geringe Förderung, den Startzeitpunkt und die Tatsache, dass die Gelder im Falle des Nichtabrufs beim Bund verbleiben. Er verweist auf die Ungerechtigkeiten der Stichtagsregelung und die Finanzierbarkeit des AfD-Vorschlags.
+- **[58:31](https://www.youtube.com/watch?v=M0mavtw-HLU&t=58m31s)** - **Dr. Florian Dorn (CDU/CSU)**: Stellt sich die Frage, was dem Staat die Zukunft der Kinder wert sei und vergleicht die 10 Euro der Koalition mit den 100 Euro der AfD. Er betont die Bedeutung des Zinseszinseffekts und die finanziellen Spielräume im Haushalt.
+- **[01:03:39](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h3m39s)** - **Diana Zimmer (AfD)**: Wiederholt die Kritik an der geringen Förderung und vergleicht sie mit dem AfD-Vorschlag. Sie betont die Notwendigkeit, die finanziellen Spielräume der Familien zu betrachten und verweist auf die Kosten des AfD-Vorschlags im Kontext anderer Haushaltsausgaben.
+- **[01:06:49](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h6m49s)** - **Abstimmung über den Gesetzentwurf**: Der Gesetzentwurf zur Einführung einer Frühstartrente wird in zweiter und dritter Beratung mit den Stimmen der Koalitionsfraktionen gegen die Stimmen von Bündnis 90/Die Grünen und Die Linke bei Enthaltung der AfD angenommen.
+- **[01:08:34](https://www.youtube.com/watch?v=M0mavtw-HLU&t=1h8m34s)** - **Abstimmung über Anträge**: Der Entschließungsantrag der Grünen wird abgelehnt, der Antrag der AfD auf ein Junior-Spardepot wird abgelehnt, und der Antrag der Linken zur finanziellen Bildung wird abgelehnt.

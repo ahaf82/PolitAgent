@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/8401",
+      "title": "Antrag: Mutterschutz für Selbstständige schaffen - Schutzlücken gesetzlich schließen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8401&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/8461",
+      "title": "Antrag: Mutterschutzregelungen auch für Selbstständige",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8461&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte zur Familienpolitik und zum Mutterschutz für Selbstständige wurde geführt und die entsprechenden Vorlagen wurden anschließend an die zuständigen Ausschüsse zur weiteren Beratung überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

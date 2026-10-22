@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag über Technologieoffenheit im Verkehrssektor offenbarte deutliche parteipolitische Gräben. Während die AfD eine sofortige Beendigung der Subventionen für Elektromobilität forderte und deren ökologische sowie ökonomische Vorteile in Frage stellte, verteidigten die Koalitionsfraktionen und die Union die Elektromobilität als wichtigen Baustein der Verkehrswende. Externe Äußerungen der beteiligten Abgeordneten spiegeln diese Positionen wider: Abgeordnete der Regierungsparteien betonten die Notwendigkeit von Investitionen in heimische Produktion, Forschung und eine technologieoffene Gestaltung, die auch die Rolle erneuerbarer Energien und die Reduzierung von CO2-Emissionen berücksichtigt. Die AfD-Abgeordneten kritisierten hingegen die hohen Kosten staatlicher Förderungen, die Abhängigkeit von ausländischen Herstellern und hinterfragten die tatsächlichen Umweltvorteile von E-Autos.",
+  "sources": [
+    {
+      "name": "Adam Balten",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert staatliche Subventionen für E-Autos als kostspielig und marktverzerrend, hinterfragt deren tatsächliche Umweltvorteile und fordert eine Abkehr von der Fokussierung auf Elektromobilität.",
+      "source_title": "Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2023/970842-970842",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Klaus Wiener",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Verteidigt die Elektromobilität als effizient und mit geringerem CO2-Ausstoß, kann aber die Kritik an staatlichen Subventionen teilweise nachvollziehen und betont die Notwendigkeit der Vorbereitung auf den Klimawandel.",
+      "source_title": "Rede von Dr. Klaus Wiener (CDU/CSU) – Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julian Joswig",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisiert die AfD für ihre Haltung zur E-Mobilität und betont die Vorteile von Grünstrom für die Klimabilanz, während er eine Anpassung der deutschen E-Auto-Prämie fordert.",
+      "source_title": "Rede von Julian Joswig (Bündnis 90/Die Grünen) – Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden",
+      "url": "https://www.bundestag.de/mediathek/video?videoid=7657388",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "found": false,
+      "statement": "Beschuldigt die AfD der Verweigerung und Ignoranz gegenüber der Zukunft und hebt die Bedeutung von Investitionen in Batteriezellfertigung und E-Fahrzeuge für Arbeitsplätze hervor.",
+      "source_title": "Rede von Dunja Kreiser (SPD) – Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Agnes Conrad",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisiert die AfD für ihr Festhalten an der Vergangenheit und betont die Notwendigkeit der Transformation, die Einbeziehung von Betriebsräten und die Verbesserung von Arbeitsbedingungen sowie Chancen der Elektromobilität.",
+      "source_title": "Rede von Agnes Conrad (DIE LINKE) – Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Alexander Jordan",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Kritisiert die einseitige Betrachtung der Elektromobilität auf Kosten durch die AfD und hebt Vorteile wie Unabhängigkeit von Rohölimporten hervor, betont zudem die Notwendigkeit der Umstellung für deutsche Hersteller und die Technologieoffenheit der THG-Quote.",
+      "source_title": "Verkehr - Alexander Jordan, MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Hilse",
+      "party": "AfD",
+      "found": false,
+      "statement": "Stellt die Behauptung auf, die AfD leugne den Klimawandel nicht, sondern stufe den Einfluss menschengemachter CO2-Emissionen als marginal oder fraglich ein, und hinterfragt die Ernsthaftigkeit der Kernkraftpläne der AfD.",
+      "source_title": "Rede von Hilse (AfD) – Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
