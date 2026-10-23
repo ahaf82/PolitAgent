@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die externen Aussagen der analysierten Bundestagsabgeordneten zum Thema \"Leistungskürzungen in der Pflegeversicherung\" spiegeln im Wesentlichen ihre im Plenum geäußerten Positionen wider. Die Linke und die Grünen betonen die Notwendigkeit einer soliden Finanzierung und warnen vor Leistungskürzungen, wobei sie sich für eine Ausweitung der Versicherungspflicht aussprechen. Die CDU/CSU hingegen sieht das bestehende System unter Druck und favorisiert das Pflegeneuordnungsgesetz zur Stabilisierung, während sie Bedenken gegenüber radikalen Umverteilungsmodellen äußert. Die SPD versucht, einen Mittelweg zu finden, indem sie die Probleme anerkennt, aber vor unbezahlbaren Beitragserhöhungen warnt und die Zuständigkeit der Länder stärker betont. Die AfD fordert finanzielle Entlastungen für pflegende Angehörige und eine stärkere Trennung von Versicherungs- und Steuerfinanzierung.",
+  "sources": [
+    {
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Claudia Moll",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Simone Fischer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Hendrik Streeck",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Hendrik Streeck hat sich wiederholt zu den Risiken übermäßigen Medienkonsums bei Kindern und Jugendlichen geäußert und fordert Altersgrenzen für soziale Medien. Seine Positionen konzentrieren sich jedoch auf den Jugendschutz im digitalen Raum und nicht direkt auf die Pflegeversicherung.",
+      "source_title": "Medienkonsum: Streeck will Altersvorgaben für Social Media - ZDFheute",
+      "url": "https://www.zdfheute.de/politik/deutschland/hendrik-streeck-jugendschutz-altersvorgaben-tiktok-social-media-100.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nicole Hess",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Serdar Yüksel",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Mishbah Khan",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Evelyn Schötz",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Katrin Staffler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Emmi Zeulner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zur Einführung einer Frühstartrente zeigte deutliche Kontroversen zwischen den Regierungsparteien und der Opposition. Während SPD und CDU/CSU die Maßnahme als wichtigen Schritt zur Stärkung der Altersvorsorge und finanziellen Bildung von Kindern lobten, kritisierten Bündnis 90/Die Grünen und Die Linke die Frühstartrente als sozial ungerecht und als Verschärfung bestehender Ungleichheiten. Die AfD bemängelte die Höhe der staatlichen Förderung und schlug eigene, umfassendere Modelle vor. Externe Reaktionen spiegeln diese Positionen wider: SPD-Abgeordnete betonten die breite Wirkung und die Absicherungslösung, während Linken-Vertreter die Maßnahme als Symbolpolitik abtaten und auf die Notwendigkeit stärkerer staatlicher Renten sowie direkter Unterstützung für Familien hinwiesen. Grüne Abgeordnete forderten ein öffentlich verwaltetes Standarddepot und kritisierten die Ungleichbehandlung älterer Jahrgänge.",
+  "sources": [
+    {
+      "name": "Michael Thews",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont, dass die Frühstartrente ein historischer Schritt zur Modernisierung der Altersvorsorge ist, der vielen beim Aufbau einer vernünftigen Vorsorge helfen wird, insbesondere durch den Zinseszinseffekt und die staatliche Auffanglösung für Kinder ohne eigenen Vertrag. Er hebt hervor, dass die Maßnahme auch einen Bildungsaspekt hat und in die Digitale Rentenübersicht integriert wird.",
+      "source_title": "Bundestag beschließt die Frühstartrente",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulrike Schielke-Ziesing",
+      "party": "AfD",
+      "found": false,
+      "statement": "Kritisiert die Frühstartrente als weder 'früh' noch 'Rente' und als unzureichend zur Bekämpfung des Problems eines 'heruntergewirtschafteten Rentensystems'. Sie bemängelt, dass die staatliche Förderung zu niedrig sei und schlägt stattdessen ein Junior-Spardepot mit 100 Euro monatlich ab Geburt vor.",
+      "source_title": "Altersvorsorge: Bundestag diskutiert über geplante Frühstartrente",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Fritz Güntzler",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Hebt die erfolgreiche Zusammenarbeit bei der Frühstartrente hervor und bezeichnet sie als wichtigen Baustein zur Reform der privaten Altersvorsorge. Er betont die Bedeutung des Zinseszinseffekts und der finanziellen Bildung, die durch die Maßnahme gefördert werde.",
+      "source_title": "Bundestag beschließt Frühstartrente",
+      "url": "https://www.haz.de/wirtschaft/bundestag-beschliesst-fruehstartrente-K345O7J2VZG6Q2LYZOKUX3M4CA.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Kritisiert, dass die Frühstartrente soziale Ungleichheit zementiert und als 'Krücke' bezeichnet. Er bemängelt die Zulassung privater Anbieter zur Finanzbildung und fordert stattdessen die unverzügliche Einführung eines öffentlich verwalteten Standarddepots.",
+      "source_title": "Altersvorsorge für Kinder: Bundestag beschließt Frühstartrente",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sarah Vollath",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Bezeichnet die Frühstartrente als 'Symbolpolitik', die Ungleichheit subventioniere, anstatt sie zu bekämpfen. Sie kritisiert, dass das Geld stattdessen in Kitas, Sozialarbeit und die Unterstützung benachteiligter Kinder investiert werden sollte.",
+      "source_title": "Linke kritisiert \"Frühstartrente\" als Symbolpolitik",
+      "url": "https://www.presse-augsburg.de/linke-kritisiert-fruehstartrente-als-symbolpolitik/808668/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frauke Heiligenstadt",
+      "party": "SPD",
+      "found": false,
+      "statement": "Verteidigt die Frühstartrente und weist die Kritik als 'populistisch' zurück. Sie betont, dass alle Kinder profitieren und zählt weitere Maßnahmen der Koalition zur Stärkung der Rente auf.",
+      "source_title": "Finanzausschuss gibt grünes Licht für Frühstartrente",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Iris Nieland",
+      "party": "AfD",
+      "found": true,
+      "statement": "Wiederholt die Kritik an den 'gravierenden Schwächen' des Gesetzentwurfs und das Missverhältnis zwischen Aufwand und Vorsorgewirkung. Sie verweist erneut auf das AfD-Konzept eines Junior-Spardepots mit 100 Euro monatlich.",
+      "source_title": "Early retirement doesn't create a secure retirement!",
+      "url": "https://www.youtube.com/watch?v=z52L_eIu2qU",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Carsten Brodesser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont, dass die Frühstartrente ein wichtiges Reformvorhaben ist und zur Generationengerechtigkeit beiträgt. Er versichert, dass kein Kind zurückgelassen wird, da die Frühstartrente auch kollektiv angelegt wird, wenn kein Vertrag abgeschlossen wird.",
+      "source_title": "Altersvorsorge für Kinder: Bundestag beschließt Frühstartrente",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Isabelle Vandre",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisiert, dass die Frühstartrente die Ungleichheit auf den Schulhöfen subventioniert und nicht zur Bekämpfung von Altersarmut beiträgt. Sie hebt den Unterschied zwischen den Depots wohlhabender Familien und denen, die nur staatliche Förderung erhalten, hervor.",
+      "source_title": "Frühstartrente: Reiche Eltern, reichere Kinder?",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

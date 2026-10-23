@@ -1,5 +1,31 @@
 [
   {
+    "id": "KYU9yQANjGY",
+    "title": "103. Sitzung, TOP 33: Leistungs­kürzungen in der Pflege­versicherung",
+    "session": 103,
+    "date": "2026-10-19",
+    "top": "33",
+    "topic": "Leistungs­kürzungen in der Pflege­versicherung",
+    "summary_path": "protocols/session_103/33_103_sitzung_top_33_leistungs_kuerzungen_in_der_pfl.md",
+    "documents_path": "protocols/session_103/33_103_sitzung_top_33_leistungs_kuerzungen_in_der_pfl_documents.json",
+    "speakers_path": "protocols/session_103/33_103_sitzung_top_33_leistungs_kuerzungen_in_der_pfl_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=KYU9yQANjGY",
+    "processed_at": "2026-10-23T08:01:34.676321"
+  },
+  {
+    "id": "XmrzeAjBsFA",
+    "title": "103. Sitzung, TOP 32: Ein­führung einer Früh­start­rente",
+    "session": 103,
+    "date": "2026-10-19",
+    "top": "32",
+    "topic": "Einführung einer Frühstartrente",
+    "summary_path": "protocols/session_103/32_103_sitzung_top_32_ein_fuehrung_einer_frueh_start_.md",
+    "documents_path": "protocols/session_103/32_103_sitzung_top_32_ein_fuehrung_einer_frueh_start__documents.json",
+    "speakers_path": "protocols/session_103/32_103_sitzung_top_32_ein_fuehrung_einer_frueh_start__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=XmrzeAjBsFA",
+    "processed_at": "2026-10-23T08:02:11.304188"
+  },
+  {
     "id": "Iuvo6lyIwWg",
     "title": "103. Sitzung des Bundestages – LIVE",
     "session": 103,
@@ -24,6 +50,32 @@
     "speakers_path": "protocols/session_103/37_technologieoffenheit_im_verkehrssektor_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=xkvbNKSXIIk",
     "processed_at": "2026-10-22T08:03:54.796042"
+  },
+  {
+    "id": "lAEiehsUmjw",
+    "title": "103. Sitzung vom 16.10.2026. TOP 34: Bürokratierückbau im Verkehrsbereich",
+    "session": 103,
+    "date": "2026-10-16",
+    "top": "34",
+    "topic": "Bürokratieabbau im Verkehrsbereich",
+    "summary_path": "protocols/session_103/34_buerokratierueckbau_im_verkehrsbereich.md",
+    "documents_path": "protocols/session_103/34_buerokratierueckbau_im_verkehrsbereich_documents.json",
+    "speakers_path": "protocols/session_103/34_buerokratierueckbau_im_verkehrsbereich_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=lAEiehsUmjw",
+    "processed_at": "2026-10-23T08:02:50.191127"
+  },
+  {
+    "id": "zchPe2A4Y8c",
+    "title": "103. Sitzung vom 16.10.2026. TOP 33: Leistungskürzungen in der Pflegeversicherung",
+    "session": 103,
+    "date": "2026-10-16",
+    "top": "33",
+    "topic": "Leistungskürzungen in der Pflegeversicherung",
+    "summary_path": "protocols/session_103/33_leistungskuerzungen_in_der_pflegeversicherung.md",
+    "documents_path": "protocols/session_103/33_leistungskuerzungen_in_der_pflegeversicherung_documents.json",
+    "speakers_path": "protocols/session_103/33_leistungskuerzungen_in_der_pflegeversicherung_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=zchPe2A4Y8c",
+    "processed_at": "2026-10-23T08:03:59.602444"
   },
   {
     "id": "M0mavtw-HLU",

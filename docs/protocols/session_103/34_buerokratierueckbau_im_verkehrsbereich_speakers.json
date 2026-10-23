@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die externe Kommunikation der im Bundestag zum Thema Bürokratieabbau im Verkehrsbereich diskutierenden Abgeordneten zeigt ein breites Spektrum an Meinungen und Prioritäten. Während einige, wie Steffen Bilger und Günter Baumgartner, die bisherigen Maßnahmen der Regierung loben und weitere Vereinfachungen betonen, äußert die AfD-Fraktion, vertreten durch Wolfgang Wiehle und Maximilian Kneller, scharfe Kritik an der mangelnden Wirksamkeit und dem geringen Umfang der Entlastungen. Die SPD, mit Anja Troff-Schaffarzyk und Dirk Vöpel, hebt die Notwendigkeit eines handlungsfähigen Staates hervor und betont, dass Sicherheit nicht gefährdet werden dürfe. Matthias Gastel von den Grünen sieht Potenzial für weitere Schritte, insbesondere bei der Schiene, während Sören Pellmann von Die Linke vehement die Abschaffung der Frist für Barrierefreiheit kritisiert. Die CDU/CSU-Vertreter Daniel Kölbl und Günter Baumgartner betonen die Notwendigkeit von Fleißarbeit und europäischen Anstrengungen.",
+  "sources": [
+    {
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Er hebt hervor, dass Bürokratieabbau ein zentrales Ziel der Bundesregierung sei und bereits zu einer Reduzierung des Erfüllungsaufwands um 950 Millionen Euro geführt habe. Er betont weitere Vereinfachungen durch den vorliegenden Gesetzentwurf, wie die Digitalisierung von Genehmigungsurkunden im Personenbeförderungsrecht und die Vereinfachung von Elektrifizierungsverfahren bei der Schiene. Bilger verweist auch auf die Notwendigkeit europäischer Initiativen.",
+      "source_title": "Rede zum Bürokratierückbau im Verkehrsbereich",
+      "url": "https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/archiv-mediathek/download-hq-2130302",
+      "platform": "Website"
+    },
+    {
+      "name": "Wolfgang Wiehle",
+      "party": "AfD",
+      "found": false,
+      "statement": "Er kritisiert die Maßnahmen der Regierung als unzureichend und bezeichnet die Entlastung als \"lächerlich gering\". Wiehle sieht die EU und die Klimapolitik als Hauptverursacher von Bürokratie und fordert eine Neuverhandlung europäischer Verträge sowie den Abbau kostentreibender Regeln wie des CO2-Preises.",
+      "source_title": "Entschließungsantrag der Abgeordneten Stefan Henze, Wolfgang Wiehle, René Bochmann, ... und der Fraktion der AfD",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Maximilian Kneller",
+      "party": "AfD",
+      "found": false,
+      "statement": "Er wiederholt die Kritik an der geringen finanziellen Entlastung und vergleicht die Maßnahmen mit einer \"Globuli-Behandlung\". Kneller kritisiert spezifische Kostenfaktoren wie die 12-Uhr-Tankregel, den CO2-Preis und die THG-Quote und fordert deren Streichung. Er zitiert Branchenverbände, die von einem \"mangelhaften\" und \"ungenügenden\" Zustand sprechen.",
+      "source_title": "Gesetzentwurf der Abgeordneten Maximilian Kneller, Wolfgang Wiehle, René Bochmann, ... und der Fraktion der AfD",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Anja Troff-Schaffarzyk",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sie betont das Ziel eines handlungsfähigen Staates und hebt hervor, dass das Gesetz überholte Regelungen beseitige und die Wirtschaft sowie Bürger von unnötigem Aufwand entlaste. Troff-Schaffarzyk nennt Beispiele für pragmatische Wirkungen bei der Schiene und in der Luftfahrt (Drohnenregistrierung) und betont, dass Sicherheit nicht durch Bürokratieabbau gefährdet werden dürfe.",
+      "source_title": "Reden",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dirk Vöpel",
+      "party": "SPD",
+      "found": false,
+      "statement": "Er erklärt, dass das Gesetz darauf abziele, Verfahren zu vereinfachen und unnötigen Aufwand zu reduzieren. Er verweist auf das bereits beschlossene Infrastruktur-Zukunftsgesetz zur Beschleunigung von Planung und Genehmigung und betont, dass Bürokratieabbau nicht auf Kosten der Sicherheit gehen dürfe und digitale Verfahren einen Vorteil bringen müssten.",
+      "source_title": "Wir bauen Bürokratie ab",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Matthias Gastel",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Er stellt fest, dass Bürokratie Verfahren sichern, aber auch überzogen und verlangsamend wirken könne. Gastel begrüßt den Gesetzentwurf, findet jedoch, dass er nicht weit genug gehe und betont die Bedeutung der Elektrifizierung der Schiene sowie die Kritik an unnötiger Bürokratie bei Bauprojekten.",
+      "source_title": "Bürokratieabbau Schiene",
+      "url": "https://www.matthias-gastel.de/buerokratieabbau-schiene/",
+      "platform": "Website"
+    },
+    {
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Er kritisiert scharf die Abschaffung der Frist für die vollständige Barrierefreiheit im Nahverkehr und bezeichnet dies als \"politischen Offenbarungseid\". Pellmann kritisiert die Ausweitung von Ausnahmen bei wirtschaftlichem Aufwand und fordert eine neue, verbindliche Frist sowie einen einklagbaren Rechtsanspruch auf Barrierefreiheit.",
+      "source_title": "Themen und Berichte: DIE LINKE. Sören Pellmann",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Daniel Kölbl",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Er beschreibt den Bürokratierückbau als zentrale Aufgabe und verweist auf bereits erfolgte Erfolge. Kölbl bezeichnet den aktuellen Gesetzentwurf als Beseitigung \"exotischer Triebe im Bürokratiedschungel\" und betont, dass Bürokratierückbau \"Fleißarbeit\" sei. Er hebt die Notwendigkeit von Anstrengungen auf europäischer Ebene hervor und fordert weniger Dokumentation und mehr Vertrauen.",
+      "source_title": "Meine Ziele im Wahlkreis",
+      "url": "https://www.daniel-koelbl.de/meine-ziele-auf-bundesebene/",
+      "platform": "Website"
+    },
+    {
+      "name": "Günter Baumgartner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er ordnet den Bürokratieabbau als zentrale Aufgabe ein und nennt bereits erzielte Entlastungen von 72 Millionen Euro. Baumgartner führt Beispiele für Vereinfachungen an, wie die Führerscheinkontrolle bei Dienstwagen und die Beantragung mehrerer Buslinien. Er unterstreicht, dass rund 60 Prozent des Erfüllungsaufwands aus europäischer Regulierung resultieren.",
+      "source_title": "Rede von Günter Baumgartner (CDU/CSU) – Gesetzes zum Bürokratierückbau im Verkehrsbereich",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}

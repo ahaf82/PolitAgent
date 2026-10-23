@@ -1,0 +1,131 @@
+{
+  "synthesis": "Die Debatte im Deutschen Bundestag zum Thema Leistungskürzungen in der Pflegeversicherung spiegelte kontroverse Positionen der Fraktionen wider. Während Die Linke eine solidarische Pflegevollversicherung fordert und Leistungskürzungen vehement ablehnt, plädiert die CDU/CSU für eine Stabilisierung der bestehenden Versicherung und lehnt Systembrüche ab. Die AfD betont die häusliche Pflege und fordert finanzielle Entlastungen für pflegende Angehörige sowie eine Zusammenführung von Kranken- und Pflegeversicherung. Die SPD betont die Notwendigkeit, Pflegebedürftige zu entlasten, gleichzeitig aber die Finanzierbarkeit der Versicherung zu sichern. Bündnis 90/Die Grünen kritisieren geplante Leistungskürzungen und fordern eine dauerhafte Finanzierung der Rentenbeiträge für pflegende Angehörige. Externe Stellungnahmen der identifizierten Abgeordneten bestätigen diese Positionen, wobei insbesondere die Forderung nach einer breiteren Finanzierungsbasis und die Kritik an geplanten Sparmaßnahmen im Vordergrund stehen.",
+  "sources": [
+    {
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Pellmann kritisiert die Pläne von Gesundheitsminister Linnemann als \"völlig absurd\" und fordert eine solidarische Pflegevollversicherung, die alle Kosten abdeckt und Eigenanteile überflüssig macht. Er wirft der Regierung vor, die Menschen mit Zumutungen zu belasten und an dieser Aufgabe zu scheitern.",
+      "source_title": "Linke nennt Linnemanns Pflege-Kürzungspläne \"völlig absurd\"",
+      "url": "https://hasepost.de/pellmann-nennt-linnemanns-pflegeplaene-absurd-760707/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Müller erkennt die soziale Pflegeversicherung als wichtige Säule des Sozialstaats an, die jedoch unter Druck gerate. Er lehnt die von Linken und Grünen geforderte Umwandlung in eine Vollkaskoversicherung ab und betont die Notwendigkeit einer verantwortungsvollen Stabilisierung des Systems.",
+      "source_title": "Oppositionsanträge zur Pflegeversicherung debattiert - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Ebenberger betont die Bedeutung der häuslichen Pflege und fordert eine bessere finanzielle Unterstützung und weniger Bürokratie für private Pflegepersonen. Er kritisiert, dass versicherungsfremde Leistungen aus Steuermitteln finanziert werden sollten, um die Pflegeversicherung zu entlasten.",
+      "source_title": "Cuts to elderly care? Tobias Ebenberger (AfD): Those providing home care need more help!",
+      "url": "https://www.youtube.com/watch?v=l5g6i_rW1i4",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Claudia Moll",
+      "party": "SPD",
+      "found": false,
+      "statement": "Moll erkennt die Notwendigkeit an, die Probleme bei Eigenanteilen und der Finanzierung zu lösen, hält jedoch eine Vollversicherung für finanzierbar problematisch. Sie betont, dass Entlastungen und Bezahlbarkeit Hand in Hand gehen müssen und lehnt Leistungskürzungen als solche ab.",
+      "source_title": "SPD: Soziale Auswirkungen berücksichtigen - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Simone Fischer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Fischer kritisiert die geplanten Kürzungen bei der Verhinderungspflege und fordert eine dauerhafte Finanzierung der Rentenbeiträge für pflegende Angehörige aus dem Bundeshaushalt. Sie betont die Notwendigkeit von Prävention und fairer Finanzierung ohne Leistungskürzungen.",
+      "source_title": "Pflegereform: Kürzen und Vertagen sind keine Lösung - Simone Fischer MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Hendrik Streeck",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Nicole Hess",
+      "party": "AfD",
+      "found": false,
+      "statement": "Hess kritisiert scharf die geplante \"Neuordnung\" der Leistungen als Einsparung und nennt konkrete Streichungen bei der Verhinderungspflege und dem Entlastungsbetrag. Sie bemängelt auch die Anhebung von Schwellenwerten für die Anerkennung von Pflegebedürftigkeit.",
+      "source_title": "Bundesregierung reformiert die Pflege im Blindflug - AfD-Fraktion im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Serdar Yüksel",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Misbah Khan",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Evelyn Schötz",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Schötz kritisiert das Defizit in den Pflegekassen und verweist auf Vermögensverteilung für gerechtere Finanzierung. Sie fordert die vollständige Übernahme der Pflegekosten im Heim und mehr Geld für die häusliche Pflege.",
+      "source_title": "Keine Leistungskürzungen in der Pflege! - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Katrin Staffler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Staffler betont die Notwendigkeit stabiler Finanzen und struktureller Reformen in der Pflegeversicherung. Sie hebt hervor, dass gesamtgesellschaftliche Aufgaben wie Rentenversicherungsbeiträge für pflegende Angehörige aus Steuermitteln finanziert werden müssen.",
+      "source_title": "„In der Pflegeversicherung brauchen wir stabile Finanzen und strukturelle Reformen“",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Christina Baum",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Emmi Zeulner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Zeulner schlägt vor, dass Beamte und Selbstständige die gesetzliche Pflegeversicherung mitfinanzieren, um eine breitere Beitragszahlerbasis zu schaffen. Sie sieht darin eine Annäherung an das SPD-Konzept einer Bürgerversicherung.",
+      "source_title": "CSU-Politikerin: Auch Beamte sollten in Pflegeversicherung einzahlen - Evangelisch.de",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
