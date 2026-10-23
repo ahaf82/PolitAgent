@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die Reform der Notfallversorgung wurde im Deutschen Bundestag verabschiedet und stößt auf breite politische Zustimmung, wobei jedoch auch Kritikpunkte von verschiedenen Seiten geäußert werden. Abgeordnete der CDU/CSU und SPD loben die Reform als wichtigen Schritt zur Verbesserung der Patientenversorgung und Effizienzsteigerung, während Bündnis 90/Die Grünen zwar die Notwendigkeit der Reform anerkennen, aber Bedenken hinsichtlich der Finanzierung und der Auswirkungen von Sparmaßnahmen äußern. Die AfD kritisiert die Finanzierung und die geplante Patientensteuerung, während Die Linke die Reform als unzureichend bezüglich der Arbeitsbedingungen und Finanzierung bemängelt. Bundesgesundheitsminister Dr. Carsten Linnemann betont die Entlastung der Notaufnahmen und die verbesserte Patientensteuerung.",
+  "sources": [
+    {
+      "name": "Dr. Hans Theiss",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Er bezeichnete die Reform als einen \"Quantensprung für die Versorgung\" und betonte, dass die Notfallversorgung im ganzen Land gesichert werde. Er hob die digitale Vernetzung von 112 und 116117, die Schaffung von Integrierten Notfallzentren (INZ) und die gesetzliche Absicherung der Finanzierung des Rettungswesens hervor.",
+      "source_title": "Bundestag beschließt Notfallreform im dritten Anlauf",
+      "url": "https://www.aerzteblatt.de/news/trichloroethylen-im-trinkwasser-erhoeht-moeglicherweise-risiko-fuer-morbus-parkinson-d23e75c7-ff56-4a1b-a356-caf30d3f0314",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nicole Hess",
+      "party": "AfD",
+      "found": true,
+      "statement": "Sie begrüßte grundsätzlich vernünftige Ansätze, kritisierte aber die Finanzierung und die geplante Patientensteuerung, da sie die Koalition nutze das Gesetz für weitreichende Änderungen im Gesundheitswesen. Sie bemängelte auch, dass das Gesetz nicht genügend Ärzte einbezieht.",
+      "source_title": "\"Where are the doctors supposed to come from?\" – Nicole Hess criticizes the emergency services re...",
+      "url": "https://www.youtube.com/watch?v=f8nI0vF9N2E",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Tanja Machalet",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sie betonte die Notwendigkeit der Reform und lobte Verbesserungen im parlamentarischen Verfahren, insbesondere die Versorgung von Menschen mit Behinderungen, die Medikamentenabgabe und die Finanzierung des Rettungswesens. Sie sprach von einer \"echten Strukturreform\".",
+      "source_title": "Bundestag beschließt Notfallreform im dritten Anlauf",
+      "url": "https://www.aerzteblatt.de/news/trichloroethylen-im-trinkwasser-erhoeht-moeglicherweise-risiko-fuer-morbus-parkinson-d23e75c7-ff56-4a1b-a356-caf30d3f0314",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Janosch Dahmen",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Er schilderte seine persönlichen Erfahrungen als Notarzt und lobte die Reform, kritisierte aber die Auswirkungen des \"Krankenkassenspargesetzes\" und die unzureichende Finanzierung von Notfallaufnahmen. Er befürchtet, dass die Anzahl der Arzttermine durch Sparmaßnahmen weiter abnehmen könnte.",
+      "source_title": "Grüne warnen vor Folgen der Spargesetze für Notfallreform",
+      "url": "https://www.finanznachrichten.de/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stella Merendino",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Sie kritisierte die Reform als unzureichend hinsichtlich der Arbeitsbedingungen und der Finanzierung und betonte die Bedeutung der Rettungskräfte. Sie bemängelte, dass der Fokus auf Standards und Steuerung liege, aber nicht auf der notwendigen Personalaufstockung und besseren Arbeitsbedingungen.",
+      "source_title": "Bundestag beschließt Notfallreform im dritten Anlauf",
+      "url": "https://www.aerzteblatt.de/news/trichloroethylen-im-trinkwasser-erhoeht-moeglicherweise-risiko-fuer-morbus-parkinson-d23e75c7-ff56-4a1b-a356-caf30d3f0314",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Carsten Linnemann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Der Minister hob die Notwendigkeit eines \"Notfallwegweisers\" hervor und betonte die Vorteile der Patientensteuerung zur Entlastung der Notaufnahmen. Er verwies auf Studien, die zeigen, dass ein Drittel der Notaufnahmebesucher keine echten Notfälle seien, und kündigte eine Verschärfung der Strafen für Angriffe auf Einsatzkräfte an.",
+      "source_title": "Linnemann: \"Die Notaufnahmen werden entlastet...\" - Bundesministerium für Gesundheit",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Alexis Giersch",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Christos Pantazis",
+      "party": "SPD",
+      "found": true,
+      "statement": "Er betonte die Übernahme von Verantwortung durch die Koalition und erläuterte Korrekturen am Beitragssatzstabilisierungsgesetz, darunter die Stärkung von Haus- und Kinderärzten sowie die Verbesserung der psychotherapeutischen Versorgung.",
+      "source_title": "Bundestag beschließt Notfallreform im dritten Anlauf",
+      "url": "https://www.aerzteblatt.de/news/trichloroethylen-im-trinkwasser-erhoeht-moeglicherweise-risiko-fuer-morbus-parkinson-d23e75c7-ff56-4a1b-a356-caf30d3f0314",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Kirsten Kappert-Gonther",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sie fokussierte auf die psychische Gesundheit und kritisierte Kürzungen im Beitragssatzstabilisierungsgesetz. Sie forderte eine Reform der Bedarfsplanung und eine bessere Finanzierung der Weiterbildung sowie Präventionsmaßnahmen.",
+      "source_title": "Bundestag beschließt Notfallreform im dritten Anlauf",
+      "url": "https://www.aerzteblatt.de/news/trichloroethylen-im-trinkwasser-erhoeht-moeglicherweise-risiko-fuer-morbus-parkinson-d23e75c7-ff56-4a1b-a356-caf30d3f0314",
+      "platform": "Presse"
+    },
+    {
+      "name": "Simone Borchardt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie verteidigte das Gesetz gegen Kritik und erläuterte die Notwendigkeit der Reform zur Patientenorientierung und Effizienzsteigerung. Sie betonte die Vernetzung der Rufnummern und die Stärkung der Notfallsanitäter.",
+      "source_title": "Breite Mehrheit für Reform der Notfallversorgung",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2018/kw42-interview-stark-watzinger-573332",
+      "platform": "Website"
+    },
+    {
+      "name": "Joachim Bloch",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Anne Janssen",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sie berichtete von den Auswirkungen der Entscheidungen auf kommunaler Ebene und hob die Bedeutung der Reform für den ländlichen Raum und die Inselversorgung hervor, insbesondere die Stärkung der Luftrettung.",
+      "source_title": "Breite Mehrheit für Reform der Notfallversorgung",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2018/kw42-interview-stark-watzinger-573332",
+      "platform": "Website"
+    }
+  ]
+}
