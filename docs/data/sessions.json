@@ -111,7 +111,7 @@
     "top": "8",
     "topic": "Reform der Notfallversorgung",
     "summary_path": "protocols/session_102/8_102_sitzung_top_8_reform_der_not_fall_ver_sorgung.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_102/8_102_sitzung_top_8_reform_der_not_fall_ver_sorgung_documents.json",
     "speakers_path": "protocols/session_102/8_102_sitzung_top_8_reform_der_not_fall_ver_sorgung_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=o9myg-stEz8",
     "processed_at": "2026-10-22T08:02:57.132215"
@@ -774,7 +774,7 @@
     "top": "N/A",
     "topic": "Anhörung zur Stärkung der Cybersicherheit",
     "summary_path": "protocols/session_unknown/top_unknown_anhoerung_des_innenausschusses.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_anhoerung_des_innenausschusses_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=-ZOxFT0Y5mQ",
     "processed_at": "2026-10-06T08:04:22.247613"

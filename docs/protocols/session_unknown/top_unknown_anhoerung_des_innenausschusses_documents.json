@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6585",
+      "title": "Gesetzentwurf der Bundesregierung zur Stärkung der Cybersicherheit",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6585&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Innenausschuss des Deutschen Bundestages führte eine öffentliche Anhörung zum Gesetzentwurf der Bundesregierung zur Stärkung der Cybersicherheit durch. Sachverständige diskutierten die vorgeschlagenen Maßnahmen und stellten Verbesserungsvorschläge sowie Bedenken hinsichtlich rechtsstaatlicher Sicherungen und Grundrechtsschutz dar. Es fand keine namentliche Abstimmung zu diesem Tagesordnungspunkt statt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
