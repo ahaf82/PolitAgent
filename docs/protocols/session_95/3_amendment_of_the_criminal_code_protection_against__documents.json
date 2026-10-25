@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Änderung des Strafgesetzbuches – Stärkung des strafrechtlichen Schutzes vor sogenannten KO-Tropfen",
+      "url": "N/A",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Gesetzentwurf des Bundesrates: Entwurf eines Gesetzes zur strafrechtlichen Bekämpfung der Verabreichung von KO-Tropfen zur Begehung von Raub- und Sexualdelikten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die im Rahmen des Tagesordnungspunktes 3a und 3b geführte Debatte zu den Gesetzentwürfen zur Änderung des Strafgesetzbuches – Schutz vor KO-Tropfen – wurde als erste Beratung bewertet. Die Gesetzentwürfe wurden anschließend ohne Gegenstimmen zur weiteren Beratung an die zuständigen Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "synthesis": "Die Debatte um den Mutterschutz für Selbstständige im Bundestag am 16. Oktober 2026 spiegelte sich auch in den externen Äußerungen der beteiligten Abgeordneten wider. Die SPD-Abgeordnete Josephine Ortleb und die Grünen-Abgeordnete Denise Loop betonten die Dringlichkeit der Schaffung eines gleichwertigen Mutterschutzes für Selbstständige und wiesen auf die bestehende Gerechtigkeitslücke hin. Die Linke-Abgeordnete Kathrin Gebel kritisierte die Ungleichbehandlung und forderte eine Erweiterung des Systems auf Selbstständige. Auf Seiten der AfD äußerte sich Sebastian Maack kritisch zu den bestehenden Vorschlägen und verwies auf eigene Anträge der Fraktion, während Martin Reichardt und Birgit Bessin generell die Familienpolitik der Regierung kritisierten. Die CDU/CSU, vertreten durch Christoph Naser und Oliver Pöpsel, hob die Komplexität der Thematik und die Notwendigkeit finanzierbarer Lösungen hervor.",
+  "sources": [
+    {
+      "name": "Misbah Khan",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christoph Naser",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Christoph Naser betonte die Bedeutung von Familien und die Notwendigkeit finanzieller Verantwortung bei familienpolitischen Maßnahmen. Er sprach von der Komplexität der finanziellen Absicherung von Selbstständigen während des Mutterschutzes und gab an, dass dies geklärt werden müsse.",
+      "source_title": "Rede zu Familienpolitik und Mutterschutz für Selbstständige (Deutscher Bundestag)",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Maack",
+      "party": "AfD",
+      "found": true,
+      "statement": "Sebastian Maack kritisierte die Anträge der Koalition als wenig konkret und verwies auf eigene, detailliertere Anträge der AfD zum Mutterschutz für Selbstständige, wobei er die unzureichende Lösung zentraler Finanzierungs- und Umsetzungsfragen bemängelte.",
+      "source_title": "“Maternity leave for the self-employed?” – Sebastian Maack criticizes the coverage gap",
+      "url": "https://www.youtube.com/watch?v=wwJaTBsISx4",
+      "platform": "Website"
+    },
+    {
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "found": true,
+      "statement": "Josephine Ortleb schilderte persönliche Herausforderungen von Selbstständigen und betonte die Notwendigkeit eines Mutterschutzes für alle, der Einkommensverluste, Betriebskosten und Vertretungen abdeckt. Sie verwies auf die EU-Verpflichtung zur Absicherung.",
+      "source_title": "Mutterschutz Selbstständige: Was gilt wirklich? - YouTube",
+      "url": "https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fshorts%2FsPs9oJJy3x8%3Fcbrd%3D1&gl=DE&m=0&pc=yt&cm=2&hl=de&src=1",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Kathrin Gebel",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Kathrin Gebel thematisierte die Ungleichbehandlung von angestellten und selbstständigen Frauen beim Mutterschutz, die daraus resultierenden Risiken und schlug eine solidarische Lösung über das U2-Umlageverfahren vor.",
+      "source_title": "Mutterschutz darf kein Angestelltenprivileg sein - Fraktion Die Linke im Bundestag",
+      "url": "https://www.dielinkebt.de/themen/reden/detail/rede-von-kathrin-gebel-am-15102026/",
+      "platform": "Website"
+    },
+    {
+      "name": "Wolfgang Dahler",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Wolfgang Dahler stellte die familienpolitischen Maßnahmen der Koalition vor und betonte die Notwendigkeit von Prioritätensetzung und Eigenverantwortung, wobei er die Verbesserung der Rückholquote beim Unterhaltsvorschuss hervorhob.",
+      "source_title": "Wie Familien in Zeiten knapper Kassen unterstützt werden können - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-familien-1223584",
+      "platform": "Website"
+    },
+    {
+      "name": "Kerstin Przygodda",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kerstin Przygodda kritisierte die Politik der Regierung als ursächlich für Armut und warf ihr vor, Geld für ideologischen Unsinn auszugeben, anstatt Familien zu unterstützen.",
+      "source_title": "Mutterschutz für Selbstständige schaffen - Schutzlücken gesetzlich schließen - DIP",
+      "url": "https://dip.bundestag.de/drucksache/mutterschutz-f%C3%BCr-selbstst%C3%A4ndige-schaffen-schutzl%C3%BCcken-gesetzlich-schlie%C3%9Fen/291476?f.wahlperiode=21&f.typ=Dokument&f.herausgeber_dokumentart=Bundestag-Drucksache&rows=25&sort=verteildatum_ab&pos=15&ctx=d",
+      "platform": "Website"
+    },
+    {
+      "name": "Truels Reichardt",
+      "party": "SPD",
+      "found": true,
+      "statement": "Truels Reichardt wehrte sich gegen pauschale Vorwürfe, verteidigte die Notwendigkeit von Kompromissen in einer Koalition und hielt Kürzungen beim Unterhaltsvorschuss für falsch.",
+      "source_title": "Wie Familien in Zeiten knapper Kassen unterstützt werden können - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-familien-1223584",
+      "platform": "Website"
+    },
+    {
+      "name": "Denise Loop",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Denise Loop dankte Initiativen für die Aufmerksamkeit auf Missstände beim Mutterschutz für Selbstständige, betonte die Nachteile für diese Frauen und forderte einen Mutterschutz für alle Mütter mit pauschalem Basisausgleich und Betriebshilfeunterstützung.",
+      "source_title": "Rede zu Mutterschutz für Selbstständige - Denise Loop",
+      "url": "https://denise-loop.de/news/rede-zu-mutterschutz-fur-selbststandige/",
+      "platform": "Website"
+    },
+    {
+      "name": "Oliver Pöpsel",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Oliver Pöpsel bestätigte die Unterstützung der CDU/CSU für den Mutterschutz für Selbstständige, betonte jedoch die Komplexität der Umsetzung und forderte finanzierbare und praktikable Maßnahmen.",
+      "source_title": "Wie Familien in Zeiten knapper Kassen unterstützt werden können - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-familien-1223584",
+      "platform": "Website"
+    },
+    {
+      "name": "Birgit Bessin",
+      "party": "AfD",
+      "found": true,
+      "statement": "Birgit Bessin kritisierte die Grünen für ihre Politik, die ihrer Meinung nach Familien in die Verarmung treibe, und warf der Regierung vor, Geld für ideologischen Unsinn auszugeben, anstatt Familien zu unterstützen.",
+      "source_title": "Mutterschutz für Selbstständige schaffen - Schutzlücken gesetzlich schließen - DIP",
+      "url": "https://dip.bundestag.de/drucksache/mutterschutz-f%C3%BCr-selbstst%C3%A4ndige-schaffen-schutzl%C3%BCcken-gesetzlich-schlie%C3%9Fen/291476?f.wahlperiode=21&f.typ=Dokument&f.herausgeber_dokumentart=Bundestag-Drucksache&rows=25&sort=verteildatum_ab&pos=15&ctx=d",
+      "platform": "Website"
+    },
+    {
+      "name": "Jasmina Hostert",
+      "party": "SPD",
+      "found": true,
+      "statement": "Jasmina Hostert betonte die Notwendigkeit von Verlässlichkeit und finanzieller Sicherheit für Familien und zählte verschiedene familienpolitische Maßnahmen der SPD auf.",
+      "source_title": "Bundestag, 102. Sitzung: Debatte zur Familienpolitik und Mutterschutz für Selbstständige | 15.10.26 - YouTube",
+      "url": "https://www.youtube.com/watch?v=CEAzUR0fCjU",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "found": true,
+      "statement": "Martin Reichardt lobte die Forderungen der Grünen zur Nichtkürzung von Familienleistungen, kritisierte aber deren generelle Politik und äußerte sich abfällig über die Grünen.",
+      "source_title": "Wie Familien in Zeiten knapper Kassen unterstützt werden können - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-familien-1223584",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Dr. Konrad Körner kritisierte die Rhetorik von Martin Reichardt und verteidigte die Sparmaßnahmen der Bundesregierung, während er die Grünen für ihre Forderungen ohne Finanzierungskonzept kritisierte.",
+      "source_title": "Wie Familien in Zeiten knapper Kassen unterstützt werden können - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-familien-1223584",
+      "platform": "Website"
+    },
+    {
+      "name": "Johannes Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Kinderarzt kritisierte Johannes Wagner die Kürzungen bei kindbezogenen Leistungen und forderte eine Erklärung, wie die Koalition Kinder und Jugendliche fördern wolle, wenn gleichzeitig gekürzt werde.",
+      "source_title": "Bundestag, 102. Sitzung: Debatte zur Familienpolitik und Mutterschutz für Selbstständige | 15.10.26 - YouTube",
+      "url": "https://www.youtube.com/watch?v=CEAzUR0fCjU",
+      "platform": "Social Media"
+    }
+  ]
+}
