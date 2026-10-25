@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Aussagen der identifizierten Bundestagsabgeordneten zum Thema \"Frührente, Pflege und Verkehr\" spiegeln die unterschiedlichen politischen Positionen wider. Die SPD-Abgeordneten Michael Thews und Fritz Güntzler (CDU/CSU) loben die Einführung der Frühstartrente als wichtigen Schritt zur Modernisierung der Altersvorsorge und zur Förderung der finanziellen Bildung, betonen die erfolgreiche Kooperation in der Koalition und die Vorteile des Zinseszinseffekts. Im Gegensatz dazu kritisiert Ulrike Schielke-Ziesing (AfD) die Frühstartrente als unzureichend und hinterfragt die generelle Rentenpolitik der Regierung. Sarah Vollath (Die Linke) lehnt die Frühstartrente ab, da sie die Chancenungleichheit verschärfe und fordert stattdessen Investitionen in die gesetzliche Rente und Armutsbekämpfung. Stefan Schmidt (Bündnis 90/Die Grünen) bezeichnet die Frühstartrente als \"Kröcke\", die soziale Ungleichheit zementiere und kritisiert die Einbeziehung privater Anbieter.",
+  "sources": [
+    {
+      "name": "Michael Thews",
+      "party": "SPD",
+      "found": false,
+      "statement": "Er hebt hervor, dass die Frühstartrente ein wichtiger Baustein zur Modernisierung der Altersvorsorge ist und Kindern ermöglicht, frühzeitig Erfahrungen mit dem Kapitalmarkt zu sammeln. Er betont die staatliche Förderung von 10 Euro pro Monat und die langfristigen Vorteile des Zinseszinseffekts, die zu einem signifikanten Vermögensaufbau führen können.",
+      "source_title": "Frühstartrente beschlossen: Nächster Schritt für eine moderne Altersvorsorge",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Ulrike Schielke-Ziesing",
+      "party": "AfD",
+      "found": true,
+      "statement": "Sie kritisiert die Frühstartrente als unzureichend und bemängelt, dass die Förderung zu gering sei, um zu einem signifikanten Vermögensaufbau zu führen. Sie vertritt die Ansicht, dass die AfD mit ihrem 'Junior Spardepot' bessere und langfristig ausgerichtete Alternativen biete.",
+      "source_title": "Early pension start fails to build enough wealth for children! - Ulrike Schielke-Ziesing - AfD Parliament...",
+      "url": "https://www.youtube.com/watch?v=Iuvo6lyIwWg&t=38m45s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Fritz Güntzler",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er betont die erfolgreiche Zusammenarbeit von CDU/CSU und SPD bei der Frühstartrente, die er als \"großen Wurf\" bezeichnet. Er hebt hervor, dass die Frührente die Altersversorgung und finanzielle Bildung von Kindern stärke und durch den Zinseszinseffekt zu einem erheblichen Vermögensaufbau führen könne.",
+      "source_title": "Frühstartrente stärkt Altersversorgung und finanzielle Bildung | CDU·CSU-Fraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Er kritisiert die Frühstartrente als \"Kröcke\", die soziale Ungleichheit zementiere, und bemängelt die Einbeziehung privater Anbieter in die Finanzbildung. Er fordert stattdessen ein staatlich verwaltetes Bürgerfonds als Standardprodukt für die private Altersvorsorge.",
+      "source_title": "Stefan Schmidt | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sara Vollath",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sie lehnt die Frühstartrente als ungerecht ab, da sie die Ungleichheit verschärfe und wohlhabenden Eltern zusätzliche Vorteile biete. Sie fordert stattdessen Investitionen in die gesetzliche Rente und Maßnahmen zur Armutsbekämpfung, um echte Chancengleichheit zu gewährleisten.",
+      "source_title": "Kein Beitrag zur Chancengleichheit: Linken-Politikerin Vollath kritisiert Frühstartrente",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

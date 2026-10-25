@@ -34,7 +34,7 @@
     "topic": "103. Sitzung des Bundestages – Debatten zu Frührente, Pflege und Verkehr",
     "summary_path": "protocols/session_103/top_unknown_103_sitzung_des_bundestages_live.md",
     "documents_path": "protocols/session_103/top_unknown_103_sitzung_des_bundestages_live_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_103/top_unknown_103_sitzung_des_bundestages_live_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=Iuvo6lyIwWg",
     "processed_at": "2026-10-21T08:05:01.016085"
   },
@@ -215,7 +215,7 @@
     "top": "17",
     "topic": "Reform der Langzeitpflegeversicherung",
     "summary_path": "protocols/session_102/17_reform_of_long_term_care_insurance.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_102/17_reform_of_long_term_care_insurance_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=P53fWTcVNsw",
     "processed_at": "2026-10-20T08:01:09.384559"
@@ -3944,7 +3944,7 @@
     "top": "3",
     "topic": "101. Sitzung: Fragestunde",
     "summary_path": "protocols/session_101/3_101st_session_of_10_14_2026_agenda_item_3_question.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_101/3_101st_session_of_10_14_2026_agenda_item_3_question_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=fe3XXpZJsSw",
     "processed_at": "2026-10-19T08:02:09.568843"
