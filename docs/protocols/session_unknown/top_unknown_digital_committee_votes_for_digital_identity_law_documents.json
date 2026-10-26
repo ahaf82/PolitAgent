@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "Gesetz zur Einführung der europäischen digitalen Identität (EUDI-Wallet)",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Antrag der Fraktionen der CDU/CSU und SPD: Gesetz zur Einführung der europäischen digitalen Identität (EUDI-Wallet) – Ein wichtiger Schritt zur Digitalisierung des Alltags",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Digitalausschuss hat über den Gesetzentwurf der Bundesregierung zur Einführung der europäischen digitalen Identität (EUDI-Wallet) beraten und abgestimmt. Die Debatte fokussierte sich auf Aspekte wie Freiwilligkeit, Datenschutz und die Erweiterung auf private Dienste. Die Fraktionen äußerten unterschiedliche Positionen, wobei die Koalitionsfraktionen den Gesetzentwurf mit Verbesserungen unterstützten, während die AfD ihn ablehnte.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

@@ -7476,7 +7476,7 @@
     "top": "N/A",
     "topic": "Anhörung zu zwangsweise medizinischen Maßnahmen im Betreuungsrecht",
     "summary_path": "protocols/session_unknown/top_unknown_hearing_on_compulsory_medical_measures_in_guardian.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_hearing_on_compulsory_medical_measures_in_guardian_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=3PmUVil85FI",
     "processed_at": "2026-10-12T08:01:57.194927"
@@ -7502,7 +7502,7 @@
     "top": "N/A",
     "topic": "Fachgespräch zur Sicherheit von KI-Agenten",
     "summary_path": "protocols/session_unknown/top_unknown_expert_discussion_on_ai_safety.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_expert_discussion_on_ai_safety_documents.json",
     "speakers_path": "protocols/session_unknown/top_unknown_expert_discussion_on_ai_safety_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=ZlHOD0P26zE",
     "processed_at": "2026-10-12T08:04:33.957428"
@@ -7645,7 +7645,7 @@
     "top": "N/A",
     "topic": "Digitalausschuss stimmt für Gesetz zur digitalen Identität",
     "summary_path": "protocols/session_unknown/top_unknown_digital_committee_votes_for_digital_identity_law.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_digital_committee_votes_for_digital_identity_law_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=tScaZfUrrfY",
     "processed_at": "2026-10-17T08:04:35.390394"
