@@ -1,0 +1,64 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/6990",
+      "title": "Beschlussempfehlung und Bericht des Innenausschusses a) zu dem Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Modernisierung des Bundespolizeigesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6990&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/3051",
+      "title": "Entwurf eines Gesetzes zur Modernisierung des Bundespolizeigesetzes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F3051&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Die dritte Beratung und Schlussabstimmung des Gesetzentwurfs zur Modernisierung des Bundespolizeigesetzes wurde durchgeführt. Die Beschlussempfehlung des Innenausschusses zur Annahme des Gesetzentwurfs wurde in namentlicher Abstimmung angenommen.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=21097",
+    "overall_result": {
+      "ja": 322,
+      "nein": 134,
+      "enthaltung": 118,
+      "nicht_abgegeben": 0
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "SPD",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

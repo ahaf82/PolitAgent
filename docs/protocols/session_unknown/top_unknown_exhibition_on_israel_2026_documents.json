@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Informationen zur Ausstellung \"733 Tage, 2 Stunden und 35 Minuten\"",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Es fand keine Debatte im klassischen Sinne statt, sondern die Eröffnungsrede zu einer Ausstellung. Die Ausstellung mit dem Titel \"733 Tage, 2 Stunden und 35 Minuten\" wird im Paul-Löbe-Haus des Bundestages gezeigt und erinnert an den Überfall der Hamas auf Israel und die Geiselnahme.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
