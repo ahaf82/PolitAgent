@@ -684,7 +684,7 @@
     "topic": "Drei Jahre nach dem Terrorangriff der Hamas auf Israel: Antisemitismus entschlossen bekämpfen, jüdisches Leben in Deutschland schützen",
     "summary_path": "protocols/session_98/3_three_years_after_the_terrorist_attack_by_hamas_on.md",
     "documents_path": "protocols/session_98/3_three_years_after_the_terrorist_attack_by_hamas_on_documents.json",
-    "speakers_path": "protocols/session_98/3_three_years_after_the_terrorist_attack_by_hamas_on_speakers.json",
+    "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=sC5SJyORmAw",
     "processed_at": "2026-10-10T08:04:19.216489"
   },
@@ -2519,7 +2519,7 @@
     "documents_path": "protocols/session_84/34_wohngeld_documents.json",
     "youtube_url": "https://www.youtube.com/watch?v=awg5PKlQ9Gs",
     "processed_at": "2026-06-15T13:12:02.607839",
-    "speakers_path": "protocols/session_84/34_wohngeld_speakers.json"
+    "speakers_path": null
   },
   {
     "id": "LhynOB3pbE0",
