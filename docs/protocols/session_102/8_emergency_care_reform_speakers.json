@@ -1,0 +1,113 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Bundestagsabgeordneten zur Reform der Notfallversorgung spiegeln die Debatten im Plenum wider. Während die Regierungsparteien (CDU/CSU, SPD, Grüne) die Notwendigkeit und die positiven Aspekte der Reform hervorheben, wie verbesserte Patientensteuerung und Entlastung von Notaufnahmen, äußern die Oppositionsparteien (AfD, Die Linke) weiterhin deutliche Kritik. Die AfD bemängelt Finanzierungsfragen und die Beibehaltung zweier Notrufnummern, während Die Linke vor allem den Fokus auf die Arbeitsbedingungen des Personals und die unzureichende Adressierung struktureller Probleme kritisiert. Bundesgesundheitsminister Karsten Linnemann betont die Effizienzsteigerung und die Bedeutung integrierter Notfallzentren.",
+  "sources": [
+    {
+      "name": "Dr. Hans-Peter Teis",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betonte, dass die Notfallreform ein \"Quantensprung\" sei und die Notfallversorgung im ganzen Land sichern würde. Er hob die verbesserte Vermittlung durch digitale Vernetzung, die Schaffung integrierter Notfallzentren und die gesetzliche Verankerung der Finanzierung des Rettungswesens hervor.",
+      "source_title": "Reform der Notfallversorgung: Ein wichtiger Schritt für die medizinische Versorgung!",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Nicole Hellers",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Tanja Macherlett",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betonte die Dringlichkeit der Strukturreform und hob die Schaffung integrierter Notfallzentren, die digitale Vernetzung und die verbesserte Patientensteuerung hervor. Sie erwähnte explizit die Berücksichtigung von Menschen mit Behinderungen und die Sicherung einer auskömmlichen Finanzierung des Rettungswesens.",
+      "source_title": "Neues Gesetz zur Notfallversorgung: SPD-Bundestagsabgeordnete Machalet begrüßt klare Verbesserungen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Janno Stern",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stella Merendino",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisierte, dass die Reform die strukturellen Probleme wie Personalmangel und schlechte Arbeitsbedingungen nicht ausreichend adressiere und die Finanzierung als unzureichend empfand. Sie hob hervor, dass das System nur funktioniere, weil Beschäftigte über ihre Grenzen gingen.",
+      "source_title": "Reden - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Karsten Linnemann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bestätigte den Bedarf an besserer Patientensteuerung und erläuterte die Kernpunkte wie integrierte Notfallzentren und die Verzahnung der Rufnummern 112 und 116117. Er hob hervor, dass die Reform das Gesundheitssystem effizienter machen werde.",
+      "source_title": "Bundesgesundheitsminister Reform Notfallversorgung | Bundesregierung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Alexis Girsch",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisierte, dass der Gesetzentwurf zu spät komme und verwies auf unzureichende Finanzierung. Er stellte die eigene Lösung der AfD vor: eine gemeinsame Anlaufstelle unter der 112 und die Alarmierung von Ersthelfern.",
+      "source_title": "Better Care Instead of a Planned Economy! - Joachim Bloch - AfD Parliamentary Group in the Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=GE6nnRoqZqE",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Dr. Christos Fantasis",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betonte, dass die Koalition Verantwortung übernehme und die Notfallreform vorantreibe. Er sprach auch über positive Entwicklungen im Beitragssatzstabilisierungsgesetz, wie die Stabilisierung des Zusatzbeitragssatzes und die Entlastung von Haus- und Kinderärzten.",
+      "source_title": "Reform der Notfallversorgung: Hilfe gezielt steuern - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/reform-notfallversorgung-hilfe-gezielt-steuern",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Kirstin Koper-Gonter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Simone Borchert",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Verteidigte die Notwendigkeit der Reform zur Organisation der Notfallversorgung und betonte die Vernetzung der Notrufnummern sowie die Befugniserweiterung für Notfallsanitäter. Sie kritisierte die \"ideologische Ausrichtung einiger Debattenbeiträge\".",
+      "source_title": "Rettungsdienste und Notaufnahmen werden entlastet | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/presse/rettungsdienste-und-notaufnahmen-werden-entlastet",
+      "platform": "Website"
+    },
+    {
+      "name": "Joachim Bloch",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisierte, dass die Reform an zwei Rufnummern festhalte und Verwirrung stifte, und bemängelte fehlende Aussagen zur Finanzierung und zum Personal. Er stellte die Lösungsansätze der AfD vor, einschließlich einer gemeinsamen Anlaufstelle unter der 112.",
+      "source_title": "Emergency Reform 2026: What's Changing for 112 and 116 117? | Joachim Bloch (AfD)",
+      "url": "https://www.youtube.com/watch?v=a9SIOBJjvx0",
+      "platform": "Website"
+    },
+    {
+      "name": "Anne Jansen",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
