@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Reaktionen der im Bundestag zum \"Gesetz zur Stärkung der Reserve\" spiegeln die unterschiedlichen politischen Schwerpunkte der Parteien wider. Während die Regierung und die CDU/CSU die Notwendigkeit einer stärkeren und einsatzbereiten Reserve angesichts der Sicherheitslage betonen und die Abschaffung der \"doppelten Freiwilligkeit\" als notwendigen Paradigmenwechsel sehen, äußern die AfD, Bündnis 90/Die Grünen und Die Linke Bedenken. Kritisiert werden vor allem die potenzielle Belastung für kleine und mittelständische Unternehmen, die Frage der Wehrgerechtigkeit und die Befürchtung einer \"Wehrpflicht durch die Hintertür\". Die Grünen fordern zudem ein gesamtgesellschaftliches Konzept für die Reserve.",
+  "sources": [
+    {
+      "name": "Boris Pistorius",
+      "party": "SPD",
+      "found": false,
+      "statement": "Er betont die Notwendigkeit einer schnellen und konsequenten Stärkung der Verteidigungsfähigkeit aufgrund der verschärften Sicherheitslage und die zentrale Rolle einer starken Reserve für die Einsatzbereitschaft. Mit dem Gesetz werde die \"doppelte Freiwilligkeit\" durch verpflichtende Reservedienstleistungen ersetzt und die Attraktivität der Reserve durch höhere Zuschläge und bessere Ausstattung gesteigert. Er unterstreicht die klaren Grenzen des Gesetzes und die Berücksichtigung von Arbeitgeberinteressen.",
+      "source_title": "Rede des Bundesministers der Verteidigung, Boris Pistorius, zum Reservestärkungsgesetz",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Jörg Zierwitz",
+      "party": "AfD",
+      "found": true,
+      "statement": "Er teilt grundsätzlich die Notwendigkeit der Stärkung der Reserve, kritisiert jedoch die Abschaffung der \"doppelten Freiwilligkeit\" als tiefgreifenden Eingriff in die Berufs- und Lebensplanung. Er äußert Bedenken hinsichtlich der Belastung für kleine und mittelständische Unternehmen und befürchtet, dass das Gesetz zum \"KDV-Turbo\" und \"Papiertiger\" werden könnte, wodurch die Reserve eher geschwächt als gestärkt werde.",
+      "source_title": "Reservist Strengthening Act Interferes Deeply with Career Planning!",
+      "url": "https://www.youtube.com/watch?v=X2j210hXoN8",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Diana Herbstreuth",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Sie betont, dass die Bedeutung der Reserve mit der Rückkehr zur Landes- und Bündnisverteidigung grundlegend verändert sei und sie für Aufwuchs, Durchhaltefähigkeit und Heimatschutz unerlässlich sei. Das Gesetz schaffe die Grundlage für eine starke Reserve auf Augenhöhe, wobei die Abschaffung der \"doppelten Freiwilligkeit\" einen wichtigen Paradigmenwechsel darstelle. Die Reserve sei zudem ein Bindeglied zwischen Bundeswehr und Gesellschaft.",
+      "source_title": "Eine starke Reserve für Landes- und Bündnisverteidigung",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Niklas Wagener",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Er betont, dass eine starke Bundeswehr eine starke Reserve benötigt, kritisiert aber, dass der Entwurf vor allem auf bereits Dienende setze und neue Verpflichtungen schaffe, ohne klare Grenzen aufzuzeigen. Er fordert ein gesamtgesellschaftliches Konzept und fragt nach den Auswirkungen auf zivile Sektoren sowie nach Möglichkeiten für Ungediente, Ältere und Frauen.",
+      "source_title": "Für Reservisten wird es ernst - Das Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Donata Fuchs-Schmitt",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sie kritisiert, dass das Gesetz im Kern die Ausweitung der verpflichtenden Dienstleistung gegen den Willen der Betroffenen vorsieht und bezeichnet dies als \"Pflicht durch die Hintertür\". Sie bemängelt die Abschaffung der \"doppelten Freiwilligkeit\", die kurzen Vorlaufzeiten für Heranziehungsbescheide und die finanziellen Folgen für Betroffene und Arbeitgeber, da Sicherheit auch Diplomatie erfordere.",
+      "source_title": "Keine weiteren Sonderregelungen für die Bundeswehr",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Thomas Erndl",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Er unterstrich die gesellschaftliche Dimension des Vorhabens und betonte die Notwendigkeit, dass die Bundeswehr auch über die Reserve ein selbstverständlicher Teil der Gesellschaft ist. Er teilte die Einschätzung, dass das Ziel von 200.000 Reservisten bis 2033 ehrgeizig, aber notwendig sei, wobei die Gewinnung, Ausbildung und Einbindung entscheidend seien.",
+      "source_title": "Bundestag berät Reservestärkungsgesetz und Bundeswehr-Infrastrukturbeschleunigungsgesetz",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sven Wenddorf",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
