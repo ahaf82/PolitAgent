@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die Abgeordneten zeigten sich in externen Stellungnahmen zum Thema Langzeitpflegeversicherung gespalten in ihren Ansichten und Lösungsansätzen. Während einige, wie Dr. Paul Schmidt (AfD), eine strukturelle Reform und eine stärkere Finanzierung durch den Bundeshaushalt forderten, betonten andere, wie Claudia Moll (SPD) und Simone Fischer (Bündnis 90/Die Grünen), die Notwendigkeit der Unterstützung pflegender Angehöriger und die finanzielle Absicherung. Katrin Staffler (CSU) übernahm die Rolle der Pflegebevollmächtigten und betonte die Wichtigkeit einer nachhaltigen und generationengerechten Umgestaltung des Systems, wobei sie den Abbau bürokratischer Hürden und die Verbesserung der Arbeitsbedingungen in den Vordergrund stellte. Die AfD-Vertreter, darunter Birgit Bessin und Dr. Paul Schmidt, kritisierten die bisherige Politik scharf und forderten unter anderem eine familienfreundlichere Finanzierung.",
+  "sources": [
+    {
+      "name": "Birgit Bessin",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Regierungsparteien für Versäumnisse in der Pflege und fordert finanzielle Entlastung, verlässliche Kurzzeitpflege, bessere Arbeitsbedingungen und eine ehrliche Finanzierung mit stabilen Beiträgen.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages am 15. Oktober 2026 (TOP 17)",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Dr. Hendrik Streeck",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Kritisiert die Anträge der AfD als inkonsistent und unzureichend finanziert und betont, dass politische Verantwortung über das bloße Problembenennen hinausgeht.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages am 15. Oktober 2026 (TOP 17)",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Simone Fischer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Betont die Belastung pflegender Angehöriger und fordert Entlastung, soziale Absicherung und die Begrenzung von Eigenanteilen. Sie kritisiert die AfD-Anträge als inkonsistent und auf Leistungskürzungen ausgerichtet.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages am 15. Oktober 2026 (TOP 17)",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Claudia Moll",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont die Verantwortung der Regierung für die praktische Umsetzung und kritisiert die AfD für unzureichende Finanzierung und die Verlagerung von Lasten auf Kommunen. Sie hat sich in der Vergangenheit für eine echte Vollversicherung in der Pflege stark gemacht und fordert eine bessere Bezahlung und mehr Personal.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages (TOP 17) und Artikel in t-online.de",
+      "url": "https://www.t-online.de/gesundheit/krankheiten-symptome/wundheilung/id_92282232/wenn-sich-wunden-infizieren-das-kann-passieren.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Evelyn Schötz",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Äußert sich empört über die AfD-Vorschläge, die ihrer Meinung nach pflegende Angehörige weiter belasten würden. Sie kritisiert die AfD für Steuererleichterungen, die Fokussierung auf private Zusatzversicherungen und die Ausspielung von Unterstützung für Pflegebedürftige gegen Minderheitenschutz.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages am 15. Oktober 2026 (TOP 17)",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    },
+    {
+      "name": "Katrin Staffler",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Bezeichnet die AfD-Anträge als populistische Phrasen und kritisiert die ausländerfeindliche Rhetorik. Sie verteidigt die generalistische Pflegeausbildung und die Bedeutung ausländischer Pflegekräfte. Als Pflegebevollmächtigte betont sie die Notwendigkeit, den Alltag für alle Beteiligten zu erleichtern und Menschlichkeit in den Mittelpunkt zu rücken.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages (TOP 17) und Artikel auf familiara.de",
+      "url": "https://www.familiara.de/katrin-staffler-neue-pflegebevollmaechtigte-mit-frischem-blick-und-klaren-zielen/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Paul Schmidt",
+      "party": "AfD",
+      "found": false,
+      "statement": "Zitiert einen Zeitungsartikel, der die Pflegestärkungsgesetze von CDU/CSU und SPD für explodierende Pflegekosten verantwortlich macht. Er fordert stabile Beiträge und die Finanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt, um die Pflegeversicherung bezahlbar zu halten.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages (TOP 17) und Artikel auf dr-paul-schmidt.com",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Emilia Söllner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Kritisiert Dr. Schmidt für widersprüchliche Aussagen zwischen den AfD-Anträgen und dem Redebeitrag. Sie betont die Unterstützung der sozialen Pflegeversicherung und kritisiert die Idee, diese mit der Krankenversicherung zusammenzulegen.",
+      "source_title": "Redebeitrag in der 102. Sitzung des Deutschen Bundestages am 15. Oktober 2026 (TOP 17)",
+      "url": "N/A",
+      "platform": "Plenumsprotokoll"
+    }
+  ]
+}
