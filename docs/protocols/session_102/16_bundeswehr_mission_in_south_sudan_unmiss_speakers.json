@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte zur Fortsetzung des Bundeswehreinsatzes im Südsudan (UNMISS) zeigte breite Zustimmung, jedoch mit unterschiedlichen Akzenten. Abgeordnete betonten die humanitäre Krise und die Notwendigkeit, die Zivilbevölkerung zu schützen. Kritische Stimmen hoben die Grenzen der Mission hervor und forderten stärkere diplomatische und zivile Anstrengungen. Externe Aussagen spiegelten diese Debatten wider, wobei einige Abgeordnete auf ihren persönlichen Webseiten oder in Fraktionsmitteilungen die Bedeutung der Mission hervorhoben, während andere die Notwendigkeit einer umfassenden politischen Strategie betonten.",
+  "sources": [
+    {
+      "name": "Thomas Rachel",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Heinrich Koch",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Gabriela Heinrich",
+      "party": "SPD",
+      "found": true,
+      "statement": "Gabriela Heinrich hat der Verlängerung des Bundeswehreinsatzes im Südsudan (UNMISS) im Bundestag zugestimmt und betont ihre Rolle bei der Unterstützung humanitärer Hilfe und der Überwachung des Völkerrechts.",
+      "source_title": "Abstimmung im Bundestag: Verlängerung des Bundeswehreinsatzes im Südsudan (UNMISS)",
+      "url": "https://www.abgeordnetenwatch.de/profile/gabriela-heinrich/fragen-antworten/stimmen-sie-fuer-die-abschaffung-der-rente-fuer-besonders-langjaehrig-versicherte",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Luise Amtsberg",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Luise Amtsberg hob die humanitäre Doppelkrise im Südsudan hervor, die sich aus Naturkatastrophen und Gewalt speist, und betonte die unverzichtbare Arbeit von UNMISS, mahnte aber zugleich, dass Deutschlands Verantwortung nicht enden dürfe und Kürzungen bei der humanitären Hilfe ein Fehler wären.",
+      "source_title": "Rede: Verlängerung des UNMISS-Mandats im Südsudan",
+      "url": "https://luise-amtsberg.de/rede-verlaengerung-des-unmiss-mandats-im-suedsudan/",
+      "platform": "Website"
+    },
+    {
+      "name": "Maren Kaminski",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Maren Kaminski kritisiert, dass die Handlungsfähigkeit von UNMISS begrenzt sei und mehr Diplomatie sowie zivile Unterstützung benötigt würden, um einen nachhaltigen Frieden zu erreichen, und fordert mehr Unterstützung für die Menschen im Südsudan.",
+      "source_title": "Für mehr Diplomatie und Frieden in Südsudan: humanitäre Hilfe sichern",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Markus Koob",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Markus Koob betonte in seiner Rede die Wichtigkeit der Fortsetzung des Mandats zum Schutz der Zivilbevölkerung und zur Begleitung des Friedensprozesses, trotz der Unsicherheiten bezüglich der Wahlen und der angespannten Sicherheitslage.",
+      "source_title": "Archivierte Abgeordnetenbiografie von Markus Koob (CDU/CSU) für den Wahlkreis 176 in Hessen in der 20. Wahlperiode",
+      "url": "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/F/foehr_alexander-860116",
+      "platform": "Website"
+    },
+    {
+      "name": "Gerold Otten",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christoph Schmid",
+      "party": "SPD",
+      "found": true,
+      "statement": "Christoph Schmid unterstrich die Notwendigkeit der Mission angesichts der Instabilität und katastrophalen humanitären Lage und betonte, dass eine Ablehnung des Mandats Stabilität und Frieden untergraben würde.",
+      "source_title": "Beratung zu: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS) (Antrag)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/967388-967388",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stephan Mayer",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Stephan Mayer hält die Fortsetzung des Mandats aus sicherheits- und humanitätspolitischen Gründen für dringend erforderlich, angesichts der zunehmenden Gewalt und der schwierigen Bedingungen für humanitäre Helfer, und sieht darin eine humanitäre Verantwortung Deutschlands.",
+      "source_title": "Stephan Mayer (Altötting), MdB, CDU/CSU",
+      "url": "https://www.bundestag.de/presse/hib/954588-954588",
+      "platform": "Presse"
+    }
+  ]
+}
