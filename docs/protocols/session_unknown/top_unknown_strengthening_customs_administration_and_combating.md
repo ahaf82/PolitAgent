@@ -1,0 +1,53 @@
+# Stärkung der Zollverwaltung und Bekämpfung der Finanzkriminalität
+
+## Sitzungs-Metadaten
+- **Sitzung:** 47. Sitzung des Finanzausschusses
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** Anhörung zum Gesetzentwurf der Bundesregierung
+- **Originaltitel:** Strengthening Customs Administration and Combating Financial Crime
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=DQET6su3BGQ)
+
+## Kurzzusammenfassung
+Der Finanzausschuss des Deutschen Bundestages hielt eine Anhörung zur Stärkung der Zollverwaltung und zur Bekämpfung der Finanzkriminalität ab. Diskutiert wurden der Gesetzentwurf der Bundesregierung sowie Anträge der Fraktionen Bündnis 90/Die Grünen und Die Linke. Die Debatte fokussierte sich auf organisatorische Reformen im Zoll, den Ausbau analytischer Fähigkeiten zur Finanzermittlung, die Neugestaltung von Ermittlungs- und Vollzugseinheiten, die Beweismittellast bei der Einziehung von Vermögenswerten, die Stärkung der Finanzkontrolle Schwarzarbeit sowie die Notwendigkeit eines zentralen Zentrums zur Bekämpfung von Steuer- und Finanzkriminalität.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Unionsfraktion (CDU/CSU)**: Vertritt die Ansicht, dass die geplanten organisatorischen Reformen und der Ausbau analytischer Fähigkeiten im Zoll zur stärkeren Bündelung operativer Ermittlungsstrukturen und zur Bekämpfung der organisierten Kriminalität und Finanzkriminalität beitragen werden. Betont die Wichtigkeit der Zusammenführung von Ermittlungs- und Vollzugseinheiten.
+- **AfD-Fraktion**: Äußert Bedenken hinsichtlich einer Beweislastumkehr bei der Einziehung von Vermögenswerten und sieht die Gefahr, dass unbescholtene Bürger unter Generalverdacht gestellt werden. Kritisiert unklare Rechtsbegriffe und die Notwendigkeit klarer Definitionen bezüglich der Herkunft nicht rechtmäßigen Vermögens. hinterfragt die Kalkulation von Mehreinnahmen.
+- **Bündnis 90/Die Grünen**: Hält den Gesetzentwurf für unzureichend im Vergleich zu angekündigten Maßnahmen. Vermisst ein zentrales gemeinsames Zentrum gegen Steuer- und Finanzkriminalität und fordert eine stärkere Einbindung von Landesfinanzbehörden und Steuerverwaltungen sowie eine operative Tätigkeit solcher Zentren. Kritisiert die mangelnde Bündelung der Aufsicht über den Nichtfinanzsektor.
+- **FDP-Fraktion**: (Nicht im Transkript vertreten)
+- **SPD-Fraktion**: Unterstützt das Instrument der administrativen Vermögensermittlung und Sicherung außerhalb des Strafverfahrens, hinterfragt jedoch die Praktikabilität und notwendige Verbesserungen im Gesetz. Betont die Bedeutung einer klaren Koordination zwischen Bund und Ländern sowie mit internationalen Partnern wie der Europäischen Staatsanwaltschaft.
+- **Die Linke**: Teilt die Kritik, dass das Gesetz hinter den Ankündigungen zurückbleibt. Kritisiert eine Subsidiaritätsklausel, die Strafverfahren vorrangig behandelt und administrative Verfahren blockiert. Fordert, dass abgeschöpfte Vermögenswerte den Geschädigten zugutekommen sollten.
+- **BSW**: (Nicht im Transkript vertreten)
+- **Fraktionslos**: (Nicht im Transkript vertreten)
+
+**Sachverständige:**
+- **Dr. Rolfing (Generalzolldirektion)**: Erläutert die geplante Bündelung von Ermittlungs- und Vollzugseinheiten im Zoll, um Kompetenzen zu bündeln, größere Einheiten zu bilden und operative sowie informationsbezogene Abläufe zu verkürzen.
+- **Professor Wegner (Martin-Luther-Universität Halle-Wittenberg)**: Stellt die Rechtmäßigkeit der Beweislastumkehr bei der Vermögensabschöpfung in Frage und betont die Notwendigkeit klarer gesetzlicher Definitionen für "nicht rechtmäßige Herkunft" und die Berücksichtigung von Auslandstaten.
+- **Frau Foss (Finanzkontrolle Schwarzarbeit)**: Berichtet über die Stärkung der Finanzkontrolle Schwarzarbeit durch das Gesetz, insbesondere durch neue polizeiliche Befugnisse und die Unterstellung unter den Befehl eines Polizeiführers.
+- **Frau Arnold (Finanzwende)**: Betont die Notwendigkeit einer zentralen, interdisziplinären Einheit zur Bekämpfung der Finanzkriminalität und kritisiert die mangelnde Einbindung von Landesfinanzbehörden sowie die unzureichende Zentralisierung der Aufsicht im Nichtfinanzsektor.
+- **Dr. Wende (RPIT GmbH)**: Hebt die Notwendigkeit des Informationsaustauschs und höherer Datenqualität zur Bürokratieentlastung hervor und kritisiert die derzeitige manuelle Datenerfassung und die mangelnde Interoperabilität von Registern.
+- **Frau Vieri & Herr Matioli (Mafia-eine Danke)**: Beschreiben die positiven Effekte der sozialen Wiederverwendung von beschlagnahmtem Vermögen in Italien und kritisieren die Unklarheit der Subsidiaritätsklausel im Gesetzentwurf.
+- **Dr. Funken (Generalzolldirektion)**: Erklärt, dass keine neue Oberbehörde benötigt werde, sondern eine Stärkung der bestehenden Strukturen und Kooperationen. Betont die Notwendigkeit der organisatorischen Unabhängigkeit der FIU gemäß internationalen Standards.
+- **Professor Stappernfend (Bund deutscher Finanzrichter)**: Befürwortet die Zuständigkeit der Finanzgerichte für die Einziehungsverfahren und plädiert für die Beibehaltung des Senatsprinzips anstelle von Einzelrichterentscheidungen.
+- **Herr Liebel (Gewerkschaft BDZ)**: Begrüßt die organisatorische Neuordnung des Zolls und die Zusammenlegung von Einheiten zur Effizienzsteigerung. Betont jedoch die Notwendigkeit von technischen Anpassungen, Qualifizierung und ausreichenden Personalressourcen.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=DQET6su3BGQ&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Vorsitzende des Finanzausschusses eröffnet die Sitzung, entschuldigt sich für die Verspätung und begrüßt die Anwesenden und Sachverständigen. Er informiert über die krankheitsbedingte Abwesenheit eines Sachverständigen der AfD-Fraktion und den hybriden Sitzungsmodus.
+- **[00:01:34](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1m34s)** - **Gegenstand der Anhörung**: Vorstellung des Gesetzentwurfs der Bundesregierung zur Stärkung der Zollverwaltung und Bekämpfung der Finanzkriminalität sowie relevanter Anträge der Fraktionen.
+- **[00:02:45](https://www.youtube.com/watch?v=DQET6su3BGQ&t=2m45s)** - **Begrüßung weiterer Teilnehmer**: Begrüßung der Vertreterin des Bundesministeriums für Finanzen und der Vertreter der Länder.
+- **[00:03:14](https://www.youtube.com/watch?v=DQET6su3BGQ&t=3m14s)** - **Ablauf der Anhörung**: Erläuterung des Ablaufs, der Zeitvorgaben von 5 Minuten pro Redebeitrag und der Notwendigkeit kurzer Fragen und Antworten.
+- **[00:05:36](https://www.youtube.com/watch?v=DQET6su3BGQ&t=5m36s)** - **Beginn der Befragung**: Die Abgeordnete Klicek (Unionsfraktion) richtet die erste Frage an Dr. Rolfing (Generalzolldirektion) bezüglich der Zusammenführung von Ermittlungs- und Vollzugseinheiten beim Zoll.
+- **[00:06:54](https://www.youtube.com/watch?v=DQET6su3BGQ&t=6m54s)** - **Antwort von Dr. Rolfing**: Erläutert die geplante Bündelung von Fachaufgaben in zwei Fachsträngen (Wirtschaft/Einnahmen und Sicherheit/Vollzug) und die Zusammenlegung von Direktionen in der Generalzolldirektion und auf Ortsebene.
+- **[01:09:53](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h9m53s)** - **Empfehlung zur Zusammenarbeit**: Professor Wegner empfiehlt die Einholung von Tipps von der Taskforce Geldwäschebekämpfung aus Baden-Württemberg zur Optimierung von Prozessen.
+- **[01:10:04](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h10m4s)** - **Frage zur technischen Ausstattung**: Kollegin Klicek (Unionsfraktion) fragt Herrn Liebel (BDZ) nach den technischen Voraussetzungen und der neuen Ausrichtung des Zolls.
+- **[01:11:16](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h11m16s)** - **Antwort von Herrn Liebel**: Beschreibt die unbefriedigende technische Infrastruktur mit getrennten Systemarchitekturen und fordert eine gemeinsame IT-Infrastruktur sowie die Qualifizierung des Personals.
+- **[01:15:08](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h15m8s)** - **Frage zu Mehreinnahmen**: Kollege Finger (AfD) fragt Frau Dr. Funken und Dr. Rolfing nach der Belastbarkeit der prognostizierten Mehreinnahmen von 300 Millionen Euro.
+- **[01:16:01](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h16m1s)** - **Antwort von Dr. Rolfing und Frau Dr. Funken**: Verweisen auf die Notwendigkeit organisatorischer Anpassungen und Kosten im Rahmen des Umbaus und ordnen die prognostizierten Mehreinnahmen als plausibel und richtungsweisend im Rahmen der FATF-Anforderungen ein.
+- **[01:19:24](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h19m24s)** - **Abschließende Fragen zur Finanzkriminalität**: Kollegin Andre (Die Linke) fragt Frau Arnold (Finanzwende) nach der Wirksamkeit des AES-Instruments bei "White Collar"-Kriminalität und notwendigen Regelungen für Datenaustausch.
+- **[01:20:18](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h20m18s)** - **Antwort von Frau Arnold**: Plädiert für einen Vorrang der Strafverfolgung gegenüber administrativen Verfahren und sieht für "White Collar"-Kriminalität einen begrenzten Anwendungsbereich des AES. Betont die Notwendigkeit eines Informationsflusses zwischen Behörden.
+- **[01:24:47](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h24m47s)** - **Frage zur gerichtlichen Zuständigkeit**: Kollege Hoffmann (Unionsfraktion) fragt Professor Stappernfend nach der Sinnhaftigkeit der Übertragung von Zuständigkeiten an Finanzgerichte und angemessenen Sicherstellungsfristen.
+- **[01:25:18](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h25m18s)** - **Antwort von Professor Stappernfend**: Bestätigt die Zwingendheit der Zuständigkeit der Finanzgerichte, betont die vorhandenen Kapazitäten und kritisiert die Einzelrichterregelungen sowie fehlende Regelungen zur Fortsetzung der Sicherstellung bei laufenden Einziehungsverfahren.
+- **[01:29:44](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h29m44s)** - **Abschließende Frage zur Personalentwicklung**: Kollege Vogel (SPD) erkundigt sich bei Dr. Rolfing und Frau Foss nach der Personalentwicklung und dem Bedarf im Zoll.
+- **[01:30:32](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h30m32s)** - **Antwort von Frau Foss**: Erklärt, dass für die Finanzkontrolle Schwarzarbeit fortlaufend Personalzuwachs durch neue Planstellen vorgesehen ist, um die wachsenden Aufgaben zu bewältigen.
+- **[01:34:37](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h34m37s)** - **Schlussworte des Vorsitzenden**: Dank an die Sachverständigen für ihre Einblicke und die Gewährleistung, dass diese im Gesetzgebungsprozess berücksichtigt werden.
+- **[01:35:06](https://www.youtube.com/watch?v=DQET6su3BGQ&t=1h35m6s)** - **Sitzungsende**: Die Sitzung und Anhörung werden geschlossen.

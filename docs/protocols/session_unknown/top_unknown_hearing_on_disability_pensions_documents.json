@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "N/A",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "N/A"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Anhörung des Ausschusses für Arbeit und Soziales diente der Beratung des Antrags der Fraktion Bündnis 90/Die Grünen \"Gesund länger arbeiten und Erwerbsminderungsrente verbessern\". Es wurden verschiedene Positionen von Sachverständigen zu Themen wie Präventionsleistungen, betrieblichem Eingliederungsmanagement und einer Überlastungsschutzrente diskutiert. Ein Beschluss oder eine namentliche Abstimmung fand im Rahmen dieser Anhörung nicht statt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
