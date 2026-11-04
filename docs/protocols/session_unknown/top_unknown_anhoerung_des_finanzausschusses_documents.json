@@ -1,27 +1,21 @@
 {
   "documents": [
     {
-      "number": "Drucksache 21/7864",
-      "title": "Gesetzentwurf der Bundesregierung zur Einführung einer Frühstartrente",
-      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7864&rows=25",
-      "type": "Gesetzentwurf"
+      "number": "Drucksache 20/XXXXX",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Anderes"
     },
     {
-      "number": "Drucksache 21/2163",
-      "title": "Antrag der AfD-Fraktion: Eine sichere Rente unserer Kinder – Juniorspardepot",
-      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2163&rows=25",
-      "type": "Antrag"
-    },
-    {
-      "number": "Drucksache 21/2125",
-      "title": "Antrag der Fraktion Die Linke: Finanzielle Bildung stärken – unabhängig, mehr perspektivisch und für alle jungen Menschen",
-      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F2125&rows=25",
-      "type": "Antrag"
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Anderes"
     }
   ],
   "voting": {
     "has_namentliche_abstimmung": false,
-    "decision_text": "Die Anhörung des Finanzausschusses befasste sich mit dem Gesetzentwurf zur Einführung einer Frühstartrente sowie Anträgen der AfD und Die Linke zu finanzieller Bildung und Spardepots. Es fand keine namentliche Abstimmung statt, sondern eine Expertenanhörung zur Beratung der Vorlagen.",
+    "decision_text": "Die Anhörung des Finanzausschusses zum Thema 'Anhörung des Finanzausschusses' am 2026-11-04 befasste sich mit verschiedenen Gesetzesentwürfen und Anträgen zur Einkommensteuerreform. Diskutiert wurden der Gesetzentwurf der Bundesregierung zur Einkommenssteuerreform 2027, ein Entwurf der AfD zur Einführung des Tarifs auf Rädern und Anträge der Grünen zur Stärkung des Kindergeldes und zur Entlastung kleiner und mittlerer Einkommen. Es fand keine namentliche Abstimmung statt.",
     "official_voting_url": "N/A",
     "overall_result": null,
     "faction_results": []

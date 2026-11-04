@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte im Ausschuss für Forschung, Technologie und Technikfolgenabschätzung drehte sich um den Gesetzentwurf der Bundesregierung zur Modernisierung des Befristungsrechts im Wissenschaftsbereich und Anträge von Bündnis 90/Die Grünen und Die Linke. Es gab keine namentliche Abstimmung in dieser Sitzung. Der Verfahrensstand ist die Anhörung von Sachverständigen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

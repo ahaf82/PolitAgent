@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die analysierten Äußerungen von Abgeordneten außerhalb des Plenums zum Thema Wissenschaftsberatung in Krisenzeiten zeigen eine gemeinsame Besorgnis über die Verwischung von Politik- und Wissenschaftsrollen. Es besteht die Forderung nach einer klareren Trennung, um eine Politisierung der Wissenschaft zu verhindern und stattdessen auf evidenzbasierte Beratung zu setzen. Die Kommunikation wissenschaftlicher Unsicherheiten wird als kritisch erachtet, wobei einige Stimmen eine stärkere Transparenz und Pluralität der Meinungen in der Berichterstattung fordern. Generell wird die Notwendigkeit betont, die wissenschaftliche Politikberatung für zukünftige Krisen zu professionalisieren und resilienter zu gestalten.",
+  "sources": [
+    {
+      "name": "Professor Dr. Tilmann Beitsch",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Beitsch betont die Notwendigkeit einer klaren Trennung von Politik- und Wissenschaftsrollen, da Politik Ziele definieren und abwägen müsse, während Wissenschaft Evidenz liefert. Er kritisiert den Ansatz \"Follow the Science\" und plädiert stattdessen für \"Listen to Science\", um eine normative Einflussnahme der Wissenschaft zu vermeiden.",
+      "source_title": "Anhörung zur Wissenschaftsberatung in Krisenzeiten - Protokoll",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Professor Dr. Michael Mein",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Corina Hennig",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Professor Dr. Peter Weingart",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Weingart warnt vor einer 'Verwissenschaftlichung' oder 'Technokratisierung' der Politik und der Instrumentalisierung von Beratern. Er verweist auf etablierte Leitlinien für Politikberatung, die Prinzipien wie Distanz, Pluralität, Transparenz und Öffentlichkeit betonen.",
+      "source_title": "Wissenschaftliche Politikberatung in Krisenzeiten",
+      "url": "https://www.newsd.admin.ch/newsd/message/attachments/74010.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Professor Dr. Rimund Gene",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Professor Dr. Markus Maurer",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
