@@ -1,5 +1,70 @@
 [
   {
+    "id": "mnS5MeQ7aAM",
+    "title": "Ausschuss für Tourismus",
+    "session": 0,
+    "date": "2026-11-05",
+    "top": "N/A",
+    "topic": "Ausschuss für Tourismus",
+    "summary_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_tourismus.md",
+    "documents_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_tourismus_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=mnS5MeQ7aAM",
+    "processed_at": "2026-11-05T08:03:34.795361"
+  },
+  {
+    "id": "Cw9A8NwD46Q",
+    "title": "Ausschuss für Kultur und Medien",
+    "session": 0,
+    "date": "2026-11-05",
+    "top": "N/A",
+    "topic": "Ausschuss für Kultur und Medien",
+    "summary_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_kultur_und_medien.md",
+    "documents_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_kultur_und_medien_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=Cw9A8NwD46Q",
+    "processed_at": "2026-11-05T08:04:41.260483"
+  },
+  {
+    "id": "dx2oiKUJJoM",
+    "title": "104. Sitzung vom 04.11.2026. TOP ZP 1: Aktuelle Stunde: Linksextremismus, Islamismus, Ausschreitung",
+    "session": 104,
+    "date": "2026-11-04",
+    "top": "ZP 1",
+    "topic": "Aktuelle Stunde: Linksextremismus, Islamismus und Ausschreitungen",
+    "summary_path": "protocols/session_104/zp_1_aktuelle_stunde_linksextremismus_islamismus_aussch.md",
+    "documents_path": "protocols/session_104/zp_1_aktuelle_stunde_linksextremismus_islamismus_aussch_documents.json",
+    "speakers_path": "protocols/session_104/zp_1_aktuelle_stunde_linksextremismus_islamismus_aussch_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=dx2oiKUJJoM",
+    "processed_at": "2026-11-05T08:04:04.817741"
+  },
+  {
+    "id": "NCYOBIlsXII",
+    "title": "104. Sitzung vom 04.11.2026. TOP 2: Fragestunde",
+    "session": 104,
+    "date": "2026-11-04",
+    "top": "2",
+    "topic": "Fragestunde",
+    "summary_path": "protocols/session_104/2_fragestunde.md",
+    "documents_path": "protocols/session_104/2_fragestunde_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=NCYOBIlsXII",
+    "processed_at": "2026-11-05T08:03:06.868030"
+  },
+  {
+    "id": "664oQx-QjIA",
+    "title": "104. Sitzung vom 04.11.2026. TOP 1: Befragung der BReg (AA und BKAmt)",
+    "session": 104,
+    "date": "2026-11-04",
+    "top": "1",
+    "topic": "Befragung der Bundesregierung (Auswärtiges Amt und Bundeskanzleramt)",
+    "summary_path": "protocols/session_104/1_befragung_der_breg_aa_und_bkamt.md",
+    "documents_path": "protocols/session_104/1_befragung_der_breg_aa_und_bkamt_documents.json",
+    "speakers_path": "protocols/session_104/1_befragung_der_breg_aa_und_bkamt_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=664oQx-QjIA",
+    "processed_at": "2026-11-05T08:02:34.308071"
+  },
+  {
     "id": "OXAKPWJgU5k",
     "title": "Anhörung der Enquete-Kommission zur Corona-Pandemie",
     "session": 0,
@@ -7909,6 +7974,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=6wLz0t9VWSs",
     "processed_at": "2026-11-03T08:06:50.942413"
+  },
+  {
+    "id": "NHieYOmRXUo",
+    "title": "Reducing bureaucracy in the CAP Direct Payments Act",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Bürokratieabbau im GAP-Direktzahlungsgesetz",
+    "summary_path": "protocols/session_unknown/top_unknown_reducing_bureaucracy_in_the_cap_direct_payments_ac.md",
+    "documents_path": "protocols/session_unknown/top_unknown_reducing_bureaucracy_in_the_cap_direct_payments_ac_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=NHieYOmRXUo",
+    "processed_at": "2026-11-05T08:00:58.718515"
   },
   {
     "id": "vHNXQug-Frc",

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der identifizierten Abgeordneten spiegeln ihre im Bundestag geäußerten Positionen wider. Markus Frohnmaier (AfD) kritisiert weiterhin die finanzielle Unterstützung der Ukraine und fordert \"Winterhilfe für deutsche Bürger\", während Dr. Johann Wadephul (CDU/CSU) dies als nicht im deutschen Interesse liegend zurückweist und die Unterstützung für die Ukraine betont. Sebastian Roloff (SPD) setzt sich weiterhin für Maßnahmen zur Senkung der Spritpreise ein, wie eine Direktzahlung an Geringverdiener oder eine Übergewinnsteuer, und kritisiert die Ölkonzerne. Dr. Irene Mihalic (Bündnis 90/Die Grünen) bekräftigt die Notwendigkeit, Fälle wie die Wirecard-Affäre zu prüfen und beamtenrechtliche Nachjustierungen vorzunehmen. Marc Henrichsmann (CDU/CSU) hat keine spezifischen externen Äußerungen zu diesem Thema gefunden.",
+  "sources": [
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die finanzielle Unterstützung der Ukraine und fordert stattdessen \"Winterhilfe für deutsche Bürger\". Äußert Zweifel an der Prioritätensetzung der Regierung und fordert Sparsamkeit, auch bei der Entwicklungszusammenarbeit.",
+      "source_title": "Fraktionen streiten über finanzielle Unterstützung der Ukraine",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-964206",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Johann Wadephul",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont, dass die Außenpolitik der AfD nicht deutschen Interessen diene und die Bundesregierung entschlossen sei, an der Seite der Überfallenen zu stehen. Erklärt, dass die globale Krisenlage diplomatische Bemühungen und die Verteidigung deutscher Interessen erfordere.",
+      "source_title": "Wadephul attackiert AfD: „Das ist überhaupt kein deutscher Patriotismus“",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": false,
+      "statement": "Fordert neben einer Übergewinnsteuer auch Direktzahlungen für Geringverdiener zur Entlastung angesichts hoher Spritpreise und kritisiert die Ölkonzerne für mangelnde Preissenkungen und mögliche Preisabsprachen.",
+      "source_title": "Hohe Spritpreise: SPD-Politiker fordert Direktzahlung an Geringverdiener",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Betont die Notwendigkeit, Themen wie die Wirecard-Affäre und die Beratungstätigkeit ehemaliger Staatssekretäre zu prüfen und sieht Handlungsbedarf bei beamtenrechtlichen Nachjustierungen.",
+      "source_title": "Dr. Irene Mihalic | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Marc Heinrichsmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/8408",
+      "title": "Entwurf eines Gesetzes zur Bürokratieentlastung, insbesondere der landwirtschaftlichen Betriebe (Bürokratieentlastungsgesetz – Agrar)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8408&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Da es sich um eine öffentliche Anhörung zu einem Gesetzentwurf handelt, fand keine namentliche Abstimmung statt. Der Gesetzentwurf wurde zur weiteren Beratung an den Ausschuss für Ernährung und Landwirtschaft überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

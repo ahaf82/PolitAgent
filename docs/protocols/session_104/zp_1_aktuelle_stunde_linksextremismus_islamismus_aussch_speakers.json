@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Bundestagsabgeordneten zum Thema Linksextremismus, Islamismus und Ausschreitungen spiegeln die Debatte im Plenum wider, sind jedoch differenzierter und stärker auf die jeweiligen politischen Schwerpunkte der Parteien ausgerichtet. Die AfD-Vertreter betonen weiterhin die Gefahren durch linke und migrantische Milieus und fordern eine restriktivere Migrationspolitik. Die SPD und Bündnis 90/Die Grünen heben die Wichtigkeit friedlicher Proteste hervor, verurteilen Gewalt und kritisieren pauschale Zuschreibungen von Kriminalität zu bestimmten Bevölkerungsgruppen. Die Union bedankt sich bei der Polizei und fordert harte Strafen, kritisiert aber auch die AfD für die Instrumentalisierung des Themas. Insgesamt zeigen die Abgeordneten in ihren externen Äußerungen eine Fortsetzung ihrer im Bundestag dargelegten Positionen, wobei der Fokus auf der Bekämpfung von Extremismus, der Sicherheit und der Migrationspolitik liegt.",
+  "sources": [
+    {
+      "name": "Dr. Bernt Baumann",
+      "party": "AfD",
+      "found": true,
+      "statement": "Baumann äußert sich besorgt über linksextremistische und islamistische Gefahren sowie über die Ausschreitungen, die er als Angriff auf die Gesellschaft betrachtet. Er fordert konsequente Strafverfolgung von Kriminellen und betont die Notwendigkeit des Schutzes der Bürger.",
+      "source_title": "AfD-Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Alexander Dobel",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Lamia Kador",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": false,
+      "statement": "Fiedler betont die Notwendigkeit, Linksextremismus nicht zu unterschätzen, warnt vor einer Verharmlosung und hebt die hohe Zahl gewaltbereiter Personen hervor. Er unterstützt Demonstrationsverbote bei angekündigten Straftaten und kritisiert die öffentliche Debatte, die Linksextremismus vernachlässige.",
+      "source_title": "Deutschlandfunk",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Lucas",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sebastian Schmidt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "found": true,
+      "statement": "Curio äußert sich kritisch zur Einbürgerungspolitik und betont die Notwendigkeit, das Staatsangehörigkeitsrecht zu verschärfen. Er kritisiert eine angeblich zu lasche Handhabung von Asylverfahren und warnt vor einer 'Vollverschleierung für unser Grundgesetz'.",
+      "source_title": "AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://www.youtube.com/watch?v=zN7nQoN-a7U",
+      "platform": "Social Media"
+    }
+  ]
+}

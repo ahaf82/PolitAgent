@@ -1,0 +1,147 @@
+# Ausschuss für Sport und Ehrenamt
+
+## Sitzungs-Metadaten
+- **Sitzung:** 33. Sitzung
+- **Datum:** 2026-11-05
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Ausschuss für Sport und Ehrenamt
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=cEn6ZtM2jG4)
+
+## Kurzzusammenfassung
+Der Ausschuss für Sport und Ehrenamt debattierte die Bewerbung Deutschlands um den "Grand Départ" der Tour de France im Jahr 2029. Vertreter des Vereins "Grand Depart" präsentierten die Ziele und Vorteile der Veranstaltung, die auch im Kontext des 40-jährigen Jubiläums des Mauerfalls gesehen wird. Des Weiteren gab es Nachberichte zu den FEI World Championships 2026 und der Weltmeisterschaft der rhythmischen Sportgymnastik 2026. Ein weiterer wichtiger Punkt war der Sachstandsbericht zum Aufbau des Zentrums für Safe Sport. Die Sitzung endete mit einer kurzen Debatte und Abstimmung über einen Antrag zur Leistungssportförderung von Menschen mit Behinderungen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Fraktionslos (Vorsitzende):** Eröffnet die Sitzung, gratuliert zum Geburtstag und begrüßt Gäste. Gibt einen Überblick über die Tagesordnung.
+- **Grand Depart Aleman e.V. (Dr. Hoffmann):**
+  - Der Verein wurde 2024 gegründet, um den Radsport in Deutschland zu fördern, insbesondere Nachwuchs und Breitensport.
+  - Die Tour de France ist eine ideale Plattform, um Menschen für den Radsport zu begeistern und die positiven Effekte von Großveranstaltungen zu nutzen.
+  - Die Bewerbung für 2029 wird mit dem 40-jährigen Jubiläum des Mauerfalls verbunden.
+  - Die Veranstaltung würde die deutsch-französische Freundschaft und europäische Einigung symbolisieren.
+  - Es wird eine gleichwertige Finanzierung durch Bund und vier Länder (je 10 Mio. €) angestrebt, mit zusätzlichen Sponsorengeldern.
+  - Die Gesamtkosten werden auf etwa 50 Millionen Euro geschätzt.
+  - Es wird mit einem wirtschaftlichen Rückfluss von mindestens 150 Millionen Euro gerechnet.
+  - Der Bund hat Zusagen gemacht, aber die endgültige Entscheidung des Veranstalters ASO steht noch aus.
+  - Es gibt Fortschritte bei den Ländern, z.B. Sachsen hat einen Haushaltsitel.
+  - Für die Tour de France werden keine Gelder aus der Sportförderung beantragt, sondern aus anderen Töpfen.
+- **Unionsfraktion (Jens Lehmann, Dieter Stier):**
+  - Grundsätzliche Unterstützung für die Tour de France Bewerbung.
+  - Fragen zur Zeitschiene, den größten Bewerbern (u.a. Prag) und aktuellen Herausforderungen.
+  - Anmerkung zur Herkunft der Pferde bei den Reit-Weltmeisterschaften (210 aus deutscher Zucht).
+  - Fragen nach den Erkenntnissen aus der Veranstaltung und möglichen Anpassungen für zukünftige Meisterschaften.
+  - Fragen zur Finanzierung der Reit-WM und zur Möglichkeit, dass Sponsoren öffentliche Unternehmen sind.
+  - Fragen zur Finanzierung des Zentrums für Safe Sport und der Beteiligung von Ländern und Verbänden.
+  - Fragen zur Einschätzung der Erfahrungen im Aufbau des Zentrums für Safe Sport.
+- **AfD Fraktion (Jens Schießke, Jörn König):**
+  - Fokus auf Kosten und Risiken für den Steuerzahler.
+  - Kritik an schwankenden Kostenschätzungen für den Grand Départ.
+  - Fragen zur Höhe der Lizenzgebühr an die ASO und zur Deckung des Defizits.
+  - Skepsis bezüglich Sponsoren aus öffentlichen Unternehmen.
+  - Kritik an der angeblichen "Doppelstruktur" bei der Gründung des Zentrums für Safe Sport und den hohen Kosten pro Fall.
+  - Ablehnung des Antrags der Linken zur Leistungssportförderung von Menschen mit Behinderungen aufgrund von bürokratischen und finanziellen Bedenken.
+- **SPD Fraktion (Bettina Luck, Jürgen Kosse):**
+  - Fragen zu den Finanzierungsmodalitäten des Grand Départ und zur möglichen Bundesbeteiligung.
+  - Interesse an Gesprächen der Bundesregierung zur Einbindung der Tour in das Mauerfall-Jubiläum.
+  - Grundsätzliche Unterstützung für das Zentrum für Safe Sport, aber Ungeduld bezüglich des Fortschritts.
+  - Ablehnung des Antrags der Linken zur Leistungssportförderung von Menschen mit Behinderungen aufgrund von Finanzierungs- und Umsetzungsbedenken.
+  - Kritik an "planwirtschaftlichen Elementen" im Antrag der Linken.
+  - Forderung nach besseren strukturellen und finanziellen Voraussetzungen für den Behindertensport.
+  - Klärung von Fördermitteln für den Eisschnelllauf und den Sachstand zum Jahresabschluss 2025.
+- **Bündnis 90/Die Grünen (Tina Winkelmann):**
+  - Betonung der Bedeutung von Großveranstaltungen im Kontext einer Olympiabewerbung.
+  - Anerkennung der Bewerbung für die Tour de France als "lebendiger Festakt" zum Mauerfall-Jubiläum.
+  - Fragen nach den entscheidenden Faktoren für die Vergabe des Grand Départ und der Stärken/Schwächen der deutschen Bewerbung.
+  - Begrüßung des Aufbaus des Zentrums für Safe Sport und Fragen zum Personalauswahlverfahren.
+  - Enthaltung bei der Abstimmung über den Antrag der Linken zur Leistungssportförderung von Menschen mit Behinderungen, da das Ziel geteilt, die Ausgestaltung aber kritisiert wird.
+  - Fragen zur Barrierefreiheit bei den Reit- und Gymnastik-Weltmeisterschaften.
+- **Die Linke (Christian Görke):**
+  - Unterstützung der Tour de France Bewerbung, insbesondere für Ostdeutschland, als starkes historisches und sportliches Signal.
+  - Fragen zur Optimismus bezüglich der Finanzierung des Grand Départ und zur benötigten Garantiefrist.
+  - Nachfrage, warum Brandenburg nicht im Streckenverlauf vorgesehen ist.
+  - Antragsstellung zur Leistungssportförderung von Menschen mit Behinderungen, um die Förderung auf grundgesetzliche Verankerung und gleichwertige Behandlung zu heben.
+  - Argumentation für einen realistischen Stufenplan und kritische Betrachtung der bisherigen Förderung.
+- **Bundeskanzleramt (Ronald Raul, Dr. Babett Kiebele):**
+  - Keine Zusage oder Aussicht auf Unterstützung für den Grand Départ der Tour de France.
+  - Bericht zum Sachstand des Zentrums für Safe Sport: Personalauswahl läuft, Standort Kassel, Finanzierung durch den Bund bis 2029, danach Beteiligung der Länder angestrebt.
+  - Klärung, dass das Zentrum für Safe Sport nicht strafrechtlich verfolgen wird, sondern im Bereich unterhalb der Strafbarkeit tätig ist.
+  - Erläuterung des Auswahlverfahrens für das Personal des Zentrums für Safe Sport.
+- **Deutsche Reiterliche Vereinigung (Dr. Dennis Peiler, Heide Marie Dresing):**
+  - Positive Bilanz der FEI World Championships in Aachen 2026, mit 65 Nationen, fast 700 Athleten und 500.000 Zuschauern.
+  - Deutschland war die erfolgreichste Nation mit 20 Medaillen (7x Gold).
+  - Hohe Reichweite in den Medien (1,2 Milliarden über Social Media).
+  - Die Veranstaltung hat die Inklusion im Pferdesport gestärkt, indem Para-Wettbewerbe parallel stattfanden.
+  - Heide Marie Dresing berichtet emotional über ihren Weltmeistertitel im Paradressur und die Bedeutung von Inklusion.
+  - Fragen nach den Erkenntnissen aus der Veranstaltung und zur Finanzierung.
+- **Deutscher Turnerbund (Thomas Weiß, Darya Varfolomeev):**
+  - Erfolgreiche Ausrichtung der Weltmeisterschaft der rhythmischen Sportgymnastik in Frankfurt 2026.
+  - Hohe Besucherzahlen und positives Feedback aus dem internationalen und nationalen Sport.
+  - Die Veranstaltung diente auch der Präsentation anderer Verbandsbereiche und der Inklusion (Special Olympics).
+  - Darya Varfolomeev berichtet über ihre positiven Erfahrungen bei der Heim-WM und die gute Atmosphäre.
+  - Fragen zu den Trainingsbedingungen, zur Breite im Sport und zu den Auswirkungen von Verletzungen auf die Olympiaqualifikation.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird von der Vorsitzenden eröffnet, nachdem sie sich für die Verschiebung entschuldigt. Sie gratuliert dem Abgeordneten Jörn König nachträglich zum Geburtstag und begrüßt die Gäste vom Bundeskanzleramt, darunter Staatsminister Ronald Raul, Abteilungsleiterin Dr. Babett Kiebele sowie Dr. Patrick Spitzer. Auch Ressort- und Ländervertreter sowie weitere Interessierte werden willkommen geheißen. Die Sitzung wird live übertragen und ist in der Mediathek verfügbar.
+- **[00:01:26](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1m26s)** - **TOP 1: Bewerbung um den Grand Départ der Tour de France 2029**: Die Vorsitzende ruft den ersten Tagesordnungspunkt auf. Es geht um die erneute Bewerbung Deutschlands für den Start der Tour de France im Jahr 2029, dem 40-jährigen Jubiläum des Mauerfalls.
+- **[00:02:48](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2m48s)** - **Einführung durch Dr. Hoffmann (Grand Depart Aleman e.V.)**: Dr. Hoffmann vom Verein "Grand Depart Aleman e.V." stellt sich vor und erklärt, dass der Verein 2024 gegründet wurde, um den Radsport in Deutschland zu fördern. Er betont die Begeisterungsfähigkeit, die durch die Tour de France erzeugt wird, und die Vorteile für Nachwuchsförderung und die Steigerung der Radsportaktivität. Er hebt die touristischen und wirtschaftlichen Impulse hervor.
+- **[00:05:24](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=5m24s)** - **Bedeutung des Jahres 2029 und der deutsch-französischen Freundschaft**: Dr. Hoffmann erläutert die besondere Bedeutung des Jahres 2029 im Hinblick auf das 40-jährige Jubiläum des Mauerfalls und die Stärkung der deutsch-französischen Freundschaft als Basis der europäischen Einigung.
+- **[00:06:24](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=6m24s)** - **Olympiabewerbung und finanzielle Aspekte**: Der Grand Départ wird auch als positive Auswirkung auf die Olympiabewerbung Deutschlands gesehen, da er die Fähigkeit zur Durchführung von Großveranstaltungen unterstreicht. Die Finanzierung wird als gemeinsames Projekt von Bund und Ländern (je 10 Mio. €) sowie Sponsoren dargestellt.
+- **[00:07:03](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=7m3s)** - **Zeitplan und Sponsoren**: Dr. Hoffmann erklärt, dass der Veranstalter ASO noch in diesem Jahr entscheiden muss. Bei positiver Entscheidung bleibt genügend Zeit für die Umsetzung der Maßnahmen. Es wird betont, dass keine Gelder aus der Sportförderung entnommen werden sollen.
+- **[00:08:52](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=8m52s)** - **Fragerunde der Unionsfraktion (Jens Lehmann)**: Jens Lehmann fragt nach der Zeitschiene, den größten Herausforderungen und den Mitbewerbern für den Grand Départ 2029.
+- **[00:09:43](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=9m43s)** - **Antworten zu Mitbewerbern und Zeitschiene**: Dr. Hoffmann nennt Prag als Hauptkonkurrenten mit ähnlichem Narrativ. Er erläutert die lange Gesprächsphase mit der ASO und die technischen Requirements. Die Hauptaufgabe liegt nun in der Finanzierungszusage von Bund und Ländern. Er nennt Sachsen als Vorreiter bei der Haushaltsplanung.
+- **[00:13:03](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=13m3s)** - **Fragen zur Finanzierungsaufteilung**: Jens Lehmann fragt nach der genauen Aufteilung der Kosten zwischen Ländern, Privaten und Sponsoren sowie nach den wirtschaftlichen Rückflüssen.
+- **[00:13:31](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=13m31s)** - **Antworten zur Finanzierungsaufteilung**: Dr. Hoffmann beziffert die Gesamtkosten auf rund 50 Millionen Euro, mit der Erwartung eines Rückflusses von mindestens 150 Millionen Euro. Eine gleichwertige Finanzierung durch Bund und vier Länder wird angestrebt.
+- **[00:14:58](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=14m58s)** - **Fragen zur Frauen-Tour und wirtschaftlichen Effekten**: Es wird nachgefragt, ob die Frauen-Tour Teil des Pakets ist und nach Statistiken zu wirtschaftlichen Rückflüssen anderer Austragungsorte.
+- **[00:15:29](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=15m29s)** - **Antworten zu Frauen-Tour und wirtschaftlichen Effekten**: Dr. Hoffmann bestätigt, dass mit einem Rückfluss von mindestens 150 Millionen Euro gerechnet wird und verweist auf positive Beispiele aus Barcelona.
+- **[00:16:42](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=16m42s)** - **Fragen zu Gesprächen mit der Bundesregierung und Erwartungen an den Sportausschuss**: Es wird nach dem Stand der Gespräche mit der Bundesregierung und dem Haushaltsausschuss gefragt.
+- **[00:17:05](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=17m5s)** - **Antworten zu Gesprächen mit der Bundesregierung**: Dr. Hoffmann berichtet von regelmäßigen Gesprächen mit dem Bundeskanzleramt und den Haushaltsfraktionen. Die Botschaften seien positiv, eine Zusage sei aber noch nicht erfolgt.
+- **[00:18:16](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=18m16s)** - **Fragerunde der AfD-Fraktion (Jens Schießke)**: Jens Schießke fragt nach den Kosten und Risiken für den Steuerzahler, insbesondere nach den schwankenden Kostenschätzungen und der Sponsorenfinanzierung.
+- **[00:19:00](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=19m0s)** - **Antworten zur Finanzierung und Sponsoren**: Dr. Hoffmann bestätigt die Bemühungen um Sponsoren und rechnet mit 7 bis 10 Millionen Euro an Sponsorenleistungen. Eine Zusage des Bundes sei für die ASO entscheidend.
+- **[00:20:46](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=20m46s)** - **Fragen zur Lizenzgebühr und zum Defizit**: Es wird nach der Höhe der Lizenzgebühr an die ASO und der Deckung des Defizits gefragt, insbesondere im Hinblick auf die Absage von Veranstaltungen in Thüringen und geringere Radwegemittel in Sachsen.
+- **[00:21:23](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=21m23s)** - **Antworten zur Lizenzgebühr und zum Defizit**: Dr. Hoffmann bekräftigt die gleichwertige Finanzierung durch Bund und Länder und die Einbeziehung von Sponsoren.
+- **[00:22:23](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=22m23s)** - **Fragen zu Sponsoren aus öffentlichen Unternehmen**: Es wird nach der Möglichkeit gefragt, Sponsoren aus öffentlichen Unternehmen zu nutzen.
+- **[00:22:33](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=22m33s)** - **Antworten zu Sponsoren aus öffentlichen Unternehmen**: Dr. Hoffmann kann dies nicht zu 100% ausschließen, diese stehen aber nicht im Fokus und es wurden keine Gespräche geführt.
+- **[00:22:47](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=22m47s)** - **Fragen an das Bundeskanzleramt zur Förderrichtlinie**: Es wird nach der Förderzusage des Bundeskanzleramtes und der Höhe der Mittel gefragt.
+- **[00:23:29](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=23m29s)** - **Antwort des Bundeskanzleramtes zur Förderzusage**: Es gab keine Zusage und auch keine Aussicht auf Unterstützung in diese Richtung.
+- **[00:23:55](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=23m55s)** - **Fragerunde der SPD-Fraktion (Bettina Luck)**: Bettina Luck knüpft an die Finanzierungsfrage an und fragt nach den erwarteten Mitteln vom Bund und der Klärung der Streckenführung. Sie fragt auch nach Gesprächen zur Einbindung der Tour in das Jubiläumsjahr 2029.
+- **[00:25:29](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=25m29s)** - **Antworten zur Finanzierung und Jubiläumsjahr**: Es wird die strategische Konzeption im Hinblick auf die Olympiabewerbung erwähnt. Dr. Kiebele (Bundeskanzleramt) nennt verschiedene Finanzierungsgrößen und betont, dass der Sporthaushalt nicht die notwendigen Mittel stemmen kann.
+- **[00:28:09](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=28m9s)** - **Frage zu Menschen mit Behinderung**: Es wird nach dem Begleitprogramm für Menschen mit Behinderung gefragt.
+- **[00:28:24](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=28m24s)** - **Antwort zu Menschen mit Behinderung**: Dr. Hoffmann erwähnt entsprechende Veranstaltungsformate und die Einbeziehung von Menschen mit Behinderung als festen Bestandteil des Konzepts.
+- **[00:29:58](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=29m58s)** - **Unterbrechung der Debatte**: Die Vorsitzende unterbricht die Debatte aufgrund der fortgeschrittenen Zeit.
+- **[00:30:06](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=30m6s)** - **Fragerunde von Bündnis 90/Die Grünen (Tina Winkelmann)**: Tina Winkelmann fragt nach den wichtigen Faktoren für die Vergabe und der aktuellen Positionierung der deutschen Bewerbung.
+- **[00:31:10](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=31m10s)** - **Antworten zu Faktoren und Positionierung der Bewerbung**: Dr. Hoffmann sieht gute Chancen aufgrund der symbolischen Bedeutung des Mauerfalls und des persönlichen Wunsches des Tour-Direktors. Es werden entsprechende Garantien als "Initialzündung" für eine schnelle Entscheidung benötigt.
+- **[00:32:40](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=32m40s)** - **Antwort auf frühere Frage der SPD**: Dr. Hoffmann greift die Frage der SPD-Fraktion zur Finanzierung auf und betont, dass keine Gelder aus der Sportförderung verwendet werden sollen, da es sich um Wirtschaftsförderung handelt.
+- **[00:33:51](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=33m51s)** - **Fragerunde der Linken (Christian Görke)**: Christian Görke lobt das Signal, die Tour nach Ostdeutschland zu holen und fragt nach der Optimismus-Quelle von Dr. Hoffmann und der benötigten Garantiefrist. Er fragt auch nach der Streckenführung und warum Brandenburg nicht berücksichtigt wird.
+- **[00:35:10](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=35m10s)** - **Antworten zu Optimismus und Streckenführung**: Dr. Hoffmann erklärt, dass die allgemeine Zustimmung im Ausschuss ihn optimistisch stimmt. Brandenburg wird nicht explizit erwähnt, aber die Streckenführung wird durch finanzierende Länder bestimmt.
+- **[00:36:02](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=36m2s)** - **Abschluss der Debatte zu TOP 1**: Die Vorsitzende beendet die Debatte zu TOP 1 und bedankt sich bei den Gästen.
+- **[00:37:10](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=37m10s)** - **TOP 2: Nachberichte zu Sportgroßveranstaltungen**: Die Vorsitzende ruft TOP 2 auf: Nachberichte zu den FEI World Championships in Aachen 2026 und der Weltmeisterschaft der rhythmischen Sportgymnastik in Frankfurt 2026.
+- **[00:37:45](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=37m45s)** - **Vorstellung der Gäste für TOP 2**: Begrüßung von Dr. Dennis Peiler (Deutsche Reiterliche Vereinigung), Heide Marie Dresing (Paradressurreiterin) und Thomas Weiß (Deutscher Turnerbund). Es wird erwähnt, dass Darya Varfolomeev (Gymnastin) Geburtstag hat.
+- **[00:39:20](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=39m20s)** - **Beginn der Eingangsstatements zu TOP 2**: Die Vorsitzende kündigt die Eingangsstatements der Verbände an.
+- **[00:40:25](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=40m25s)** - **Bericht von Dr. Dennis Peiler (Reiten)**: Dr. Peiler berichtet positiv über die Weltmeisterschaften in Aachen, nennt Zahlen zu Teilnehmern, Zuschauern und Medienpräsenz. Er betont die Bedeutung der Veranstaltung für die Olympiabewerbung und die positive Ausstrahlung.
+- **[00:45:56](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=45m56s)** - **Bericht von Heide Marie Dresing (Paradressur)**: Frau Dresing berichtet emotional über ihren Weltmeistertitel, die Bedeutung des Reitsports für Menschen mit Behinderung und die Wichtigkeit der Inklusion durch parallele Austragung der Para-Wettbewerbe.
+- **[00:50:36](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=50m36s)** - **Bericht von Thomas Weiß (Rhythmische Sportgymnastik)**: Herr Weiß berichtet über die erfolgreiche Weltmeisterschaft in Frankfurt, hebt die perfekten Bedingungen und die Nutzung der Veranstaltung für andere Formate wie die Fanzone und Showabende hervor. Er erwähnt die Einbindung von Special Olympics und die positive Rückmeldung von World Gymnastics.
+- **[00:55:47](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=55m47s)** - **Schlussworte von Darya Varfolomeev (Gymnastik)**: Frau Varfolomeev bedankt sich für das tolle Event und die Begeisterung der Zuschauer. Sie erwähnt die guten Trainings- und Wettkampfbedingungen.
+- **[00:58:08](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=58m8s)** - **Fragerunde zu TOP 2 (Unionsfraktion, AfD, SPD, Grüne, Linke)**: Es werden Fragen zur Finanzierung, den Erkenntnissen aus den Veranstaltungen, der Rolle von Sponsoren, der Breite im Sport und zur Barrierefreiheit gestellt.
+- **[01:09:52](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h9m52s)** - **Fragen zu Ticketpreisen und Barrierefreiheit**: Herr König (AfD) fragt nach den Ticketpreisen und dem Anteil der Ticketeinnahmen an der Finanzierung der Reit-WM. Frau Dresing bestätigt, dass der Eintritt für Paradressur frei war und sie sich nicht weniger wertgeschätzt fühlt.
+- **[01:13:21](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h13m21s)** - **Fragen zur Breite im RSG und zur Olympiaqualifikation**: Es wird nach den Auswirkungen von Verletzungen auf die Olympiaqualifikation und der Breite im Verband gefragt. Frau Varfolomeev erklärt die strategische Entscheidung, Quotenplätze für LA 2028 anzustreben.
+- **[01:15:31](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h15m31s)** - **Fragen zum Nachwuchskonzept und zu Volontären**: Es wird nach der Funktion des Nachwuchskonzepts und der Anzahl der Volontäre gefragt. Herr Weiß bestätigt den Erfolg der Programme und dass mehr Volontäre als benötigt vorhanden waren.
+- **[01:22:32](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h22m32s)** - **Fragen zu Barrierefreiheit und Stimmung**: Es wird nach der Barrierefreiheit bei der Reit-WM (gut gelöst) und der RSG-WM (Herausforderungen wegen bestehender Halle) gefragt. Frau Varfolomeev berichtet von der unglaublichen Stimmung bei der Heim-WM.
+- **[01:26:50](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h26m50s)** - **Frage zur Beteiligung russischer und weißrussischer Sportler**: Herr Görke (Die Linke) fragt die Bundesregierung nach ihrer Bewertung der Entscheidung des CAS und nach Maßnahmen zur Unterstützung des Eishockey-Weltverbandes. Der Staatsminister betont die kritische Haltung und die Bemühungen um eine einvernehmliche Lösung.
+- **[01:29:32](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h29m32s)** - **Abschluss der Debatte zu TOP 2**: Die Vorsitzende bedankt sich bei allen Gästen für ihre Berichte und die Diskussion.
+- **[01:30:14](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h30m14s)** - **TOP 3: Sachstandsbericht zum Zentrum für Safe Sport**: Die Vorsitzende ruft TOP 3 auf und kündigt einen Sachstandsbericht vom Bundeskanzleramt zum Zentrum für Safe Sport an.
+- **[01:30:55](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h30m55s)** - **Bericht von Dr. Babett Kiebele (Bundeskanzleramt)**: Frau Dr. Kiebele berichtet über den Aufbauprozess des Zentrums für Safe Sport, die Suche nach Vorständen, den Standort Kassel und die Finanzierung durch den Bund.
+- **[01:36:34](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h36m34s)** - **Fragerunde zu TOP 3 (Unionsfraktion, SPD, Grüne, AfD, Linke)**: Es werden Fragen zur Finanzierung, zur Geschwindigkeit des Aufbauprozesses, zu den Kosten und zur Vermeidung von Doppelstrukturen gestellt.
+- **[01:37:18](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h37m18s)** - **Antworten zu Aufbau und Finanzierung des Zentrums**: Es wird erklärt, dass die Vorstände bald anfangen können, die Finanzierung durch den Bund bis 2029 gesichert ist und die Länder später einsteigen sollen.
+- **[01:40:07](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h40m7s)** - **Diskussion über Doppelstrukturen und Kosten**: Es wird die Frage nach Doppelstrukturen und den Kosten pro Fall aufgeworfen. Frau Dr. Kiebele verneint Doppelstrukturen und erklärt, dass das Zentrum nicht strafrechtlich verfolgen wird.
+- **[01:43:36](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h43m36s)** - **Fortschritte und Zeitplan für das Zentrum**: Frau Dr. Kiebele gibt einen Ausblick auf die kommenden Schritte und den Zeitplan für die operative Inbetriebnahme des Zentrums.
+- **[01:49:14](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h49m14s)** - **Abschluss der Debatte zu TOP 3**: Die Vorsitzende dankt für die Ausführungen und den Sachstand.
+- **[01:49:20](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h49m20s)** - **TOP 4: Antrag der Fraktion Die Linke zur Leistungssportförderung von Menschen mit Behinderungen**: Die Vorsitzende ruft TOP 4 auf und kündigt eine kurze Debatte und Abstimmung über den Antrag an.
+- **[01:51:13](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h51m13s)** - **Vorstellung des Antrags durch Christian Görke (Die Linke)**: Herr Görke erläutert die Notwendigkeit einer besseren Förderung des paralympischen Leistungssports und schlägt einen Stufenplan zur Angleichung der Förderung vor.
+- **[01:53:58](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h53m58s)** - **Stellungnahme der Unionsfraktion (Stefan Meer)**: Herr Meer lehnt den Antrag ab und kritisiert ihn als "staatssportlich" und dirigistisch. Er betont, dass die Förderung durch "Doing" und nicht durch gesetzliche Vorgaben erfolgen sollte.
+- **[00:56:59](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h56m59s)** - **Stellungnahme der AfD-Fraktion (Jörn König)**: Herr König lehnt den Antrag ebenfalls ab, da er die Realität verkenne und ein "Bürokratiemonster" schaffe. Er fordert mehr Mittel für Trainer und Sportler statt bürokratischer Gängelung.
+- **[00:59:37](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=1h59m37s)** - **Stellungnahme der SPD-Fraktion (Jürgen Kosse)**: Herr Kosse kritisiert den Antrag als "planwirtschaftlich" und nicht finanzierbar. Er betont die Notwendigkeit, Mittel realistisch zu erwirtschaften und kündigt die Ablehnung des Antrags an.
+- **[02:02:20](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2h2m20s)** - **Stellungnahme von Bündnis 90/Die Grünen (Tina Winkelmann)**: Frau Winkelmann teilt das Ziel des Antrags, kritisiert aber die vorgeschlagenen Instrumente. Die Fraktion wird sich enthalten.
+- **[02:03:23](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2h3m23s)** - **Erwiderung von Christian Görke (Die Linke)**: Herr Görke bedauert die Ablehnung und kritisiert die Vertröstung des Behindertensports. Er verteidigt den Stufenplan als realistisch und verweist auf internationale Beispiele.
+- **[02:05:26](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2h5m26s)** - **Abstimmung über den Antrag der Linken**: Der Antrag wird mit den Stimmen der Linken abgelehnt.
+- **[02:05:57](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2h5m57s)** - **TOP 5: Verschiedenes**: Die Vorsitzende ruft TOP 5 auf.
+- **[00:06:04](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2h6m4s)** - **Frage zur Absage der Mitgliederversammlung beim Eisschnelllauf**: Bettina Luck (SPD) fragt nach den Fördermitteln und dem Jahresabschluss 2025 im Zusammenhang mit der abgesagten Mitgliederversammlung des Eisschnelllauf-Verbandes.
+- **[00:06:41](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2h6m41s)** - **Antworten zu Fördermitteln und Jahresabschluss**: Frau Dr. Kiebele erklärt die Anerkennung von Stützpunkten und die Rolle des BVA. Sie kündigt ein Treffen aller Beteiligten an, um den Sachstand zu klären.
+- **[02:08:36](https://www.youtube.com/watch?v=cEn6ZtM2jG4&t=2h8m36s)** - **Ausblick auf nächste Sitzung und Sitzungsschluss**: Die Vorsitzende gibt einen Ausblick auf die nächste Sitzung und schließt die 33. Sitzung des Ausschusses für Sport und Ehrenamt.
