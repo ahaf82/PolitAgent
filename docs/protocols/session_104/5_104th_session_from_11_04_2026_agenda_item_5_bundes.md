@@ -1,4 +1,4 @@
-# Fortsetzung des Bundeswehreinsatzes bei SEA GUARDIAN
+# Einsatz der Bundeswehr zur maritimen Sicherheit im Mittelmeer (Operation SEA GUARDIAN)
 
 ## Sitzungs-Metadaten
 - **Sitzung:** 104. Sitzung
@@ -8,69 +8,81 @@
 - **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=Dy7UlqmJHHU)
 
 ## Kurzzusammenfassung
-In der 104. Sitzung des Deutschen Bundestages wurde der Antrag der Bundesregierung zur Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN beraten. Die Debatte konzentrierte sich auf die Notwendigkeit und den Nutzen der Operation für die maritime Sicherheit im Mittelmeer, die Bekämpfung von Terrorismus und Waffenschmuggel sowie die damit verbundenen Kosten und Verantwortlichkeiten. Es wurde über die bisherigen Erfolge, die kritische Bewertung einzelner Aspekte wie die Bekämpfung der Schleuserkriminalität und die Frage nach Parallelstrukturen zu anderen Operationen diskutiert.
+In dieser Sitzung wurde der Antrag der Bundesregierung zur Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten Operation SEA GUARDIAN im Mittelmeer beraten. Der Fokus lag auf der Notwendigkeit maritimer Sicherheit, der Bekämpfung von Terrorismus und Waffenschmuggel sowie der Stärkung der südlichen NATO-Flanke. Kritische Stimmen hinterfragten den konkreten Nutzen und die Effektivität der Operation sowie die Einbeziehung der Bekämpfung von Schleuserkriminalität. Die Debatte unterstrich die Bedeutung freier Seewege für den Wohlstand und die Sicherheit Deutschlands und Europas.
 
 ## Kernaussagen und Positionen der Fraktionen
 - **Bundesregierung (vertreten durch den Bundesminister der Verteidigung, Boris Pistorius, und Staatsminister Florian Hahn)**:
-  - Die maritime Sicherheit im Mittelmeer ist entscheidend für Europas Sicherheit und Wohlstand.
-  - Sea Guardian trägt zur Erkennung und Bewertung von Entwicklungen im Mittelmeer bei, verbessert das Lagebild und ermöglicht frühzeitiges Reagieren auf Bedrohungen.
-  - Deutschland leistet seit Beginn der Operation einen Beitrag und wird diesen für ein weiteres Jahr fortsetzen.
-  - Die Mandatsobergrenze wird von 550 auf 440 Soldatinnen und Soldaten angepasst, um Flexibilität zu gewährleisten.
-  - Die Beteiligung unterstreicht Deutschlands Bündnissolidarität und Verantwortung innerhalb der NATO.
-  - Sichere Seewege sind Grundvoraussetzung für Handel, Lieferketten, Wohlstand und Sicherheit.
-  - Die Operation dient dem Schutz freier Seewege, stärkt die südliche Flanke der NATO und beweist Verlässlichkeit in herausfordernden Zeiten.
-  - Deutsche Einheiten sind völkerrechtlich zur Hilfeleistung für in Seenot geratene Personen verpflichtet.
-- **AfD (vertreten durch Tobias Teich und Kurt Kleinschmidt)**:
-  - Die Ziele der Operation klingen sinnvoll, aber der tatsächliche Nutzen nach zehn Jahren ist nicht ausreichend erkennbar.
-  - Es fehlen messbare Erfolge bei der Verhinderung terroristischer Aktivitäten oder der Unterbindung illegaler Waffentransporte.
-  - Die organisierte Schleuserkriminalität bleibt außerhalb des Kernauftrags, obwohl das Mittelmeer eine zentrale Route illegaler Migration ist.
-  - Es werden Parallelstrukturen zu anderen Operationen (z.B. Irini) kritisiert, deren Fähigkeiten nicht effektiv verzahnt werden.
-  - Die eingesetzten Ressourcen stehen in keinem nachvollziehbaren Verhältnis zum sicherheitspolitischen Mehrwert.
-  - Es fehlt eine langfristige Strategie mit konkreten Zielen und Erfolgskriterien.
-  - Die Operation ist "billig" im Sinne von "kaum etwas geschieht".
-  - Die Bundeswehr sollte ihre knappen Kräfte dort einsetzen, wo das Bündnis verteidigt werden muss (Norden), statt sich nur "einzutragen".
-  - Die Operation ist ausdrücklich keine Operation nach Artikel 5, daher verletzt eine Ablehnung keine Bündnispflicht.
-- **Bündnis 90/Die Grünen (vertreten durch Robin Wagener)**:
-  - Sichere Seewege sind essenziell für Handel, Lieferketten und damit für Wohlstand und Sicherheit.
-  - Sea Guardian fungiert als "Auge auf dem Mittelmeer", um ein maritimes Lagebild zu erstellen und Bedrohungen frühzeitig zu erkennen.
-  - Der Einsatz deutscher Marineeinheiten unter schwierigen Bedingungen wird gewürdigt; die Soldatinnen und Soldaten zeigen Geduld und Durchhaltevermögen.
-  - Der Einsatz dient dem Schutz freier Schifffahrt und der Ermöglichung von Handel.
-- **Die Linke (vertreten durch Desiree Becker)**:
-  - Die Operation dient nicht dem Schutz der Menschen, die im Mittelmeer sterben.
-  - Nach zehn Jahren wurden weder Massenvernichtungswaffen noch Terrorismus gefunden.
-  - Die Operation hat keine nachweisbare abschreckende Wirkung und es gibt kein UN-Mandat dafür.
-  - Der Einsatz militärischer Drohnen zur Überwachung von Migration wird kritisiert.
-  - Das Geld sollte für Seenotrettung und die Bekämpfung von Fluchtursachen eingesetzt werden, anstatt Grenzen zu militarisieren.
-  - Es gibt keinen überzeugenden Grund für die Verlängerung der Mission; Menschen brauchen Rettungsschiffe, keine Überwachungsdrohnen.
-- **CDU/CSU (vertreten durch Johannes Volkmann und Bastian Ernst)**:
-  - Die völkerrechtliche Verpflichtung zur Hilfeleistung für in Seenot geratene Personen gilt für alle eingesetzten Einheiten.
-  - Wohlstand hängt untrennbar mit freiem Seehandel zusammen; die Einschränkung der Navigationsfreiheit spüren alle.
-  - Maritime Handelswege zu schützen ist im ureigenen Sicherheitsinteresse Deutschlands.
-  - Bedrohungen im Mittelmeer durch scheiternde Staaten, Waffenschmuggel und transnationalen Terrorismus machen Seeraumüberwachung notwendig.
-  - Die Wirksamkeit beruht auf dem Präventionsparadoxon und der Sicherheit durch Präsenz.
-  - Die zunehmend aggressive russische Präsenz und hybride Bedrohungen (Störung des Schiffsverkehrs, Sabotage, Instrumentalisierung von Migration) im Mittelmeerraum dürfen nicht ignoriert werden.
-  - Die NATO-Mission leistet einen Beitrag gegen Waffenschmuggel, Terrorismus und zum Schutz kritischer Infrastrukturen.
-  - Deutsche Einheiten leisten einen wichtigen Beitrag zur Sicherheit und Bündnisverteidigung, auch im Hinblick auf russische Aktivitäten.
-  - Die Beteiligung ist ein effektiver Beitrag für ein Bündnis, das an der Ostflanke Milliarden entlastet.
-  - Mit der Verlängerung wird die Botschaft gesendet: "Auf Deutschland ist Verlass."
-- **SPD (vertreten durch Derya Türk-Nachbaur)**:
-  - Die klare Aufgabe des Mandats wird durch die Operation geschaffen und aufrechterhalten.
-  - Sicherheit im Mittelmeer betrifft die deutsche Wirtschaft, Sicherheit und den Alltag, da es die Südgrenze der EU und ein Tor zur Nachbarschaft ist.
-  - Sea Guardian schafft Überblick, tauscht Lagebilder aus und hilft bei der Eindämmung von Terrorismus und Waffenschmuggel.
+  - Die Sicherheit Europas hängt auch von der Sicherheit im Mittelmeer ab, da es wichtige Handelswege verbindet und an instabile Regionen grenzt.
+  - Die NATO-Operation SEA GUARDIAN trägt seit 2016 zur besseren Erkennung und Bewertung von Entwicklungen im Mittelmeer bei, indem sie den Seeraum überwacht, Informationen sammelt und teilt sowie verdächtige Aktivitäten aufklärt.
+  - Deutschland beteiligt sich seit Beginn an der Operation und leistet mit Tender „Rhein“ und Minenjagdboot „Fulda“ einen wichtigen Beitrag.
+  - Die Verlängerung des Mandats um ein weiteres Jahr soll die deutsche Beteiligung fortsetzen und eine Anpassung der Mandatsobergrenze von 550 auf 440 Soldatinnen und Soldaten beinhalten, um Flexibilität zu gewährleisten.
+  - Sichere Seewege sind eine Grundvoraussetzung für Handel, Lieferketten, Wohlstand und Sicherheit; das Mittelmeer ist ein zentraler Wirtschafts- und Handelsraum.
+  - Die Fortsetzung des Engagements unterstreicht die Bedeutung Deutschlands für die NATO und sendet ein politisches Signal der Verlässlichkeit an Bündnispartner.
+  - Die deutsche Beteiligung ist ein Ausdruck von Bündnissolidarität und dient dem Schutz freier Seewege sowie der Stärkung der südlichen NATO-Flanke.
+  - Alle beteiligten Einheiten unterliegen der völkerrechtlichen Verpflichtung zur Hilfeleistung für in Seenot geratene Personen.
+
+- **AfD (vertreten durch die Abgeordneten Tobias Teich und Kurt Kleinschmidt)**:
+  - Zehn Jahre Beteiligung an SEA GUARDIAN werfen die Frage nach den tatsächlich erreichten konkreten Erfolgen auf.
+  - Kritik an der mangelnden Einbeziehung der Bekämpfung organisierter Schleuserkriminalität, obwohl das Mittelmeer eine zentrale Route illegaler Migration ist.
+  - Hinterfragung der Notwendigkeit von Parallelstrukturen angesichts anderer maritimer Operationen wie Irini.
+  - Zweifel am Nutzen der eingesetzten Ressourcen und der fehlenden langfristigen Strategie und Erfolgskriterien.
+  - Die Operation sei unzureichend begründet ohne überzeugende Erfolgsbilanz und Weiterentwicklung.
+  - Die NATO-Operation SEA GUARDIAN ist ausdrücklich keine Operation nach Artikel 5, und eine Ablehnung verletzt keine Bündnispflicht.
+  - Die geringen Kosten von rund 0,9 Millionen Euro pro Jahr deuten darauf hin, dass kaum etwas geschieht.
+  - Der Informationsaustausch zur Eindämmung von Waffenschmuggel hängt von einer noch ausstehenden Vereinbarung zwischen NATO und EU ab.
+  - Die Einschränkungen bei der Kontrolle fremder Schiffe durch fehlende Zustimmungen von Flaggenstaaten machen die Operation zu einem "Wächter ohne klaren Auftrag".
+  - Die eigentlichen Ernstfälle und sicherheitspolitischen Prioritäten lägen im Norden (Ostsee, Nordsee, Nordatlantik), wo Personal und Material fehlen.
+
+- **Bündnis 90/Die Grünen (vertreten durch den Abgeordneten Robin Wagener)**:
+  - Die Bedeutung freier Seewege für Handel, Wirtschaft und das tägliche Leben wird hervorgehoben ("No shipping, no shopping").
+  - SEA GUARDIAN wird als "Auge auf dem Mittelmeer" beschrieben, das hilft, ein maritimes Lagebild zu erstellen und Bedrohungen frühzeitig zu erkennen.
+  - Anerkennung des persönlichen Einsatzes und der Entbehrungen der Soldatinnen und Soldaten, die für die Sicherheit der Seewege sorgen.
+
+- **Die Linke (vertreten durch die Abgeordnete Desiree Becker)**:
+  - Kritik, dass die Operation für die vielen im Mittelmeer gestorbenen Menschen keinen Schutz bietet.
+  - Die NATO schaue zu und sammle Lagebilder, ohne offensichtlich Terrorismus oder Massenvernichtungswaffen gefunden zu haben.
+  - Die operationellen Grundlagen (NATO-Beschluss von 2017, Seerechtsübereinkommen von 1982) werden als fragwürdig angesehen.
+  - Kritik am Einsatz militärischer Drohnen zur Überwachung von Migration, anstatt Rettungsschiffe zu stärken und Fluchtursachen zu bekämpfen.
+  - Sicherheit müsse sich an der Zahl der geretteten Menschenleben messen, nicht an der Zahl der Kriegsschiffe.
+
+- **CDU/CSU (vertreten durch die Abgeordneten Johannes Volkmann und Bastian Ernst)**:
+  - Hervorhebung der völkerrechtlichen Verpflichtung zur Hilfeleistung für in Seenot geratene Personen im Rahmen des Mandats.
+  - Der Schutz maritimer Handelswege ist im ureigenen Sicherheitsinteresse Deutschlands.
+  - Bedrohungen im Mittelmeer durch instabile Staaten, islamistische Milizen, Waffenschmuggel und transnationalen Terrorismus machen Seeraumüberwachung notwendig.
+  - Die Wirksamkeit wird mit dem "Präventionsparadoxon" erklärt: Sicherheit durch Präsenz.
+  - Die zunehmend aggressive Haltung Russlands und seine Aktivitäten im Mittelmeerraum (z.B. über Libyen und die Unterstützung der Schattenflotte) dürfen nicht ignoriert werden.
+  - Ein klares Lagebild über die Sicherheitssituation vor Ort ist entscheidend.
+  - Die Beteiligung an SEA GUARDIAN ist ein effektiver Beitrag zur Bündnisverteidigung und zeigt, dass auf Deutschland Verlass ist.
+  - Die russische Präsenz am und im Mittelmeer mit hybriden Bedrohungen wie Störung des zivilen Schiffsverkehrs oder Instrumentalisierung von Migration muss wachsam beobachtet werden.
+  - Das Mandat hat solide völkerrechtliche Grundlagen.
+
+- **SPD (vertreten durch die Abgeordnete Derya Türk-Nachbaur)**:
+  - Der klare Auftrag des Mandats wird als verständlich für diejenigen bezeichnet, die den Text gelesen und verstanden haben.
+  - Sicherheit im Mittelmeer betrifft die deutsche Wirtschaft und den Alltag direkt durch den Schutz wichtiger Transportwege.
+  - Die NATO-Operation SEA GUARDIAN schafft Überblick, tauscht Lagebilder aus und hilft bei der Eindämmung von Terrorismus und Waffenschmuggel.
   - Gute Sicherheitspolitik ist oft unspektakulär und wird erst bemerkt, wenn sie fehlt.
-  - Die Bundeswehr leistet einen wichtigen Beitrag, bietet Fähigkeiten und Verlässlichkeit; die Partner wissen, dass auf Deutschland Verlass ist.
-  - Die völkerrechtliche Verpflichtung zur Hilfeleistung für Menschen in Seenot gilt ausnahmslos für alle Einheiten.
-  - Eine Marine, die Sicherheit schafft, rettet Leben; darauf dürfen sich Menschen und Besatzungen verlassen.
+  - Die Bundeswehr leistet einen wichtigen Beitrag durch Fähigkeiten und Verlässlichkeit; die Soldatinnen und Soldaten verdienen Dank und Respekt.
+  - Die völkerrechtliche Verpflichtung zur Hilfeleistung für Menschen in Seenot ist ausdrücklich Teil des Mandats und keine Ermessensfrage.
 
 ## Chronologischer Debattenverlauf
-- **[00:00:00](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Präsidentin eröffnet die Aussprache zum Tagesordnungspunkt 5: Beratung des Antrags der Bundesregierung zur Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN.
-- **[00:17](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=17s)** - **Eröffnungsrede Bundesminister der Verteidigung, Boris Pistorius**: Er betont die Bedeutung des Mittelmeers für Europas Sicherheit und Wohlstand und die Notwendigkeit einer verlässlichen NATO-Präsenz. Er erläutert die Ziele von Sea Guardian (Erkennung von Entwicklungen, Informationsaustausch, frühzeitige Aufklärung, Eindämmung von Waffenschmuggel) und Deutschlands langjährige Beteiligung. Aktuell unterstützen der Tender „Rhein“ und das Minenjagdboot „Fulda“ die Operation. Die Bundeswehr leistet einen beachtlichen Beitrag zur Sicherheit an der Südflanke. Deutschland übernehme zunehmend Verantwortung innerhalb der NATO. Mit der Verlängerung des Mandats soll der Beitrag für ein weiteres Jahr fortgesetzt werden, wobei die Mandatsobergrenze von 550 auf 440 Soldatinnen und Soldaten angepasst wird. Er bittet um Zustimmung.
-- **[03:37](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=3m37s)** - **Redebeitrag Abgeordneter Tobias Teich (AfD)**: Er stellt die Frage nach dem tatsächlichen Nutzen der Operation nach zehn Jahren. Die Einbindung deutscher Marineeinheiten und die Mitarbeit in NATO-Führungsstäben werden begrüßt, jedoch wird der konkrete Nutzen des Mandats kritisch hinterfragt. Er formuliert fünf kritische Fragen: 1. Wo bleiben die messbaren Erfolge (verhinderte Terroraktivitäten, gestoppte Waffentransporte)? 2. Warum bleibt die organisierte Schleuserkriminalität außerhalb des Auftrags, obwohl das Mittelmeer zentrale Migrationsroute ist? 3. Warum werden Parallelstrukturen (z.B. zu Irini) unterhalten und Fähigkeiten nicht verzahnt? 4. Welchen Nutzen haben die eingesetzten Ressourcen angesichts der Kosten? 5. Wo bleibt die langfristige Strategie? Die AfD lehnt eine Mandatsverlängerung ohne nachvollziehbare Ergebnisse und Weiterentwicklung ab.
-- **[07:55](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=7m55s)** - **Redebeitrag Staatsminister Florian Hahn (Bundesregierung)**: Er unterstreicht die Wichtigkeit sicherer Seewege für Handel, Lieferketten, Wohlstand und Sicherheit, insbesondere im Mittelmeer als zentralem Wirtschaftsraum und an der südlichen Grenze der NATO. Er betont die Notwendigkeit, Entwicklungen in der Nachbarschaft frühzeitig zu verfolgen und präventiv zu handeln. Die NATO-Operation Sea Guardian sei dafür wichtig und wertvoll. Die Beteiligung wird bis zum 30. November 2027 verlängert, um die Bedeutung des deutschen Engagements in der NATO zu unterstreichen und ein politisches Signal der Verlässlichkeit zu senden. Die Operation spiegele den 360-Grad-Ansatz der NATO wider und berücksichtige die Sicherheit im Süden des Bündnisgebiets sowie terroristische Bedrohungen. Deutschland treffe Vorsorge für eine sich verschärfende Sicherheitslage. Er bittet um Unterstützung für die Fortsetzung der Beteiligung.
-- **[12:29](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=12m29s)** - **Redebeitrag Abgeordneter Robin Wagener (Bündnis 90/Die Grünen)**: Er verdeutlicht mit dem Zitat "No shipping, no shopping" die essentielle Bedeutung sicherer Seewege für die Versorgung und den Wohlstand. Er beschreibt Sea Guardian als "Auge auf dem Mittelmeer", das hilft, ein maritimes Lagebild zu erstellen, um Bedrohungen frühzeitig zu erkennen und im Ernstfall einzugreifen. Er thematisiert die Entbehrungen und Herausforderungen, denen sich Soldatinnen und Soldaten bei Einsätzen aussetzen, und dankt ihnen für ihren Dienst und ihre Einsatzbereitschaft.
-- **[16:25](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=16m25s)** - **Redebeitrag Abgeordnete Desiree Becker (Die Linke)**: Sie hinterfragt, für wessen Schutz und Sicherheit Sea Guardian tatsächlich steht, da die über 35.000 im Mittelmeer gestorbenen Menschen offensichtlich nicht geschützt werden. Sie kritisiert, dass die NATO zuschaue, während Menschen ertrinken. Nach zehn Jahren seien weder Massenvernichtungswaffen noch Terrorismus gefunden worden, was ein Grund für die Einstellung der Mission sei. Sie bemängelt das Fehlen eines UN-Mandats und die mangelnde Nachweisbarkeit der Abschreckung. Sie kritisiert die Verlegung von Reaper-Drohnen durch Belgien und deren Einsatz zur Überwachung von Migration. Das Geld sollte stattdessen für Seenotrettung und die Bekämpfung von Fluchtursachen eingesetzt werden.
-- **[19:04](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=19m4s)** - **Redebeitrag Abgeordneter Johannes Volkmann (CDU/CSU)**: Er verweist auf die völkerrechtliche Verpflichtung zur Hilfeleistung für in Seenot geratene Personen, die auch für Sea Guardian gilt. Er betont die untrennbare Verbindung von Wohlstand und freiem Seehandel, wie die Unterbrechung des Handels in wichtigen Seestrategien zeige. Er sieht Bedrohungen im Mittelmeer durch scheiternde Staaten, Waffenschmuggel und transnationalen Terrorismus, die eine Seeraumüberwachung notwendig machen. Die Wirksamkeit der Maßnahmen wird mit dem Präventionsparadoxon erklärt. Er hebt die zunehmend aggressive russische Präsenz und hybride Bedrohungen hervor und fordert Wachsamkeit im Mittelmeer. Die Mission leistet einen wichtigen Beitrag zur Sicherheit, und mit der Verlängerung des Mandats sendet Deutschland die Botschaft "Auf Deutschland ist Verlass".
-- **[22:34](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=22m34s)** - **Redebeitrag Abgeordneter Kurt Kleinschmidt (AfD)**: Er kritisiert das "Politikerparadoxon", das jeden sinnlosen Einsatz als sinnvoll erscheinen lasse. Er hebt hervor, dass Sea Guardian keine Operation nach Artikel 5 ist und eine Ablehnung keine Bündnispflicht verletzt. Die deutschen Schiffe werden laut Bundesregierung in der Regel nur beim Transit durch das Mittelmeer eingemeldet, nicht direkt der NATO unterstellt. Die Kosten seien zwar gering, aber das liege daran, dass kaum etwas geschehe. Die Eindämmung von Waffenschmuggel hänge von einer noch nicht bestehenden Vereinbarung zwischen NATO und EU ab. Die Operation sei ein "Wächter ohne klaren Auftrag", der um Erlaubnis fragen müsse. Die eigentlichen Ernstfälle und die Notwendigkeit zur Bündnisverteidigung lägen im Norden. Die AfD lehnt das Mandat ab.
-- **[25:56](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=25m56s)** - **Redebeitrag Abgeordnete Derya Türk-Nachbaur (SPD)**: Sie argumentiert, dass die klare Aufgabe des Mandats erkennbar sei. Die Sicherheit im Mittelmeer betrifft die deutsche Wirtschaft und Sicherheit, da es die Südgrenze der EU ist. Sea Guardian schaffe seit 2016 Überblick, tausche Lagebilder aus und trage zur Eindämmung von Terrorismus und Waffenschmuggel bei. Sie betont, dass gute Sicherheitspolitik oft unspektakulär sei und erst bemerkt werde, wenn sie fehle. Die Bundeswehr leiste einen wichtigen Beitrag mit Fähigkeiten und Verlässlichkeit, wofür ihr Dank gebühre. Die völkerrechtliche Verpflichtung zur Hilfeleistung für Menschen in Seenot sei ausdrücklich im Antrag festgehalten und gelte ohne Ausnahme. Eine Marine, die Sicherheit schaffe, rette Leben.
-- **[29:17](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=29m17s)** - **Redebeitrag Abgeordneter Bastian Ernst (CDU/CSU)**: Er bezeichnet die Mission als Bündnisverteidigung und betont, dass Russland die größte unmittelbare Bedrohung darstelle, weshalb der Fokus auf Osten liege. Er fordert jedoch auch Unterstützung für die Südflanke im Mittelmeer, da auch dort Russland aktiv sei und hybride Bedrohungen ausgingen (Störung des zivilen Schiffsverkehrs, Sabotage, Instrumentalisierung von Migration). Sea Guardian leiste durch Seeraumüberwachung und Lagebildaustausch einen wichtigen Beitrag gegen Waffenschmuggel und Terrorismus. Die völkerrechtlichen Grundlagen seien das Seerechtsübereinkommen der UN und ein Protokoll zur Bekämpfung widerrechtlicher Handlungen. Er dankt den Soldatinnen und Soldaten für ihren Doppeleinsatz.
-- **[32:12](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=32m12s)** - **Abschluss der Aussprache**: Die Präsidentin schließt die Aussprache und schlägt die Überweisung der Vorlage an die zuständigen Ausschüsse vor, was fraktionsübergreifend angenommen wird.
+- **[00:00:00](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und der Tagesordnungspunkt 5 zur Beratung des Antrags der Bundesregierung zur Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN wird aufgerufen. Die Aussprache wird für 30 Minuten angesetzt.
+
+- **[00:00:17](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=17s)** - **Bundesminister der Verteidigung, Boris Pistorius**: Erklärt die strategische Bedeutung des Mittelmeers für Europas Sicherheit und Wohlstand, da es Handelswege verbindet und an Krisenregionen grenzt. Er betont die Notwendigkeit einer verlässlichen NATO-Präsenz zur frühzeitigen Erkennung von Bedrohungen und zur Abwehr von Waffenschmuggel. Deutschland sei seit Beginn an der Operation beteiligt und leiste mit aktuellen Einheiten einen konkreten Beitrag. Er bittet um Zustimmung zur Verlängerung des Mandats und zur Anpassung der Mandatsobergrenze.
+
+- **[00:03:37](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=3m37s)** - **Abgeordneter Tobias Teich (AfD)**: Hinterfragt den konkreten Nutzen und die Erfolge der Operation nach zehn Jahren. Er begrüßt die Zusammenarbeit, kritisiert aber das Mandat wegen mangelnder messbarer Erfolge und der Nicht-Einbeziehung der Bekämpfung organisierter Schleuserkriminalität. Er sieht Parallelstrukturen zur Operation Irini und fragt nach dem Nutzen der eingesetzten Ressourcen und der langfristigen Strategie. Er kündigt die Ablehnung des Mandats an, solange keine Perspektive für einen sinnvollen Nutzen und eine Weiterentwicklung vorgelegt wird.
+
+- **[00:07:55](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=7m55s)** - **Staatsminister Florian Hahn (für die Bundesregierung)**: Unterstreicht die Bedeutung sicherer Seewege für Handel, Lieferketten, Wohlstand und Sicherheit, insbesondere im Mittelmeer. Er betont die Notwendigkeit präventiver Maßnahmen und die Wichtigkeit von SEA GUARDIAN zur frühzeitigen Risikoerkennung. Er kündigt die Verlängerung der deutschen Beteiligung bis November 2027 an und sieht darin ein politisches Signal der Verlässlichkeit. Er weist auf den 360-Grad-Ansatz der NATO hin, der auch die Sicherheit im Süden des Bündnisgebietes einschließt. Er betont, dass man nicht erst auf eine Krise warten dürfe, sondern vorsorgen müsse.
+
+- **[00:12:29](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=12m29s)** - **Abgeordneter Robin Wagener (Bündnis 90/Die Grünen)**: Erläutert die Bedeutung sicherer Seewege für den globalen Handel und die Versorgung mit Gütern, was durch das Motto "No shipping, no shopping" verdeutlicht wird. SEA GUARDIAN wird als wichtiges Instrument zur Schaffung eines maritimen Lagebildes im Mittelmeer beschrieben, um Bedrohungen frühzeitig erkennen zu können. Er würdigt den Einsatz und die Entbehrungen der Soldatinnen und Soldaten.
+
+- **[00:16:25](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=16m25s)** - **Abgeordnete Desiree Becker (Die Linke)**: Kritisiert, dass SEA GUARDIAN nicht zum Schutz der vielen im Mittelmeer gestorbenen Menschen beiträgt. Sie bezweifelt die nachgewiesene Wirksamkeit der Operation gegen Terrorismus und Waffenschmuggel. Sie kritisiert den Einsatz militärischer Mittel zur Beobachtung von Migration und fordert stattdessen eine Stärkung der Seenotrettung und die Bekämpfung von Fluchtursachen. Sie sieht keinen überzeugenden Grund für die Mandatsverlängerung.
+
+- **[00:19:04](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=19m4s)** - **Abgeordneter Johannes Volkmann (CDU/CSU)**: Weist auf die im Antrag verankerte völkerrechtliche Verpflichtung zur Hilfeleistung für in Seenot geratene Personen hin. Er betont die untrennbare Verbindung von Wohlstand und freiem Seehandel und die Notwendigkeit, maritime Handelswege zu schützen. Er nennt Bedrohungen im Mittelmeer wie scheiternde Staaten, Waffenschmuggel und Terrorismus und erklärt die Wirksamkeit der Maßnahmen mit dem Präventionsparadoxon. Er hebt die wachsende russische Präsenz und hybride Bedrohungen im Mittelmeerraum hervor und betont die Wichtigkeit eines klaren Lagebildes. Er dankt den Soldatinnen und Soldaten für ihren Beitrag.
+
+- **[00:22:34](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=22m34s)** - **Abgeordneter Kurt Kleinschmidt (AfD)**: Kritisiert das "Politikerparadoxon" und die Schönrederei sinnloser Einsätze. Er betont, dass SEA GUARDIAN keine Operation nach Artikel 5 sei und die Bundesregierung Schiffe nur beim Transit melde. Er bezeichnet die Operation als "billig", weil kaum etwas geschehe, und kritisiert, dass die Bekämpfung von Waffenschmuggel von einer noch ausstehenden Vereinbarung abhängt. Er sieht das Hauptproblem im Norden und kritisiert, dass knappe Kräfte dort eingesetzt werden, wo das Bündnis verteidigt werden muss. Die AfD-Fraktion lehnt das Mandat ab.
+
+- **[00:25:56](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=25m56s)** - **Abgeordnete Derya Türk-Nachbaur (SPD)**: Verteidigt den klaren Auftrag des Mandats und betont die direkte Betroffenheit der deutschen Wirtschaft durch die Sicherheit im Mittelmeer. Sie beschreibt SEA GUARDIAN als Mittel zur Schaffung von Überblick, zum Austausch von Lagebildern und zur Bekämpfung von Terrorismus und Waffenschmuggel. Sie hebt hervor, dass gute Sicherheitspolitik unspektakulär sei und die Verpflichtung zur Hilfeleistung für in Seenot geratene Personen ausdrücklich Teil des Mandats ist. Sie bittet um Zustimmung zur Mandatsverlängerung.
+
+- **[00:29:17](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=29m17s)** - **Abgeordneter Bastian Ernst (CDU/CSU)**: Betont, dass es bei SEA GUARDIAN um Bündnisverteidigung geht und die Unterstützung der südlichen Flanke ebenso wichtig sei wie die der östlichen. Er warnt vor russischer Präsenz und hybriden Bedrohungen im Mittelmeer, wie Störung des Schiffsverkehrs oder Instrumentalisierung von Migration. Er hebt die Bedeutung von Seeraumüberwachung und Lagebildaustausch hervor. Die völkerrechtlichen Grundlagen werden bekräftigt. Er dankt den beteiligten Soldatinnen und Soldaten und verteidigt die Kosten im Verhältnis zum Nutzen für die Bündnisverteidigung.
+
+- **[00:32:12](https://www.youtube.com/watch?v=Dy7UlqmJHHU&t=32m12s)** - **Sitzungsende**: Die Aussprache wird geschlossen. Es wird vorgeschlagen, die Vorlage zur weiteren Beratung an die zuständigen Ausschüsse zu überweisen, was einstimmig angenommen wird. Der nächste Tagesordnungspunkt wird aufgerufen.

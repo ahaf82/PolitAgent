@@ -1,5 +1,18 @@
 [
   {
+    "id": "ODOF4cifcdM",
+    "title": "105th Session on 11/05/2026. Agenda Item 17: Human Rights Policy",
+    "session": 105,
+    "date": "2026-11-05",
+    "top": "17",
+    "topic": "Menschenrechtspolitik",
+    "summary_path": "protocols/session_105/17_human_rights_policy.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=ODOF4cifcdM",
+    "processed_at": "2026-11-07T08:04:49.059342"
+  },
+  {
     "id": "mnS5MeQ7aAM",
     "title": "Ausschuss für Tourismus",
     "session": 0,
@@ -4054,6 +4067,45 @@
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
   },
   {
+    "id": "43T1pK0fCO0",
+    "title": "105th Session of 11/05/2026. Agenda Item 18: Homelessness, People without Health Insurance",
+    "session": 105,
+    "date": "N/A",
+    "top": "18",
+    "topic": "Wohnungslosigkeit und Menschen ohne Krankenversicherungsschutz überwinden",
+    "summary_path": "protocols/session_105/18_105th_session_of_11_05_2026_agenda_item_18_homeles.md",
+    "documents_path": "protocols/session_105/18_105th_session_of_11_05_2026_agenda_item_18_homeles_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=43T1pK0fCO0",
+    "processed_at": "2026-11-07T08:03:49.262261"
+  },
+  {
+    "id": "PESqtXryLlY",
+    "title": "104th Session of 11/04/2026. Agenda Item 6: Taxes on Tobacco, Alcohol, Sugar, and Plastic",
+    "session": 104,
+    "date": "N/A",
+    "top": "6",
+    "topic": "Steuern auf Tabak, Alkohol, Zucker und Plastik",
+    "summary_path": "protocols/session_104/6_104th_session_of_11_04_2026_agenda_item_6_taxes_on.md",
+    "documents_path": "protocols/session_104/6_104th_session_of_11_04_2026_agenda_item_6_taxes_on_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=PESqtXryLlY",
+    "processed_at": "2026-11-07T08:02:59.121477"
+  },
+  {
+    "id": "Dy7UlqmJHHU",
+    "title": "104th Session from 11/04/2026. Agenda Item 5: Bundeswehr deployment SEA GUARDIAN",
+    "session": 104,
+    "date": "N/A",
+    "top": "5",
+    "topic": "Einsatz der Bundeswehr zur maritimen Sicherheit im Mittelmeer (Operation SEA GUARDIAN)",
+    "summary_path": "protocols/session_104/5_104th_session_from_11_04_2026_agenda_item_5_bundes.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=Dy7UlqmJHHU",
+    "processed_at": "2026-11-07T08:01:20.397191"
+  },
+  {
     "id": "CAD6QMgcJuA",
     "title": "102nd Session of 10/15/2026. Agenda Item 8: Urgent Debate: Espionage, Sabotage, Hybrid Attacks – ...",
     "session": 102,
@@ -8065,6 +8117,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=WHikwtobXik",
     "processed_at": "2026-11-06T08:03:40.184640"
+  },
+  {
+    "id": "KFsQu1cDsLY",
+    "title": "Introducing an Opt-Out System for Organ Donation",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Einführung einer Widerspruchslösung bei der Organspende",
+    "summary_path": "protocols/session_unknown/top_unknown_introducing_an_opt_out_system_for_organ_donation.md",
+    "documents_path": "protocols/session_unknown/top_unknown_introducing_an_opt_out_system_for_organ_donation_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=KFsQu1cDsLY",
+    "processed_at": "2026-11-07T08:02:00.501409"
+  },
+  {
+    "id": "m-JsQsqwnjY",
+    "title": "Expert Discussion on the \"Future of Work\"",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Fachgespräch zur Zukunft der Arbeit",
+    "summary_path": "protocols/session_unknown/top_unknown_expert_discussion_on_the_future_of_work.md",
+    "documents_path": "protocols/session_unknown/top_unknown_expert_discussion_on_the_future_of_work_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=m-JsQsqwnjY",
+    "processed_at": "2026-11-07T08:03:25.607656"
   },
   {
     "id": "vHNXQug-Frc",
