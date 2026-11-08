@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zur deutschen Stahlindustrie spiegeln die unterschiedlichen politischen Ansätze wider. Die Linke propagiert eine starke staatliche Intervention mit erheblichen Investitionen und Transformationsräten, um die Branche klimafreundlich umzugestalten und Arbeitsplätze zu sichern. Im Gegensatz dazu warnt die CDU/CSU vor planwirtschaftlichen Maßnahmen und setzt auf marktwirtschaftliche Lösungen sowie europäische Abstimmung, einschließlich der Förderung von Übergangstechnologien. Die AfD positioniert sich kritisch gegenüber \"grünem Stahl\", hebt die Problematik hoher Energiekosten hervor und fordert eine Rückbesinnung auf traditionelle Energiequellen zur Steigerung der Wettbewerbsfähigkeit. Die SPD betont die Notwendigkeit heimischer Produktion und staatliche Schutzmechanismen, während Bündnis 90/Die Grünen den Klimaschutz als zentralen Motor für zukünftiges Wachstum sehen und staatliche Nachfragesteuerung für grünen Stahl fordern.",
+  "sources": [
+    {
+      "name": "Mirze Edis",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Mirze Edis betont die Notwendigkeit staatlicher Investitionen von 20 Milliarden Euro für die Transformation der Stahlindustrie, fordert einen wettbewerbsfähigen Industriestrompreis und die aktive Beteiligung des Staates bei der Sicherung von Arbeitsplätzen und klimaneutraler Stahlproduktion. Er kritisiert die Bundesregierung für mangelnden politischen Willen und unterlassene Hilfeleistung.",
+      "source_title": "Stahlproduktion: Es fehlt der politische Wille - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Rainer Kraft",
+      "party": "AfD",
+      "found": false,
+      "statement": "Rainer Kraft kritisiert, dass die \"Energiewende\" gescheitert sei, da die Umstellung auf strombasierte Stahlprozesse in Deutschland aufgrund zu hoher Strompreise und fehlendem Wasserstoff unwirtschaftlich sei. Er fordert Kernkraft zur Grundlaststromerzeugung, um die Klimaneutralität zu ermöglichen.",
+      "source_title": "Aus für „grünen Stahl“ dokumentiert Scheitern der Energiewende",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sebastian Roloff äußert sich zur Wirksamkeit des Spritpreisdeckels und betont, dass die Vereinbarungen der Koalition gelten. Er deutet an, dass die Kriterien des BMWE möglicherweise nicht die Beschlüsse von Union und SPD umsetzen.",
+      "source_title": "Das Pflichtenheft der Bundespräsidentin + Streit um Spritpreisdeckel + KI als Effizienzbooster",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Franziska Brantner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Franziska Brantner kritisiert das Heizungsgesetz von Ministerin Reiche scharf und fordert dessen Abschaffung, da es die Klimaziele verfehle. Sie plädiert für konsequente Umwandlung auf klimafreundliche Heizungen und den Ausbau erneuerbarer Energien, um die Abhängigkeit von fossilen Energieträgern zu beenden.",
+      "source_title": "Reiche's expensive heating law has to go! Press conference with Franziska Brantner on 05/18/2026",
+      "url": "https://www.youtube.com/watch?v=g084b82i2yU",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Stephan Toscani",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Stephan Toscani setzt sich dafür ein, dass Unternehmen, die frühzeitig in die Dekarbonisierung investiert haben, nicht benachteiligt werden. Er betont die Notwendigkeit, die europäische Wettbewerbsfähigkeit zu stärken und gleichzeitig die Klimaziele zu wahren, und wirbt dafür, dass die CDU/CSU-Abgeordneten im Europäischen Parlament die Interessen der saarländischen Stahlindustrie vertreten.",
+      "source_title": "Toscani wendet sich für Stahlindustrie an CDU/CSU-Gruppe im Europäischen Parlament",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Paul Schmidt",
+      "party": "AfD",
+      "found": false,
+      "statement": "Paul Schmidt kritisiert, dass die \"Energiewende\" gescheitert sei, da die Umstellung auf strombasierte Stahlprozesse in Deutschland aufgrund zu hoher Strompreise und fehlendem Wasserstoff unwirtschaftlich sei. Er fordert Kernkraft zur Grundlaststromerzeugung, um die Klimaneutralität zu ermöglichen.",
+      "source_title": "Aus für „grünen Stahl“ dokumentiert Scheitern der Energiewende",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Janine Wissler",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Janine Wissler kritisiert, dass \"Reiche und Merz auf einem wirtschaftspolitischen Irrweg\" seien, und fordert einen klaren politischen Willen zur Sicherung der Stahlindustrie mit Investitionen und wettbewerbsfähigen Strompreisen, um Arbeitsplätze zu erhalten und eine sozial gerechte Transformation zu ermöglichen.",
+      "source_title": "Stahlproduktion: Es fehlt der politische Wille - Fraktion Die Linke im Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -1,5 +1,18 @@
 [
   {
+    "id": "3kIcEeU2rsc",
+    "title": "105. Sitzung vom 05.11.2026. TOP ZP 8: Aktuelle Stunde: Investitionsgipfel",
+    "session": 105,
+    "date": "2026-11-05",
+    "top": "ZP 8",
+    "topic": "Aktuelle Stunde: Investitionsgipfel",
+    "summary_path": "protocols/session_105/zp_8_aktuelle_stunde_investitionsgipfel.md",
+    "documents_path": "protocols/session_105/zp_8_aktuelle_stunde_investitionsgipfel_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=3kIcEeU2rsc",
+    "processed_at": "2026-11-08T08:03:17.597372"
+  },
+  {
     "id": "ODOF4cifcdM",
     "title": "105th Session on 11/05/2026. Agenda Item 17: Human Rights Policy",
     "session": 105,
@@ -11,6 +24,58 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=ODOF4cifcdM",
     "processed_at": "2026-11-07T08:04:49.059342"
+  },
+  {
+    "id": "6gq_FkMpnf8",
+    "title": "105. Sitzung vom 05.11.2026. TOP 14: Energiesicherheit - Diesel-Abkommen für Deutschland",
+    "session": 105,
+    "date": "2026-11-05",
+    "top": "14",
+    "topic": "Energiesicherheit – Diesel-Abkommen für Deutschland",
+    "summary_path": "protocols/session_105/14_energiesicherheit_diesel_abkommen_fuer_deutschland.md",
+    "documents_path": "protocols/session_105/14_energiesicherheit_diesel_abkommen_fuer_deutschland_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=6gq_FkMpnf8",
+    "processed_at": "2026-11-08T08:01:32.855543"
+  },
+  {
+    "id": "sl0wyQO3HKQ",
+    "title": "105. Sitzung vom 05.11.2026. TOP 13: Bevorrechtigung elektrisch betriebener Fahrzeuge",
+    "session": 105,
+    "date": "2026-11-05",
+    "top": "13",
+    "topic": "Bevorrechtigung elektrisch betriebener Fahrzeuge",
+    "summary_path": "protocols/session_105/13_bevorrechtigung_elektrisch_betriebener_fahrzeuge.md",
+    "documents_path": "protocols/session_105/13_bevorrechtigung_elektrisch_betriebener_fahrzeuge_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=sl0wyQO3HKQ",
+    "processed_at": "2026-11-08T08:01:55.347180"
+  },
+  {
+    "id": "ORp1N98h2uw",
+    "title": "105. Sitzung vom 05.11.2026. TOP 12: Stahlindustrie",
+    "session": 105,
+    "date": "2026-11-05",
+    "top": "12",
+    "topic": "Die deutsche Stahlindustrie: Herausforderungen und Zukunftsperspektiven",
+    "summary_path": "protocols/session_105/12_stahlindustrie.md",
+    "documents_path": "protocols/session_105/12_stahlindustrie_documents.json",
+    "speakers_path": "protocols/session_105/12_stahlindustrie_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=ORp1N98h2uw",
+    "processed_at": "2026-11-08T08:02:27.447637"
+  },
+  {
+    "id": "NxW4B5osDkk",
+    "title": "105. Sitzung vom 05.11.2026. TOP 11, ZP 9: Fahrlehrergesetz",
+    "session": 105,
+    "date": "2026-11-05",
+    "top": "11, ZP 9",
+    "topic": "Fahrlehrergesetz und begleitende Regelungen",
+    "summary_path": "protocols/session_105/11_zp_9_fahrlehrergesetz.md",
+    "documents_path": "protocols/session_105/11_zp_9_fahrlehrergesetz_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=NxW4B5osDkk",
+    "processed_at": "2026-11-08T08:02:49.618414"
   },
   {
     "id": "mnS5MeQ7aAM",
@@ -4078,6 +4143,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=43T1pK0fCO0",
     "processed_at": "2026-11-07T08:03:49.262261"
+  },
+  {
+    "id": "mJBqubBmuMQ",
+    "title": "105th Session of 11/05/2026. Agenda Item 15, Supplementary Item 10: Animal Welfare Act",
+    "session": 105,
+    "date": "N/A",
+    "top": "15,",
+    "topic": "Gesetz zur Änderung des Tierschutzgesetzes und der Tierschutz-Nutztierhaltungsverordnung",
+    "summary_path": "protocols/session_105/15_105th_session_of_11_05_2026_agenda_item_15_supplem.md",
+    "documents_path": "protocols/session_105/15_105th_session_of_11_05_2026_agenda_item_15_supplem_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=mJBqubBmuMQ",
+    "processed_at": "2026-11-08T08:01:09.275869"
+  },
+  {
+    "id": "g3TxiOsIToY",
+    "title": "105th Session of 11/05/2026. Agenda Item 11: Statutory Health Insurance expenditures for basic we...",
+    "session": 105,
+    "date": "N/A",
+    "top": "11",
+    "topic": "Ausgaben der gesetzlichen Krankenversicherung für Empfänger von Grundsicherung und Asylbewerber",
+    "summary_path": "protocols/session_105/11_105th_session_of_11_05_2026_agenda_item_11_statuto.md",
+    "documents_path": "protocols/session_105/11_105th_session_of_11_05_2026_agenda_item_11_statuto_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=g3TxiOsIToY",
+    "processed_at": "2026-11-08T08:00:47.238075"
   },
   {
     "id": "PESqtXryLlY",
