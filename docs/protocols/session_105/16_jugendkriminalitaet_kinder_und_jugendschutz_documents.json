@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Gesetzentwurf der AfD zur Änderung des Jugendstrafrechts zur Bekämpfung der Kriminalität von Kindern, Jugendlichen und Heranwachsenden",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/4464",
+      "title": "Antrag der AfD: Kinder und Jugendliche vor religiösem Zwang, Mobbing und gruppendynamischem Druck schützen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4464&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Der Gesetzentwurf der AfD zur Änderung des Jugendstrafrechts und der Antrag zum Schutz von Kindern und Jugendlichen wurden in der Debatte kontrovers diskutiert und erwartungsgemäß von den anderen Fraktionen abgelehnt. Die genauen Beschlüsse oder Überweisungen sind in diesem Ausschnitt nicht explizit erwähnt, es ist jedoch davon auszugehen, dass beide Vorlagen nicht die Zustimmung der Mehrheit fanden.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
