@@ -1,0 +1,156 @@
+# Gesetz zur Neuordnung der Pflegeversicherung
+
+## Sitzungs-Metadaten
+- **Sitzung:** 105. Sitzung
+- **Datum:** 2026-11-05
+- **Tagesordnungspunkt (TOP):** 7, ZP 3, 4
+- **Originaltitel:** 105. Sitzung vom 05.11.2026. TOP 7, ZP 3, 4: Pflegeneuordnungsgesetz
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=VJLbyK7Ha-4)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag befasste sich mit dem Gesetzentwurf zur Neuordnung der Pflegeversicherung. Ziel ist es, die finanzielle Stabilität der sozialen Pflegeversicherung wiederherzustellen, die unter erheblichem Druck steht, und gleichzeitig die häusliche Pflege zu stärken sowie pflegende Angehörige besser zu unterstützen. Die Fraktionen diskutierten verschiedene Aspekte, darunter die Finanzierung, die Umgestaltung von Leistungen wie der Verhinderungspflege und des Entlastungsbetrags, sowie die Notwendigkeit von Präventionsmaßnahmen und strukturellen Reformen. Kritische Stimmen bemängelten mögliche Leistungskürzungen und die unzureichende Berücksichtigung der realen Bedürfnisse der Betroffenen und ihrer Familien.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Bundesregierung (vertreten durch Bundesminister Dr. Carsten Linnemann):**
+  - Die soziale Pflegeversicherung steht unter erheblichem finanziellen Druck, insbesondere durch die steigende Zahl der Pflegebedürftigen und vergangene politische Entscheidungen.
+  - Ohne das Gesetz droht 2027 ein Defizit von rund 8 Milliarden Euro, was zu höheren Beiträgen führen würde.
+  - Das Gesetz zielt auf eine Wiederherstellung der Einnahmen-Ausgaben-Balance und die Sicherung des Systems für zukünftige Generationen.
+  - Stärkung der Prävention und Rehabilitation vor der Pflege, um Pflegebedürftigkeit zu verhindern oder hinauszuzögern.
+  - Keine Abstriche bei der Rente von pflegenden Angehörigen.
+  - Gespräche laufen, um das Gesetz nachzubessern und die Umstellung bei Entlastungsbetrag und Verhinderungspflege nicht zu überfordern.
+  - Ziel ist ein zielgenaueres und gerechteres System.
+- **AfD-Fraktion (vertreten durch Nicole Hess, Claudia Weiß, Martin Sichert):**
+  - Die Bundesregierung schafft keine verlässlichen Rahmenbedingungen.
+  - Die Gesetze im Gesundheitswesen haben eine kurze Halbwertszeit, was zu mangelnder Planungssicherheit führt.
+  - Das Pflegeneuordnungsgesetz stellt eine Änderung von Bezeichnungen dar, ohne die Probleme zu lösen.
+  - Für viele Betroffene bedeuten die Vorschläge höhere Hürden, weniger Hilfen und zusätzliche Belastungen.
+  - Kritik an Beitragserhöhungen durch höhere Beitragsbemessungsgrenzen und Zuschläge für Kinderlose.
+  - Die Abschaffung der Verhinderungspflege als eigenständiger Anspruch trifft Familien hart.
+  - Die Menschen haben ein Verständnisproblem, da sie durch Reformen Belastungen und Leistungseinschränkungen erfahren.
+  - Die Reform spart an den falschen Stellen und gefährdet funktionierende Strukturen.
+  - Es wird geraten, Pflegegradanträge noch im laufenden Jahr zu stellen, um von der alten Gesetzeslage zu profitieren.
+- **SPD-Fraktion (vertreten durch Dagmar Schmidt, Claudia Moll, Dr. Christoph Pantazis):**
+  - Die Pflegereform ist eine der bedeutendsten Reformen dieser Legislatur und betrifft Millionen von Menschen.
+  - Es geht um die Sicherstellung einer würdevollen und zugewandten Pflege sowie um Gerechtigkeit.
+  - Viele Ängste und Verunsicherungen konnten im Kabinettsverfahren reduziert werden, z.B. die Rentenbeiträge für pflegende Angehörige und Kürzungen beim Entlastungsbudget.
+  - Im parlamentarischen Verfahren sollen weitere Sorgen adressiert werden, insbesondere bezüglich der Verhinderungspflege und der Umstellung für Familien mit pflegebedürftigen Kindern.
+  - Stärkung der Pflegebegleitung als Case-Management und des Sozialraumbudgets für niedrigschwellige, unbürokratische Hilfe.
+  - Die gesetzliche Pflegeversicherung steht vor einer erheblichen Finanzierungslücke, die geschlossen werden muss, ohne Leistungskürzungen.
+  - Es besteht Bedarf an fairen Übergangsregelungen und flexibler Nutzbarkeit des Sozialraumbudgets.
+  - Die Finanzierungsfrage, inklusive eines Ausgleichs zwischen sozialer und privater Pflegeversicherung, muss geklärt werden.
+- **Bündnis 90/Die Grünen (vertreten durch Simone Fischer, Dr. Kirsten Kappe-Hornbostel):**
+  - Die Frage ist, in welcher Gesellschaft wir leben wollen, die sich im Umgang mit Hilfsbedürftigen zeigt.
+  - Unterstützung für pflegende Angehörige darf nicht geschwächt werden, sondern muss gestärkt werden.
+  - Kritik an erhöhten Hürden für Pflegegrade, der späten Einführung der Pflegebegleitung und der fehlenden Anpassung der Leistungen an steigende Preise.
+  - Die Abschaffung der Verhinderungspflege muss verhindert und diese als eigenständiger Anspruch erhalten bleiben.
+  - Finanzierung muss gerechter gestaltet werden, u.a. durch Bundesmittel und einen solidarischen Finanzausgleich.
+  - Forderung nach einer Pflegezeit mit Lohnersatz für pflegende Angehörige.
+  - Pflege muss umfassender gedacht werden, inklusive Prävention, Begegnung und niedrigschwelliger Unterstützung.
+  - Hitzeschutz und Vorbereitung auf Klimafolgen sind ebenfalls notwendige Aspekte der Pflege.
+- **Die Linke (vertreten durch Luigi Pantisano, Evelyn Schätz):**
+  - Die aktuellen Vorschläge sind ein "Pflegekürzungsgesetz", das auf pflegende Angehörige und Pflegebedürftige abzielt.
+  - Es wird gefordert, dass alle zahlen, auch Reiche und Privatversicherte, um eine starke Pflege zu ermöglichen.
+  - Die bisherige Politik hat die Pflegeversicherung kaputtgespart.
+  - Die neuen Budgets und Regelungen bedeuten für Betroffene mehr Zahlung und weniger Leistung.
+  - Die Verhinderungspflege muss als eigenständiger Anspruch erhalten bleiben und darf nicht durch neue Budgetschlüssel eingeschränkt werden.
+  - Der Umwandlungsanspruch auf Pflegeleistungen und der Entlastungsbetrag für Pflegegrad 1 dürfen nicht entfallen.
+  - Die Maßnahmen stellen Millionen pflegende Angehörige unter Generalverdacht.
+- **CDU/CSU-Fraktion (vertreten durch Simone Borchardt, Emmi Zöllner, Dr. Hendrik Strack):**
+  - Die Pflegeversicherung braucht eine dringende Reform, um ein Defizit von 7,6 Milliarden Euro (optimistisch geschätzt) für 2027 zu vermeiden.
+  - Stabilisierung der Pflegeversicherung und zielgenaue Ausrichtung der Leistungen.
+  - Die Rentenbeiträge für pflegende Angehörige bleiben erhalten.
+  - Leistungen sollen nicht mehr mit der Gießkanne ausgeschüttet, sondern zielgenauer eingesetzt werden.
+  - Die vorgesehene Pflegebegleitung soll Familien einen festen Ansprechpartner geben, ohne Parallelstrukturen aufzubauen.
+  - Beim Sozialraumbudget wird Nachbesserung erfolgen, um regionale Strukturen zu nutzen.
+  - Das Gesetz soll die Versorgung besser organisieren, Risiken früher erkennen und Rehabilitation stärken.
+  - Älterwerden bedeutet nicht automatisch Pflegebedürftigkeit.
+  - Es wird auf die wissenschaftliche Grundlage aus dem Jahr 2017 verwiesen, um eine zielgenauere Einstufung zu ermöglichen.
+  - Das Gesetz ist ein erster Schritt zur Stabilisierung, weitere Strukturreformen folgen.
+  - Ziel ist es, die Pflegeversicherung zu stabilisieren und pflegende Angehörige zu unterstützen, ohne ihre eigene Gesundheit oder ihren Beruf zu gefährden.
+  - Hilfen müssen leichter zugänglich gemacht werden.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Sitzung wird eröffnet und die erste Beratung des Gesetzentwurfs zur Neuordnung der Pflegeversicherung sowie Anträge der Fraktion Die Linke stehen auf der Tagesordnung. Die Aussprache wird für 60 Minuten angesetzt.
+- **[00:00:33](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=0m33s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Er betont die Bedeutung der Pflege für die Gesellschaft und die Notwendigkeit, die häusliche Pflege zu unterstützen. Er kündigt an, dass keine Abstriche bei den Rentenbeiträgen pflegender Angehöriger gemacht werden. Er erläutert, dass die soziale Pflegeversicherung unter Druck steht und das Gesetz die Einnahmen-Ausgaben-Balance wiederherstellen soll, um einem Defizit von 8 Milliarden Euro 2027 entgegenzuwirken. Prävention und Rehabilitation vor Pflege werden gestärkt.
+- **[00:39](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=0m39s)** - **Applaus**
+- **[00:47](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=0m47s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Er hebt die menschliche Dimension der Pflege hervor und die Bedeutung von Mitmenschlichkeit und Würde.
+- **[01:57](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1m57s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Er kritisiert Studien, die häusliche Pflege in Vollzeitstellen umrechnen, da dies der Komplexität der menschlichen Fürsorge nicht gerecht werde.
+- **[02:30](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=2m30s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Er betont die Wichtigkeit, dass pflegende Angehörige bei der Rente nicht schlechter gestellt werden als Berufstätige.
+- **[03:06](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=3m6s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Er stellt fest, dass die soziale Pflegeversicherung unter Druck steht, bedingt durch Demografie und frühere politische Entscheidungen. Er erläutert, dass die Zahl der Pflegebedürftigen deutlich über den ursprünglichen Prognosen liegt.
+- **[04:12](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=4m12s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Das Ziel des Gesetzes sei es, Einnahmen und Ausgaben auszubalancieren und ein verlässliches Pflegesystem zu gewährleisten.
+- **[04:47](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=4m47s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Strukturelle Verbesserungen wie die Stärkung der Prävention und Reha werden angekündigt.
+- **[06:09](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=6m9s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Er thematisiert die Sorgen der Betroffenen bezüglich der Umstellung bei Entlastungsbetrag und Verhinderungspflege und versichert, dass niemand überfordert werden soll.
+- **[06:43](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=6m43s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Das Ziel sei, das System zielgenauer und gerechter zu machen, gleichzeitig aber am Einsparvolumen festzuhalten.
+- **[07:11](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=7m11s)** - **Bundesminister Dr. Carsten Linnemann (Bundesregierung)**: Das Gesetz sei ein erster Schritt, ein zweiter struktureller folge im nächsten Jahr. Es gelte, Verantwortung für zukünftige Generationen zu tragen.
+- **[07:39](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=7m39s)** - **Frau Abgeordnete Nicole Hess (AfD)**: Sie listet Beispiele für kurzlebige Gesetze und Regelungen im Gesundheitswesen auf, die fehlende Planungssicherheit für Leistungserbringer belegen. Sie kritisiert das Gesetz als eine bloße Namensänderung von Problemen und verweist auf die steigenden Kosten und Belastungen für Betroffene, obwohl der allgemeine Beitragssatz stabil bleiben soll. Sie kritisiert die geplante Abschaffung der Verhinderungspflege als eigenständigen Anspruch.
+- **[09:47](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=9m47s)** - **Frau Abgeordnete Nicole Hess (AfD)**: Sie bezeichnet das Gesetz als "Pflegeneuordnungsgesetz" und stellt fest, dass die Pflegeversicherung in finanzieller Not sei.
+- **[10:06](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=10m6s)** - **Frau Abgeordnete Nicole Hess (AfD)**: Sie bemängelt, dass die angekündigte Entlastung für viele Betroffene höhere Hürden und weniger Hilfen bedeute.
+- **[10:49](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=10m49s)** - **Frau Abgeordnete Nicole Hess (AfD)**: Sie schildert das Beispiel einer jungen Mutter mit pflegebedürftigem Sohn und kritisiert, dass die Verhinderungspflege als eigenständiger Anspruch abgeschafft werden soll, was Hospizen eine Einnahmequelle entziehe.
+- **[11:50](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=11m50s)** - **Frau Abgeordnete Nicole Hess (AfD)**: Die AfD fordert verlässlich finanzierte Ersatzpflege und eine Personalausstattung, die dem Hilfebedarf entspricht.
+- **[12:19](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=12m19s)** - **Frau Abgeordnete Dagmar Schmidt (SPD)**: Sie bezeichnet die Pflegereform als eine der bedeutendsten dieser Legislatur und betont, dass sie Millionen Menschen betrifft. Sie hebt hervor, dass die Kürzungen bei Rentenbeiträgen für pflegende Angehörige und beim Entlastungsbudget zurückgenommen wurden.
+- **[13:13](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=13m13s)** - **Frau Abgeordnete Dagmar Schmidt (SPD)**: Sie betont, dass die Reformen den Menschen Angst gemacht haben und deshalb ein Auftrag bestehe, diese zu verbessern.
+- **[14:13](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=14m13s)** - **Frau Abgeordnete Dagmar Schmidt (SPD)**: Die Abschaffung der Verhinderungspflege wird als ein Punkt genannt, der vielen Menschen Sorge bereitet.
+- **[14:37](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=14m37s)** - **Frau Abgeordnete Dagmar Schmidt (SPD)**: Die Ausgestaltung der Pflegebegleitung als Case-Management und das Sozialraumbudget als niedrigschwellige Möglichkeit werden positiv hervorgehoben.
+- **[15:27](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=15m27s)** - **Frau Abgeordnete Dagmar Schmidt (SPD)**: Sie bestätigt die finanzielle Herausforderung der Pflegeversicherung aufgrund steigender Leistungsbezieherzahlen und betont, dass niemand allein gelassen werden dürfe.
+- **[16:28](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=16m28s)** - **Frau Abgeordnete Dagmar Schmidt (SPD)**: Die SPD stehe für eine Bürgerversicherung auch in der Pflege und fordert eine gerechtere Finanzierung.
+- **[17:01](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=17m1s)** - **Frau Abgeordnete Dagmar Schmidt (SPD)**: Sie wiederholt die Notwendigkeit, dass sich die Lage für Betroffene und Dienste zum 1. Januar nicht abrupt ändern darf, und dankt dem Minister für die Zusage, dass dies nicht passieren wird.
+- **[17:45](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=17m45s)** - **Frau Abgeordnete Simone Fischer (Bündnis 90/Die Grünen)**: Sie schildert eindringlich die Belastung pflegender Angehöriger und fragt, wer ihr Rückhalt sei. Sie kritisiert, dass eine Regierung, die mehr Erwerbsarbeit fordert, die Unterstützung schwächen dürfe, die diese erst ermöglicht.
+- **[19:59](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=19m59s)** - **Frau Abgeordnete Simone Fischer (Bündnis 90/Die Grünen)**: Sie kritisiert, dass Hürden für Pflegegrade 1 bis 3 erhöht werden und dies zu späteren oder geringeren Unterstützungen führen könne.
+- **[20:25](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=20m25s)** - **Frau Abgeordnete Simone Fischer (Bündnis 90/Die Grünen)**: Sie bemängelt, dass Menschen mit Pflegegrad 1 ihren Entlastungsbetrag verlieren sollen und die Pflegebegleitung erst 2029 beginnt.
+- **[20:50](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=20m50s)** - **Frau Abgeordnete Simone Fischer (Bündnis 90/Die Grünen)**: Besonders kritisch wird die geplante Abschaffung der Verhinderungspflege gesehen, die für pflegende Angehörige, besonders bei Kindern oder Demenzkranken, eine wichtige Entlastung darstellt.
+- **[21:31](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=21m31s)** - **Frau Abgeordnete Simone Fischer (Bündnis 90/Die Grünen)**: Die Grünen fordern eine gerechtere Finanzierung mit Bundesmitteln und einem solidarischen Finanzausgleich.
+- **[22:06](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=22m6s)** - **Frau Abgeordnete Simone Fischer (Bündnis 90/Die Grünen)**: Sie fordert Nachbesserungen bei den Zugangshürden, die Beibehaltung der Verhinderungspflege als eigenständigen Anspruch und eine Gestaltung der Entlastung, die Familien nutzen können.
+- **[23:07](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=23m7s)** - **Abgeordneter Luigi Pantisano (Die Linke)**: Er schildert das Beispiel einer pflegenden Tochter, die neben der Arbeit nachts für ihren Vater sorgt. Er kritisiert, dass das Gesetz die pflegenden Angehörigen belaste und fordert mehr Geld und Unterstützung.
+- **[24:26](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=24m26s)** - **Abgeordneter Luigi Pantisano (Die Linke)**: Er bezeichnet das Gesetz als "Pflegekürzungsgesetz" und wirft dem Minister und dem Bundeskanzler vor, den Alltag der Menschen nicht zu verstehen.
+- **[25:48](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=25m48s)** - **Abgeordneter Luigi Pantisano (Die Linke)**: Die Linke fordert eine echte Reform mit Beitragszahlung aller, einschließlich Privatversicherter und Reicher, und eine starke Pflege, die pflegende Angehörige entlastet.
+- **[26:38](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=26m38s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie begrüßt die Mitglieder des Vereins "Wir pflegen" e.V. und kritisiert die Linke für die missbräuchliche Nutzung der Debatte.
+- **[27:23](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=27m23s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie betont die Notwendigkeit einer Reform zur Stabilisierung der Pflegeversicherung und zur zielgenauen Ausrichtung der Leistungen, wo sie am meisten helfen.
+- **[28:07](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=28m7s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Die Rentenbeiträge für pflegende Angehörige seien wichtig und geblieben.
+- **[28:17](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=28m17s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Es sei wichtig, die Leistungen zielgenauer zu machen und Verwerfungen ehrlich anzuerkennen.
+- **[28:38](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=28m38s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie erläutert das Konzept der Pflegebegleitung als festen Ansprechpartner zur konkreten Unterstützung von Familien.
+- **[29:22](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=29m22s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie kündigt Nachbesserungen beim Thema Alltagshilfe und Sozialraumbudget an, um regionale Strukturen zu nutzen und Parallelstrukturen zu vermeiden.
+- **[30:20](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=30m20s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Das Gesetz eröffne die Chance, die Versorgung besser zu organisieren, u.a. durch einen Check-up ab 60 und gestärkte Rehabilitation.
+- **[30:35](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=30m35s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie betont, dass Alter nicht automatisch Pflegebedürftigkeit bedeute und die Gelder zielgenau gesteuert werden müssten.
+- **[31:07](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=31m7s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie betont, dass im parlamentarischen Verfahren genau hingeschaut werde, ob die Neuordnung Verwerfungen schafft.
+- **[31:09](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=31m9s)** - **Zwischenfrage aus den Reihen der Linken durch Luigi Pantisano**: Er kritisiert, dass scheinbar alle das Gesetz ablehnen und fordert, dass es "in die Tonne getreten" werden soll, wenn es jeder schlecht findet. Er hinterfragt die Aussage des Ministers, dass es nicht um Kürzungen gehe, sondern um Zielgenauigkeit.
+- **[33:09](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=33m9s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie erwidert, dass die neuen Budgets höher seien als das bisherige Pflegegeld und das Sozialraumbudget höher als das Entlastungsbudget. Sie verteidigt das parlamentarische Verfahren als Prozess der Nachbesserung.
+- **[35:01](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=35m1s)** - **Frau Abgeordnete Simone Borchardt (CDU/CSU)**: Sie betont die Wichtigkeit von Übergangszeiten für Angehörige und Pflegedienste und kündigt an, das Thema Tagespflege zu stärken.
+- **[36:02](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=36m2s)** - **Frau Abgeordnete Claudia Weiß (AfD)**: Sie kritisiert die Aussage des Bundeskanzlers, die Bürger müssten die Reformen besser verstehen. Sie argumentiert, dass die Bürger kein Verständnisproblem, sondern ein Problem mit den Belastungen und Leistungseinschränkungen hätten.
+- **[37:29](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=37m29s)** - **Frau Abgeordnete Claudia Weiß (AfD)**: Sie kritisiert das neue Sozialraumbudget, das die Strukturen von ambulanten Pflegediensten gefährden könnte und zu Doppelstrukturen sowie dem Wegfall hauswirtschaftlicher Leistungen führen könnte.
+- **[39:01](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=39m1s)** - **Frau Abgeordnete Claudia Weiß (AfD)**: Sie kritisiert die Einschnitte in die Verhinderungspflege und beim Entlastungsbetrag für Pflegegrad 1. Sie hinterfragt die angeblichen Reformen, die nicht zu Entlastung führten.
+- **[40:20](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=40m20s)** - **Frau Abgeordnete Claudia Moll (SPD)**: Sie hebt hervor, was das Gesetz bereits verbessert hat: Erhalt der Rentenbeiträge für pflegende Angehörige, Sicherung der Tariftreue und Bestand der Zuschüsse zu Eigenanteilen im Pflegeheim.
+- **[41:37](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=41m37s)** - **Frau Abgeordnete Claudia Moll (SPD)**: Sie benennt die Sorgen der Versicherten und Beschäftigten bezüglich der Verwendung der Budgets.
+- **[41:44](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=41m44s)** - **Frau Abgeordnete Claudia Moll (SPD)**: Die Verhinderungspflege müsse als eigene Leistung erkennbar und nutzbar bleiben, damit Eltern, die eine Auszeit brauchen, ihr behindertes Kind nicht beliebigen Diensten überlassen müssen.
+- **[42:36](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=42m36s)** - **Frau Abgeordnete Claudia Moll (SPD)**: Sie thematisiert das Sozialraumbudget und die Befürchtung vieler Pflegedienste, dass vertraute Leistungen wegbrechen. Es sei wichtig, bestehende Versorgungsstrukturen zu schützen und Einrichtungen Zeit zur Umstellung zu geben.
+- **[43:30](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=43m30s)** - **Frau Abgeordnete Claudia Moll (SPD)**: Sie appelliert an die Bundesregierung, die Reformen von den Bedürfnissen der Menschen her zu denken und betont die Notwendigkeit fairer Übergangsregelungen.
+- **[44:25](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=44m25s)** - **Frau Abgeordnete Dr. Kirsten Kappe-Hornbostel (Bündnis 90/Die Grünen)**: Sie stellt die Frage nach der Art der Gesellschaft und betont, dass Pflege umfassender gedacht werden müsse, inklusive Prävention, Begegnung und niedrigschwelliger Unterstützung.
+- **[46:30](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=46m30s)** - **Frau Abgeordnete Dr. Kirsten Kappe-Hornbostel (Bündnis 90/Die Grünen)**: Sie spricht die Notwendigkeit an, Pflege auf Klimafolgen wie Hitzeschutz und Stromausfälle vorzubereiten.
+- **[46:53](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=46m53s)** - **Frau Abgeordnete Dr. Kirsten Kappe-Hornbostel (Bündnis 90/Die Grünen)**: Sie fordert einen solidarischen Finanzausgleich zwischen sozialer und privater Pflegeversicherung, Bundesmittel und begrenzte Eigenanteile.
+- **[47:12](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=47m12s)** - **Frau Abgeordnete Dr. Kirsten Kappe-Hornbostel (Bündnis 90/Die Grünen)**: Sie plädiert für eine "seelenfreundliche Pflege", die Würde, Nähe, Selbstbestimmung und Teilhabe ermöglicht.
+- **[48:05](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=48m5s)** - **Frau Abgeordnete Evelyn Schätz (Die Linke)**: Sie berichtet von hunderten Mails, die Angst vor der Reform zeigen und die Erhaltung der Verhinderungspflege fordern.
+- **[48:59](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=48m59s)** - **Frau Abgeordnete Evelyn Schätz (Die Linke)**: Sie kritisiert, dass das Überbrückungsbudget und das Sozialraumbudget an Notdienste und anerkannte Angebote gebunden sind, was die Bezahlung von Freunden oder Nachbarn unmöglich mache und Millionen pflegende Angehörige unter Generalverdacht stelle.
+- **[50:12](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=50m12s)** - **Frau Abgeordnete Evelyn Schätz (Die Linke)**: Sie thematisiert den Wegfall des Umwandlungsanspruchs auf Pflegeleistungen und die Kürzung des Entlastungsbetrags für Pflegegrad 1, was zu zusätzlichen Kosten oder mehr Pflegearbeit führe.
+- **[51:26](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=51m26s)** - **Frau Abgeordnete Evelyn Schätz (Die Linke)**: Sie fordert, dass eine Stärkung der Pflege die Menschen stärke, die sie leisten, und dass dies finanziell tragbar sein müsse.
+- **[51:57](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=51m57s)** - **Frau Abgeordnete Emmi Zöllner (CDU/CSU)**: Sie betont die Notwendigkeit, die Pflegereform "sensibel und mutig" anzugehen und die Unterstützung für Familien mit Kindern mit Behinderung zu gewährleisten.
+- **[52:24](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=52m24s)** - **Frau Abgeordnete Emmi Zöllner (CDU/CSU)**: Sie erklärt, dass das System geändert werde, um eine zielgenauere Unterstützung zu ermöglichen, was nicht bedeute, dass Menschen weniger Pflege erhalten.
+- **[53:37](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=53m37s)** - **Frau Abgeordnete Emmi Zöllner (CDU/CSU)**: Sie spricht die Notwendigkeit an, das Verhinderungsbudget für Familien mit besonderen Herausforderungen anzuschauen, insbesondere für Familien mit behinderten Kindern, für die es keine passgenauen Angebote gäbe.
+- **[54:49](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=54m49s)** - **Zwischenfrage aus den Reihen der Linksfraktion durch Evelyn Schätz**: Sie fragt, ob das Abschaffen der Leistungen für Pflegegrad 1 bei gleichzeitiger Forderung nach längerem aktiven Verbleib zu Hause keinen Widerspruch darstelle.
+- **[55:17](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=55m17s)** - **Frau Abgeordnete Emmi Zöllner (CDU/CSU)**: Sie erläutert, dass die Pflegeeinstufung vom medizinischen Dienst vorgenommen werde und auf wissenschaftlicher Grundlage basiere, um eine zielgenaue Unterstützung zu gewährleisten.
+- **[59:36](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=59m36s)** - **Frau Abgeordnete Emmi Zöllner (CDU/CSU)**: Sie betont, dass die Pflegebegleitung darauf abzielt, ein Netzwerk aufzubauen, das niemanden durchfallen lässt, und dass dies bereits in Kommunen funktioniere. Sie hebt die Bedeutung der Strukturreformkommission hervor.
+- **[01:01:12](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h1m12s)** - **Frau Abgeordnete Karina Schießl (AfD)**: Sie kritisiert die Bundesregierung dafür, dass sie den Pflegebedürftigen das Recht auf eine angemessene Versorgung abspricht, während gleichzeitig Geld für internationale Projekte bereitgestellt wird.
+- **[01:03:01](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h3m1s)** - **Frau Abgeordnete Karina Schießl (AfD)**: Sie rät Pflegebedürftigen, ihren Antrag noch dieses Jahr zu stellen, um von der alten Gesetzeslage zu profitieren, da die Bundesregierung an der falschen Stelle spare.
+- **[01:04:15](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h4m15s)** - **Abgeordneter Dr. Christoph Pantazis (SPD)**: Er betont, dass die Reform die Grundfesten des gesellschaftlichen Zusammenhalts berühre und eine Frage der sozialen Gerechtigkeit sei. Er weist darauf hin, dass die Reform kein bloßes Sparprogramm sein dürfe.
+- **[01:05:35](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h5m35s)** - **Abgeordneter Dr. Christoph Pantazis (SPD)**: Er hebt hervor, dass im Kabinettsverfahren bereits entscheidende Verbesserungen erzielt wurden, wie der Erhalt des Pflegegeldes und der Rentenbeiträge für pflegende Angehörige.
+- **[01:06:10](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h6m10s)** - **Abgeordneter Dr. Christoph Pantazis (SPD)**: Er betont den weiteren Beratungsbedarf bei der Verhinderungspflege und fordert faire Übergangsregelungen, damit es keinen abrupten Bruch bei Pflegearrangements gibt.
+- **[01:07:07](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h7m7s)** - **Abgeordneter Dr. Christoph Pantazis (SPD)**: Er fordert eine gerechte Finanzierung, einschließlich eines Ausgleichs zwischen sozialer und privater Pflegeversicherung.
+- **[01:07:42](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h7m42s)** - **Abgeordneter Dr. Christoph Pantazis (SPD)**: Er bezeichnet das heutige Gesetz als einen ersten Baustein und kündigt an, dass bis Juli 2027 eine grundlegende Strukturreform verabschiedet werden soll.
+- **[01:08:09](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h8m9s)** - **Abgeordneter Dr. Christoph Pantazis (SPD)**: Er schließt mit der Forderung, dass gute Pflege wirtschaftliche Vernunft, soziale Gerechtigkeit und Verlässlichkeit brauche und die Stärke des Sozialstaates darin liege, ob Menschen auf seine Solidarität vertrauen können.
+- **[01:08:41](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h8m41s)** - **Abgeordneter Martin Sichert (AfD)**: Er kritisiert den Bundesminister als ungeeignet und fordert eine Nachbesserung bei einem Gesetz, das Unternehmen massiv die Grundlage für die Alltagsversorgung entziehe.
+- **[01:09:10](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h9m10s)** - **Abgeordneter Martin Sichert (AfD)**: Er warnt vor Kündigungen und Unsicherheit für Pflegebedürftige, da die Gesetzesentwürfe oft nicht wie geplant umgesetzt würden.
+- **[01:11:40](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h11m40s)** - **Abgeordneter Martin Sichert (AfD)**: Er fordert von der Regierung, vernünftige Reformen zu machen und nicht nur Entwürfe einzureichen, bei denen der Minister selbst Nachbesserungen ankündigt.
+- **[01:12:08](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h12m8s)** - **Abgeordneter Dr. Hendrik Strack (CDU/CSU)**: Er vergleicht die Situation mit einer schwierigen Diagnose, die offen angesprochen werden müsse. Er erklärt, dass die Pflegeversicherung auf Pump lebe und keine Spielräume mehr habe.
+- **[01:13:08](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h13m8s)** - **Abgeordneter Dr. Hendrik Strack (CDU/CSU)**: Er betont, dass die private Pflegearbeit der Angehörigen die größte und unausgesprochene Finanzierung des Pflegesystems sei, aber nicht unbegrenzt haltbar.
+- **[01:14:07](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h14m7s)** - **Abgeordneter Dr. Hendrik Strack (CDU/CSU)**: Er bekräftigt, dass pflegende Angehörige entlastet werden müssen, und dass das Pflegeneuordnungsgesetz zwar Einschnitte enthalte, aber ein dringend notwendiger Schritt zur Stabilisierung sei, bis Strukturreformen im nächsten Jahr kommen.
+- **[01:14:49](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h14m49s)** - **Abgeordneter Dr. Hendrik Strack (CDU/CSU)**: Er nennt drei Leitgedanken für zukünftige Strukturreformen: früh statt spät (Prävention und Reha), Pflege und Beruf vereinbar machen, und Hilfen leichter zugänglich machen.
+- **[01:16:12](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h16m12s)** - **Abgeordneter Dr. Hendrik Strack (CDU/CSU)**: Er schließt mit der Aussage, dass die Pflegeversicherung nur generationenfest werde durch ein neues gesellschaftliches Verständnis der Aufgaben von Versicherung, Gesellschaft und Angehörigen.
+- **[01:16:41](https://www.youtube.com/watch?v=VJLbyK7Ha-4&t=1h16m41s)** - **Präsidentin**: Die Debatte wird beendet und die Überweisung der Vorlagen an die zuständigen Ausschüsse vorgeschlagen.
