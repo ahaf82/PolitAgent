@@ -26,6 +26,19 @@
     "processed_at": "2026-11-07T08:04:49.059342"
   },
   {
+    "id": "Gl6K9Dkgv3A",
+    "title": "105th Session on 11/05/2026. Agenda Item 16: Juvenile Delinquency, Child and Youth Protection",
+    "session": 105,
+    "date": "2026-11-05",
+    "top": "16",
+    "topic": "Jugendkriminalität und Jugendschutz",
+    "summary_path": "protocols/session_105/16_juvenile_delinquency_child_and_youth_protection.md",
+    "documents_path": "protocols/session_105/16_juvenile_delinquency_child_and_youth_protection_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=Gl6K9Dkgv3A",
+    "processed_at": "2026-11-09T08:03:23.930790"
+  },
+  {
     "id": "6gq_FkMpnf8",
     "title": "105. Sitzung vom 05.11.2026. TOP 14: Energiesicherheit - Diesel-Abkommen für Deutschland",
     "session": 105,
@@ -4132,6 +4145,58 @@
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
   },
   {
+    "id": "MSU-JoXcJmA",
+    "title": "105th Session of 11/05/2026. Agenda Item CP 5, Agenda Item 8: International Criminal Law, Interna...",
+    "session": 105,
+    "date": "N/A",
+    "top": "CP",
+    "topic": "Internationales Strafrecht stärken: Partnerschaften mit Demokratien zum Schutz des internationalen Strafgerichtshofes und zur Stärkung des Völkerrechts",
+    "summary_path": "protocols/session_105/cp_105th_session_of_11_05_2026_agenda_item_cp_5_agend.md",
+    "documents_path": "protocols/session_105/cp_105th_session_of_11_05_2026_agenda_item_cp_5_agend_documents.json",
+    "speakers_path": "protocols/session_105/cp_105th_session_of_11_05_2026_agenda_item_cp_5_agend_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=MSU-JoXcJmA",
+    "processed_at": "2026-11-09T08:05:47.213713"
+  },
+  {
+    "id": "C9BdGRaHoas",
+    "title": "105th Session of 11/05/2026. Agenda Item 9: 15 Years Since the Discovery of the NSU",
+    "session": 105,
+    "date": "N/A",
+    "top": "9",
+    "topic": "15 Jahre nach Aufdeckung des NSU: Gedenken, Verantwortung und heutige Bedrohung",
+    "summary_path": "protocols/session_105/9_105th_session_of_11_05_2026_agenda_item_9_15_years.md",
+    "documents_path": "protocols/session_105/9_105th_session_of_11_05_2026_agenda_item_9_15_years_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=C9BdGRaHoas",
+    "processed_at": "2026-11-09T08:03:52.389455"
+  },
+  {
+    "id": "tv_7_RGFoEA",
+    "title": "105th Session from 11/05/2026. Agenda Item 9: 15 Years Since the Discovery of the NSU",
+    "session": 105,
+    "date": "N/A",
+    "top": "9",
+    "topic": "15 Jahre seit der Aufdeckung des NSU",
+    "summary_path": "protocols/session_105/9_105th_session_from_11_05_2026_agenda_item_9_15_yea.md",
+    "documents_path": "protocols/session_105/9_105th_session_from_11_05_2026_agenda_item_9_15_yea_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=tv_7_RGFoEA",
+    "processed_at": "2026-11-09T08:04:19.771711"
+  },
+  {
+    "id": "NC2qVDkFbf0",
+    "title": "105th Session of 11/05/2026. Supplementary Item 5, Agenda Item 8: International Criminal Law, Int...",
+    "session": 105,
+    "date": "N/A",
+    "top": "8",
+    "topic": "Internationales Strafrecht und der Schutz von Demokratien",
+    "summary_path": "protocols/session_105/8_105th_session_of_11_05_2026_supplementary_item_5_a.md",
+    "documents_path": "protocols/session_105/8_105th_session_of_11_05_2026_supplementary_item_5_a_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=NC2qVDkFbf0",
+    "processed_at": "2026-11-09T08:04:45.798180"
+  },
+  {
     "id": "43T1pK0fCO0",
     "title": "105th Session of 11/05/2026. Agenda Item 18: Homelessness, People without Health Insurance",
     "session": 105,
@@ -4143,6 +4208,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=43T1pK0fCO0",
     "processed_at": "2026-11-07T08:03:49.262261"
+  },
+  {
+    "id": "wF3EU7XKmiE",
+    "title": "105th Session from 11/05/2026. Agenda Item 16: Juvenile delinquency, child and youth protection",
+    "session": 105,
+    "date": "N/A",
+    "top": "16",
+    "topic": "Jugendkriminalität, Kinder- und Jugendschutz",
+    "summary_path": "protocols/session_105/16_105th_session_from_11_05_2026_agenda_item_16_juven.md",
+    "documents_path": "protocols/session_105/16_105th_session_from_11_05_2026_agenda_item_16_juven_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=wF3EU7XKmiE",
+    "processed_at": "2026-11-09T08:01:23.537082"
   },
   {
     "id": "mJBqubBmuMQ",

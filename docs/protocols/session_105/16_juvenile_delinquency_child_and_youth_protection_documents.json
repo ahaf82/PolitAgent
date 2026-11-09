@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/XXXXX",
+      "title": "N/A",
+      "url": "N/A",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte im Deutschen Bundestag am 05.11.2026 zum Thema 'Jugendkriminalität, Kinder- und Jugendschutz' befasste sich mit zwei Anträgen der AfD-Fraktion. Eine namentliche Abstimmung fand nicht statt. Der weitere Verfahrensstand ist, dass die Vorlagen zur weiteren Beratung an die zuständigen Ausschüsse überwiesen werden, wobei die CDU/CSU eine eigene Studie zur Jugendkriminalität und Strafmündigkeit plant und die Koalitionsfraktionen die Erarbeitung eines Gesamtkonzepts zur Reduzierung von Kinder- und Jugendgewalt durch einen Expertenrat ankündigen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

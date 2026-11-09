@@ -1,0 +1,32 @@
+{
+  "synthesis": "Die externen Stellungnahmen der identifizierten Abgeordneten zum Thema \"Internationales Strafrecht stärken\" spiegeln eine klare politische Spaltung wider. Während die Grünen und die Linke eine konsequente Anwendung des Völkerrechts und eine unerschütterliche Unterstützung des Internationalen Strafgerichtshofs (IStGH) fordern und die Sanktionen der USA scharf verurteilen, betont die CDU/CSU die Bedeutung des Völkerrechts und drängt auf die Aufhebung der US-Sanktionen, wobei jedoch eine stärkere Betonung auf die Beziehungen zu den USA liegt. Die AfD kritisiert die Anträge als ideologisch und fordert eine stärkere Fokussierung auf nationale Interessen, während sie die Effektivität internationaler Institutionen in Frage stellt. Die SPD unterstützt einen gemeinsamen Antrag mit der Union zur Stärkung des Völkerrechts, kritisiert die US-Sanktionen und betont die Notwendigkeit deutscher Handlungsfähigkeit.",
+  "sources": [
+    {
+      "name": "Katharina Dröge",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dröge vertritt eine klare Haltung zur Stärkung des internationalen Strafrechts und Völkerrechts, wobei sie die USA-Sanktionen gegen den IStGH verurteilt und die Notwendigkeit betont, die EU-Blocking-Verordnung anzuwenden. Sie setzt sich für eine aktive Rolle Deutschlands bei der Durchsetzung von Haftbefehlen ein.",
+      "source_title": "Fachtexte der Grünen Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Leere Reißner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Reißner kritisiert den Koalitionsantrag als zu zögerlich und fordert die Einbeziehung der EU-Blocking-Verordnung zur Abwehr von US-Sanktionen gegen den IStGH. Sie bemängelt eine Ungleichbehandlung im Völkerrecht und setzt sich für die konsequente Anwendung von Haftbefehlen ein.",
+      "source_title": "IStGH schützen: Völkerrecht muss für alle gelten",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jürgen Hart",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Hart betont die Bedeutung des Völkerrechts und Völkerstrafrechts als Kern deutscher Außenpolitik. Er fordert die Bundesregierung auf, sich für die Aufhebung der US-Sanktionen gegen den IStGH einzusetzen und die Weiterentwicklung des Römischen Statuts voranzutreiben.",
+      "source_title": "Hardt: Frage nach Völkerrechtsbruch \"ist fruchtlose Diskussion\"",
+      "url": "https://www.youtube.com/watch?v=0j2O4sFf6o4",
+      "platform": "Social Media"
+    }
+  ]
+}
