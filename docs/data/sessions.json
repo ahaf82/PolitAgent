@@ -1,5 +1,57 @@
 [
   {
+    "id": "eTc5JVBABA0",
+    "title": "Fachgespräch zu den Auswirkungen von KI auf den Arbeitsmarkt",
+    "session": 0,
+    "date": "2026-11-09",
+    "top": "N/A",
+    "topic": "Fachgespräch zu den Auswirkungen von KI auf den Arbeitsmarkt",
+    "summary_path": "protocols/session_unknown/top_unknown_fachgespraech_zu_den_auswirkungen_von_ki_auf_den_a.md",
+    "documents_path": "protocols/session_unknown/top_unknown_fachgespraech_zu_den_auswirkungen_von_ki_auf_den_a_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=eTc5JVBABA0",
+    "processed_at": "2026-11-10T08:01:46.527287"
+  },
+  {
+    "id": "CGMflvSkwVc",
+    "title": "Zuschuss zu Stromnetzkosten grundsätzlich begrüßt",
+    "session": 0,
+    "date": "2026-11-09",
+    "top": "N/A",
+    "topic": "Zuschuss zu Stromnetzkosten grundsätzlich begrüßt",
+    "summary_path": "protocols/session_unknown/top_unknown_zuschuss_zu_stromnetzkosten_grundsaetzlich_begrues.md",
+    "documents_path": "protocols/session_unknown/top_unknown_zuschuss_zu_stromnetzkosten_grundsaetzlich_begrues_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=CGMflvSkwVc",
+    "processed_at": "2026-11-10T08:02:09.239541"
+  },
+  {
+    "id": "hlW6Kr4jyzo",
+    "title": "106. Sitzung vom 06.11.2026. TOP ZP 13: Aktuelle Stunde: Protestbewegung der Generation Z",
+    "session": 106,
+    "date": "2026-11-06",
+    "top": "ZP 13",
+    "topic": "Aktuelle Stunde: Protestbewegung der Generation Z",
+    "summary_path": "protocols/session_106/zp_13_aktuelle_stunde_protestbewegung_der_generation_z.md",
+    "documents_path": "protocols/session_106/zp_13_aktuelle_stunde_protestbewegung_der_generation_z_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=hlW6Kr4jyzo",
+    "processed_at": "2026-11-10T08:02:39.800074"
+  },
+  {
+    "id": "6DI_zdbSSwo",
+    "title": "106. Sitzung vom 06.11.2026. TOP 30: Buchhandel und Verlage in Deutschland",
+    "session": 106,
+    "date": "2026-11-06",
+    "top": "30",
+    "topic": "Buchhandel und Verlage in Deutschland",
+    "summary_path": "protocols/session_106/30_buchhandel_und_verlage_in_deutschland.md",
+    "documents_path": "protocols/session_106/30_buchhandel_und_verlage_in_deutschland_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=6DI_zdbSSwo",
+    "processed_at": "2026-11-10T08:03:32.260243"
+  },
+  {
     "id": "3kIcEeU2rsc",
     "title": "105. Sitzung vom 05.11.2026. TOP ZP 8: Aktuelle Stunde: Investitionsgipfel",
     "session": 105,
@@ -4195,6 +4247,32 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=NC2qVDkFbf0",
     "processed_at": "2026-11-09T08:04:45.798180"
+  },
+  {
+    "id": "HpgA4KzZogI",
+    "title": "105th Session of 11/05/2026. Agenda Item 7, Supplementary Items 3, 4: Nursing Reform Act",
+    "session": 105,
+    "date": "N/A",
+    "top": "7,",
+    "topic": "Gesetz zur Neuordnung der Pflegeversicherung",
+    "summary_path": "protocols/session_105/7_105th_session_of_11_05_2026_agenda_item_7_suppleme.md",
+    "documents_path": "protocols/session_105/7_105th_session_of_11_05_2026_agenda_item_7_suppleme_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=HpgA4KzZogI",
+    "processed_at": "2026-11-10T08:00:52.217390"
+  },
+  {
+    "id": "VJLbyK7Ha-4",
+    "title": "105th Session of 11/05/2026. Agenda Item 7, Supplementary Points 3, 4: Nursing Reform Act",
+    "session": 105,
+    "date": "N/A",
+    "top": "7,",
+    "topic": "Gesetz zur Neuordnung der Pflegeversicherung",
+    "summary_path": "protocols/session_105/7_105th_session_of_11_05_2026_agenda_item_7_suppleme.md",
+    "documents_path": "protocols/session_105/7_105th_session_of_11_05_2026_agenda_item_7_suppleme_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=VJLbyK7Ha-4",
+    "processed_at": "2026-11-10T08:01:23.477941"
   },
   {
     "id": "43T1pK0fCO0",
