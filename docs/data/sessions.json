@@ -1,5 +1,31 @@
 [
   {
+    "id": "fNzlkjx-iHk",
+    "title": "106. Sitzung, TOP 26: EU-Haus­halt",
+    "session": 106,
+    "date": "2026-11-09",
+    "top": "26",
+    "topic": "Der EU-Haushalt: Debatte über den Mehrjährigen Finanzrahmen (MFR)",
+    "summary_path": "protocols/session_106/26_106_sitzung_top_26_eu_haus_halt.md",
+    "documents_path": "protocols/session_106/26_106_sitzung_top_26_eu_haus_halt_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=fNzlkjx-iHk",
+    "processed_at": "2026-11-11T08:01:40.126591"
+  },
+  {
+    "id": "bYc12CDdd1k",
+    "title": "106. Sitzung, TOP 25: Ände­rung des StGB - Schutz vor K.-o.-Tropfen",
+    "session": 106,
+    "date": "2026-11-09",
+    "top": "25",
+    "topic": "Änderung des Strafgesetzbuchs – Stärkung des strafrechtlichen Schutzes vor K.-o.-Tropfen",
+    "summary_path": "protocols/session_106/25_106_sitzung_top_25_aende_rung_des_stgb_schutz_vor_.md",
+    "documents_path": "protocols/session_106/25_106_sitzung_top_25_aende_rung_des_stgb_schutz_vor__documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=bYc12CDdd1k",
+    "processed_at": "2026-11-11T08:01:14.600678"
+  },
+  {
     "id": "eTc5JVBABA0",
     "title": "Fachgespräch zu den Auswirkungen von KI auf den Arbeitsmarkt",
     "session": 0,
@@ -50,6 +76,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=6DI_zdbSSwo",
     "processed_at": "2026-11-10T08:03:32.260243"
+  },
+  {
+    "id": "26UhEm3A8a4",
+    "title": "106. Sitzung vom 06.11.2026. TOP 27, 28c: Weltklimakonferenz",
+    "session": 106,
+    "date": "2026-11-06",
+    "top": "27, 28c",
+    "topic": "Weltklimakonferenz",
+    "summary_path": "protocols/session_106/27_28c_weltklimakonferenz.md",
+    "documents_path": "protocols/session_106/27_28c_weltklimakonferenz_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=26UhEm3A8a4",
+    "processed_at": "2026-11-11T08:02:46.848645"
+  },
+  {
+    "id": "bSnwUIFK1dk",
+    "title": "106. Sitzung vom 06.11.2026. TOP 26: EU-Haushalt",
+    "session": 106,
+    "date": "2026-11-06",
+    "top": "26",
+    "topic": "EU-Haushalt",
+    "summary_path": "protocols/session_106/26_eu_haushalt.md",
+    "documents_path": "protocols/session_106/26_eu_haushalt_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=bSnwUIFK1dk",
+    "processed_at": "2026-11-11T08:03:13.671666"
+  },
+  {
+    "id": "BywXXGV3h98",
+    "title": "106. Sitzung vom 06.11.2026. TOP 25: Änderung des StGB - Schutz vor K.-o.-Tropfen",
+    "session": 106,
+    "date": "2026-11-06",
+    "top": "25",
+    "topic": "Änderung des Strafgesetzbuches – Stärkung des strafrechtlichen Schutzes vor K.-o.-Tropfen",
+    "summary_path": "protocols/session_106/25_aenderung_des_stgb_schutz_vor_k_o_tropfen.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=BywXXGV3h98",
+    "processed_at": "2026-11-11T08:03:42.345575"
   },
   {
     "id": "3kIcEeU2rsc",
@@ -4195,6 +4260,19 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "v0F8lR2j064",
+    "title": "106th Session of 11/06/2026. Agenda Items 28a, 28b: Climate Policy",
+    "session": 106,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "106. Sitzung am 06.11.2026: Klimapolitik und Militäremissionen",
+    "summary_path": "protocols/session_106/top_unknown_106th_session_of_11_06_2026_agenda_items_28a_28b_c.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=v0F8lR2j064",
+    "processed_at": "2026-11-11T08:00:49.512215"
   },
   {
     "id": "MSU-JoXcJmA",
