@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7860",
+      "title": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes über begleitende Haushaltsmaßnahmen 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7860&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/8637",
+      "title": "Antrag der AfD-Fraktion: Geplante Steuererhöhungen zurücknehmen und Bürokratie abbauen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8637&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Ausschussdrucksache 21/845/28",
+      "title": "Änderungsantrag der Fraktionen SPD, Bündnis 90/Die Grünen, FDP zur Zuckergetränkesteuer",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F845&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Anhörung befasste sich mit dem Gesetzentwurf der Bundesregierung über begleitende Haushaltsmaßnahmen 2027 und einem Antrag der AfD-Fraktion. Es wurden verschiedene Aspekte wie die Alkohol- und Zuckersteuer diskutiert, wobei Sachverständige Bedenken hinsichtlich der Auswirkungen auf Wirtschaft und Verbraucher äußerten.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

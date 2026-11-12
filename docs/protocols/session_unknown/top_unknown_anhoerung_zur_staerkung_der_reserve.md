@@ -1,0 +1,175 @@
+# Anhörung zur Stärkung der Reserve
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Anhörung zur Stärkung der Reserve
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=jsSVlyOBQXk)
+
+## Kurzzusammenfassung
+Die Anhörung befasste sich mit dem Entwurf eines Gesetzes zur Stärkung der Reserve, das eine Anpassung des Rechtsrahmens für die Verfügbarkeit und Heranziehung von Reservistinnen und Reservisten vorsieht. Kernpunkte der Debatte waren die Notwendigkeit einer verlässlichen und ausgebildeten Reserve für die Landes- und Bündnisverteidigung, die Balance zwischen militärischen Anforderungen und den Belangen von Arbeitgebern sowie die verfassungsrechtlichen Aspekte der verpflichtenden Heranziehung. Die Sachverständigen betonten die Wichtigkeit von funktionierenden Verwaltungsstrukturen, klarer Ausbildung und Fürsorge für die Reservisten, während sie auch auf mögliche Belastungen für die Wirtschaft und die Notwendigkeit unbürokratischer Verfahren hinwiesen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Verteidigungsausschussvorsitzende:** Eröffnung der Sitzung und Vorstellung des Tagesordnungspunktes sowie des Verfahrensablaufs.
+- **Dr. Nana Baidoo (Vizepräsident des Verbandes der Reservisten der Deutschen Bundeswehr e.V.):**
+  - Das Gesetz ist notwendig angesichts der sicherheitspolitischen Lage.
+  - Es bedarf funktionierender Verwaltungsstrukturen, klarer Zuständigkeiten, digitaler Prozesse und weniger Bürokratie, um die Freiwilligkeit in tatsächlichen Dienst umzusetzen.
+  - Die verpflichtende Heranziehung ist wichtig für Verlässlichkeit, Ausbildung und Qualifikationserhalt.
+  - Die Attraktivität des Reservedienstes muss durch Unterstützung der Arbeitgeber und Vermeidung beruflicher Nachteile erhalten bleiben.
+  - Eine angemessene Versorgung bei gesundheitlichen Schädigungen ist unerlässlich.
+- **Oberst a.D. Peter Haupt:**
+  - Das Gesetz ist ein wichtiger Beitrag zur Sicherheit und schafft den Rechtsrahmen für eine verlässliche Verfügbarkeit von Reservisten.
+  - Die Bedeutung der Reserve für Landes- und Bündnisverteidigung ist gestiegen.
+  - Verfahren müssen aufwandsarm, bürokratiearm, digital, flexibel und skalierbar sein.
+  - Reservistendienst muss verlässlich sein, um Teamzusammenhalt und Einsatzbereitschaft zu gewährleisten.
+  - Das Gesetz ist geeignet und angemessen zur Stärkung der Reserve.
+- **Professor Dr. Thomas Brockmeier (IHK Halle-Dessau):**
+  - Wehrfähigkeit und wirtschaftliche Wettbewerbsfähigkeit bedingen einander.
+  - Unternehmen müssen ihren Beitrag auch unter verschärfter Personalsituation leisten können.
+  - Militärische Einsatzbereitschaft und betriebliche Leistungsfähigkeit müssen im Frieden gemeinsam gesichert werden.
+  - Eine Balance zwischen Heranziehung und legitimen betrieblichen Interessen ist notwendig.
+  - Ausbildungs- und Übungsdienste sollten planbar sein und unverhältnismäßige betriebliche Härten vermieden werden.
+  - Unternehmen benötigen datenschutzkonforme Möglichkeiten zur Abfrage des Reservistenstatus.
+  - Der finanzielle Ausgleich muss den tatsächlichen Ausfall erfassen.
+- **Oberst Andre Wüstner (Bundesvorsitzender des Bundeswehrverbandes e.V.):**
+  - Die Stärkung der Reserve ist eine Kernforderung des Verbandes; in den letzten zehn Jahren sei zu wenig passiert.
+  - Ohne eine starke Reserve ist Landes- und Bündnisverteidigung nicht zu leisten.
+  - Das Gesetz muss die Verfügbarkeit erhöhen, den Dienst attraktiver machen und Bürokratie abbauen.
+  - Nachbesserungsbedarf besteht bei der Klarheit der Verpflichtungen, der Einheitlichkeit der Altersgrenzen und der Definition des Reservistenbegriffs.
+  - Mehr Verpflichtung muss mit mehr Fürsorge einhergehen, insbesondere bei der Versorgung bei Wehrdienstbeschädigung.
+- **Dr. Gunther Quidde (IHK Hanau-Gelnhausen-Schlüchtern):**
+  - Die Notwendigkeit mehr Reservisten zu generieren wird anerkannt; Unternehmen sind bereit, Reservisten abzustellen.
+  - Der Entwurf hat Schwächen bezüglich der Einbeziehung der Arbeitgeber und der Komplexität.
+  - Die Orientierung der Reservegesamtdienstdauer an der Vordienstzeit ist hinterfragenswert.
+  - Es bedarf einer Vereinfachung der Regelungen zu Rückstellungen und Unabkömmlichkeit.
+- **Lennart Armbrust (Rechtsanwalt):**
+  - Erhebliche verfassungsrechtliche Bedenken hinsichtlich der verpflichtenden Heranziehung zu Reservedienstleistungen nach Artikel 12a Grundgesetz.
+  - Die Heranziehung dürfe sich nicht auf eine frühere Selbstverpflichtung stützen.
+  - Die Regelungen verletzen den Grundsatz der Wehrgerechtigkeit, da sie eine Ungleichbehandlung darstellen.
+- **CDU/CSU-Fraktion:**
+  - Die rechtliche Verfügbarkeit allein schaffe keine tatsächliche Einsatzfähigkeit; Ausbildung, Qualität und Planung seien entscheidend.
+  - §18 des Gesetzesentwurfs überlässt die Heranziehung nicht dem Kommandeur nach Belieben, sondern unter bestimmten Bedingungen.
+  - Die Verfassungsmäßigkeit kann nur vom Verfassungsgericht geprüft werden.
+  - Die Abkehr von der doppelten Freiwilligkeit sei militärisch notwendig und rechtlich verhältnismäßig.
+  - Die Staffelung des Gesetzesentwurfs sei mit Blick auf militärische Erfordernisse und praktische Handhabbarkeit eine Herausforderung.
+- **AfD-Fraktion:**
+  - Die Reform ist dringend nötig, da die Bundeswehr noch hohle Strukturen und Friedenszeitregelungen aufweist.
+  - Reserveübungen seien oft nur Namen auf Karteikarten; die Reserve müsse für große und komplexe Aufgaben befähigt werden.
+  - Es bedarf einer Balance zwischen Wehrfähigkeit und Wettbewerbsfähigkeit der Wirtschaft.
+  - Mehrfache Verpflichtungen von mehreren Monaten sind für die Wirtschaft schwierig.
+  - Es besteht die Gefahr der Diskriminierung von Arbeitnehmern mit militärischer Vita.
+- **SPD-Fraktion:**
+  - Das Gesetz birgt das Risiko einer generellen Heranziehung von Reservisten aus dem zivilen Bereich.
+  - Fragen der Verfassungsmäßigkeit und Wehrgerechtigkeit sind angesichts möglicher Wiedereinführung der Wehrpflicht verschärft.
+  - Es wird eine Vereinheitlichung der Altersgrenzen und eine bessere Definition des Reservistenbegriffs gefordert.
+  - Eine starke Reserve erfordert das Zusammenspiel von Reservisten, Arbeitgebern und Streitkräften.
+  - Die Organisation, medizinische Versorgung und Ausbildung müssen angepasst werden, um höhere Einsatzbereitschaft zu erzielen.
+- **Bündnis 90/Die Grünen:**
+  - Eine starke Reserve setzt eine starke Wirtschaft voraus; die Belastung der Wirtschaft dürfe nicht zu groß sein.
+  - Die Arbeitgeberbeteiligung sei wichtig, aber die Pflichten für Arbeitgeber müssten hinterfragt werden.
+  - Es bedarf einer besseren Heranführung Ungedienter an die Bundeswehr und Vereinfachung bürokratischer Hürden.
+  - Die Reserve müsse neu gedacht werden, um mit großen Mengen umzugehen.
+  - Einheitlichkeit der Regeln sei für die Gesetzgebung zielführend.
+- **Die Linke:**
+  - Das Gesetz sei ein weiterer Schritt zu verpflichtenden Militärdiensten mit weitreichenden Eingriffen in die persönliche Freiheit.
+  - Grundlegende Fragen der Verfassungsmäßigkeit und Wehrgerechtigkeit würden aufgeworfen.
+  - Die Regelungen zur Dienstleistungsüberwachung und Datenerhebung seien datenschutzrechtlich problematisch und nicht verhältnismäßig.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Vorsitzende des Verteidigungsausschusses begrüßt die Sachverständigen und weist auf die Live-Übertragung und das Wortprotokoll hin. Der einzige Tagesordnungspunkt ist die öffentliche Anhörung zum Entwurf eines Gesetzes zur Stärkung der Reserve.
+- **[00:15](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=15s)** - **Begrüßung der Sachverständigen**: Vorstellung von Dr. Nana Baidoo, Oberst a.D. Peter Haupt, Professor Dr. Thomas Brockmeier, Oberst Andre Wüstner, Dr. Gunther Quidde und Lennart Armbrust.
+- **[02:10](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2m10s)** - **Verfahrensablauf**: Der Vorsitzende erläutert das Verfahren: Eingangsstatements der Sachverständigen (ca. 5 Minuten) gefolgt von Befragungsrunden der Fraktionen.
+- **[03:40](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=3m40s)** - **Zeitkontingente der Fraktionen**: CDU/CSU (20 Min.), AfD (14 Min.), SPD (12 Min.), Bündnis 90/Die Grünen (8 Min.), Die Linke (6 Min.).
+- **[04:15](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=4m15s)** - **Eingangsstatement Dr. Nana Baidoo**: Betont die Notwendigkeit des Gesetzes für Landes- und Bündnisverteidigung, die Notwendigkeit funktionierender Verwaltungsstrukturen, die Wichtigkeit der verpflichtenden Heranziehung und die Notwendigkeit, die Attraktivität des Reservedienstes zu erhalten und die Fürsorge zu gewährleisten.
+- **[09:18](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=9m18s)** - **Eingangsstatement Oberst a.D. Peter Haupt**: Sieht das Gesetz als wichtigen Beitrag zur Sicherheit und zur Stärkung der Reserve, hebt die gestiegene Bedeutung der Reserve für die Landes- und Bündnisverteidigung hervor und fordert aufwandsarme, digitale Verfahren.
+- **[13:08](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=13m8s)** - **Eingangsstatement Professor Dr. Thomas Brockmeier**: Unterstreicht die Wechselwirkung zwischen Wehrfähigkeit und wirtschaftlicher Wettbewerbsfähigkeit und betont die Notwendigkeit, Unternehmen nicht unverhältnismäßig zu belasten. Fordert planbare Dienste und klare Kriterien für Unabkömmlichstellung.
+- **[17:53](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=17m53s)** - **Eingangsstatement Oberst Andre Wüstner**: Bezeichnet die Stärkung der Reserve als Kernforderung und kritisiert mangelnden Fortschritt in den Vorjahren. Betont die Notwendigkeit einer starken Reserve für die Landes- und Bündnisverteidigung und fordert mehr Verpflichtung bei gleichermaßen mehr Fürsorge.
+- **[22:30](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=22m30s)** - **Eingangsstatement Dr. Gunther Quidde**: Anerkennt die Notwendigkeit mehr Reservisten und die Bereitschaft vieler Unternehmen. Kritisiert jedoch Schwächen im Entwurf bezüglich der Arbeitgeberbeteiligung und der Komplexität der Regelungen.
+- **[27:51](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=27m51s)** - **Eingangsstatement Lennart Armbrust**: Äußert erhebliche verfassungsrechtliche Bedenken bezüglich der verpflichtenden Heranziehung zu Reservedienstleistungen nach Artikel 12a Grundgesetz und dem Grundsatz der Wehrgerechtigkeit.
+- **[32:52](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=32m52s)** - **Erste Fragerunde (CDU/CSU)**: Kollegin Diana Herbstreuth fragt Oberst a.D. Haupt, ob die Abkehr von der doppelten Freiwilligkeit militärisch notwendig und rechtlich verhältnismäßig sei.
+- **[35:28](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=35m28s)** - **Antwort Oberst a.D. Peter Haupt**: Erklärt, dass die Abkehr von der reinen Freiwilligkeit angesichts der veränderten Sicherheitslage und der Notwendigkeit einer einsatzbereiten Reserve von Beginn an integraler Bestandteil aller Strukturen sei.
+- **[37:55](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=37m55s)** - **Frage der CDU/CSU zu Staffelung**: Frage nach der Bewertung des Stufenmodells, der praktischen Handhabbarkeit und Nachvollziehbarkeit.
+- **[38:30](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=38m30s)** - **Antwort Oberst a.D. Peter Haupt**: Beschreibt die Komplexität des Stufenmodells und äußert Bedenken bezüglich der Höchstaltersanhebung und der Vereinbarkeit mit dem Wehrpflichtgesetz.
+- **[41:41](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=41m41s)** - **Frage der CDU/CSU an Dr. Baidoo**: Frage zur Bewertung der zeitlichen Vorgaben für Heranziehungsbescheide und zur Planungssicherheit für Arbeitgeber und Reservisten.
+- **[42:57](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=42m57s)** - **Antwort Dr. Nana Baidoo**: Hält die Fristen für sehr kurz und betont die Notwendigkeit einer frühzeitigen und vernünftigen Kommunikation für alle Beteiligten.
+- **[44:07](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=44m7s)** - **Frage der CDU/CSU an Dr. Baidoo**: Frage zur Bewertung des Stufenmodells aus Sicht eines Reservisten.
+- **[44:15](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=44m15s)** - **Antwort Dr. Nana Baidoo**: Äußert Unverständnis für das Stufenmodell und plädiert für eine Regelung, die die Fähigkeiten und den Dienstzeitraum derjenigen höher bewertet, die am wertvollsten für die Bundeswehr sind.
+- **[45:21](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=45m21s)** - **Frage der CDU/CSU an Oberst a.D. Haupt**: Frage nach den Auswirkungen einer längeren Vorlaufzeit für Heranziehungsbescheide auf die militärische Planung und Reaktionsfähigkeit.
+- **[45:47](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=45m47s)** - **Antwort Oberst a.D. Peter Haupt**: Erklärt, dass jeder zusätzliche Tag in der Planung eine Einschränkung für die Truppe bedeutet, plädiert aber für eine leichte Erhöhung der Fristen, um die Interessen der Arbeitgeber besser zu berücksichtigen.
+- **[46:52](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=46m52s)** - **Frage der CDU/CSU an Dr. Baidoo**: Frage zur Bewertung der vorgesehenen finanziellen Entlastungen für Arbeitgeber.
+- **[47:28](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=47m28s)** - **Antwort Dr. Nana Baidoo**: Kritisiert die pauschale Entlastung und fordert eine Einzelfallbetrachtung, da der Wert eines Arbeitnehmers und die Schwierigkeit, ihn zu ersetzen, stark variieren.
+- **[48:20](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=48m20s)** - **Frage der CDU/CSU an Dr. Baidoo**: Frage zur Pauschale für kleine und mittlere Unternehmen und zur Schwelle für finanzielle Unterstützung.
+- **[49:16](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=49m16s)** - **Antwort Dr. Nana Baidoo**: Sieht eine Entlastung ab dem ersten Tag als sinnvoll an, plädiert für eine Schwelle von zwei Wochen und betont die Notwendigkeit der Unterstützung für KMU.
+- **[50:06](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=50m6s)** - **Frage der CDU/CSU an Oberst Haupt**: Frage zur Doppelassignierung von Reservisten in zivilen Bereichen und deren Kompetenzen in Krisenlagen.
+- **[51:12](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=51m12s)** - **Antwort Oberst a.D. Peter Haupt**: Beschreibt die Komplexität der Doppelassignierung und plädiert dafür, die Strukturen der Streitkräfte voll zu machen und sich auf militärische Verteidigung zu konzentrieren, anstatt Ausnahmen zu gewähren.
+- **[53:31](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=53m31s)** - **Erste Fragerunde (AfD)**: Herr Paul bedankt sich für die Reform, kritisiert jedoch die bisherige Praxis mit "Karteileichen" und fordert eine Reserve, die wirkliche Aufgaben erfüllen kann.
+- **[55:56](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=55m56s)** - **Frage der AfD an Prof. Brockmeier**: Frage zur Berücksichtigung der Stimme der Wirtschaft bei der Entscheidung über Abkömmlichkeit von Reservisten.
+- **[57:11](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=57m11s)** - **Antwort Prof. Dr. Thomas Brockmeier**: Wünscht sich eine Konkretisierung der Regelungen zur Abkömmlichkeit und betont den Zielkonflikt zwischen kurzfristiger Flexibilität der Truppe und Planbarkeit der Wirtschaft.
+- **[01:01:57](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h1m57s)** - **Zweite Frage der AfD an Prof. Brockmeier**: Frage zum Risiko der Diskriminierung von Bewerbern mit militärischer Vita und zum datenschutzrechtlichen Nachholbedarf.
+- **[01:07:18](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h7m18s)** - **Erste Fragerunde (SPD)**: Kollegin Claudia Moll fragt Oberst Andre Wüstner zur Definition des Reservistenbegriffs und zu den Altersgrenzen.
+- **[01:07:58](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h7m58s)** - **Antwort Oberst Andre Wüstner**: Sieht die Notwendigkeit einer Klarstellung des Reservistenbegriffs und eine Vereinheitlichung der Altersgrenzen.
+- **[01:11:03](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h11m3s)** - **Zweite Frage der SPD an Oberst Wüstner**: Frage zur finanziellen Absicherung und Nachbesserungsbedarf zur Stärkung der Attraktivität des Reservedienstes.
+- **[01:11:29](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h11m29s)** - **Antwort Oberst Andre Wüstner**: Fordert einen kompletten Neuansatz im Bereich der Fürsorge und Versorgung, einschließlich der Familienbetreuung.
+- **[01:12:34](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h12m34s)** - **Frage der SPD an Dr. Quidde und Prof. Brockmeier**: Frage nach gesonderten Regelungen für Reservisten im öffentlichen Dienst.
+- **[01:13:18](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h13m18s)** - **Antwort Dr. Gunther Quidde**: Sieht keine spezifischen Besonderheiten für den öffentlichen Dienst, fordert aber die gleichen Kriterien wie für die Wirtschaft.
+- **[01:13:58](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h13m58s)** - **Antwort Prof. Dr. Thomas Brockmeier**: Plädiert für Differenzierung innerhalb des öffentlichen Dienstes und sieht keine Notwendigkeit für Sonderregelungen bei Kommunalverwaltungen.
+- **[01:15:07](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h15m7s)** - **Erste Fragerunde (Bündnis 90/Die Grünen)**: Kollege Niklas Wagener dankt den Sachverständigen und betont die Notwendigkeit einer starken Reserve, die die Wirtschaft nicht übermäßig belastet.
+- **[01:16:09](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h16m9s)** - **Frage der Grünen an Dr. Quidde**: Frage, ob die geringe Zahl an Reservisten an der Widerspenstigkeit der Arbeitgeber oder an schlecht laufenden internen Prozessen der Bundeswehr lag.
+- **[01:17:07](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h17m7s)** - **Antwort Dr. Gunther Quidde**: Erklärt, dass Reservistenarbeit neu gedacht werden müsse und die Bundeswehr Probleme mit der Integration von Freiwilligen habe.
+- **[01:18:26](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h18m26s)** - **Zweite Frage der Grünen an Dr. Quidde**: Frage nach Änderungsanträgen zur Regelung der Unabkömmlichstellung und nach weiteren Vorschlägen seitens der Arbeitgeber.
+- **[01:19:35](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h19m35s)** - **Antwort Dr. Gunther Quidde**: Plädiert für Einheitlichkeit der Verfahren bei Rückstellungen und Unabkömmlichstellung und fordert eine Einzelfallbetrachtung.
+- **[01:21:08](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h21m8s)** - **Frage der Grünen an Dr. Quidde**: Frage nach Personengruppen, die das Gesetz am stärksten in den Blick nimmt und nach Defiziten für die Wirtschaft.
+- **[01:22:24](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h22m24s)** - **Antwort Dr. Gunther Quidde**: Benennt die gedienten Reservisten und diejenigen, die neu zur Bundeswehr wollen, aber an der Bürokratie scheitern, als betroffene Gruppen.
+- **[01:23:11](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h23m11s)** - **Erste Fragerunde (Die Linke)**: Kollege Ulrich Thoden kritisiert die weitreichenden Pflichten und Eingriffe in die persönliche Freiheit und fragt Lennart Armbrust nach der verfassungsrechtlichen Bewertung der Regelungen.
+- **[01:24:33](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h24m33s)** - **Antwort Lennart Armbrust**: Bekräftigt seine verfassungsrechtlichen Bedenken, insbesondere hinsichtlich der Wehrgerechtigkeit und der Heranziehung von Frauen.
+- **[01:25:37](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h25m37s)** - **Nachfrage der Linken an Lennart Armbrust**: Frage, ob eine Reservistin erfolgreich klagen könne.
+- **[01:26:03](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h26m3s)** - **Weitere Frage der Linken an Lennart Armbrust**: Frage zur Wehrgerechtigkeit im Kontext möglicher Wiedereinführung des Grundwehrdienstes und der zusätzlichen Reservedienstpflichten.
+- **[01:29:32](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h29m32s)** - **Zweite Fragerunde (CDU/CSU)**: Kollegin Diana Herbstreuth betont die freiwillige Entscheidung von Soldaten auf Zeit und Berufssoldaten und weist auf die hohe freiwillige Rücklaufquote bei der Prüfung der Bereitschaft zur Aufnahme des Reservedienstes hin.
+- **[01:34:22](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h34m22s)** - **Frage der CDU/CSU an Oberst Haupt**: Frage zu praktischen Herausforderungen und zur Flexibilität bei der Entscheidung über Mehrfachbindungen und Ausnahmen.
+- **[01:35:18](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h35m18s)** - **Antwort Oberst a.D. Peter Haupt**: Erklärt, dass pauschale Ausnahmen für ganze Berufsgruppen nachteilig seien und plädiert für eine Priorisierung und Flexibilität im Einzelfall.
+- **[01:39:45](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h39m45s)** - **Frage der CDU/CSU an Oberst Wüstner**: Frage zur Regelung von Mehrfachbindungen und zum Verlust von Personalpotenzial.
+- **[01:40:08](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h40m8s)** - **Antwort Oberst Andre Wüstner**: Stellt die Frage nach der Vereinheitlichung der Altersgrenzen und betont die Notwendigkeit von Fürsorge und Familienbetreuung.
+- **[01:41:42](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h41m42s)** - **Frage der CDU/CSU an Dr. Baidoo**: Frage zur Bedeutung der Möglichkeit, bis 68 freiwillig zu dienen, im Hinblick auf den Erhalt von Erfahrungen und Qualifikationen.
+- **[01:42:35](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h42m35s)** - **Antwort Dr. Nana Baidoo**: Hält eine Altersgrenze bei freiwilliger Tätigkeit für fehl am Platz und betont die Notwendigkeit, Menschen mit besonderen Fähigkeiten auch im höheren Alter heranziehen zu können.
+- **[01:44:05](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h44m5s)** - **Frage der CDU/CSU an Dr. Baidoo**: Frage zur Wichtigkeit der Anpassung zukünftiger Regelungen zu Soldatenentschädigung und -verwundungen.
+- **[01:44:43](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h44m43s)** - **Antwort Dr. Nana Baidoo**: Betont die Notwendigkeit, das Soldatenversorgungsgesetz zu überarbeiten und fordert eine vollständige Neuausrichtung im Bereich der Fürsorge und Versorgung, auch für Familien.
+- **[01:46:59](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h46m59s)** - **Frage der CDU/CSU an Dr. Baidoo**: Frage zur Signierung von Reservisten und zur Sinnhaftigkeit von Abgabepflichten, wenn der Bedarf unklar ist.
+- **[01:48:13](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h48m13s)** - **Antwort Dr. Nana Baidoo**: Sieht einen Zielkonflikt zwischen der Planbarkeit für Arbeitgeber und der Vermeidung von Diskriminierung. Schlägt vor, dass auch zivile Verbände wissen sollten, wer beordert wird.
+- **[01:49:41](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h49m41s)** - **Zweite Fragerunde (AfD)**: Herr Paul klärt den Begriff "Karteileichen" und fragt Prof. Brockmeier nach der Berücksichtigung der Stimme der Wirtschaft bei der Abkömmlichkeitsentscheidung.
+- **[01:51:10](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h51m10s)** - **Antwort Prof. Dr. Thomas Brockmeier**: Wünscht sich eine Konkretisierung der Regelungen zur Unabkömmlichkeit und betont die Wichtigkeit, das Ziel der Verteidigungsfähigkeit nicht aus den Augen zu verlieren.
+- **[01:53:06](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h53m6s)** - **Zweite Frage der AfD an Prof. Brockmeier**: Frage zum datenschutzrechtlichen Nachholbedarf.
+- **[01:54:13](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h54m13s)** - **Antwort Prof. Dr. Thomas Brockmeier**: Wünscht sich eine Klärung, damit Arbeitgeber ohne rechtliche Sorgen ihre Belegschaft befragen können und betont, dass ein Risiko der Diskriminierung nicht ausgeschlossen werden kann.
+- **[01:54:46](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h54m46s)** - **Zweite Frage der AfD an Oberst Wüstner**: Frage, ob die jahrzehntelange Verpflichtung junge Bewerber abschreckt.
+- **[01:55:30](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h55m30s)** - **Antwort Oberst Andre Wüstner**: Gibt zu, dass dies einzelne abschrecken könnte, verweist aber auf fehlende Zahlen und sagt, dass die Sorge um Diskriminierung ernst genommen werden müsse.
+- **[01:56:43](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h56m43s)** - **Dritte Frage der AfD an Oberst Wüstner**: Frage zum Vertrauen in den Dienstherrn und zur Bewusstheit junger Soldaten über die Tragweite ihrer Verpflichtung.
+- **[01:57:47](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h57m47s)** - **Antwort Oberst Andre Wüstner**: Verweist auf die Zusage des Ministers, dass im Karrierecenter über mögliche nachgelagerte Verpflichtungen aufgeklärt werde.
+- **[01:58:23](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h58m23s)** - **Vierte Frage der AfD an Oberst Wüstner**: Frage zu Reservisten mit Doppelmarkern und zum Fehlen einer Übersicht über ehrenamtliches Engagement.
+- **[01:59:27](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=1h59m27s)** - **Antwort Oberst Andre Wüstner**: Bestätigt die Notwendigkeit der Ausgestaltung des Themas Mehrfachassignierung und der Zurückstellung/Unabkömmlichstellung für Schlüsselpersonal in anderen Bereichen.
+- **[02:01:21](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h1m21s)** - **Dritte Frage der AfD an Prof. Brockmeier**: Frage zur finanziellen Belastung der Wirtschaft durch das Gesetz.
+- **[02:01:58](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h1m58s)** - **Antwort Prof. Dr. Thomas Brockmeier**: Sieht bei Verbleib des Entwurfs eine beachtliche Belastung und fordert, dass der finanzielle Ausgleich den tatsächlichen Ausfall erfassen muss.
+- **[02:02:21](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h2m21s)** - **Fünfte Frage der AfD an Oberst Haupt**: Frage zur Aufbewahrung von Ausrüstungsgegenständen und möglicher finanzieller Belastung für ehemalige Soldaten.
+- **[02:03:03](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h3m3s)** - **Erste Fragerunde (SPD)**: Kollegin Claudia Moll fragt Oberst Andre Wüstner nach organisatorischen, medizinischen und ausbildungsbezogenen Voraussetzungen für höhere Einsatzbereitschaft bei geänderten Altersgrenzen.
+- **[02:03:30](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h3m30s)** - **Antwort Oberst Andre Wüstner**: Betont die Notwendigkeit einer Stärkung des Sanitätsdienstes und eines umfassenden Verständnisses von Durchhaltefähigkeit und Fürsorge.
+- **[02:04:52](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h4m52s)** - **Zweite Frage der SPD an Oberst Wüstner**: Frage zur Vereinbarkeit von Familie und Beruf, insbesondere bei Ehepartnern, die beide Reservisten sind.
+- **[02:05:18](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h5m18s)** - **Antwort Oberst Andre Wüstner**: Bestätigt, dass der Bereich der Familienbetreuung noch auszugestalten ist und für alle Statusgruppen von Bedeutung ist.
+- **[02:06:21](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h6m21s)** - **Dritte Frage der SPD an Oberst Wüstner**: Frage zur Sicherheitsüberprüfung nach längerer Zeit ohne Übungen.
+- **[02:06:36](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h6m36s)** - **Antwort Oberst Andre Wüstner**: Sieht im bestehenden Rahmen des Überprüfungsgesetzes keine Herausforderung.
+- **[02:07:06](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h7m6s)** - **Zweite Fragerunde (Bündnis 90/Die Grünen)**: Kollege Niklas Wagener setzt bei der Aussage von Kollegin Herbstreuth an und hinterfragt die Sinnhaftigkeit der Sechsmonatsfrist.
+- **[02:09:12](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h9m12s)** - **Frage der Grünen an Dr. Quidde**: Frage zur leichteren und besseren Heranführung von Menschen im Berufsleben an die Bundeswehr.
+- **[02:09:47](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h9m47s)** - **Antwort Dr. Gunther Quidde**: Plädiert für einheitliche Regeln und Fristen, die von der jetzigen Funktionalität der Person abhängen.
+- **[02:11:05](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h11m5s)** - **Zweite Frage der Grünen an Dr. Quidde**: Frage zur Einheitlichkeit des Reservewehrdienstverhältnisses (§33).
+- **[02:11:31](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h11m31s)** - **Antwort Dr. Gunther Quidde**: Sieht einen Widerspruch zur Gesetzesbegründung und hält eine Prüfung im Sinne einer schlankeren Gesetzgebung für angebracht.
+- **[02:11:51](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h11m51s)** - **Dritte Frage der Grünen an Dr. Quidde**: Frage zur Gestaltung der Kompensation für Arbeitgeber.
+- **[02:12:25](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h12m25s)** - **Antwort Dr. Gunther Quidde**: Sieht Bedarf an formaler Einheitlichkeit bei der Berechnung und fordert eine einfache und übersichtliche Gestaltung der Kompensation.
+- **[02:14:07](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h14m7s)** - **Vierte Frage der Grünen an Oberst Wüstner**: Frage zur Regelung der Reserve in der Ukraine vor 2022 und zum Abgleich mit anderen Ländern.
+- **[02:14:17](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h14m17s)** - **Antwort Oberst Andre Wüstner**: Verweist auf die Unterstützung der Ukraine seit 2014 und empfiehlt einen Abgleich mit Schweden, Polen und den baltischen Staaten bezüglich Gesamtverteidigung.
+- **[02:15:26](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h15m26s)** - **Zweite Fragerunde (Die Linke)**: Kollege Ulrich Thoden geht erneut auf die weitreichenden Pflichten und Eingriffe in das Recht auf informationelle Selbstbestimmung ein und fragt Lennart Armbrust nach der verhältnismäßigen Datenerhebung und Dienstleistungsüberwachung.
+- **[02:16:45](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h16m45s)** - **Antwort Lennart Armbrust**: Hält die Regelungen für nicht verhältnismäßig, insbesondere für Personen, die nur kurzzeitig dienten oder zukünftig zum Grundwehrdienst herangezogen werden könnten.
+- **[02:18:25](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h18m25s)** - **Nachfrage der Linken an Lennart Armbrust**: Vergleich mit SEG und mögliche Verfassungsbedenken bei der Überprüfung.
+- **[02:19:16](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h19m16s)** - **Frage der Linken an Oberst Wüstner**: Frage zum Datenschutz.
+- **[02:19:24](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h19m24s)** - **Antwort Oberst Andre Wüstner**: Sieht aktuell keine Herausforderung im Bereich des Datenschutzes.
+- **[02:19:31](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h19m31s)** - **Letzte Frage der Linken an Lennart Armbrust**: Frage zur handwerklichen Sorgfalt der Bundesregierung bei der Ausgestaltung des Gesetzes und zu Inkonsistenzen.
+- **[02:20:03](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h20m3s)** - **Antwort Lennart Armbrust**: Kritisiert die unnötige Kompliziertheit und mangelnde Vereinheitlichung der Regelungen.
+- **[02:21:37](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h21m37s)** - **Abschlussbemerkung des Vorsitzenden**: Dank an alle Beteiligten für die konzentrierte Beratung und die Anregung offener Fragen.
+- **[02:22:04](https://www.youtube.com/watch?v=jsSVlyOBQXk&t=2h22m4s)** - **Schluss der Sitzung**: Der Vorsitzende bedankt sich und wünscht einen schönen Tag.
