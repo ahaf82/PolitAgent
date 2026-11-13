@@ -1,5 +1,31 @@
 [
   {
+    "id": "BexVWKltp6U",
+    "title": "107th Session on 11/11/2026. Agenda Item ZP 2: Bundestag New Construction Projects",
+    "session": 107,
+    "date": "2026-11-11",
+    "top": "ZP 2",
+    "topic": "Neubauprojekte des Deutschen Bundestages",
+    "summary_path": "protocols/session_107/zp_2_bundestag_new_construction_projects.md",
+    "documents_path": "protocols/session_107/zp_2_bundestag_new_construction_projects_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=BexVWKltp6U",
+    "processed_at": "2026-11-13T08:01:20.940078"
+  },
+  {
+    "id": "AfcJQnBvouE",
+    "title": "107th Session on 11/11/2026. Agenda Item 2: Question Time",
+    "session": 107,
+    "date": "2026-11-11",
+    "top": "2",
+    "topic": "Fragestunde",
+    "summary_path": "protocols/session_107/2_question_time.md",
+    "documents_path": "protocols/session_107/2_question_time_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=AfcJQnBvouE",
+    "processed_at": "2026-11-13T08:03:45.737255"
+  },
+  {
     "id": "fNzlkjx-iHk",
     "title": "106. Sitzung, TOP 26: EU-Haus­halt",
     "session": 106,
@@ -4260,6 +4286,45 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "PfCnK1aXZ7A",
+    "title": "107th Session of 11/11/2026. Agenda Item ZP 1: Current Affairs Debate: Denigration of the State a...",
+    "session": 107,
+    "date": "N/A",
+    "top": "ZP",
+    "topic": "Debatte zur Herabwürdigung des Staates und seiner Symbole",
+    "summary_path": "protocols/session_107/zp_107th_session_of_11_11_2026_agenda_item_zp_1_curre.md",
+    "documents_path": "protocols/session_107/zp_107th_session_of_11_11_2026_agenda_item_zp_1_curre_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=PfCnK1aXZ7A",
+    "processed_at": "2026-11-13T08:03:11.775084"
+  },
+  {
+    "id": "1yjwsWy1hFA",
+    "title": "107th Session of 11/11/2026. Agenda Item SP 3: Education Funding - Ban on Cooperation",
+    "session": 107,
+    "date": "N/A",
+    "top": "SP",
+    "topic": "Bildungsfinanzierung sichern – Kooperationsverbot abschaffen",
+    "summary_path": "protocols/session_107/sp_107th_session_of_11_11_2026_agenda_item_sp_3_educa.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=1yjwsWy1hFA",
+    "processed_at": "2026-11-13T08:00:45.758176"
+  },
+  {
+    "id": "5ghrVaGDurA",
+    "title": "107th Session of 11/11/2026. Agenda Item 3: Orange Day - Elimination of Violence Against Women",
+    "session": 107,
+    "date": "N/A",
+    "top": "3",
+    "topic": "Orange Day – Gewalt gegen Frauen stoppen",
+    "summary_path": "protocols/session_107/3_107th_session_of_11_11_2026_agenda_item_3_orange_d.md",
+    "documents_path": "protocols/session_107/3_107th_session_of_11_11_2026_agenda_item_3_orange_d_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=5ghrVaGDurA",
+    "processed_at": "2026-11-13T08:01:53.815722"
   },
   {
     "id": "v0F8lR2j064",
@@ -8546,6 +8611,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=0daSzsitsSs",
     "processed_at": "2026-11-12T08:05:52.625571"
+  },
+  {
+    "id": "7bSqv0ru_DM",
+    "title": "31. Sitzung des Ausschusses für Kultur und Medien",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "31. Sitzung des Ausschusses für Kultur und Medien",
+    "summary_path": "protocols/session_unknown/top_unknown_31_sitzung_des_ausschusses_fuer_kultur_und_medien.md",
+    "documents_path": "protocols/session_unknown/top_unknown_31_sitzung_des_ausschusses_fuer_kultur_und_medien_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_31_sitzung_des_ausschusses_fuer_kultur_und_medien_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=7bSqv0ru_DM",
+    "processed_at": "2026-11-13T08:04:17.610554"
   },
   {
     "id": "vHNXQug-Frc",

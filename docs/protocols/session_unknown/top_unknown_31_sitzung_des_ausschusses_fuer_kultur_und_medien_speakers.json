@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die Debatte im Ausschuss für Kultur und Medien des Bundestages spiegelte sich in den externen Äußerungen der Abgeordneten wider, wobei der Kampf gegen Antisemitismus und die Erinnerung an die NS-Vergangenheit im Vordergrund standen. Die Abgeordneten betonten die Notwendigkeit, Antisemitismus in allen Facetten zu bekämpfen und jüdisches Leben in Deutschland zu schützen. Die AfD forderte ein härteres Vorgehen gegen linken Antisemitismus und kritisierte die Rolle von Kultureinrichtungen. Die SPD und die Grünen betonten die Bedeutung von Prävention und Bildung sowie die Notwendigkeit, Antisemitismus auch in den eigenen Reihen zu bekämpfen. Die CDU/CSU plädierte für härtere Strafen und eine konsequentere Ausländerpolitik im Kampf gegen Antisemitismus. Die Linke verurteilte Boykottaktionen und thematisierte die Notwendigkeit, die Debatte über das Existenzrecht Israels differenziert zu führen.",
+  "sources": [
+    {
+      "name": "Dr. Wolfram Weimer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Als Staatsminister für Kultur und Medien betont Dr. Wolfram Weimer die Bedeutung des Gedenkens und die Rolle von Kultureinrichtungen im Kampf gegen Antisemitismus. Er wurde am 11. November 1964 in Gelnhausen geboren und ist verheiratet.",
+      "source_title": "Lebenslauf von Wolfram Weimer | Kulturstaatsminister - Der Beauftragte der Bundesregierung für Kultur und Medien",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Katharina von Schnurbein",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Dr. Katharina von Schnurbein war die erste EU-Koordinatorin zur Bekämpfung des Antisemitismus und zur Förderung jüdischen Lebens. Sie erhielt ein Ehrendoktorat der Ben-Gurion-Universität des Negev. Sie wurde 1973 in Bayern geboren und hat vier Kinder.",
+      "source_title": "Katharina von Schnurbein - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Katharina_von_Schnurbein",
+      "platform": "Website"
+    },
+    {
+      "name": "Wendorf (AfD)",
+      "party": "AfD",
+      "found": false,
+      "statement": "Im Zusammenhang mit der AfD-Forderung nach einem härteren Vorgehen gegen linken Antisemitismus wird Herr Wendorf als Redner genannt. Die AfD-Fraktion fordert ein härteres Vorgehen gegen linken Antisemitismus und warnt, dass dieser gesellschaftsfähig zu werden drohe.",
+      "source_title": "AfD fordert härteres Vorgehen gegen linken Antisemitismus - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Martin Rabanus",
+      "party": "SPD",
+      "found": false,
+      "statement": "Martin Rabanus, Sprecher für Kultur und Medien der SPD-Bundestagsfraktion, betont die Notwendigkeit klarer Regeln im Musikbereich und die Bedeutung des Schutzes kreativer Leistung. Er ist seit 2013 Mitglied des Deutschen Bundestages.",
+      "source_title": "Martin Rabanus | SPD-Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Marlene Schönberger",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Marlene Schönberger ist zuständig für Antisemitismusbekämpfung und die Förderung jüdischen Lebens in ihrer Fraktion. Sie betont die Notwendigkeit, dass politische Bildungsarbeit gegen Antisemitismus gestärkt werden muss und fordert die zügige Neubesetzung des Postens des Antisemitismusbeauftragten.",
+      "source_title": "Antisemitismusbeauftragter: Grüne fordern neuen Antisemitismusbeauftragten von Bundesregierung | DIE ZEIT",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/antisemitismusbeauftragter-bundesregierung-gruene-marlene-schoenberger",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ramelo (Die Linke)",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Die Linke betont die Notwendigkeit, Boykottaktionen zu verurteilen und die Frage des Existenzrechts Israels kritisch zu beleuchten. Sie erkennen die Schwierigkeit an, Debatten zu führen, ohne sofort Antisemitismusvorwürfe zu ernten. Die Partei hat sich auf Landesebene auf ihre Parteibeschlüsse zu Antisemitismus und Rassismus verpflichtet.",
+      "source_title": "Gemeinsame Erklärung der neuen Linksfraktion - Die Linke Fraktion im Abgeordnetenhaus von Berlin",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Klein (CDU/CSU)",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Klein spricht sich für härtere Strafen bei Antisemitismus und Terrorunterstützung aus und fordert die Einstufung von Antisemitismus als besonders schwerer Fall der Volksverhetzung. Die Union fordert zudem, dass Personen mit deutscher und einer weiteren Staatsangehörigkeit den deutschen Pass verlieren können, wenn antisemitische Einstellungen festgestellt wurden.",
+      "source_title": "Antisemitismus: CDU/CSU für härtere Strafen - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
