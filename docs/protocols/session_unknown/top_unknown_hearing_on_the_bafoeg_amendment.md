@@ -1,0 +1,154 @@
+# Anhörung zum BAföG-Änderungsgesetz
+
+## Sitzungs-Metadaten
+- **Sitzung:** 0. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** N/A
+- **Originaltitel:** Hearing on the BAföG Amendment
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=62sPPFuyfKc)
+
+## Kurzzusammenfassung
+Bei der Anhörung des Ausschusses für Bildung, Forschung und Technikfolgeabschätzung am [Datum einfügen] wurde der Gesetzentwurf der Bundesregierung zur Änderung des Bundesausbildungsförderungsgesetzes (BAföG) sowie entsprechende Änderungsanträge von Bündnis 90/Die Grünen und der AfD diskutiert. Die Sachverständigen stellten die Notwendigkeit der BAföG-Novelle heraus, äußerten aber auch Kritikpunkte bezüglich der Geschwindigkeit der Umsetzung, der Höhe der Erhöhungen und der strukturellen Vereinfachung des Verfahrens. Hauptaugenmerk lag auf der Erhöhung der Bedarfssätze, der Wohnkostenpauschale, der Freibeträge sowie auf der Digitalisierung und Bürokratieabbau.
+
+## Kernaussagen und Positionen der Fraktionen
+- **Koalitionsfraktionen (implizit durch Regierungsvorlage und Entschließungsantrag der Grünen):**
+  - Das BAföG soll höher, einfacher und digitaler werden, um mehr junge Menschen zu erreichen.
+  - Erhöhung des Grundbedarfs in Richtung Existenzminimum.
+  - Anhebung der Wohnkostenpauschale.
+  - Erhöhung der Freibeträge.
+  - Umstellung auf BAföG digital zur Vereinfachung und Effizienzsteigerung.
+  - Streichung des Leistungsnachweises zur Entbürokratisierung.
+- **CDU/CSU:**
+  - Zustimmung zu den grundlegenden Anpassungen, aber Forderung nach mehr Tempo und Schlagkraft bei der Umsetzung.
+  - Kritik, dass die Erhöhung des Grundbedarfs zu spät erfolgt.
+  - Die Erhöhung der Wohnkostenpauschale ist richtig, aber möglicherweise zu niedrig angesetzt angesichts steigender Mieten.
+  - Befürwortung der automatischen Erhöhung der Freibeträge, aber kritische Haltung gegenüber Automatismus bei den Freibeträgen.
+  - Die BDA sieht die geplante zeitliche Staffelung der Leistungserhöhung als richtig an, da staatliche Leistungen erwirtschaftet und finanziert werden müssen und die angespannte Haushaltslage berücksichtigt werden sollte.
+  - Kritisch gegenüber einem Automatismus bei den Freibeträgen, da der Gesetzgeber hier bewusste Entscheidungen treffen sollte.
+  - Vorschlag zur Erhöhung des anrechnungsfreien Zuverdienstes für BAföG-Geförderte.
+  - Bedenken bezüglich der Folgewirkungen von BAföG-Änderungen auf andere Förderinstrumente (z.B. Meister-BAföG, BAB, Ausbildungsgeld).
+  - Das Antragsverfahren sei weiterhin zu kompliziert und nicht ausreichend digitalisiert.
+  - Es besteht dringender Handlungsbedarf bei der Digitalisierung der BAföG-Ämter auf bundesweiter Ebene.
+  - Kritisch gegenüber der Anhebung der Altersgrenze auf 45 Jahre, plädiert für Rückkehr zu früheren Grenzen (30/35 Jahre).
+- **Bündnis 90/Die Grünen:**
+  - Die Reform ist bitter nötig, aber es fehlt an Tempo und Schlagkraft.
+  - Die Erhöhung des Grundbedarfs kommt zu spät (erst im Sommersemester 2029).
+  - Die Wohnkostenpauschale sollte höher sein (510 € für WG-Zimmer).
+  - Die geplante Streichung der Wohnkostenpauschale für bei Eltern lebende Studierende ist bedenklich und muss zurückgenommen werden.
+  - Die Erhöhung der Grundbedarfssätze kommt ebenfalls zu spät.
+  - Die jährliche Anpassung der Freibeträge (1,5%) liegt unter der Inflationsrate und muss nachgebessert werden.
+  - Fordert die Rückkehr zu einem Vollzuschuss für das BAföG.
+  - Forderung nach Wiedereingliederung der Förderung von Schülerinnen und Schülern ab der zehnten Klasse in das BAföG.
+  - Bitte um Rücknahme der Streichung von Härtefällen bei der Altershöchstgrenze.
+  - Die geplante Erhöhung der Wohnkostenpauschale von 440 € liegt deutlich unter dem bundesweiten Durchschnitt von 510 € für ein WG-Zimmer.
+  - Die Streichung der Wohnkostenpauschale für bei Eltern lebende Studierende ist problematisch.
+  - Die Abschaffung der Ausnahmetatbestände bei der Altersgrenze trifft insbesondere Frauen hart.
+  - Fordert ein BAföG, das eltern- und altersunabhängig ist und über der Armutsgefährdungsgrenze liegt.
+- **AfD:**
+  - Das BAföG ist kein Erfolgskonzept mehr, die Förderquote ist gesunken.
+  - Es besteht ein hoher Anteil von Antragsberechtigten, die keinen BAföG beantragen.
+  - Die Erhöhung der Altersgrenze wird als nicht sachgerecht angesehen, da es sich um eine Sozialleistung handelt, die erwirtschaftet werden muss.
+  - Es wird die Frage aufgeworfen, ob das Prinzip, möglichst vielen jungen Menschen ein Hochschulstudium zu ermöglichen, noch der Realität entspricht, angesichts des Fachkräftemangels in anderen Bereichen.
+  - Kritisiert den Automatismus bei der Anpassung der Freibeträge, aber nicht bei der Deckelung der Kreditkomponente.
+- **FDP (implizit durch die Rolle von Frau Dr. Launard, parlamentarische Staatssekretärin):**
+  - Stellt die Frage, welche digitalen Verfahren im Gesetz geregelt werden können und welche auf Verordnungsebene oder in Bund-Länder-Vereinbarungen erfolgen.
+- **Paritätischer Wohlfahrtsverband:**
+  - Studierende sind überproportional von Armut betroffen, insbesondere alleinlebende Studierende (82%).
+  - Hohe Wohnkosten sind ein massives Problem, zwei Drittel der alleinlebenden Studierenden geben mindestens 40% ihres Einkommens für Wohnen aus.
+  - Die Wohnkostenpauschale ist und bleibt zu gering.
+  - Die Erwerbsarbeit von Studierenden ist keine freiwillige Ergänzung mehr, sondern eine Notwendigkeit zum Studieren (43% des Einkommens).
+  - Die BAföG-Zahlen sind gesunken, obwohl der Bedarf nicht gesunken ist.
+  - Der Grundbedarf muss schneller und auf ein existenzsicherndes Niveau gehoben werden.
+  - Die Wohnkostenpauschale muss dynamisiert und auch für Studierende im Elternhaus berücksichtigt werden.
+  - Es braucht eine jährliche Anpassung der Freibeträge, die sich an der tatsächlichen Einkommensentwicklung orientiert.
+- **Freier Zusammenschluss von StudentInnenschaften (FZ):**
+  - Unmut über das langsame Gesetzgebungsverfahren und die Nichterfüllung von Versprechen im Koalitionsvertrag.
+  - Über ein Drittel der Studierenden lebt unter der Armutsgrenze.
+  - Das BAföG erreicht nur noch ca. 10,8% der Studierenden.
+  - Studierende müssen durchschnittlich 15 Stunden pro Woche arbeiten, was den Studienerfolg gefährdet.
+  - Die Streichung der Wohnkostenpauschale für bei Eltern lebende Studierende ist eine Verschlechterung.
+  - Die Abschaffung der Ausnahmetatbestände der Altersgrenze trifft insbesondere Frauen hart.
+  - Fordert ein BAföG, das eltern-, herkunfts- und altersunabhängig ist und über der Armutsgefährdungsgrenze liegt.
+- **Junge Union:**
+  - Die aktuelle Realität ist alarmierend: Nur noch gut jeder achte Student wird gefördert.
+  - Die Maßnahmen des Gesetzentwurfs reichen nicht aus und bedürfen Ergänzungen.
+  - Forderung nach regelgebundener Fortschreibung der Bedarfssätze und Wohnkostenpauschale.
+  - Vorschlag einer gestuften Regionalisierung der Wohnkostenpauschale.
+  - Forderung, Vergütungen aus Pflichtpraktika anrechnungsfrei zu stellen.
+  - Vorschlag, die Rückzahlungsbeiträge und -zeiträume bei steigender Förderung anzuheben.
+  - Forderung nach einem digitalen Bescheid und einem automatisierten Verfahren.
+  - Die Integration der Studienstandhilfe in das Antragsverfahren fehlt im Entwurf.
+  - Anregung zur Senkung der Altersgrenze auf 35 Jahre.
+  - Forderung nach einer elternunabhängigen Säule im BAföG, z.B. durch zinslose Darlehen.
+  - Appell, dass Bildung das Fundament des Aufstiegsversprechens ist.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=62sPPFuyfKc&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Vorsitzende begrüßt die Sachverständigen und erläutert das Verfahren der Anhörung, bestehend aus Eingangsstatements und Fragerunden.
+- **[00:02:00](https://www.youtube.com/watch?v=62sPPFuyfKc&t=2m0s)** - **Eröffnung der Anhörung**: Der Vorsitzende eröffnet die Anhörung und stellt den Gesetzentwurf zur Änderung des BAföG sowie die dazugehörigen Änderungsanträge vor. Es werden die Sachverständigen begrüßt.
+- **[00:03:35](https://www.youtube.com/watch?v=62sPPFuyfKc&t=3m35s)** - **Matthias Anbul (Deutsches Studentenwerk)**: Erläutert die Notwendigkeit der BAföG-Reform aufgrund der schwierigen finanziellen Lage vieler Studierender. Er kritisiert, dass das Existenzminimum erst 2029 erreicht wird und die Wohnkostenpauschale möglicherweise zu niedrig ist. Er begrüßt die Digitalisierung, fordert aber mehr Tempo und Schlagkraft.
+- **[00:08:35](https://www.youtube.com/watch?v=62sPPFuyfKc&t=8m35s)** - **Sonja Bolenius (Deutscher Gewerkschaftsbund)**: Betont die Bedeutung des BAföG für Bildungsgerechtigkeit. Sie kritisiert, dass die Förderquote historisch niedrig ist und viele Studierende in Armut leben. Die Anhebung der Wohnkostenpauschale kommt zu spät und die Streichung für bei Eltern lebende Studierende ist bedenklich. Sie fordert eine schnellere Anpassung der Grundbedarfssätze und eine dynamisierte Freibetragsanpassung.
+- **[00:13:47](https://www.youtube.com/watch?v=62sPPFuyfKc&t=13m47s)** - **Julian Bennet Job (Junge Union Deutschlands)**: Stellt fest, dass die Maßnahmen des Gesetzentwurfs nicht ausreichen. Er fordert eine Ausweitung der regelgebundenen Fortschreibung auf Bedarfssätze und Wohnkostenpauschale. Eine gestufte Regionalisierung der Wohnkostenpauschale wird vorgeschlagen. Die Anrechnung von Vergütungen aus Pflichtpraktika soll entfallen. Er regt an, die Rückzahlungsbeiträge und -zeiträume anzuheben.
+- **[00:19:05](https://www.youtube.com/watch?v=62sPPFuyfKc&t=19m5s)** - **Dr. Isabel Roner (Bundesvereinigung der deutschen Arbeitgeberverbände - BDA)**: Hält die Anpassungen beim BAföG grundsätzlich für richtig, sieht aber kritisch einen dauerhaften Automatismus bei der Erhöhung der Freibeträge. Sie betont die Notwendigkeit, staatliche Leistungen erwirtschaften zu müssen. Die Folgenwirkungen von BAföG-Änderungen auf andere Förderinstrumente werden thematisiert. Das Antragsverfahren sei weiterhin zu kompliziert und nicht ausreichend digitalisiert. Die Altersgrenze von 45 Jahren wird kritisch gesehen.
+- **[00:24:30](https://www.youtube.com/watch?v=62sPPFuyfKc&t=24m30s)** - **Katharina Rumenhöller (Freier Zusammenschluss von Studentinnenschaften - FZ)**: Äußert Unmut über das langsame Verfahren und die Nichterfüllung von Versprechen. Sie kritisiert, dass viele Studierende unter der Armutsgrenze leben und das BAföG die Lebenserhaltungskosten nicht deckt. Die Wohnkostenpauschale ist zu niedrig und die Streichung für bei Eltern lebende Studierende eine Verschlechterung. Die Abschaffung von Ausnahmetatbeständen bei der Altersgrenze trifft Frauen hart.
+- **[00:28:52](https://www.youtube.com/watch?v=62sPPFuyfKc&t=28m52s)** - **Gretra Schabraham (Paritätischer Wohlfahrtsverband)**: Berichtet von einer überproportional hohen Armutsbetroffenheit bei Studierenden. Hohe Wohnkosten stellen ein massives Problem dar. Die Erwerbsarbeit sei für viele Studierende eine Notwendigkeit und nicht mehr nur eine Ergänzung. Die BAföG-Zahlen seien gesunken, obwohl der Bedarf steigt. Sie fordert eine schnellere Anhebung des Grundbedarfs und eine dynamisierte Wohnkostenpauschale.
+- **[00:34:03](https://www.youtube.com/watch?v=62sPPFuyfKc&t=34m3s)** - **Erste Fragerunde (CDU/CSU an BDA)**: Ebmeier (CDU/CSU) fragt Dr. Roner (BDA) zur mangelnden Digitalisierung und Komplexität des Antragsverfahrens. Er möchte wissen, ob die Pflicht zur digitalen Antragstellung ausreicht und was zur durchgängigen Digitalisierung des Verfahrens getan werden muss.
+- **[00:34:56](https://www.youtube.com/watch?v=62sPPFuyfKc&t=34m56s)** - **Antwort von Dr. Roner (BDA)**: Erklärt, dass eine bundesweit einheitliche und vollständig digitalisierte Bearbeitung notwendig ist und es hierbei große Unterschiede zwischen den Bundesländern gibt. Eine stärkere Rolle des Bundes bei der Koordination wird gewünscht.
+- **[00:36:18](https://www.youtube.com/watch?v=62sPPFuyfKc&t=36m18s)** - **Nachfrage von Ebmeier (CDU/CSU) an Dr. Roner (BDA)**: Fragt, was im Gesetz geregelt werden kann und was in Verordnungen und Vereinbarungen.
+- **[00:36:31](https://www.youtube.com/watch?v=62sPPFuyfKc&t=36m31s)** - **Antwort von Dr. Roner (BDA)**: Erläutert die bestehende Verwaltungsvereinbarung für BAföG digital und die Notwendigkeit einer umfassenderen Koordination.
+- **[00:37:49](https://www.youtube.com/watch?v=62sPPFuyfKc&t=37m49s)** - **Zweite Frage von Ebmeier (CDU/CSU) an Dr. Roner (BDA)**: Fragt zur Haltung der BDA bezüglich der Altersgrenze von 45 Jahren und welche Grenze dem Charakter des BAföG entspreche.
+- **[00:38:08](https://www.youtube.com/watch?v=62sPPFuyfKc&t=38m8s)** - **Antwort von Dr. Roner (BDA)**: Bekräftigt die kritische Haltung der BDA zur Anhebung der Altersgrenze und plädiert für die frühere Grenze von 30 bzw. 35 Jahren.
+- **[00:39:32](https://www.youtube.com/watch?v=62sPPFuyfKc&t=39m32s)** - **Frage von Burghand (AfD) an Dr. Roner (BDA) und Frau Schabraham (Paritätischer)**: Fragt, ob der Anspruch auf ein Hochschulstudium für möglichst viele noch der Realität entspreche und ob der Automatismus bei den Freibeträgen sachgerecht sei.
+- **[00:43:11](https://www.youtube.com/watch?v=62sPPFuyfKc&t=43m11s)** - **Antwort von Dr. Roner (BDA)**: Erklärt, dass die Förderquote nicht das entscheidende Kriterium sei. Es sei wichtig, dass das BAföG eine Sozialleistung bleibt, die diejenigen erreicht, die sie brauchen.
+- **[00:45:09](https://www.youtube.com/watch?v=62sPPFuyfKc&t=45m9s)** - **Frage von Wagner (SPD) an Matthias Anbul (Studentenwerk)**: Fragt zur Bewertung der verpflichtenden digitalen Antragsstellung und des Wegfalls des Leistungsnachweises sowie zu weiteren Schritten zur Digitalisierung und Entlastung.
+- **[00:46:12](https://www.youtube.com/watch?v=62sPPFuyfKc&t=46m12s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Bewertet die Digitalisierung des Antrags als positiv. Der Wegfall des Leistungsnachweises ist ebenfalls eine Erleichterung. Er sieht weiterhin Potenzial bei längeren Bewilligungszeiträumen und dem "Once Only"-Prinzip zur Datenerhebung.
+- **[00:49:10](https://www.youtube.com/watch?v=62sPPFuyfKc&t=49m10s)** - **Nachfrage von Wagner (SPD) an Sonja Bolenius (DGB)**: Fragt zur Kritik an der Abschmelzung der Wohnkostenpauschale für bei Eltern lebende Studierende und wie viele Betroffene es gibt.
+- **[00:50:51](https://www.youtube.com/watch?v=62sPPFuyfKc&t=50m51s)** - **Antwort von Sonja Bolenius (DGB)**: Beziffert den Anteil der betroffenen Studierenden und erklärt, dass dies insbesondere finanziell schwache Familien zusätzlich belasten würde.
+- **[00:50:53](https://www.youtube.com/watch?v=62sPPFuyfKc&t=50m53s)** - **Frage von Aar (Grüne) an Katharina Rumenhöller (FZ)**: Fragt zu den Reaktionen von Studierenden auf den Entwurf, was am meisten fehle und ob Studierende ihren Studienort von den Wohnkosten abhängig machen müssten.
+- **[00:52:25](https://www.youtube.com/watch?v=62sPPFuyfKc&t=52m25s)** - **Antwort von Katharina Rumenhöller (FZ)**: Bestätigt den Bedarf an Nachbesserungen und die negativen Auswirkungen der gestrichenen Wohnkostenpauschale. Die Wahl des Studienortes und -gangs sei oft von der Finanzierbarkeit abhängig.
+- **[00:54:56](https://www.youtube.com/watch?v=62sPPFuyfKc&t=54m56s)** - **Nachfrage von Aar (Grüne) an Katharina Rumenhöller (FZ)**: Fragt, welche Maßnahmen umgesetzt werden müssten, damit mehr Studierende BAföG beziehen.
+- **[00:55:29](https://www.youtube.com/watch?v=62sPPFuyfKc&t=55m29s)** - **Antwort von Katharina Rumenhöller (FZ)**: Betont die Notwendigkeit des Datenabgleichs mit Finanzämtern und die Elternunabhängigkeit des BAföG.
+- **[00:56:22](https://www.youtube.com/watch?v=62sPPFuyfKc&t=56m22s)** - **Frage von Gurke (Die Linke) an Gretra Schabraham (Paritätischer)**: Fragt zur Interpretation der studentischen Armutsquote und den Unterschieden zwischen Haushaltsformen.
+- **[00:57:54](https://www.youtube.com/watch?v=62sPPFuyfKc&t=57m54s)** - **Antwort von Gretra Schabraham (Paritätischer)**: Erklärt die Bedeutung der Analyse von alleinlebenden Studierenden und die Problematik hoher Wohnkosten, die Erwerbsarbeit notwendig machen.
+- **[01:00:20](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h0m20s)** - **Nachfrage von Gurke (Die Linke) an Gretra Schabraham (Paritätischer)**: Fragt nach den biographischen, gesundheitlichen und gesellschaftlichen Folgen von Leben unter dem Existenzminimum.
+- **[01:00:39](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h0m39s)** - **Antwort von Gretra Schabraham (Paritätischer)**: Beschreibt die negativen Auswirkungen von Armut auf Gesundheit, Teilhabe und die Entscheidung für oder gegen ein Studium.
+- **[01:02:05](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h2m5s)** - **Zweite Nachfragerunde (CDU/CSU an Julian Bennet Job)**: Ebmeier (CDU/CSU) fragt Julian Bennet Job (Junge Union) nach den Gründen für den Abbruch von BAföG-Anträgen und Vorschlägen zur Senkung der Abbruchquote.
+- **[01:02:43](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h2m43s)** - **Antwort von Julian Bennet Job (Junge Union)**: Schlägt einen digitalen "Bierdeckel"-Ansatz, KI-Unterstützung und Datenabgleich vor. Die Pflicht zur Erteilung von Bescheiden in Papierform sei nicht mehr zeitgemäß.
+- **[01:05:30](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h5m30s)** - **Frage von Burghand (AfD) an Dr. Roner (BDA)**: Fragt nach der Möglichkeit einer Leistungskontrolle mittels Digitalisierung und KI, da BAföG bisher eine Sozialleistung sei.
+- **[01:06:16](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h6m16s)** - **Antwort von Dr. Roner (BDA)**: Betont, dass BAföG eine Sozialleistung bleiben müsse und eine Leistungsorientierung nicht notwendig sei.
+- **[01:07:30](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h7m30s)** - **Frage von Burghand (AfD) an Matthias Anbul (Studentenwerk)**: Fragt nach einer Schätzung, wie viele Studierende durch Digitalisierung und Senkung von Antragshürden zukünftig BAföG erhalten könnten.
+- **[01:07:55](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h7m55s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Nennt Gründe für die Nichtbeantragung (Unkenntnis des Anspruchs, Sorge vor Rückzahlung) und schätzt eine deutliche Erhöhung der Förderquote.
+- **[01:09:29](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h9m29s)** - **Frage von Seizel (SPD) an Katharina Rumenhöller (FZ)**: Fragt nach der Bewertung der Anrechnungsregeln für Praktikumsvergütungen und Vorschlägen für eine gerechtere Ausgestaltung.
+- **[01:10:13](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h10m13s)** - **Antwort von Katharina Rumenhöller (FZ)**: Beschreibt die Probleme bei der Anrechnung von Praktikumsvergütungen und die Notwendigkeit der Entkopplung von der BAföG-Förderung.
+- **[01:11:04](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h11m4s)** - **Nachfrage von Seizel (SPD) an Katharina Rumenhöller (FZ)**: Fragt nach den Kosten für Studierende, die zu Hause wohnen, und wie die aktuelle Wohnkostenpauschale dies berücksichtigt.
+- **[01:11:26](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h11m26s)** - **Antwort von Katharina Rumenhöller (FZ)**: Erläutert, dass auch bei Eltern wohnende Studierende Kosten haben und der geplante Wegfall der Pauschale problematisch ist.
+- **[01:12:27](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h12m27s)** - **Frage von Aar (Grüne) an Sonja Bolenius (DGB)**: Fragt nach den Folgen der Streichung der Elternwohnpauschale für Menschen mit Behinderungen.
+- **[01:12:53](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h12m53s)** - **Antwort von Sonja Bolenius (DGB)**: Erläutert die Querverweise zu SGB II und III und die negativen Auswirkungen auf Menschen mit Behinderungen, die zu Hause wohnen.
+- **[01:13:55](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h13m55s)** - **Nachfrage von Aar (Grüne) an Matthias Anbul (Studentenwerk)**: Fragt zur Möglichkeit einer Antragstellung für ganze Studienabschnitte (Bachelor/Master) statt jährlicher Anträge.
+- **[01:14:21](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h14m21s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Sieht keine grundsätzlichen Hindernisse für eine Bewilligung über längere Studienabschnitte, betont aber die Notwendigkeit von Aktualisierungen und der Verantwortung der Studierenden.
+- **[01:15:18](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h15m18s)** - **Frage von Gurke (Die Linke) an Sonja Bolenius (DGB)**: Fragt, ob die Freibetragsdynamisierung von 1,5% ausreicht und welche Lohnsteigerungen zu BAföG-Einbußen führen könnten.
+- **[01:15:59](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h15m59s)** - **Antwort von Sonja Bolenius (DGB)**: Verneint die ausreichende Höhe der Dynamisierung und fordert eine stärkere Anhebung der Freibeträge.
+- **[01:17:21](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h17m21s)** - **Frage von Gurke (Die Linke) an Julian Bennet Job (Junge Union)**: Fragt, wie realistisch das Leitbild des Vollzeitstudiums in Regelstudienzeit angesichts der Notwendigkeit, nebenbei zu arbeiten, ist.
+- **[01:17:53](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h17m53s)** - **Antwort von Julian Bennet Job (Junge Union)**: Widerspricht der Annahme, dass Arbeiten zwangsläufig zu Studienzeitverlängerung führt und betont das Prinzip "fördern und fordern".
+- **[01:18:57](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h18m57s)** - **Nachfrage von Ebmeier (CDU/CSU) an Matthias Anbul (Studentenwerk)**: Fragt zur örtlichen Zuständigkeit der BAföG-Ämter und ob diese an den Studienort verlegt werden sollte.
+- **[01:19:57](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h19m57s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Befürwortet die Zuständigkeit des BAföG-Amtes am Studienort.
+- **[01:20:40](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h20m40s)** - **Nachfrage von Ebmeier (CDU/CSU) an Matthias Anbul (Studentenwerk)**: Fragt nach Kommunikationsmöglichkeiten zwischen BAföG-Ämtern und Antragstellern, insbesondere wegen Datenschutzgründen.
+- **[01:21:20](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h21m20s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Fordert eine vollständige Durchdigitalisierung mit digitalem Rückkanal und die Nutzung von Plattformen für sozialdatenschutzkonforme Kommunikation.
+- **[01:22:24](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h22m24s)** - **Frage von Burghand (AfD) an Katharina Rumenhöller (FZ)**: Fragt zur Angemessenheit des Kinderbetreuungszuschlags und einer möglichen Erhöhung.
+- **[01:23:34](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h23m34s)** - **Antwort von Katharina Rumenhöller (FZ)**: Bejaht die Wichtigkeit des Zuschlags und sieht keine grundsätzlichen Einwände gegen eine Erhöhung, verweist aber auch auf die Notwendigkeit anderer Maßnahmen wie die Wohnkostenpauschale.
+- **[01:24:06](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h24m6s)** - **Frage von Seizel (SPD) an Julian Bennet Job (Junge Union)**: Fragt, ob eine Rückkehr zur Altersgrenze von 30 Jahren im Sinne der Generationsgerechtigkeit sei oder ob die Förderung bis 45 Jahre vorteilhaft sei.
+- **[01:24:42](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h24m42s)** - **Antwort von Julian Bennet Job (Junge Union)**: Plädiert für eine Senkung der Altersgrenze, um den Fokus auf die junge Generation zu legen.
+- **[01:25:43](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h25m43s)** - **Nachfrage von Seizel (SPD) an Matthias Anbul (Studentenwerk)**: Fragt zur Auswirkung der Anhebung der Altersgrenze auf 45 Jahre und ob es Probleme gebe.
+- **[01:26:21](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h26m21s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Sieht die Anhebung der Altersgrenze als positive Anpassung an veränderte Bildungsbiografien und verneint bisherige Probleme.
+- **[01:27:18](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h27m18s)** - **Nachfrage von Ebmeier (CDU/CSU) an Matthias Anbul (Studentenwerk)**: Fragt, ob es eine Konkurrenzsituation zwischen jüngeren und älteren Studierenden gebe.
+- **[01:27:36](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h27m36s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Verneint eine Konkurrenzsituation und betont den Rechtsanspruch auf BAföG.
+- **[01:27:38](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h27m38s)** - **Nachfrage von Seizel (SPD) an Katharina Rumenhöller (FZ)**: Fragt zu weiteren Maßnahmen für studentisches Wohnen über die Wohnkostenpauschale hinaus.
+- **[01:27:52](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h27m52s)** - **Antwort von Katharina Rumenhöller (FZ)**: Benennt den Ausbau von Studierendenwerken, Förderprogrammen und Regulierungen auf dem Wohnungsmarkt als notwendig.
+- **[01:29:35](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h29m35s)** - **Frage von Aar (Grüne) an Dr. Roner (BDA)**: Fragt, ob ein Förderinstrument, das weniger Studierende erreicht, zur Fachkräftesicherung beitrage.
+- **[01:30:30](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h30m30s)** - **Antwort von Dr. Roner (BDA)**: Stellt die Frage nach der Attraktivität des Instruments und den Gründen für die sinkende Förderquote in den Raum.
+- **[01:32:47](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h32m47s)** - **Frage von Gurke (Die Linke) an die Bundesregierung (vertreten durch [Name nicht klar im Transkript])**: Fragt nach den gleichstellungspolitischen Bewertungen bei der Streichung der Altersgrenzenausnahmen.
+- **[01:33:36](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h33m36s)** - **Antwort der Bundesregierung**: Betont, dass es um die Zweckmäßigkeit einer Erstausbildung geht und dass eine Verlängerung über das 45. Lebensjahr hinaus fiskalisch nicht mehr vertretbar sei. Gleichstellungspolitische Aspekte standen nicht im Vordergrund.
+- **[01:35:39](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h35m39s)** - **Nachfrage von Ebmeier (CDU/CSU) an Matthias Anbul (Studentenwerk)**: Fragt zur Komplexität des Antragsverfahrens beim Auslands-BAföG.
+- **[01:36:21](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h36m21s)** - **Antwort von Matthias Anbul (Studentenwerk)**: Stellt fest, dass keine Änderungen im Gesetz vorgesehen sind und die gleichen Anforderungen an Schnelligkeit und Digitalisierung gelten wie beim Inland-BAföG.
+- **[01:37:01](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h37m1s)** - **Nachfrage von Ebmeier (CDU/CSU) an Julian Bennet Job (Junge Union)**: Fragt nach geeigneten Instrumenten zur Minimierung der Fehlerquellen bei der Nichtbeantragung von BAföG.
+- **[01:37:35](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h37m35s)** - **Antwort von Julian Bennet Job (Junge Union)**: Schlägt ein Opt-out-Verfahren bei der Immatrikulation und gezielte Werbung an Hochschulen vor.
+- **[01:38:56](https://www.youtube.com/watch?v=62sPPFuyfKc&t=1h38m56s)** - **Abschluss der Anhörung**: Der Vorsitzende dankt den Sachverständigen und schließt die Anhörung.
