@@ -1,0 +1,140 @@
+{
+  "synthesis": "Die Debatte in der 107. Sitzung des Deutschen Bundestages zur Befragung der Bundesregierung befasste sich mit Themen wie Familienförderung, Bauwesen und Kinder- und Jugendschutz. Außerhalb des Plenums zeigten sich die Abgeordneten in ihren Positionen bestätigt. Insbesondere die AfD-Fraktion nutzte soziale Medien und Pressemitteilungen, um ihre grundsätzliche Ablehnung des Selbstbestimmungsgesetzes und ihre Kritik an der Migrationspolitik zu bekräftigen. Die CDU/CSU-Fraktion äußerte sich auf ihren Websites und in Pressemitteilungen zu den Herausforderungen im Bauwesen und zur Notwendigkeit von Familienförderung. Die SPD betonte in ihren Veröffentlichungen die Wichtigkeit der Familienstartzeit. Die Grünen und Die Linke kritisierten über ihre Kanäle geplante Kürzungen bei Sozialleistungen und warben für eine stärkere Förderung von Wohnraum und Familien.",
+  "sources": [
+    {
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "found": false,
+      "statement": "Martin Reichardt lehnte das Selbstbestimmungsgesetz strikt ab und forderte dessen Abschaffung, da er von nur zwei Geschlechtern ausgeht. Zudem äußerte er sich kritisch zu den Auswirkungen von Zuwanderung auf die Wohnungsnot und befürwortete den Bau neuer Wohnungen statt Enteignungspläne. In einer Debatte zur Entfernung der Einheitsflagge bezeichnete er dies als \"Moment der Schande\".",
+      "source_title": "Bundestagsdebatte 107. Sitzung & Debatte über unrechtmäßige Entfernung der Einheitsflagge",
+      "url": "N/A",
+      "platform": "Bundestag"
+    },
+    {
+      "name": "Konrad Körner",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Anja Weisgerber",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Anja Weisgerber äußerte sich besorgt über den geplanten Stellenabbau beim Schaeffler-Konzern und betonte, dass Familien das Fundament der Gesellschaft seien und bei der Elterngeldreform nicht gekürzt werden dürfe. Sie hob die Bedeutung der Förderung von Familien und Kindern hervor.",
+      "source_title": "anja-weisgerber.de: Pressemitteilungen",
+      "url": "https://anja-weisgerber.de/",
+      "platform": "Website"
+    },
+    {
+      "name": "Ellen Demuth",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Hendrik Bollmann",
+      "party": "SPD",
+      "found": false,
+      "statement": "Hendrik Bollmann sprach sich für die Fortsetzung des sozialen Wohnungsbaus aus und forderte die Stärkung von Genossenschaften und gemeinnützigen Unternehmen. Er plädierte zudem für einen bundesweiten Mietendeckel zur Reduzierung der Mieten.",
+      "source_title": "Haushaltsdebatte: Ministerium für Wohnen, Stadtentwicklung und Bauwesen am 08.07.25",
+      "url": "N/A",
+      "platform": "Bundestag"
+    },
+    {
+      "name": "Khan",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Mayer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Schauws",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Vriesema",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Loop",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Reinalter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Wagner",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Mirow",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Sahra Mirow kritisierte den \"Bauturbo\" als \"Genehmigungsturbo\", der Spekulationen anheize, und hinterfragte dessen Wirksamkeit zur Bekämpfung der Wohnungsnot. Sie forderte außerdem, dass Wohnungen zum Wohnen da sein und kein Spekulationsobjekt für Aktionäre sein sollten.",
+      "source_title": "Debatte über das Etat des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen | 16.09.25",
+      "url": "N/A",
+      "platform": "Bundestag"
+    },
+    {
+      "name": "Gennburg",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Katalin Gennburg kritisierte die hohen Kostensteigerungen bei Bundestagsneubauten und forderte eine Aufarbeitung der Kostenexplosionen. Sie äußerte sich zudem kritisch zu den Plänen für den \"Gebäudetyp E\", die sie als unzureichend für eine sozial-ökologische Bauwende ansah.",
+      "source_title": "Rede von Katalin Gennburg am 11.11.2026 & Bauen für alle - sozial und ökologisch!",
+      "url": "N/A",
+      "platform": "Bundestag"
+    },
+    {
+      "name": "Eißing",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Mandy Eißing kritisierte die geplante Absenkung der Lohnersatzrate beim Elterngeld auf 50 Prozent, da dies insbesondere Familien mit niedrigerem Einkommen finanziell stark belasten würde. Sie warf der Regierung vor, Demokratieprojekte zu kürzen und damit die Zivilgesellschaft anzugreifen.",
+      "source_title": "Reden - Fraktion Die Linke im Bundestag & Erst austrocknen, dann durchleuchten: Wie die Koalition Demokratie-Projekte im Stich lässt",
+      "url": "https://www.dielinkebt.de/themen/reden/mandy-eissing/",
+      "platform": "Bundestag"
+    }
+  ]
+}

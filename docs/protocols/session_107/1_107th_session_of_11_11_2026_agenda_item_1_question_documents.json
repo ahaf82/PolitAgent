@@ -1,0 +1,83 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/9023",
+      "title": "Fragestunde",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9023&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/9072",
+      "title": "Antrag: Sparmaßnahmen auch im Bundestag selbst umsetzen – Keine verzichtbaren und teuren Neubaumaßnahmen anstoßen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9072&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksachen 21/1594",
+      "title": "Antrag: Bildungsfinanzierung dauerhaft sichern – Kooperationsverbot abschaffen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F1594&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksachen 21/6803",
+      "title": "Antrag: Bildungsfinanzierung dauerhaft sichern – Kooperationsverbot abschaffen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F6803&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/8239",
+      "title": "Gesetzentwurf: Entwurf eines Gesetzes zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8239&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/8827",
+      "title": "Unterrichtung: Entwurf eines Gesetzes zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG) - Drucksache 21/8239 - Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung.",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8827&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/9155",
+      "title": "Entschließungsantrag von Bündnis 90/Die Grünen zum Gesetzentwurf Startchancen- und Qualitätsentwicklungsgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9155&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/9156",
+      "title": "Entschließungsantrag von Die Linke zum Gesetzentwurf Startchancen- und Qualitätsentwicklungsgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9156&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/9153",
+      "title": "Beschlussempfehlung des Ausschusses für Bildung, Familie, Senioren, Frauen und Jugend zu dem Gesetzentwurf Startchancen- und Qualitätsentwicklungsgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9153&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/9176",
+      "title": "Bericht des Haushaltsausschusses gemäß Paragraf 96 der Geschäftsordnung des Bundestages zur Finanzierbarkeit des Gesetzentwurfs Startchancen- und Qualitätsentwicklungsgesetz",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9176&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/5926",
+      "title": "Kleine Anfrage zum Elterngeld",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F5926&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/8495",
+      "title": "Kleine Anfrage zur Weiterentwicklung des Elterngeldes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8495&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Debatte umfasste eine Befragung der Bundesregierung sowie die Beratung von Anträgen und Gesetzentwürfen. Zu den beratenen Themen gehörten die Elterngeldreform, Kita-Qualität, das Startchancen-Programm, der digitale Kinder- und Jugendmedienschutz, Unterhaltsvorschuss, Baukosten, Wohnraumsituation, das Selbstbestimmungsgesetz und die EU-Entgelttransparenzrichtlinie. Bezüglich des Gesetzentwurfs zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (SCQEG) wurden Entschließungsanträge von Bündnis 90/Die Grünen und Die Linke beraten, die keine Mehrheit fanden. Es fand keine namentliche Abstimmung zu diesem Tagesordnungspunkt statt.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
