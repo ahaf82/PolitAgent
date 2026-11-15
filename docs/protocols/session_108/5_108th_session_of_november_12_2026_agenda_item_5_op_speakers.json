@@ -1,0 +1,131 @@
+{
+  "synthesis": "Die Analyse externer Aussagen von Bundestagsabgeordneten zum \"Entwicklungsgesetz zur Förderung von Chancen und Qualität in der Kindertagesbetreuung\" zeigt ein gespaltenes Bild. Während die SPD und CDU/CSU die Notwendigkeit von Investitionen in frühkindliche Bildung betonen und das Gesetz als wichtigen Schritt loben, äußern Bündnis 90/Die Grünen und Die Linke deutliche Kritik an der Finanzierung und fordern mehr Mittel. Die AfD kritisiert das Gesetz pauschal und schlägt alternative familienpolitische Maßnahmen vor. Aussagen außerhalb des Plenums spiegeln oft die im Bundestag geäußerten Positionen wider, wobei Abgeordnete wie Dagmar Schmidt (SPD) und Dr. Anja Reinalter (Bündnis 90/Die Grünen) ihre Argumente auf ihren Webseiten und in Pressemitteilungen bekräftigen. Die Debatte wird durch die Finanzierungsfrage und die Zuständigkeiten zwischen Bund und Ländern bestimmt.",
+  "sources": [
+    {
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Michael Hose betont die Bedeutung frühkindlicher Bildung für Chancengleichheit und setzt sich für eine Entbürokratisierung von Förderprogrammen wie dem \"Startchancen-Programm\" ein. Er ist Mitglied des Ausschusses für Bildung, Familie, Senioren, Frauen und Jugend und Berichterstatter für bildungspolitische Themen.",
+      "source_title": "Arbeit im Bundestag - Michael Hose MdB",
+      "url": "https://michaelhose.de/en/michael/work-in-the-parliament",
+      "platform": "Website"
+    },
+    {
+      "name": "Sebastian Münzenmaier",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dagmar Schmidt",
+      "party": "SPD",
+      "found": true,
+      "statement": "Dagmar Schmidt hebt die Bedeutung von Kitas für Chancengleichheit hervor und betont, dass weder das Stadtviertel noch das Einkommen der Eltern über die Startchancen von Kindern entscheiden dürfen. Sie setzt sich für die Stärkung von Kitas in schwierigen Lagen und die Unterstützung pädagogischer Fachkräfte ein.",
+      "source_title": "Gute Chancen beginnen in der Kita - SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/themen/gute-chancen-beginnen-kita-0",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Anja Reinalter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Anja Reinalter kritisiert das Gesetz als \"nicht zu Ende gedacht\" und \"Schaufensterpolitik\", da der Bund die Finanzierung perspektivisch kürze und die Mittel ganz beende, obwohl bundesweit verbindliche Tests eingeführt würden. Sie fordert deutlich mehr Finanzmittel und beklagt, dass Bildung immer noch vom Einkommen der Eltern abhänge.",
+      "source_title": "Wochenzeitung „Das Parlament“: Grünen-Bildungspolitikerin Anja Reinalter wirft dem Bund beim Kita-Startchancengesetz Schaufensterpolitik vor",
+      "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261112-parlament-reinalter-1233094",
+      "platform": "Presse"
+    },
+    {
+      "name": "Heidi Reichinnek",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Heidi Reichinnek kritisiert das Gesetz scharf und wirft der Bundesregierung vor, die Probleme im Kita-Bereich auszusitzen und von einer familienfeindlichen Politik abzulenken. Sie bemängelt Kürzungen bei den Kitas trotz steigender Kosten und massivem Bedarf und fordert mehr Geld für gute Kitas und Erzieher.",
+      "source_title": "Linke attackiert geplantes Kita-Gesetz als familienfeindlich - Hasepost",
+      "url": "https://hasepost.de/linke-attackiert-geplantes-kita-gesetz-als-familienfeindlich-733294/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Konrad Clemens",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Konrad Clemens, Staatsminister in Sachsen, kritisiert die Kürzung von Bundesmitteln für Kitas und betont die Notwendigkeit einer verlässlichen Fortführung der Förderung. Er fordert ein Kita-Qualitätsentwicklungsgesetz mit einem nahtlosen Anschluss an bestehende Programme.",
+      "source_title": "Sachsen startet Bundesratsinitiative für Sofortprogramm »Frühkindliche Bildung«",
+      "url": "https://www.medienservice.sachsen.de/medien/news/1087986",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Anna Rater",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Lina Seidel",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Denise Loop",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Denise Loop kritisiert die ungleiche Verteilung von Bildungschancen und die wachsende Kluft zwischen Kindern aus ärmeren und reicheren Familien. Sie fordert dauerhaft mehr Geld für gute Kitas, Kinder und Erzieherinnen, da die Investitionen gekürzt würden.",
+      "source_title": "Denise Loop | Bundestagsfraktion Bündnis 90/Die Grünen",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/details/denise-loop/",
+      "platform": "Website"
+    },
+    {
+      "name": "Maren Kaminski",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Maren Kaminski kritisiert das überlastete Kita-System und die daraus resultierende Mittelkürzung, bezweifelt, dass das Gesetz die Startchancen verbessern kann, wenn Personal und Zeit fehlen. Sie fordert die Rücknahme der Kürzungen und eine dauerhafte Finanzierung.",
+      "source_title": "Maren Kaminski - Die Linke Landesverband Niedersachsen",
+      "url": "https://www.dielinke-nds.de/partei/landesgruppe-im-bundestag/maren-kaminski/",
+      "platform": "Website"
+    },
+    {
+      "name": "Mareike Lotte Wolff",
+      "party": "Bundesregierung",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christian Loose",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Rulfs Reichhardt",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Ralph Edelhäußer",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Ralph Edelhäußer betont die Kosten unterlassener Förderung und die Bedeutung der frühzeitigen Sprachstandserhebung. Er verteidigt die im Gesetz vorgesehenen Mittel und kritisiert im Bundestag die Finanzierungspraxis.",
+      "source_title": "Ralph Edelhäußer, MdB, CDU/CSU - DIP - Deutscher Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    }
+  ]
+}
