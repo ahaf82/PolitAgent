@@ -1,0 +1,58 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/70",
+      "title": "Antrag der Fraktion Die Linke: Kinder brauchen jetzt eine echte finanzielle Entlastung – Kindergeld hälftig auf den Unterhaltsvorschuss anrechnen und 150.000 Unterschriften anerkennen",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2020%2F70&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Antrag der Fraktion Die Linke wurde zur Ablehnung an den Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend verwiesen. Der Ausschuss empfahl die Ablehnung des Antrags, und diese Empfehlung wurde mit Mehrheit angenommen, wobei Die Linke dagegen stimmte und Bündnis 90/Die Grünen sich enthielten.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?idx=225500",
+    "overall_result": {
+      "ja": 365,
+      "nein": 275,
+      "enthaltung": 61,
+      "nicht_abgegeben": 14
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 171,
+        "nein": 0,
+        "enthaltung": 1,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 149,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 60,
+        "nicht_abgegeben": 13
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 148,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 45,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Das Bundeswehrinfrastrukturbeschleunigungsgesetz wurde nach zweiter und dritter Beratung von der Koalition aus CDU/CSU und SPD angenommen. Die Linke und Bündnis 90/Die Grünen stimmten dagegen, während die AfD sich enthielt. Ein Entschließungsantrag der Grünen wurde abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "AfD",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      },
+      {
+        "faction": "Die Linke",
+        "ja": null,
+        "nein": null,
+        "enthaltung": null,
+        "nicht_abgegeben": null
+      }
+    ]
+  }
+}

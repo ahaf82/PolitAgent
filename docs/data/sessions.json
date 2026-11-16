@@ -4288,6 +4288,19 @@
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
   },
   {
+    "id": "k-sbH8pVu-4",
+    "title": "108th Session of 11/12/2026. Item 13: Bundeswehr Infrastructure Acceleration Act",
+    "session": 108,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Gesetz zur Beschleunigung von Bundeswehr-Infrastrukturvorhaben",
+    "summary_path": "protocols/session_108/top_unknown_108th_session_of_11_12_2026_item_13_bundeswehr_inf.md",
+    "documents_path": "protocols/session_108/top_unknown_108th_session_of_11_12_2026_item_13_bundeswehr_inf_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=k-sbH8pVu-4",
+    "processed_at": "2026-11-16T08:02:03.980717"
+  },
+  {
     "id": "fSG9NaBkLyc",
     "title": "108th Session of 11/12/2026. Agenda Item 7: Customs Administration and Combating Financial Crime",
     "session": 108,
@@ -4338,6 +4351,45 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=cfzAHSXZZ8E",
     "processed_at": "2026-11-15T08:04:52.704765"
+  },
+  {
+    "id": "417DXI9P-e0",
+    "title": "108th Session, 11/12/2026. Agenda Item 17: Fixed-Term Employment Law in the Academic Sector",
+    "session": 108,
+    "date": "N/A",
+    "top": "17",
+    "topic": "Gesetz zur Modernisierung des Befristungsrechts im akademischen Sektor",
+    "summary_path": "protocols/session_108/17_108th_session_11_12_2026_agenda_item_17_fixed_term.md",
+    "documents_path": "protocols/session_108/17_108th_session_11_12_2026_agenda_item_17_fixed_term_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=417DXI9P-e0",
+    "processed_at": "2026-11-16T08:01:11.544882"
+  },
+  {
+    "id": "682EiXtqR74",
+    "title": "108th Session, Nov 12, 2026. Agenda Item 12: Child Maintenance Advance",
+    "session": 108,
+    "date": "N/A",
+    "top": "12",
+    "topic": "Gesetz zur Anpassung des Unterhaltsvorschusses",
+    "summary_path": "protocols/session_108/12_108th_session_nov_12_2026_agenda_item_12_child_mai.md",
+    "documents_path": "protocols/session_108/12_108th_session_nov_12_2026_agenda_item_12_child_mai_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=682EiXtqR74",
+    "processed_at": "2026-11-16T08:02:28.288423"
+  },
+  {
+    "id": "vK8VBGGHV7g",
+    "title": "108th session of November 12, 2026. Agenda item 11, item 9: Bundeswehr deployment EUNAVFOR MED IRINI",
+    "session": 108,
+    "date": "N/A",
+    "top": "11,",
+    "topic": "108. Sitzung vom 12. November 2026: Einsatz der Bundeswehr im Rahmen von EUNAVFOR MED IRINI",
+    "summary_path": "protocols/session_108/11_108th_session_of_november_12_2026_agenda_item_11_i.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=vK8VBGGHV7g",
+    "processed_at": "2026-11-16T08:03:16.576516"
   },
   {
     "id": "PfCnK1aXZ7A",
@@ -8780,6 +8832,19 @@
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=Jn8L1w1qeLY",
     "processed_at": "2026-11-15T08:02:16.689401"
+  },
+  {
+    "id": "UjhlWQKpq_w",
+    "title": "Expert Discussion on the Costs of Climate Change",
+    "session": 0,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Experteneinschätzungen zu den Kosten des Klimawandels",
+    "summary_path": "protocols/session_unknown/top_unknown_expert_discussion_on_the_costs_of_climate_change.md",
+    "documents_path": "protocols/session_unknown/top_unknown_expert_discussion_on_the_costs_of_climate_change_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=UjhlWQKpq_w",
+    "processed_at": "2026-11-16T08:00:46.666915"
   },
   {
     "id": "vHNXQug-Frc",
