@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte zur Stärkung der Cybersicherheit im Bundestag offenbarte unterschiedliche Ansichten über die Angemessenheit und Ausgestaltung der geplanten Gesetze. Während die Regierungsparteien und die CDU/CSU die Notwendigkeit erweiterter Befugnisse für Sicherheitsbehörden zur Abwehr von Cyberangriffen betonten, kritisierten Oppositionsparteien wie die AfD, Bündnis 90/Die Grünen und Die Linke die mangelnde Klarheit bei Zuständigkeiten, potenzielle Benachteiligung kleiner Unternehmen oder die fehlende Ganzheitlichkeit der Ansätze. Externe Äußerungen der Abgeordneten spiegeln diese Positionen wider: So tritt Bundesminister Dobrindt für eine aktive Cyberabwehr und „Gegenschläge“ ein, während Konstantin von Notz auf bestehende Sicherheitslücken und Versäumnisse hinweist. Andere Abgeordnete wie Marc Henrichmann warnen vor neuen Cyberbedrohungen, während Johannes Schätzl und Daniel Baldy die Notwendigkeit klarer Regeln und stärkerer staatlicher Instrumente im digitalen Raum hervorheben.",
+  "sources": [
+    {
+      "name": "Mark Henrichmann",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Henrichmann warnt eindringlich vor einer neuen Dimension der Cyberbedrohung, insbesondere durch die Kombination von KI mit bisherigen Schwachstellen, und betont die Notwendigkeit, Sicherheitsbehörden mit den nötigen Werkzeugen und Befugnissen auszustatten. Er sieht darin einen Wendepunkt in der digitalen Sicherheit.",
+      "source_title": "CDU-Politiker warnt vor neuer Dimension der Cyberbedrohung",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stephan Janisch",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Daniel Baldy",
+      "party": "SPD",
+      "found": false,
+      "statement": "Baldy betont die Notwendigkeit, die Befugnisse der Nachrichtendienste zu stärken, und hebt hervor, dass damit auch eine stärkere Kontrolle einhergehen muss. Er sieht eine Zunahme hybrider Angriffe seit 2022 und plädiert für eine Entschlackung und Bündelung der Kontrolle über die Dienste.",
+      "source_title": "Innenpolitiker Baldy (SPD): Gesetz für mehr Befugnisse der Geheimdienste zieht bessere Kontrolle nach sich",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Konstantin von Notz",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Von Notz kritisiert die Bundesregierung wiederholt für deren mangelnden Einsatz bei der IT-Sicherheit und warnt vor den exorbitant gestiegenen Gefahren durch KI-Anwendungen. Er verweist darauf, dass Experten und auch das BSI auf erhebliche Sicherheitsrisiken hingewiesen haben.",
+      "source_title": "Von Notz: Bundesregierung mehrfach vor IT-Sicherheitslücken gewarnt",
+      "url": "https://www.it-journal.de/223025-von-notz-bundesregierung-mehrfach-vor-it-sicherheitsluecken-gewarnt.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jan Korte",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Jan Korte äußerte bereits 2015 Kritik an IT-Sicherheitsgesetzen, die seiner Meinung nach weder mehr Sicherheit noch besseren Datenschutz brächten. Er sieht Denkfehler bei der Umsetzung.",
+      "source_title": "Jan Korte: Denkfehler beim IT-Sicherheitsgesetz",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Bundesinnenminister Dobrindt tritt für eine aktive Cyberabwehr und entschlossene „Gegenschläge“ gegen Angreifer auf kritische Infrastrukturen ein. Er kündigte an, dass Deutschland die Schwelle für solche Schritte niedrig ansetzen werde und die Geheimdienste neue Befugnisse erhalten sollen.",
+      "source_title": "Cyberangriffe: Dobrindt will \"zurückschlagen\" - ZDFheute",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "found": true,
+      "statement": "Schätzl fordert eine grundlegende Neuausrichtung der Cyberabwehr, da ein bloßes Hinterherlaufen mit Updates angesichts von KI-gestützten Angriffen nicht mehr ausreiche. Er betont die Wichtigkeit einheitlicher Richtlinien für Unternehmen und die Stärkung der kritischen Infrastruktur.",
+      "source_title": "Johannes Schätzl: SPD-Digitalpolitiker kritisiert nach PHP-Lücke das BSI",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fonline-kompendium-nationaler-pakt-cybersicherheit-2509-170495.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "[Name nicht klar im Transkript, aber vom Tonfall und Inhalt eine oppositionelle Stimme, vermutlich AfD]",
+      "party": "AfD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Henry Schmidt",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

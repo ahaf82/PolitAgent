@@ -1,0 +1,65 @@
+# 108. Sitzung: Neuregelung des Erneuerbare-Energien-Gesetzes
+
+## Sitzungs-Metadaten
+- **Sitzung:** 108. Sitzung
+- **Datum:** N/A
+- **Tagesordnungspunkt (TOP):** 4, 5
+- **Originaltitel:** 108th Session of 11/12/2026. Agenda Items 4, 5: Renewable Energy Sources Act
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=T3TU5TTNnBU)
+
+## Kurzzusammenfassung
+In der 108. Sitzung des Deutschen Bundestages wurde die zweite und dritte Beratung des Gesetzentwurfs zur Änderung des Erneuerbare-Energien-Gesetzes (EEG) sowie die Beratung der Beschlussempfehlung zu einem Antrag der Fraktion Bündnis 90/Die Grünen zum EEG diskutiert. Die Debatte konzentrierte sich auf die Ausgestaltung des zukünftigen Förderrahmens für erneuerbare Energien, die Integration in den Strommarkt, die Bezahlbarkeit der Energie sowie die Sicherstellung der Versorgungssicherheit. Die Fraktionen vertraten unterschiedliche Positionen hinsichtlich des Tempos des Ausbaus, der Förderinstrumente und der Einbeziehung verschiedener Energiequellen.
+
+## Kernaussagen und Positionen der Fraktionen
+- **CDU/CSU**: Betont die Notwendigkeit von Kosteneffizienz, Bezahlbarkeit und Systemdienlichkeit bei der Energiewende. Stellt die Beibehaltung des Ausbauziels von 80% erneuerbaren Energien bis 2030 heraus und kritisiert die Grünen für ihre Anträge. Befürwortet eine starke Förderung der Bioenergie und die Schaffung eines Konjunkturpakets für Energiespeicher. Setzt auf eine Kombination aus erneuerbaren Energien, Speichern, Netzen und Versorgungssicherheitskraftwerken als Fundament.
+
+- **AfD**: Kritisiert die Energiewende als wirtschaftsschädlich und deindustrialisierend. Bezweifelt die Machbarkeit des Ausbauziels und verweist auf hohe Kosten und fehlende Speicher. Zitiert Vertreter der Wirtschaft, die hohe Energiekosten als Grund für Stellenabbau und Deindustrialisierung sehen. Fordert Ehrlichkeit bei der Benennung aller Kosten und kritisiert die "Lügen der Linksgrünen" bezüglich der Systemintegrationskosten. Stellt die Kosten der Energiewende von rund 1000 Milliarden Euro in den Raum und warnt vor weiteren Billionen.
+
+- **SPD**: Unterstreicht die Dringlichkeit eines verlässlichen und weiterhin gültigen Förderrahmens für erneuerbare Energien, da der aktuelle Rahmen Ende des Jahres ausläuft. Erklärt die Notwendigkeit einer EEG-Novelle bis 2027 und die Einigung auf das EEG, während Verhandlungen zum Netzanschlusspaket noch laufen. Betont die Wichtigkeit europarechtlicher Vorgaben, wie der Gewinnabschöpfung, und erklärt die Koalitionslinie, die europäische Mindestvorgaben einzuhalten.
+
+- **Bündnis 90/Die Grünen**: Präsentiert einen Gesetzentwurf zur Schaffung von Planungssicherheit für die Zukunftsbranche der erneuerbaren Energien, zur Sicherung von Arbeitsplätzen und zur Unabhängigkeit von fossilen Importen. Kritisieren den Regierungsentwurf und sehen darin eine Sabotage der Energiewende. Bieten an, die von der EU geforderten zwei Punkte ins EEG zu überführen, um eine fristgerechte Einigung zu ermöglichen. Betonen die Notwendigkeit, die Energiewende voranzutreiben, da die fossile Inflation die Preise in allen Lebensbereichen steigen lässt.
+
+- **Die Linke**: Lobt den Gesetzentwurf der Grünen als notwendigen Schritt, um einen Förderstopp für Wind- und Solaranlagen ab 2027 zu verhindern und einen Einbruch des Ausbaus abzuwenden. Hebt das Investitionspotenzial von 260 Milliarden Euro und die damit verbundenen 500.000 Arbeitsplätze hervor. Kritisiert den Regierungsentwurf als untauglich und bremse den Ausbau aus. Unterstützt die Forderung nach doppelten Differenzverträgen zur Gewinnabschöpfung. Lehnt die vollständige Streichung der Einspeisevergütung für Dachsolaranlagen als Angriff auf die Bürgerenergie ab.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=0s)** - **Sitzungsbeginn / Einleitung**: Der Präsident eröffnet die Debatte über die zweite und dritte Beratung des Gesetzentwurfs zur Änderung des Erneuerbare-Energien-Gesetzes (EEG) sowie die Beratung der Beschlussempfehlung zu einem Antrag der Fraktion Bündnis 90/Die Grünen. Es ist eine namentliche Abstimmung über den Gesetzentwurf der Grünen vereinbart.
+
+- **[00:58](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=58s)** - **Lars Rohwer (CDU/CSU)**: Erklärt, dass die Bundesregierung mit der EEG-Novellierung die Weichen für das Energiesystem der Zukunft stelle und den Weg zur Erreichung von 80% erneuerbaren Energien im Strommix bis 2030 ausgestalten wolle. Der Ausbau solle kosteneffizient, bezahlbar und systemdienlich erfolgen. Kritisiert die Grünen für ihren Vorwurf des "Ausbremsens der Energiewende" als realitätsfern. Stellt die vier Säulen des Energiesystems heraus: erneuerbare Energien, Speicher, Netze und Versorgungssicherheitskraftwerke.
+
+- **[08:47](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=8m47s)** - **Steffen Kotré (AfD)**: Bezweifelt die Machbarkeit des Ausbauziels von 80% erneuerbarer Energien aufgrund fehlender Speicher. Warnt vor Stromausfällen und Deindustrialisierung. Zitiert Unternehmensvertreter, die hohe Energiekosten als Grund für den Verlust von Arbeitsplätzen nennen und kritisiert die Energiewende als "wirtschaftstödlich". Fordert, dass alle Kosten der Energiewende offengelegt werden.
+
+- **[13:09](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=13m9s)** - **Dr. Nina Scheer (SPD)**: Erklärt, dass ein neuer Förderrahmen für erneuerbare Energien dringend erforderlich sei, da der aktuelle zum Jahresende ausläuft. Bestätigt die gemeinsame Verabschiedung des EEG und eines Netzanschlusspakets im Kabinett und die laufenden parlamentarischen Beratungen. Betont die Notwendigkeit einer schnellen Beschlussfassung zur Sicherung von Investitionen und Planbarkeit. Erläutert die europarechtliche Vorgabe der Gewinnabschöpfung (Clawback-Mechanismus) und die Bereitschaft, diese ab 200 kW umzusetzen.
+
+- **[19:28](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=19m28s)** - **Dr. Paul Schmidt (AfD)**: Stellt die Frage, warum erneuerbare Energien gefördert werden müssen, wenn sie angeblich so effizient und zukunftsorientiert seien. Verweist auf die immensen Kosten des Netzausbaus.
+
+- **[20:38](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=20m38s)** - **Dr. Nina Scheer (SPD)**: Kontert die Frage nach Förderung für Erneuerbare, indem sie auf die massive Subventionierung der Atomindustrie verweist. Betont, dass erneuerbare Energien weltweit die günstigste Form der Stromgewinnung seien.
+
+- **[23:08](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=23m8s)** - **Kathrin Uhlig (Bündnis 90/Die Grünen)**: Kritisisiert die Regierung dafür, dass sie nicht den Gesetzentwurf der Grünen abstimme. Hebt die Bedeutung der Energiewende für Planungssicherheit, Arbeitsplätze und Energieunabhängigkeit hervor. Betont die dringende Notwendigkeit einer EEG-Novelle zum 1. Januar, da der aktuelle Förderrahmen ausläuft. Kritisieren, dass die Regierung zwei wichtige EU-rechtliche Punkte nicht vorlege und damit die Energiewende sabotiere.
+
+- **[27:35](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=27m35s)** - **Jörg Cezanne (Die Linke)**: Lobt den Gesetzentwurf der Grünen als notwendigen Schritt, um einen Förderstopp ab 2027 zu verhindern und den Ausbau erneuerbarer Energien zu sichern. Beziffert das Investitionspotenzial und die damit verbundenen Arbeitsplätze. Kritisiert den Regierungsentwurf als untauglich und bremse den Ausbau aus.
+
+- **[31:00](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=31m0s)** - **Hans Koller (CDU/CSU)**: Erklärt, dass die Union den Anträgen der Grünen nicht zustimmen werde, da man das gesamte Paket abstimmen wolle. Betont die Notwendigkeit einer Marktentwicklung der erneuerbaren Energien und die Bedeutung von dezentraler Versorgung, Versorgungssicherheit sowie die Weiterentwicklung von PV-Anlagen und Speichern.
+
+- **[37:46](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=37m46s)** - **Dr. Paul Schmidt (AfD)**: Stellt die Sinnhaftigkeit von zusätzlicher Förderung für Windenergieanlagen in windschwachen Regionen wie Baden-Württemberg und Bayern in Frage, da dies Kosten verursache und die Wirtschaft belaste.
+
+- **[39:26](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=39m26s)** - **Hans Koller (CDU/CSU)**: Antworten auf die Frage nach Windkraftanlagen in windschwachen Regionen, indem er auf den Sachverstand von Investoren verweist und eine Lösung für den Süden ankündigt.
+
+- **[42:43](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=42m43s)** - **Mark Bernhard (AfD)**: Kritisiert die Grünen für die Förderung von erneuerbaren Energien als "Märchen" und nennt es eine "Subventionsorgie". Stellt die hohen Stromkosten für Mieter dar, die die Zeche für Windrad- und Dachbesitzer zahlen. Kritisiert die Abhängigkeit von China bei Komponenten und die daraus resultierenden Arbeitsplatzverluste und Unternehmensschließungen in Deutschland. Fordert die Rückkehr zu Kernkraft, Kohle und Gaskraftwerken.
+
+- **[47:15](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=47m15s)** - **Helmut Kleebank (SPD)**: Betont die Dringlichkeit der Klimaschutzpolitik angesichts des fortschreitenden Klimawandels und der steigenden globalen Erwärmung. Ruft zu einer Beschleunigung beim Ausstieg aus fossilen Brennstoffen auf. Unterstützt den Gesetzentwurf und den Antrag der Grünen als Ausdruck berechtigter Ungeduld. Erklärt die Bedeutung der Elektrifizierung und des Ausbaus erneuerbarer Energien für die Bewältigung der Klimakrise und die wirtschaftliche Zukunft Deutschlands.
+
+- **[56:07](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=56m7s)** - **Dr. Julia Verlinden (Bündnis 90/Die Grünen)**: Nennt die "Fossilflation" als treibende Kraft hinter steigenden Preisen. Stellt die zweifache Belastung durch die fossile Krise dar: Haushalte und Betriebe zahlen die Rechnung, während Ölkonzerne hohe Gewinne erzielen. Kritisieren die Bundesregierung für ihre Verantwortungslosigkeit und die ausbleibende wirksame Bekämpfung der Ursachen. Verweist auf die Vorteile von Strom aus Wind und Sonne als Schutz vor Preisschocks und politischer Erpressung.
+
+- **[1:03:21](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=1h3m21s)** - **Dr. Maria Lena Weiß (CDU/CSU)**: Bestätigt die Unverzichtbarkeit des Ausbaus erneuerbarer Energien, betont aber die Notwendigkeit der effizienten Integration in das Stromsystem, bezahlbare Energiepreise und Netzstabilität. Kritisiert den Gesetzentwurf der Grünen als nicht ausreichend. Zeigt die Notwendigkeit der besseren Marktintegration erneuerbarer Energien auf und verweist auf negative Strompreise als Beleg für die Notwendigkeit von Anreizen zur systemverträglichen Einspeisung.
+
+- **[1:12:02](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=1h12m2s)** - **Raimund Scheirich (AfD)**: Bezeichnet den Gesetzentwurf der Grünen als "energiepolitischen Anschlag" und kritisiert die fortgesetzte Subventionierung erneuerbarer Energien. Verweist auf explodierende Strompreise und die "Dunkelflaute". Bemängelt, dass das EEG als "totes Pferd" weiter gemästet werde und Deutschland im Mittelfeld der globalen Energiepolitik zurückfalle. Fordert eine Abkehr von der grünen Energiewende und die Wiederinbetriebnahme von Kernkraft-, Kohle- und Gaskraftwerken.
+
+- **[1:16:01](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=1h16m1s)** - **Lorenz Gösta Beutin (Die Linke)**: Weist die Forderung der AfD nach Kohle- und Ölkraftwerken zurück und kritisiert die Bundeswirtschaftsministerin Reiche für die mangelhafte Befüllung von Gasspeichern und die damit verbundene Gefahr einer Gasmangellage. Betont die Notwendigkeit der Dezentralität und Energieunabhängigkeit durch erneuerbare Energien.
+
+- **[1:19:22](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=1h19m22s)** - **Matthias Weiser (AfD)**: Räumt mit dem Narrativ der Abhängigkeit von fossilen Energien auf und bezeichnet sie als günstige Energien, die über Jahrzehnte Wohlstand gesichert haben. Kritisiert die grüne Politik als sozialistisch, die den freien Markt zerstöre und Energiearmut schaffe. Beziffert die Systemkosten für erneuerbare Energien auf 36 Milliarden Euro jährlich.
+
+- **[1:24:38](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=1h24m38s)** - **Schlussbemerkungen und Abstimmungseröffnung**: Der Präsident schließt die Aussprache und kündigt die namentliche Abstimmung über den Gesetzentwurf der Grünen an. Er weist auf weitere Abstimmungen und Überweisungen hin und bittet die Abgeordneten, nicht alle gleichzeitig zur Abstimmung zu gehen.
+
+- **[1:26:06](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=1h26m6s)** - **Eröffnung der namentlichen Abstimmung**: Die namentliche Abstimmung über den Gesetzentwurf der Fraktion Bündnis 90/Die Grünen wird eröffnet.
+
+- **[1:26:23](https://www.youtube.com/watch?v=T3TU5TTNnBU&t=1h26m23s)** - **Beratung und Abstimmung über den Antrag der Grünen**: Der Antrag der Fraktion Bündnis 90/Die Grünen zur Beschlussempfehlung des Ausschusses wird aufgerufen. Die Beschlussempfehlung, den Antrag abzulehnen, wird von der Unionsfraktion, der AfD-Fraktion und der SPD unterstützt. Bündnis 90/Die Grünen und Die Linke stimmen dagegen. Die Beschlussempfehlung wird angenommen.

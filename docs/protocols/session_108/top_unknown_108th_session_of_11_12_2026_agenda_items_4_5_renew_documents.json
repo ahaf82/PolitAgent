@@ -1,0 +1,15 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "In der 108. Sitzung wurde die zweite und dritte Beratung des Gesetzentwurfs zur Änderung des Erneuerbare-Energien-Gesetzes (EEG) sowie die Beratung der Beschlussempfehlung zu einem Antrag der Fraktion Bündnis 90/Die Grünen zum EEG diskutiert. Es fand eine namentliche Abstimmung über den Gesetzentwurf der Grünen statt, dessen Ergebnis im Detail aus den Debattenbeiträgen nicht entnommen werden kann, aber eine klare Mehrheit fand, da die Regierungskoalition und Union dagegen stimmten, die Grünen und Linke dafür.",
+    "official_voting_url": "N/A",
+    "overall_result": {
+      "ja": null,
+      "nein": null,
+      "enthaltung": null,
+      "nicht_abgegeben": null
+    },
+    "faction_results": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die externen Reaktionen der identifizierten Abgeordneten auf den Gesetzentwurf zur Änderung des Erneuerbare-Energien-Gesetzes (EEG) spiegeln die Debatten im Plenum wider. Die CDU/CSU-Vertreter betonten Kosteneffizienz und Marktintegration, während die AfD vor Deindustrialisierung und hohen Strompreisen warnte und fossile Energien sowie Kernkraft befürwortete. Die SPD hob die Notwendigkeit eines verlässlichen Förderrahmens hervor und betonte die Rolle erneuerbarer Energien für die wirtschaftliche Zukunft. Bündnis 90/Die Grünen kritisierten die Verzögerungen der Bundesregierung und die damit verbundene Gefahr für die Energiewende. Die Linke unterstützte die Novelle der Grünen zur Verhinderung eines Förderstopps, bemängelte aber die Politik der Bundesumweltministerin. Die FDP plädierte für Marktintegration und technologieoffene Lösungen, wobei sie die Ziele des Ausbaus beibehielt, aber die Bezahlbarkeit in den Vordergrund stellte.",
+  "sources": [
+    {
+      "name": "Lars Höcker",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Steffen Kotré",
+      "party": "AfD",
+      "found": true,
+      "statement": "Steffen Kotré kritisiert die Unzulänglichkeit von deutschen Speicherkapazitäten für erneuerbare Energien und warnt vor Stromausfällen und Deindustrialisierung. Er argumentiert, dass die Energiewende mit Wind und Sonne unwirtschaftlich sei und zu hohen Strompreisen führe, während er Kernkraft, Kohle und Gaskraftwerke als notwendig erachtet.",
+      "source_title": "Reform des Erneuerbare-Energien-Gesetzes - Namentliche Abstimmungen - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/976644-976644",
+      "platform": "Presse"
+    },
+    {
+      "name": "Niels Annen",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Lisa Badum",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Lisa Badum kritisiert die Verzögerung der EEG-Novelle durch die Bundesregierung und die damit verbundene Gefährdung der Energiewende und Planungssicherheit. Sie betont, dass die von ihrer Fraktion vorgelegten Gesetzesentwürfe Lösungen zur Verlängerung des EEG und zur Umsetzung von EU-Vorgaben böten.",
+      "source_title": "EEG - Lisa Badum MdB",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Dietmar Bartsch",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Frank Schäffler",
+      "party": "FDP",
+      "found": true,
+      "statement": "Frank Schäffler lehnt das Heizungsgesetz ab und kritisiert die einseitige Förderung von Nutzungsarten in der Energiewende. Er setzt auf technische Innovationen und globale Lösungen, anstatt auf Verbote, und fordert eine CO2-Bepreisung mit handelbaren Lizenzen, die sektorenübergreifend erfolgen soll.",
+      "source_title": "Frank Schäffler: Ist die deutsche Energiewende bereits gescheitert? - YouTube",
+      "url": "https://www.youtube.com/watch?v=EleL9yM8zO2TZm3ZIMQU20UMujlimYLW-5l1-Sthf4iNpugrle7o8ip9l6gXNHpcczYlco7Gc7TK5DJtWzjqWXasyzbvAePvMCmhKzvaNX_AiyqdwgCbax8-3tjGW9eAJmYMIevrs=",
+      "platform": "Social Media"
+    }
+  ]
+}
