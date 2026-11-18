@@ -1,0 +1,104 @@
+{
+  "synthesis": "Die Debatte im Bundestag zum bundesweiten Mietendeckel offenbarte klare politische Gräben. Während Die Linke und Bündnis 90/Die Grünen vehement für strengere Mietregulierungen plädierten, warnten CDU/CSU und AfD vor negativen Auswirkungen auf den Wohnungsmarkt und verteidigten Eigentumsrechte. Die SPD zeigte sich offen für Maßnahmen zur Mietpreisdämpfung, betonte jedoch die Notwendigkeit eines ausgewogenen Ansatzes, der auch den Neubau fördert. Außerhalb des Plenums äußerten sich die Abgeordneten ähnlich ihren parlamentarischen Positionen. Caren Lay und Luigi Pantisano von Die Linke betonten die Notwendigkeit von Mietendeckeln und Vergesellschaftung, während Dr. Jan-Marco Luczak (CDU/CSU) vor den Folgen für den Wohnungsbau warnte und Hanna Steinmüller (Bündnis 90/Die Grünen) einen breiten Katalog an Maßnahmen zur Mieterschutz vorschlug. Hakan Demir (SPD) hob die Bedeutung von bezahlbarem Wohnraum als Menschenrecht hervor.",
+  "sources": [
+    {
+      "name": "Caren Lay",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Caren Lay fordert einen bundesweiten Mietendeckel und eine gemeinnützige Wohnungswirtschaft, um Mieten bezahlbar zu machen und Preistreiberei zu beenden. Sie argumentiert, dass der Markt zu sehr im Interesse von Profiteuren agiert und die Mieten deutlich sinken müssten. Sie hat sich zudem auf Social Media Kanälen, wie TikTok und Instagram, mit Songs wie 'Miethai hier im Block' für das Thema stark gemacht.",
+      "source_title": "Linken-Abgeordnete über Mietendeckel: „Der Markt richtet es nur im Interesse der Profiteure“ | taz.de",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Jan-Marco Luczak",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Dr. Jan-Marco Luczak lehnt einen Mietendeckel strikt ab und bezeichnet ihn als 'Todesstoß für den Wohnungsbau', da er Investitionen verhindere. Er warnt vor negativen Beispielen wie in Berlin, wo das Wohnungsangebot dramatisch eingebrochen sei. Er plädiert stattdessen für mehr Neubau und verweist auf Studien, die übermäßige Regulierung als Ursache für Angebotsknappheit sehen.",
+      "source_title": "Bundesweiter Mietendeckel wäre Todesstoß für den Wohnungsbau - Dr. Jan-Marco Luczak",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "found": true,
+      "statement": "Rainer Galla kritisiert den Antrag der Linken als Angriff auf Eigentum und Investitionen und sieht verfassungsrechtliche Bedenken. Er bezeichnet das Vorhaben als 'sozialistischen Schwachsinn' und warnt vor einem 'Bürokratiemonster', das den Wohnungsbau behindert. Er verweist zudem auf negative historische Beispiele von Mietregulierungen.",
+      "source_title": "AfD: Nachfragezuwachs seit 2015",
+      "url": "https://www.bundestag.de/parlament/wehrbeauftragter/amtstraeger/hoegl/truppenbesuche/963274-963274",
+      "platform": "Presse"
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "found": true,
+      "statement": "Hakan Demir betont, dass Wohnen ein Menschenrecht sei und der Markt nicht alles regelt. Er sieht eine Machtasymmetrie zugunsten der Vermieter und kritisiert die geringe Bautätigkeit großer Wohnungsunternehmen. Er signalisiert Offenheit für weitere Verhandlungen und Maßnahmen zur Mietpreisdämpfung und zur besseren Entlastung von kleinen und mittleren Einkommen.",
+      "source_title": "Dringend mehr bezahlbarer Wohnraum erforderlich | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/dringend-mehr-bezahlbarer-wohnraum-erforderlich",
+      "platform": "Presse"
+    },
+    {
+      "name": "Hanna Steinmüller",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Hanna Steinmüller präsentiert einen 'Adventskalender' mit 24 Vorschlägen für bezahlbare Mieten, darunter die Entfristung und Ausweitung der Mietpreisbremse, die Begrenzung von Indexmieten und stärkere Mieterschutzregeln. Sie kritisiert die Bundesregierung für zu geringe Maßnahmen und fordert, dass endlich etwas für bezahlbare Mieten getan wird. Auf Abgeordnetenwatch erklärt sie, dass ihre Partei Ländern ermöglichen möchte, Mietenstopps in angespannten Märkten zu verhängen.",
+      "source_title": "Berliner Abgeordnete Hanna Steinmüller: „Bestrafung von Mietwucher würde helfen“",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Otto Strauß",
+      "party": "AfD",
+      "found": true,
+      "statement": "Otto Strauß bezeichnet den Antrag der Linken als 'wohnungspolitischen Offenbarungseid' und 'Planwirtschaft mit Mietvertrag'. Er kritisiert die Mietobergrenzen und Kontrollen als schädlich für den Wohnungsbau und warnt vor den Folgen von Vergesellschaftung. Er fordert Wohnungen statt 'sozialistischer Experimente'.",
+      "source_title": "Planwirtschaft mit Mietvertrag! - Otto Strauß nimmt Linken-Antrag auseinander - AfD-Fraktion",
+      "url": "https://www.youtube.com/watch?v=nY4Jc5P5Jjg",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Hendrik Bollmann",
+      "party": "SPD",
+      "found": true,
+      "statement": "Hendrik Bollmann anerkennt die Probleme steigender Mieten, lehnt den Antrag der Linken jedoch ab. Er betont den Maßnahmenmix der Koalition, einschließlich Bauturbo und Mietrechtspaket II. Er kritisiert die einseitige Fokussierung der Linken auf 'deckeln' und 'vergesellschaften'. Er betont die Notwendigkeit von bezahlbarem Wohnraum und die Beschleunigung von Planung und Genehmigung.",
+      "source_title": "Dringend mehr bezahlbarer Wohnraum erforderlich | SPD-Bundestagsfraktion",
+      "url": "https://www.spdfraktion.de/presse/pressemitteilungen/dringend-mehr-bezahlbarer-wohnraum-erforderlich",
+      "platform": "Presse"
+    },
+    {
+      "name": "Kassem Taher Saleh",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Kassem Taher Saleh kritisiert die Bundesregierung für unzureichende Vorschläge zur Lösung der Wohnungsnot und hebt hervor, dass es nicht ausreiche, nur neu zu bauen. Er betont stattdessen die Bedeutung des Umbaus und der Nutzung bestehender Bausubstanz zur Schaffung von bezahlbarem Wohnraum und als klimafreundlichere Alternative zum Neubau auf der 'grünen Wiese'.",
+      "source_title": "Wohnungsbau: Grüne sind gegen neue Stadtviertel – und widersprechen Olaf Scholz - DER SPIEGEL",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Luigi Pantisano",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Luigi Pantisano kritisiert die Untätigkeit der Regierung angesichts der Existenzängste von Familien wegen hoher Mieten und hebt die Erfolge der Linken in Berlin bei der Mietpreisbekämpfung hervor. Er betont, dass mit Wohnraum nicht spekuliert werden dürfe und setzt sich für die Vergesellschaftung von Grundbedürfnissen wie Wohnen ein, um Gewinnstreben zu beenden.",
+      "source_title": "Linke-Chef Pantisano: „Wir wollen, dass alle Grundbedürfnisse, die die Menschen in dem Land haben, vergesellschaftet sind“ - WELT",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Johannes Rothenberger",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Johannes Rothenberger kritisiert die Linke dafür, Politik für Wohnungsinhaber statt für Wohnungssuchende zu machen, und verweist auf negative Erfahrungen mit Planwirtschaft. Er betont die Notwendigkeit, bezahlbaren Wohnraum zu schaffen und setzt sich für Maßnahmen wie den Bauturbo und verbesserte Förderungen für Genossenschaften ein. Seine Priorität ist das bezahlbare Wohnen.",
+      "source_title": "Das ultimative Interview zu bezahlbarem Wohnen: Johannes Rothenberger (CDU) über die Regierungspläne",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

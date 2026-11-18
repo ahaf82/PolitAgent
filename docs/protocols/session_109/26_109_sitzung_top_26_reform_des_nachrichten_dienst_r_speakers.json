@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die Debatte zur Reform des Nachrichtendienst­rechts im Bundestag im November 2026 offenbarte deutliche Unterschiede in der Bewertung der vorgeschlagenen Gesetzesänderungen. Während die Koalitionsparteien und Bündnis 90/Die Grünen die Notwendigkeit einer Stärkung der Nachrichtendienste zur Abwehr moderner Bedrohungen wie Cyberangriffe und Desinformation betonten, äußerten die Oppositionsparteien scharfe Kritik. Die AfD bemängelte verfassungswidrige Aspekte und einen Abbau des Rechtsschutzes, während Die Linke vor einer „neuen deutschen Geheimpolizei“ und Überwachung warnte. Externe Äußerungen der Abgeordneten spiegeln diese Positionen wider, wobei einige Abgeordnete auf Plattformen wie Abgeordnetenwatch auf Fragen zu den Rechten von Bürgern und den Befugnissen der Dienste eingingen, während andere sich über Fraktions-Websites und Pressemitteilungen zu den Inhalten der Reform äußerten. Es gab jedoch auch Abgeordnete, für die keine expliziten externen Stellungnahmen zu diesem spezifischen Thema gefunden werden konnten.",
+  "sources": [
+    {
+      "name": "Alexander Throm",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Reform als \"Quantensprung\" für Sicherheit und Freiheit und kritisiert die Ablehnung durch Oppositionsparteien. Hebt die Notwendigkeit starker Kontrollen hervor und dankt den Koalitionspartnern. Er ist Innenpolitischer Sprecher der CDU/CSU-Bundestagsfraktion und Mitglied im Parlamentarischen Kontrollgremium (PKGr).",
+      "source_title": "Profil bei abgeordnetenwatch / CDU/CSU-Fraktion",
+      "url": "https://www.abgeordnetenwatch.de/profile/alexander-throm",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Christian Wirth",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert das Gesetz als teilweise verfassungswidrig und bemängelt den abgebauten Rechtsschutz. Seine Partei lehnt den Entwurf ab, stimmt aber einem Änderungsantrag der Grünen zu. Seine Aussagen im Plenum deuten auf eine prinzipielle Ablehnung der erweiterten Befugnisse hin.",
+      "source_title": "Redebeitrag im Bundestag / Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/christian-wirth",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Sonja Eichwede",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont die Notwendigkeit der Reform angesichts veränderter Bedrohungen und die Schaffung handlungsfähiger Dienste mit klaren rechtsstaatlichen Grenzen. Sie wies Kritik an \"Geheimpolizei\" oder \"Stasi 2.0\" zurück. Eichwede ist stellvertretende Fraktionsvorsitzende der SPD-Bundestagsfraktion und Mitglied des Parlamentarischen Kontrollgremiums (PKGr).",
+      "source_title": "Redebeitrag im Bundestag / Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/sonja-eichwede",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Konstantin von Notz",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Sieht die Reform als überfällig an, um Dienste handlungsfähig zu machen, befürwortet die BND-Reform, lehnt die des Verfassungsschutzgesetzes in vorliegender Form ab und kritisiert die AfD und Die Linke scharf. Er war Vorsitzender des Parlamentarischen Kontrollgremiums (PKGr).",
+      "source_title": "Redebeitrag im Bundestag / Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/konstantin-von-notz",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Kritisiert die Reform als Aushöhlung der Demokratie und \"KI-Massenüberwachung\", befürchtet eine \"neue deutsche Geheimpolizei\" und verteidigt Grundrechte gegen autoritäre Tendenzen. Sie ist Obfrau im Innenausschuss.",
+      "source_title": "Redebeitrag im Bundestag / Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/clara-buenger",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Weist Kritik an \"neuer Geheimpolizei\" als \"Wahnsinn\" zurück, betont die stärkste Kontrolle und kritisiert Linke für Schwächung der Dienste. Er ist Bundesminister des Innern und betont, dass Verfassungsschutz \"Demokratieschutz\" sei.",
+      "source_title": "Redebeitrag im Bundestag / Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Alexander_Dobrindt",
+      "platform": "Presse"
+    },
+    {
+      "name": "Jochen Haug",
+      "party": "AfD",
+      "found": true,
+      "statement": "Spricht von \"Projektionen\" und kritisiert das Aufbrechen des Trennungsprinzips als \"Büchse der Pandora\". Bezeichnet Befugnisse zur Desinformation und heimliches Eindringen als verfassungswidrig und sieht den Verfassungsschutz als Instrument der politischen Disziplinierung.",
+      "source_title": "Redebeitrag im Bundestag / Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/jochen-haug",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont die Reform als größte in der Geschichte der BRD aufgrund von Bedrohungen und kritisiert die AfD scharf sowie die Linke für Verkennung der Gefahrenlage. Fiedler ist Sprecher der AG \"Kriminalpolitik\" der SPD-Bundestagsfraktion.",
+      "source_title": "Redebeitrag im Bundestag / SPD-Bundestagsfraktion",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Nina Warken",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Betont die Notwendigkeit der Reform angesichts vielfältiger Gefahren und stellt sie als \"größte Novellierung\" des Nachrichtendienstrechts dar, die Dienste konkurrenzfähiger machen soll. Sie ist Bundesministerin für besondere Aufgaben und Chefin des Bundeskanzleramts.",
+      "source_title": "Rede im Bundestag am 24.09.2026 / BULLETIN DER BUNDESREGIERUNG",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}
