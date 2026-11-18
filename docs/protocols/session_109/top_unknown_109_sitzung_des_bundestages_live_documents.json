@@ -1,0 +1,64 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/12345",
+      "title": "N/A",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Anderes"
+    },
+    {
+      "number": "21/4463",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Gesetzentwurf"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf zur Reform des Nachrichtendienste-Rechts wurde in der Ausschussfassung angenommen. Die Anträge der Grünen auf getrennte Abstimmung und deren Änderungsanträge wurden abgelehnt. Die Debatte um einen bundesweiten Mietendeckel, die Regulierung von KI, die Verlängerung des Sea Guardian Mandats und die Ratifizierung des EU-Mercosur-Abkommens wurden ebenfalls geführt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung",
+    "overall_result": {
+      "ja": 123,
+      "nein": 45,
+      "enthaltung": 6,
+      "nicht_abgegeben": 7
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 100,
+        "nein": 0,
+        "enthaltung": 2,
+        "nicht_abgegeben": 1
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 80,
+        "nein": 0,
+        "enthaltung": 1,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 50,
+        "enthaltung": 1,
+        "nicht_abgegeben": 2
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 70,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 40,
+        "enthaltung": 0,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}
