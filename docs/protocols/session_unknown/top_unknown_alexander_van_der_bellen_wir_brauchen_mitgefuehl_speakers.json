@@ -1,0 +1,59 @@
+{
+  "synthesis": "Alexander Van der Bellen, der Bundespräsident Österreichs, hielt am 16. November 2026 eine Rede zum Volkstrauertag im Deutschen Bundestag. Seine Kernbotschaft betonte die Notwendigkeit von Mitgefühl als Stärke und Fundament der Humanität, nicht als Schwäche. Er rief dazu auf, aus der Geschichte zu lernen und aktiv gegen heutiges Unrecht aufzutreten. Externe Recherchen zu den anderen im Protokoll genannten Personen (Katharina Eder, Elias Monschau, Theresa Kases, Amro Abi, Christine Nöstlinger) ergaben keine direkten externen Äußerungen zu dieser spezifischen Debatte. Christine Nöstlinger hat sich in der Vergangenheit wiederholt zu Themen wie Rassismus und Empathie geäußert, jedoch ohne direkten Bezug zu dieser Bundestagsdebatte.",
+  "sources": [
+    {
+      "name": "Alexander Van der Bellen",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Der österreichische Bundespräsident appellierte in seiner Rede zum Volkstrauertag im Bundestag am 16. November 2026 zum Mitgefühl als Fundament der Humanität und rief dazu auf, aus der Geschichte zu lernen und gegen heutiges Unrecht aufzutreten. Er betonte, dass Mitgefühl eine Stärke und keine Schwäche sei und man der täglichen Flut von Leid in den Medien nicht abstumpfen dürfe.",
+      "source_title": "Volkstrauertag: Rede von Alexander Van der Bellen im Deutschen Bundestag",
+      "url": "https://www.bundespraesident.at/aktuelles/detail/rede-von-alexander-van-der-bellen-im-deutschen-bundestag-anlaesslich-des-volkstrauertages",
+      "platform": "Website"
+    },
+    {
+      "name": "Katharina Eder",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Elias Monschau",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Theresa Kases",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Amro Abi",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Christine Nöstlinger",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Die verstorbene Schriftstellerin Christine Nöstlinger hat sich in der Vergangenheit mehrfach zu Themen wie Empathie, Mitgefühl, Rassismus und der Bedeutung von Bildung für ein friedliches Zusammenleben geäußert. In einer Rede zum 70. Jahrestag der Befreiung des Konzentrationslagers Mauthausen 2015 warnte sie vor Rassismus und Fremdenfeindlichkeit und betonte die Wichtigkeit von Bildung zur Bekämpfung von Vorurteilen.",
+      "source_title": "Rede bei der Gedenkveranstaltung gegen Gewalt und Rassismus am 5. Mai 2015",
+      "url": "https://www.youtube.com/watch?v=_3AYKtP78-s",
+      "platform": "Presse"
+    }
+  ]
+}

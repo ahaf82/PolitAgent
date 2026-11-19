@@ -1,0 +1,89 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7868",
+      "title": "Entwurf eines Gesetzes zur Reform des Nachrichtendienstrechts",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7868&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/8295",
+      "title": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Reform des Nachrichtendienstrechts",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8295&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/9161",
+      "title": "Beschlussempfehlung und Bericht des Ausschusses für Inneres und Heimat (4. Ausschuss) zu dem Entwurf eines Gesetzes zur Reform des Nachrichtendienstrechts",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9161&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/8114",
+      "title": "Antrag: Stärkung der nationalen Souveränität und der operativen Fähigkeiten des Bundesnachrichtendienstes",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8114&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/9173",
+      "title": "Bericht des Haushaltsausschusses (8. Ausschuss) zu dem Entwurf eines Gesetzes zur Reform des Nachrichtendienstrechts",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9173&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag hat am 13. November 2026 in namentlicher Abstimmung den Gesetzentwurf zur Reform des Nachrichtendienstrechts in modifizierter Fassung beschlossen. Dies bedeutet eine umfassende Überarbeitung und Stärkung der Aufklärungsfähigkeiten des Bundesnachrichtendienstes und des Bundesamtes für Verfassungsschutz.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=775015",
+    "overall_result": {
+      "ja": 308,
+      "nein": 190,
+      "enthaltung": 71,
+      "nicht_abgegeben": 61
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 201,
+        "nein": 1,
+        "enthaltung": 0,
+        "nicht_abgegeben": 6
+      },
+      {
+        "faction": "SPD",
+        "ja": 107,
+        "nein": 1,
+        "enthaltung": 1,
+        "nicht_abgegeben": 11
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 133,
+        "enthaltung": 0,
+        "nicht_abgegeben": 17
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 2,
+        "enthaltung": 69,
+        "nicht_abgegeben": 14
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 52,
+        "enthaltung": 0,
+        "nicht_abgegeben": 12
+      },
+      {
+        "faction": "Fraktionslos",
+        "ja": 0,
+        "nein": 1,
+        "enthaltung": 1,
+        "nicht_abgegeben": 1
+      }
+    ]
+  }
+}

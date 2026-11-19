@@ -1,0 +1,58 @@
+{
+  "documents": [],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Gesetzentwurf zur Änderung des Strafgesetzbuches zur Stärkung des strafrechtlichen Schutzes vor K.-o.-Tropfen wurde in zweiter und dritter Beratung angenommen. Die von den Grünen eingebrachten Entschließungsanträge wurden abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/abstimmung?id=766738",
+    "overall_result": {
+      "ja": 507,
+      "nein": 0,
+      "enthaltung": 75,
+      "nicht_abgegeben": 17
+    },
+    "faction_results": [
+      {
+        "faction": "SPD",
+        "ja": 150,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "CDU/CSU",
+        "ja": 155,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 117,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 75,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 46,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      },
+      {
+        "faction": "FDP",
+        "ja": 0,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 17
+      }
+    ]
+  }
+}

@@ -1,5 +1,70 @@
 [
   {
+    "id": "oi_5tZ-s1-I",
+    "title": "Alexander Van der Bellen: Wir brauchen Mitgefühl",
+    "session": 0,
+    "date": "2026-11-16",
+    "top": "N/A",
+    "topic": "Alexander Van der Bellen: Wir brauchen Mitgefühl",
+    "summary_path": "protocols/session_unknown/top_unknown_alexander_van_der_bellen_wir_brauchen_mitgefuehl.md",
+    "documents_path": "protocols/session_unknown/top_unknown_alexander_van_der_bellen_wir_brauchen_mitgefuehl_documents.json",
+    "speakers_path": "protocols/session_unknown/top_unknown_alexander_van_der_bellen_wir_brauchen_mitgefuehl_speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=oi_5tZ-s1-I",
+    "processed_at": "2026-11-19T08:05:09.881419"
+  },
+  {
+    "id": "RSScbf5RgBw",
+    "title": "Volkstrauertag 2026 – Gedenken an Opfer von Krieg und Gewalt",
+    "session": 0,
+    "date": "2026-11-16",
+    "top": "N/A",
+    "topic": "Volkstrauertag 2026 – Gedenken an Opfer von Krieg und Gewalt",
+    "summary_path": "protocols/session_unknown/top_unknown_volkstrauertag_2026_gedenken_an_opfer_von_krieg_un.md",
+    "documents_path": "protocols/session_unknown/top_unknown_volkstrauertag_2026_gedenken_an_opfer_von_krieg_un_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=RSScbf5RgBw",
+    "processed_at": "2026-11-19T08:05:30.741643"
+  },
+  {
+    "id": "icRkotEDemo",
+    "title": "109. Sitzung des Bundestages – LIVE",
+    "session": 109,
+    "date": "2026-11-13",
+    "top": "N/A",
+    "topic": "109. Sitzung des Deutschen Bundestages",
+    "summary_path": "protocols/session_109/top_unknown_109_sitzung_des_bundestages_live.md",
+    "documents_path": "protocols/session_109/top_unknown_109_sitzung_des_bundestages_live_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=icRkotEDemo",
+    "processed_at": "2026-11-19T08:02:45.946209"
+  },
+  {
+    "id": "-4QX-YQfS9k",
+    "title": "109. Sitzung vom 13.11.2026. TOP 30: Bundeswehreinsatz SEA GUARDIAN",
+    "session": 109,
+    "date": "2026-11-13",
+    "top": "30",
+    "topic": "Fortsetzung des Bundeswehreinsatzes \"SEA GUARDIAN\" im Mittelmeer",
+    "summary_path": "protocols/session_109/30_bundeswehreinsatz_sea_guardian.md",
+    "documents_path": "protocols/session_109/30_bundeswehreinsatz_sea_guardian_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=-4QX-YQfS9k",
+    "processed_at": "2026-11-19T08:04:38.589488"
+  },
+  {
+    "id": "NtbWCpwgR4o",
+    "title": "109. Sitzung vom 13.11.2026. TOP 29: KI-Sicherheit",
+    "session": 109,
+    "date": "2026-11-13",
+    "top": "29",
+    "topic": "KI-Sicherheit stärken – Risiken leistungsfähiger KI-Systeme wirksam begrenzen",
+    "summary_path": "protocols/session_109/29_ki_sicherheit.md",
+    "documents_path": "protocols/session_109/29_ki_sicherheit_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=NtbWCpwgR4o",
+    "processed_at": "2026-11-19T08:04:02.880159"
+  },
+  {
     "id": "gd6i74pUmFo",
     "title": "109. Sitzung, TOP 27: Bundes­weiter Mieten­deckel",
     "session": 109,
@@ -72,7 +137,7 @@
     "top": "N/A",
     "topic": "Aktuelle Stunde zur Demonstration vor dem Bundestag",
     "summary_path": "protocols/session_unknown/top_unknown_am_mittwoch_fand_eine_aktuelle_stunde_auf_verlange.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_am_mittwoch_fand_eine_aktuelle_stunde_auf_verlange_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=oA2S9ONk39Q",
     "processed_at": "2026-11-18T08:01:33.730543"
@@ -215,7 +280,7 @@
     "top": "25",
     "topic": "Änderung des Strafgesetzbuches – Stärkung des strafrechtlichen Schutzes vor K.-o.-Tropfen",
     "summary_path": "protocols/session_106/25_aenderung_des_stgb_schutz_vor_k_o_tropfen.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_106/25_aenderung_des_stgb_schutz_vor_k_o_tropfen_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=BywXXGV3h98",
     "processed_at": "2026-11-11T08:03:42.345575"
