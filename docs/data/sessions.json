@@ -475,7 +475,7 @@
     "top": "N/A",
     "topic": "Anhörung im Ausschuss für Wirtschaft und Energie zum Gesetzentwurf zur Beschleunigung von Planungs- und Genehmigungsverfahren",
     "summary_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_wirtschaft_und_energie.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_wirtschaft_und_energie_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=uQW9zSHvc58",
     "processed_at": "2026-11-04T20:02:12.578629"
@@ -4477,7 +4477,7 @@
     "top": "9",
     "topic": "Stärkung der Cybersicherheit",
     "summary_path": "protocols/session_108/9_108th_session_of_11_12_2026_agenda_item_9_strength.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_108/9_108th_session_of_11_12_2026_agenda_item_9_strength_documents.json",
     "speakers_path": "protocols/session_108/9_108th_session_of_11_12_2026_agenda_item_9_strength_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=vasQwdA3p2M",
     "processed_at": "2026-11-17T08:01:13.079634"
