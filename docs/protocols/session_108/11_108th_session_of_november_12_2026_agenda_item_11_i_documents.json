@@ -1,0 +1,82 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/9149",
+      "title": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR MED IRINI",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9149&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/8821",
+      "title": "Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR MED IRINI",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8821&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/8909",
+      "title": "Antrag Fraktion DIE LINKE: EUNAVFOR MED IRINI stoppen – Seenotrettung stärken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8909&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/9151",
+      "title": "Beschlussempfehlung und Bericht Auswärtiger Ausschuss zu dem Antrag der Fraktion DIE LINKE: EUNAVFOR MED IRINI stoppen – Seenotrettung stärken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9151&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 20/12345",
+      "title": "Kleine Anfrage der Abgeordneten Ina Latendorf, Dr. Gesine Lötzsch, Jörg Cezanne, weiterer Abgeordneter und der Gruppe Die Linke: Umbau der Tierhaltung",
+      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Bundestag hat die Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-Operation EUNAVFOR MED IRINI beschlossen. Der Antrag der Fraktion Die Linke, die Mission zu stoppen und die Seenotrettung zu stärken, wurde abgelehnt.",
+    "official_voting_url": "https://www.bundestag.de/dokumente/abstimmung/abstimmungen/21-108-eunavfor-med-irini-973292",
+    "overall_result": {
+      "ja": 314,
+      "nein": 270,
+      "enthaltung": 3,
+      "nicht_abgegeben": 43
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 202,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 6
+      },
+      {
+        "faction": "SPD",
+        "ja": 109,
+        "nein": 0,
+        "enthaltung": 3,
+        "nicht_abgegeben": 8
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 139,
+        "enthaltung": 0,
+        "nicht_abgegeben": 11
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 1,
+        "nein": 74,
+        "enthaltung": 0,
+        "nicht_abgegeben": 10
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 56,
+        "enthaltung": 0,
+        "nicht_abgegeben": 8
+      }
+    ]
+  }
+}
