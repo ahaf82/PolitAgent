@@ -47,7 +47,7 @@
     "topic": "Fortsetzung des Bundeswehreinsatzes \"SEA GUARDIAN\" im Mittelmeer",
     "summary_path": "protocols/session_109/30_bundeswehreinsatz_sea_guardian.md",
     "documents_path": "protocols/session_109/30_bundeswehreinsatz_sea_guardian_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_109/30_bundeswehreinsatz_sea_guardian_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=-4QX-YQfS9k",
     "processed_at": "2026-11-19T08:04:38.589488"
   },
@@ -306,7 +306,7 @@
     "top": "17",
     "topic": "Menschenrechtspolitik",
     "summary_path": "protocols/session_105/17_human_rights_policy.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_105/17_human_rights_policy_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=ODOF4cifcdM",
     "processed_at": "2026-11-07T08:04:49.059342"
@@ -4516,7 +4516,7 @@
     "top": "7",
     "topic": "Zollverwaltung stärken und Finanzkriminalität bekämpfen",
     "summary_path": "protocols/session_108/7_108th_session_of_11_12_2026_agenda_item_7_customs_.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_108/7_108th_session_of_11_12_2026_agenda_item_7_customs__documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=Y2jNKmMCAHA",
     "processed_at": "2026-11-17T08:05:45.173753"

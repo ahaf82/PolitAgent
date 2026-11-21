@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 20/14480",
+      "title": "16. Bericht der Bundesregierung über ihre Menschenrechtspolitik",
+      "url": "https://dserver.bundestag.de/btd/20/144/2014480.pdf",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/8396",
+      "title": "Beschlussempfehlung und Bericht zu der Unterrichtung durch die Bundesregierung - Drucksache 20/14480 - 16. Bericht der Bundesregierung über ihre Menschenrechtspolitik",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8396&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/8951",
+      "title": "Entschließungsantrag der Abgeordneten Max Lucks, Boris Mijatovic, Claudia Roth, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der Beratung der Unterrichtung durch die Bundesregierung – Drucksachen 20/14480, 21/8396 – Bericht der Bundesregierung über ihre Menschenrechtspolitik",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8951&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/8660",
+      "title": "Antrag Völkerrechtliche Verpflichtungen einhalten – Menschenrecht auf angemessene Nahrung bei der Berechnung des Existenzminimums gewährleisten",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8660&rows=25",
+      "type": "Antrag"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Beschlussempfehlung zur Menschenrechtspolitik wurde mit Stimmenmehrheit angenommen. Der Entschließungsantrag der Fraktion Bündnis 90/Die Grünen wurde abgelehnt. Der Antrag der Fraktion Die Linke zum Menschenrecht auf Nahrung wurde zur weiteren Beratung an die Ausschüsse überwiesen.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}

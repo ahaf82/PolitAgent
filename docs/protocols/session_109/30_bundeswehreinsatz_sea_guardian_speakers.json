@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die externen Stellungnahmen der identifizierten Bundestagsabgeordneten zum Bundeswehreinsatz \"SEA GUARDIAN\" im Mittelmeer zeigten eine klare Fraktionszugehörigkeit. Während Abgeordnete der CDU/CSU und SPD die Fortsetzung des Einsatzes zur Sicherung von Handelswegen und maritimer Stabilität befürworteten, lehnten AfD und Die Linke eine Verlängerung vehement ab und kritisierten die Effektivität und Notwendigkeit der Mission. Bündnis 90/Die Grünen stimmten der Fortsetzung zwar zu, äußerten jedoch Bedenken hinsichtlich der Mandatsklarheit und der Formulierung im Begründungsteil.",
+  "sources": [
+    {
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Jürgen Hardt äußerte sich im Kontext des Einsatzes \"SEA GUARDIAN\" und betonte die Notwendigkeit der Operation für die Sicherung freier Seewege und die Schaffung eines vernünftigen Lagebildes, insbesondere im Hinblick auf Handelswege und die Abwehr von Piraterie. Er hob die Bedeutung des Mittelmeers als zentrale Südflanke der NATO hervor.",
+      "source_title": "Jürgen Hardt, MdB, CDU/CSU",
+      "url": "https://dip.bundestag.de/aktivit%C3%A4t/j%C3%BCrgen-hardt-mdb-cdu-csu/1409955?f.deskriptor=Mittelmeer&start=575&rows=25&pos=596&ctx=d",
+      "platform": "Website"
+    },
+    {
+      "name": "Kurt Kleinschmidt",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kurt Kleinschmidt lehnte die Fortsetzung des Mandats ab und bezeichnete die Operation als \"Fake News\" und \"unnötige und lächerliche Mission\", da sie seiner Meinung nach keine spezifische Sicherheitsbedrohung löse und keine konkreten Ergebnisse liefere. Er kritisierte zudem die Auslaufens der UN-Resolutionen, die Gewaltanwendung legitimierten.",
+      "source_title": "04 Kurt Kleinschmidt AfD Agenda Item 30 Bundeswehr deployment - YouTube",
+      "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DmJ5rUGtD11I&q=EhAgAwDIPySFoQLYYf_-jsdWGIWhhdgGIjBhBguZTQUj-u4m-2IC92g-aDLt70fC8MJbGY5kca2rPgNA7A8qGdaKaPeMDqRZn60yAnJSWgFDYNSVlfLKq8zQrQE",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Aydan Özoğuz",
+      "party": "SPD",
+      "found": false,
+      "statement": "Aydan Özoğuz betonte die Notwendigkeit der deutschen Beteiligung an \"SEA GUARDIAN\" für Europas Sicherheit und die Wichtigkeit des Mittelmeeres für den globalen Seehandel. Sie erklärte, dass die Operation ein verlässliches Lagebild liefere und zur Bekämpfung maritimer Bedrohungen diene.",
+      "source_title": "Bundestag beschließt Fortsetzung der Operationen EUNAVFOR MED IRINI und SEA GUARDIAN - Deutscher Bundeswehr Verband e.V.",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Omid Nouripour",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Gregor Gysi",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
