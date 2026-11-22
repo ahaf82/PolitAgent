@@ -4828,7 +4828,7 @@
     "top": "5",
     "topic": "Einsatz der Bundeswehr zur maritimen Sicherheit im Mittelmeer (Operation SEA GUARDIAN)",
     "summary_path": "protocols/session_104/5_104th_session_from_11_04_2026_agenda_item_5_bundes.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_104/5_104th_session_from_11_04_2026_agenda_item_5_bundes_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=Dy7UlqmJHHU",
     "processed_at": "2026-11-07T08:01:20.397191"
@@ -8763,7 +8763,7 @@
     "top": "N/A",
     "topic": "Anhörung zum Ausbau der Offshore-Windenergie",
     "summary_path": "protocols/session_unknown/top_unknown_hearing_on_the_expansion_of_offshore_wind_energy.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_hearing_on_the_expansion_of_offshore_wind_energy_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=6wLz0t9VWSs",
     "processed_at": "2026-11-03T08:06:50.942413"
