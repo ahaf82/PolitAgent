@@ -1,0 +1,68 @@
+{
+  "synthesis": "Abgeordnete, die sich zur KI-Sicherheit im Bundestag geäußert haben, zeigen unterschiedliche Ansichten bezüglich des Tempos der Regulierung und der Förderung von Innovation. Während einige auf die dringende Notwendigkeit strengerer Sicherheitsstandards und internationaler Aufsicht hinweisen, betonen andere die Gefahr, Deutschland durch übermäßige Bürokratie im internationalen Wettbewerb zurückfallen zu lassen. Externe Äußerungen auf persönlichen Websites und Social-Media-Kanälen spiegeln diese Debatten wider, wobei einige Abgeordnete ihre Positionen zu Datensicherheit, Privatsphäre und den demokratischen Auswirkungen von KI vertiefen. Die Rolle von Institutionen wie dem AI-Safety-and-Security-Institute wird ebenfalls diskutiert.",
+  "sources": [
+    {
+      "name": "Rebecca Lenhard",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Lenhard betont die Notwendigkeit einer aktiven Gestaltung der KI-Entwicklung, da das Zeitfenster für die Mitgestaltung schließe. Sie hebt hervor, dass KI-Systeme hochriskant und unreguliert seien und fordert internationale Standards, Sicherheitskontrollen und Haftungsregelungen. Auf ihrer Website werden auch Themen wie \"Wie wir die Kontrolle über KI behalten können\" und die Haftung von KI-Firmen behandelt.",
+      "source_title": "Rebecca Lenhard | Bundestagsfraktion Bündnis 90/Die Grünen & Politblick: Grüne fordern Haftung für KI-Firmen und Management",
+      "url": "https://www.gruene-bundestag.de/abgeordnete/details/rebecca-lenhard/",
+      "platform": "Website"
+    },
+    {
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Schulz warnt davor, dass eine übermäßige Regulierung von KI in Deutschland zu einem Rückfall im internationalen Wettbewerb führen könnte, während andere Länder wie China und die USA fortschreiten. Er sieht die Bundesregierung mit dem BSI und dem AI-Safety-and-Security-Institute bereits auf einem guten Weg und betont, dass Sicherheit durch moderne Systeme und Standardsetzung erreicht werden sollte, nicht durch reine Bürokratisierung. Seine Abstimmungsverhalten und Reden sind auf Plattformen wie Abgeordnetenwatch und Nexus Politics einsehbar.",
+      "source_title": "Marvin Schulz - Profil bei abgeordnetenwatch & Marvin Schulz (CDU, Deutscher Bundestag): Abstimmungen und Reden | Nexus Politics",
+      "url": "https://nexuspolitics.org/politicians/marvin-schulz-470",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "found": true,
+      "statement": "Jünger kritisiert, dass Deutschland sich zu sehr auf Regulierung konzentriere, während andere Länder leistungsfähigere KI-Systeme entwickeln. Er betont, dass die Sicherheit eines KI-Systems primär in der technischen Architektur und der Mündigkeit des Anwenders liegen müsse, nicht in bürokratischen Rahmen. Zweifel am deutschen KI-Sicherheitsinstitut AISI aufgrund unklarer Finanzierungspläne werden ebenfalls geäußert. Seine Abstimmungsverhalten und Antworten auf Fragen sind auf Abgeordnetenwatch zu finden.",
+      "source_title": "Robin Jünger - Profil bei abgeordnetenwatch & Robin Jünger - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/robin-juenger/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Wagner hebt die konkreten Risiken von KI hervor, insbesondere im Hinblick auf den Schutz der Privatsphäre und die Gefahr für die Demokratie durch KI als neue Gatekeeper der Nachrichtenvermittlung. Sie fordert die Stärkung des AI Safety and Security Institute und die Finanzierung externer Aufsichten durch Unternehmen. Ihre Positionen und Abstimmungsverhalten sind auf ihrer persönlichen Website und auf Abgeordnetenwatch dokumentiert.",
+      "source_title": "Dr. Carolin Wagner - SPD-Bundestagsfraktion & Dr. Carolin Wagner: Abstimmungen, Reden und Profil - Nexus Politics",
+      "url": "https://nexuspolitics.org/politicians/carolin-wagner-615",
+      "platform": "Website"
+    },
+    {
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "found": true,
+      "statement": "Lemke bestätigt die Notwendigkeit von Investitionen in Cybersicherheit, kritisiert jedoch die Vernachlässigung der Kommunen. Sie warnt vor extremer Machtkonzentration bei wenigen Unternehmen und dem Missbrauch dieser Macht. Die KI-Verordnung müsse verschärft werden, um sicherzustellen, dass statistische Verfahren keine Entscheidungen über Menschen treffen. Ihre Abstimmungsverhalten und Antworten auf Fragen sind auf Abgeordnetenwatch zu finden.",
+      "source_title": "Sonja Lemke - Profil bei abgeordnetenwatch & Sonja Lemke - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/robin-juenger/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Thomas Jarzombek",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Jarzombek betont, dass die Bundesregierung die Risiken von KI ernst nehme und handele, aber auch die Notwendigkeit der Innovation hervorhebe. Er nennt konkrete Maßnahmen wie die Gründung des AISI und die Kooperation mit Kanada zur Gestaltung von KI und zur Vermeidung einer Abhängigkeit von den USA und China. Seine politischen Aktivitäten und Abstimmungsverhalten sind auf der Website des Deutschen Bundestages und auf Abgeordnetenwatch dokumentiert.",
+      "source_title": "Thomas Jarzombek - Deutscher Bundestag & Thomas Jarzombek - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/thomas-jarzombek",
+      "platform": "Website"
+    },
+    {
+      "name": "Ralph Brinkhaus",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Brinkhaus erkennt die Wichtigkeit der Auseinandersetzung mit KI an, kritisiert jedoch eine zu defensive Haltung und fordert eine stärkere Fokussierung auf die Chancen und Möglichkeiten von KI. Er betont die Notwendigkeit, die epochale Veränderung durch KI aktiv zu gestalten, anstatt sich nur defensiv einzupassen. Seine offizielle Website und sein Profil bei Abgeordnetenwatch bieten Einblicke in seine Positionen und Aktivitäten.",
+      "source_title": "Ralph Brinkhaus, MdB < CDU/CSU Landesgruppe NRW & Ralph Brinkhaus - Profil bei abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/ralph-brinkhaus/abstimmungen",
+      "platform": "Website"
+    }
+  ]
+}

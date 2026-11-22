@@ -60,7 +60,7 @@
     "topic": "KI-Sicherheit stärken – Risiken leistungsfähiger KI-Systeme wirksam begrenzen",
     "summary_path": "protocols/session_109/29_ki_sicherheit.md",
     "documents_path": "protocols/session_109/29_ki_sicherheit_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_109/29_ki_sicherheit_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=NtbWCpwgR4o",
     "processed_at": "2026-11-19T08:04:02.880159"
   },
@@ -4672,7 +4672,7 @@
     "top": "N/A",
     "topic": "106. Sitzung am 06.11.2026: Klimapolitik und Militäremissionen",
     "summary_path": "protocols/session_106/top_unknown_106th_session_of_11_06_2026_agenda_items_28a_28b_c.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_106/top_unknown_106th_session_of_11_06_2026_agenda_items_28a_28b_c_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=v0F8lR2j064",
     "processed_at": "2026-11-11T08:00:49.512215"
