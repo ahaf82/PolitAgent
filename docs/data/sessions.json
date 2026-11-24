@@ -1,5 +1,57 @@
 [
   {
+    "id": "1nQ4l-9nXJ0",
+    "title": "Mitmischen-Generationengerechtigkeit",
+    "session": 0,
+    "date": "2026-11-24",
+    "top": "N/A",
+    "topic": "Generationengerechtigkeit im politischen Diskurs",
+    "summary_path": "protocols/session_unknown/top_unknown_mitmischen_generationengerechtigkeit.md",
+    "documents_path": "protocols/session_unknown/top_unknown_mitmischen_generationengerechtigkeit_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=1nQ4l-9nXJ0",
+    "processed_at": "2026-11-24T08:01:11.152417"
+  },
+  {
+    "id": "l13jD6ZuYMw",
+    "title": "Anhörung des Verkehrsausschusses",
+    "session": 0,
+    "date": "2026-11-24",
+    "top": "N/A",
+    "topic": "Anhörung zur Änderung der Finanzierung der Autobahn GmbH",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_des_verkehrsausschusses.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=l13jD6ZuYMw",
+    "processed_at": "2026-11-24T08:02:31.242266"
+  },
+  {
+    "id": "PrMPe7W2Iow",
+    "title": "Anhörung des Innenausschusses",
+    "session": 0,
+    "date": "2026-11-24",
+    "top": "N/A",
+    "topic": "Anhörung des Innenausschusses",
+    "summary_path": "protocols/session_unknown/top_unknown_anhoerung_des_innenausschusses.md",
+    "documents_path": "protocols/session_unknown/top_unknown_anhoerung_des_innenausschusses_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=PrMPe7W2Iow",
+    "processed_at": "2026-11-24T08:03:37.543356"
+  },
+  {
+    "id": "vjnr760R8Gs",
+    "title": "Im Interview: Lisa Paus",
+    "session": 0,
+    "date": "2026-11-24",
+    "top": "N/A",
+    "topic": "Im Interview: Lisa Paus",
+    "summary_path": "protocols/session_unknown/top_unknown_im_interview_lisa_paus.md",
+    "documents_path": "protocols/session_unknown/top_unknown_im_interview_lisa_paus_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=vjnr760R8Gs",
+    "processed_at": "2026-11-24T08:04:01.272714"
+  },
+  {
     "id": "oi_5tZ-s1-I",
     "title": "Alexander Van der Bellen: Wir brauchen Mitgefühl",
     "session": 0,
