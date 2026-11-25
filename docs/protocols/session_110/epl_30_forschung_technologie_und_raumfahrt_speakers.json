@@ -1,0 +1,212 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum Thema Forschung, Technologie und Raumfahrt spiegeln die im Bundestag geäußerten Positionen wider. Die AfD-Vertreter Sergej Minich und Stefan Schröder kritisieren die Ausgaben und die strategische Ausrichtung des Ministeriums, hinterfragen die Notwendigkeit bestimmter Förderprogramme und schlagen eine stärkere Fokussierung auf Kernforschung und bezahlbare Energie vor. Die Union, vertreten durch Carsten Körber und Dr. Inger Kresse, betont die Wichtigkeit der Hightech-Agenda, Schlüsseltechnologien wie KI und Chipdesign sowie die internationale Zusammenarbeit. Die Grünen, unter anderem durch Ekin Deligöz und Dr. Felix Winter, fordern mehr Mittel für maritime Forschung und kritisieren Einsparungen im Bildungs- und Forschungsbereich. Die SPD, repräsentiert durch Robert Stüve und Dr. Caroline Wagner, hebt die Bedeutung von Wissenschaft für den Fortschritt, die Förderung von Innovationen und die Sicherung der technologischen Souveränität hervor. Bundesministerin Dorothee Bär verteidigt die Innovationskraft Deutschlands, betont die Wichtigkeit internationaler Kooperationen und kritisiert die nationalistischen Tendenzen der AfD.",
+  "sources": [
+    {
+      "name": "Sergej Minich",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Haushaltsführung des Forschungsministeriums als \"einfallslosen linken Gesinnungshaushalt\" und \"gigantisches Steuerzahlerbuffet für Ideologen\", bemängelt die Förderung von parteinahen Stiftungen und fordert eine stärkere Fokussierung auf Kernforschung und Technologie statt auf fragwürdige Projekte.",
+      "source_title": "Aussprache über die Raumfahrtnation Deutschland - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sergej Minich",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Ausgaben für Vogelstimmen-Erkennungs-Apps als sicherheitsrelevant finanzierte Projekte und fordert \"weniger Vogelstimmen, mehr Seriosität\", sowie eine Fokussierung auf die technologische Eigenständigkeit Deutschlands.",
+      "source_title": "Sergej Minich on Research, Technology, and Aerospace! - AfD Parliamentary Group in the Bundestag - YouTube",
+      "url": "https://www.youtube.com/watch?v=s3iRFUaWqLY",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Sergej Minich",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Ausgaben für Videospiele und fragwürdige Apps als Verschwendung von Steuergeldern und bemängelt die mangelnde Transparenz bei der Mittelverwendung.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Carsten Körber",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Notwendigkeit, technologische Stärke mit konkreten Perspektiven für Unternehmen und Beschäftigte zu verbinden und setzt sich für die Stärkung von Chipdesign und humanoider Robotik ein.",
+      "source_title": "Forschung stärken, Zukunft gestalten: Körber setzt auf Technologie und Wertschöpfung – mit Chancen für Sachsen",
+      "url": "https://www.carsten-koerber.de/aktuelles/2026/forschung-staerken-zukunft-gestalten",
+      "platform": "Website"
+    },
+    {
+      "name": "Carsten Körber",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Hebt hervor, dass Spitzenforschung 'Made in Germany' gefördert werden soll und nennt die Sicherung der Hightech-Agenda, KI und Chipdesign als Prioritäten.",
+      "source_title": "Forschung, Technologie, Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ekin Deligöz",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisiert die unzureichende BAföG-Förderung und die daraus resultierende Chancenungerechtigkeit für junge Menschen sowie die Kürzungen im Forschungsministerium.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Felix Winter",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Betont die Bedeutung der Küsten- und Meeresforschung und fordert mehr Gelder dafür angesichts der Klimakrise, obwohl er die globale Minderausgabe als unangemessen hoch kritisiert.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Robert Stüve",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont die Bedeutung der Wissenschaft für das Land und hebt die gestiegene Höhe des Budgets für das Forschungsministerium hervor, lobt die Förderung von Innovationsregionen und befürwortet die Verankerung des Kompetenzzentrums Chipdesign im Kernhaushalt.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Caroline Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont, dass Forschung keine Ausgabe, sondern die beste Investition für die Zukunft sei und hebt die Notwendigkeit hervor, in Raumfahrttechnologien zu investieren, um die technologische Souveränität zu sichern.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Caroline Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont, dass Raumfahrt ein zentrales Anliegen deutscher Forschungs-, Wirtschafts- und Sicherheitspolitik sei und deutscher Technologie unverzichtbar ist, z.B. für die Artemis-Mission.",
+      "source_title": "Carolin Wagner — Bundestag, 2026-04-22 — Redebeitrag im Deutschen Bundestag — wahl.de",
+      "url": "https://www.wahl.de/rede/bund/21-73-ID217313100-p_yfs2k7hijxfad2pu",
+      "platform": "Presse"
+    },
+    {
+      "name": "Isabel Cadatré",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Annemarie Breme",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dorothee Bär",
+      "party": "Bundesministerin für Forschung, Technologie und Raumfahrt",
+      "found": true,
+      "statement": "Wehrt sich gegen negative Darstellungen Deutschlands und betont die Innovationskraft des Landes, insbesondere in der Luft- und Raumfahrt, und hebt die Bedeutung internationaler Zusammenarbeit hervor.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dorothee Bär",
+      "party": "Bundesministerin für Forschung, Technologie und Raumfahrt",
+      "found": true,
+      "statement": "Betont die Bedeutung der Hightech-Agenda, Schlüsseltechnologien wie KI und Raumfahrt und die Rolle Deutschlands als \"große Raumfahrernation\".",
+      "source_title": "Dorothee Bär: „Deutschland ist eine große Raumfahrernation, ohne uns geht es nicht zum Mond“ - Video - WELT",
+      "url": "https://www.welt.de/politik/deutschland/video69ce09eccdf80d124bb0bb11/dorothee-baer-deutschland-ist-eine-grosse-raumfahrernation-ohne-uns-geht-es-nicht-zum-mond.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dorothee Bär",
+      "party": "Bundesministerin für Forschung, Technologie und Raumfahrt",
+      "found": true,
+      "statement": "Betont, dass Deutschlands Sicherheit auch im Weltall verteidigt wird und die Zusammenarbeit mit dem Verteidigungsministerium gut sei, wobei die Unterscheidung zwischen zivil und militärisch nicht mehr so trennscharf sei wie früher.",
+      "source_title": "Raumfahrt und Militär - Ministerin Bär: \"Sicherheit Deutschlands wird auch im Weltall verteidigt\" - Deutschlandfunk",
+      "url": "https://www.deutschlandfunk.de/ministerin-baer-sicherheit-deutschlands-wird-auch-im-weltall-verteidigt-104.html",
+      "platform": "Presse"
+    },
+    {
+      "name": "Adam Balten",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Bundesregierung für die Konzentration auf erneuerbare Energien, die als teuer, wetterabhängig und unzuverlässig bezeichnet werden, und fordert stattdessen die Förderung von Kernenergie und kleinen modularen Reaktoren für Rechenzentren und Stromversorgung.",
+      "source_title": "Beratung des Antrags der Abgeordneten Adam Balten, Leif-Erik Holm, Steffen Kotré, weiterer Abgeordneter und der Fraktion der AfD Kleine modulare Reaktoren ermöglichen – Rechenzentren fördern und Stromversorgung sichern - wahl.de",
+      "url": "https://www.wahl.de/parlament/protokolle/21-71/beratung-des-antrags-der-abgeordneten-adam-balten-leif-erik-holm-steffen-kotre-weiterer-ab-110200",
+      "platform": "Presse"
+    },
+    {
+      "name": "Adam Balten",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert das Digitalministerium für die Produktion von Strategiepapieren ohne messbare Erfolge und verweist auf die Antwort auf seine Anfrage bezüglich der Rechenzentrumsstrategie.",
+      "source_title": "Adam Balten — Bundestag, 2026-04-15 — Redebeitrag im Deutschen Bundestag - wahl.de",
+      "url": "https://www.wahl.de/rede/bund/21-70-ID217011300-p_6umtsgbn4nmrao5p",
+      "platform": "Presse"
+    },
+    {
+      "name": "Oliver Kaczmarek",
+      "party": "SPD",
+      "found": true,
+      "statement": "Kritisiert die Anträge der AfD als \"Kahlschlag in der deutschen Wissenschaftspolitik\" und betont, dass der Haushalt ein klares Bekenntnis zur Priorität für Forschung darstellt.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Inger Kresse",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Stefan Schröder",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Regierungspolitik als \"Bremse der deutschen Raumfahrt\" und bemängelt Kürzungen im nationalen Raumfahrtprogramm und fehlende Transparenz.",
+      "source_title": "Stefan Schröder Archive - AfD-Fraktion im Deutschen Bundestag",
+      "url": "https://afdbundestag.de/tag/stefan-schroeder/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Stefan Schröder",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Ministerin und bezeichnet den \"Gameplan\" der Regierung als \"Game Over für unser Land\", bemängelt Kürzungen im Raumfahrtprogramm und fordert bezahlbare Energie für Rechenzentren.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    },
+    {
+      "name": "Resa Asgari",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Caroline Wagner",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont, dass Forschung keine Ausgabe, sondern die beste Investition für die Zukunft sei und hebt die Notwendigkeit hervor, in Raumfahrttechnologien zu investieren, um die technologische Souveränität zu sichern.",
+      "source_title": "Forschung, Technologie und Raumfahrt - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw28-de-forschung-1094272",
+      "platform": "Presse"
+    }
+  ]
+}
