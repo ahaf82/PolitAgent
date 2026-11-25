@@ -1,5 +1,57 @@
 [
   {
+    "id": "hcR-nOCDeHo",
+    "title": "110. Sitzung vom 24.11.2026. TOP Epl 24: Digitales und Staatsmodernisierung",
+    "session": 110,
+    "date": "2026-11-24",
+    "top": "Epl 24",
+    "topic": "Digitales und Staatsmodernisierung",
+    "summary_path": "protocols/session_110/epl_24_digitales_und_staatsmodernisierung.md",
+    "documents_path": null,
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=hcR-nOCDeHo",
+    "processed_at": "2026-11-25T08:01:25.010365"
+  },
+  {
+    "id": "SCOTxV18Iik",
+    "title": "110. Sitzung vom 24.11.2026. TOP Epl 16: Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "session": 110,
+    "date": "2026-11-24",
+    "top": "Epl 16",
+    "topic": "Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "summary_path": "protocols/session_110/epl_16_umwelt_klimaschutz_naturschutz_und_nukleare_sicher.md",
+    "documents_path": "protocols/session_110/epl_16_umwelt_klimaschutz_naturschutz_und_nukleare_sicher_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=SCOTxV18Iik",
+    "processed_at": "2026-11-25T08:03:34.517581"
+  },
+  {
+    "id": "iOum_a4JNfo",
+    "title": "110. Sitzung vom 24.11.2026. TOP Epl 15: Gesundheit",
+    "session": 110,
+    "date": "2026-11-24",
+    "top": "Epl 15",
+    "topic": "Gesundheit",
+    "summary_path": "protocols/session_110/epl_15_gesundheit.md",
+    "documents_path": "protocols/session_110/epl_15_gesundheit_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=iOum_a4JNfo",
+    "processed_at": "2026-11-25T08:04:46.864440"
+  },
+  {
+    "id": "if1jnbtBvP8",
+    "title": "110. Sitzung vom 24.11.2026. TOP Epl 08, 20, ZP 1: Finanzen, Bundesrechnungshof",
+    "session": 110,
+    "date": "2026-11-24",
+    "top": "Epl 08, 20, ZP 1",
+    "topic": "Finanzen und der Bundesrechnungshof",
+    "summary_path": "protocols/session_110/epl_08_20_zp_1_finanzen_bundesrechnungshof.md",
+    "documents_path": "protocols/session_110/epl_08_20_zp_1_finanzen_bundesrechnungshof_documents.json",
+    "speakers_path": null,
+    "youtube_url": "https://www.youtube.com/watch?v=if1jnbtBvP8",
+    "processed_at": "2026-11-25T08:00:53.027098"
+  },
+  {
     "id": "1nQ4l-9nXJ0",
     "title": "Mitmischen-Generationengerechtigkeit",
     "session": 0,

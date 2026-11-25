@@ -1,0 +1,110 @@
+# Digitales und Staatsmodernisierung
+
+## Sitzungs-Metadaten
+- **Sitzung:** 110. Sitzung
+- **Datum:** 2026-11-24
+- **Tagesordnungspunkt (TOP):** Epl 24
+- **Originaltitel:** 110. Sitzung vom 24.11.2026. TOP Epl 24: Digitales und Staatsmodernisierung
+- **Video-Link:** [Auf YouTube ansehen](https://www.youtube.com/watch?v=hcR-nOCDeHo)
+
+## Kurzzusammenfassung
+Die Debatte im Deutschen Bundestag befasste sich mit dem Bundeshaushalt für das Bundesministerium für Digitales und Staatsmodernisierung (BMDS). Kritisiert wurden von der Opposition hohe Ausgaben, unbesetzte Stellen und Doppelstrukturen, während die Regierung die Notwendigkeit der Investitionen zur Modernisierung des Staates, zur Stärkung der digitalen Souveränität und zur Verbesserung der Bürgerdienstleistungen betonte. Kernpunkte waren die Mittelverwendung, die Effizienz der Digitalisierung, die Cybersicherheit und die europäische Zusammenarbeit im digitalen Sektor.
+
+## Kernaussagen und Positionen der Fraktionen
+- **AfD**:
+  - Kritik an der Effizienz und Planung des Ministeriums, anhand von nicht ausgeschöpften Haushaltsmitteln und einer hohen Rate unbesetzter Stellen.
+  - Bemängelung von Doppelstrukturen und überflüssigen Förderprogrammen.
+  - Ablehnung der Finanzierung von Daueraufgaben über Sondervermögen und Plädoyer für Transparenz im Kernhaushalt.
+  - Forderung nach Rückholung von Mitteln aus Sondervermögen in den Kernhaushalt.
+  - Betonung der Notwendigkeit, dass staatliche Aufgaben im regulären Bundeshaushalt abgebildet werden müssen.
+- **CDU/CSU**:
+  - Anerkennung der Bedeutung digitaler Infrastruktur, Cloud-Technologien und KI für Staat und Wirtschaft.
+  - Hervorhebung der Notwendigkeit, Abhängigkeiten abzubauen und staatliches Handeln über Bund, Länder und Kommunen hinweg zu vernetzen.
+  - Unterstützung des Einzelplans, betont aber die Notwendigkeit, dass das Ministerium mit den bereitgestellten Mitteln sorgsam umgeht.
+  - Würdigung des Personals des Ministeriums für Motivation und Innovation.
+  - Erwartung, dass die globale Minderausgabe das innovative Potenzial des Hauses nicht einschränkt.
+  - Lob für die Neuausrichtung des Digitalgipfels und die Stärkung der digitalen Souveränität.
+  - Betonung der Wichtigkeit von KI und souveräner Dateninfrastruktur.
+- **Bündnis 90/Die Grünen**:
+  - Kritik an der Abhängigkeit von US-amerikanischen Softwareunternehmen und den damit verbundenen Kosten und Sicherheitsrisiken.
+  - Plädoyer für den Einsatz von Open-Source-Lösungen und die Stärkung europäischer digitaler Souveränität.
+  - Kritische Einschätzung des Haushalts als "mutlos" bezüglich des Abbaus von Abhängigkeiten.
+  - Betonung, dass staatliche Souveränität nicht von Lizenzbedingungen abhängen darf.
+  - Forderung nach konsequenter Weiterentwicklung des IT-Zustimmungsvorbehalts.
+  - Kritik an oligarchischen Strukturen von Tech-Konzernen und deren Einfluss auf die Gesellschaft.
+  - Bemängelung der fehlenden Maßnahmen gegen digitale Gewalt, insbesondere gegen Frauen.
+- **SPD**:
+  - Betonung der Digitalisierung als Fundament für Wirtschaft, Alltag und Demokratie.
+  - Darstellung des wachsenden Budgets des Ministeriums als Signal für die Entschlossenheit, die Digitalisierung anzugehen.
+  - Hervorhebung der Schaffung eines digitalen Bürgerkontos zur Entlastung der Bürger.
+  - Betonung, dass Digitalisierung nicht "digital only" bedeuten darf und die Wichtigkeit von Selbstbedienungsterminals.
+  - Stärkung der Cybersicherheit durch die europäische Richtlinie NIS 2 und die Schaffung von IT-Spitzenkräften.
+  - Festlegung auf europäische oder Open-Source-Alternativen bei Softwarekäufen zur Stärkung der Souveränität.
+  - Ziel, den digitalen Staat zukunftsfest, einfacher und sicherer zu gestalten.
+- **Die Linke**:
+  - Notwendigkeit der Modernisierung des Staates und einer leistungsfähigen digitalen Infrastruktur.
+  - Kritik an der Effizienz von Mobilfunkförderung und Verwaltungsdigitalisierung.
+  - Forderung, dass private Unternehmen ihre Verpflichtungen erfüllen und der Staat nicht für deren Versäumnisse aufkommt.
+  - Betonung, dass Digitalisierung Verfahren vereinfachen, Beschäftigte entlasten und Dienstleistungen verbessern muss.
+  - Kritik, dass Kommunen nicht ausreichend finanziell ausgestattet sind, um die digitale Modernisierung umzusetzen.
+  - Forderung nach offenen Standards, öffentlich kontrollierter Infrastruktur und langfristig unabhängig betreibbaren digitalen Lösungen.
+  - Verweis auf die Notwendigkeit eines sozialen und handlungsfähigen Staates.
+- **Bundesminister für Digitales und Staatsmodernisierung (Dr. Karsten Wildberger)**:
+  - Betonung des Potenzials Deutschlands in der Digitalisierung und der KI.
+  - Darstellung der erreichten Fortschritte bei der Gründung des Ministeriums und der Digitalisierung von Dienstleistungen.
+  - Hervorhebung der bereitgestellten Mittel im Haushalt für sichere Netze, Breitbandausbau, Mobilfunkförderung und Verwaltungsdigitalisierung.
+  - Ankündigung der digitalen Brieftasche als sichere Infrastruktur für das digitale Leben.
+  - Vorstellung des Deutschlandsdeck als gemeinsame, souveräne und interoperable Basisinfrastruktur für die Verwaltung.
+  - Bekräftigung der Abkehr von Bürokratie durch Maßnahmen wie die Beweislastumkehr.
+  - Betonung der Stärkung der digitalen Souveränität durch Open Source und europäische Partnerschaften.
+  - Ziel, Deutschland zu einem führenden Zentrum für industrielle KI zu machen und Wachstum durch Startups zu fördern.
+
+## Chronologischer Debattenverlauf
+- **[00:00:00](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=0s)** - **Sitzungsbeginn / Einleitung**: Die Debatte wird eröffnet, die Beschlussempfehlungen des Haushaltsausschusses zu TOP Epl 24 "Digitales und Staatsmodernisierung" werden aufgerufen. Die Dauer der Aussprache wird auf 90 Minuten festgelegt.
+- **[00:53](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=53s)** - **Ruben Rup (AfD)**: Eröffnet die Debatte für die AfD und kritisiert, dass das Digitalministerium trotz hoher Ausgaben und Stellenzuwächse wenig Fortschritt bei der Staatsmodernisierung zeigt. Er bemängelt unbesetzte Stellen, geringen Mittelabfluss und Doppelstrukturen.
+- **[03:33](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=3m33s)** - **Ruben Rup (AfD)**: Kritisiert die Finanzierung von Daueraufgaben wie Breitbandausbau über das Sondervermögen und fordert deren Rückführung in den Kernhaushalt zur Erhöhung der Transparenz.
+- **[04:09](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=4m9s)** - **Ruben Rup (AfD)**: Erklärt die Anträge der AfD, die auf die Streichung von Doppelstrukturen, überflüssigen Förderprogrammen und die Rückführung von Mitteln aus dem Sondervermögen abzielen.
+- **[06:45](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=6m45s)** - **Mechtilde Wittmann (CDU/CSU)**: Dankt den Berichterstattern und betont die Unverzichtbarkeit digitaler Infrastruktur für Staat und Bürger, insbesondere im Hinblick auf kritische Infrastruktur und Cybersicherheit. Sie lobt den Einzelplan als wichtigen Beitrag zur Wirtschaft und zur Bürgernähe des Staates.
+- **[09:11](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=9m11s)** - **Mechtilde Wittmann (CDU/CSU)**: Erläutert die im Einzelplan vorgesehenen Mittel und hebt die Bedeutung des Ministeriums im Aufbau hervor. Sie lobt die Motivation und Innovationskraft der Mitarbeiter.
+- **[12:26](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=12m26s)** - **Mechtilde Wittmann (CDU/CSU)**: Spricht die globale Minderausgabe an und betont die Notwendigkeit, die Möglichkeiten des Hauses nicht durch Einschränkungen zu begrenzen. Sie hebt die Mittel für digitale Innovation, Konnektivität und föderale IT-Kooperation hervor.
+- **[13:51](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=13m51s)** - **Mechtilde Wittmann (CDU/CSU)**: Erwähnt die Bedeutung von KI und souveräner Dateninfrastruktur und lobt den Bundesminister für die Förderung des KI-Potenzials.
+- **[14:36](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=14m36s)** - **Ricarda Lang (Bündnis 90/Die Grünen)**: Kritisiert die hohen Ausgaben für Microsoft-Lizenzen und die damit verbundene Abhängigkeit. Sie plädiert für den Einsatz von Open Source und beklagt die "Mutlosigkeit" des Haushalts beim Abbau von Abhängigkeiten.
+- **[17:26](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=17m26s)** - **Ricarda Lang (Bündnis 90/Die Grünen)**: Kritisiert, dass die europäische Souveränität zu wenig Stellenwert einnehme und warnt vor den oligarchischen Strukturen von Tech-Konzernen.
+- **[18:41](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=18m41s)** - **Ricarda Lang (Bündnis 90/Die Grünen)**: Betont die Notwendigkeit, Frauen vor digitaler Gewalt zu schützen, um die Meinungsfreiheit im Netz zu verteidigen.
+- **[19:46](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=19m46s)** - **Amand Zorn (SPD)**: Malt ein Bild von staatlichen Ausfällen durch Cyberangriffe und langsame Prozesse, betont aber, dass die Regierung dem Problem angeht und das Budget des Ministeriums erhöht.
+- **[21:34](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=21m34s)** - **Amand Zorn (SPD)**: Hebt drei Kernpunkte hervor: ein digitales Bürgerkonto, den Schutz des Alltags durch Cybersicherheit und die Stärkung der Souveränität durch die Fokussierung auf europäische und Open-Source-Alternativen.
+- **[24:57](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=24m57s)** - **Sascha Wagner (Die Linke)**: Kritisiert die Mobilfunkförderung und Verwaltungsdigitalisierung als ineffektiv und unterfinanziert für die Kommunen. Er fordert mehr Personal, funktionierende Verwaltungsstrukturen und sichere IT-Systeme auf kommunaler Ebene.
+- **[29:04](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=29m4s)** - **Sascha Wagner (Die Linke)**: Stellt die Frage, wer die digitale Infrastruktur kontrolliert und fordert offene Standards sowie öffentlich kontrollierte Infrastruktur.
+- **[30:06](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=30m6s)** - **Dr. Inge Kresle (CDU/CSU)**: Lobt den Bundesminister und sein Team für ihre Arbeit trotz schwieriger Ausgangslage und die erreichten Fortschritte bei der Digitalisierung und Neuausrichtung des Digitalgipfels.
+- **[31:55](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=31m55s)** - **Dr. Inge Kresle (CDU/CSU)**: Nennt konkrete Projekte wie die AppDU und die Bürger-App als Beispiele für die Vereinfachung der Kommunikation mit dem Staat und lobt die Flurbereinigung in der IT-Landschaft.
+- **[32:54](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=32m54s)** - **Dr. Inge Kresle (CDU/CSU)**: Hebt die Entwicklung neuer KI-Lösungen und deren positive Auswirkungen auf Kommunen hervor. Sie betont, dass Deutschland und Frankreich sich auf einen gemeinsamen Begriff digitaler Souveränität geeinigt haben.
+- **[33:54](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=33m54s)** - **Dr. Inge Kresle (CDU/CSU)**: Spricht die Wettbewerbsfähigkeit der EU-Digitalwirtschaft an und fordert mehr Entbürokratisierung und eine einheitliche IT-Verwaltung.
+- **[36:17](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=36m17s)** - **Ruben Rup (AfD)**: Kritisierte die mangelnde Umsetzung von Versprechen zur Digitalisierung und digitalen Souveränität, die Finanzierung über Schattenhaushalte und die Zuständigkeitsproblematik bei der Mikroelektronik. Er fordert eine IT-Rohstoffstrategie und eine gesicherte Energieversorgung für KI-Rechenzentren.
+- **[39:17](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=39m17s)** - **Ruben Rup (AfD)**: Bemängelt die mangelnde Konkretisierung des KI-Sicherheitsinstituts und die als Zwangsmaßnahme empfundene EU-Wallet. Er kritisiert die Deutschland-App als unrealistische Ankündigung und fordert eine Reform des Grundgesetzes zur Setzung verbindlicher IT-Standards.
+- **[42:28](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=42m28s)** - **Maja Wallstein (SPD)**: Spricht über das Phänomen, dass trotz Einigung zwischen Koalitionspartnern oft nur über Durchsetzung und Verluste diskutiert wird, statt das Ergebnis anzuerkennen. Sie hebt die gemeinsame Stärkung des Digitalministeriums und die konkreten Maßnahmen im Haushalt hervor.
+- **[44:05](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=44m5s)** - **Maja Wallstein (SPD)**: Erläutert die Prioritäten des Haushalts: ein zentrales digitales Bürgerkonto, die Registermodernisierung und die Berücksichtigung des ländlichen Raums beim Mobilfunkausbau.
+- **[45:38](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=45m38s)** - **Maja Wallstein (SPD)**: Betont die Notwendigkeit, Ordnung in die IT-Landschaft zu bringen, indem zunächst zentrale Lösungen genutzt werden, bevor neue gebaut werden. Sie bekräftigt den Glauben an eine starke, gerechte und demokratische Zukunft und fordert die Überprüfung der Verfassungsmäßigkeit der AfD.
+- **[46:41](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=46m41s)** - **Dr. Anna Lürmann (Bündnis 90/Die Grünen)**: Kritisiert die Untätigkeit der Regierung gegenüber Tech-Konzernen, die europäisches Recht brechen und die Medienlandschaft beeinträchtigen. Sie fordert die Einführung einer Digitalabgabe auf Werbeumsätze und Investitionen in Infrastruktur für offene soziale Netze.
+- **[50:31](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=50m31s)** - **Dr. Anna Lürmann (Bündnis 90/Die Grünen)**: Schlägt vor, auf europäische soziale Plattformen zu wechseln und das "Plus-1"-Prinzip umzusetzen, um diese zu stärken. Sie fordert Mut, konkrete Schritte für digitale Souveränität zu gehen.
+- **[51:25](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=51m25s)** - **Sonja Lemke (Die Linke)**: Kritisierte die Prioritäten des Haushalts, insbesondere die Investition in KI-Systeme mit Gender Bias, während Geld für Gewaltschutz für Frauen fehle. Sie bemängelt die Abhängigkeit von US-amerikanischer Software und fordert eine Vermögens- und Übergewinnsteuer zur Finanzierung eigener digitaler Infrastruktur.
+- **[54:24](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=54m24s)** - **Sonja Lemke (Die Linke)**: Betont, dass Netz-Infrastruktur in öffentlicher Hand sein sollte und kritisiert die Privatisierung von Software als Teil der digitalen Infrastruktur.
+- **[55:31](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=55m31s)** - **Dr. Karsten Wildberger (Bundesminister für Digitales und Staatsmodernisierung)**: Legt dar, dass Deutschland mehr kann als sich selbst zutraut und hebt Fortschritte bei der Gründung von Unternehmen, Genehmigungsverfahren und neuen digitalen Leistungen hervor.
+- **[57:00](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=57m0s)** - **Dr. Karsten Wildberger (Bundesminister für Digitales und Staatsmodernisierung)**: Präsentiert die Budgethöhe für 2027 und dankt den Beteiligten für die konstruktive Beratung. Er hebt die Finanzierung von sicheren Netzen, Breitbandausbau und Verwaltungsdigitalisierung hervor.
+- **[58:34](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=58m34s)** - **Dr. Karsten Wildberger (Bundesminister für Digitales und Staatsmodernisierung)**: Erklärt die praktischen Auswirkungen für die Bürger, wie die digitale Brieftasche und den Deutschlandsdeck als gemeinsame technische Bausteine.
+- **[59:28](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=59m28s)** - **Dr. Karsten Wildberger (Bundesminister für Digitales und Staatsmodernisierung)**: Kündigt den Abbau von Bürokratie durch die Beweislastumkehr an und betont die Notwendigkeit, dass Regulierung Innovation ermöglicht.
+- **[01:00:04](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h0m4s)** - **Dr. Karsten Wildberger (Bundesminister für Digitales und Staatsmodernisierung)**: Skizziert die Umsetzung der KI-Strategie und die Stärkung der digitalen Souveränität durch Open Source und europäische Partnerschaften. Er sieht das Potenzial Deutschlands als führendes Zentrum für industrielle KI.
+- **[01:01:31](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h1m31s)** - **Dr. Karsten Wildberger (Bundesminister für Digitales und Staatsmodernisierung)**: Nennt die drei notwendigen Dinge für den Fortschritt: Umsetzung, Umsetzung, Umsetzung.
+- **[01:02:07](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h2m7s)** - **Robin Jünger (AfD)**: Kritisierte die bisherigen Leistungen des Digitalministeriums und bemängelte die wachsende Doppelstruktur, unbesetzte Stellen und die Finanzierung über Sondervermögen. Er forderte eine Rückführung der Mittel in den Kernhaushalt und eine Reduzierung der Vorschriften.
+- **[01:06:42](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h6m42s)** - **Daniel Walter (SPD)**: Reagiert auf die Redebeiträge der AfD und fordert eine Verbesserung der Redequalität. Er hebt die Wichtigkeit der Arbeit des Digitalministeriums für die digitale Verwaltung und Cybersicherheit hervor und lobt die Verbesserung des Regierungsentwurfs im parlamentarischen Verfahren.
+- **[01:06:58](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h6m58s)** - **Daniel Walter (SPD)**: Hebt im Namen von Kollegen Gerster zwei Bereiche hervor: die digitale Verwaltung mit dem digitalen Bürgerkonto und die Cybersicherheit, wo durch zusätzliche Beschlüsse und Personal die Sicherheit des Bundes gestärkt wird.
+- **[01:09:41](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h9m41s)** - **Matthias David Mwes (SPD)**: Diskutiert die globalen Investitionen in KI und betont die Notwendigkeit zielgenauer Investitionen im Bundeshaushalt, um die Entwicklung zu fördern und souveräner zu werden. Er nennt drei Hebel: Stärkung des Staates als Ankaufskunden, Mobilisierung von Privatkapital und Anwerbung von Toptalenten.
+- **[01:11:14](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h11m14s)** - **Dr. Moritz Heuberger (Bündnis 90/Die Grünen)**: Kritisiert die Bundesregierung für große Ankündigungen ohne Klärung entscheidender Fragen, wie bei der Reduzierung von Berichtspflichten und der Schaffung neuer digitaler Strukturen. Er bemängelt das Fehlen langfristiger Planung und die Befristung von Mitteln im Sondervermögen.
+- **[01:13:35](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h13m35s)** - **Dr. Moritz Heuberger (Bündnis 90/Die Grünen)**: Fordert die Bundesregierung auf zu erklären, wie die Mittel für den Betrieb von Komponenten des Deutschlandsdecks in den Regelhaushalt überführt werden können und kritisiert, dass das Vorgehen Unsicherheit bei Kommunen und Unternehmen schafft.
+- **[01:14:20](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h14m20s)** - **Hansjörg Durz (CDU/CSU)**: Spricht die Herausforderungen neuer Technologien an und hebt hervor, dass der Einzelplan 24 eine gute Zukunft verspricht. Er nennt als Beispiele die Modernisierungsagenda, die EUDI Wallet und den Deutschlandsdeck.
+- **[01:18:32](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h18m32s)** - **Hansjörg Durz (CDU/CSU)**: Sieht den Erfolg des BMDS auch in den Projekten anderer Häuser und stellt fest, dass das Ministerium das Denken und Handeln aller Ressorts verändert hat. Er nennt als Beispiele den digitalen Führerschein und die zentrale Sozialplattform.
+- **[01:20:37](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h20m37s)** - **Alexander Apaschi (AfD)**: Bewertet das Digitalministerium als Prestigeprojekt ohne greifbare Ergebnisse und kritisiert die Änderungen im Telekommunikationsgesetz sowie die mangelnde Auswertung des Bauturbos. Er bemängelt die fehlende Ansiedlung von Rechenzentren und die überbordende Bürokratie aus Brüssel.
+- **[01:25:08](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h25m8s)** - **Alexander Apaschi (AfD)**: Fordert den Minister auf, das "Brüsseler Bürokratie-Monster" anzugehen und warnt, dass die AfD dies andernfalls tun werde.
+- **[01:29:41](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h29m41s)** - **Franziska Hoppermann (CDU/CSU)**: Fokussiert auf die Notwendigkeit einer ziel- und wirkungsorientierten Haushaltsführung. Sie argumentiert, dass nicht nur gefragt werden sollte, wie viel Geld ausgegeben wird, sondern welches Problem gelöst und welche Ergebnisse erzielt werden sollen.
+- **[01:31:13](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h31m13s)** - **Franziska Hoppermann (CDU/CSU)**: Dankt Kolleginnen und Kollegen für die Einbringung von Maßgabebeschlüssen zur ziel- und wirkungsorientierten Haushaltsführung und betont, dass dies zu mehr Transparenz, besseren Entscheidungen und mehr Vertrauen führe.
+- **[01:34:44](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h34m44s)** - **Abstimmung**: Die Debatte wird geschlossen und die Abstimmung über den Einzelplan 24 erfolgt. Der Einzelplan wird mit den Stimmen der Unions- und SPD-Fraktion angenommen, während die übrigen Fraktionen dagegen stimmen.
+- **[01:35:11](https://www.youtube.com/watch?v=hcR-nOCDeHo&t=1h35m11s)** - **Aufruf des nächsten TOP**: Der nächste Tagesordnungspunkt, Einzelplan 16 für das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit, wird aufgerufen.

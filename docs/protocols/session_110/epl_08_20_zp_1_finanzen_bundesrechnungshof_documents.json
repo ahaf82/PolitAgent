@@ -1,0 +1,65 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7860",
+      "title": "Entwurf eines Haushaltsbegleitgesetzes 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7860&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/8534",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F8534&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/9241",
+      "title": "Beschlussempfehlung und Bericht des Haushaltsausschusses",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9241&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/9060",
+      "title": "Einzelplan 60. Allgemeine Finanzverwaltung",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9060&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion - Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/7300",
+      "title": "Bundeshaushalt 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7300&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/7302",
+      "title": "Bundeshaushalt 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7302&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/9008",
+      "title": "N/A",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9008&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/9002",
+      "title": "Bundeshaushalt 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9002&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "In der 110. Sitzung vom 24.11.2026 wurde über den Einzelplan 08 (Finanzen) und den Einzelplan 20 (Bundesrechnungshof) sowie über das Haushaltsbegleitgesetz 2027 beraten. Eine namentliche Abstimmung fand zu diesen Punkten nicht statt. Der genaue Beschlussstand bezüglich der Einzelpläne und des Gesetzes ist aus dem vorliegenden Protokoll nicht ersichtlich, es handelt sich um Beratungen im Rahmen der Haushaltsberatungen für 2027.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": []
+  }
+}
