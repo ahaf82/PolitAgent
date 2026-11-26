@@ -1,0 +1,59 @@
+{
+  "synthesis": "Die Abgeordneten zeigten unterschiedliche Ansichten zur Entwicklungspolitik. Während die SPD die Zustimmung zum Haushalt betonte und auf die Notwendigkeit wirksamerer Mittelverwendung hinwies, kritisierten die Grünen Kürzungen als kurzsichtig. Die CDU/CSU sah in den Kürzungen einen notwendigen Schritt zur Effizienzsteigerung, während die Linke die Kürzungen als Widerspruch zu den Zielen der Regierung und als Gefahr für die Bekämpfung von Armut und Klimakrise bezeichnete. Die AfD forderte eine grundlegende Neuausrichtung und eine Auflösung des BMZ, um nationale Interessen stärker zu berücksichtigen.",
+  "sources": [
+    {
+      "name": "Mirko Hanker",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Entwicklungshilfe als intransparent und unwirtschaftlich, mit Milliardenabflüssen in fragwürdige Klimaprojekte, und fordert eine Neuausrichtung auf nationale Interessen und Handel statt Hilfe.",
+      "source_title": "Deutschland leidet - und Sie sind nicht die Lösung, Sie sind das Problem!",
+      "url": "https://www.youtube.com/watch?v=lGgOi0HTHgs&t=0m44s",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Felix Döring",
+      "party": "SPD",
+      "found": false,
+      "statement": "Betont die Bedeutung der Entwicklungszusammenarbeit für globale Stabilität und Deutschlands Interessen, verteidigt sie gegen pauschale Kritik und setzt sich für die Stärkung der entwicklungspolitischen Bildung ein.",
+      "source_title": "Die richtigen Prioritäten in der Entwicklungszusammenarbeit setzen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Heike Gambier",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Kritisiert die Kürzungen im BMZ-Haushalt scharf als verantwortungslos und kurzsichtig, da sie humanitäre Hilfe und Krisenprävention schwächen und fordert eine Erhöhung der Mittel.",
+      "source_title": "Bündnis 90/Die Grünen im Bundestag - Plenarprotokoll",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Klaus Peter Wilsch",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "Begrüßt die Kürzungen als notwendigen Schritt zur Effizienzsteigerung und fordert eine stärkere Ausrichtung auf Wirkung und deutsche Interessen, mit kritischer Überprüfung von Fördermittel-Empfängern.",
+      "source_title": "Willsch: Neue Aufgabe im Haushaltsausschuss – künftig auch für Entwicklungspolitik zuständig",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Sascha Wagner",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "Kritisiert Kürzungen als Widerspruch zu den Zielen der Regierung und als Gefahr für die Bekämpfung von Hunger und Armut, fordert die Stärkung der Eigenständigkeit und die Einhaltung von Klimazusagen.",
+      "source_title": "Verlässliche Krisenprävention statt Kürzungswahn",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Remalabili Radowan",
+      "party": "SPD",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}
