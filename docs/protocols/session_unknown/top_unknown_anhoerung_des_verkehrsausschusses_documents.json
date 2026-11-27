@@ -1,21 +1,8 @@
 {
-  "documents": [
-    {
-      "number": "Drucksache 20/12345",
-      "title": "N/A",
-      "url": "https://dserver.bundestag.de/btd/20/123/2012345.pdf",
-      "type": "Anderes"
-    },
-    {
-      "number": "Drucksache 21/4463",
-      "title": "N/A",
-      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
-      "type": "Anderes"
-    }
-  ],
+  "documents": [],
   "voting": {
     "has_namentliche_abstimmung": false,
-    "decision_text": "Das Protokoll beschreibt eine Anhörung des Verkehrsausschusses zu einem Gesetzentwurf der Bundesregierung zur Änderung des Fahrlehrergesetzes und anderer straßenverkehrsrechtlicher Gesetze. Es fand keine namentliche Abstimmung statt, sondern eine Expertenanhörung mit unterschiedlichen Positionen zu den vorgeschlagenen Reformen.",
+    "decision_text": "Die Anhörung des Verkehrsausschusses zum Gesetzentwurf zur Änderung der Finanzierung der Autobahn GmbH fand am 24.11.2026 statt. Es wurden verschiedene Standpunkte von Sachverständigen und Wirtschaftsvertretern diskutiert, wobei insbesondere verfassungsrechtliche Fragen bezüglich der Schuldenbremse, die Eigenkapitalfähigkeit der GmbH und potenzielle Mehrkosten im Vordergrund standen. Eine namentliche Abstimmung zu diesem Zeitpunkt fand nicht statt, da es sich um eine Anhörung handelte.",
     "official_voting_url": "N/A",
     "overall_result": null,
     "faction_results": []

@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/4463",
+      "title": "Schlanker Staat statt Kostenexplosion - Beamtenzahl und Pensionslasten senken",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F4463&rows=25",
+      "type": "Antrag"
+    },
+    {
+      "number": "Drucksache 21/9061",
+      "title": "Ergänzung zu den Beschlussempfehlungen des Haushaltsausschusses (8. Ausschuss) zu dem En",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9061&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/9062",
+      "title": "Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Einzelplan 24 des Bundeshaushaltsplans für das Haushaltsjahr 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9062&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/7300",
+      "title": "Bundeshaushaltsplan für das Haushaltsjahr 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7300&rows=25",
+      "type": "Anderes"
+    },
+    {
+      "number": "Drucksache 21/7302",
+      "title": "Bundeshaushaltsplan für das Haushaltsjahr 2027",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7302&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": false,
+    "decision_text": "Die Finanzplanung des Bundesministeriums für Digitales und Staatsmodernisierung für den Bundeshaushalt 2027 wurde in zweiter Beratung vom Bundestag gebilligt. Die Koalitionsfraktionen CDU/CSU und SPD stimmten dafür, während AfD, Bündnis 90/Die Grünen und Die Linke dagegen stimmten.",
+    "official_voting_url": "N/A",
+    "overall_result": null,
+    "faction_results": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "synthesis": "Die Debatte im Bundestag anlässlich des Internationalen Tages gegen Gewalt an Frauen hob die gestiegene Bedeutung des Themas hervor, wobei die Präsidentin die besorgniserregenden Zahlen zu Femiziden und zunehmender häuslicher sowie digitaler Gewalt thematisierte. Abgeordnete verschiedener Parteien beteiligten sich mit unterschiedlichen Schwerpunkten: Während die AfD Gewalt gegen Frauen mit Migration in Verbindung brachte, betonten andere die Notwendigkeit staatlichen Schutzes, Präventionsmaßnahmen und die finanzielle Unabhängigkeit von Frauen. Die breite Zustimmung zur Notwendigkeit, das Dunkelfeld der Gewalt aufzuhellen und Opfern besseren Schutz zu gewähren, wurde deutlich. Die Forderung nach einem Modell, das Prävention, Täterüberwachung und Opferschutz integriert, sowie die Bekämpfung digitaler Gewalt wurden ebenfalls hervorgehoben.",
+  "sources": [
+    {
+      "name": "Bärbel Bas",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Bundestagspräsidentin eröffnete Bärbel Bas die Sitzung zum Internationalen Tag gegen Gewalt an Frauen und hob die gestiegene Zahl von Femiziden und Gewalt gegen Frauen hervor. Sie betonte die Notwendigkeit von staatlichem Schutz und konsequenter Präventionsarbeit nach dem Vorbild Spaniens.",
+      "source_title": "Einleitende Worte der Präsidentin zum Internationalen Tag gegen Gewalt an Frauen",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Julia Klöckner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Bundestagspräsidentin mahnte Julia Klöckner, dass es keine Entschuldigung für Gewalt gegen Frauen gebe und dass die Zahl der Femizide fast täglich steige. Sie betonte, dass Gewalt oft im nahen Umfeld beginne und auch im digitalen Raum stattfinde, und rief dazu auf, Frauen zu ermutigen, ihre Erfahrungen offenzulegen.",
+      "source_title": "Bundestag gedenkt der Opfer von Gewalt gegen Frauen",
+      "url": "https://www.bundestag.de/resource/blob/974882/Stellungnahme-DGB.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "found": false,
+      "statement": "Josephine Ortleb thematisierte geschlechtsspezifische Gewalt und alltägliche Einschränkungen für Frauen, die stetig auf ihre Sicherheit achten müssen. Sie kritisierte die geringe Verantwortung von Männern und forderte, Rollenbilder aufzubrechen und Männer stärker einzubinden.",
+      "source_title": "Josephine Ortleb - Redebeitrag im Deutschen Bundestag",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Anna Rathert",
+      "party": "AfD",
+      "found": true,
+      "statement": "Anna Rathert von der AfD äußerte sich kritisch zum Orange Day und sah darin eine pauschale Botschaft, dass Frauen Opfer und Männer eine Gefahr seien. Sie lehnte dieses Misstrauen ab und sah darin ein \"altes sozialistisches Denkmuster\". Rathert verband deutsche Politikprobleme mit einer \"Ideologie der offenen Grenzen\".",
+      "source_title": "Debatte zum „Orange Day“ und zum Schutz von Frauen vor Gewalt",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/973236-973236",
+      "platform": "Presse"
+    },
+    {
+      "name": "Ulle Schauws",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Ulle Schauws kritisierte die Bundesregierung für ihr Versagen beim Ausbau von Frauenhäusern und Beratungsstellen und bemängelte, dass der angekündigte Förderaufruf für ein Bundesprogramm zur Sanierung von Frauenhäusern ausstehe. Sie nannte Spanien als Vorbild für Gewaltschutz.",
+      "source_title": "Gewalt gegen Frauen bleibt alltäglich",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

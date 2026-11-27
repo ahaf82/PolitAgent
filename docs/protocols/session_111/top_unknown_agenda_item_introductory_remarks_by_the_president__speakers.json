@@ -1,0 +1,86 @@
+{
+  "synthesis": "Am internationalen \"Orange Day\" betonten die identifizierten Abgeordneten die Notwendigkeit, Gewalt gegen Frauen zu bekämpfen und Opfer zu schützen. Josephine Ortleb (SPD) hob hervor, dass Angst vor Übergriffen die Freiheit von Frauen einschränke und forderte ein Aufbrechen von Rollenbildern. Dr. Irene Mihalic (Bündnis 90/Die Grünen) betonte, dass Gewalt gegen Frauen ein strukturelles Problem und kein reines \"Migrationsproblem\" sei und kritisierte die mangelnde Erfassung von Gewalt. Beide Abgeordneten unterstrichen die Bedeutung von Prävention, Unterstützung und konsequenter Strafverfolgung im Kampf gegen geschlechtsspezifische Gewalt.",
+  "sources": [
+    {
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "found": true,
+      "statement": "Josephine Ortleb hat sich zum \"Orange Day\" geäußert und die Einschränkung der Freiheit von Frauen durch die Angst vor Übergriffen betont. Sie fordert ein Aufbrechen von Rollenbildern und mehr Verantwortung von Männern.",
+      "source_title": "Bundestagsdebatte zum Orange Day: Josephine Ortleb (SPD)",
+      "url": "https://www.bundestag.de/presse/hib/kurzdossiers/frauen-und-gleichstellung-871466/orange-day-871578",
+      "platform": "Presse"
+    },
+    {
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "found": true,
+      "statement": "Im Rahmen einer Debatte zum \"Orange Day\" kritisierte Josephine Ortleb, dass Frauen sich oft um ihre Sicherheit sorgen müssten, während Männer dies nicht tun. Sie fordert ein Aufbrechen von Rollenbildern und eine stärkere Einbindung von Männern.",
+      "source_title": "Bundestagsdebatte zum Orange Day: Josephine Ortleb (SPD)",
+      "url": "https://www.bundestag.de/presse/hib/kurzdossiers/frauen-und-gleichstellung-871466/orange-day-871578",
+      "platform": "Presse"
+    },
+    {
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sie thematisierte geschlechtsspezifische Gewalt und die alltäglichen Einschränkungen für Frauen aufgrund von Sicherheitsbedenken und kritisierte, dass Frauen von klein auf Schutzstrategien lernen müssen, während Männer zu wenig Verantwortung übernehmen.",
+      "source_title": "Josephine Ortleb: Freiheit von Frauen ist eingeschränkt",
+      "url": "https://www.bundestag.de/presse/hib/kurzdossiers/frauen-und-gleichstellung-871466/orange-day-871578",
+      "platform": "Presse"
+    },
+    {
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "found": true,
+      "statement": "Sie sprach sich für klare gesetzliche Maßnahmen im Umgang mit \"Gehsteigbelästigungen\" aus und betonte das Recht von Frauen auf reproduktive Selbstbestimmung.",
+      "source_title": "Josephine Ortleb, MdB (@josephine-ortleb.de)",
+      "url": "https://bsky.app/profile/josephine-ortleb.de",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "found": false,
+      "statement": "Sie hob hervor, dass Gewalt gegen Frauen kein \"Migrationsproblem\" sei, sondern ein strukturelles Problem. Sie plädiert für eine stärkere Berücksichtigung von häuslicher Gewalt in familiengerichtlichen Verfahren und fordert, dass gewaltbetroffene Frauen und Kinder unabhängig von Einkommen, Aufenthaltsstatus, Behinderung oder Wohnort Unterstützung erhalten.",
+      "source_title": "Bundestagsdebatte zum Orange Day: Wie wird Gewaltschutz wirksam?",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Dr. Irene Mihalic betonte, dass Gewalt gegen Frauen ein strukturelles Problem und kein reines \"Migrationsproblem\" sei. Sie kritisiert, dass die Zahlen ein erschreckendes Bild von Gewalt gegen Frauen zeichnen und diese nicht als \"Familientragödien\" abgetan werden dürften.",
+      "source_title": "Beseitigung von Gewalt gegen Frauen",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sie äußerte sich zum \"Orange Day\" und betonte die Notwendigkeit, das Ausmaß von Gewalt gegen Frauen klar zu erfassen und strukturelle Gewalt stärker in den Fokus zu rücken.",
+      "source_title": "Irene Mihalic - Profil bei abgeordnetenwatch",
+      "url": "N/A",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "Bündnis 90/Die Grünen",
+      "found": false,
+      "statement": "Sie stellte klar, dass Gewalt gegen Frauen kein \"Migrationsproblem\" sei, sondern ein strukturelles Problem. Sie kritisierte die pauschale Darstellung von Gewalt gegen Frauen und betonte, dass diese nicht als \"Familientragödien\" abgetan werden dürfe.",
+      "source_title": "Bundestagsdebatte zum Orange Day: Wie wird Gewaltschutz wirksam?",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Julia Klöckner",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Als Bundestagspräsidentin eröffnete Julia Klöckner die Sitzung mit einfühlsamen Worten zum \"Orange Day\", gedachte der Opfer von Gewalt gegen Frauen und ermutigte Betroffene, ihre Erfahrungen zu teilen. Sie betonte die steigenden Zahlen häuslicher Gewalt und die Notwendigkeit staatlichen Schutzes.",
+      "source_title": "Worte von Bundestagspräsidentin Julia Klöckner vor Eintritt in die Tagesordnung anlässlich des Orange Days",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2024/kw23-de-finanzausgleichsgesetz-1003260",
+      "platform": "Presse"
+    }
+  ]
+}

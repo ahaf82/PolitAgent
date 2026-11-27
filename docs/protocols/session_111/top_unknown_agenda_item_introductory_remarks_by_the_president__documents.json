@@ -1,0 +1,95 @@
+{
+  "documents": [
+    {
+      "number": "Drucksache 21/7300",
+      "title": "Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 - HG 2027)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7300&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/9062",
+      "title": "Beschlussempfehlung und Bericht des Haushaltsausschusses (8. Ausschuss) zu den Einzelplänen 04, 05, 08, 09, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31 und 32 des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9062&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/7302",
+      "title": "Finanzplan des Bundes 2026 bis 2030",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7302&rows=25",
+      "type": "Unterrichtung"
+    },
+    {
+      "number": "Drucksache 21/7650",
+      "title": "Entwurf eines Gesetzes zur Änderung des Gesetzes zur Errichtung einer Bundesanstalt für Hautkrebsbekämpfung und zur Weiterentwicklung der Krebsfrüherkennung (Haushaltsbegleitgesetz 2027)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F7650&rows=25",
+      "type": "Gesetzentwurf"
+    },
+    {
+      "number": "Drucksache 21/9061",
+      "title": "Beschlussempfehlung und Bericht des Haushaltsausschusses (8. Ausschuss) zu den Einzelplänen 01, 02, 03, 04, 06, 07, 12 und 34 des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027)",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9061&rows=25",
+      "type": "Beschlussempfehlung"
+    },
+    {
+      "number": "Drucksache 21/9357",
+      "title": "Kleine Anfrage der Fraktion der AfD: EU-Richtlinien und Vertragsverletzungsverfahren",
+      "url": "https://dip.bundestag.de/suche?term=Drucksache%2021%2F9357&rows=25",
+      "type": "Anderes"
+    }
+  ],
+  "voting": {
+    "has_namentliche_abstimmung": true,
+    "decision_text": "Der Deutsche Bundestag hat im Rahmen der Haushaltsberatungen zum Einzelplan 04 (Bundeskanzler und Bundeskanzleramt) eine namentliche Abstimmung durchgeführt. Der Einzelplan 04 wurde mit 317 Ja-Stimmen zu 267 Nein-Stimmen angenommen.",
+    "official_voting_url": "https://www.bundestag.de/parlament/plenum/abstimmung/archiv/2026/2026_11_25-938908",
+    "overall_result": {
+      "ja": 317,
+      "nein": 267,
+      "enthaltung": 0,
+      "nicht_abgegeben": 46
+    },
+    "faction_results": [
+      {
+        "faction": "CDU/CSU",
+        "ja": 204,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 4
+      },
+      {
+        "faction": "AfD",
+        "ja": 0,
+        "nein": 136,
+        "enthaltung": 0,
+        "nicht_abgegeben": 14
+      },
+      {
+        "faction": "SPD",
+        "ja": 112,
+        "nein": 0,
+        "enthaltung": 0,
+        "nicht_abgegeben": 8
+      },
+      {
+        "faction": "Bündnis 90/Die Grünen",
+        "ja": 0,
+        "nein": 78,
+        "enthaltung": 0,
+        "nicht_abgegeben": 7
+      },
+      {
+        "faction": "Die Linke",
+        "ja": 0,
+        "nein": 51,
+        "enthaltung": 0,
+        "nicht_abgegeben": 13
+      },
+      {
+        "faction": "fraktionslos",
+        "ja": 1,
+        "nein": 2,
+        "enthaltung": 0,
+        "nicht_abgegeben": 0
+      }
+    ]
+  }
+}

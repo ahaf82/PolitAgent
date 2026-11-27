@@ -1,0 +1,77 @@
+{
+  "synthesis": "Die externe Debatte um das Pflegeneuordnungsgesetz (PNOG) zeigt ein komplexes Bild von Unterstützungsangeboten, finanzieller Machbarkeit und strukturellen Reformen. Insbesondere die Rolle pflegender Angehöriger, die Neuregelung von Budgets wie dem Sozialraumbudget und die Auswirkungen auf bestehende Pflegedienste stehen im Fokus. Die Sachverständigen und Verbände betonen die Notwendigkeit von Übergangsfristen und die Weiterentwicklung bestehender Strukturen, anstatt deren Zerschlagung. Kritisiert wird teilweise die Verschärfung des Zugangs zu Pflegegraden und der Wegfall bestimmter Leistungen für Pflegegrad 1. Eine stärkere finanzielle Absicherung pflegender Angehöriger und eine bedarfsgerechte Ausrichtung der Leistungen werden von verschiedenen Seiten gefordert, um die Versorgungssicherheit zu gewährleisten.",
+  "sources": [
+    {
+      "name": "Jessica Mentler",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Dr. Grunenberg",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Herr Spellbrink",
+      "party": "Fraktionslos",
+      "found": true,
+      "statement": "Herr Spellbrink vom Internationalen Bund Berlin-Brandenburg plädiert dafür, auf bestehenden Systemen aufzubauen und diese zu optimieren, anstatt alles komplett neu zu gestalten. Er kritisiert die aktuelle Fassung des Gesetzentwurfs, die seiner Meinung nach nicht umsetzbar sei, und appelliert an eine Veränderung beim Entlastungsbeitrag und Sozialraumbudget.",
+      "source_title": "Breite Expertenkritik an Pflegeneuordnungsgesetz - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/resource/blob/950450/Stellungnahme-Dr-Juergen-Altmann.pdf",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Elisabeth Fix",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Dr. Elisabeth Fix vom Deutschen Caritasverband sieht die Existenz der Tagespflege durch das Pflegeneuordnungsgesetz (PNoG) bedroht, da der Entlastungsbetrag nicht mehr für Tagespflege und Fahrdienste genutzt werden kann und fordert die Öffnung des Überbrückungsbudgets. Sie hat sich über Jahre hinweg für eine gute Pflege und ein effizientes Gesundheitssystem eingesetzt und ist als Pflege- und Gesundheitsexpertin im politischen Lobbying für den Deutschen Caritasverband tätig.",
+      "source_title": "Pflege: Stellungnahme zum Pflegeneuordnungsgesetz (PNOG) - Caritas",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Sabine Richard",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Sabine Richard vom AOK-Bundesverband sieht die Zweiteilung zwischen SGB V und SGB XI bei der Vergütungsanpassung als problematisch an und plädiert für eine Vereinheitlichung nach SGB V. Sie betont die Wichtigkeit der Nutzung von Routinedaten zur Weiterentwicklung der Versorgung und fordert mehr Handlungsspielraum bei regionalen Vertragsinstrumenten.",
+      "source_title": "Pflege: AOK-Bundesverband für mehr Datennutzung und Vertragsgestaltungsmöglichkeiten",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Dr. Kuhlmann",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Dr. Kuhlmann stellt die Frage, ob die Absenkung der Schwelle für Wiederholungsbegutachtungen ein hohes Potenzial hat, da bereits jetzt viel begutachtet werde. Sie betont, dass die Akzeptanz für präventive Maßnahmen am höchsten ist, wenn ein persönlicher Nutzen vorhanden ist, und dass eine stetige Weiterentwicklung und Erprobung neuer Verfahren im Rahmen der Pflegebegutachtung gefördert werden sollte.",
+      "source_title": "Medicproof Versichertenbefragung Pflegebegutachtung 2025 - Verband der Privaten Krankenversicherung e.V.",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Frau Engler",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Frau Engler vom Medizinischen Dienst erklärt, dass Befristungen bei der Vergabe von Pflegegraden bereits heute möglich sind, insbesondere bei Personen, bei denen keine grundlegende Verbesserung zu erwarten ist. Bestimmte Fallkonstellationen, wie nach Akuterkrankungen oder Reha, könnten befristete Vergaben sinnvoll machen. Sie betont, dass die Pflegegutachten weiterentwickelt und modernisiert werden sollten.",
+      "source_title": "PNOG: Pflegebegutachtung für Impulsberatung nutzen - Medizinischer Dienst Bund",
+      "url": "N/A",
+      "platform": "Presse"
+    },
+    {
+      "name": "Norbert Grothe",
+      "party": "Fraktionslos",
+      "found": false,
+      "statement": "Norbert Grothe vom BPA betont die Notwendigkeit, bestehende Strukturen weiterzuentwickeln, anstatt neue aufzubauen und warnt vor den „disruptiven Veränderungen“ durch das Sozialraumbudget. Er sieht drei Problemstellungen bei der Tariftreue und fordert, dass strukturelle Unterfinanzierung verhindert wird, da dies zu Wettbewerbsnachteilen führen würde.",
+      "source_title": "Sieben Fragen an den bpa: Hauptgeschäftsführer Grote in der PNOG-Anhörung - bpa - Bundesverband privater Anbieter sozialer Dienste e.V.",
+      "url": "N/A",
+      "platform": "Presse"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "topic": "Ausschuss für Gesundheit",
     "summary_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_gesundheit.md",
     "documents_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_gesundheit_documents.json",
-    "speakers_path": null,
+    "speakers_path": "protocols/session_unknown/top_unknown_ausschuss_fuer_gesundheit_speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=CvnMffky04w",
     "processed_at": "2026-11-26T08:02:08.267928"
   },
@@ -21,7 +21,7 @@
     "topic": "Einleitende Worte der Präsidentin zum Internationalen Tag gegen Gewalt an Frauen",
     "summary_path": "protocols/session_111/top_unknown_top_einleitende_worte_der_praesidentin_zum_orange_.md",
     "documents_path": null,
-    "speakers_path": null,
+    "speakers_path": "protocols/session_111/top_unknown_top_einleitende_worte_der_praesidentin_zum_orange__speakers.json",
     "youtube_url": "https://www.youtube.com/watch?v=Q5we8f-q0-E",
     "processed_at": "2026-11-26T08:00:39.822368"
   },
@@ -111,7 +111,7 @@
     "top": "Epl 24",
     "topic": "Digitales und Staatsmodernisierung",
     "summary_path": "protocols/session_110/epl_24_digitales_und_staatsmodernisierung.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_110/epl_24_digitales_und_staatsmodernisierung_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=hcR-nOCDeHo",
     "processed_at": "2026-11-25T08:01:25.010365"
@@ -176,7 +176,7 @@
     "top": "N/A",
     "topic": "Anhörung zur Änderung der Finanzierung der Autobahn GmbH",
     "summary_path": "protocols/session_unknown/top_unknown_anhoerung_des_verkehrsausschusses.md",
-    "documents_path": null,
+    "documents_path": "protocols/session_unknown/top_unknown_anhoerung_des_verkehrsausschusses_documents.json",
     "speakers_path": null,
     "youtube_url": "https://www.youtube.com/watch?v=l13jD6ZuYMw",
     "processed_at": "2026-11-24T08:02:31.242266"
@@ -4650,6 +4650,19 @@
     "processed_at": "2026-06-03T21:52:15.656031",
     "speakers_path": null,
     "documents_path": "protocols/session_62/12_kernenergie_documents.json"
+  },
+  {
+    "id": "komWQhDUlNg",
+    "title": "111th Session on 11/25/2026. Agenda Item: Introductory remarks by the President for Orange Day",
+    "session": 111,
+    "date": "N/A",
+    "top": "N/A",
+    "topic": "Einleitende Worte des Präsidenten zum Orange Day",
+    "summary_path": "protocols/session_111/top_unknown_agenda_item_introductory_remarks_by_the_president_.md",
+    "documents_path": "protocols/session_111/top_unknown_agenda_item_introductory_remarks_by_the_president__documents.json",
+    "speakers_path": "protocols/session_111/top_unknown_agenda_item_introductory_remarks_by_the_president__speakers.json",
+    "youtube_url": "https://www.youtube.com/watch?v=komWQhDUlNg",
+    "processed_at": "2026-11-27T08:00:56.097098"
   },
   {
     "id": "k-sbH8pVu-4",
