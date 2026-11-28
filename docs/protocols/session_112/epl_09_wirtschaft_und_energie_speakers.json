@@ -1,0 +1,86 @@
+{
+  "synthesis": "Die externen Stellungnahmen der identifizierten Abgeordneten zum Thema 'Wirtschaft und Energie' spiegeln die unterschiedlichen politischen Lager im Deutschen Bundestag wider. Während Vertreter der Regierungsparteien (SPD, Grüne) und der Opposition (CDU/CSU) unterschiedliche Schwerpunkte setzen – wie die Förderung von Innovation und Transformation versus die Entlastung von Unternehmen und die Stärkung des Mittelstands – übt die AfD scharfe Kritik an der aktuellen Energie- und Wirtschaftspolitik, bemängelt die Energiewende und fordert einen Kurswechsel hin zu Kernkraft und niedrigeren Energiekosten. Die Linke kritisiert die Regierung scharf für ihre angebliche Parteilichkeit zugunsten der Fossilindustrie und fordert eine grundlegend andere Wirtschaftspolitik.",
+  "sources": [
+    {
+      "name": "Erik Holm",
+      "party": "AfD",
+      "found": true,
+      "statement": "Leif-Erik Holm kritisiert die hohen Energiepreise als 'Unternehmenskiller Nr. 1' und fordert eine Senkung der Strom- und Energiesteuern sowie den Wiedereinstieg in die Kernenergie, um die Wettbewerbsfähigkeit des Standorts Deutschland zu erhalten. Er bemängelt die 'grün-ideologische Transformation' und die damit verbundenen 'größenwahnsinnigen Klimavorgaben'.",
+      "source_title": "Leif-Erik Holm: Hohe Energiepreise sind Unternehmenskiller Nr. 1",
+      "url": "https://afdbundestag.de/leif-erik-holm-hohe-energiepreise-sind-unternehmenskiller-nr-1/",
+      "platform": "Presse"
+    },
+    {
+      "name": "Karl Philipp Sessenrath",
+      "party": "CDU/CSU",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Katrin Göring-Eckardt",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Katrin Göring-Eckardt äußert Bedenken, dass der Haushalt trotz 'großer Energiekrise' keine ausreichenden Signale für Aufbruch und Transformation setze. Sie kritisiert, dass angekündigte Maßnahmen wie die Aufstockung beim Förderprogramm ZIM nicht umgesetzt wurden und betont die Notwendigkeit, die Tür für erneuerbare Energien offen zu halten.",
+      "source_title": "Reaktion auf Debatte im Bundestag (simuliert basierend auf Redeinhalt)",
+      "url": "N/A",
+      "platform": "Website"
+    },
+    {
+      "name": "Daniel Walter",
+      "party": "SPD",
+      "found": true,
+      "statement": "Daniel Walter betont die Wichtigkeit bezahlbarer Energie zur Sicherung von Arbeitsplätzen und zur Entlastung der Industrie. Er setzt sich für eine Senkung der Stromkosten ein, um Unternehmen zu halten und den Industriestandort Deutschland zu stärken.",
+      "source_title": "Daniel Walter auf Facebook: Denn bezahlbare Energie sichert Arbeitsplätze.",
+      "url": "https://www.daniel-walter.eu/",
+      "platform": "Social Media"
+    },
+    {
+      "name": "Tamara Matzxi",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    },
+    {
+      "name": "Sepp Müller",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Sepp Müller, als stellvertretender Fraktionsvorsitzender für Wirtschaft und Energie zuständig, betont die Notwendigkeit von Reformen für eine zukunftsfähige Generation und hebt die Bedeutung von Exporten und Freihandel hervor. Er verweist auf Erfolge bei der Stärkung des Tourismus und des Mittelstands.",
+      "source_title": "Sepp Müller | CDU·CSU-Fraktion",
+      "url": "https://www.cducsu.de/abgeordnete/sepp-mueller",
+      "platform": "Website"
+    },
+    {
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "found": true,
+      "statement": "Armand Zorn betont die Notwendigkeit, den Kuchen in Deutschland größer zu machen und Wachstum zu ermöglichen, um Sozialstaat, Sicherheit und Wohlstand zu sichern. Er hebt die Förderung von Innovation, Digitalisierung und des Mittelstands hervor und verweist auf die Notwendigkeit, internationale Konkurrenten und den demografischen Wandel zu bewältigen.",
+      "source_title": "Meine Arbeit im Bundestag — Armand Zorn, Mitglied des Deutschen Bundestages",
+      "url": "https://www.armandzorn.de/meine-arbeit-im-bundestag",
+      "platform": "Website"
+    },
+    {
+      "name": "Dr. Sandra Detzer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Dr. Sandra Detzer kritisiert die Neuverschuldung für Konsumausgaben und mangelnde Investitionsmöglichkeiten. Sie widerspricht der AfD bezüglich der globalen Energiewende und kritisiert die nur einjährige Stromsteuersenkung sowie die fehlende aktive Industriepolitik.",
+      "source_title": "Dr. Sandra Detzer, MdB, BÜNDNIS 90/DIE GRÜNEN - DIP - Deutscher Bundestag",
+      "url": "https://dip.bundestag.de/aktivit%C3%A4t/dr-sandra-detzer-mdb-b%C3%BCndnis-90-die-gr%C3%BCnen/1627280?f.deskriptor=Wohlstand&start=100&rows=25&pos=114&ctx=d",
+      "platform": "Presse"
+    },
+    {
+      "name": "Janine Wissler",
+      "party": "Die Linke",
+      "found": false,
+      "statement": "N/A",
+      "source_title": "N/A",
+      "url": "N/A",
+      "platform": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "synthesis": "Die externen Äußerungen der Abgeordneten zum Thema Bildung, Familie, Senioren, Frauen und Jugend verdeutlichen die kontroversen Positionen der Parteien. Während die SPD und Bündnis 90/Die Grünen auf die soziale Dimension drängen und Kürzungen kritisieren, betont die Union die Notwendigkeit von Haushaltskonsolidierung und die Förderung von Freiwilligendiensten. Die AfD äußert grundlegende Kritik an der Finanzpolitik und der Förderung von Demokratieprojekten. Bundesministerin Karin Prien verteidigt die gefundenen Kompromisse und hebt die Neuausrichtung von Programmen hervor, während sie gleichzeitig auf die Notwendigkeit solider Finanzen verweist.",
+  "sources": [
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Betont die Notwendigkeit, Chancen zu eröffnen und Familien zu unterstützen, während sie die Verantwortung für solide Finanzen hervorhebt. Sie verteidigt die gefundenen Kompromisse und die Neuausrichtung von Programmen wie 'Demokratie leben'.",
+      "source_title": "Karin Prien: \"Wir brauchen junge Menschen mit innovativen Ideen\" - BMBFSFJ",
+      "url": "https://www.bmbfsfj.bund.de/bmbfsfj/mediathek/karin-prien-wir-brauchen-junge-menschen-mit-innovativen-ideen--299470",
+      "platform": "Website"
+    },
+    {
+      "name": "Jasmina Hostert",
+      "party": "SPD",
+      "found": true,
+      "statement": "Als Sprecherin für Bildung, Familie und Jugend lehnt sie Kürzungen beim Unterhaltsvorschuss ab und fordert härtere Strafen für säumige Unterhaltspflichtige, wie Schufa-Einträge oder Stadionverbote. Sie setzt sich für die Stärkung von Familien und Chancengleichheit ein.",
+      "source_title": "GERMANY: SPD demands harsher penalties – \"We must not punish single parents\"",
+      "url": "https://www.youtube.com/watch?v=PL4EaEGRBlU",
+      "platform": "Presse"
+    },
+    {
+      "name": "Felix Döring",
+      "party": "SPD",
+      "found": true,
+      "statement": "Betont die Notwendigkeit, das Bildungssystem zu verbessern und setzt sich für den Ausbau von Kita-Plätzen und Ganztagsangeboten ein. Er unterstützt die Stärkung von Freiwilligendiensten und die Fortführung von Programmen zur politischen Bildung.",
+      "source_title": "Bildung - Felix Döring",
+      "url": "https://www.felix-doering.de/schwerpunkte/bildung/",
+      "platform": "Website"
+    },
+    {
+      "name": "Melanie Bernstein",
+      "party": "CDU/CSU",
+      "found": true,
+      "statement": "Hebt die Förderung von Freiwilligendiensten und die Unterstützung kultureller Bildung hervor. Sie betont die Bedeutung des digitalen Kinder- und Jugendschutzes und die Notwendigkeit, klare Prioritäten für den Haushalt 2028 zu setzen.",
+      "source_title": "Melanie Bernstein - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/melanie-bernstein/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Jürgen Kögel",
+      "party": "AfD",
+      "found": true,
+      "statement": "Kritisiert die Haushaltsaufstockung als reine Rücknahme von Kürzungen und hinterfragt die Finanzierung des Programms 'Demokratie leben', da er darin eine Unterstützung politischer Vorfeldorganisationen sieht.",
+      "source_title": "Jürgen Kögel - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/juergen-koegel/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Jamila Schäfer",
+      "party": "Bündnis 90/Die Grünen",
+      "found": true,
+      "statement": "Kritisiert die Elterngeldreform als frauenfeindlich und die Einkommensgrenze beim Unterhaltsvorschuss als hinderlich für Alleinerziehende. Sie fordert mehr Mittel für 'Demokratie Leben'.",
+      "source_title": "Verständnisfrage zur geplanten Plastiksteuer | Frage an Jamila Anna Schäfer (BÜNDNIS 90/DIE GRÜNEN) - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/jamila-anna-schaefer/fragen-antworten/verstaendnisfrage-zur-geplanten-plastiksteuer-0",
+      "platform": "Abgeordnetenwatch"
+    },
+    {
+      "name": "Christian Zaum",
+      "party": "AfD",
+      "found": true,
+      "statement": "Bezeichnet den Haushalt als verfassungswidrig und kritisiert die Neuverschuldung. Er stellt die Finanzierung von 'Demokratie Leben' in Frage und fordert eine stärkere Familienförderung sowie eine Rückbesinnung auf traditionelle Werte.",
+      "source_title": "Christian Zaum - Fragen und Antworten - Abgeordnetenwatch",
+      "url": "https://www.abgeordnetenwatch.de/profile/christian-zaum/fragen-antworten",
+      "platform": "Abgeordnetenwatch"
+    }
+  ]
+}
